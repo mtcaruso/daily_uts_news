@@ -2,8 +2,8 @@ name: Utilities Daily Digest
 
 on:
   schedule:
-    - cron: "0 23 * * 1-5"  # seg-sex 20:00 BRT, lookback 30h
-    - cron: "0 23 * * 0"    # dom 20:00 BRT, lookback 48h (cobre sex 20h → dom 20h)
+    - cron: "0 23 * * 1-4"  # seg-qui 20:00 BRT, lookback 30h
+    - cron: "0 23 * * 0"    # dom 20:00 BRT, lookback 72h (cobre qui 20h → dom 20h)
   workflow_dispatch:
 
 jobs:
@@ -21,4 +21,4 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
-          LOOKBACK_HOURS: ${{ github.event.schedule == '0 23 * * 0' && '48' || '30' }}
+          LOOKBACK_HOURS: ${{ github.event.schedule == '0 23 * * 0' && '72' || '30' }}
