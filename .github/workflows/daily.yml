@@ -2,7 +2,7 @@ name: Utilities Daily Digest
 
 on:
   schedule:
-    - cron: "0 10 * * *"  # 10:00 UTC = 07:00 BRT
+    - cron: "0 23 * * *"  # 23:00 UTC = 20:00 BRT
   workflow_dispatch:
 
 jobs:
