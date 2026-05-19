@@ -9,7 +9,7 @@ from urllib.parse import quote_plus
 import feedparser
 import requests
 
-from sources import SOURCES
+from sources import SOURCES, TITLE_REQUIRED_TERMS
 
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "30"))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", "15"))
@@ -31,6 +31,16 @@ BLOCKLIST = [
 def is_promotional(title):
     title_lower = title.lower()
     return any(term in title_lower for term in BLOCKLIST)
+
+
+_TITLE_TERM_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(t) for t in TITLE_REQUIRED_TERMS) + r")",
+    re.IGNORECASE | re.UNICODE,
+)
+
+
+def title_has_required_term(title):
+    return bool(_TITLE_TERM_RE.search(title))
 
 
 def normalize_title(title):
@@ -64,6 +74,8 @@ def fetch_source(source):
         if published < cutoff:
             continue
         if is_promotional(entry.title):
+            continue
+        if source.get("strict_title") and not title_has_required_term(entry.title):
             continue
         items.append({"title": entry.title, "link": entry.link, "published": published})
     items.sort(key=lambda i: i["published"], reverse=True)
