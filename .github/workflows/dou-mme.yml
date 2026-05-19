@@ -2,7 +2,7 @@ name: DOU MME/ANEEL Digest
 
 on:
   schedule:
-    - cron: "0 12 * * 1-5"  # 12:00 UTC = 09:00 BRT, seg-sex (DOU não publica fim de semana)
+    - cron: "0 10 * * 1-5"  # 10:00 UTC = 07:00 BRT, seg-sex (DOU não publica fim de semana)
   workflow_dispatch:
 
 jobs:
