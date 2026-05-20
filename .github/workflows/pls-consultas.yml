@@ -1,0 +1,38 @@
+name: PLs + ANEEL Consultas Públicas
+
+on:
+  schedule:
+    # 11:30 UTC = 08:30 BRT, Seg-Sex (depois do DOU às 07h)
+    - cron: "30 11 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: "Marca tudo como visto sem enviar (use no primeiro run)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python pls_consultas.py ${{ inputs.bootstrap && '--bootstrap' || '' }}
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/pls_consultas.json
+          git diff --staged --quiet || git commit -m "chore: update pls_consultas state [skip ci]"
+          git push
