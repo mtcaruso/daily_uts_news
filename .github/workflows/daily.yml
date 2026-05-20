@@ -2,8 +2,10 @@ name: Utilities Daily Digest
 
 on:
   schedule:
-    - cron: "0 23 * * 1-4"  # seg-qui 20:00 BRT, lookback 30h
-    - cron: "0 23 * * 0"    # dom 20:00 BRT, lookback 72h (cobre qui 20h → dom 20h)
+    # Seg-Qui 20:00 BRT, lookback 30h
+    - cron: "0 23 * * 1-4"
+    # Domingo 20:00 BRT, lookback 72h (cobre Qui 20h -> Dom 20h, pulando Sex/Sab)
+    - cron: "0 23 * * 0"
   workflow_dispatch:
 
 jobs:
