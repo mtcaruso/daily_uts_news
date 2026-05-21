@@ -6,6 +6,9 @@ on:
     - cron: "0 10 * * 1-5"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -21,3 +24,10 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+      - name: Commit dou_history.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dou_history.json
+          git diff --staged --quiet || git commit -m "Update DOU history [skip ci]"
+          git push

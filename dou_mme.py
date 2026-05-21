@@ -5,16 +5,21 @@ Modos:
     python dou_mme.py                    # busca data de hoje, envia por email
     python dou_mme.py --date 19-05-2026  # data específica
     python dou_mme.py --dry-run          # imprime no stdout, não envia email
+    python dou_mme.py --backfill 30      # popula dou_history.json com últimos 30 dias
 """
 import argparse
 import json
 import os
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from html import unescape
+from pathlib import Path
 
 import requests
+
+HISTORY_FILE = Path("dou_history.json")
+HISTORY_RETENTION_DAYS = 90
 
 BASE_URL = "https://www.in.gov.br/consulta/-/buscar/dou"
 HEADERS = {"User-Agent": "Mozilla/5.0 (dou-mme-digest)"}
@@ -347,6 +352,61 @@ def send_email(subject, html):
     return r.json()
 
 
+def _clean_content(html_content):
+    """Strip HTML tags do snippet do DOU."""
+    text = re.sub(r"<[^>]+>", "", html_content or "")
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def update_history(hits):
+    """Mescla hits no dou_history.json, dedupe por urlTitle, prune > N dias."""
+    if HISTORY_FILE.exists():
+        history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    else:
+        history = {"last_updated": None, "items": []}
+
+    existing_ids = {item["id"] for item in history["items"]}
+    added = 0
+
+    for hit in hits:
+        id_ = (hit.get("urlTitle") or "").strip()
+        if not id_ or id_ in existing_ids:
+            continue
+        hl = hit.get("hierarchyList", [])
+        orgao = hl[1] if len(hl) > 1 else (hl[0] if hl else "")
+        history["items"].append({
+            "id": id_,
+            "title": hit.get("title", ""),
+            "pubDate": hit.get("pubDate", ""),
+            "displayDate": hit.get("displayDate", ""),
+            "artType": hit.get("artType", ""),
+            "orgao": orgao,
+            "hierarchy": hit.get("hierarchyStr", ""),
+            "content": _clean_content(hit.get("content", "")),
+            "link": link_for(hit),
+        })
+        existing_ids.add(id_)
+        added += 1
+
+    # Prune (mantém últimos N dias)
+    cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).strftime("%Y%m%d000000")
+    before = len(history["items"])
+    history["items"] = [i for i in history["items"] if i.get("displayDate", "0") >= cutoff]
+    pruned = before - len(history["items"])
+
+    history["items"].sort(key=lambda i: i.get("displayDate", "0"), reverse=True)
+    history["last_updated"] = datetime.now().isoformat()
+
+    HISTORY_FILE.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(
+        f"[history] +{added} novos, -{pruned} antigos, total {len(history['items'])}",
+        file=sys.stderr,
+    )
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -359,10 +419,28 @@ def main():
         action="store_true",
         help="Imprime no stdout em vez de enviar email",
     )
+    parser.add_argument(
+        "--backfill",
+        type=int,
+        default=0,
+        help="Popula dou_history.json com últimos N dias (sem enviar email)",
+    )
     args = parser.parse_args()
+
+    if args.backfill > 0:
+        for i in range(args.backfill):
+            date = (datetime.now() - timedelta(days=i)).strftime("%d-%m-%Y")
+            try:
+                print(f"\n=== Backfill {date} ({i + 1}/{args.backfill}) ===", file=sys.stderr)
+                hits = collect(date, with_summary=False)
+                update_history(hits)
+            except Exception as e:
+                print(f"[backfill {date}] ERR: {e}", file=sys.stderr)
+        return
 
     print(f"Buscando DOU {args.date} (seção 1)…", file=sys.stderr)
     hits = collect(args.date)
+    update_history(hits)
     tree = group_by_taxonomy(hits)
     print(f"  {len(hits)} atos do MME/ANEEL", file=sys.stderr)
 
