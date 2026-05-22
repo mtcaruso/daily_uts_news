@@ -12,6 +12,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta
 from html import unescape
 from pathlib import Path
@@ -20,6 +21,7 @@ import requests
 
 HISTORY_FILE = Path("dou_history.json")
 HISTORY_RETENTION_DAYS = 90
+MAX_SUMMARIZE_PER_RUN = 200  # cap pra evitar estourar quota free do Gemini
 
 BASE_URL = "https://www.in.gov.br/consulta/-/buscar/dou"
 HEADERS = {"User-Agent": "Mozilla/5.0 (dou-mme-digest)"}
@@ -359,6 +361,96 @@ def _clean_content(html_content):
     return text
 
 
+_GEMINI_CLIENT = None
+
+
+def _gemini_client():
+    """Lazy init do cliente Gemini. Retorna None se chave não estiver setada."""
+    global _GEMINI_CLIENT
+    if _GEMINI_CLIENT is not None:
+        return _GEMINI_CLIENT
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return None
+    try:
+        from google import genai
+        _GEMINI_CLIENT = genai.Client(api_key=api_key)
+        return _GEMINI_CLIENT
+    except Exception as e:
+        print(f"[gemini] init falhou: {e}", file=sys.stderr)
+        return None
+
+
+def _summarize_dou_act(title, content):
+    """Resume um ato em 1-2 frases usando Gemini. Retorna None em caso de erro."""
+    client = _gemini_client()
+    if not client:
+        return None
+    try:
+        from google.genai import types
+        prompt = (
+            "Resuma este ato do DOU em PORTUGUÊS BRASILEIRO, em 1-2 frases CURTAS e DIRETAS. "
+            "Foque no QUE foi decidido (sem boilerplate jurídico tipo 'no uso de suas atribuições'). "
+            "Mantenha número de processo/resolução quando relevante.\n\n"
+            f"Título: {title}\n\n"
+            f"Trecho: {content}\n\n"
+            "Resumo (1-2 frases):"
+        )
+        r = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                temperature=0.2,
+                max_output_tokens=400,
+                thinking_config=types.ThinkingConfig(thinking_budget=0),
+            ),
+        )
+        return (r.text or "").strip() or None
+    except Exception as e:
+        print(f"[gemini] erro ao resumir: {e}", file=sys.stderr)
+        return None
+
+
+def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
+    """Adiciona campo 'summary' aos items que ainda não têm. Cap pra controlar quota."""
+    if not HISTORY_FILE.exists():
+        return 0
+    if not _gemini_client():
+        print("[summarize] GEMINI_API_KEY não definido — pulando", file=sys.stderr)
+        return 0
+
+    history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    pending = [i for i in history["items"] if not i.get("summary")]
+    if not pending:
+        print("[summarize] tudo em dia", file=sys.stderr)
+        return 0
+
+    target = pending[:limit]
+    print(f"[summarize] {len(target)}/{len(pending)} pendentes nessa rodada", file=sys.stderr)
+
+    done = 0
+    for item in target:
+        summary = _summarize_dou_act(item["title"], item["content"])
+        if summary:
+            item["summary"] = summary
+            done += 1
+            print(f"  ✓ {summary[:80]}", file=sys.stderr)
+        else:
+            # marca com string vazia pra não tentar de novo todo run
+            # (pode trocar pra None ou outro sentinel se quiser re-tentar)
+            pass
+        # Rate limit Gemini free tier: 15 RPM ≈ 1 req cada 4s.
+        time.sleep(4.2)
+
+    history["last_updated"] = datetime.now().isoformat()
+    HISTORY_FILE.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"[summarize] {done} resumos gerados, {len(pending) - done} restantes",
+          file=sys.stderr)
+    return done
+
+
 def update_history(hits):
     """Mescla hits no dou_history.json, dedupe por urlTitle, prune > N dias."""
     if HISTORY_FILE.exists():
@@ -425,7 +517,16 @@ def main():
         default=0,
         help="Popula dou_history.json com últimos N dias (sem enviar email)",
     )
+    parser.add_argument(
+        "--summarize-only",
+        action="store_true",
+        help="Apenas resume items pendentes em dou_history.json (sem scrape, sem email)",
+    )
     args = parser.parse_args()
+
+    if args.summarize_only:
+        summarize_pending_history()
+        return
 
     if args.backfill > 0:
         for i in range(args.backfill):
@@ -436,11 +537,14 @@ def main():
                 update_history(hits)
             except Exception as e:
                 print(f"[backfill {date}] ERR: {e}", file=sys.stderr)
+        # Após backfill, tenta resumir
+        summarize_pending_history()
         return
 
     print(f"Buscando DOU {args.date} (seção 1)…", file=sys.stderr)
     hits = collect(args.date)
     update_history(hits)
+    summarize_pending_history()
     tree = group_by_taxonomy(hits)
     print(f"  {len(hits)} atos do MME/ANEEL", file=sys.stderr)
 
