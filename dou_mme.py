@@ -469,14 +469,14 @@ def _summarize_dou_act(title, body, objeto=""):
             "Resumo (2-3 frases descritivas):"
         )
         r = client.models.generate_content(
-            # Usando flash-lite (quota separada da flash) pra ter 1500 RPD próprias
-            # pro workflow. Qualidade muito similar pra tarefa de sumarização.
-            model="gemini-2.5-flash-lite",
+            # Gemini 2.5 Pro: 25 RPD no free tier mas qualidade muito maior.
+            # Thinking habilitado (1024 tokens) — Pro pensa antes, output melhor.
+            model="gemini-2.5-pro",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.2,
                 max_output_tokens=600,
-                thinking_config=types.ThinkingConfig(thinking_budget=0),
+                thinking_config=types.ThinkingConfig(thinking_budget=1024),
             ),
         )
         return (r.text or "").strip() or None
