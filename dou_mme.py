@@ -447,7 +447,9 @@ def _summarize_dou_act(title, body, objeto=""):
             "Resumo (2-3 frases descritivas):"
         )
         r = client.models.generate_content(
-            model="gemini-2.5-flash",
+            # Usando flash-lite (quota separada da flash) pra ter 1500 RPD próprias
+            # pro workflow. Qualidade muito similar pra tarefa de sumarização.
+            model="gemini-2.5-flash-lite",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.2,
