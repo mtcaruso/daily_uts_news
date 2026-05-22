@@ -98,10 +98,16 @@ def text_matches(text: str, keywords: list) -> bool:
 
 # ============== NEWS ==============
 def alert_news(config: dict, state: dict, dry: bool) -> int:
+    """
+    Verifica notícias contra keywords. State['news'] guarda APENAS items já
+    ALERTADOS (não todos vistos). Assim, mudança de keyword re-avalia itens
+    antigos automaticamente.
+    """
     keywords = config.get("news_keywords", [])
     if not keywords:
         return 0
 
+    alerted = set(state.get("news", []))
     new_matches = []
     for src in NEWS_SOURCES:
         try:
@@ -111,11 +117,12 @@ def alert_news(config: dict, state: dict, dry: bool) -> int:
             continue
         for item in items:
             link = item["link"]
-            if link in state["news"]:
+            if link in alerted:
                 continue
-            state["news"].append(link)  # marca como visto (independente de match)
-            if text_matches(item["title"], keywords):
-                new_matches.append((src["name"], item))
+            if not text_matches(item["title"], keywords):
+                continue
+            new_matches.append((src["name"], item))
+            alerted.add(link)
 
     if not dry:
         for src_name, item in new_matches[:PUSH_CAP_PER_RUN]:
@@ -127,17 +134,18 @@ def alert_news(config: dict, state: dict, dry: bool) -> int:
                 tags=["newspaper"],
             )
 
+    state["news"] = list(alerted)[-STATE_CAP:]
     print(f"[news] {len(new_matches)} alertas novos")
     return len(new_matches)
 
 
 # ============== DOU ==============
 def alert_dou(config: dict, state: dict, dry: bool) -> int:
+    """State['dou'] guarda apenas items já alertados."""
     keywords = config.get("dou_keywords", [])
     if not keywords:
         return 0
 
-    # Checa DOU de hoje. Em fim de semana / feriado pode estar vazio.
     today = datetime.now().strftime("%d-%m-%Y")
     try:
         hits = dou_collect(today, with_summary=False)
@@ -145,15 +153,17 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
         print(f"[dou] erro: {e}", file=sys.stderr)
         return 0
 
+    alerted = set(state.get("dou", []))
     new_matches = []
     for hit in hits:
         hit_id = hit.get("urlTitle") or hit.get("id") or hit.get("href", "")
-        if not hit_id or hit_id in state["dou"]:
+        if not hit_id or hit_id in alerted:
             continue
-        state["dou"].append(hit_id)
         text = f"{hit.get('title', '')} {hit.get('content', '')}"
-        if text_matches(text, keywords):
-            new_matches.append(hit)
+        if not text_matches(text, keywords):
+            continue
+        new_matches.append(hit)
+        alerted.add(hit_id)
 
     if not dry:
         for hit in new_matches[:PUSH_CAP_PER_RUN]:
@@ -165,6 +175,7 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
                 tags=["classical_building"],
             )
 
+    state["dou"] = list(alerted)[-STATE_CAP:]
     print(f"[dou] {len(new_matches)} alertas novos")
     return len(new_matches)
 
@@ -223,6 +234,7 @@ def _label_cvm(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def alert_cvm(config: dict, state: dict, dry: bool) -> int:
+    """State['cvm'] guarda apenas protocolos já alertados."""
     cfg = config.get("cvm", {})
     target_empresas = set(cfg.get("empresas", []))
     target_categorias = set(cfg.get("categorias", []))
@@ -240,16 +252,16 @@ def alert_cvm(config: dict, state: dict, dry: bool) -> int:
     df = df[df["Empresa"].isin(target_empresas)]
     df = df[df["Categoria"].isin(target_categorias)]
 
+    alerted = set(state.get("cvm", []))
     new_matches = []
     for _, row in df.iterrows():
         protocol = str(row.get("Protocolo_Entrega", "")).strip()
-        if not protocol or protocol in state["cvm"]:
+        if not protocol or protocol in alerted:
             continue
-        state["cvm"].append(protocol)
         new_matches.append(row)
+        alerted.add(protocol)
 
     if not dry:
-        # Ordena por data crescente: notificação mais recente é a última (no topo da lista)
         new_matches.sort(key=lambda r: r.get("Data_Entrega", ""))
         for row in new_matches[:PUSH_CAP_PER_RUN]:
             empresa = row["Empresa"]
@@ -265,6 +277,7 @@ def alert_cvm(config: dict, state: dict, dry: bool) -> int:
                 tags=["scroll"],
             )
 
+    state["cvm"] = list(alerted)[-STATE_CAP:]
     print(f"[cvm] {len(new_matches)} alertas novos")
     return len(new_matches)
 
@@ -272,33 +285,15 @@ def alert_cvm(config: dict, state: dict, dry: bool) -> int:
 # ============== MAIN ==============
 def main():
     state = load_state()
-    first_run = all(len(state[k]) == 0 for k in ("news", "dou", "cvm"))
-
-    if first_run:
-        print("=== Primeiro run: populando state SEM enviar alertas ===")
-        print("(senão você receberia spam de todo histórico que matcha)")
-        dry = True
-    else:
-        dry = False
-
+    # Não tem mais first-run dry mode: agora state só guarda items ALERTADOS,
+    # então mudanças de keyword re-avaliam tudo naturalmente.
+    # PUSH_CAP_PER_RUN limita o burst de notificações.
     total = 0
-    total += alert_news(CONFIG, state, dry=dry)
-    total += alert_dou(CONFIG, state, dry=dry)
-    total += alert_cvm(CONFIG, state, dry=dry)
-
+    total += alert_news(CONFIG, state, dry=False)
+    total += alert_dou(CONFIG, state, dry=False)
+    total += alert_cvm(CONFIG, state, dry=False)
     save_state(state)
-
-    if first_run:
-        print(f"State populado com {sum(len(state[k]) for k in state)} IDs. Alertas começam a valer no próximo run.")
-        # Notifica que o sistema está ativo
-        send_ntfy(
-            CONFIG["ntfy_topic"],
-            "✅ Alertas Utilities ativos",
-            f"Sistema configurado. Você vai receber push a cada match novo (check a cada 30min).",
-            tags=["white_check_mark"],
-        )
-    else:
-        print(f"Total: {total} push notifications enviados")
+    print(f"Total: {total} push notifications enviados")
 
 
 if __name__ == "__main__":
