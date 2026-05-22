@@ -418,27 +418,40 @@ def _gemini_client():
         return None
 
 
-def _summarize_dou_act(title, body):
-    """Resume um ato em 1-2 frases usando Gemini. Retorna None em caso de erro."""
+def _summarize_dou_act(title, body, objeto=""):
+    """Resume um ato em 2-3 frases usando Gemini. Retorna None em caso de erro."""
     client = _gemini_client()
     if not client:
         return None
     try:
         from google.genai import types
+        objeto_hint = (
+            f"\nObjeto declarado: {objeto}\n"
+            if objeto else ""
+        )
         prompt = (
-            "Resuma este ato do DOU em PORTUGUÊS BRASILEIRO, em 1-2 frases CURTAS e DIRETAS. "
-            "Foque no QUE foi decidido (sem boilerplate jurídico tipo 'no uso de suas atribuições'). "
-            "Mantenha número de processo/resolução e nomes de empresas quando relevante.\n\n"
-            f"Título: {title}\n\n"
-            f"Texto:\n{body}\n\n"
-            "Resumo (1-2 frases):"
+            "Você é um analista do setor brasileiro de utilities (energia elétrica e saneamento) "
+            "resumindo atos do DOU pra um colega que precisa decidir rápido se o ato merece atenção.\n\n"
+            "REGRAS:\n"
+            "- Resuma em 2-3 frases EM PORTUGUÊS BRASILEIRO.\n"
+            "- Diga COM CLAREZA o que foi decidido/autorizado/homologado/aplicado/cancelado.\n"
+            "- Cite EMPRESAS, USINAS, PROJETOS, VALORES e DATAS específicas (não 'algo').\n"
+            "- Use o trecho 'Objeto:' como guia principal se aparecer.\n"
+            "- PULE boilerplate jurídico ('no uso de suas atribuições', 'considerando os autos', etc.).\n"
+            "- Se houver dados sobre EMPRESAS DO SETOR REGULADO (transmissoras, distribuidoras, "
+            "geradoras, saneamento), destaque o nome.\n"
+            "- Se for ato administrativo genérico (recurso, exigência, etc.) que NÃO tem impacto "
+            "material, diga apenas 'Recurso administrativo de [empresa] sobre [processo]'.\n\n"
+            f"Título: {title}\n{objeto_hint}"
+            f"\nTexto completo:\n{body}\n\n"
+            "Resumo (2-3 frases descritivas):"
         )
         r = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.2,
-                max_output_tokens=400,
+                max_output_tokens=600,
                 thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
@@ -496,7 +509,7 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
 
         # 2. Summarize usando texto completo (muito melhor que snippet boilerplate)
         body_for_summary = full_text or item.get("content", "")
-        summary = _summarize_dou_act(item["title"], body_for_summary)
+        summary = _summarize_dou_act(item["title"], body_for_summary, objeto or item.get("objeto", ""))
         if summary:
             item["summary"] = summary
             done += 1
