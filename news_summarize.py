@@ -237,13 +237,17 @@ def main():
     # Fetch todas as fontes (mesma lógica do digest.py)
     print(f"[news_summarize] Fetching {len(SOURCES)} sources…", file=sys.stderr)
     all_items = []
+    source_counts = {}
     for src in SOURCES:
         try:
             items = fetch_news(src)
-            print(f"  [{src['name']}] {len(items)} items", file=sys.stderr)
+            n = len(items)
+            print(f"  [{src['name']}] {n} items", file=sys.stderr)
+            source_counts[src['name']] = n
             all_items.extend(items)
         except Exception as e:
             print(f"[fetch] {src['name']}: {e}", file=sys.stderr)
+            source_counts[src['name']] = f"ERR: {e}"
     print(f"[news_summarize] {len(all_items)} items coletados", file=sys.stderr)
 
     # Dedupe por URL
@@ -323,6 +327,20 @@ def main():
     print(f"[news_summarize] {done} novos summaries, {pruned} antigos podados", file=sys.stderr)
     if _FETCH_FAIL_REASONS:
         print(f"[news_summarize] Fail breakdown: {_FETCH_FAIL_REASONS}", file=sys.stderr)
+
+    # Dump diagnóstico pra debug remoto (commitado junto)
+    diag = {
+        "last_run": datetime.now().isoformat(),
+        "source_counts": source_counts,
+        "all_items_total": len(all_items),
+        "pending_count": len(pending),
+        "done": done,
+        "pruned": pruned,
+        "fetch_fail_reasons": _FETCH_FAIL_REASONS,
+    }
+    Path("news_diagnostic.json").write_text(
+        json.dumps(diag, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 def _save(history):
