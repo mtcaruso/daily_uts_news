@@ -463,49 +463,63 @@ def _gemini_client():
 
 
 def _summarize_dou_act(title, body, objeto=""):
-    """Resume um ato em 2-3 frases usando Gemini. Retorna None em caso de erro."""
+    """
+    Resume um ato em 2-3 frases usando Gemini.
+    Faz retry com backoff em 503 (high demand) — server-side transient.
+    Retorna None em caso de erro definitivo.
+    """
     client = _gemini_client()
     if not client:
         return None
-    try:
-        from google.genai import types
-        objeto_hint = (
-            f"\nObjeto declarado: {objeto}\n"
-            if objeto else ""
-        )
-        prompt = (
-            "Você é um analista do setor brasileiro de utilities (energia elétrica e saneamento) "
-            "resumindo atos do DOU pra um colega que precisa decidir rápido se o ato merece atenção.\n\n"
-            "REGRAS:\n"
-            "- Resuma em 2-3 frases EM PORTUGUÊS BRASILEIRO.\n"
-            "- Diga COM CLAREZA o que foi decidido/autorizado/homologado/aplicado/cancelado.\n"
-            "- Cite EMPRESAS, USINAS, PROJETOS, VALORES e DATAS específicas (não 'algo').\n"
-            "- Use o trecho 'Objeto:' como guia principal se aparecer.\n"
-            "- PULE boilerplate jurídico ('no uso de suas atribuições', 'considerando os autos', etc.).\n"
-            "- Se houver dados sobre EMPRESAS DO SETOR REGULADO (transmissoras, distribuidoras, "
-            "geradoras, saneamento), destaque o nome.\n"
-            "- Se for ato administrativo genérico (recurso, exigência, etc.) que NÃO tem impacto "
-            "material, diga apenas 'Recurso administrativo de [empresa] sobre [processo]'.\n\n"
-            f"Título: {title}\n{objeto_hint}"
-            f"\nTexto completo:\n{body}\n\n"
-            "Resumo (2-3 frases descritivas):"
-        )
-        r = client.models.generate_content(
-            # Gemini 2.5 Flash: melhor balanço qualidade x velocidade x custo.
-            # Com billing ativo: free tier 1500 RPD + paga overage (~$0.001/call).
-            # Thinking desabilitado pra ser mais rápido — qualidade já é boa.
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                temperature=0.2,
-                max_output_tokens=600,
-                thinking_config=types.ThinkingConfig(thinking_budget=0),
-            ),
-        )
-        return (r.text or "").strip() or None
-    except Exception as e:
-        print(f"[gemini] erro ao resumir: {e}", file=sys.stderr)
-        return None
+
+    from google.genai import types
+    objeto_hint = (
+        f"\nObjeto declarado: {objeto}\n"
+        if objeto else ""
+    )
+    prompt = (
+        "Você é um analista do setor brasileiro de utilities (energia elétrica e saneamento) "
+        "resumindo atos do DOU pra um colega que precisa decidir rápido se o ato merece atenção.\n\n"
+        "REGRAS:\n"
+        "- Resuma em 2-3 frases EM PORTUGUÊS BRASILEIRO.\n"
+        "- Diga COM CLAREZA o que foi decidido/autorizado/homologado/aplicado/cancelado.\n"
+        "- Cite EMPRESAS, USINAS, PROJETOS, VALORES e DATAS específicas (não 'algo').\n"
+        "- Use o trecho 'Objeto:' como guia principal se aparecer.\n"
+        "- PULE boilerplate jurídico ('no uso de suas atribuições', 'considerando os autos', etc.).\n"
+        "- Se houver dados sobre EMPRESAS DO SETOR REGULADO (transmissoras, distribuidoras, "
+        "geradoras, saneamento), destaque o nome.\n"
+        "- Se for ato administrativo genérico (recurso, exigência, etc.) que NÃO tem impacto "
+        "material, diga apenas 'Recurso administrativo de [empresa] sobre [processo]'.\n\n"
+        f"Título: {title}\n{objeto_hint}"
+        f"\nTexto completo:\n{body}\n\n"
+        "Resumo (2-3 frases descritivas):"
+    )
+
+    for attempt in range(4):
+        try:
+            r = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.2,
+                    max_output_tokens=600,
+                    thinking_config=types.ThinkingConfig(thinking_budget=0),
+                ),
+            )
+            return (r.text or "").strip() or None
+        except Exception as e:
+            err_str = str(e)
+            # Retry em 503 (UNAVAILABLE, high demand) — transitório do lado Google
+            if "503" in err_str or "UNAVAILABLE" in err_str or "high demand" in err_str.lower():
+                if attempt < 3:
+                    wait = 10 * (attempt + 1)  # 10s, 20s, 30s
+                    print(f"[gemini] 503 unavailable, retry {attempt + 1}/4 em {wait}s", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+            # Outros erros (429 quota, etc.) ou esgotou retries: log e desiste
+            print(f"[gemini] erro ao resumir: {e}", file=sys.stderr)
+            return None
+    return None
 
 
 def _save_history(history):
