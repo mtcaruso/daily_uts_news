@@ -415,8 +415,20 @@ def _summarize_dou_act(title, content):
         return None
 
 
+def _save_history(history):
+    """Persiste o histórico no arquivo JSON."""
+    history["last_updated"] = datetime.now().isoformat()
+    HISTORY_FILE.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
 def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
-    """Adiciona campo 'summary' aos items que ainda não têm. Cap pra controlar quota."""
+    """
+    Adiciona campo 'summary' aos items que ainda não têm. Cap pra controlar quota.
+    Salva incremental a cada 25 items pra não perder progresso em caso de crash/timeout.
+    Para imediatamente se detectar 5 erros consecutivos (provável quota hit).
+    """
     if not HISTORY_FILE.exists():
         return 0
     if not _gemini_client():
@@ -433,25 +445,36 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
     print(f"[summarize] {len(target)}/{len(pending)} pendentes nessa rodada", file=sys.stderr)
 
     done = 0
-    for item in target:
+    consecutive_failures = 0
+    SAVE_EVERY = 25
+    MAX_CONSECUTIVE_FAILURES = 5  # provavelmente quota hit, para de tentar
+
+    for i, item in enumerate(target, 1):
         summary = _summarize_dou_act(item["title"], item["content"])
         if summary:
             item["summary"] = summary
             done += 1
-            print(f"  ✓ {summary[:80]}", file=sys.stderr)
+            consecutive_failures = 0
+            print(f"  ✓ [{i}/{len(target)}] {summary[:80]}", file=sys.stderr)
         else:
-            # marca com string vazia pra não tentar de novo todo run
-            # (pode trocar pra None ou outro sentinel se quiser re-tentar)
-            pass
+            consecutive_failures += 1
+            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                print(
+                    f"[summarize] {MAX_CONSECUTIVE_FAILURES} falhas consecutivas — "
+                    f"provavelmente quota Gemini esgotada. Parando.",
+                    file=sys.stderr,
+                )
+                break
+        # Save incremental
+        if i % SAVE_EVERY == 0:
+            _save_history(history)
+            print(f"[summarize] checkpoint salvo ({done} resumos até agora)", file=sys.stderr)
         # Rate limit Gemini free tier: 15 RPM ≈ 1 req cada 4s.
         time.sleep(4.2)
 
-    history["last_updated"] = datetime.now().isoformat()
-    HISTORY_FILE.write_text(
-        json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
-    )
-    print(f"[summarize] {done} resumos gerados, {len(pending) - done} restantes",
-          file=sys.stderr)
+    # Save final
+    _save_history(history)
+    print(f"[summarize] {done} resumos gerados nessa rodada", file=sys.stderr)
     return done
 
 
