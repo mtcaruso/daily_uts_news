@@ -368,37 +368,59 @@ def _clean_content(html_content):
 _GEMINI_CLIENT = None
 
 
-def _fetch_full_dou(link: str) -> tuple[str, str]:
+def _fetch_full_dou(link: str, max_retries: int = 3) -> tuple[str, str]:
     """
     Fetcha página DOU em in.gov.br e retorna (texto_completo, objeto).
-    'objeto' é o trecho após 'Objeto:' até 'A íntegra' ou fim do parágrafo.
-    Retorna ("", "") em caso de erro.
+    Faz retry com backoff exponencial em caso de 502/503/timeout do in.gov.br.
+    Retorna ("", "") se todas as tentativas falharem.
     """
     if not link:
         return "", ""
-    try:
-        import trafilatura
-        r = requests.get(
-            link,
-            headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "pt-BR"},
-            timeout=15,
-        )
-        if r.status_code != 200:
+
+    import trafilatura
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "pt-BR,pt;q=0.9",
+    }
+
+    for attempt in range(max_retries):
+        try:
+            r = requests.get(link, headers=headers, timeout=20)
+            if r.status_code in (502, 503, 504):
+                # in.gov.br instabilidade — retry com backoff
+                wait = 2 ** attempt  # 1, 2, 4 segundos
+                print(f"[fetch_full] {r.status_code} no in.gov.br, tentativa {attempt + 1}/{max_retries}, aguardando {wait}s",
+                      file=sys.stderr)
+                time.sleep(wait)
+                continue
+            if r.status_code != 200:
+                return "", ""
+            text = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
+            if not text:
+                return "", ""
+            m = re.search(
+                r"Objeto\s*:\s*(.+?)(?:\s*A\s+íntegra|\n\n|$)",
+                text,
+                re.IGNORECASE | re.DOTALL,
+            )
+            objeto = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+            return text[:8000], objeto
+        except requests.RequestException as e:
+            wait = 2 ** attempt
+            print(f"[fetch_full] {type(e).__name__}: {e}, tentativa {attempt + 1}/{max_retries}, aguardando {wait}s",
+                  file=sys.stderr)
+            time.sleep(wait)
+            continue
+        except Exception as e:
+            print(f"[fetch_full] erro: {e}", file=sys.stderr)
             return "", ""
-        text = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
-        if not text:
-            return "", ""
-        # Extrai "Objeto: ... (até 'A íntegra' ou \n\n ou fim)"
-        m = re.search(
-            r"Objeto\s*:\s*(.+?)(?:\s*A\s+íntegra|\n\n|$)",
-            text,
-            re.IGNORECASE | re.DOTALL,
-        )
-        objeto = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
-        return text[:8000], objeto
-    except Exception as e:
-        print(f"[fetch_full] erro: {e}", file=sys.stderr)
-        return "", ""
+
+    print(f"[fetch_full] {max_retries} tentativas falharam pra {link[:60]}", file=sys.stderr)
+    return "", ""
 
 
 def _gemini_client():
@@ -501,7 +523,7 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
     done = 0
     consecutive_failures = 0
     SAVE_EVERY = 25
-    MAX_CONSECUTIVE_FAILURES = 5  # provavelmente quota hit, para de tentar
+    MAX_CONSECUTIVE_FAILURES = 15  # tolera mais (in.gov.br tem 502 esporádicos)
 
     for i, item in enumerate(target, 1):
         # 1. Fetch full text + extract Objeto (sempre faz, não custa quota Gemini)
