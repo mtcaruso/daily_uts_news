@@ -73,11 +73,27 @@ def send_ntfy(topic: str, title: str, body: str, click_url: str | None = None,
 
 
 # ============== MATCHING ==============
-def text_matches(text: str, keywords: list[str]) -> bool:
+def text_matches(text: str, keywords: list) -> bool:
+    """
+    Match se QUALQUER keyword bater. Cada keyword pode ser:
+      - str: match por substring (case-insensitive)
+      - list[str]: TODOS os substrings devem aparecer (AND lógico)
+
+    Ex.: ["LRCAP", ["fato relevante", "Eletrobras"]] dispara em:
+      - qualquer texto contendo "LRCAP"
+      - OU texto contendo AMBOS "fato relevante" e "Eletrobras"
+    """
     if not text or not keywords:
         return False
     text_lower = text.lower()
-    return any(k.lower() in text_lower for k in keywords)
+    for k in keywords:
+        if isinstance(k, str):
+            if k.lower() in text_lower:
+                return True
+        elif isinstance(k, (list, tuple)):
+            if all(kw.lower() in text_lower for kw in k):
+                return True
+    return False
 
 
 # ============== NEWS ==============
