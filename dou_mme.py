@@ -491,14 +491,15 @@ def _summarize_dou_act(title, body, objeto=""):
             "Resumo (2-3 frases descritivas):"
         )
         r = client.models.generate_content(
-            # Gemini 2.5 Pro: 25 RPD no free tier mas qualidade muito maior.
-            # Thinking habilitado (1024 tokens) — Pro pensa antes, output melhor.
-            model="gemini-2.5-pro",
+            # Gemini 2.5 Flash: melhor balanço qualidade x velocidade x custo.
+            # Com billing ativo: free tier 1500 RPD + paga overage (~$0.001/call).
+            # Thinking desabilitado pra ser mais rápido — qualidade já é boa.
+            model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 temperature=0.2,
                 max_output_tokens=600,
-                thinking_config=types.ThinkingConfig(thinking_budget=1024),
+                thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
         return (r.text or "").strip() or None
