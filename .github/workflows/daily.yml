@@ -8,6 +8,9 @@ on:
     - cron: "0 23 * * 0"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -24,3 +27,16 @@ jobs:
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
           LOOKBACK_HOURS: ${{ github.event.schedule == '0 23 * * 0' && '72' || '30' }}
+      - name: Gerar summaries das notícias
+        run: python news_summarize.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LOOKBACK_HOURS: ${{ github.event.schedule == '0 23 * * 0' && '72' || '30' }}
+      - name: Commit news_history.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news_history.json
+          git diff --staged --quiet || git commit -m "Update news history [skip ci]"
+          git pull --rebase origin main || true
+          git push
