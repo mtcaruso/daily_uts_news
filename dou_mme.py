@@ -21,7 +21,11 @@ import requests
 
 HISTORY_FILE = Path("dou_history.json")
 HISTORY_RETENTION_DAYS = 90
-MAX_SUMMARIZE_PER_RUN = 200  # cap pra evitar estourar quota free do Gemini
+# Cap pra evitar estourar quota free do Gemini (1500 RPD pra gemini-2.5-flash).
+# 1500 = 1 run consegue processar quase 1 dia inteiro de quota.
+# Cada item leva ~4.2s (rate limit 15 RPM) → 1500 items = ~105 min.
+# GHA tem timeout default de 6h, então fica folgado.
+MAX_SUMMARIZE_PER_RUN = 1500
 
 BASE_URL = "https://www.in.gov.br/consulta/-/buscar/dou"
 HEADERS = {"User-Agent": "Mozilla/5.0 (dou-mme-digest)"}
