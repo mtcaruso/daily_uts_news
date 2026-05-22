@@ -58,8 +58,30 @@ def fetch_page(date_str, query, page):
         "currentPage": page,
         "newPage": page,
     }
-    r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
-    r.raise_for_status()
+    # Retry com backoff em 502/503/504 (in.gov.br instável)
+    for attempt in range(3):
+        try:
+            r = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=30)
+            if r.status_code in (502, 503, 504):
+                wait = 2 ** attempt
+                print(f"[fetch_page] {r.status_code} no in.gov.br query={query!r} page={page}, tentativa {attempt + 1}/3, aguardando {wait}s",
+                      file=sys.stderr)
+                import time as _t
+                _t.sleep(wait)
+                continue
+            r.raise_for_status()
+            break
+        except requests.RequestException as e:
+            if attempt == 2:
+                # Última tentativa falhou — retorna vazio em vez de crashar workflow
+                print(f"[fetch_page] 3 tentativas falharam pra query={query!r} page={page}: {e}",
+                      file=sys.stderr)
+                return [], 0
+            import time as _t
+            _t.sleep(2 ** attempt)
+    else:
+        return [], 0
+
     m = re.search(
         r'_BuscaDouPortlet_params"[^>]*>\s*(\{.*?\})\s*</script>',
         r.text,
