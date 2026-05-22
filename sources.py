@@ -35,9 +35,9 @@ def _q(domain, sector_only=False):
 
 
 SOURCES = [
-    {"name": "Valor",          "query": _q("valor.globo.com"),    "strict_title": True},
-    {"name": "Pipeline",       "query": _q("pipelinevalor.globo.com")},
-    {"name": "Brazil Journal", "query": _q("braziljournal.com")},
+    {"name": "Valor",          "query": _q("valor.globo.com"),         "strict_title": True},
+    {"name": "Pipeline",       "query": _q("pipelinevalor.globo.com"), "strict_title": True},
+    {"name": "Brazil Journal", "query": _q("braziljournal.com"),       "strict_title": True},
     {"name": "Folha",          "query": _q("folha.uol.com.br"),   "strict_title": True},
     {"name": "Estadão",        "query": _q("estadao.com.br"),     "strict_title": True},
     {"name": "Agência Infra",  "query": _q("agenciainfra.com")},
