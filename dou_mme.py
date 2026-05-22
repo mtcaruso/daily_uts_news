@@ -469,7 +469,13 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
         return 0
 
     history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
-    pending = [i for i in history["items"] if not i.get("summary")]
+    # Items pendentes: sem summary OU sem objeto (objeto é novo, indica que
+    # o item foi processado pela versão antiga sem fetch full text → resumo
+    # provavelmente raso. Re-processa com o full text).
+    pending = [
+        i for i in history["items"]
+        if not i.get("summary") or not i.get("objeto")
+    ]
     if not pending:
         print("[summarize] tudo em dia", file=sys.stderr)
         return 0
