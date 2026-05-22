@@ -58,12 +58,60 @@ _PAYWALL_MARKERS = [
     "você atingiu o limite de matérias",
 ]
 
+# Padrão que aparece muito quando trafilatura captura sidebar de "notícias relacionadas"
+# (ex: "21 de maio de 2026", "20 de maio de 2026" repetidos)
+_DATE_LIST_RE = re.compile(
+    r"\d{1,2}\s+de\s+(?:janeiro|fevereiro|março|abril|maio|junho|julho|"
+    r"agosto|setembro|outubro|novembro|dezembro)\s+de\s+\d{4}",
+    re.IGNORECASE,
+)
+
 
 def _is_paywall(text):
     if not text or len(text) < 300:
         return True
     tail = text[-500:].lower()
     return any(m in tail for m in _PAYWALL_MARKERS)
+
+
+def _looks_like_sidebar(text):
+    """Detecta quando trafilatura pegou lista de notícias relacionadas
+    em vez do corpo (CanalEnergia, alguns Next.js)."""
+    if not text:
+        return False
+    # 3+ datas no texto = provavelmente sidebar list de related news
+    return len(_DATE_LIST_RE.findall(text)) >= 3
+
+
+def _extract_meta_description(html_bytes):
+    """Extrai descrição estruturada (JSON-LD ou <meta name=description>).
+    Útil como fallback quando o body é JS-hidratado."""
+    try:
+        html = html_bytes.decode("utf-8", errors="ignore") if isinstance(html_bytes, bytes) else html_bytes
+    except Exception:
+        return ""
+    # JSON-LD description (preferido — geralmente é o lead/sub-headline)
+    m = re.search(
+        r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',
+        html, re.DOTALL | re.IGNORECASE,
+    )
+    if m:
+        ld = m.group(1)
+        # pega "description":"..." (handles JSON escape)
+        d = re.search(r'"description"\s*:\s*"((?:[^"\\]|\\.)*)"', ld)
+        if d:
+            desc = d.group(1).replace('\\"', '"').replace("\\/", "/")
+            if len(desc) > 80:
+                return desc[:1500]
+    # Fallback: meta og:description ou name=description
+    for pat in [
+        r'<meta[^>]*property=["\']og:description["\'][^>]*content=["\']([^"\']+)["\']',
+        r'<meta[^>]*name=["\']description["\'][^>]*content=["\']([^"\']+)["\']',
+    ]:
+        m = re.search(pat, html, re.IGNORECASE)
+        if m and len(m.group(1)) > 80:
+            return m.group(1)[:1500]
+    return ""
 
 
 def _resolve_url(google_news_url):
@@ -93,6 +141,15 @@ def _fetch_article(google_news_url, max_retries=2):
             if r.status_code != 200:
                 return ""
             text = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
+            # Fallback pra sites SPA/JS-hidratados (CanalEnergia & cia):
+            # trafilatura captura só sidebar de related news. Usa meta description / JSON-LD.
+            if not text or _looks_like_sidebar(text):
+                meta_desc = _extract_meta_description(r.content)
+                if meta_desc:
+                    # Pega o título (1a linha do trafilatura) + meta descrição, se houver
+                    first_line = (text or "").split("\n")[0].strip() if text else ""
+                    combined = (first_line + ". " + meta_desc) if first_line and first_line.lower() not in meta_desc.lower() else meta_desc
+                    return combined[:6000]
             if _is_paywall(text or ""):
                 return ""
             return text[:6000]
@@ -107,7 +164,7 @@ def _summarize(title, body):
     client = _gemini_client()
     if not client:
         return None
-    if not body or len(body) < 100:
+    if not body or len(body) < 80:
         return None
     try:
         from google.genai import types
@@ -158,7 +215,13 @@ def main():
         history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
     else:
         history = {"last_updated": None, "items": {}}
-    seen_urls = set(history.get("items", {}).keys())
+    # Considera "seen" só itens com summary OK ou paywall summarize_failed.
+    # Itens com error=no_article serão reprocessados (o fix do meta-description
+    # pode resgatar parte deles).
+    seen_urls = {
+        url for url, v in history.get("items", {}).items()
+        if v.get("summary") or v.get("error") == "summarize_failed"
+    }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
     print(f"[news_summarize] Fetching {len(SOURCES)} sources…", file=sys.stderr)
