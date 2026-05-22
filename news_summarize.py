@@ -125,20 +125,28 @@ def _resolve_url(google_news_url):
     return None
 
 
+_FETCH_FAIL_REASONS = {}  # diagnostic: {reason: count}
+
+
 def _fetch_article(google_news_url, max_retries=2):
     """Fetcha o artigo real (não a página do Google News). Retorna texto ou ""."""
     real_url = _resolve_url(google_news_url)
     if not real_url:
+        _FETCH_FAIL_REASONS["resolve_failed"] = _FETCH_FAIL_REASONS.get("resolve_failed", 0) + 1
         return ""
     for attempt in range(max_retries):
         try:
             r = requests.get(real_url, headers=HEADERS, timeout=15, allow_redirects=True)
             if r.status_code == 403:
+                _FETCH_FAIL_REASONS["http_403"] = _FETCH_FAIL_REASONS.get("http_403", 0) + 1
                 return ""  # paywall hard
             if r.status_code in (502, 503, 504):
+                if attempt == max_retries - 1:
+                    _FETCH_FAIL_REASONS[f"http_{r.status_code}"] = _FETCH_FAIL_REASONS.get(f"http_{r.status_code}", 0) + 1
                 time.sleep(2 ** attempt)
                 continue
             if r.status_code != 200:
+                _FETCH_FAIL_REASONS[f"http_{r.status_code}"] = _FETCH_FAIL_REASONS.get(f"http_{r.status_code}", 0) + 1
                 return ""
             text = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
             # Fallback pra sites SPA/JS-hidratados (CanalEnergia & cia):
@@ -146,14 +154,17 @@ def _fetch_article(google_news_url, max_retries=2):
             if not text or _looks_like_sidebar(text):
                 meta_desc = _extract_meta_description(r.content)
                 if meta_desc:
-                    # Pega o título (1a linha do trafilatura) + meta descrição, se houver
                     first_line = (text or "").split("\n")[0].strip() if text else ""
                     combined = (first_line + ". " + meta_desc) if first_line and first_line.lower() not in meta_desc.lower() else meta_desc
                     return combined[:6000]
+                else:
+                    _FETCH_FAIL_REASONS["no_meta_desc"] = _FETCH_FAIL_REASONS.get("no_meta_desc", 0) + 1
             if _is_paywall(text or ""):
+                _FETCH_FAIL_REASONS["paywall_or_short"] = _FETCH_FAIL_REASONS.get("paywall_or_short", 0) + 1
                 return ""
             return text[:6000]
-        except requests.RequestException:
+        except requests.RequestException as e:
+            _FETCH_FAIL_REASONS[f"exc_{type(e).__name__}"] = _FETCH_FAIL_REASONS.get(f"exc_{type(e).__name__}", 0) + 1
             time.sleep(2 ** attempt)
             continue
     return ""
@@ -229,6 +240,7 @@ def main():
     for src in SOURCES:
         try:
             items = fetch_news(src)
+            print(f"  [{src['name']}] {len(items)} items", file=sys.stderr)
             all_items.extend(items)
         except Exception as e:
             print(f"[fetch] {src['name']}: {e}", file=sys.stderr)
@@ -309,6 +321,8 @@ def main():
 
     _save(history)
     print(f"[news_summarize] {done} novos summaries, {pruned} antigos podados", file=sys.stderr)
+    if _FETCH_FAIL_REASONS:
+        print(f"[news_summarize] Fail breakdown: {_FETCH_FAIL_REASONS}", file=sys.stderr)
 
 
 def _save(history):
