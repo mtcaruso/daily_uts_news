@@ -40,7 +40,8 @@ SOURCES = [
     {"name": "Brazil Journal", "query": _q("braziljournal.com"),       "strict_title": True},
     {"name": "Folha",          "query": _q("folha.uol.com.br"),   "strict_title": True},
     {"name": "Estadão",        "query": _q("estadao.com.br"),     "strict_title": True},
-    {"name": "Agência Infra",  "query": _q("agenciainfra.com")},
+    # Filtro por path da URL: pega só as seções /energia, /agua e /esgoto do site
+    {"name": "Agência Infra",  "query": "site:agenciainfra.com (inurl:energia OR inurl:agua OR inurl:esgoto)"},
     {"name": "Canal Energia",  "query": _q("canalenergia.com.br", sector_only=True)},
     {"name": "Megawhat",       "query": _q("megawhat.uol.com.br", sector_only=True)},
 ]
