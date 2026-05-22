@@ -261,14 +261,20 @@ def alert_cvm(config: dict, state: dict, dry: bool) -> int:
         new_matches.append(row)
         alerted.add(protocol)
 
+    def _s(val) -> str:
+        """Converte NaN/None pra string vazia (pandas retorna NaN em campos vazios)."""
+        if val is None or (isinstance(val, float) and pd.isna(val)):
+            return ""
+        return str(val)
+
     if not dry:
-        new_matches.sort(key=lambda r: r.get("Data_Entrega", ""))
+        new_matches.sort(key=lambda r: _s(r.get("Data_Entrega")))
         for row in new_matches[:PUSH_CAP_PER_RUN]:
-            empresa = row["Empresa"]
-            categoria = row.get("Categoria", "?")
-            tipo = row.get("Tipo") or ""
-            assunto = row.get("Assunto") or tipo or "(sem assunto)"
-            link = row.get("Link_Download", "")
+            empresa = _s(row.get("Empresa"))
+            categoria = _s(row.get("Categoria")) or "?"
+            tipo = _s(row.get("Tipo"))
+            assunto = _s(row.get("Assunto")) or tipo or "(sem assunto)"
+            link = _s(row.get("Link_Download"))
             send_ntfy(
                 config["ntfy_topic"],
                 f"📋 {empresa} · {categoria}",
