@@ -368,6 +368,39 @@ def _clean_content(html_content):
 _GEMINI_CLIENT = None
 
 
+def _fetch_full_dou(link: str) -> tuple[str, str]:
+    """
+    Fetcha página DOU em in.gov.br e retorna (texto_completo, objeto).
+    'objeto' é o trecho após 'Objeto:' até 'A íntegra' ou fim do parágrafo.
+    Retorna ("", "") em caso de erro.
+    """
+    if not link:
+        return "", ""
+    try:
+        import trafilatura
+        r = requests.get(
+            link,
+            headers={"User-Agent": "Mozilla/5.0", "Accept-Language": "pt-BR"},
+            timeout=15,
+        )
+        if r.status_code != 200:
+            return "", ""
+        text = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
+        if not text:
+            return "", ""
+        # Extrai "Objeto: ... (até 'A íntegra' ou \n\n ou fim)"
+        m = re.search(
+            r"Objeto\s*:\s*(.+?)(?:\s*A\s+íntegra|\n\n|$)",
+            text,
+            re.IGNORECASE | re.DOTALL,
+        )
+        objeto = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+        return text[:8000], objeto
+    except Exception as e:
+        print(f"[fetch_full] erro: {e}", file=sys.stderr)
+        return "", ""
+
+
 def _gemini_client():
     """Lazy init do cliente Gemini. Retorna None se chave não estiver setada."""
     global _GEMINI_CLIENT
@@ -385,7 +418,7 @@ def _gemini_client():
         return None
 
 
-def _summarize_dou_act(title, content):
+def _summarize_dou_act(title, body):
     """Resume um ato em 1-2 frases usando Gemini. Retorna None em caso de erro."""
     client = _gemini_client()
     if not client:
@@ -395,9 +428,9 @@ def _summarize_dou_act(title, content):
         prompt = (
             "Resuma este ato do DOU em PORTUGUÊS BRASILEIRO, em 1-2 frases CURTAS e DIRETAS. "
             "Foque no QUE foi decidido (sem boilerplate jurídico tipo 'no uso de suas atribuições'). "
-            "Mantenha número de processo/resolução quando relevante.\n\n"
+            "Mantenha número de processo/resolução e nomes de empresas quando relevante.\n\n"
             f"Título: {title}\n\n"
-            f"Trecho: {content}\n\n"
+            f"Texto:\n{body}\n\n"
             "Resumo (1-2 frases):"
         )
         r = client.models.generate_content(
@@ -450,7 +483,14 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
     MAX_CONSECUTIVE_FAILURES = 5  # provavelmente quota hit, para de tentar
 
     for i, item in enumerate(target, 1):
-        summary = _summarize_dou_act(item["title"], item["content"])
+        # 1. Fetch full text + extract Objeto (sempre faz, não custa quota Gemini)
+        full_text, objeto = _fetch_full_dou(item.get("link", ""))
+        if objeto:
+            item["objeto"] = objeto
+
+        # 2. Summarize usando texto completo (muito melhor que snippet boilerplate)
+        body_for_summary = full_text or item.get("content", "")
+        summary = _summarize_dou_act(item["title"], body_for_summary)
         if summary:
             item["summary"] = summary
             done += 1
