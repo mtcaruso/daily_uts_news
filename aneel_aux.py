@@ -101,21 +101,36 @@ def fetch_news_list():
     return items
 
 
+def _liferay_get(url, max_attempts=3):
+    """GET pra Liferay com múltiplas impersonations + retry.
+    Liferay anti-bot é flaky mesmo de IP residencial."""
+    impersonations = ["chrome120", "chrome116", "edge99"]
+    for attempt in range(max_attempts):
+        imp = impersonations[attempt % len(impersonations)]
+        try:
+            r = cf_requests.get(url, impersonate=imp, timeout=30)
+            if r.status_code == 200:
+                return r
+            if attempt < max_attempts - 1:
+                time.sleep(3 + attempt * 2)  # 3s, 5s, 7s entre tentativas
+        except Exception as e:
+            if attempt < max_attempts - 1:
+                time.sleep(3)
+            else:
+                print(f"[liferay] {e}", file=sys.stderr)
+    return None
+
+
 def fetch_pautas_list():
     """Retorna lista de items das Pautas/Atas via Liferay legacy.
-    Usa curl_cffi pra impersonate Chrome120 — server bloqueia UA padrão.
 
-    NOTA: Liferay ANEEL tem blacklist de IPs de datacenter. Em GHA isso retorna
-    vazio (sem erro, só lista vazia). Pra captar pautas, rodar local via
-    local_refresh.bat de um IP residencial.
+    NOTA: Liferay ANEEL tem blacklist + rate-limit. Pode falhar mesmo de IP
+    residencial. Se falhar, retorna [] (sem erro). O script tenta reprocessar
+    items pendentes do histórico na mesma run.
     """
-    try:
-        r = cf_requests.get(PAUTAS_URL, impersonate="chrome120", timeout=30)
-        if r.status_code != 200:
-            print(f"[pautas_list] status {r.status_code} (provavelmente IP datacenter blacklist — rode local pra pegar pautas)", file=sys.stderr)
-            return []
-    except Exception as e:
-        print(f"[pautas_list] {e}", file=sys.stderr)
+    r = _liferay_get(PAUTAS_URL)
+    if not r:
+        print("[pautas_list] todos os retries falharam (Liferay bloqueando)", file=sys.stderr)
         return []
 
     items = []
@@ -168,12 +183,9 @@ def fetch_news_detail(url):
 
 
 def fetch_pauta_detail(url):
-    """Pega o corpo da página da pauta. Usa curl_cffi (mesmo bloqueio do listing)."""
-    try:
-        r = cf_requests.get(url, impersonate="chrome120", timeout=30)
-        if r.status_code != 200:
-            return ""
-    except Exception:
+    """Pega o corpo da página da pauta. Usa retry com múltiplas impersonations."""
+    r = _liferay_get(url)
+    if not r:
         return ""
     body = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
     return (body or "")[:8000]
@@ -273,6 +285,24 @@ def main():
     print(f"  News: {len(news)} items", file=sys.stderr)
     print(f"  Pautas: {len(pautas)} items", file=sys.stderr)
     all_items = news + pautas
+
+    # Retry: items do histórico SEM summary que sumiram da listagem atual
+    # (ex: Liferay deu 403 transitório → as pautas saíram da lista mas estão no JSON)
+    current_ids = {it["id"] for it in all_items}
+    retry_count = 0
+    for k, v in history.get("items", {}).items():
+        if k in current_ids or v.get("summary"):
+            continue
+        all_items.append({
+            "type": v.get("type"),
+            "id": k,
+            "title": v.get("title"),
+            "date": v.get("date"),
+            "link": v.get("link"),
+        })
+        retry_count += 1
+    if retry_count:
+        print(f"  Retry de histórico: +{retry_count} items sem summary", file=sys.stderr)
 
     # Filtra pra processar só novos
     pending = [it for it in all_items if it["id"] not in seen_ids]
