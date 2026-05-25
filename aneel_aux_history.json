@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T16:31:57.687284",
+  "last_updated": "2026-05-25T17:33:57.778414",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -450,6 +450,14 @@
       "summary": "Aprimoramento dos Submódulos dos Procedimentos de Comercialização – PdC, incluindo a criação do **Submódulo 9.1 – Resposta da Demanda**, para adequação às **Regras de Comercialização de Energia Elétrica – REGRAS, versões 2024 e 2025**.",
       "added_at": "2026-05-25T16:31:57.184837",
       "objeto": "Obter subsídios para aprimorar a proposta de alteração dos Submódulos dos Procedimentos de Comercialização – PdC: 1.1 – Adesão à CCEE; 1.2 – Cadastro de agentes; 2.1 – Coleta e ajuste de dados de medic¸a~o; Submódulo 3.1 – Contratos do Ambiente Livre; 3.2 - Contratos do Ambiente Regulado, 3.3 - Sazonalização e Revisão da Sazonalização de Garantia Física; 3.5 – Receita de Venda de CCEAR; 3.6 – Apuração e liquidação financeira da receita de venda de Angra I e II e 3.7 – Apuração e liquidação financeira relativa às Cotas de Garantia Física; 3.8 – Mecanismo de Venda de Excedentes; 5.1 – Contabilização e recontabilização; 5.2 – Liquidação no mercado de curto prazo; 7.1 – Apurações da Energia de Reserva; 7.2 – Liquidação financeira; 8.1 – MCSD de Energia Existente e 8.5 – MCSD de Energia Nova, assim como a criação do submódulo 9.1 – Resposta da demanda para atender a` nova às Regras de Comercialização de Energia Elétrica – REGRAS, versão 2024 e 2025, entre outros aprimoramentos."
+    },
+    "noticia_2026_aneel-promove-o-2o-seminario-de-regulacao-e-analise-economica-do-direito": {
+      "type": "noticia",
+      "title": "ANEEL promove o 2º Seminário de Regulação e Análise Econômica do Direito",
+      "date": "25/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-o-2o-seminario-de-regulacao-e-analise-economica-do-direito",
+      "summary": "A **ANEEL** realizará o 2º Seminário de Regulação e Análise Econômica do Direito nos dias **26 e 27 de maio**, em sua sede, para debater os avanços do setor elétrico e as implicações das inovações na legislação. O evento reunirá professores, especialistas e técnicos de diversas empresas e entidades públicas e privadas.",
+      "added_at": "2026-05-25T17:33:57.276019"
     }
   }
 }
