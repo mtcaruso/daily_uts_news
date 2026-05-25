@@ -1,0 +1,37 @@
+name: ANEEL Auxiliar (notícias + pautas RD)
+
+# Coleta Sala de Imprensa + Pautas das Reuniões da Diretoria.
+# A cada 3h. Mesma estratégia de resilência do DOU MME.
+
+on:
+  schedule:
+    - cron: "0 11,14,17,20,23 * * 1-5"   # 8h, 11h, 14h, 17h, 20h BRT (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run ANEEL aux scraper
+        continue-on-error: true
+        run: python aneel_aux.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Commit aneel_aux_history.json
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add aneel_aux_history.json aneel_aux_diagnostic.json
+          git diff --staged --quiet || git commit -m "Update ANEEL aux history [skip ci]"
+          git pull --rebase origin main || true
+          git push
