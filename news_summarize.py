@@ -21,6 +21,14 @@ from googlenewsdecoder import gnewsdecoder
 from digest import fetch_source as fetch_news
 from sources import SOURCES
 
+# cloudscraper bypassa Cloudflare quando regular requests é bloqueado por IP
+# (caso do Canal Energia em GHA). Lazy import — se faltar, só não usa fallback.
+try:
+    import cloudscraper
+    _CLOUDSCRAPER = cloudscraper.create_scraper()
+except Exception:
+    _CLOUDSCRAPER = None
+
 HISTORY_FILE = Path("news_history.json")
 HISTORY_RETENTION_DAYS = 7  # nota: lookback de news é 30h, então 7d é folga
 MAX_SUMMARIZE_PER_RUN = 200  # cap pra controlar custo Gemini
@@ -128,6 +136,20 @@ def _resolve_url(google_news_url):
 _FETCH_FAIL_REASONS = {}  # diagnostic: {reason: count}
 
 
+def _do_request(url):
+    """Faz GET com requests; se der 403, tenta cloudscraper como fallback
+    (bypassa Cloudflare via TLS fingerprint nativo)."""
+    r = requests.get(url, headers=HEADERS, timeout=15, allow_redirects=True)
+    if r.status_code == 403 and _CLOUDSCRAPER is not None:
+        try:
+            r2 = _CLOUDSCRAPER.get(url, timeout=20, allow_redirects=True)
+            if r2.status_code == 200:
+                return r2
+        except Exception:
+            pass
+    return r
+
+
 def _fetch_article(google_news_url, max_retries=2):
     """Fetcha o artigo real (não a página do Google News). Retorna texto ou ""."""
     real_url = _resolve_url(google_news_url)
@@ -136,7 +158,7 @@ def _fetch_article(google_news_url, max_retries=2):
         return ""
     for attempt in range(max_retries):
         try:
-            r = requests.get(real_url, headers=HEADERS, timeout=15, allow_redirects=True)
+            r = _do_request(real_url)
             if r.status_code == 403:
                 _FETCH_FAIL_REASONS["http_403"] = _FETCH_FAIL_REASONS.get("http_403", 0) + 1
                 return ""  # paywall hard
