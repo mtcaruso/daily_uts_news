@@ -144,11 +144,19 @@ def fetch_news_detail(url):
         return None, ""
 
     html = r.text
-    # Data: Plone tem <span> com data ou no breadcrumb
-    date_m = re.search(r"Publicado em[^\d]*(\d{2}/\d{2}/\d{4})", html)
-    if not date_m:
-        date_m = re.search(r"(\d{2}/\d{2}/\d{4})\s+\d{2}h\d{2}", html)
-    date = date_m.group(1) if date_m else None
+    # Data preferencial: JSON-LD datePublished (sempre acurado, padrão Plone gov.br)
+    # Fallback: Publicado: DD/MM/YYYY HHhMM
+    date = None
+    m = re.search(r'"datePublished"\s*:\s*"([^"]+)"', html)
+    if m:
+        iso = m.group(1)
+        d = re.match(r"(\d{4})-(\d{2})-(\d{2})", iso)
+        if d:
+            date = f"{d.group(3)}/{d.group(2)}/{d.group(1)}"
+    if not date:
+        m = re.search(r"(\d{2}/\d{2}/\d{4})\s+\d{2}h\d{2}", html)
+        if m:
+            date = m.group(1)
 
     body = trafilatura.extract(r.content, favor_recall=True, include_comments=False)
     return date, (body or "")[:8000]
