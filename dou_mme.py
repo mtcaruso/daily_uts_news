@@ -44,6 +44,10 @@ SUBORG_BLOCKLIST = [
     "agência nacional de mineração",
     "agência nacional do petróleo",
     "secretaria nacional de geologia",
+    # Petróleo/gás natural não interessa pro setor de energia elétrica:
+    "empresa brasileira de administração de petróleo",
+    "pré-sal petróleo",
+    "petrobras",
 ]
 
 
