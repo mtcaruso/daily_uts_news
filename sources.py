@@ -22,9 +22,16 @@ TITLE_REQUIRED_TERMS = [
     # Conceitos
     "subestação", "linhas de transmissão", "leilão de energia",
     "leilão de transmissão", "leilão de capacidade", "marco do saneamento",
+    "lrcap", "tarifa", "tarifár", "reajuste",
+    "distribuidor", "transmissor", "gerador",  # sing/plur com strip
+    "concessão de energia", "concessionária", "postes",
+    "fios", "rede elétrica", "linha de transmissão",
+    # Associações setoriais
+    "abradee", "abrate", "abraceel", "abrace", "abrapch", "absolar", "abeeolica",
     # Empresas — elétricas
     "sabesp", "eletrobras", "equatorial", "enel", "cemig", "copel",
     "engie", "edp", "neoenergia", "cteep", "energisa",
+    "taesa", "eneva", "isa cteep", "auren", "alupar", "celesc",
     # Empresas — saneamento
     "copasa", "sanepar", "compesa", "casan", "iguá", "aegea", "brk",
 ]
