@@ -193,14 +193,19 @@ def summarize(title, body, kind):
         if kind == "pauta_rd":
             prompt = (
                 "Você é um analista do setor brasileiro de utilities resumindo a pauta de uma "
-                "Reunião Pública da Diretoria da ANEEL. Em 2-4 frases curtas em PORTUGUÊS "
-                "BRASILEIRO, liste os 3-5 ITENS MAIS RELEVANTES da pauta:\n"
-                "- Tipo do item (relatório, despacho, NT) + processo + empresa envolvida.\n"
-                "- Use **bold** pra destacar empresas, processos e valores.\n"
-                "- PULE introduções vagas. Vai direto aos pontos da agenda.\n\n"
+                "Reunião Pública da Diretoria da ANEEL.\n\n"
+                "REGRAS RÍGIDAS:\n"
+                "- NÃO comece com 'Aqui estão os itens mais relevantes' nem similar.\n"
+                "- NÃO repita o título da pauta. NÃO repita o número da reunião.\n"
+                "- Vá DIRETO para a lista de 3-5 itens mais importantes da agenda.\n"
+                "- Use bullets curtos: '- **Tema/empresa**: ação + processo/valor.'\n"
+                "- Use **bold** em empresas, valores R$, processos nº NNN, leilões.\n"
+                "- PT-BR. Cada bullet com no máximo 1 linha.\n"
+                "- Inclua só itens com relevância p/ utilities elétricas (tarifa, leilão, "
+                "transmissão, geração, distribuição, concessão, fiscalização, regulação).\n\n"
                 f"Título: {title}\n\n"
                 f"Pauta:\n{body}\n\n"
-                "Resumo dos itens-chave (use bullets se >3 itens):"
+                "Bullets (3-5):"
             )
         else:
             prompt = (
