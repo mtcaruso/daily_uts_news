@@ -29,6 +29,13 @@ try:
 except Exception:
     _CLOUDSCRAPER = None
 
+# curl_cffi impersona TLS handshake real do Chrome — bypassa Cloudflare Pro
+# que verifica fingerprint além de IP. Última tentativa quando os outros falham.
+try:
+    from curl_cffi import requests as _curl_requests
+except Exception:
+    _curl_requests = None
+
 HISTORY_FILE = Path("news_history.json")
 HISTORY_RETENTION_DAYS = 7  # nota: lookback de news é 30h, então 7d é folga
 MAX_SUMMARIZE_PER_RUN = 200  # cap pra controlar custo Gemini
@@ -137,17 +144,35 @@ _FETCH_FAIL_REASONS = {}  # diagnostic: {reason: count}
 
 
 def _do_request(url):
-    """Faz GET com requests; se der 403, tenta cloudscraper como fallback
-    (bypassa Cloudflare via TLS fingerprint nativo)."""
+    """Faz GET com requests; em caso de 403 (anti-bot), escalata:
+    1) cloudscraper (TLS fingerprint custom)
+    2) curl_cffi (impersona Chrome real)
+    """
     r = requests.get(url, headers=HEADERS, timeout=15, allow_redirects=True)
-    if r.status_code == 403 and _CLOUDSCRAPER is not None:
+    if r.status_code != 403:
+        return r
+
+    # Fallback 1: cloudscraper
+    if _CLOUDSCRAPER is not None:
         try:
             r2 = _CLOUDSCRAPER.get(url, timeout=20, allow_redirects=True)
             if r2.status_code == 200:
+                _FETCH_FAIL_REASONS["bypass_cloudscraper"] = _FETCH_FAIL_REASONS.get("bypass_cloudscraper", 0) + 1
                 return r2
         except Exception:
             pass
-    return r
+
+    # Fallback 2: curl_cffi (impersona Chrome real)
+    if _curl_requests is not None:
+        try:
+            r3 = _curl_requests.get(url, impersonate="chrome120", timeout=20, allow_redirects=True)
+            if r3.status_code == 200:
+                _FETCH_FAIL_REASONS["bypass_curl_cffi"] = _FETCH_FAIL_REASONS.get("bypass_curl_cffi", 0) + 1
+                return r3
+        except Exception:
+            pass
+
+    return r  # mantém o 403 original
 
 
 def _fetch_article(google_news_url, max_retries=2):
