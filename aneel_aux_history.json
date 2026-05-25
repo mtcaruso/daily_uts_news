@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T18:00:27.545639",
+  "last_updated": "2026-05-25T19:00:30.202645",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -466,6 +466,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-abre-terceira-edicao-de-congresso-de-fiscalizacao-em-cuiabad",
       "summary": "A ANEEL está realizando a terceira edição do seu Congresso Nacional de Fiscalização (CONFIA) em Cuiabá (MT), de **25 a 29 de maio**. O evento, que ocorre em formato híbrido, visa nivelar procedimentos e expandir o diálogo entre fiscais da **ANEEL** e Agências Reguladoras Estaduais, focando nos setores de Geração e Distribuição de Energia Elétrica. O objetivo é fortalecer a fiscalização e aprimorar a qualidade do fornecimento de energia no Brasil.",
       "added_at": "2026-05-25T18:00:27.043118"
+    },
+    "noticia_2026_aneel-abre-terceira-edicao-de-congresso-de-fiscalizacao-em-cuiaba": {
+      "type": "noticia",
+      "title": "ANEEL abre terceira edição de congresso de fiscalização em Cuiabá",
+      "date": "25/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-abre-terceira-edicao-de-congresso-de-fiscalizacao-em-cuiaba",
+      "summary": "A **ANEEL** está realizando a terceira edição do seu Congresso Nacional de Fiscalização (CONFIA) em Cuiabá (MT), de **25 a 29 de maio**. O evento, em formato híbrido, visa nivelar procedimentos e expandir o diálogo entre fiscais da **ANEEL** e Agências Reguladoras Estaduais, focando nos setores de Geração e Distribuição de Energia Elétrica. O objetivo é fortalecer a fiscalização e aprimorar a qualidade do fornecimento de energia no Brasil.",
+      "added_at": "2026-05-25T19:00:29.700377"
     }
   }
 }
