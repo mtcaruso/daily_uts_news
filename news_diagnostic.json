@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-25T13:09:47.069471",
+  "last_run": "2026-05-25T13:11:35.573933",
   "source_counts": {
     "Valor": 4,
     "Pipeline": 0,
@@ -11,8 +11,8 @@
     "Megawhat": 4
   },
   "all_items_total": 18,
-  "pending_count": 5,
-  "done": 2,
+  "pending_count": 3,
+  "done": 0,
   "pruned": 0,
   "fetch_fail_reasons": {
     "http_403": 3
