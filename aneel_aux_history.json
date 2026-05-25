@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T16:01:49.968356",
+  "last_updated": "2026-05-25T16:24:25.801065",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -360,6 +360,96 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14712&idAreaNoticia=425",
       "summary": "- **Leilão nº 1/2026-ANEEL**: Aprovação do Edital para outorga de concessões de transmissão de energia elétrica.\n- **Companhia de Eletricidade do Amapá – CEA**: Reajuste Tarifário Anual a vigorar a partir de 13 de dezembro de 2025.\n- **Consulta Pública nº 45/2019**: Resultado da Terceira Fase para aprimoramento da norma de redução ou limitação de geração no SIN.\n- **Coelce**: Requerimento para antecipação dos efeitos da prorrogação do Contrato de Concessão de Distribuição nº 1/1998.\n- **Eletronorte**: Recurso Administrativo contra Despacho nº 3.019/2024 que autorizou reforços e estabeleceu valores de RAP.",
       "added_at": "2026-05-25T16:01:49.467509"
+    },
+    "partic_cp_013_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 013/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para regulamentar o cadastro de representantes de agentes, empresas e instituições do setor, criando o **Submódulo 1.4** dos **Procedimentos de Rede**.",
+      "added_at": "2026-05-25T16:24:10.499925",
+      "objeto": "obter subsídios para regulamentação do cadastro de representantes dos agentes, empresas e instituições do setor, por meio da criação do Submódulo 1.4 dos Procedimentos de Rede (Responsabilidades e Operacional)."
+    },
+    "partic_cp_012_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 012/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para aprimorar o **Edital** e o **Termo de Referência** da **Plataforma de Inovação do Setor Elétrico (PINSE)**.",
+      "added_at": "2026-05-25T16:24:12.102591",
+      "objeto": "obter subsídios para o aprimoramento das minutas do Edital e do Termo de Referência do Desenvolvimento e da Implantação da Plataforma de Inovação do Setor Elétrico – PINSE."
+    },
+    "partic_cp_011_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 011/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para o tratamento regulatório e contábil dos **créditos de Microgeração e Minigeração Distribuída (MMGD)**, visando a modicidade tarifária conforme a **Lei nº 14.300/2022** e o **Despacho nº 684/2025**.",
+      "added_at": "2026-05-25T16:24:13.863217",
+      "objeto": "obter subsídios para tratamento regulatório e contábil dos créditos de Microgeração e Minigeração Distribuída – MMGD em prol da modicidade tarifária, conforme determina a Lei nº 14.300/2022 e o Despacho nº 684/2025."
+    },
+    "partic_cp_010_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 010/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para aprimorar a proposta da **Revisão Tarifária Periódica de 2026** da **Energisa Sul-Sudeste (ESS)**, com vigência a partir de **12 de julho de 2026**.",
+      "added_at": "2026-05-25T16:24:15.461433",
+      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Energisa Sul-Sudeste - Distribuidora de Energia S.A. – ESS, a vigorar a partir de 12 de julho de 2026."
+    },
+    "partic_cp_009_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 009/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para aprimorar a regulamentação sobre **excedentes de energia** e aumentar a **flexibilidade operativa** na **Rede de Distribuição**.",
+      "added_at": "2026-05-25T16:24:16.912250",
+      "objeto": "obter subsídios para aprimoramentos regulatórios para tratamento de excedentes de energia e maior flexibilidade operativa na Rede de Distribuição."
+    },
+    "partic_cp_006_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 006/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/consultas-publicas",
+      "summary": "A **ANEEL** busca subsídios para aperfeiçoar o Edital do **Leilão nº 4/2026** de transmissão de energia elétrica, com foco na revisão do **Anexo 2.04** referente ao **Lote 04**, atualizado em **05/05/2026**.",
+      "added_at": "2026-05-25T16:24:18.663380",
+      "objeto": "obter subsídios para aperfeiçoar o Edital do Leilão nº 4/2026, destinado à contratação de serviço público de transmissão de energia elétrica. Atenção! Foi adicionado a este processo nova versão do documento -\"Anexo 2.04 do Edital do Leilão nº 4/2026-ANEEL - Lote 04 - Revisado 05/05/2026\""
+    },
+    "partic_ts_011_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 011/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+      "summary": "A **ANEEL** está validando a memória de cálculo de **exposições e sobrecontratações involuntárias** de distribuidoras, referentes aos anos de **2019, 2020 e 2021**.",
+      "added_at": "2026-05-25T16:24:20.265200",
+      "objeto": "Apresentação da memória de cálculo dos montantes de exposições e sobrecontratações involuntárias dos agentes de distribuição, visando a validação da base de dados, referentes aos anos de 2019, 2020 e 2021."
+    },
+    "partic_ts_009_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 009/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+      "summary": "A **ANEEL** busca subsídios para aprimorar a proposta de **Revisão Tarifária Periódica** da **Cocel**, com vigência a partir de **29 de junho de 2026**.",
+      "added_at": "2026-05-25T16:24:21.771885",
+      "objeto": "Obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica da Companhia Campolarguense de Energia - Cocel, a vigorar a partir de 29 de junho de 2026."
+    },
+    "partic_ts_008_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 008/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+      "summary": "A **ANEEL** busca subsídios para aprimorar os **Procedimentos de Rede** relacionados a critérios de operação, requisitos de qualidade de energia, previsão de carga, dados de hidrelétricas, programação de intervenções e operação, gerenciamento de carga, administração de contratos, apuração de encargos e indicadores de qualidade da **Rede Básica**.",
+      "added_at": "2026-05-25T16:24:23.483414",
+      "objeto": "obter subsídios para aprimoramento dos submódulos dos Procedimentos de Rede 2.5 – Critérios para operação (Critérios), 2.9 – Requisitos mínimos de qualidade de energia elétrica para acesso ou integração à Rede Básica (Requisitos), 3.5 – Consolidação da previsão de carga para planejamento da operação eletroenergética (Responsabilidades), 3.8 - Atualização de dados técnicos dos aproveitamentos hidroelétricos (Responsabilidades e Procedimental), 4.2 – Programação de intervenções em instalações da Rede de Operação (Responsabilidades e Procedimental), 4.3 – Programação mensal da operação energética (Procedimental), 4.5 – Programação Diária da Operação (Procedimental), 4.7 – Inclusão de condicionantes operativos hidráulicos dos aproveitamentos hidroelétricos (Responsabilidades e Procedimental), 5.7 – Gerenciamento da Carga (responsabilidades e operacional), 8.1 – Administração dos Contratos (Responsabilidades e Procedimental), 8.3 – Apuração Mensal de Serviços e Encargos da Transmissão e Encargos Setoriais (Procedimental), e 9.7 Indicadores de qualidade da energia elétrica da Rede Básica (Indicadores)."
+    },
+    "partic_ts_002_2025": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 002/2025",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+      "summary": "A **ANEEL** busca subsídios para aprimorar os **Procedimentos de Comercialização (PdC)**, abrangendo desde a adesão à **CCEE** e cadastro de agentes até a contabilização, liquidação financeira e a criação do submódulo de **Resposta da Demanda**, visando adequação às **Regras de Comercialização de Energia Elétrica** de **2024** e **2025**.",
+      "added_at": "2026-05-25T16:24:25.300246",
+      "objeto": "Obter subsídios para aprimorar a proposta de alteração dos Submódulos dos Procedimentos de Comercialização – PdC: 1.1 – Adesão à CCEE; 1.2 – Cadastro de agentes; 2.1 – Coleta e ajuste de dados de medic¸a~o; Submódulo 3.1 – Contratos do Ambiente Livre; 3.2 - Contratos do Ambiente Regulado, 3.3 - Sazonalização e Revisão da Sazonalização de Garantia Física; 3.5 – Receita de Venda de CCEAR; 3.6 – Apuração e liquidação financeira da receita de venda de Angra I e II e 3.7 – Apuração e liquidação financeira relativa às Cotas de Garantia Física; 3.8 – Mecanismo de Venda de Excedentes; 5.1 – Contabilização e recontabilização; 5.2 – Liquidação no mercado de curto prazo; 7.1 – Apurações da Energia de Reserva; 7.2 – Liquidação financeira; 8.1 – MCSD de Energia Existente e 8.5 – MCSD de Energia Nova, assim como a criação do submódulo 9.1 – Resposta da demanda para atender a` nova às Regras de Comercialização de Energia Elétrica – REGRAS, versão 2024 e 2025, entre outros aprimoramentos."
     }
   }
 }
