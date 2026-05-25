@@ -19,16 +19,22 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python dou_mme.py
+      - name: Run DOU scraper
+        # continue-on-error: 1) crashes do script não derrubam workflow → cron nunca é pausado pelo GH
+        # 2) qualquer progresso salvo em dou_history.json antes do crash será commitado abaixo
+        continue-on-error: true
+        run: python dou_mme.py
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: Commit dou_history.json
+        if: always()  # commita mesmo se script falhou (salva progresso parcial)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dou_history.json
           git diff --staged --quiet || git commit -m "Update DOU history [skip ci]"
+          git pull --rebase origin main || true
           git push
