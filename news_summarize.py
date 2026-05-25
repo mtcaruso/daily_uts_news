@@ -276,9 +276,12 @@ def main():
     # Considera "seen" só itens com summary OK ou paywall summarize_failed.
     # Itens com error=no_article serão reprocessados (o fix do meta-description
     # pode resgatar parte deles).
+    # Só pula items que JÁ TÊM summary OK. Items com error (no_article OR
+    # summarize_failed) são reprocessados — podem ter falhado por bug transitório
+    # (API key errada, IP block resolvido, Gemini 503, etc.)
     seen_urls = {
         url for url, v in history.get("items", {}).items()
-        if v.get("summary") or v.get("error") == "summarize_failed"
+        if v.get("summary")
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
