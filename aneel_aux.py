@@ -263,16 +263,23 @@ def summarize(title, body, kind):
     try:
         from google.genai import types
         if kind.startswith("partic_"):
-            partic_label = {"partic_cp": "Consulta Pública", "partic_ap": "Audiência Pública", "partic_ts": "Tomada de Subsídios"}.get(kind, "Participação Pública")
             prompt = (
-                f"Você é um analista do setor brasileiro de utilities resumindo uma {partic_label} da ANEEL.\n"
-                "REGRAS:\n"
-                "- 1-2 frases curtas em PORTUGUÊS BRASILEIRO.\n"
-                "- Vá direto ao tema: o QUE está sendo consultado/auditado.\n"
-                "- Use **bold** em empresas, processos, valores, datas.\n"
-                "- NÃO repita 'Consulta Pública nº X' no início — vai direto pro tema.\n\n"
+                "Você é um analista do setor brasileiro de utilities resumindo o tema "
+                "de uma Consulta/Audiência Pública ou Tomada de Subsídios da ANEEL.\n\n"
+                "REGRAS RÍGIDAS:\n"
+                "- 1-2 frases curtas em PT-BR.\n"
+                "- COMECE com o TEMA/AÇÃO direto. NUNCA comece com:\n"
+                "  - 'A ANEEL busca/pretende/visa...'\n"
+                "  - 'A consulta visa/busca...'\n"
+                "  - 'Obter subsídios para...'\n"
+                "- Comece com substantivo do tema OU verbo direto. Exemplos VÁLIDOS:\n"
+                "  - 'Regulamenta cadastro de representantes... no Submódulo 1.4.'\n"
+                "  - 'Edital do Leilão nº 4/2026 — ajustes em prazos e habilitação técnica.'\n"
+                "  - 'Revisão tarifária da **Energisa Sul-Sudeste (ESS)** — proposta para vigor em 12/07/2026.'\n"
+                "  - 'Tratamento regulatório de créditos **MMGD** conforme Lei 14.300/2022.'\n"
+                "- Use **bold** em empresas, valores, processos nº, leis, datas.\n\n"
                 f"Texto do Objeto: {body}\n\n"
-                "Resumo (1-2 frases):"
+                "Resumo (1-2 frases, sem filler inicial):"
             )
         elif kind == "pauta_rd":
             prompt = (
