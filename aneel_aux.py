@@ -37,6 +37,12 @@ MAX_SUMMARIZE_PER_RUN = 100
 NEWS_URL = "https://www.gov.br/aneel/pt-br/assuntos/noticias"
 PAUTAS_URL = "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/?idAreaNoticia=425"
 PAUTA_DETAIL_TPL = "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia={id}&idAreaNoticia=425"
+# Participação Pública (CP/AP/TS) — antigo.aneel.gov.br Liferay portal
+PARTIC_URLS = [
+    ("cp", "https://antigo.aneel.gov.br/consultas-publicas", "Consulta"),
+    ("ap", "https://antigo.aneel.gov.br/audiencias-publicas", "Audiência"),
+    ("ts", "https://antigo.aneel.gov.br/tomadas-de-subsidios", "Tomada"),
+]
 
 HEADERS = {
     "User-Agent": (
@@ -191,10 +197,64 @@ def fetch_pauta_detail(url):
     return (body or "")[:8000]
 
 
+# ============== PARTICIPAÇÃO PÚBLICA (CP/AP/TS) ==============
+
+def fetch_partic_list():
+    """Retorna lista de Consultas/Audiências Públicas + Tomadas de Subsídios
+    abertas, parsing da tabela do portlet Liferay antigo.aneel.gov.br.
+
+    Estrutura de cada bloco:
+      'Consulta NNN/AAAA Objeto - texto descritivo...'
+      'Audiência NNN/AAAA Objeto - texto...'
+      'Tomada NNN/AAAA Objeto - texto...'
+    """
+    import html as _html_mod
+    items = []
+    for kind, url, prefix in PARTIC_URLS:
+        r = _liferay_get(url)
+        if not r:
+            continue
+        html_text = _html_mod.unescape(r.text)
+        # Extrai conteúdo dentro da única <table>
+        tables = re.findall(r"<table[^>]*>(.*?)</table>", html_text, re.DOTALL)
+        if not tables:
+            continue
+        # Limpa tags
+        clean = re.sub(r"<[^>]+>", " ", tables[0])
+        clean = re.sub(r"\s+", " ", clean).strip()
+        # Divide por "Consulta NNN/AAAA", "Audiência NNN/AAAA", "Tomada NNN/AAAA"
+        blocks = re.split(rf"(?={prefix}\s+\d+/\d+\s)", clean)
+        for blk in blocks:
+            blk = blk.strip()
+            if not blk or not blk.startswith(prefix):
+                continue
+            m = re.match(rf"{prefix}\s+(\d+/\d+)\s+(?:Objeto\s*-\s*)?(.*)", blk, re.IGNORECASE | re.DOTALL)
+            if not m:
+                continue
+            num = m.group(1)
+            objeto = re.sub(r"\s+", " ", m.group(2)).strip()
+            if len(objeto) < 20:
+                continue  # provavelmente lixo
+            # Corta no próximo separador típico ("ATENÇÃO:" ou "Período de Contribuições:")
+            objeto = re.split(r"\s+ATEN[ÇC][AÃ]O\s*:|\s+Per[íi]odo de Contribui[çc][õo]es\s*:", objeto)[0].strip()
+            objeto = objeto[:2000]
+            items.append({
+                "type": f"partic_{kind}",
+                "id": f"partic_{kind}_{num.replace('/', '_')}",
+                "title": f"{prefix} Pública nº {num}",
+                "date": None,
+                "link": url,  # link da listagem (detalhe é Liferay portlet, difícil de linkar direto)
+                "objeto": objeto,
+            })
+    return items
+
+
 # ============== SUMMARIZE ==============
 
 def summarize(title, body, kind):
-    """Gemini Flash gera resumo. Retorna None em erro."""
+    """Gemini Flash gera resumo. Retorna None em erro.
+    Pra type=partic_cp/ap/ts, o body JÁ é o objeto extraído (texto curto),
+    então usa prompt direto."""
     client = _gemini_client()
     if not client:
         return None
@@ -202,7 +262,19 @@ def summarize(title, body, kind):
         return None
     try:
         from google.genai import types
-        if kind == "pauta_rd":
+        if kind.startswith("partic_"):
+            partic_label = {"partic_cp": "Consulta Pública", "partic_ap": "Audiência Pública", "partic_ts": "Tomada de Subsídios"}.get(kind, "Participação Pública")
+            prompt = (
+                f"Você é um analista do setor brasileiro de utilities resumindo uma {partic_label} da ANEEL.\n"
+                "REGRAS:\n"
+                "- 1-2 frases curtas em PORTUGUÊS BRASILEIRO.\n"
+                "- Vá direto ao tema: o QUE está sendo consultado/auditado.\n"
+                "- Use **bold** em empresas, processos, valores, datas.\n"
+                "- NÃO repita 'Consulta Pública nº X' no início — vai direto pro tema.\n\n"
+                f"Texto do Objeto: {body}\n\n"
+                "Resumo (1-2 frases):"
+            )
+        elif kind == "pauta_rd":
             prompt = (
                 "Você é um analista do setor brasileiro de utilities resumindo a pauta de uma "
                 "Reunião Pública da Diretoria da ANEEL.\n\n"
@@ -279,12 +351,14 @@ def main():
     seen_ids = {k for k, v in history["items"].items() if v.get("summary")}
 
     # Coleta listings
-    print("[aneel_aux] Fetching news + pautas…", file=sys.stderr)
+    print("[aneel_aux] Fetching news + pautas + participação pública…", file=sys.stderr)
     news = fetch_news_list()
     pautas = fetch_pautas_list()
+    partic = fetch_partic_list()
     print(f"  News: {len(news)} items", file=sys.stderr)
     print(f"  Pautas: {len(pautas)} items", file=sys.stderr)
-    all_items = news + pautas
+    print(f"  Participação Pública (CP/AP/TS): {len(partic)} items", file=sys.stderr)
+    all_items = news + pautas + partic
 
     # Retry: items do histórico SEM summary que sumiram da listagem atual
     # (ex: Liferay deu 403 transitório → as pautas saíram da lista mas estão no JSON)
@@ -293,13 +367,16 @@ def main():
     for k, v in history.get("items", {}).items():
         if k in current_ids or v.get("summary"):
             continue
-        all_items.append({
+        item_redo = {
             "type": v.get("type"),
             "id": k,
             "title": v.get("title"),
             "date": v.get("date"),
             "link": v.get("link"),
-        })
+        }
+        if v.get("objeto"):
+            item_redo["objeto"] = v["objeto"]
+        all_items.append(item_redo)
         retry_count += 1
     if retry_count:
         print(f"  Retry de histórico: +{retry_count} items sem summary", file=sys.stderr)
@@ -320,6 +397,10 @@ def main():
             if item["type"] == "pauta_rd":
                 body = fetch_pauta_detail(item["link"])
                 date = item.get("date")
+            elif item["type"].startswith("partic_"):
+                # Pra CP/AP/TS, o "body" é o objeto já extraído do listing
+                body = item.get("objeto", "")
+                date = item.get("date")
             else:
                 date, body = fetch_news_detail(item["link"])
 
@@ -333,6 +414,9 @@ def main():
                 "summary": summary,
                 "added_at": datetime.now().isoformat(),
             }
+            # Preserva objeto bruto pra items partic (caso reprocesso futuro)
+            if item.get("objeto"):
+                entry["objeto"] = item["objeto"]
             if not body:
                 entry["error"] = "no_body"
             elif not summary:
