@@ -103,11 +103,16 @@ def fetch_news_list():
 
 def fetch_pautas_list():
     """Retorna lista de items das Pautas/Atas via Liferay legacy.
-    Usa curl_cffi pra impersonate Chrome120 — server bloqueia UA padrão."""
+    Usa curl_cffi pra impersonate Chrome120 — server bloqueia UA padrão.
+
+    NOTA: Liferay ANEEL tem blacklist de IPs de datacenter. Em GHA isso retorna
+    vazio (sem erro, só lista vazia). Pra captar pautas, rodar local via
+    local_refresh.bat de um IP residencial.
+    """
     try:
         r = cf_requests.get(PAUTAS_URL, impersonate="chrome120", timeout=30)
         if r.status_code != 200:
-            print(f"[pautas_list] status {r.status_code}", file=sys.stderr)
+            print(f"[pautas_list] status {r.status_code} (provavelmente IP datacenter blacklist — rode local pra pegar pautas)", file=sys.stderr)
             return []
     except Exception as e:
         print(f"[pautas_list] {e}", file=sys.stderr)
