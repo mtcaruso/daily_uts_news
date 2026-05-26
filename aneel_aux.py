@@ -44,6 +44,13 @@ PARTIC_URLS = [
     ("ts", "https://antigo.aneel.gov.br/tomadas-de-subsidios", "Tomada"),
 ]
 
+# MME — API REST oficial em consultas-publicas.mme.gov.br
+MME_CP_API_URL = (
+    "https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/"
+    "listagem-sem-filtros?pageNumber=0&pageSize=200&sortBy=id&sortDirection=desc"
+)
+MME_CP_DETAIL_TPL = "https://consultas-publicas.mme.gov.br/home/consulta/{id}"
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -299,6 +306,64 @@ def fetch_partic_list():
     return items
 
 
+def fetch_mme_partic_list():
+    """Coleta CPs do MME via API REST oficial (consultas-publicas.mme.gov.br).
+
+    API retorna JSON estruturado com id, titulo, dtInicio, dtFim, status, etc.
+    Filtra só status=ABERTA.
+    """
+    items = []
+    try:
+        import curl_cffi.requests as _cf
+        headers = {
+            "sistema": "CONSULTA-PUBLICA",
+            "accept": "application/json, text/plain, */*",
+            "content-type": "application/json",
+            "referer": "https://consultas-publicas.mme.gov.br/home",
+        }
+        r = _cf.post(MME_CP_API_URL, headers=headers, json={}, impersonate="chrome120", timeout=30)
+        if r.status_code != 200:
+            print(f"[mme_partic] HTTP {r.status_code}", file=sys.stderr)
+            return []
+        data = r.json()
+    except Exception as e:
+        print(f"[mme_partic] {e}", file=sys.stderr)
+        return []
+
+    raw_items = data.get("content", [])
+    print(f"  [MME CPs] {len(raw_items)} retornadas, filtrando ABERTAs…", file=sys.stderr)
+
+    for it in raw_items:
+        if it.get("status") != "ABERTA":
+            continue
+        if it.get("isDeleted"):
+            continue
+        cp_id = it.get("id")
+        if not cp_id:
+            continue
+        titulo = (it.get("titulo") or "").strip()
+        assunto = (it.get("assuntoResumido") or "").strip()
+        # Datas vêm já em DD/MM/YYYY (string)
+        dt_inicio = it.get("dtInicio") or it.get("dtPublicadoDou")
+        dt_fim = it.get("dtFim")
+        sei_ref = it.get("responsavelSei")
+
+        objeto = assunto or titulo
+        items.append({
+            "type": "partic_mme_cp",
+            "id": f"partic_mme_cp_{cp_id}",
+            "title": f"Consulta Pública MME nº {cp_id}",
+            "date": None,
+            "link": MME_CP_DETAIL_TPL.format(id=cp_id),
+            "objeto": objeto[:2000],
+            "start_date": dt_inicio,
+            "deadline": dt_fim,
+            "fonte": "MME",
+            "sei_processo": sei_ref,
+        })
+    return items
+
+
 def _extract_partic_deadline(text: str) -> str:
     """Procura deadline (data final pra envio) no texto do objeto.
     Padrões aceitos:
@@ -437,14 +502,19 @@ def main():
     seen_ids = {k for k, v in history["items"].items() if v.get("summary")}
 
     # Coleta listings
-    print("[aneel_aux] Fetching news + pautas + participação pública…", file=sys.stderr)
+    print("[aneel_aux] Fetching news + pautas + participação pública (ANEEL + MME)…", file=sys.stderr)
     news = fetch_news_list()
     pautas = fetch_pautas_list()
     partic = fetch_partic_list()
+    partic_mme = fetch_mme_partic_list()
     print(f"  News: {len(news)} items", file=sys.stderr)
     print(f"  Pautas: {len(pautas)} items", file=sys.stderr)
-    print(f"  Participação Pública (CP/AP/TS): {len(partic)} items", file=sys.stderr)
-    all_items = news + pautas + partic
+    print(f"  Participação Pública ANEEL (CP/AP/TS): {len(partic)} items", file=sys.stderr)
+    print(f"  Participação Pública MME (CPs ABERTAs): {len(partic_mme)} items", file=sys.stderr)
+    # Marca fonte ANEEL nos items que não vieram do MME (pra compat com items antigos)
+    for it in partic:
+        it.setdefault("fonte", "ANEEL")
+    all_items = news + pautas + partic + partic_mme
 
     # Retry: items do histórico SEM summary que sumiram da listagem atual
     # (ex: Liferay deu 403 transitório → as pautas saíram da lista mas estão no JSON)
@@ -507,6 +577,10 @@ def main():
                 entry["deadline"] = item["deadline"]
             if item.get("start_date"):
                 entry["start_date"] = item["start_date"]
+            if item.get("fonte"):
+                entry["fonte"] = item["fonte"]
+            if item.get("sei_processo"):
+                entry["sei_processo"] = item["sei_processo"]
             if not body:
                 entry["error"] = "no_body"
             elif not summary:
