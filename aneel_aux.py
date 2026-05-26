@@ -238,15 +238,47 @@ def fetch_partic_list():
             # Corta no próximo separador típico ("ATENÇÃO:" ou "Período de Contribuições:")
             objeto = re.split(r"\s+ATEN[ÇC][AÃ]O\s*:|\s+Per[íi]odo de Contribui[çc][õo]es\s*:", objeto)[0].strip()
             objeto = objeto[:2000]
+            # Tenta extrair deadline (data final pra envio de contribuições)
+            deadline = _extract_partic_deadline(blk)
             items.append({
                 "type": f"partic_{kind}",
                 "id": f"partic_{kind}_{num.replace('/', '_')}",
                 "title": f"{prefix} Pública nº {num}",
                 "date": None,
-                "link": url,  # link da listagem (detalhe é Liferay portlet, difícil de linkar direto)
+                "link": url,
                 "objeto": objeto,
+                "deadline": deadline,  # DD/MM/YYYY ou None
             })
     return items
+
+
+def _extract_partic_deadline(text: str) -> str:
+    """Procura deadline (data final pra envio) no texto do objeto.
+    Padrões aceitos:
+      - 'até as 23h59 do dia DD/M/YYYY'
+      - 'até DD/M/YYYY'
+      - 'prazo ... DD/M/YYYY'
+      - 'encerra ... DD/M/YYYY'
+    Retorna formato DD/MM/YYYY (zero-padded) ou None.
+    """
+    if not text:
+        return None
+    patterns = [
+        r"at[ée]\s+(?:as\s+)?\d{1,2}h\d{2}\s+do\s+dia\s+(\d{1,2}/\d{1,2}/\d{4})",
+        r"at[ée]\s+o\s+dia\s+(\d{1,2}/\d{1,2}/\d{4})",
+        r"prazo\s+(?:final|m[áa]ximo|de\s+envio)?[^.]*?(\d{1,2}/\d{1,2}/\d{4})",
+        r"(?:final|t[ée]rmino|encerra(?:mento)?)[^.]*?(\d{1,2}/\d{1,2}/\d{4})",
+        r"contribui[çc][õo]es[^.]*?(\d{1,2}/\d{1,2}/\d{4})",
+    ]
+    for pat in patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            d = m.group(1)
+            # Normaliza pra DD/MM/YYYY zero-padded
+            parts = d.split("/")
+            if len(parts) == 3:
+                return f"{parts[0].zfill(2)}/{parts[1].zfill(2)}/{parts[2]}"
+    return None
 
 
 # ============== SUMMARIZE ==============
@@ -424,6 +456,8 @@ def main():
             # Preserva objeto bruto pra items partic (caso reprocesso futuro)
             if item.get("objeto"):
                 entry["objeto"] = item["objeto"]
+            if item.get("deadline"):
+                entry["deadline"] = item["deadline"]
             if not body:
                 entry["error"] = "no_body"
             elif not summary:
