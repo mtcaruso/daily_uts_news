@@ -1,13 +1,12 @@
 name: MME Legislação tracker
 
 # Coleta Portarias, Decretos, Leis e Portarias Interministeriais do MME.
-# 2x/dia (manhã + tarde), Seg-Sex. Top-of-hour fora — pega :23 pra evitar
-# saturação do GH Actions.
+# A cada 1h, das 07h às 23h BRT, Seg-Sex (MME publica em horário comercial).
+# Minuto :13 pra escapar saturação do top-of-hour no GH Actions.
 
 on:
   schedule:
-    - cron: "23 11 * * 1-5"   # 08:23 BRT
-    - cron: "23 17 * * 1-5"   # 14:23 BRT
+    - cron: "13 10,11,12,13,14,15,16,17,18,19,20,21,22,23,0,1,2 * * 1-5"
   workflow_dispatch:
 
 permissions:
