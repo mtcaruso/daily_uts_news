@@ -199,14 +199,36 @@ def fetch_pauta_detail(url):
 
 # ============== PARTICIPAÇÃO PÚBLICA (CP/AP/TS) ==============
 
+def _fetch_partic_detail(session, detail_url):
+    """Visita página de detalhe da CP/AP/TS no Liferay e extrai
+    período de contribuição (start_date, end_date) em formato DD/MM/YYYY.
+    Retorna (start, end) ou (None, None) se não encontrar."""
+    try:
+        r = session.get(detail_url, timeout=30)
+        if r.status_code != 200:
+            return None, None
+    except Exception:
+        return None, None
+    html_text = r.text
+    clean = re.sub(r"<[^>]+>", " ", html_text)
+    clean = re.sub(r"\s+", " ", clean).strip()
+    # Padrão típico: "Período de contribuição De DD/MM/AAAA a DD/MM/AAAA"
+    m = re.search(
+        r"Per[íi]odo\s+de\s+contribui[çc][ãa]o\s+De\s+(\d{1,2}/\d{1,2}/\d{4})\s+a\s+(\d{1,2}/\d{1,2}/\d{4})",
+        clean, re.IGNORECASE,
+    )
+    if m:
+        def _pad(d):
+            parts = d.split("/")
+            return f"{parts[0].zfill(2)}/{parts[1].zfill(2)}/{parts[2]}"
+        return _pad(m.group(1)), _pad(m.group(2))
+    return None, None
+
+
 def fetch_partic_list():
     """Retorna lista de Consultas/Audiências Públicas + Tomadas de Subsídios
-    abertas, parsing da tabela do portlet Liferay antigo.aneel.gov.br.
-
-    Estrutura de cada bloco:
-      'Consulta NNN/AAAA Objeto - texto descritivo...'
-      'Audiência NNN/AAAA Objeto - texto...'
-      'Tomada NNN/AAAA Objeto - texto...'
+    abertas. Pra cada item, visita a página de detalhe e extrai período exato
+    (start + deadline).
     """
     import html as _html_mod
     items = []
@@ -215,15 +237,26 @@ def fetch_partic_list():
         if not r:
             continue
         html_text = _html_mod.unescape(r.text)
-        # Extrai conteúdo dentro da única <table>
-        tables = re.findall(r"<table[^>]*>(.*?)</table>", html_text, re.DOTALL)
-        if not tables:
+
+        # Captura também os links de detalhe (em ordem da tabela)
+        m_tab = re.search(r"<table[^>]*>(.*?)</table>", html_text, re.DOTALL)
+        if not m_tab:
             continue
-        # Limpa tags
-        clean = re.sub(r"<[^>]+>", " ", tables[0])
+        table_html = m_tab.group(1)
+        detail_links = re.findall(r'<a[^>]+href="([^"]+ideParticipacaoPublica=\d+[^"]+)"', html_text)
+        # Texto limpo pros blocos
+        clean = re.sub(r"<[^>]+>", " ", table_html)
         clean = re.sub(r"\s+", " ", clean).strip()
-        # Divide por "Consulta NNN/AAAA", "Audiência NNN/AAAA", "Tomada NNN/AAAA"
         blocks = re.split(rf"(?={prefix}\s+\d+/\d+\s)", clean)
+
+        # Cria sessão pra reusar p_auth do listing
+        import curl_cffi.requests as _cf
+        sess = _cf.Session(impersonate="chrome120")
+        # Hit listing pra setar cookies
+        sess.get(url, timeout=30)
+        time.sleep(0.5)
+
+        block_idx = 0
         for blk in blocks:
             blk = blk.strip()
             if not blk or not blk.startswith(prefix):
@@ -234,20 +267,34 @@ def fetch_partic_list():
             num = m.group(1)
             objeto = re.sub(r"\s+", " ", m.group(2)).strip()
             if len(objeto) < 20:
-                continue  # provavelmente lixo
-            # Corta no próximo separador típico ("ATENÇÃO:" ou "Período de Contribuições:")
+                continue
             objeto = re.split(r"\s+ATEN[ÇC][AÃ]O\s*:|\s+Per[íi]odo de Contribui[çc][õo]es\s*:", objeto)[0].strip()
             objeto = objeto[:2000]
-            # Tenta extrair deadline (data final pra envio de contribuições)
-            deadline = _extract_partic_deadline(blk)
+
+            # Pega link de detalhe correspondente (em ordem)
+            detail_url = detail_links[block_idx] if block_idx < len(detail_links) else None
+            block_idx += 1
+
+            # Visita detalhe pra extrair período exato
+            start_date, deadline = None, None
+            if detail_url:
+                detail_url_clean = _html_mod.unescape(detail_url)
+                start_date, deadline = _fetch_partic_detail(sess, detail_url_clean)
+                time.sleep(0.8)  # gentle ao Liferay
+
+            # Fallback: regex no texto do bloco se detail falhou
+            if not deadline:
+                deadline = _extract_partic_deadline(blk)
+
             items.append({
                 "type": f"partic_{kind}",
                 "id": f"partic_{kind}_{num.replace('/', '_')}",
                 "title": f"{prefix} Pública nº {num}",
                 "date": None,
-                "link": url,
+                "link": detail_url_clean if detail_url else url,  # link agora aponta pro detalhe
                 "objeto": objeto,
-                "deadline": deadline,  # DD/MM/YYYY ou None
+                "start_date": start_date,
+                "deadline": deadline,
             })
     return items
 
@@ -458,6 +505,8 @@ def main():
                 entry["objeto"] = item["objeto"]
             if item.get("deadline"):
                 entry["deadline"] = item["deadline"]
+            if item.get("start_date"):
+                entry["start_date"] = item["start_date"]
             if not body:
                 entry["error"] = "no_body"
             elif not summary:
