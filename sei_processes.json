@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "4c8a96b15ae2",
       "a7b7a8a54b18",
       "9637e76bfb39",
       "f8833ddbebb3",
@@ -352,12 +353,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 345,
+    "andamento_count": 346,
     "documento_count": 297,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-26T10:57:15.795530",
+    "last_check_at": "2026-05-26T13:15:38.209138",
     "last_andamentos_top10": [
+      {
+        "datahora": "26/05/2026 12:00",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "EM ATENÇÃO AO memorando n° 2/2026-CPL/ANEEL DIST A PROCURADORA FABIA",
+        "hash": "4c8a96b15ae2"
+      },
       {
         "datahora": "26/05/2026 10:34",
         "unidade": "PROCURADORIA FEDERAL",
@@ -411,12 +418,6 @@
         "unidade": "CPL",
         "descricao": "Processo 48500.013149/2026-91 anexado",
         "hash": "58f7d165d37e"
-      },
-      {
-        "datahora": "25/05/2026 14:28",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011918/2026-17 anexado",
-        "hash": "7545a7cd7fbf"
       }
     ],
     "last_documentos_top10": [
@@ -498,9 +499,183 @@
     "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:09:35.729138",
-    "andamentos_seen": [],
-    "andamento_count": 0,
-    "documento_count": 0
+    "andamentos_seen": [
+      "309d0053cfde",
+      "bf787e043568",
+      "a9a4715392d5",
+      "1d9665ac91f0",
+      "96d585698b1b",
+      "e6a5f9cf37bf",
+      "a6e8c9747cdf",
+      "9acaf714482b",
+      "2c879677592a",
+      "d6b0400b16b7",
+      "0243c2d42ae7",
+      "704f866de609",
+      "2d5a541188fd",
+      "c08d2958e407",
+      "04f65e25d354",
+      "b571797f5e82",
+      "f881c81548a3",
+      "05f572a109d9",
+      "5f9fe401b8b2",
+      "d36837188650",
+      "7c806dffab35",
+      "15c3037031b9",
+      "10c3106514f6",
+      "3e9f7138d339",
+      "90d3cad3af64",
+      "57289d937041",
+      "74a1a84a2341",
+      "2849f27c52fc",
+      "99326f69e5be",
+      "eeacff525787",
+      "d64bb120ff0f",
+      "23f0058271d7",
+      "2452a882bdaf",
+      "179b151a0d28",
+      "c56afc08c76e",
+      "db4e480a30b2"
+    ],
+    "andamento_count": 36,
+    "documento_count": 15,
+    "processo": "48500.906080/2022-16",
+    "tipo": "Regulação da Geração: Normatização",
+    "last_check_at": "2026-05-26T13:15:40.950908",
+    "last_andamentos_top10": [
+      {
+        "datahora": "22/05/2026 15:54",
+        "unidade": "SGM",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "309d0053cfde"
+      },
+      {
+        "datahora": "30/06/2025 10:16",
+        "unidade": "SGM",
+        "descricao": "Processo 48500.013742/2025-57 anexado",
+        "hash": "bf787e043568"
+      },
+      {
+        "datahora": "30/06/2025 08:21",
+        "unidade": "SGM",
+        "descricao": "Processo 48500.013742/2025-57 desanexado. Anexação indevida. Solicitado via chamado 1378519.",
+        "hash": "a9a4715392d5"
+      },
+      {
+        "datahora": "30/04/2025 17:34",
+        "unidade": "SGM",
+        "descricao": "Processo 48500.013742/2025-57 anexado",
+        "hash": "1d9665ac91f0"
+      },
+      {
+        "datahora": "31/03/2025 12:34",
+        "unidade": "DIR - AMAC",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "96d585698b1b"
+      },
+      {
+        "datahora": "31/03/2025 11:33",
+        "unidade": "SGM",
+        "descricao": "Processo 48500.006304/2025-32 desanexado. Desanexado do processo 48500.006304/2025-32. Anexação indevida. Solicitado via chamado.",
+        "hash": "e6a5f9cf37bf"
+      },
+      {
+        "datahora": "10/03/2025 18:01",
+        "unidade": "SGM",
+        "descricao": "Processo recebido na unidade",
+        "hash": "a6e8c9747cdf"
+      },
+      {
+        "datahora": "10/03/2025 16:10",
+        "unidade": "SGM",
+        "descricao": "Processo remetido pela unidade DIR - LLS",
+        "hash": "9acaf714482b"
+      },
+      {
+        "datahora": "05/03/2025 15:54",
+        "unidade": "SGM",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "2c879677592a"
+      },
+      {
+        "datahora": "05/03/2025 15:32",
+        "unidade": "DIR - LLS",
+        "descricao": "Processo recebido na unidade",
+        "hash": "d6b0400b16b7"
+      }
+    ],
+    "last_documentos_top10": [
+      {
+        "protocolo": "0001247",
+        "tipo": "Termo de Migração",
+        "data": "07/01/2025",
+        "data_inclusao": "07/01/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0048677",
+        "tipo": "Memória",
+        "data": "17/02/2025",
+        "data_inclusao": "17/02/2025",
+        "unidade": "ASD - Apoio"
+      },
+      {
+        "protocolo": "0048856",
+        "tipo": "Requerimento de Inclusão em Pauta",
+        "data": "21/02/2025",
+        "data_inclusao": "21/02/2025",
+        "unidade": "DIR - FLMFS"
+      },
+      {
+        "protocolo": "0049567",
+        "tipo": "Voto",
+        "data": "21/02/2025",
+        "data_inclusao": "21/02/2025",
+        "unidade": "DIR - FLMFS"
+      },
+      {
+        "protocolo": "0053028",
+        "tipo": "Voto",
+        "data": "24/02/2025",
+        "data_inclusao": "24/02/2025",
+        "unidade": "DIR - LLS"
+      },
+      {
+        "protocolo": "0053206",
+        "tipo": "Despacho Nº 437",
+        "data": "24/02/2025",
+        "data_inclusao": "24/02/2025",
+        "unidade": "DIR - LLS"
+      },
+      {
+        "protocolo": "0058627",
+        "tipo": "Extrato da Decisão da Diretoria",
+        "data": "27/02/2025",
+        "data_inclusao": "27/02/2025",
+        "unidade": "SGE - Publicação"
+      },
+      {
+        "protocolo": "0057792",
+        "tipo": "Publicação",
+        "data": "26/02/2025",
+        "data_inclusao": "26/02/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0045632",
+        "tipo": "Nota Técnica 20",
+        "data": "24/02/2025",
+        "data_inclusao": "24/02/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0053613",
+        "tipo": "Anexo",
+        "data": "24/02/2025",
+        "data_inclusao": "24/02/2025",
+        "unidade": "SGM"
+      }
+    ]
   },
   {
     "id": "curtailment-902708-2024",
@@ -508,8 +683,178 @@
     "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:13:10.312836",
-    "andamentos_seen": [],
-    "andamento_count": 0,
-    "documento_count": 0
+    "andamentos_seen": [
+      "84da8baaa37d",
+      "bdb010647fe5",
+      "0cfa5e357c9e",
+      "bbc2c50bc3e0",
+      "4abe636e7c16",
+      "61ae8e0b5ae4",
+      "3e68e1189724",
+      "e66e0fe61795",
+      "0a69696e561e",
+      "627aef9da332",
+      "ad333d3bb1b0",
+      "23a58b50e90e",
+      "3d40510f0a27",
+      "e9aa06a7740e",
+      "e6a0c3a5264c",
+      "3c0e25a878f1",
+      "b3e8d4f7f7f6",
+      "7704d2add5a7",
+      "f91e1da651d4",
+      "862015d4a227",
+      "cc50bf85ad09",
+      "ae0882e46540",
+      "eb87dfd28cc9",
+      "903c72133288",
+      "640a5c36ba41",
+      "87a8802aab62",
+      "2a77de304d9d",
+      "1b3667c9bc63",
+      "5f1cfedfd5cd",
+      "1cf241a66c5d",
+      "b9c036386684",
+      "8674831e6d3b"
+    ],
+    "andamento_count": 32,
+    "documento_count": 31,
+    "processo": "48500.902708/2024-76",
+    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+    "last_check_at": "2026-05-26T13:15:43.577793",
+    "last_andamentos_top10": [
+      {
+        "datahora": "15/12/2025 18:59",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "84da8baaa37d"
+      },
+      {
+        "datahora": "15/12/2025 18:59",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "bdb010647fe5"
+      },
+      {
+        "datahora": "10/12/2025 18:54",
+        "unidade": "DIR - AMAC",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "0cfa5e357c9e"
+      },
+      {
+        "datahora": "09/12/2025 18:40",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "bbc2c50bc3e0"
+      },
+      {
+        "datahora": "09/12/2025 15:06",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "4abe636e7c16"
+      },
+      {
+        "datahora": "09/12/2025 14:59",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo remetido pela unidade DIR - AMAC",
+        "hash": "61ae8e0b5ae4"
+      },
+      {
+        "datahora": "02/12/2025 12:13",
+        "unidade": "DIR - AMAC",
+        "descricao": "Processo recebido na unidade",
+        "hash": "3e68e1189724"
+      },
+      {
+        "datahora": "02/12/2025 12:12",
+        "unidade": "DIR - AMAC",
+        "descricao": "Processo remetido pela unidade SGM",
+        "hash": "e66e0fe61795"
+      },
+      {
+        "datahora": "28/11/2025 10:59",
+        "unidade": "ASD - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "0a69696e561e"
+      },
+      {
+        "datahora": "12/09/2025 18:20",
+        "unidade": "ASD - APOIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "627aef9da332"
+      }
+    ],
+    "last_documentos_top10": [
+      {
+        "protocolo": "0020549",
+        "tipo": "Termo de Migração",
+        "data": "07/01/2025",
+        "data_inclusao": "07/01/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0034739",
+        "tipo": "Aviso 036",
+        "data": "10/12/2024",
+        "data_inclusao": "23/01/2025",
+        "unidade": "SMA"
+      },
+      {
+        "protocolo": "0034771",
+        "tipo": "Aviso de Consulta Pública - RTP 036",
+        "data": "23/01/2025",
+        "data_inclusao": "23/01/2025",
+        "unidade": "SMA"
+      },
+      {
+        "protocolo": "48500.003181/2025-88",
+        "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+        "data": "22/01/2025",
+        "data_inclusao": "22/01/2025",
+        "unidade": "PROTOCOLO-GERAL"
+      },
+      {
+        "protocolo": "48500.005558/2025-33",
+        "tipo": "Participação Pública: Consulta Pública",
+        "data": "10/02/2025",
+        "data_inclusao": "10/02/2025",
+        "unidade": "PROTOCOLO-GERAL"
+      },
+      {
+        "protocolo": "0058800",
+        "tipo": "Relação",
+        "data": "27/02/2025",
+        "data_inclusao": "27/02/2025",
+        "unidade": "SMA"
+      },
+      {
+        "protocolo": "0058810",
+        "tipo": "Proposta",
+        "data": "27/02/2025",
+        "data_inclusao": "27/02/2025",
+        "unidade": "SMA"
+      },
+      {
+        "protocolo": "0098047",
+        "tipo": "Convite",
+        "data": "09/04/2025",
+        "data_inclusao": "24/04/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0098089",
+        "tipo": "Apresentação",
+        "data": "09/04/2025",
+        "data_inclusao": "24/04/2025",
+        "unidade": "SGM"
+      },
+      {
+        "protocolo": "0100126",
+        "tipo": "Lista",
+        "data": "09/04/2025",
+        "data_inclusao": "28/04/2025",
+        "unidade": "SGM"
+      }
+    ]
   }
 ]
