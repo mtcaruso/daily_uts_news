@@ -1,0 +1,36 @@
+name: CVM Insider Trading
+
+# Baixa VLMO (Valores Mobiliários Negociados pelos Administradores) da CVM
+# pros últimos 3 anos e agrega por (empresa, mês). 1x/dia é suficiente —
+# CVM atualiza o dataset semanalmente.
+
+on:
+  schedule:
+    - cron: "37 11 * * *"   # 08:37 BRT diário
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run CVM insider trading scraper
+        continue-on-error: true
+        run: python cvm_insider.py
+      - name: Commit cvm_insider_history.json
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cvm_insider_history.json cvm_insider_diagnostic.json
+          git diff --staged --quiet || git commit -m "Update CVM insider history [skip ci]"
+          git pull --rebase origin main || true
+          git push
