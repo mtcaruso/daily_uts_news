@@ -491,5 +491,25 @@
         "unidade": "SGE - PUBLICAÇÃO"
       }
     ]
+  },
+  {
+    "id": "curtailment-906080-2022",
+    "label": "Curtailment / Constrained-off — Regulação Geração (base REN 1.030/2022 e 1.073/2023)",
+    "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
+    "ntfy_enabled": true,
+    "added_at": "2026-05-26T13:09:35.729138",
+    "andamentos_seen": [],
+    "andamento_count": 0,
+    "documento_count": 0
+  },
+  {
+    "id": "curtailment-902708-2024",
+    "label": "Curtailment — Metodologia de Ressarcimento (votado 40ª RPO dez/2025)",
+    "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
+    "ntfy_enabled": true,
+    "added_at": "2026-05-26T13:13:10.312836",
+    "andamentos_seen": [],
+    "andamento_count": 0,
+    "documento_count": 0
   }
 ]
