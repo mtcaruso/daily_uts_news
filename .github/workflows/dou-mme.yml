@@ -1,9 +1,16 @@
 name: DOU MME/ANEEL Digest
 
+# Multi-cron fora do top-of-hour (GH Actions DROPA runs no :00 por saturação).
+# 5 chances entre 07h17 e 11h17 BRT — DOU pública por volta das 07h, então
+# 07h17 BRT (10:17 UTC) é o primary; demais são fallback se GH dropar o primary.
+# Email só dispara na 1ª run do dia que pegar items novos (--email-if-new).
 on:
   schedule:
-    # 10:00 UTC = 07:00 BRT, Seg-Sex (DOU nao publica fim de semana)
-    - cron: "0 10 * * 1-5"
+    - cron: "17 10 * * 1-5"   # 07:17 BRT (primary)
+    - cron: "17 11 * * 1-5"   # 08:17 BRT (fallback 1)
+    - cron: "17 12 * * 1-5"   # 09:17 BRT (fallback 2)
+    - cron: "17 13 * * 1-5"   # 10:17 BRT (fallback 3)
+    - cron: "17 14 * * 1-5"   # 11:17 BRT (last resort)
   workflow_dispatch:
 
 permissions:
@@ -19,18 +26,26 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
       - name: Run DOU scraper
-        # continue-on-error: 1) crashes do script não derrubam workflow → cron nunca é pausado pelo GH
-        # 2) qualquer progresso salvo em dou_history.json antes do crash será commitado abaixo
+        # Manual triggers (workflow_dispatch) → email sempre
+        # Crons → --email-if-new (só manda se houver items novos hoje)
+        # continue-on-error pra crashes não derrubarem workflow + pausarem cron
         continue-on-error: true
-        run: python dou_mme.py
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python dou_mme.py --email-if-new
+          else
+            python dou_mme.py
+          fi
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
           DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Commit dou_history.json
-        if: always()  # commita mesmo se script falhou (salva progresso parcial)
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,3 +53,22 @@ jobs:
           git diff --staged --quiet || git commit -m "Update DOU history [skip ci]"
           git pull --rebase origin main || true
           git push
+
+      - name: Healthcheck ntfy
+        # Alerta se passar > 24h sem atualização do dou_history.json
+        # (indica que TODOS os 5 crons do dia foram dropados pelo GH)
+        if: always()
+        run: |
+          # Pega last_updated do JSON
+          LAST_UPDATED=$(python -c "import json; print(json.load(open('dou_history.json'))['last_updated'][:10])" 2>/dev/null || echo "")
+          TODAY=$(date -u +%Y-%m-%d)
+          YESTERDAY=$(date -u -d "yesterday" +%Y-%m-%d 2>/dev/null || date -u -v-1d +%Y-%m-%d)
+
+          if [ "$LAST_UPDATED" != "$TODAY" ] && [ "$LAST_UPDATED" != "$YESTERDAY" ]; then
+            echo "⚠️ DOU history não atualiza desde $LAST_UPDATED — disparando ntfy"
+            curl -sS -d "DOU não atualiza desde $LAST_UPDATED. Run manual: https://github.com/mtcaruso/daily_uts_news/actions/workflows/dou-mme.yml" \
+              -H "Title: DOU stale" \
+              -H "Priority: high" \
+              -H "Tags: warning" \
+              https://ntfy.sh/utl-mtc-621qmvsd || true
+          fi

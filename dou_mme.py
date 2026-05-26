@@ -648,6 +648,7 @@ def update_history(hits):
         f"[history] +{added} novos, -{pruned} antigos, total {len(history['items'])}",
         file=sys.stderr,
     )
+    return added
 
 
 def main():
@@ -673,6 +674,16 @@ def main():
         action="store_true",
         help="Apenas resume items pendentes em dou_history.json (sem scrape, sem email)",
     )
+    parser.add_argument(
+        "--no-email",
+        action="store_true",
+        help="Faz scrape + summarize mas NÃO envia email (útil pra multi-cron resilience)",
+    )
+    parser.add_argument(
+        "--email-if-new",
+        action="store_true",
+        help="Envia email APENAS se houver items novos adicionados nesta run (multi-cron friendly)",
+    )
     args = parser.parse_args()
 
     if args.summarize_only:
@@ -694,10 +705,10 @@ def main():
 
     print(f"Buscando DOU {args.date} (seção 1)…", file=sys.stderr)
     hits = collect(args.date)
-    update_history(hits)
+    added = update_history(hits) or 0
     summarize_pending_history()
     tree = group_by_taxonomy(hits)
-    print(f"  {len(hits)} atos do MME/ANEEL", file=sys.stderr)
+    print(f"  {len(hits)} atos do MME/ANEEL ({added} novos no histórico)", file=sys.stderr)
 
     pretty_date = args.date.replace("-", "/")
     subject = f"DOU MME/ANEEL — {pretty_date}"
@@ -705,6 +716,16 @@ def main():
     if args.dry_run:
         sys.stdout.reconfigure(encoding="utf-8")
         print(render_text(tree, pretty_date))
+        return
+
+    # Skip email se --no-email OR (--email-if-new e added==0)
+    # Multi-cron resilience: 5 crons firando 10:17, 11:17, 12:17, 13:17, 14:17 UTC.
+    # Primeiro a pegar items novos manda email; rodadas seguintes não duplicam.
+    if args.no_email:
+        print("[email] --no-email — skip", file=sys.stderr)
+        return
+    if args.email_if_new and added == 0:
+        print(f"[email] --email-if-new e 0 items novos — skip", file=sys.stderr)
         return
 
     html = render_html(tree, pretty_date)
