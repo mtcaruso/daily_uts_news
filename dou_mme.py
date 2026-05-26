@@ -547,13 +547,11 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
         return 0
 
     history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
-    # Items pendentes: sem summary OU sem objeto (objeto é novo, indica que
-    # o item foi processado pela versão antiga sem fetch full text → resumo
-    # provavelmente raso. Re-processa com o full text).
-    pending = [
-        i for i in history["items"]
-        if not i.get("summary") or not i.get("objeto")
-    ]
+    # Items pendentes: APENAS sem summary.
+    # (Bug anterior: condição "or not i.get('objeto')" re-processava todo run
+    # os items antigos que nunca tiveram objeto extraído com sucesso — 374
+    # items rodavam em loop, gastando tempo + quota Gemini.)
+    pending = [i for i in history["items"] if not i.get("summary")]
     if not pending:
         print("[summarize] tudo em dia", file=sys.stderr)
         return 0
