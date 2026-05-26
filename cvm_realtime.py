@@ -41,6 +41,7 @@ COMPANIES_CODIGOS = {
     "Sabesp":        ["14443"],
     "Copasa":        ["19445"],
     "Sanepar":       ["18627"],
+    "Aegea":         ["23396"],
 }
 
 # Categorias que disparam push notification quando aparecem novas
