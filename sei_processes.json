@@ -856,5 +856,15 @@
         "unidade": "SGM"
       }
     ]
+  },
+  {
+    "id": "armazenamento-904885-2020",
+    "label": "Armazenamento de Energia (regulação SRG — base das CPs 39/2023 e 2/2025)",
+    "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
+    "ntfy_enabled": true,
+    "added_at": "2026-05-26T13:58:14.887896",
+    "andamentos_seen": [],
+    "andamento_count": 0,
+    "documento_count": 0
   }
 ]
