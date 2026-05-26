@@ -6,6 +6,9 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "a7b7a8a54b18",
+      "9637e76bfb39",
+      "f8833ddbebb3",
       "bbd875aba494",
       "ef82c4a1afec",
       "e763812e52ab",
@@ -349,12 +352,30 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 342,
+    "andamento_count": 345,
     "documento_count": 297,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-26T09:44:27.414393",
+    "last_check_at": "2026-05-26T10:38:30.164040",
     "last_andamentos_top10": [
+      {
+        "datahora": "26/05/2026 10:34",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Ricardo, favor cadastrar/atualizar processo no Sapiens e abrir tarefa para a Fábia.",
+        "hash": "a7b7a8a54b18"
+      },
+      {
+        "datahora": "26/05/2026 10:17",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "9637e76bfb39"
+      },
+      {
+        "datahora": "26/05/2026 09:58",
+        "unidade": "CPL",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "f8833ddbebb3"
+      },
       {
         "datahora": "25/05/2026 18:17",
         "unidade": "PROCURADORIA FEDERAL",
@@ -396,24 +417,6 @@
         "unidade": "CPL",
         "descricao": "Processo 48500.011918/2026-17 anexado",
         "hash": "7545a7cd7fbf"
-      },
-      {
-        "datahora": "25/05/2026 14:24",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011347/2026-11 anexado",
-        "hash": "81db196f0bc9"
-      },
-      {
-        "datahora": "25/05/2026 14:20",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013197/2026-80 anexado",
-        "hash": "750b3227e60a"
-      },
-      {
-        "datahora": "25/05/2026 14:15",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011462/2026-95 anexado",
-        "hash": "6fb558ad725c"
       }
     ],
     "last_documentos_top10": [
