@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T14:01:07.600326",
+  "last_updated": "2026-05-26T15:12:50.102774",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -490,6 +490,46 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-abre-terceira-edicao-de-congresso-de-fiscalizacao-em-cuiaba",
       "summary": "A **ANEEL** está realizando a terceira edição do seu Congresso Nacional de Fiscalização (CONFIA) em Cuiabá (MT), de **25 a 29 de maio**. O evento, em formato híbrido, visa nivelar procedimentos e expandir o diálogo entre fiscais da **ANEEL** e Agências Reguladoras Estaduais, focando nos setores de Geração e Distribuição de Energia Elétrica. O objetivo é fortalecer a fiscalização e aprimorar a qualidade do fornecimento de energia no Brasil.",
       "added_at": "2026-05-25T19:00:29.700377"
+    },
+    "partic_mme_cp_223": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 223",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/223",
+      "summary": "Estudo de Engajamento de Partes Interessadas no Desenvolvimento da Eólica Offshore no Brasil, elaborado pela **RINA Consulting Inc.**, para subsidiar a regulamentação do setor.",
+      "added_at": "2026-05-26T15:12:47.617039",
+      "objeto": "Consulta pública sobre o Estudo de Engajamento de Partes Interessadas no Desenvolvimento da Eólica Offshore no Brasil  elaborado pela consultoria independente RINA Consulting Inc.",
+      "deadline": "01/06/2026",
+      "start_date": "12/05/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000091/2026-68"
+    },
+    "partic_mme_cp_222": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 222",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
+      "summary": null,
+      "added_at": "2026-05-26T15:12:48.118809",
+      "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
+      "deadline": "12/06/2026",
+      "start_date": "29/04/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000100/2026-11",
+      "error": "summarize_failed"
+    },
+    "partic_mme_cp_220": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 220",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/220",
+      "summary": "Aprimoramento das diretrizes para exportação de energia elétrica interruptível sem devolução à **Argentina** ou **Uruguai**, proveniente de excedente de geração de usinas hidrelétricas despachadas pelo **ONS**.",
+      "added_at": "2026-05-26T15:12:49.601147",
+      "objeto": "Proposta de aprimoramento das diretrizes para a exportação de energia elétrica interruptível sem devolução, destinada à República Argentina ou à República Oriental do Uruguai, proveniente de excedente de geração de energia elétrica de usinas hidrelétricas despachadas centralizadamente pelo ONS, disponíveis para atendimento ao SIN, cuja geração seja transmissível e não alocável na carga.",
+      "deadline": "11/06/2026",
+      "start_date": "27/04/2026",
+      "fonte": "MME",
+      "sei_processo": "48370.000632/2019-18"
     }
   }
 }
