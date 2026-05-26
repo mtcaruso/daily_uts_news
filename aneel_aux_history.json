@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T19:30:39.419407",
+  "last_updated": "2026-05-26T19:01:09.846905",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-26T19:30:38.919175",
+      "added_at": "2026-05-26T19:01:09.346678",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -530,6 +530,30 @@
       "start_date": "27/04/2026",
       "fonte": "MME",
       "sei_processo": "48370.000632/2019-18"
+    },
+    "noticia_2026_aneel-discute-desafios-da-regulacao-e-reforca-parceria-internacional-em-sao-paulo": {
+      "type": "noticia",
+      "title": "ANEEL discute desafios da regulação e reforça parceria internacional em São Paulo",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-discute-desafios-da-regulacao-e-reforca-parceria-internacional-em-sao-paulo",
+      "summary": "A **ANEEL** firmou um Memorando de Entendimento com a **International Finance Corporation (IFC)**, do Banco Mundial, em São Paulo, nesta terça-feira (26). O acordo visa fortalecer a agenda regulatória do setor elétrico brasileiro, buscando modernização e segurança jurídica.",
+      "added_at": "2026-05-26T18:02:01.430890"
+    },
+    "noticia_2026_aneel-abre-consulta-publica-para-a-revisao-tarifaria-da-celesc-sc": {
+      "type": "noticia",
+      "title": "ANEEL abre Consulta Pública para a revisão tarifária da Celesc (SC)",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-abre-consulta-publica-para-a-revisao-tarifaria-da-celesc-sc",
+      "summary": "A ANEEL abriu Consulta Pública para a Revisão Tarifária Periódica da **Celesc Distribuição S/A**, que atende cerca de **3,56 milhões** de unidades consumidoras em Santa Catarina. A proposta inicial prevê um efeito médio de **11,77%** para os consumidores, com contribuições abertas de **28 de maio a 13 de julho de 2026** e uma Audiência Pública em **18 de junho** em Florianópolis.",
+      "added_at": "2026-05-26T19:01:04.970053"
+    },
+    "noticia_2026_aneel-e-enel-sp-tratam-de-pedido-de-reconsideracao-feito-pela-distribuidora": {
+      "type": "noticia",
+      "title": "ANEEL e Enel SP tratam de pedido de reconsideração feito pela distribuidora",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-e-enel-sp-tratam-de-pedido-de-reconsideracao-feito-pela-distribuidora",
+      "summary": "A **ANEEL** recebeu a **Enel SP** para discutir o pedido de reconsideração da distribuidora sobre o processo de caducidade da sua concessão, aberto em abril. O diretor Fernando Mosna, relator do pedido, ouviu os esclarecimentos da empresa.",
+      "added_at": "2026-05-26T19:01:08.846132"
     }
   }
 }
