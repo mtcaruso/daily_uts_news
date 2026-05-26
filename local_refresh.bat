@@ -46,7 +46,7 @@ if errorlevel 1 (
     echo WARN: aneel_aux.py falhou
 )
 
-echo [4/6] python dou_mme.py --email-if-new --no-email (DOU MME/ANEEL)...
+echo [4/7] python dou_mme.py --no-email (DOU MME/ANEEL)...
 REM --no-email pois RESEND_API_KEY só está nos GitHub Secrets. Email vai via GHA.
 REM Backup pra quando scheduled do GH falhar em disparar.
 py dou_mme.py --no-email
@@ -54,12 +54,20 @@ if errorlevel 1 (
     echo WARN: dou_mme.py falhou
 )
 
-echo [5/6] git add + commit...
-git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json
+echo [5/7] python sei_monitor.py (processos SEI)...
+REM Visita URLs SEI com hash (em sei_processes.json), detecta novos andamentos
+REM e notifica via ntfy. SEI nao requer login pra essas URLs publicas.
+py sei_monitor.py
+if errorlevel 1 (
+    echo WARN: sei_monitor.py falhou
+)
+
+echo [6/7] git add + commit...
+git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json
 git diff --staged --quiet
 if errorlevel 1 (
     git commit -m "Local refresh [skip ci]"
-    echo [6/6] git push...
+    echo [7/7] git push...
     git push
     if errorlevel 1 (
         echo ERROR: git push falhou. Cheque auth.
