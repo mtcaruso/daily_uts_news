@@ -1,13 +1,15 @@
 @echo off
 REM ============================================================
-REM Self-host news + ANEEL aux refresh
+REM Self-host news + ANEEL aux + DOU refresh
 REM
-REM Roda no PC do user pra processar items que GHA bloqueia
-REM (Canal Energia e Liferay ANEEL tem blacklist de IPs de datacenter).
+REM Roda no PC do user pra:
+REM   1. Processar items que GHA bloqueia (CE Cloudflare, Liferay ANEEL)
+REM   2. Backup pro DOU caso scheduled do GH falhe em disparar
 REM
 REM Inclui:
 REM   - news_summarize.py (Canal Energia)
 REM   - aneel_aux.py (Pautas RD via Liferay)
+REM   - dou_mme.py --no-email (DOU MME/ANEEL atos oficiais; email vai via GHA)
 REM
 REM Setup necessario:
 REM   1. Python 3.10+ com `py -m pip install -r requirements.txt`
@@ -38,18 +40,26 @@ if errorlevel 1 (
     echo WARN: news_summarize.py falhou — continuando pra aneel_aux
 )
 
-echo [3/5] python aneel_aux.py (Pautas RD + Sala de Imprensa)...
+echo [3/6] python aneel_aux.py (Pautas RD + Sala de Imprensa)...
 py aneel_aux.py
 if errorlevel 1 (
     echo WARN: aneel_aux.py falhou
 )
 
-echo [4/5] git add + commit...
-git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json
+echo [4/6] python dou_mme.py --email-if-new --no-email (DOU MME/ANEEL)...
+REM --no-email pois RESEND_API_KEY só está nos GitHub Secrets. Email vai via GHA.
+REM Backup pra quando scheduled do GH falhar em disparar.
+py dou_mme.py --no-email
+if errorlevel 1 (
+    echo WARN: dou_mme.py falhou
+)
+
+echo [5/6] git add + commit...
+git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json
 git diff --staged --quiet
 if errorlevel 1 (
     git commit -m "Local refresh [skip ci]"
-    echo [5/5] git push...
+    echo [6/6] git push...
     git push
     if errorlevel 1 (
         echo ERROR: git push falhou. Cheque auth.
