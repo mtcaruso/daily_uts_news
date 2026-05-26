@@ -10,6 +10,8 @@ REM Inclui:
 REM   - news_summarize.py (Canal Energia)
 REM   - aneel_aux.py (Pautas RD via Liferay)
 REM   - dou_mme.py --no-email (DOU MME/ANEEL atos oficiais; email vai via GHA)
+REM   - sei_monitor.py (processos SEI)
+REM   - mme_legislacao.py (portarias/decretos/leis MME)
 REM
 REM Setup necessario:
 REM   1. Python 3.10+ com `py -m pip install -r requirements.txt`
@@ -26,7 +28,7 @@ if "%GEMINI_API_KEY%"=="" (
     exit /b 1
 )
 
-echo [1/5] git pull origin main...
+echo [1/8] git pull origin main...
 git pull --ff-only origin main
 if errorlevel 1 (
     echo ERROR: git pull falhou
@@ -34,19 +36,19 @@ if errorlevel 1 (
     exit /b 1
 )
 
-echo [2/5] python news_summarize.py (Canal Energia + outras)...
+echo [2/8] python news_summarize.py (Canal Energia + outras)...
 py news_summarize.py
 if errorlevel 1 (
     echo WARN: news_summarize.py falhou — continuando pra aneel_aux
 )
 
-echo [3/6] python aneel_aux.py (Pautas RD + Sala de Imprensa)...
+echo [3/8] python aneel_aux.py (Pautas RD + Sala de Imprensa)...
 py aneel_aux.py
 if errorlevel 1 (
     echo WARN: aneel_aux.py falhou
 )
 
-echo [4/7] python dou_mme.py --no-email (DOU MME/ANEEL)...
+echo [4/8] python dou_mme.py --no-email (DOU MME/ANEEL)...
 REM --no-email pois RESEND_API_KEY só está nos GitHub Secrets. Email vai via GHA.
 REM Backup pra quando scheduled do GH falhar em disparar.
 py dou_mme.py --no-email
@@ -54,7 +56,7 @@ if errorlevel 1 (
     echo WARN: dou_mme.py falhou
 )
 
-echo [5/7] python sei_monitor.py (processos SEI)...
+echo [5/8] python sei_monitor.py (processos SEI)...
 REM Visita URLs SEI com hash (em sei_processes.json), detecta novos andamentos
 REM e notifica via ntfy. SEI nao requer login pra essas URLs publicas.
 py sei_monitor.py
@@ -62,12 +64,20 @@ if errorlevel 1 (
     echo WARN: sei_monitor.py falhou
 )
 
-echo [6/7] git add + commit...
-git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json
+echo [6/8] python mme_legislacao.py (portarias/decretos/leis MME)...
+REM Coleta legislacao MME via Plone publico. Resume ementas via Gemini.
+REM Notifica via ntfy itens novos (apos primeira run).
+py mme_legislacao.py
+if errorlevel 1 (
+    echo WARN: mme_legislacao.py falhou
+)
+
+echo [7/8] git add + commit...
+git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json mme_legislacao_history.json mme_legislacao_diagnostic.json
 git diff --staged --quiet
 if errorlevel 1 (
     git commit -m "Local refresh [skip ci]"
-    echo [7/7] git push...
+    echo [8/8] git push...
     git push
     if errorlevel 1 (
         echo ERROR: git push falhou. Cheque auth.
