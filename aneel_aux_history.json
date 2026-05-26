@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T19:01:09.846905",
+  "last_updated": "2026-05-26T23:52:36.665677",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-26T19:01:09.346678",
+      "added_at": "2026-05-26T23:52:36.165513",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -554,6 +554,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-e-enel-sp-tratam-de-pedido-de-reconsideracao-feito-pela-distribuidora",
       "summary": "A **ANEEL** recebeu a **Enel SP** para discutir o pedido de reconsideração da distribuidora sobre o processo de caducidade da sua concessão, aberto em abril. O diretor Fernando Mosna, relator do pedido, ouviu os esclarecimentos da empresa.",
       "added_at": "2026-05-26T19:01:08.846132"
+    },
+    "noticia_2026_aneel-autoriza-reajuste-das-tarifas-da-cemig-d": {
+      "type": "noticia",
+      "title": "ANEEL autoriza reajuste das tarifas da Cemig-D",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-autoriza-reajuste-das-tarifas-da-cemig-d",
+      "summary": "A ANEEL autorizou o reajuste tarifário anual da **Cemig-D**, que atende cerca de **9,8 milhões** de unidades consumidoras em Minas Gerais. A partir de **28 de maio**, o aumento médio para o consumidor será de **6,50%**, com residenciais (B1) pagando **5,21%** e alta tensão **9,43%**. Municípios da SUDENE terão um fator redutor posterior, resultando em **4,51%** para baixa tensão, com **R$ 73 milhões** destinados.",
+      "added_at": "2026-05-26T23:52:33.399448"
+    },
+    "noticia_2026_consulta-publica-propoe-aprimorar-criterio-de-eficiencia-para-gestao-economico-financeira": {
+      "type": "noticia",
+      "title": "Consulta Pública propõe aprimorar Critério de Eficiência para Gestão Econômico-Financeira",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/consulta-publica-propoe-aprimorar-criterio-de-eficiencia-para-gestao-economico-financeira",
+      "summary": "A ANEEL abriu a Consulta Pública **CP015/2026** para aprimorar o Critério de Eficiência na gestão econômico-financeira das distribuidoras de energia, buscando simplificar o cálculo do LAJIDA. A medida afeta as concessionárias com contratos prorrogados ou celebrados a partir de **2015**, ou a serem prorrogados conforme o Decreto **12.068/2024**. As contribuições podem ser enviadas de **28 de maio a 13 de julho**.",
+      "added_at": "2026-05-26T23:52:35.665359"
     }
   }
 }
