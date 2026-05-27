@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T23:52:36.665677",
+  "last_updated": "2026-05-27T12:39:53.777724",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-26T23:52:36.165513",
+      "added_at": "2026-05-27T12:39:53.277503",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -570,6 +570,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/consulta-publica-propoe-aprimorar-criterio-de-eficiencia-para-gestao-economico-financeira",
       "summary": "A ANEEL abriu a Consulta Pública **CP015/2026** para aprimorar o Critério de Eficiência na gestão econômico-financeira das distribuidoras de energia, buscando simplificar o cálculo do LAJIDA. A medida afeta as concessionárias com contratos prorrogados ou celebrados a partir de **2015**, ou a serem prorrogados conforme o Decreto **12.068/2024**. As contribuições podem ser enviadas de **28 de maio a 13 de julho**.",
       "added_at": "2026-05-26T23:52:35.665359"
+    },
+    "noticia_2026_comeca-o-2o-seminario-de-aneel-de-regulacao-e-analise-economica-do-direito": {
+      "type": "noticia",
+      "title": "Começa o 2º Seminário de ANEEL de Regulação e Análise Econômica do Direito",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-de-aneel-de-regulacao-e-analise-economica-do-direito",
+      "summary": "A **ANEEL** iniciou seu 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento, que vai até **27/05**, reúne diretores da agência, advogados e especialistas para discutir temas como IA, transição energética e novos mercados.",
+      "added_at": "2026-05-27T12:39:52.777326"
     }
   }
 }
