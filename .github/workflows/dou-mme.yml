@@ -1,15 +1,13 @@
 name: DOU MME/ANEEL Digest
 
-# Multi-cron @ :17 (fora do top-of-hour pra evitar saturação do GH Actions)
+# A cada 1h @:17 das 07h às 19h BRT, Seg-Sex (mesmo padrão que aneel_aux.yml e
+# news_refresh.yml que funcionam de forma confiável). 5-cron entries separadas
+# era flaky — single-cron com hour-list é robusto.
 # Email só envia se houver items novos (--email-if-new) — multi-runs no mesmo
 # dia não duplicam email.
 on:
   schedule:
-    - cron: "17 10 * * 1-5"
-    - cron: "17 11 * * 1-5"
-    - cron: "17 12 * * 1-5"
-    - cron: "17 13 * * 1-5"
-    - cron: "17 14 * * 1-5"
+    - cron: "17 10,11,12,13,14,15,16,17,18,19,20,21,22 * * 1-5"
   workflow_dispatch:
 
 permissions:
