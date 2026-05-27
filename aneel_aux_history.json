@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T12:39:53.777724",
+  "last_updated": "2026-05-27T15:05:43.287803",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-27T12:39:53.277503",
+      "added_at": "2026-05-27T15:05:42.787023",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -578,6 +578,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-de-aneel-de-regulacao-e-analise-economica-do-direito",
       "summary": "A **ANEEL** iniciou seu 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento, que vai até **27/05**, reúne diretores da agência, advogados e especialistas para discutir temas como IA, transição energética e novos mercados.",
       "added_at": "2026-05-27T12:39:52.777326"
+    },
+    "noticia_2026_aneel-destaca-forca-do-segmento-de-transmissao-e-defende-inovacao-e-expansao-no-brasil": {
+      "type": "noticia",
+      "title": "ANEEL destaca força do segmento de transmissão e defende inovação e expansão no Brasil",
+      "date": "27/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-destaca-forca-do-segmento-de-transmissao-e-defende-inovacao-e-expansao-no-brasil",
+      "summary": "A ANEEL, através de seu diretor-geral Sandoval Feitosa, destacou o sucesso histórico do setor de transmissão de energia no Brasil, com altas taxas de disponibilidade e geração de empregos. O anúncio foi feito no IV SINTRE, em Brasília, evento que reuniu especialistas, executivos e reguladores, incluindo representantes do MME, EPE, **Evoltz** e ONS. A agência defende a inovação e a qualificação profissional para a expansão do setor, que já apresenta **investimentos consistentes** na indústria nacional.",
+      "added_at": "2026-05-27T15:05:40.007761"
+    },
+    "noticia_2026_comeca-o-2o-seminario-aneel-de-regulacao-e-analise-economica-do-direito": {
+      "type": "noticia",
+      "title": "Começa o 2º Seminário ANEEL de Regulação e Análise Econômica do Direito",
+      "date": "26/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-aneel-de-regulacao-e-analise-economica-do-direito",
+      "summary": "A **ANEEL** iniciou o 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento reúne diretores da agência, professores da **USP** e **Uniceub**, e especialistas para discutir temas como IA, transição energética e novos mercados. A programação segue até **27/05**, com transmissão ao vivo pelo YouTube.",
+      "added_at": "2026-05-27T15:05:42.284863"
     }
   }
 }

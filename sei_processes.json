@@ -6,6 +6,11 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "5036259d44c7",
+      "c2a02a1dcd79",
+      "0547fa33d05c",
+      "41a652dbe4cd",
+      "db25febf28cb",
       "4c8a96b15ae2",
       "a7b7a8a54b18",
       "9637e76bfb39",
@@ -353,12 +358,42 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 346,
-    "documento_count": 297,
+    "andamento_count": 351,
+    "documento_count": 298,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-26T19:01:29.953298",
+    "last_check_at": "2026-05-27T15:06:00.392977",
     "last_andamentos_top10": [
+      {
+        "datahora": "27/05/2026 11:07",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "EM ATENÇÃO AO memorando n° 41/2026-DIR - FLMFS/ANEEL",
+        "hash": "5036259d44c7"
+      },
+      {
+        "datahora": "27/05/2026 11:00",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Ricardo, favor fazer a juntada do Memorando 41 (0366722) no Sapiens e abrir tarefa de ciência à Fábia.",
+        "hash": "c2a02a1dcd79"
+      },
+      {
+        "datahora": "27/05/2026 10:55",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "0547fa33d05c"
+      },
+      {
+        "datahora": "26/05/2026 22:18",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo remetido pela unidade DIR - FLMFS",
+        "hash": "41a652dbe4cd"
+      },
+      {
+        "datahora": "26/05/2026 21:43",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "db25febf28cb"
+      },
       {
         "datahora": "26/05/2026 12:00",
         "unidade": "PROCURADORIA FEDERAL",
@@ -388,36 +423,6 @@
         "unidade": "PROCURADORIA FEDERAL",
         "descricao": "Processo remetido pela unidade CPL",
         "hash": "bbd875aba494"
-      },
-      {
-        "datahora": "25/05/2026 14:45",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011465/2026-29 anexado",
-        "hash": "ef82c4a1afec"
-      },
-      {
-        "datahora": "25/05/2026 14:41",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.012018/2026-97 anexado",
-        "hash": "e763812e52ab"
-      },
-      {
-        "datahora": "25/05/2026 14:37",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.012984/2026-12 anexado",
-        "hash": "188f36639efe"
-      },
-      {
-        "datahora": "25/05/2026 14:36",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011346/2026-76 anexado",
-        "hash": "119f85e8db8e"
-      },
-      {
-        "datahora": "25/05/2026 14:32",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013149/2026-91 anexado",
-        "hash": "58f7d165d37e"
       }
     ],
     "last_documentos_top10": [
@@ -541,7 +546,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-26T19:01:32.512189",
+    "last_check_at": "2026-05-27T15:06:02.849042",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -721,7 +726,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-26T19:01:35.222110",
+    "last_check_at": "2026-05-27T15:06:05.441661",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -864,6 +869,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "f6f724a72516",
+      "48eac262d182",
       "36d66b264ae3",
       "99795eeea6b6",
       "82181b0dd354",
@@ -1112,12 +1119,24 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 247,
-    "documento_count": 127,
+    "andamento_count": 249,
+    "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-26T19:01:38.584620",
+    "last_check_at": "2026-05-27T15:06:08.747150",
     "last_andamentos_top10": [
+      {
+        "datahora": "26/05/2026 19:15",
+        "unidade": "ASD - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "f6f724a72516"
+      },
+      {
+        "datahora": "26/05/2026 19:10",
+        "unidade": "ASD - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "48eac262d182"
+      },
       {
         "datahora": "20/05/2026 16:33",
         "unidade": "ASD - APOIO",
@@ -1165,18 +1184,6 @@
         "unidade": "STE",
         "descricao": "Processo recebido na unidade",
         "hash": "80b45733a0dd"
-      },
-      {
-        "datahora": "10/04/2026 15:40",
-        "unidade": "SFT",
-        "descricao": "Processo recebido na unidade",
-        "hash": "e77cdde31089"
-      },
-      {
-        "datahora": "10/04/2026 15:20",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "4f554e17ae71"
       }
     ],
     "last_documentos_top10": [
