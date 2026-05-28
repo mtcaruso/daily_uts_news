@@ -86,12 +86,26 @@ git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_
 git diff --staged --quiet
 if errorlevel 1 (
     git commit -m "Local refresh [skip ci]"
-    echo [9/9] git push...
+    echo [9/9] git pull --rebase + push...
+    REM Rebase antes do push pra absorver commits que o GHA pushou DURANTE a run
+    REM (race condition). Pra JSONs de estado, conflito resolve sempre pela versao
+    REM local (-X theirs) — sao regenerados a cada run, entao nao perde nada real.
+    git pull --rebase -X theirs origin main
+    if errorlevel 1 (
+        echo WARN: rebase com conflito inesperado — tentando abortar e merge simples
+        git rebase --abort
+        git pull --no-rebase -X ours origin main
+    )
     git push
     if errorlevel 1 (
-        echo ERROR: git push falhou. Cheque auth.
-        pause
-        exit /b 1
+        echo WARN: 1o push falhou, tentando pull --rebase + push de novo...
+        git pull --rebase -X theirs origin main
+        git push
+        if errorlevel 1 (
+            echo ERROR: git push falhou apos retry. Cheque auth/conflito manual.
+            pause
+            exit /b 1
+        )
     )
     echo SUCESSO: pushed pro GitHub
 ) else (
