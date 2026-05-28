@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-28T13:08:43.176477-03:00",
+  "last_updated": "2026-05-28T13:35:27.513725-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação Corporativa 1T26 -",
+      "data_referencia": "20260528 28/05/2026",
+      "data_entrega": "20260528 28/05/2026 12:14",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação Corporativa 1T26",
+      "protocolo": "1527792",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1527792",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-05-28T13:35:22.406642"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
