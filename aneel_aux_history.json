@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T20:38:42.604025",
+  "last_updated": "2026-05-28T11:07:12.246463",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-27T20:38:42.103864",
+      "added_at": "2026-05-28T11:07:11.746246",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -594,6 +594,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-aneel-de-regulacao-e-analise-economica-do-direito",
       "summary": "A **ANEEL** iniciou o 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento reúne diretores da agência, professores da **USP** e **Uniceub**, e especialistas para discutir temas como IA, transição energética e novos mercados. A programação segue até **27/05**, com transmissão ao vivo pelo YouTube.",
       "added_at": "2026-05-27T15:05:42.284863"
+    },
+    "noticia_2026_seminario-sobre-regulacao-e-analise-economica-do-direito-e-encerrado-com-participacao-expressiva-e-debates-sobre-o-setor-eletrico": {
+      "type": "noticia",
+      "title": "Seminário sobre Regulação e Análise Econômica do Direito é encerrado com participação expressiva e debates sobre o Setor Elétrico",
+      "date": "27/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/seminario-sobre-regulacao-e-analise-economica-do-direito-e-encerrado-com-participacao-expressiva-e-debates-sobre-o-setor-eletrico",
+      "summary": "A ANEEL encerrou um seminário que debateu temas cruciais do Setor Elétrico Brasileiro, como a demanda de energia para datacenters, principalmente na região Sudeste, e a transição energética. Empresas como **WEG**, **Engie**, **EDP South America**, **Energisa** e **CPFL** participaram das discussões sobre desafios de distribuição, transmissão e a necessidade de um sistema elétrico robusto. Não foram anunciados valores, datas ou prazos específicos, mas sim a importância de segurança jurídica e regulação baseada em evidências.",
+      "added_at": "2026-05-28T11:07:09.230153"
+    },
+    "noticia_2026_aneel-anuncia-o-projeto-energia-consciente-para-aplicacao-em-escolas-publicas": {
+      "type": "noticia",
+      "title": "ANEEL anuncia o Projeto Energia Consciente para aplicação em escolas públicas",
+      "date": "27/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-o-projeto-energia-consciente-para-aplicacao-em-escolas-publicas",
+      "summary": "A ANEEL lançou o Projeto Energia Consciente, uma iniciativa educacional de eficiência energética para **30 mil estudantes** do ensino fundamental em **25 escolas públicas**. O projeto, com investimento de **R$ 6,1 milhões** em **24 meses**, envolve as distribuidoras **Neoenergia Brasília**, **Neoenergia Elektro**, **Equatorial Alagoas**, **Equatorial Pará** e **Equatorial Energia CEEE**.",
+      "added_at": "2026-05-28T11:07:11.246061"
     }
   }
 }
