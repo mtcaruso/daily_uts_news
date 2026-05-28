@@ -366,10 +366,10 @@
       "3283160d7e6f"
     ],
     "andamento_count": 358,
-    "documento_count": 305,
+    "documento_count": 307,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-28T13:07:42.351997",
+    "last_check_at": "2026-05-28T13:34:12.272804",
     "last_andamentos_top10": [
       {
         "datahora": "28/05/2026 10:10",
@@ -553,7 +553,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-28T13:07:45.851958",
+    "last_check_at": "2026-05-28T13:34:14.705731",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -733,7 +733,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-28T13:07:51.473721",
+    "last_check_at": "2026-05-28T13:34:17.200437",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1130,7 +1130,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-28T13:07:57.695460",
+    "last_check_at": "2026-05-28T13:34:20.455159",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1263,6 +1263,122 @@
         "data": "30/01/2025",
         "data_inclusao": "30/01/2025",
         "unidade": "PROTOCOLO-GERAL"
+      }
+    ]
+  },
+  {
+    "id": "rap-transmissao-2026",
+    "label": "Reajuste Anual RAP 2026 — Transmissão",
+    "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
+    "ntfy_enabled": true,
+    "added_at": "2026-05-28T13:34:02.332268-03:00",
+    "andamentos_seen": [
+      "42bdaa7ccdfa",
+      "ead248a29f35",
+      "62dea63908cc",
+      "253a55d01437",
+      "635fa8cdaf7c",
+      "f0fd694d277a",
+      "3d49f41f9586"
+    ],
+    "processo": "48500.007946/2026-30",
+    "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
+    "andamento_count": 7,
+    "documento_count": 7,
+    "last_check_at": "2026-05-28T13:34:22.760180",
+    "last_andamentos_top10": [
+      {
+        "datahora": "19/05/2026 10:17",
+        "unidade": "STR",
+        "descricao": "Processo recebido na unidade",
+        "hash": "42bdaa7ccdfa"
+      },
+      {
+        "datahora": "19/05/2026 10:17",
+        "unidade": "STR",
+        "descricao": "Processo remetido pela unidade DIR - GNSJ",
+        "hash": "ead248a29f35"
+      },
+      {
+        "datahora": "04/05/2026 13:19",
+        "unidade": "DIR - GNSJ",
+        "descricao": "Processo recebido na unidade",
+        "hash": "62dea63908cc"
+      },
+      {
+        "datahora": "04/05/2026 10:36",
+        "unidade": "DIR - GNSJ",
+        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+        "hash": "253a55d01437"
+      },
+      {
+        "datahora": "24/04/2026 11:18",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "635fa8cdaf7c"
+      },
+      {
+        "datahora": "24/04/2026 10:47",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo remetido pela unidade STR",
+        "hash": "f0fd694d277a"
+      },
+      {
+        "datahora": "25/03/2026 08:35",
+        "unidade": "STR",
+        "descricao": "Processo público gerado",
+        "hash": "3d49f41f9586"
+      }
+    ],
+    "last_documentos_top10": [
+      {
+        "protocolo": "0337341",
+        "tipo": "Requerimento de Distribuição de Processo",
+        "data": "24/04/2026",
+        "data_inclusao": "24/04/2026",
+        "unidade": "STR"
+      },
+      {
+        "protocolo": "0343778",
+        "tipo": "Despacho de Distribuição de Processo",
+        "data": "04/05/2026",
+        "data_inclusao": "04/05/2026",
+        "unidade": "SGE -SORTEIO"
+      },
+      {
+        "protocolo": "0359538",
+        "tipo": "Nota Técnica 73",
+        "data": "19/05/2026",
+        "data_inclusao": "19/05/2026",
+        "unidade": "STR"
+      },
+      {
+        "protocolo": "0360336",
+        "tipo": "Anexo",
+        "data": "19/05/2026",
+        "data_inclusao": "19/05/2026",
+        "unidade": "STR"
+      },
+      {
+        "protocolo": "0360537",
+        "tipo": "Anexo",
+        "data": "19/05/2026",
+        "data_inclusao": "20/05/2026",
+        "unidade": "STR"
+      },
+      {
+        "protocolo": "0367610",
+        "tipo": "Nota Técnica 79",
+        "data": "28/05/2026",
+        "data_inclusao": "28/05/2026",
+        "unidade": "STR"
+      },
+      {
+        "protocolo": "0367866",
+        "tipo": "Anexo",
+        "data": "28/05/2026",
+        "data_inclusao": "28/05/2026",
+        "unidade": "STR"
       }
     ]
   }
