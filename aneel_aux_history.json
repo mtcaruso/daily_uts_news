@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T11:59:46.862404",
+  "last_updated": "2026-05-28T13:06:59.208811",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-28T11:59:46.361787",
+      "added_at": "2026-05-28T13:06:58.707881",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -646,6 +646,14 @@
       "deadline": "18/06/2026",
       "start_date": "18/06/2026",
       "fonte": "ANEEL"
+    },
+    "pauta_14758": {
+      "type": "pauta_rd",
+      "title": "PAUTA DA 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "02/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14758&idAreaNoticia=425",
+      "summary": "- **Reajuste RAP 2026**: Tratamento de casos extraordinários e excepcionais para o processo de reajuste da Receita Anual Permitida – RAP.\n- **Armazenamento de Energia**: Resultado da Consulta Pública nº 39/2023 para aprimoramento da regulação de armazenamento de energia elétrica.\n- **Abertura de Mercado Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição com abertura de mercado para consumidores do Grupo A e Open Energy.\n- **CUST de Geradoras**: Resultado da Consulta Pública nº 7/2026 para mecanismo regulatório excepcional de manutenção de Contratos de Uso do Sistema de Transmissão – CUST por centrais geradoras.\n- **Modernização Tarifas de Distribuição**: Proposta de abertura de Consulta Pública para modernização das Tarifas de Distribuição – Ciclo 1 (Custo Comercial).",
+      "added_at": "2026-05-28T13:06:58.206620"
     }
   }
 }
