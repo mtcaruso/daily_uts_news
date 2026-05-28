@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-28T09:34:19.703827",
+  "last_updated": "2026-05-28T10:00:59.795757",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Prospecto de Distribuição Pública",
+      "especie": "Novo Prospecto Preliminar - Oferta Pública de Distribuição Secundária de Ações OrdináriasMinuta de Prospecto Preliminar",
+      "data_referencia": "20260528 28/05/2026",
+      "data_entrega": "20260528 28/05/2026 09:50",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Novo Prospecto Preliminar - Oferta Pública de Distribuição Secundária de Ações Ordinárias",
+      "protocolo": "1527726",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1527726",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-05-28T10:00:58.122566"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Aviso ao Mercado",
+      "especie": "Novo Aviso ao Mercado - Oferta Pública de Distribuição Secundária de Ações -",
+      "data_referencia": "20260528 28/05/2026",
+      "data_entrega": "20260528 28/05/2026 09:48",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Novo Aviso ao Mercado - Oferta Pública de Distribuição Secundária de Ações",
+      "protocolo": "1527724",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1527724",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-05-28T10:00:58.122538"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
