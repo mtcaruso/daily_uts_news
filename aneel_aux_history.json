@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T11:07:12.246463",
+  "last_updated": "2026-05-28T09:32:28.446538",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-28T11:07:11.746246",
+      "added_at": "2026-05-28T09:32:27.946117",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -610,6 +610,42 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-o-projeto-energia-consciente-para-aplicacao-em-escolas-publicas",
       "summary": "A ANEEL lançou o Projeto Energia Consciente, uma iniciativa educacional de eficiência energética para **30 mil estudantes** do ensino fundamental em **25 escolas públicas**. O projeto, com investimento de **R$ 6,1 milhões** em **24 meses**, envolve as distribuidoras **Neoenergia Brasília**, **Neoenergia Elektro**, **Equatorial Alagoas**, **Equatorial Pará** e **Equatorial Energia CEEE**.",
       "added_at": "2026-05-28T11:07:11.246061"
+    },
+    "partic_cp_015_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 015/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=EBrkIEUX&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4016&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento do Relatório de Análise de Impacto Regulatório e da minuta de Resolução Normativa que altera o Anexo VIII da **Resolução Normativa nº 948/2021**.",
+      "added_at": "2026-05-28T09:32:24.876508",
+      "objeto": "obter subsídios para o aprimoramento do Relatório de Análise de Impacto Regulatório e da minuta de Resolução Normativa que altera o Anexo VIII da Resolução Normativa nº 948, de 16 de novembro de 2021.",
+      "deadline": "13/07/2026",
+      "start_date": "28/05/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_014_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 014/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=EBrkIEUX&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4015&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão tarifária da **Celesc Distribuição S.A. (Celesc-DIS)** — proposta para vigor em **22 de agosto de 2026**.",
+      "added_at": "2026-05-28T09:32:26.218057",
+      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Celesc Distribuição S.A. – Celesc-DIS, a vigorar a partir de 22 de agosto de 2026.",
+      "deadline": "13/07/2026",
+      "start_date": "28/05/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_ap_004_2026": {
+      "type": "partic_ap",
+      "title": "Audiência Pública nº 004/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/audiencias-publicas?p_auth=Fo2U6tMO&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4017&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão tarifária da **Celesc Distribuição S.A. (Celesc-DIS)** — proposta para vigor em **22 de agosto de 2026**.",
+      "added_at": "2026-05-28T09:32:27.445174",
+      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Celesc Distribuição S.A. – Celesc-DIS, a vigorar a partir de 22 de agosto de 2026.",
+      "deadline": "18/06/2026",
+      "start_date": "18/06/2026",
+      "fonte": "ANEEL"
     }
   }
 }
