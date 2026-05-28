@@ -18,8 +18,11 @@ import sys
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
+
+BRT = ZoneInfo("America/Sao_Paulo")
 
 # Empresas alvo com seus codigoCVM (extraídos do CSV anual via cruzamento de nome).
 # Primeiro código de cada lista é o "principal" (holding/main); demais são subsidiárias.
@@ -185,7 +188,7 @@ def main():
 
     if not new_items:
         # Atualiza só last_updated pra forçar diff e commit (mostra que checagem rodou)
-        history["last_updated"] = datetime.now().isoformat()
+        history["last_updated"] = datetime.now(BRT).isoformat()
         # Prune mesmo assim
         cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
         history["items"] = [i for i in history["items"] if i.get("first_seen", "") >= cutoff]
@@ -202,7 +205,7 @@ def main():
     cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     history["items"] = [i for i in history["items"] if i.get("first_seen", "") >= cutoff]
 
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
     save_history(history)
 
     # === Push notifications pra categorias importantes ===
