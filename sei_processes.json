@@ -6,6 +6,12 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "f2df9b1af3c1",
+      "f9ae0e72a3a8",
+      "a3a025e0967e",
+      "adf8b56273e0",
+      "9f082a002c33",
+      "37672cd91d13",
       "a03567649cca",
       "e9e1c1932e0b",
       "e3d3d407e8d2",
@@ -376,12 +382,48 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 369,
-    "documento_count": 328,
+    "andamento_count": 375,
+    "documento_count": 334,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-29T13:00:32.486896",
+    "last_check_at": "2026-05-29T13:30:04.103155",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 13:26",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014371/2026-10 anexado",
+        "hash": "f2df9b1af3c1"
+      },
+      {
+        "datahora": "29/05/2026 13:24",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013013/2026-81 anexado",
+        "hash": "f9ae0e72a3a8"
+      },
+      {
+        "datahora": "29/05/2026 13:18",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013001/2026-57 anexado",
+        "hash": "a3a025e0967e"
+      },
+      {
+        "datahora": "29/05/2026 13:15",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014477/2026-13 anexado",
+        "hash": "adf8b56273e0"
+      },
+      {
+        "datahora": "29/05/2026 13:09",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013002/2026-00 anexado",
+        "hash": "9f082a002c33"
+      },
+      {
+        "datahora": "29/05/2026 13:02",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014373/2026-09 anexado",
+        "hash": "37672cd91d13"
+      },
       {
         "datahora": "29/05/2026 12:58",
         "unidade": "CPL",
@@ -405,42 +447,6 @@
         "unidade": "CPL",
         "descricao": "Processo 48500.013081/2026-41 anexado",
         "hash": "f726ef75c9d8"
-      },
-      {
-        "datahora": "29/05/2026 12:14",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014237/2026-19 anexado",
-        "hash": "fb44e05d50b1"
-      },
-      {
-        "datahora": "29/05/2026 12:11",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.012006/2026-62 anexado",
-        "hash": "7a5679a71a64"
-      },
-      {
-        "datahora": "29/05/2026 12:03",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014287/2026-98 anexado",
-        "hash": "c4b4eb8186ab"
-      },
-      {
-        "datahora": "29/05/2026 12:01",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011329/2026-39 anexado",
-        "hash": "3682c53dce85"
-      },
-      {
-        "datahora": "29/05/2026 11:47",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014661/2026-55 anexado",
-        "hash": "9a0c00581829"
-      },
-      {
-        "datahora": "29/05/2026 11:46",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014615/2026-56 anexado",
-        "hash": "6c80388732ea"
       }
     ],
     "last_documentos_top10": [
@@ -564,7 +570,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T13:00:34.904403",
+    "last_check_at": "2026-05-29T13:30:06.530213",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -744,7 +750,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-29T13:00:37.431005",
+    "last_check_at": "2026-05-29T13:30:09.070406",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1141,7 +1147,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T13:00:40.664362",
+    "last_check_at": "2026-05-29T13:30:12.313511",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1299,7 +1305,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 10,
     "documento_count": 8,
-    "last_check_at": "2026-05-29T13:00:42.991197",
+    "last_check_at": "2026-05-29T13:30:14.671324",
     "last_andamentos_top10": [
       {
         "datahora": "29/05/2026 10:37",
