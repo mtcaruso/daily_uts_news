@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "7b2a351ecdb2",
       "a38f95b0e9a5",
       "17e354e58ae1",
       "14c80fa5b94f",
@@ -365,12 +366,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 358,
-    "documento_count": 316,
+    "andamento_count": 359,
+    "documento_count": 318,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-29T10:31:56.353438",
+    "last_check_at": "2026-05-29T10:59:56.266775",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 10:46",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.015268/2026-89 anexado",
+        "hash": "7b2a351ecdb2"
+      },
       {
         "datahora": "28/05/2026 10:10",
         "unidade": "CPL",
@@ -424,12 +431,6 @@
         "unidade": "PROCURADORIA FEDERAL",
         "descricao": "Ricardo, favor fazer a juntada do Memorando 41 (0366722) no Sapiens e abrir tarefa de ciência à Fábia.",
         "hash": "c2a02a1dcd79"
-      },
-      {
-        "datahora": "27/05/2026 10:55",
-        "unidade": "PROCURADORIA FEDERAL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "0547fa33d05c"
       }
     ],
     "last_documentos_top10": [
@@ -553,7 +554,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T10:31:58.742783",
+    "last_check_at": "2026-05-29T10:59:58.714846",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -733,7 +734,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-29T10:32:01.192196",
+    "last_check_at": "2026-05-29T11:00:01.253342",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1130,7 +1131,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T10:32:04.372290",
+    "last_check_at": "2026-05-29T11:00:04.611404",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1273,6 +1274,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "34f86f114f55",
       "f1972707c814",
       "9a0d6e720f58",
       "42bdaa7ccdfa",
@@ -1285,10 +1287,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 9,
-    "documento_count": 7,
-    "last_check_at": "2026-05-29T10:32:06.769185",
+    "andamento_count": 10,
+    "documento_count": 8,
+    "last_check_at": "2026-05-29T11:00:06.983555",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 10:37",
+        "unidade": "ASD - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "34f86f114f55"
+      },
       {
         "datahora": "29/05/2026 10:30",
         "unidade": "ASD - APOIO",
@@ -1393,6 +1401,13 @@
         "data": "28/05/2026",
         "data_inclusao": "28/05/2026",
         "unidade": "STR"
+      },
+      {
+        "protocolo": "0369015",
+        "tipo": "Memória",
+        "data": "27/05/2026",
+        "data_inclusao": "29/05/2026",
+        "unidade": "ASD - APOIO"
       }
     ]
   }
