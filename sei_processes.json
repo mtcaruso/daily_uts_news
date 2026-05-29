@@ -6,6 +6,14 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "139da62d7c71",
+      "9121cf1cdca1",
+      "c339a6abdeb9",
+      "547fec12e704",
+      "183d9fd17426",
+      "1c9a3bdfd81b",
+      "dbeb6d5e0023",
+      "b2e217fce3c2",
       "4bfc81337ed5",
       "6e82c3cea9f4",
       "d0a90c50db1c",
@@ -390,12 +398,60 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 383,
-    "documento_count": 342,
+    "andamento_count": 391,
+    "documento_count": 347,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-29T14:01:04.966205",
+    "last_check_at": "2026-05-29T14:30:13.796540",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 14:26",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Processo recebido na unidade",
+        "hash": "139da62d7c71"
+      },
+      {
+        "datahora": "29/05/2026 14:21",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.009869/2026-52 anexado",
+        "hash": "9121cf1cdca1"
+      },
+      {
+        "datahora": "29/05/2026 14:12",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Processo remetido pela unidade PROCURADORIA FEDERAL",
+        "hash": "c339a6abdeb9"
+      },
+      {
+        "datahora": "29/05/2026 14:12",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Em atenção PARECER Nº 00110/2026/PFANEEL",
+        "hash": "547fec12e704"
+      },
+      {
+        "datahora": "29/05/2026 14:10",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "183d9fd17426"
+      },
+      {
+        "datahora": "29/05/2026 14:09",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.008759/2026-73 anexado",
+        "hash": "1c9a3bdfd81b"
+      },
+      {
+        "datahora": "29/05/2026 14:05",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.009210/2026-04 anexado",
+        "hash": "dbeb6d5e0023"
+      },
+      {
+        "datahora": "29/05/2026 14:01",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.010748/2026-53 anexado",
+        "hash": "b2e217fce3c2"
+      },
       {
         "datahora": "29/05/2026 13:58",
         "unidade": "CPL",
@@ -407,54 +463,6 @@
         "unidade": "CPL",
         "descricao": "Processo 48500.011928/2026-52 anexado",
         "hash": "6e82c3cea9f4"
-      },
-      {
-        "datahora": "29/05/2026 13:50",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.011982/2026-06 anexado",
-        "hash": "d0a90c50db1c"
-      },
-      {
-        "datahora": "29/05/2026 13:46",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.012836/2026-90 anexado",
-        "hash": "aa029a6b7db1"
-      },
-      {
-        "datahora": "29/05/2026 13:41",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013491/2026-91 anexado",
-        "hash": "2cd0d0853b39"
-      },
-      {
-        "datahora": "29/05/2026 13:38",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013675/2026-51 anexado",
-        "hash": "ef5b9737db55"
-      },
-      {
-        "datahora": "29/05/2026 13:34",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014012/2026-54 anexado",
-        "hash": "248e9df2fcbe"
-      },
-      {
-        "datahora": "29/05/2026 13:31",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013679/2026-30 anexado",
-        "hash": "b02e35194021"
-      },
-      {
-        "datahora": "29/05/2026 13:26",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014371/2026-10 anexado",
-        "hash": "f2df9b1af3c1"
-      },
-      {
-        "datahora": "29/05/2026 13:24",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013013/2026-81 anexado",
-        "hash": "f9ae0e72a3a8"
       }
     ],
     "last_documentos_top10": [
@@ -578,7 +586,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T14:01:07.403788",
+    "last_check_at": "2026-05-29T14:30:16.220404",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -758,7 +766,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-29T14:01:10.352376",
+    "last_check_at": "2026-05-29T14:30:18.720218",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1155,7 +1163,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T14:01:13.674761",
+    "last_check_at": "2026-05-29T14:30:23.412524",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1298,6 +1306,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "822a3e794ee4",
       "34f86f114f55",
       "f1972707c814",
       "9a0d6e720f58",
@@ -1311,10 +1320,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 10,
-    "documento_count": 8,
-    "last_check_at": "2026-05-29T14:01:16.044436",
+    "andamento_count": 11,
+    "documento_count": 9,
+    "last_check_at": "2026-05-29T14:30:25.766840",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 14:19",
+        "unidade": "DIR - GNSJ",
+        "descricao": "Processo 48500.015372/2026-73 anexado",
+        "hash": "822a3e794ee4"
+      },
       {
         "datahora": "29/05/2026 10:37",
         "unidade": "ASD - APOIO",
@@ -1368,12 +1383,6 @@
         "unidade": "SGE -SORTEIO",
         "descricao": "Processo remetido pela unidade STR",
         "hash": "f0fd694d277a"
-      },
-      {
-        "datahora": "25/03/2026 08:35",
-        "unidade": "STR",
-        "descricao": "Processo público gerado",
-        "hash": "3d49f41f9586"
       }
     ],
     "last_documentos_top10": [
@@ -1432,6 +1441,13 @@
         "data": "27/05/2026",
         "data_inclusao": "29/05/2026",
         "unidade": "ASD - APOIO"
+      },
+      {
+        "protocolo": "48500.015372/2026-73",
+        "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
+        "data": "29/05/2026",
+        "data_inclusao": "29/05/2026",
+        "unidade": "PROTOCOLO-GERAL"
       }
     ]
   }
