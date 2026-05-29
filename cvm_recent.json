@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-29T11:00:52.466395-03:00",
+  "last_updated": "2026-05-29T11:31:34.133294-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Relatório de Sustentabilidade",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20251231 31/12/2025",
+      "data_entrega": "20260529 29/05/2026 11:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1528351",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528351",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-05-29T11:31:33.831974"
+    },
     {
       "cnpj_short": "02747-2",
       "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
