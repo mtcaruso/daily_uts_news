@@ -29,12 +29,19 @@ if "%GEMINI_API_KEY%"=="" (
     exit /b 1
 )
 
-echo [1/9] git pull origin main...
-git pull --ff-only origin main
+echo [1/9] git pull --rebase origin main...
+REM --rebase -X theirs absorve commits do GHA mesmo quando branches divergiram
+REM (ex: commit local de run anterior que nao pushou). --ff-only travava nesse caso.
+git pull --rebase -X theirs origin main
 if errorlevel 1 (
-    echo ERROR: git pull falhou
-    pause
-    exit /b 1
+    echo WARN: rebase falhou — tentando abortar + merge -X ours
+    git rebase --abort
+    git pull --no-rebase -X ours origin main
+    if errorlevel 1 (
+        echo ERROR: git pull falhou de vez. Resolva conflito manual.
+        pause
+        exit /b 1
+    )
 )
 
 echo [2/9] python news_summarize.py (Canal Energia + outras)...
