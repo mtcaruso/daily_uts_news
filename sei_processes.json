@@ -6,6 +6,10 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "c4b4eb8186ab",
+      "3682c53dce85",
+      "9a0c00581829",
+      "6c80388732ea",
       "7b2a351ecdb2",
       "a38f95b0e9a5",
       "17e354e58ae1",
@@ -366,12 +370,36 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 359,
-    "documento_count": 318,
+    "andamento_count": 363,
+    "documento_count": 322,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-29T11:30:40.278462",
+    "last_check_at": "2026-05-29T12:04:11.243395",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 12:03",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014287/2026-98 anexado",
+        "hash": "c4b4eb8186ab"
+      },
+      {
+        "datahora": "29/05/2026 12:01",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.011329/2026-39 anexado",
+        "hash": "3682c53dce85"
+      },
+      {
+        "datahora": "29/05/2026 11:47",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014661/2026-55 anexado",
+        "hash": "9a0c00581829"
+      },
+      {
+        "datahora": "29/05/2026 11:46",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014615/2026-56 anexado",
+        "hash": "6c80388732ea"
+      },
       {
         "datahora": "29/05/2026 10:46",
         "unidade": "CPL",
@@ -407,30 +435,6 @@
         "unidade": "PROCURADORIA FEDERAL",
         "descricao": "EM ATENÇÃO PARECER Nº 00104/2026/PF.",
         "hash": "a94d829e96b7"
-      },
-      {
-        "datahora": "27/05/2026 16:06",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.015114/2026-97 anexado",
-        "hash": "3d7e73bfd0e8"
-      },
-      {
-        "datahora": "27/05/2026 16:04",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.015111/2026-53 anexado",
-        "hash": "9c6a77fd6e24"
-      },
-      {
-        "datahora": "27/05/2026 11:07",
-        "unidade": "PROCURADORIA FEDERAL",
-        "descricao": "EM ATENÇÃO AO memorando n° 41/2026-DIR - FLMFS/ANEEL",
-        "hash": "5036259d44c7"
-      },
-      {
-        "datahora": "27/05/2026 11:00",
-        "unidade": "PROCURADORIA FEDERAL",
-        "descricao": "Ricardo, favor fazer a juntada do Memorando 41 (0366722) no Sapiens e abrir tarefa de ciência à Fábia.",
-        "hash": "c2a02a1dcd79"
       }
     ],
     "last_documentos_top10": [
@@ -554,7 +558,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T11:30:42.680060",
+    "last_check_at": "2026-05-29T12:04:13.703177",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -734,7 +738,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-29T11:30:45.133938",
+    "last_check_at": "2026-05-29T12:04:16.228399",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1131,7 +1135,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T11:30:48.660928",
+    "last_check_at": "2026-05-29T12:04:19.428786",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1289,7 +1293,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 10,
     "documento_count": 8,
-    "last_check_at": "2026-05-29T11:30:51.016636",
+    "last_check_at": "2026-05-29T12:04:21.775543",
     "last_andamentos_top10": [
       {
         "datahora": "29/05/2026 10:37",
