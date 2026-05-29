@@ -6,6 +6,14 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "4bfc81337ed5",
+      "6e82c3cea9f4",
+      "d0a90c50db1c",
+      "aa029a6b7db1",
+      "2cd0d0853b39",
+      "ef5b9737db55",
+      "248e9df2fcbe",
+      "b02e35194021",
       "f2df9b1af3c1",
       "f9ae0e72a3a8",
       "a3a025e0967e",
@@ -382,12 +390,60 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 375,
-    "documento_count": 334,
+    "andamento_count": 383,
+    "documento_count": 342,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-05-29T13:30:04.103155",
+    "last_check_at": "2026-05-29T14:01:04.966205",
     "last_andamentos_top10": [
+      {
+        "datahora": "29/05/2026 13:58",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.010750/2026-22 anexado",
+        "hash": "4bfc81337ed5"
+      },
+      {
+        "datahora": "29/05/2026 13:54",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.011928/2026-52 anexado",
+        "hash": "6e82c3cea9f4"
+      },
+      {
+        "datahora": "29/05/2026 13:50",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.011982/2026-06 anexado",
+        "hash": "d0a90c50db1c"
+      },
+      {
+        "datahora": "29/05/2026 13:46",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.012836/2026-90 anexado",
+        "hash": "aa029a6b7db1"
+      },
+      {
+        "datahora": "29/05/2026 13:41",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013491/2026-91 anexado",
+        "hash": "2cd0d0853b39"
+      },
+      {
+        "datahora": "29/05/2026 13:38",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013675/2026-51 anexado",
+        "hash": "ef5b9737db55"
+      },
+      {
+        "datahora": "29/05/2026 13:34",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.014012/2026-54 anexado",
+        "hash": "248e9df2fcbe"
+      },
+      {
+        "datahora": "29/05/2026 13:31",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.013679/2026-30 anexado",
+        "hash": "b02e35194021"
+      },
       {
         "datahora": "29/05/2026 13:26",
         "unidade": "CPL",
@@ -399,54 +455,6 @@
         "unidade": "CPL",
         "descricao": "Processo 48500.013013/2026-81 anexado",
         "hash": "f9ae0e72a3a8"
-      },
-      {
-        "datahora": "29/05/2026 13:18",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013001/2026-57 anexado",
-        "hash": "a3a025e0967e"
-      },
-      {
-        "datahora": "29/05/2026 13:15",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014477/2026-13 anexado",
-        "hash": "adf8b56273e0"
-      },
-      {
-        "datahora": "29/05/2026 13:09",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013002/2026-00 anexado",
-        "hash": "9f082a002c33"
-      },
-      {
-        "datahora": "29/05/2026 13:02",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014373/2026-09 anexado",
-        "hash": "37672cd91d13"
-      },
-      {
-        "datahora": "29/05/2026 12:58",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013199/2026-79 anexado",
-        "hash": "a03567649cca"
-      },
-      {
-        "datahora": "29/05/2026 12:53",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.014240/2026-24 anexado",
-        "hash": "e9e1c1932e0b"
-      },
-      {
-        "datahora": "29/05/2026 12:21",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013100/2026-39 anexado",
-        "hash": "e3d3d407e8d2"
-      },
-      {
-        "datahora": "29/05/2026 12:19",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.013081/2026-41 anexado",
-        "hash": "f726ef75c9d8"
       }
     ],
     "last_documentos_top10": [
@@ -570,7 +578,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T13:30:06.530213",
+    "last_check_at": "2026-05-29T14:01:07.403788",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -750,7 +758,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-05-29T13:30:09.070406",
+    "last_check_at": "2026-05-29T14:01:10.352376",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1147,7 +1155,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-05-29T13:30:12.313511",
+    "last_check_at": "2026-05-29T14:01:13.674761",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1305,7 +1313,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 10,
     "documento_count": 8,
-    "last_check_at": "2026-05-29T13:30:14.671324",
+    "last_check_at": "2026-05-29T14:01:16.044436",
     "last_andamentos_top10": [
       {
         "datahora": "29/05/2026 10:37",
