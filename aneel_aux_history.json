@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T19:40:22.999624",
+  "last_updated": "2026-05-30T00:17:15.049855",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-05-29T19:40:22.499423",
+      "added_at": "2026-05-30T00:17:14.549600",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -654,6 +654,22 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14758&idAreaNoticia=425",
       "summary": "- **Reajuste RAP 2026**: Tratamento de casos extraordinários e excepcionais para o processo de reajuste da Receita Anual Permitida – RAP.\n- **Armazenamento de Energia**: Resultado da Consulta Pública nº 39/2023 para aprimoramento da regulação de armazenamento de energia elétrica.\n- **Abertura de Mercado Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição com abertura de mercado para consumidores do Grupo A e Open Energy.\n- **CUST de Geradoras**: Resultado da Consulta Pública nº 7/2026 para mecanismo regulatório excepcional de manutenção de Contratos de Uso do Sistema de Transmissão – CUST por centrais geradoras.\n- **Modernização Tarifas de Distribuição**: Proposta de abertura de Consulta Pública para modernização das Tarifas de Distribuição – Ciclo 1 (Custo Comercial).",
       "added_at": "2026-05-28T13:06:58.206620"
+    },
+    "noticia_2026_bandeira-tarifaria-em-junho-permanece-amarela": {
+      "type": "noticia",
+      "title": "Bandeira tarifária em junho permanece amarela",
+      "date": "29/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bandeira-tarifaria-em-junho-permanece-amarela",
+      "summary": "A **ANEEL** anunciou que a bandeira tarifária para junho permanecerá amarela, impactando todos os consumidores de energia elétrica no Brasil. Isso significa um custo adicional de **R$ 1,885** a cada **100 kWh** consumidos, devido ao período seco e menor geração hidrelétrica.",
+      "added_at": "2026-05-30T00:17:11.805045"
+    },
+    "noticia_2026_aneel-celebra-acordo-com-arsap-para-fortalecer-fiscalizacao-no-amapa": {
+      "type": "noticia",
+      "title": "ANEEL celebra acordo com ARSAP para fortalecer fiscalização no Amapá",
+      "date": "29/05/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-celebra-acordo-com-arsap-para-fortalecer-fiscalizacao-no-amapa",
+      "summary": "A **ANEEL** firmou um Convênio de Cooperação com a **ARSAP** para fortalecer a fiscalização do setor elétrico no Amapá. O acordo, assinado em **29/5**, permite à agência federal delegar competências à reguladora estadual para fiscalizar os serviços prestados à população amapaense. Este é o **18º** convênio do tipo, expandindo a atuação da ANEEL em diversos estados.",
+      "added_at": "2026-05-30T00:17:14.049431"
     }
   }
 }
