@@ -1,132 +1,6 @@
 {
-  "last_updated": "2026-06-01T08:17:41.796834",
+  "last_updated": "2026-06-01T13:58:48.147982",
   "items": {
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pOS3c4YVlVUzhEbzI3R29mWnNPVGxkYmlRdXZIdDEzajRqZGZ2T0RaZ19fZWQ5VkFqM25oRG9YT19hWmdoTkJDbldSVnBuSFlFZnlxNlc4bXE0R2UzTlNHSHBpb3R2M1J4dVhFOTcyN1FHNThVZ0t2bGpjU2lhbnJmWTRURWl4XzNPd2gxT0FLLVlhNkJib3Zjc3lCWFBPdS0wNE5zVnRnUDdLQmM4TTROc2VFQdIBxAFBVV95cUxPR1RVb3JRRkplUkd2a0FiUDRzamdFSllhYlJWeUFGTkdRa3BFWlhlOUs3c0IxN2k2Y2lxcW12ZzhOaW5EeWlCOE1uMGNXWmRIUUI3d3l5bkVVRzB1QkZkbDdUUF9pdVducUE4NnNpTlRTNEtPWHgxU2pFcV9KNG9JR3daYV9ZOHRCSlZVZVZZS1BYY3hzZUxadVhGSnNIdmdjeUcyV2ZFcm5WS3AtRzZjZklqV21YeWZjT1pJNW04dzJwcmo4?oc=5": {
-      "title": "Hidrelétrica se transforma em ‘bateria’ de fonte intermitente - Valor Econômico",
-      "summary": "As hidrelétricas brasileiras, como as da **Eletrobras**, estão sendo usadas como \"baterias\" para compensar a intermitência de fontes renováveis como a solar, operando em um regime de liga e desliga mais frequente. Essa mudança de função, que aumenta o desgaste das máquinas, levanta um debate sobre a necessidade de um novo modelo de remuneração para esse serviço essencial.",
-      "source": "",
-      "added_at": "2026-05-25T10:17:43.582764"
-    },
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWjFycUZzRFFuTTI3ckhaZi0wdm1wQ2VrcG55UXBEdVBCaGM0ZWJSR1ZYNWtwV2hQNmdTQ3dXcFlEc0dub2UtU01ERXpJbW1NelI3UTBfOVZLdWRveTE4VXV0eUdpMklWTjZnS08tOGdiOXIwcWhxTXQ4ZWxuQWUzc3AzMnkxYnFQVEpSSXJYQ1RYUUJXS3dFNlRVcW91M3FJajJEeGowWGlmYlRUZG1vU2pDRElITTZHQmxTUElPazAwWDlfcEZ5OVBHcXI5UkNSdDVjR25YZ2tJS0Nnal9fYlBVQWw1MFdxTV9tVmloaWhIdDhnd2FGWkhB0gH6AUFVX3lxTE5aMXJxRnNEUW5NMjdySFpmLTB2bXBDZWtwbnlRcER1UEJoYzRlYlJHVlg1a3BXaFA2Z1NDd1dwWURzR25vZS1TTURFekltbU16UjdRMF85Vkt1ZG95MThVdXR5R2kySVZONmdLTy04Z2I5cjBxaHFNdDhlbG5BZTNzcDMyeTFicVBUSlJJclhDVFhRQldLd0U2VFVxb3UzcUlqMkR4ajBYaWZiVFRkbW9TakNESUhNNkdCbFNQSU9rMDBYOV9wRnk5UEdxcjlSQ1J0NWNHblhna0lLQ2dqX19iUFVBbDUwV3FNX21WaWhpaEh0OGd3YUZaSEE?oc=5": {
-      "title": "Privatização da Eletrobras tem R$ 3,7 bi encalhados em fundos para saneamento e revitalização ambiental - Valor Econômico",
-      "summary": "**R$ 3,7 bilhões** da privatização da **Eletrobras** (agora **Axia Energia**) estão parados em quatro fundos criados em 2023 para saneamento, revitalização ambiental e redução de custos de energia em regiões como Amazônia Legal e Bacia do Rio São Francisco. A **Axia Energia** e o Ministério da Integração e do Desenvolvimento Regional estão envolvidos na gestão, mas apenas **R$ 662,2 milhões** foram executados, com a maioria dos 247 projetos ainda não iniciados. Há problemas de transparência e divergência de dados sobre a destinação dos recursos.",
-      "source": "",
-      "added_at": "2026-05-25T10:17:47.592206"
-    },
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU21sVmY1Z211WnpIUjRyOXhROExyNEgyT1pNZXhGTEQ2cFpQRG90azJWelVlSi15UG5MNl9tR2puZmxkNEtBOWpqeG9LVXhCSkt1TVl0SkhqNlZpLXM0N1BlUlAyZW1uWjRESnF4bC11dmE4aVNDdGo4N1cyOUtxUkNCWk1KbWg1SzUzbENBdlpMZVdiVV9mNUtMNzU3LXBXR0NQWXpKWWJqZVhqeVNlTFVvd2ZUN29yUDhSTjFQQkk1ZS1veGNqWi1UaWhOMnMzd2d3NmJfX1hlTVlXSXfSAewBQVVfeXFMT2JNcTRTdFJIUVMxNkZpMndRdkM3Ml9wM0tCUWhNYktlX1FCMW4yV1J1VUE1OXhNZWx3WmxnSldQV3BYeUt4enBFOFE1dGlmMXBoZGtGSVRjbTJyS0tGSE9YOURhSXJIMVpESjhBZEV5cVI4Rkp6dlRaRTNSREpSVmZMb2MxS080cUlOc2w0OG90SUVLZHotWkN2bXZ5SnlkNmVia2pzN0dzd1ppZkk5LXBhVUpNbXA3MHVDY2VvZWs5cHJVcDRPazFycjBucXg0OTMtZl9WTGVITUZ6T1VNSDJsejQ1TDh1UnlNdFA?oc=5": {
-      "title": "FIT fecha contrato para fornecer energia renovável a praças de pedágio e operações da Motiva - Valor Econômico",
-      "summary": "A **Motiva** (ex-CCR) fechou um contrato de dois anos com a **FIT Energia** (Grupo Santander) para fornecimento de **2.636 MWh/ano** em créditos de energia solar para 293 unidades consumidoras em suas concessões rodoviárias em São Paulo e Paraná. A iniciativa visa uma economia anual de **22%** na conta de luz da **Motiva** e a redução de **479 toneladas** de CO2 por ano. Este acordo complementa um contrato anterior com a **EDP**, garantindo que 100% do consumo de baixa tensão da **Motiva** venha de fontes renováveis.",
-      "source": "",
-      "added_at": "2026-05-25T10:17:51.653169"
-    },
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnRhOXI5c3E5UFgydG52UFBHVVdWQzRTMGlRdG1jTGxUUlRGTmdKY1FpMVotOXpDcm1XQm9xR1BVcC1iU1BYM0UxdTRvdEI3dmM2U0I0dHBNODFrbmlCdmFUZDdBVVBveHFPVjZwR2w3TDV3cjZ0YjE0NG1jajlCNU1lMA?oc=5": {
-      "title": "Iguá recebe aporte de R$ 700 milhões dos acionistas - Brazil Journal",
-      "summary": "A **Iguá Saneamento** recebeu um aporte de **R$ 700 milhões** de seus acionistas **CPPIB**, **AIMCo** e **BNDESPar** para reforçar sua estrutura de capital e suportar investimentos. A capitalização visa o crescimento da empresa, que encerrou o primeiro trimestre com EBITDA de **R$ 389 milhões**, e não será usada para quitação antecipada de dívidas. Além disso, os acionistas aprovaram um aumento do capital social autorizado em **R$ 929,3 milhões** para futuros aportes.",
-      "source": "",
-      "added_at": "2026-05-25T10:17:55.562359"
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjVjYjZ6NWlZZWV5X0tHRlJUVEh6Njg3Tk85Z0RtLWlHTTFZbnFGQ2RRTVhaVDdQdFVsRDRGd3pNRk5PaGZfc1E4Wmxhcml0czJMOXhkYVkwX1BDOFVVbDFwTnpoUFdZenoyUE1Ob2p0Rnk2UVNDQUdid2JoeHNQVjdZQnJkVGNLd08xcXBTV2FKZ0R2aUJ1SEFjVXNIRlJFQnd6NkRXbG0xLXZ4QjktQVphYTlGV2F0cmVHdl96cC1qX3M?oc=5": {
-      "title": "Estimulação elétrica cerebral é aprovada nos EUA para tratar depressão - Folha de S.Paulo",
-      "summary": "A **FDA** (órgão regulador americano) aprovou o dispositivo de estimulação cerebral da empresa sueca **Flow Neuroscience** para tratamento de depressão nos EUA, após já ser aprovado na Inglaterra desde **2019** e vendido por cerca de **US$ 530**. Essa aprovação, em dezembro, legitima a terapia de estimulação transcraniana por corrente contínua (ETCC) como tratamento médico, expandindo as opções além dos ISRSs. O estudo que levou à aprovação, com **174 participantes**, mostrou melhora \"menor\" na escala de depressão, mas com **45%** dos tratados alcançando remissão completa.",
-      "source": "",
-      "added_at": "2026-05-25T10:17:59.227155"
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzc1ai1CVkVzbXgwSTRRQTlCWXVYZk9IemYxSzd4NnFFOGJ0eUJfUFhhTDlrNjdwdUVjcnFRZGZSZmViTWJoNWNQQlNrOFUzYnhPRnVGRzhtUnpTS1IzYktqdEZyOWMyNjVaM1ZTd1djeHdWaWNHbDV5NFlQd1pDUFcwVjFfSlRBRk5PanZrc0R6LTVUWTVLcFZPdjFWMWpGak0yc2VBOU1vVDB2TGc5R1RlRVhQcm1zbDZnako2NE5VMjdRV2NVWVd3?oc=5": {
-      "title": "Acionistas pressionam big techs sobre uso de energia por IA e metas climáticas - Folha de S.Paulo",
-      "summary": "Acionistas ativistas, liderados por **As You Sow**, pressionam **Amazon.com Inc.**, **Meta Platforms Inc.** e **Alphabet Inc.** a divulgar como conciliarão a crescente demanda de energia por IA com suas metas climáticas. As propostas pedem relatórios sobre o tema e serão votadas nas assembleias anuais das empresas até o **início de junho**. Apesar da oposição das empresas e do declínio no apoio a iniciativas ESG, o ativismo busca impulsionar o desenvolvimento de energia limpa para data centers.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:02.889156"
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYk41UGdZSldIczc2dndzOHhlU2xYMnY1YkYwVHIxclRvVkRZMnJFd0I0aWNJVVJqMTlmZjc1ekNEWlJtR3lwSzdDRFJsUmk5UzhncmtnN2FWQi1vTUltR0xIQmZsQlNfS0FYRW80eGtNbWFWSHNJbzRSQTJJVmF0OTdiNGVWWm8xR3pCV3RaX3ptcDZqQm9SY1RKM2lTbjF3TWdjWGxlNjJEUWZqR2JtcVNOWkc5UDgwWFlUWGFRSnkxLUNNWWh4U0dZQU5fQnM?oc=5": {
-      "title": "Privatização da Eletrobras tem R$ 3,7 bi encalhados em fundos para rios e saneamento - Folha de S.Paulo",
-      "summary": "**R$ 3,7 bilhões** da privatização da **Eletrobras** (agora **Axia Energia**) estão parados em fundos destinados a saneamento e revitalização de bacias hidrográficas, com menos de 20% do total executado desde 2023. A **Axia Energia** e o Ministério da Integração e do Desenvolvimento Regional, responsáveis pela gestão e implementação, atribuem a lentidão à complexidade dos projetos e à necessidade de ajustes. Fundos como o do São Francisco e Parnaíba acumulam **R$ 1,7 bilhão** sem uso, enquanto o de Navegabilidade tem **R$ 446 milhões** estagnados.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:06.871505"
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcDM4Q3RuSElWbWJQbTJiLVJOdkNsMUIxbFB2UkpZTEJSNElPUlFfVUl3REo2bk1sQVVrSFZpT211UEx3RFFialY3bHNlWEQ0dlBBVExBMGxnQXpIbmU1enlWR3lBc045SUd2dFgxTjZvRmJRdkpJeWZUVVluWFk0MUN3X2RRYy1Ia0hsOG1YQUdrZGhDd1RvTWw2MHJOZmh1SjhYQ1U4enJsd1NabWlERUFrRldKb05rWTQ0dEdFLXF5NnZiRlk3UkZxakRBLVVP?oc=5": {
-      "title": "Gaby Amarantos leva frenesi do brega nortista à Virada apesar de queda de energia - Folha de S.Paulo",
-      "summary": "A cantora **Gaby Amarantos** teve seu show na Virada Cultural de São Paulo interrompido por duas quedas de energia, gerando protestos do público contra o governador **Tarcísio de Freitas**. A artista criticou a estrutura oferecida aos artistas brasileiros, contrastando com a de artistas internacionais. O evento ocorreu na madrugada de domingo (24), com a apresentação durando **uma hora e meia**.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:10.258641"
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0YxaXdWeWpMWnRQVUFndGxGZ1V1OC1CdUk2aEdfSkVXNzhhVl9ObmNvazhoR0pweVpsaHNKeGJwR0xTbW5pZHpvWUp0QjNTeXcwTzFDc3NNVmlLUGdFWTJUdmN0cF91OFJlb2NDYXp5dWw3Mk5yZzlzWm5iek55eEtjNGYzYU8wQTE5cnpQMzVuTU5NakJZZlFhRVQ5TXRlVWRTUFhVSjN1eDdFYWtXNmNTbHFLcFFqc3RBblBZNENMa2ZhWmwxRVNJMWh3QQ?oc=5": {
-      "title": "Painel: Gestão Nunes reduz ritmo de multas à Sabesp, mas faz queixas nos bastidores - Folha de S.Paulo",
-      "summary": "A gestão do prefeito **Ricardo Nunes** (MDB) reduziu as multas aplicadas à **Sabesp** após a privatização, passando de **3.568** multas (**R$ 263,2 milhões**) em 2024 para **1.340** multas (**R$ 67,2 milhões**) em 2025. Apesar da queda, a prefeitura mantém cobranças internas à concessionária por problemas em obras e na qualidade do saneamento, especialmente em regiões periféricas.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:13.767440"
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGI4V1laeVRQUU5xTjZaemF4TjFjSE9mU09WVDJxLUs5WjVNczEyejZFTEt3NTZVRnpwcDJ5U1VXZjkwMk02NmdESUlTd3FfYlVzbVZ5MjhhYm54MDBEX01wYmdZVWlpODhFVWd1MzllWXJaQ0ZXVEZZbmJuMzNqVDJfdnF1d1VhTkZQQ1o1M1hPLWV4U0hwY3M5NmR6WFlmaWpUTklpdjN3T01TUVY5OUdfNVJTZDBlN2FNdms2YVFudUMtamFXZ3VqQmNnZHlEemc?oc=5": {
-      "title": "\"De dia o público está mais cheio de energia e de vontade\", diz Gretchen após show na Virada Cultura - Estadão",
-      "summary": "A notícia não contém informações relevantes para o setor de utilities. O texto aborda a **Virada Cultural** de **2026**, com foco em shows de artistas como **Gretchen**, **Joelma** e **Marina Sena**, e a percepção do público sobre os eventos.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:17.906446"
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vczVHTy0yVG4xZ21UbGRCZFpZWFJMdzRTeDd4QkU3Mzg0MFZUSzl5dll0U09EMERPdUhwUjNrR1BDRHh1Ni15S2prVVdWWmlMeFQ4YnJoUmVpY19HcnhjWllR?oc=5": {
-      "title": "Tag Complexo Solar Lins - MegaWhat",
-      "summary": "A **Cobra IS** negocia com a **Mineração Vale Verde (MVV)**, controlada pela chinesa **Baiyin Nonferrous**, a entrada desta em um projeto de autoprodução de energia solar no complexo fotovoltaico Lins. Se concretizada, será a terceira operação desse tipo estruturada pela **Cobra IS** no empreendimento neste ano, viabilizada pela formação de um consórcio.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:22.537705"
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VU09RX3pQZllEUnM4Z0ZvZXo4c3ZCb1RRNEhEeWdfcVFadEhzREFtbTg0R0ZreTJnNmRXaWVybDhaVFJQNTVEVjM2U3VJYnZXdjFnQUJLb3h6a2RaUjREa3J3?oc=5": {
-      "title": "Tag operação de crédito - MegaWhat",
-      "summary": "A **GCB** estruturou uma operação de crédito de **R$ 13,1 milhões** para a **GridCo**, que atua em usinas solares. Os recursos serão usados para reforçar a estrutura operacional da **GridCo**, incluindo capital de giro, tecnologia e ampliação da equipe.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:26.808837"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pZXFBSWJDQi1qM2EyaVNZTUgwcFZ2bVNHMkJ4TkF5aFF4a202OC1XbkJUVzYyYU1hRUQ5VG1XaVE4cmh0R1U0cWtBSG9GcEkwOVpFN0s3dHhVcXVt?oc=5": {
-      "title": "Tag 6º Ciclo da OPC - MegaWhat",
-      "summary": "A **ANP** realizará leilões de áreas do pré-sal (OPP) e outras (OPC) em **7 de outubro**. Os cronogramas foram publicados em **22 de maio**.",
-      "source": "",
-      "added_at": "2026-05-25T10:18:30.921203"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzRzOWhMZVhwUzhQWl91U0wzRXdQSy1Td0l6R2Rja0EtZ2FfUnBCcHNheEppNVE2UEhlRWdMcHpvcTZzdG5aaUMxem5jbWJZZnZ5N2RLTWF4V0twajBnOUo1Y0ZoMXJDeGVzWnk0bmN2SWNPdEdOT1VHc1AtQTJWa3pjUkxYNERTSGF4MklJblVEMVdQdmoxLTg1NkJEdjUybmhaTGV5Wno2RHU0YVRFN0dBYXVoNGZuc1HSAcgBQVVfeXFMT1BxYThXU1BSajVaWnVnOUVCTUZOaUxwSGhfMXZtd184N0hiVXVYd0w0VTUwVlRDMmxZUDd1UVAybEhwX0ZvN1IzcmNsOHM0SDhMbnBkeWZUOHhMN2N1aGN2djRLblB6OHhWa3FxUkRSTUFrV2swY3RZTW9jeU5mZ1ZaTmdGc3BFS2ZsdmFVRzlOWjB2Zmh3X1ByUWltSndUMW1rV3ROOXZUT3JqSHdubTJmLXZiQnJSczB1VEhERlA0VlkxRmYwZ0Y?oc=5": {
-      "title": "Ferrari dá salto ousado com primeiro carro totalmente elétrico - Valor Econômico",
-      "summary": "A **Ferrari** lançou seu primeiro carro totalmente elétrico, o modelo Luce, com preço superior a **500 mil euros** e primeiras entregas previstas para outubro. A empresa, sob o comando de Benedetto Vigna, investiu em eletrificação, mas reduziu a meta de carros elétricos para 20% da linha até **2030** devido à demanda. O Luce, desenvolvido com a LoveFrom, busca posicionar a **Ferrari** no segmento de luxo elétrico, apesar das dúvidas do mercado e da concorrência.",
-      "source": "",
-      "added_at": "2026-05-25T12:15:45.429619"
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZW0wZGs1S056X0N5QWZISWhNUlZsMWRJamRVU1NBVG1YVlQzNFVVbHFzV1MzOWVOWXhHYWMzaHdzMUtSMWJXdmVhVzcwV013QllTRlE5SHdtbFFzZ2p5MDRHNjk1a3RKeHpvV3dOaGlRZTJnUEdaVHFtN2kwRUlEQURBVGoxS1Y4bDZVQWFoXzBzV002amdfN2N4dVJSRERkNm4zT1RiV0ZNRTh4T1g3cmtxMHBlZnRWSHBfaV9HRnFOS3FY?oc=5": {
-      "title": "Itaipu investe R$ 102 milhões em energia solar para 15 instituições de ensino - CanalEnergia",
-      "summary": "A **Itaipu** investirá **R$ 102 milhões** na instalação de sistemas de energia solar fotovoltaica para **15 instituições de ensino**. A iniciativa visa promover a sustentabilidade e o uso de energias renováveis no setor educacional.",
-      "source": "",
-      "added_at": "2026-05-25T10:30:06.857580"
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVEyMXhiVVNaakJ5TU14REFONzF3b0pvX19tblRvb3FPdXpWVzdTcXl3TGlHRUhwdmZlYWlmTUYyUmE0MGU4NENvQ29BMVF3UnNVUVg3dE5ZOWdKaV92NlNBTWxNbEtCRnFtbXNPSzdSWXRPdHI0SXA5aERlU0J3WGkyY1Q0SFBWRGRwalN4QnRBMzFtTDlidEtGWU4wMUxkOVMtQk1KTGJkN1luWGFFWVdpQnRqUQ?oc=5": {
-      "title": "Hidrelétrica se transforma em “bateria” de fonte intermitente – Edição do dia - MegaWhat",
-      "summary": "As hidrelétricas brasileiras estão em crise, atuando cada vez mais como \"baterias\" para compensar a intermitência de fontes renováveis, gerando em média apenas **42%** da capacidade instalada em 2025, sem remuneração adequada. Enquanto isso, a **Equatorial** avalia concorrer por **30%** da **Copasa** até segunda-feira (25), e **R$ 3,7 bilhões** da privatização da **Eletrobras** estão parados em fundos para saneamento e revitalização de bacias. No Rio de Janeiro, o governo desapropriará o terreno da **Refit**, maior devedora de impostos do Brasil com **R$ 14,3 bilhões** em ICMS, para abater da dívida e possivelmente ceder à **Petrobras**.",
-      "source": "",
-      "added_at": "2026-05-25T12:15:52.195827"
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaS13Z2kxUHRnUmVvbGxjWVM5ekhkb1NGX2VjeWlSaENLLUdZd1lCNTRfU2N4eVpCTDRkQzMtdTBKUW83SnFDb2twcVp4cjNPWmI0MHZDcDhnQUJSaXNvLXJmeTg4Qk4tcm1IMW50NDdtMHYtaUYwVFNya2VUbVlCSDFjbTdSendCOVhUd2JuLXJuVE8xOUgtcTYzcFhXQng4VU1VdTZWOHVETnMyU3dyYko5Q0xTR2VBYzdhbQ?oc=5": {
-      "title": "Contratos de longo prazo ganham impulso na BBCE após homologação do LRCap - MegaWhat",
-      "summary": "A **BBCE** registrou um aumento significativo na negociação de contratos de longo prazo em sua plataforma EHUB, impulsionado pela homologação dos contratos do leilão de reserva de capacidade (LRCap) pela **Aneel**. Na semana de 18 a 22 de maio, o contrato anual de 2027 liderou em volume financeiro com **R$ 58,68 milhões**, enquanto o segundo semestre de 2026 teve o maior volume energético, com **384 GWh**. Esse movimento, que repete o observado em março, indica uma crescente proximidade entre os mercados de energia elétrica e gás natural.",
-      "source": "",
-      "added_at": "2026-05-25T12:15:56.397001"
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRExlbUVfd3NtS0hleUozX1dxZExVSmxMWURwVzQwTU5RMFMxR2pDYUR3RXkxSjhPT1dPRndsaWQycUlMbHZ4eVdmR1lTRkVIX0puNlN4VWhmajZMMjRfWjIxWFlIUW90VDlZRXVhQ0ZPRUFETERaZUVWWFZ1UjRfMGlkSk10YUZ1YUtjY0VBRkRSVUlST1l4OEM0Nm01NTdEVE81T1ZPLVNQeF9qdkg3bnhSTUpnV0xPYk8zY0o4WnJnUQ?oc=5": {
-      "title": "Sistemas Autônomos de Energia (AES): Quando a IA Assume a Orquestração da Rede - CanalEnergia",
-      "summary": "O setor de utilities brasileiro está presenciando uma transição para **Sistemas Autônomos de Energia (AES)**, onde a inteligência artificial assume a orquestração da rede. Essa mudança, impulsionada pela tecnologia, representa uma evolução além da digitalização, criando redes que \"pensam\". Não há **valores, datas ou empresas específicas** mencionadas na notícia.",
-      "source": "",
-      "added_at": "2026-05-25T10:29:55.286205"
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWZkUUk0RnZnNUtab1d0aXUzQURIUTVHQ2pGbXg1eFZHQVptcEk1MkZkRmNISEhmNlhnTFZ3b05wc1AzS0dKMmdIT0JvWmdYTTlKZGJVTXhrclBIcFpodzZhMFlfWmFJTTdKcmdidHpERFhBZE9BVW9vWEhmSWRnNjF0M2R0d2NOUE9IVDdkT3V1Qy04OE9RTTVjNEFRUG8?oc=5": {
-      "title": "Brado Logística migra para energia 100% renovável - CanalEnergia",
-      "summary": "A **Brado Logística** encerrou **2025** com **100%** do consumo de energia elétrica de fontes renováveis, migrando para o mercado livre e contratando fornecedores com certificação I-REC. A empresa também implementou medidas de eficiência energética, resultando em uma redução de **16%** no consumo total. Essa iniciativa reflete uma tendência crescente no setor corporativo brasileiro, impulsionada por compromissos ESG e a busca por preços mais competitivos.",
-      "source": "",
-      "added_at": "2026-05-25T10:30:01.227603"
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DRlpEQ2hOUkZiOVdHSWJGeUd1UkhwQlJzRWpWQVdGM04wLXktQXJueUlDZTEzZTJNd1FLbVBhM2Q3N1c4eUY2X3BxbWtOTHhCUFBvSHpaRDlqeW1wTmQ2dWlrZklCbnBz?oc=5": {
-      "title": "Tag Contratos de longo prazo - MegaWhat",
-      "summary": "A **Aneel** homologou os contratos do leilão de reserva de capacidade (LRCap) para **2026**, impulsionando a negociação de contratos de longo prazo na plataforma **BBCE**. Essa decisão resultou em um aumento significativo nas transações do produto **2026** no EHUB da **BBCE**.",
-      "source": "",
-      "added_at": "2026-05-25T13:09:42.047965"
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TWlaZVhqajFLX0dBZDhsSUFGdUNIVmpVXzYyWEQ3Z05uaWM3STdid19LSTlPZTdJSG1ndDFtYWdkQTJsUVNCNnhLMnFxcmtWVmZBTnJ5aU4wUQ?oc=5": {
-      "title": "Tag Lucas Boacnin - MegaWhat",
-      "summary": "A guerra no Irã e o risco de fechamento do Estreito de Ormuz adicionaram um risco geopolítico ao Gás Natural Liquefeito (GNL). Especialistas da **Argus** avaliaram o cenário durante a Rio Crude Conference em **20 de maio**.",
-      "source": "",
-      "added_at": "2026-05-25T13:09:46.568397"
-    },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVlXeXFfOFF5UFFoWTgtWXNTT0RycnFaNmRIS1g1aFRKNWFOZjJPY1MyYV9CQ05rRy1wNFctaGhncDV1dFRRTkIwbW9IYzBHejB2cWFVYTE2YW1ZSTN3R081S2dQbkVnTUlvWXJacnVVTUVKemtQZjNRaWUxd2s5aERlUThrSDVhaWxpSFR2YmRSM2p3Y3R3WXBIUjdwZ2M0QjBXWElGZXRVQdIBuAFBVV95cUxQUmljbm1OaHg3QXhOSW9kak5Fai1FR0NXdXBiVUVBODhUakNWeTlqNktuUXB0VzBoME5qT1pFZW9lQmhpVGN4S2g1Y29IVXlNTEtnajhqMWJGZXpRWGFFSnZOREs0QjVBWE5SaUY3bm5sejFtUUlxWU1yZEREbTNXcVVFQVBEQkFQWFo2dk5JZVJId2lVOFRtdzJtNmRCWFR1dEFyMkdiVFJNTWYwZHFkck1XSTdnbUVh?oc=5": {
       "title": "Iguá reforça capital para disputar novas concessões - pipelinevalor",
       "summary": "A **Iguá Saneamento** levantou **R$ 700 milhões** em aumento de capital com seus acionistas (**CPP Investments**, **AIMCo**, **BNDESPar**) para reforçar sua estrutura e disputar novas concessões de saneamento, que demandarão **R$ 34 bilhões** em investimentos. A empresa não participará da privatização da **Copasa** (**R$ 10 bilhões**) e não planeja IPO no curto prazo, focando em blocos com sinergia geográfica. A **Iguá** também obteve reequilíbrio contratual no Rio de Janeiro e emitiu debênture verde de **R$ 1,040 bilhão** para a concessão de Sergipe.",
@@ -2485,6 +2359,145 @@
       "summary": "A **TikTok** está construindo um data center de **R$ 200 bilhões** no Ceará, com foco em energia eólica. O projeto visa transformar o Ceará em um polo de exportação de energia, aproveitando o potencial de geração eólica da região.",
       "source": "",
       "added_at": "2026-06-01T08:17:41.295216"
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSTVHazNWRmI2MEVoRTdWUVBIS1pKdmtlSnRxWEVGM1VyVWFCZUxaTmZvcFZTdG1hMTFZWHpjU1A3enUydmI5R3hTUzZhZ3VJOE9jZDVmLUNfcVRleWpKYi1sTXV1LV9Ndk1PMWd5bWRKOHlRNFhHNl81a0pHMHNXN2lJd3JxMkp5V3FDSDg5Rm9KdnJJb0ZhdjBKMjNET3dnTFJRczlVMzhKNERGT0VrUTJjT2FPY01NVXZsa0JjVk16amJZLS1vS2t2ckJ6REktcWI5WtIB4wFBVV95cUxQWnlLLUVYVFRhNzh5bTB5X3RnVHFYZE85ODdSV2NEWUozeGFsX2xzTkwyX3Q2aWJSWEozemF6QVhyZlhHVTNzcm5QZWVoV1NjZk9SM2ZmOTJJNnhMVjVmcXNqdUtUM1IzTDZHdW5ES1pZVzFjWWJGaVZUdWwzSUJ2QWlzY3pLZW04Mmd2cnhjcG5WY2NhR3FSNzI5aHV6OGRRamxiLVc2WnZXM3FzUjFnMGRKVnM3UlJzMFBGLWR3MS1kV08yOE92N0NtcnlpOU42d1VGQkI3cmVsd0dBOHRxN1V4MA?oc=5": {
+      "title": "Medidas de subvenção são positivas para distribuidoras de combustíveis, diz J.P. Morgan - Valor Econômico",
+      "summary": "O **J.P. Morgan** avalia positivamente as medidas de subvenção de combustíveis do Executivo, que amenizam o choque do petróleo para o setor de distribuição. O banco recomenda compra para as ações de **Vibra Energia**, **Ultrapar** e **Petrobras**.",
+      "source": "",
+      "added_at": "2026-06-01T13:53:51.720775"
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaW1lZEYxWkI1ZWxDOHVaLU9Nd3o4VFItMFI5LVhaVllKd3E4RW5rZ3AwTldETU5GaE5MRGRUdTU3aUs4YkQ1LWhOS1dzbDZRWXhQcTRJYVFXdVBkMUdtRkJDeWY4R05naG5aSGZtcXIydlBQRXhZaGR4cEhraWxCZ2ZDRllZWEwtZFVDUFNDNE9DMi1nZFE2R25faWRTQ3NNQUVYUlhQeXBSajZMeThvTGVSeDVlc1RqLUlsaGlkVTJrcl9HR0dNYdIB1wFBVV95cUxPX0tJcjBPRmJwamRTMlJ2SFNycklIeEJSX3dmaHNhRi1mMkszYkJWdmhLX0V1ZzBIM3lJLU9GX1FPUlZhWW52WEpWM0lWRmZWMy03Yk9GbTVzVUpHR1haLTh3aWhHV2JBQUxKdVVWT1QzbnMtUlVXSThrM1RDNXZOWWJ2LXk4N1dJVmd0UFY4YlNfclJkdU1rNnNIVUpKaFdFMHY5SnNSUEE4c3UzYm5IM2hBVzl2YXZQUmhnaWh0Zmh2czg1N2htaGtSOTE2N0JVRG1DWnRLSQ?oc=5": {
+      "title": "Auren Energia avança em reorganização societária, com conclusão de incorporação - Valor Econômico",
+      "summary": "A **Auren Energia** concluiu a primeira fase de sua reorganização societária em **31 de março**, incorporando a **Auren Participações** pela **Auren Operações**. O objetivo é concentrar ativos hidrelétricos e simplificar a estrutura, com a segunda fase ainda em estudo. As debêntures da **Auren Participações** (códigos **AURP12** e **AURP13**) agora representam emissões da **Auren Operações**.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:08.802185"
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0F4b2NYbFgzajc1UG9jeXdYQ0EtaDl5b3BRNTdPdzBlWm1Fd3lid2dPeGhQTGk3Q2VsSjJTeFRtWXhVVGhUMDd3YlhpLVBmdUxoZTJPWFBvVTgyczdzeEJpSWFwY2hoZWhIMDVhNHRJWEZ5V0N0cUxMX1NtX21aMTg3d0pqYlRQYS1majRCa3FNTlNrcXhadlZDTzc4V0RXMUpfQUNqazloM05IamxaQ3dLaTJXU2U2Q20xWU94NmVLRnpWX0HSAdQBQVVfeXFMTnFyc1JDQU81RHlrODA2TXhfa3VDa3lRMTk1bHAzTnZvd2JkdXV1WUxwZ1pOV1Q0WWxRY2ptYkR2NE1BTmhValdaTFFEVjdaMGM5X1ZZbG03YkptdjFSRHhIRmhRQVFkdE9BUUlPNFVOUnhWVWZ3LTc2aWMwYXJYWGx1Q2I4Qm9tQXI4SC1LenVkOG1BV0JTaWNJSEY1OGc1eW1mSVIzUGpiM3M1dm85QmM2Y1FNVjdZZU84V2hiMGs0bjhNZmdRTmcwZ1hLb3UzMjZRTlI?oc=5": {
+      "title": "MME define diretrizes e marca leilões de energia existente para novembro - Valor Econômico",
+      "summary": "O **MME** definiu as diretrizes e agendou para **13 de novembro** os leilões de energia existente \"A-1\", \"A-2\" e \"A-3\", visando contratar energia de empreendimentos já construídos. Os contratos, sem atualização de preço, preveem suprimento entre **2027 e 2030**, com riscos hidrológicos assumidos pelos vendedores. A **Aneel** será responsável pelos editais e contratos, enquanto as **distribuidoras** devem apresentar suas necessidades em agosto de 2026.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:15.644623"
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM01JTFQ1d0ZOVE5Bb1BFd18wMGlDanpBZ1ZtR0RKbE5Sam4teTdaUFVqMWNlZU5ubnJaamowRWxNaVdMbDRESDRiUTVfZ1JxWURHZEtDdFlrNDhUMmpMNUJTZ0xVcDhxZGgtVGgyZ3hwSkt4SE1ra1J0N2VzN0c5MjMwTW5BeVVmWnFOVmxxcktZVWNsazhOWWl4MDJlZ3dpbWNrdUhONnR5cVo5TTh2edIBvwFBVV95cUxNUmctcUJadVhTekVDdlpzNFJxMzBfUmVLb2wyak4xcFEzTlFoY28yd2RodjF4Y3U4Yk41YkVWdmh0OVYtMTgwc2VOT1FZeUNZXzVjSi15a3VpV3laRUxNS3EtaElaTXZLN3c2eV9zZk1xcmJkQmN5ZTlNMThHeHB4d3hZQ2xCeUpBeDQzUE1UMk9TX1lwZmZBSUQtclJWSlhPX0dyclpxQWdxZERRUTdaQWFzMGplQW1FMkdaNEw3aw?oc=5": {
+      "title": "Energia solar reduz custos e atrai famílias - Valor Econômico",
+      "summary": "A energia solar fotovoltaica tem atraído famílias brasileiras, que buscam reduzir custos e obter economia de até **95%** na conta de luz. **Anderson Oliveira**, CEO da **EcoPower Eficiência Energética**, destaca que a tecnologia funciona como um investimento de alta rentabilidade, liberando renda para outros gastos e investimentos. As facilidades de financiamento tornam a parcela do projeto muitas vezes inferior à economia gerada.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:22.298886"
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNTVGTEdZRVphZmdfalF6eHpUamxoeVcwbGpjTjZKclItZDJwNU4zVnlLTFNQcGQtTkhaMUR2UG5QZTc5V21HclRZUnItdkd3TlluMzVCRmQ4UV9USjVRY2tCazA2ZldZcGNsdmNHN1lUcUtuUXZPcWk2SDQ0UkFFcW9UUXlqU1laTDl5XzktMVZJT25lV2k1X0JVeGtjUjRmckVLNFItLVpLUi1IVENjV2ZTWFVnWjBHS2ZoeUN6dzhQV3A5eDVvMU1vQzBkMHR5MmFaT9IB4wFBVV95cUxNMXlPN3RBVFZOdm4xOC1nc09FaUpTMGhIVGZsbmk5M1JOREEtNUZ3MzRQZTBOWDZ1ZVNoV1htWXVkX0o0aThiVjA2Y0p1LVJqQkhmZXh5czRGUjhLTlNvNU9sWU9fUlhaTVpiLTZMMl9aM3RCUmNQZTRnS3VNS1JpbEhNRDI1dW9pd2RxLTV5d0FvdTZidGZNTm0tY1gxWG5rdDczYjAzMjIySUE5RnNIMzZCcHVVR01XX2h4QzdYSjYxb05UMmpYNHc4N3hlU0hnRE1tMHlIeFJ0U29lenEzUG1ROA?oc=5": {
+      "title": "Após compra de ativos, Taesa foca em conclusão de negócio e deixa leilão em 2º plano - Valor Econômico",
+      "summary": "A **Taesa** focará na conclusão da aquisição de cinco transmissoras da **Energisa** por **R$ 2,3 bilhões**, esperando finalizar o negócio em cerca de quatro meses. A operação, anunciada em 21 de maio, adicionará 1.305 km de linhas e 12 subestações ao portfólio da **Taesa**, com uma Receita Anual Permitida (RAP) de **R$ 291 milhões**. Para financiar a compra, a **Taesa** obteve um financiamento ponte de 18 meses com **Bradesco** e **Itaú**, priorizando a integração dos ativos em detrimento de novos leilões até 2026.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:29.500733"
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1FFZ2ZUUEZaclpZeFVUeVE1QkUxQlNZMkJ0ZEY1bmJSSkN5M2syN045NVNvQl9CeHJibk1jamVYQl9YV2xydjRTeHdZenJmaFdTYWdwNkhXM3VfUFhMckZYTnpHSjJLYXM4cWRKTHhHZmxNemhmclBBZ0JvZmtUYUxJdWczYzZxZ1pUbkgtbkEzQWNQelJ3dnVGcVRqX03SAaQBQVVfeXFMUGdrX0ItQVU2U0VQdzZ6aF83N1dEMmI1V2J2UEhKNHVNcUlKVWJrb2lJSjhZSEp2X0NjajhJenE2ZTN3Rm5YV3A5SnZzbnM3SHJfMDRIQXFmZ2JYWUNnVXJBTGNqZHo0T2R2ejR6YXVETlFSWGczaUFrbW1Eci1kOWhhRXdnYzVVc29yU0xGLUxIMXcyOWdQd2VUOU5HR1ZacnREdTE?oc=5": {
+      "title": "Sabesp (SBSP3) conclui compra de participação que Iguá (IGSN3) detinha na Águas de Castilho - Estadão",
+      "summary": "A **Sabesp** concluiu a compra da participação da **Iguá Saneamento** na **Águas de Castilho** por **R$ 30,7 milhões**, passando a deter 100% da concessionária. A operação, aprovada pelo **Cade**, garante à **Sabesp** a concessão de saneamento em Castilho (SP) até **2041**. A **Sabesp** também aguarda aprovação para adquirir a **Águas de Andradina** da **Iguá**.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:38.470687"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdFlyRTV6LWpCWDl6RGdKY2ZCclVSbTNJYTBYVndBLXFDczZ0T1A4XzVRTFlsNEVvYm02dTA1QXYzaXB3ZTZzTXoxMUYzcjJabWxkTXllM1JSSnBhR09zS0VPbFU3RTRqM1dFWFZvbS1fQWZTMXYyTU9NQ2ZQUmVoZ0ViWlBIUXlzdWR2enlQLUpSY2FZMk9yc2YxR2JMS2kzSHc?oc=5": {
+      "title": "Valor em disputa com Norte Energia chega a R$ 548 milhões, atualiza ONS - Agência iNFRA",
+      "summary": "O **ONS** atualizou para **R$ 538 milhões** o valor em disputa com a **Norte Energia** referente a encargos de transmissão não pagos, após decisão judicial favorável à operadora de Belo Monte. A **ANEEL** e o **TRF-1** estão envolvidos na questão, com a **Abrate** buscando o reconhecimento desses valores nos processos tarifários das transmissoras para o ciclo 2026/2027. Empresas como **Isa Energia**, **EDP**, **CPFL**, **Taesa**, **Equatorial** e **Energisa** são credoras, enquanto **Eletrobras**, **Neoenergia** e **Cemig** são sócias da **Norte Energia**.",
+      "source": "",
+      "added_at": "2026-06-01T13:54:47.215468"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHU1S1VmX1p2TFpkUElVWUNTN18tQ05iai0zUlBtYXdRV3VTUjc0SDA1YWQwdW40alJXNjNLTk96aU9SRHdGOTZDZlh5R0ZLNEgxbGZJVUE4RXRBZV9XMWxsUFhTWFhNWS1NbloxU1U5Q1BlT0V4ME1XbUV6cDRzRnphcFlEelBnZV96NFRKS2JSd09CWE1Ca3dWVXJSTGlZVHBzWDNHWQ?oc=5": {
+      "title": "Fase reforça apoio ao PL do compartilhamento de postes - CanalEnergia",
+      "summary": "O **Fase** (Fórum das Associações do Setor Elétrico) reiterou seu apoio ao Projeto de Lei (PL) do compartilhamento de postes, que tramita na Câmara dos Deputados. A posição do **Fase** alinha-se à da **Abradee**, reforçando o consenso entre as associações do setor elétrico sobre a importância do PL.",
+      "source": "",
+      "added_at": "2026-06-01T13:55:01.147267"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNczNGeGV3M1JPeE1oV241UFRJUVdVTHByQnlzVEtOT2JzQmkzZGZVbGw0em85QnEtajQxNllWbEVLeWc5S1RiUHp0eDR3Sm5KdFVsNW9UZFRTaTM3SWN0bHhELVZ1clRLRG9VZ1NRZU1nV1laM1FWOF9TWXl0dWJYRzgyMFpNZkkydFR4aUUzS3B3X3RfckZZQ2xnRmF6U2hPX1pIMC1ib2c2QQ?oc=5": {
+      "title": "MME divulga diretrizes para Leilões de Energia Existente de 2026 - CanalEnergia",
+      "summary": "O **MME** divulgou as diretrizes para os Leilões de Energia Existente de **2026**, que ocorrerão em **13 de novembro**.",
+      "source": "",
+      "added_at": "2026-06-01T13:55:26.425440"
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWFteXJVSV96SzN4bUVtSDRVVXN2RG4xM29TUEZEYVB4QjIxdmNESVI3cnlUUVNYaU9uTThKTzZoVDNhbENIVEJZYjQ0LTVEbFFNM2JsMXNYVlpMc1VyMHJuRHZXRzRkcnNWanN0YWxNN2FEOU5rbHpSX2tLT0NEWXE2QlVETzBGczA3ZTZPYmpYTmQydWRucmtDUzAxbTd2WmU4NFpfTUFRajhNaVhZaEx5Q3FMbWFuSWlV?oc=5": {
+      "title": "Manifesto alerta para revisão de tarifas de transporte de gás natural - CanalEnergia",
+      "summary": "Associações como **Abraget** e **Abrace** emitiram um manifesto pedindo à **Aneel** a aplicação do Método do Capital Recuperado na revisão tarifária do transporte de gás natural. O processo envolve ativos da **NTS** e **TAG**, buscando um modelo mais justo para as tarifas.",
+      "source": "",
+      "added_at": "2026-06-01T13:55:39.371187"
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2t2X08xRnlWdjVhY01VYWVMUjAzdE81WFFVNGExeDByZkhvNDU1bFNpTlNnNmhQdWhNNFdsWWxOZVZXeTJnZHBmSFV4a250aExsd1BFTC1uYmxoQjBIT3c4S1o1N0FNVnA2T0JuWUtKSUdacG8wMnZsTTRJc1FQekVVSDZtczBJRzktVGxuS3VHUGJrMHFEU215SUhZQXpLeXFyUGstaVVESVFvT3Y3QlprVW0tT3RBYldYNVln?oc=5": {
+      "title": "Aurora espera recuo do curtailment apenas no final da década - CanalEnergia",
+      "summary": "A **Aurora Energy** projeta que o *curtailment* no Brasil, que atingiu **21%** em **2025**, só começará a recuar a partir de **2030**. A empresa espera que o problema, que representa a restrição na geração de energia renovável, permaneça elevado no curto e médio prazos.",
+      "source": "",
+      "added_at": "2026-06-01T13:55:52.565175"
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUgzekZsaWhsOHJMeXdoNHFjM2ttSmRfSGVMVHpOZWpMRVh5ejluUW4xZHVobFBBVWhZT0JKUG1DakZXbzRRYXVfeGgyMEptSFpWajlOV0pkdTVjb1g5eTVVa2twcFl5QTFwVzZRM1B3LTZaTVhzcTVQOUNWVzlTdnU3UXdmYmdHb2lGTUtpc211UXc5ZkRYUE1NTnRzaExUaGZzd1F2NHdYd0JEZUJELVBPemNpZXFoY3p5UGhwR1JmY290aHBPbGZrbjdteTRLRHpOM3MzRlg3U0ZCTXFr?oc=5": {
+      "title": "Guerra entre EUA e Irã expõe vulnerabilidade energética do Brasil e reforça urgência da transição - CanalEnergia",
+      "summary": "A notícia destaca a **vulnerabilidade energética do Brasil** frente a um cenário de guerra entre EUA e Irã, reforçando a urgência da transição para uma matriz mais diversificada e segura. O **Brasil** é o país envolvido, com a **guerra** expondo a necessidade de uma nova estratégia energética. Não há valores ou datas específicas mencionadas.",
+      "source": "",
+      "added_at": "2026-06-01T13:56:08.530637"
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnNjWXlPenYwRkxaTUE0dFAyd3pwMmkzX2IyZWFzM1FMRDVGMXZaU1RWSWxLZVBBajJlcmgxS204OHdodXgyWlVZX1ZFd1BLN3UzZXpBc3JqeGJESThYdV9icDR3WEY3S20wVDdRQW9pdHpSenZheGVHOTg4bE1JbVdWMVhxTmgtbTBoU2VWSHI3WElqNDY2SUt2akpPYm9POGppTXVFTkE4alpwVTRDU3N6eVJkaHdzWExQeG03UkEzdw?oc=5": {
+      "title": "El Niño 2026 aumenta risco de queimadas e ameaça setor elétrico brasileiro - CanalEnergia",
+      "summary": "O **El Niño 2026** pode intensificar as queimadas no Brasil, ameaçando o setor elétrico. O fenômeno climático, que se confirmando nos próximos meses, eleva o risco de impactos na geração e transmissão de energia.",
+      "source": "",
+      "added_at": "2026-06-01T13:56:21.734187"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzdLb09QeEMwNTh1dG5Oa3ZCcy1MeUZPWGhLaGhKRUsweU55eGljZzFoOElRQXVUWFlMLW40akdnR0FJUTl2cWhhblo4SnZDM09fTjhCamVxdkp2TlcwdEF0ZVFBTVQ0OUNiWmtqdGUxLS1DOGpMWjg1aG5ZX2oyYUlCUFBHTzdDZ3ZpVzNXeWJxX2t0?oc=5": {
+      "title": "Um país em guerra com futuro da energia - CanalEnergia",
+      "summary": "O texto não fornece informações sobre o setor de utilities, empresas, valores ou datas relevantes para um resumo. Ele apenas menciona um artigo sobre o atraso na regulamentação da cannabis medicinal no Brasil.",
+      "source": "",
+      "added_at": "2026-06-01T13:56:34.624548"
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHd0bnNpcjA3MzFYUEtrbU1PSHRhdzR3VWVKU1VWcEUxeGljVGZZQy1oRG5USDZFTjU1NDc0SFJpcXJyN0NqNTNISy1xQU9sUmhtc09TdXgyWGh6RWpQbUlGMzJ4cGNEVmkzM1Jib3FyVXFsanNpaW9UbDVJLXQyQ20xczhTa3lhSlFfcUpHcUlfMFotazhubVBaazh1MGRYdDNfbzVRYTVZQjlvTmh1WGRHZUtzcldqM2F4QWxpTjB3d3c3?oc=5": {
+      "title": "Cade libera controle da Brava pela Ecopetrol e compra de ativo pela Petrobras - MegaWhat",
+      "summary": "O **Cade** aprovou duas operações no setor de óleo e gás: a aquisição do controle da **Brava Energia** pela colombiana **Ecopetrol**, que pretende elevar sua participação para pelo menos **51%**, e a compra pela **Petrobras** de uma parcela do campo de Argonauta, ligada à jazida de Jubarte, por **R$ 700 milhões** mais **US$ 150 milhões**. Ambas as transações ainda dependem do aval da **ANP**.",
+      "source": "",
+      "added_at": "2026-06-01T13:56:42.323797"
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdnRkTklzbmJ5U1B5aXZ0cVNJYk0tWFpYd1V4WEdoUXpWamkxWVVuVWZkMTg3WHBfbUhLRkhwZEFENGZWS0QxNFJfQVFZMElwUFpSUEZyWG1lQlVOVDJrNnplOWZHNHpHQkN6WVNqSjRrQ0loSEtaRUU2WEtoWmcyV0tSZ3ZkVEg5ZzRWeGFIVWR1NDZyM3BZM2pfcmtQZUEwdUtmdWhiZWpJSGExNUJDVkZTYnEzQ2p3MWFDaGFOSU1WZ2M?oc=5": {
+      "title": "Casa dos Ventos tem aval para comprar conexão; Axia para vender transmissoras - MegaWhat",
+      "summary": "O **Cade** aprovou duas operações no setor de utilities: a **Casa dos Ventos** (via fundo Salus) comprará a participação da **Voltalia** na Pecém VDB 1, detentora de direitos de acesso à Rede Básica de **645 MW**. Além disso, a **Axia Energia** venderá 49% de quatro ativos de transmissão para a **Gebbras** (grupo Energía Bogotá) por **R$ 451,5 milhões**, consolidando o controle da Gebbras sobre as SPEs.",
+      "source": "",
+      "added_at": "2026-06-01T13:56:52.945310"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVRYWHBjX0w3RW1qTHQ2WTdfdnEyQjl4UVlOQTdHRW5RUzIwUktGc0dtNDNjS1Q1NDBlcDVNQ2NQdVhmbnNVdExhX2FxM3J0dFlzcE5takNyb1FoVWhnc0FabElVVE1Hb29TQ1YzSTVBWkRiX0hWNDNQSFZIaXlUSjFKUVJzWlZtdGpfZzZBeDRueW9wTmJoRzdOcVB0Z0V0U0o0dXQ1aVpXZG1K?oc=5": {
+      "title": "Fundo estatal chinês compra participação na Aliança Energia - MegaWhat",
+      "summary": "O fundo estatal chinês **Silk Road Fund**, através da **Cang Yuan Investment**, adquiriu uma participação minoritária na geradora brasileira **Aliança Energia**. A operação, aprovada pelo **Cade**, visa expandir a presença chinesa em infraestrutura e energia no Brasil, sem valores ou percentuais de participação divulgados. A **Aliança Energia** possui sete hidrelétricas, três parques eólicos e um parque solar.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:01.470392"
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazNWSEw4MkFUNmV2bW51U1R1VGswem9BUU9FOVhpc0Flc20wbWI5WjJXR0tmNXYyNzlVQ1h2RkszVlcyMzJyWGRzTllwY3Jhdk1SSGt0SVh1REc4dENrcDV4aFM0ZElSNnkwWlpEU2k5WTlLY2o5S3lyNVVWT2F3NzZDYXJZMUVXVHh4SHFVdnlWWlRta3dIMlREd250S00?oc=5": {
+      "title": "Samarco busca fatia em projeto da Casa dos Ventos - MegaWhat",
+      "summary": "A **Samarco Mineração** obteve aprovação do CADE para adquirir participação na TGR Subholding 10, vinculada a projetos de geração renovável da **Casa dos Ventos**, visando autoprodução de energia. A operação permitirá à **Samarco** ampliar sua produção própria de energia renovável, reduzindo despesas operacionais e aumentando a previsibilidade de custos. Os valores e o percentual da participação não foram divulgados.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:10.149140"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3hja3RETlh1RWFGUDJSNzVYMlRXMWJsbl9JcE81VVhhaFpGeXNWN1ZHOGVoNkFUbW5RT3F6NDhYYl9QZGhRdV9lZm9uMmd6bHZ1TXdNTTJMdlZGVVN3bEJHMkpDS3lvMThoQVE5V2IzT3NySG1Ddkhac01fY28xYVRTMUw1TXZCVHdfQ2t2NDVqcE9GNmtKVm9PTUgyaXhKSkJHSVZTRXM5QQ?oc=5": {
+      "title": "🎙️Electra pede recuperação judicial e Light vence disputa sobre tarifa - MegaWhat",
+      "summary": "A **Electra** pediu recuperação judicial, evidenciando a crise de liquidez das comercializadoras. Enquanto isso, a **Light** obteve vitória em disputa judicial sobre reajuste tarifário. O **MPF** cobrou a **Aneel** sobre indicadores de distribuidoras e a **ANP** adiou o leilão de gás.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:18.064682"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXo5cTViWlRhcnVmeXZHQTM0T0JtS0pNY2FpSFdPT21GN0doS3l2VFdpWVpnWHdzSXNzLW5VTnFHMnh3clptTEY1Sml3Yko1TTFXR090VVJJbjdSNG03YUduaG9faV94UEtlYVp3SXhHeWdZeVllZ3VxazZaaVB5dzhpa2tpdjk0MGRlaGwtZ3RIM0JMVUo0SGJqTnRsbm1DQ3JB?oc=5": {
+      "title": "MME marca leilões de energia existente para novembro - MegaWhat",
+      "summary": "O **MME** agendou os leilões de energia existente A-1, A-2 e A-3 para **13 de novembro**, visando contratar energia para as distribuidoras atenderem o mercado entre **2027 e 2029**. As regras, publicadas em **1º de junho**, preveem contratos de dois anos para cada produto, com riscos hidrológicos assumidos pelos vendedores e sem atualização de preços. As distribuidoras devem declarar suas necessidades de compra entre **11 e 21 de agosto**.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:25.836736"
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDJMYnhFWVhrZkprcndNYU5KUHBLb3lyWXBsTUVuMnBzenFyVXZvZk1mdDNCQ0x4UGRLZTdXTk9ELTFUM2V3eWdZVlpmZFZ1TFZkLU12R0lJVDMtU01oSGZLNTFndWpoQUs1OXRVbkVRQ3RvZnVNUFYtT0h4cHVPLU0yQTlPdEFDYi1WU1dXYy02Qk5SMkZReWFvenlueGhGRV9GMTNmZ2VjWjZFcnQydjF4ZkxMOGUxZnJhYlREaVhYamluOUQzRHNySQ?oc=5": {
+      "title": "Preços da energia recuam na BBCE com menor expectativa de consumo no SIN - MegaWhat",
+      "summary": "Os preços da energia na **BBCE** recuaram na semana de **25 a 29 de maio**, impulsionados pela menor expectativa de consumo no SIN, especialmente no Sudeste, segundo o **ONS**. Contratos de julho caíram **4,75%** para **R$ 207,64/MWh** e os de junho **3,59%** para **R$ 208,57/MWh**, com este último liderando as negociações com **215** negócios e **291 GWh**. A **BBCE Curva Forward**, utilizada por instituições como **EPE** e **CCEE**, reflete esses preços reais transacionados.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:33.413000"
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uYnQ1WEh3NGZ4ZnVqaDJhVnFIaElMMy1QanBaR0NIdDJoTVNTVVhJVzV6ajFpV0RkbmJ1UWpZcHJJU2cwNUpkbkp6bHl6b2M?oc=5": {
+      "title": "Tag junho - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-01T13:58:47.647092",
+      "error": "no_article"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXlGRHNiR0ZUR2hwRFFpbEdkdVFyYVNsV0J1enBER3RxQzRKOHFyYTFrSXA0alNVZE8yLWNPTGNqZS1nbWRMaFFlNUUwdGJMNWEzUWpaSHFaZTRpdUwxR21VQXdRVE0wa3NORHo5LTBHQTQ0R1NKaGs0Si1YSjU3TjJ4ekNqZFpSSk5PYzhxalAyRDdUejA3OGlMRVNKNDR0aFQ2TWpWOUdBM09M?oc=5": {
+      "title": "Lula 3 e Congresso deixam de herança quase R$ 1 tri na conta de luz – Edição do dia - MegaWhat",
+      "summary": "O governo Lula 3 e o Congresso Nacional criaram uma despesa extra de **R$ 985 bilhões** na conta de luz até **2050**, segundo levantamento da Frente Nacional dos Consumidores de Energia. Paralelamente, a **Petrobras** reduzirá o preço do diesel em **R$ 0,35** por litro a partir de **1º de junho** devido a uma subvenção governamental. A **Refit** teve seu CNPJ suspenso e inscrição estadual cassada, enquanto a **Enel** obteve vitória no Chile, mas enfrenta risco de cassação no Brasil.",
+      "source": "",
+      "added_at": "2026-06-01T13:57:47.265595"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T08:18:20.125509",
+  "last_updated": "2026-06-01T13:59:13.547545",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -510,7 +510,7 @@
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
       "summary": null,
-      "added_at": "2026-06-01T08:18:19.624916",
+      "added_at": "2026-06-01T13:59:13.046643",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
@@ -670,6 +670,18 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-celebra-acordo-com-arsap-para-fortalecer-fiscalizacao-no-amapa",
       "summary": "A **ANEEL** firmou um Convênio de Cooperação com a **ARSAP** para fortalecer a fiscalização do setor elétrico no Amapá. O acordo, assinado em **29/5**, permite à agência federal delegar competências à reguladora estadual para fiscalizar os serviços prestados à população amapaense. Este é o **18º** convênio do tipo, expandindo a atuação da ANEEL em diversos estados.",
       "added_at": "2026-05-30T00:17:14.049431"
+    },
+    "partic_ts_012_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 012/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=siCQq2W4&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4018&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento da Base de Dados do triênio **2022-2024** para atualização dos Anexos I a V e eficiência de referência do Submódulo **2.2** do PRORET. Isso impactará os Custos Operacionais reconhecidos nas Revisões Tarifárias de **2027** das distribuidoras.",
+      "added_at": "2026-06-01T13:58:12.676417",
+      "objeto": "obter subsídios para aprimoramento da Base de Dados relativa ao triênio 2022-24 a ser utilizada na atualização dos Anexos I a V e da eficiência de referência relativa ao Submódulo 2.2 dos Procedimentos de Regulação Tarifária – PRORET que trata dos Custos Operacionais a serem reconhecidos nos processos de Revisão Tarifária de 2027 das concessionárias de Distribuição.",
+      "deadline": "30/06/2026",
+      "start_date": "01/06/2026",
+      "fonte": "ANEEL"
     }
   }
 }
