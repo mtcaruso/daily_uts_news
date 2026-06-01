@@ -562,6 +562,16 @@ def main():
 
             summary = summarize(item["title"], body, item["type"]) if body else None
 
+            # Fallback pra partic_* (CP/AP/TS): se o Gemini não resumiu (objeto
+            # curto demais, < 80 chars) mas o objeto já é uma descrição completa,
+            # usa o próprio objeto como resumo. Evita falso "summarize_failed"
+            # em CPs com objeto enxuto (ex: "minuta do Plano Nacional de
+            # Transição Energética - PLANTE").
+            if not summary and item["type"].startswith("partic_") and body:
+                objeto_clean = " ".join(body.split()).strip()
+                if 15 <= len(objeto_clean) <= 500:
+                    summary = objeto_clean
+
             entry = {
                 "type": item["type"],
                 "title": item["title"],

@@ -509,14 +509,13 @@
       "title": "Consulta Pública MME nº 222",
       "date": null,
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/222",
-      "summary": null,
+      "summary": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "added_at": "2026-06-01T14:34:23.102322",
       "objeto": "Consulta Pública, minuta do Plano Nacional de Transição Energética - Plante",
       "deadline": "12/06/2026",
       "start_date": "29/04/2026",
       "fonte": "MME",
-      "sei_processo": "48360.000100/2026-11",
-      "error": "summarize_failed"
+      "sei_processo": "48360.000100/2026-11"
     },
     "partic_mme_cp_220": {
       "type": "partic_mme_cp",
