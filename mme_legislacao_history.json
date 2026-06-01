@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T08:03:39.143439",
+  "last_updated": "2026-06-01T13:52:26.019521",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2490,6 +2490,72 @@
       "summary": "Anui com a requisição de **Sandra Mônica Py Del Fiaco**, matrícula **SIAPE nº 1669868**, para a Defensoria Pública da União.",
       "added_at": "2026-05-27T15:06:36.068352",
       "summarized_at": "2026-05-27T15:06:59.081996"
+    },
+    "portarias_portaria-mme-n-76-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-76-2026",
+      "title": "Portaria MME nº 76/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-76-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-76-2026.pdf",
+      "date_modified": "01/06/2026",
+      "ementa": "Designa FLÁVIA CARVALHO CARREIRA, para exercer a Função Comissionada Executiva de Assessora do Gabinete do Ministro, código FCE 2.13, ficando exonerada do cargo que atualmente ocupa.",
+      "summary": "Designa **FLÁVIA CARVALHO CARREIRA** como Assessora do Gabinete do Ministro, código **FCE 2.13**.",
+      "added_at": "2026-06-01T13:52:16.102448",
+      "summarized_at": "2026-06-01T13:52:20.832819"
+    },
+    "portarias_portaria-mme-n-77-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-77-2026",
+      "title": "Portaria MME nº 77/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-77-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-77-2026.pdf",
+      "date_modified": "01/06/2026",
+      "ementa": "Nomeia MILENA BARBOSA CARVALHEDO RIBEIRO, para exercer o Cargo Comissionado Executivo de Assessora da Coordenação-Geral de Atividades Administrativas, do Gabinete da Secretaria-Executiva, código CCE 2.13, ficando exonerada do cargo que atualmente ocupa.",
+      "summary": "Nomeia **Milena Barbosa Carvalhedo Ribeiro** para o cargo de Assessora da Coordenação-Geral de Atividades Administrativas, código **CCE 2.13**, exonerando-a da função anterior.",
+      "added_at": "2026-06-01T13:52:16.102448",
+      "summarized_at": "2026-06-01T13:52:22.258387"
+    },
+    "portarias_portaria-mme-n-78-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-78-2026",
+      "title": "Portaria MME nº 78/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-78-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-78-2026.pdf",
+      "date_modified": "01/06/2026",
+      "ementa": "Altera a Portaria MME nº 15, de 28 de fevereiro de 2025.",
+      "summary": null,
+      "added_at": "2026-06-01T13:52:16.102448",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-normativa-mme-n-135-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-normativa-mme-n-135-2026",
+      "title": "Portaria Normativa MME nº 135/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-135-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-135-2026.pdf",
+      "date_modified": "01/06/2026",
+      "ementa": "Estabelece as Diretrizes para a realização dos Leilões de Compra de Energia Elétrica Proveniente de Empreendimentos de Geração Existentes de 2026.",
+      "summary": "Estabelece diretrizes para os Leilões de Compra de Energia Elétrica de Empreendimentos de Geração Existentes de **2026**.",
+      "added_at": "2026-06-01T13:52:16.102448",
+      "summarized_at": "2026-06-01T13:52:24.085705"
+    },
+    "decretos_decreto-n-12-992-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-12-992-2026",
+      "title": "Decreto nº 12.992/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-12-992-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-12-992-2026.pdf",
+      "date_modified": "01/06/2026",
+      "ementa": "Prorroga a subvenção econômica à importação do Gás Liquefeito de Petróleo - GLP, de que tratam a Medida Provisória nº 1.349, de 7 de abril de 2026, e o Decreto nº 12.930, de 15 de abril de 2026.",
+      "summary": "Prorroga a subvenção econômica à importação de GLP, conforme **MP nº 1.349/2026** e **Decreto nº 12.930/2026**.",
+      "added_at": "2026-06-01T13:52:16.102448",
+      "summarized_at": "2026-06-01T13:52:25.516136"
     }
   },
   "first_run_done": true
