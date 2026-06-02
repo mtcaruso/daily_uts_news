@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-02T10:03:47.673135-03:00",
+  "last_updated": "2026-06-02T17:00:55.635608-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260602 02/06/2026 14:49",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1529713",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529713",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-02T17:00:45.654660"
+    },
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260602 02/06/2026 14:49",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1529714",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529714",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-02T17:00:45.654691"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",

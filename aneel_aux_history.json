@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T10:02:17.924895",
+  "last_updated": "2026-06-02T16:59:24.484283",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -697,6 +697,38 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bloqueio-orcamentario-ameaca-fiscalizacao-seguranca-juridica-e-projetos-estrategicos-para-o-desenvolvimento-do-brasil",
       "summary": "A **ANEEL**, junto ao COARF, alerta que o Decreto nº 12.990/2026, que bloqueia **18%** do orçamento federal, ameaça a fiscalização, segurança jurídica e projetos estratégicos do setor elétrico. Isso pode inviabilizar escritórios regionais no Norte, Nordeste e Sul, prejudicar o atendimento ao consumidor e atrasar revisões tarifárias e projetos de modernização.",
       "added_at": "2026-06-02T10:02:17.424378"
+    },
+    "noticia_2026_armazenamento-de-energia-aneel-encerra-consulta-publica-e-aprova-regras-sobre-a-cobranca-pelo-uso-da-rede": {
+      "type": "noticia",
+      "title": "Armazenamento de Energia: ANEEL encerra Consulta Pública e aprova regras sobre a cobrança pelo uso da rede",
+      "date": "02/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/armazenamento-de-energia-aneel-encerra-consulta-publica-e-aprova-regras-sobre-a-cobranca-pelo-uso-da-rede",
+      "summary": "A **ANEEL** aprovou regras para a cobrança pelo uso da rede em Sistemas de Armazenamento de Energia (SAEs), com tratamento diferenciado para aqueles controlados pelo **ONS**. SAEs totalmente despachados pelo **ONS** terão redução de encargos e o MUST de consumo será **zero**, enquanto os de operação livre mantêm as regras atuais. O **ONS** deverá publicar mapas de conexão anualmente e adequar os Procedimentos de Rede em **180 dias**.",
+      "added_at": "2026-06-02T16:59:14.234575"
+    },
+    "noticia_2026_agencia-aprova-regras-relacionadas-ao-constrained-off-de-usinas-fotovoltaicas": {
+      "type": "noticia",
+      "title": "Agência aprova regras relacionadas ao constrained-off de usinas fotovoltaicas",
+      "date": "02/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-aprova-regras-relacionadas-ao-constrained-off-de-usinas-fotovoltaicas",
+      "summary": "A ANEEL aprovou novas regras para compensação financeira por redução de produção (constrained-off) de usinas fotovoltaicas (UFVs), aprimorando módulos das Regras de Comercialização. A decisão, tomada em **2 de junho**, envolve empresas e associações do setor elétrico, que contribuíram em consulta pública. As mudanças atendem à Resolução Normativa **1.030/2022**, definindo cálculo e valoração da energia não fornecida.",
+      "added_at": "2026-06-02T16:59:17.871931"
+    },
+    "noticia_2026_aneel-propoe-mudar-cobranca-pelo-custo-de-disponibilidade": {
+      "type": "noticia",
+      "title": "ANEEL propõe mudar cobrança pelo custo de disponibilidade",
+      "date": "02/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-propoe-mudar-cobranca-pelo-custo-de-disponibilidade",
+      "summary": "A **ANEEL** abriu consulta pública para propor a substituição da cobrança mínima de energia por um encargo fixo mensal para serviços comerciais, impactando consumidores de baixa tensão, exceto os da Tarifa Social e micro/minigeradores. A medida visa tornar a cobrança mais transparente e justa, com a consulta pública **nº 16/2026** aberta de **8 de junho a 8 de setembro de 2026**.",
+      "added_at": "2026-06-02T16:59:20.247506"
+    },
+    "noticia_2026_aneel-estabelece-mecanismo-para-revogacao-de-outorgas-e-rescisao-dos-cust-de-geradoras": {
+      "type": "noticia",
+      "title": "ANEEL estabelece mecanismo para revogação de outorgas e rescisão dos CUST de geradoras",
+      "date": "02/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-estabelece-mecanismo-para-revogacao-de-outorgas-e-rescisao-dos-cust-de-geradoras",
+      "summary": "A ANEEL aprovou um mecanismo excepcional para revogar outorgas de geração e rescindir Contratos de Uso do Sistema de Transmissão (CUST) de geradoras, sem multas ou encargos rescisórios. A medida, que passou pela Consulta Pública **CP7/2026** e recebeu **126** contribuições, visa corrigir distorções e projetos inviáveis, especialmente de renováveis, após a \"corrida do ouro\" no setor.",
+      "added_at": "2026-06-02T16:59:23.983486"
     }
   }
 }

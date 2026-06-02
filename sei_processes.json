@@ -771,7 +771,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-02T10:02:57.552028",
+    "last_check_at": "2026-06-02T16:59:54.202819",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -914,6 +914,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "d7e8773cc6fe",
       "f6f724a72516",
       "48eac262d182",
       "36d66b264ae3",
@@ -1164,12 +1165,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 249,
+    "andamento_count": 250,
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-02T10:03:00.928435",
+    "last_check_at": "2026-06-02T17:00:00.859589",
     "last_andamentos_top10": [
+      {
+        "datahora": "02/06/2026 11:21",
+        "unidade": "DIR - WMF",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "d7e8773cc6fe"
+      },
       {
         "datahora": "26/05/2026 19:15",
         "unidade": "ASD - APOIO",
@@ -1223,12 +1230,6 @@
         "unidade": "SFT",
         "descricao": "Conclusão do processo na unidade",
         "hash": "b75493d0a82f"
-      },
-      {
-        "datahora": "13/04/2026 09:38",
-        "unidade": "STE",
-        "descricao": "Processo recebido na unidade",
-        "hash": "80b45733a0dd"
       }
     ],
     "last_documentos_top10": [
@@ -1328,7 +1329,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 12,
     "documento_count": 10,
-    "last_check_at": "2026-06-02T10:03:03.461086",
+    "last_check_at": "2026-06-02T17:00:06.587414",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 09:59",
