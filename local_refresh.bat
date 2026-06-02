@@ -30,12 +30,18 @@ if "%GEMINI_API_KEY%"=="" (
 )
 
 echo [1/9] git pull --rebase origin main...
+REM Descarta mudancas NAO-commitadas nos JSONs de estado antes do pull. Esses
+REM arquivos sao regenerados pelos scrapers abaixo (steps 2-7), entao descartar
+REM versao stale e seguro. Sem isso, um tree sujo (ex: run anterior interrompida)
+REM trava o pull com "You have unstaged changes".
+git checkout -- news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json mme_legislacao_history.json mme_legislacao_diagnostic.json cvm_recent.json alerts_state.json cvm_insider_history.json cvm_insider_diagnostic.json 2>nul
+
 REM --rebase -X theirs absorve commits do GHA mesmo quando branches divergiram
 REM (ex: commit local de run anterior que nao pushou). --ff-only travava nesse caso.
 git pull --rebase -X theirs origin main
 if errorlevel 1 (
     echo WARN: rebase falhou — tentando abortar + merge -X ours
-    git rebase --abort
+    git rebase --abort 2>nul
     git pull --no-rebase -X ours origin main
     if errorlevel 1 (
         echo ERROR: git pull falhou de vez. Resolva conflito manual.
