@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T11:54:46.416399",
+  "last_updated": "2026-06-02T10:02:17.924895",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -689,6 +689,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realiza-em-3-7-segunda-sessao-publica-do-leilao-de-transmissao-no-1-2026",
       "summary": "A ANEEL realizará a segunda sessão pública do Leilão de Transmissão nº 1/2026, envolvendo os Lotes 7 a 10, na **B3** em São Paulo. O evento ocorrerá em **3 de julho de 2026**, às **14h**, com a assinatura dos contratos de concessão prevista para **9 de setembro de 2026**.",
       "added_at": "2026-06-01T21:23:49.681815"
+    },
+    "noticia_2026_bloqueio-orcamentario-ameaca-fiscalizacao-seguranca-juridica-e-projetos-estrategicos-para-o-desenvolvimento-do-brasil": {
+      "type": "noticia",
+      "title": "Bloqueio orçamentário ameaça fiscalização, segurança jurídica e projetos estratégicos para o desenvolvimento do Brasil",
+      "date": "02/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bloqueio-orcamentario-ameaca-fiscalizacao-seguranca-juridica-e-projetos-estrategicos-para-o-desenvolvimento-do-brasil",
+      "summary": "A **ANEEL**, junto ao COARF, alerta que o Decreto nº 12.990/2026, que bloqueia **18%** do orçamento federal, ameaça a fiscalização, segurança jurídica e projetos estratégicos do setor elétrico. Isso pode inviabilizar escritórios regionais no Norte, Nordeste e Sul, prejudicar o atendimento ao consumidor e atrasar revisões tarifárias e projetos de modernização.",
+      "added_at": "2026-06-02T10:02:17.424378"
     }
   }
 }

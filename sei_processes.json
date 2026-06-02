@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "e1ff13b82886",
+      "7ee1d7d4ed81",
       "e1a66156f7cd",
       "0ee31690a647",
       "ef3008378993",
@@ -401,12 +403,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 394,
-    "documento_count": 348,
+    "andamento_count": 396,
+    "documento_count": 350,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-02T07:27:47.334386",
+    "last_check_at": "2026-06-02T10:02:52.417585",
     "last_andamentos_top10": [
+      {
+        "datahora": "02/06/2026 08:51",
+        "unidade": "SEL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "e1ff13b82886"
+      },
+      {
+        "datahora": "02/06/2026 08:48",
+        "unidade": "SEL",
+        "descricao": "Processo remetido pela unidade CPL",
+        "hash": "7ee1d7d4ed81"
+      },
       {
         "datahora": "01/06/2026 10:09",
         "unidade": "DIR - AMAC",
@@ -454,18 +468,6 @@
         "unidade": "PROCURADORIA FEDERAL",
         "descricao": "Reabertura do processo na unidade",
         "hash": "183d9fd17426"
-      },
-      {
-        "datahora": "29/05/2026 14:09",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.008759/2026-73 anexado",
-        "hash": "1c9a3bdfd81b"
-      },
-      {
-        "datahora": "29/05/2026 14:05",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.009210/2026-04 anexado",
-        "hash": "dbeb6d5e0023"
       }
     ],
     "last_documentos_top10": [
@@ -589,7 +591,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-02T07:27:49.958570",
+    "last_check_at": "2026-06-02T10:02:55.011396",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -769,7 +771,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-02T07:27:52.522772",
+    "last_check_at": "2026-06-02T10:02:57.552028",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1166,7 +1168,7 @@
     "documento_count": 128,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-02T07:27:55.900632",
+    "last_check_at": "2026-06-02T10:03:00.928435",
     "last_andamentos_top10": [
       {
         "datahora": "26/05/2026 19:15",
@@ -1309,6 +1311,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "1daaddd3fba2",
       "822a3e794ee4",
       "34f86f114f55",
       "f1972707c814",
@@ -1323,10 +1326,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 11,
-    "documento_count": 9,
-    "last_check_at": "2026-06-02T07:27:58.375163",
+    "andamento_count": 12,
+    "documento_count": 10,
+    "last_check_at": "2026-06-02T10:03:03.461086",
     "last_andamentos_top10": [
+      {
+        "datahora": "02/06/2026 09:59",
+        "unidade": "DIR - GNSJ",
+        "descricao": "Processo 48500.015376/2026-51 anexado",
+        "hash": "1daaddd3fba2"
+      },
       {
         "datahora": "29/05/2026 14:19",
         "unidade": "DIR - GNSJ",
@@ -1380,12 +1389,6 @@
         "unidade": "SGE -SORTEIO",
         "descricao": "Processo recebido na unidade",
         "hash": "635fa8cdaf7c"
-      },
-      {
-        "datahora": "24/04/2026 10:47",
-        "unidade": "SGE -SORTEIO",
-        "descricao": "Processo remetido pela unidade STR",
-        "hash": "f0fd694d277a"
       }
     ],
     "last_documentos_top10": [
@@ -1448,6 +1451,13 @@
       {
         "protocolo": "48500.015372/2026-73",
         "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
+        "data": "29/05/2026",
+        "data_inclusao": "29/05/2026",
+        "unidade": "PROTOCOLO-GERAL"
+      },
+      {
+        "protocolo": "48500.015376/2026-51",
+        "tipo": "Regulação da Transmissão: Pleitos sobre Serviços de Transmissão",
         "data": "29/05/2026",
         "data_inclusao": "29/05/2026",
         "unidade": "PROTOCOLO-GERAL"
