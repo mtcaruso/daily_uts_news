@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-02T17:08:46.796950-03:00",
+  "last_updated": "2026-06-02T18:01:17.284005-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Relatório de Sustentabilidade",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20251231 31/12/2025",
+      "data_entrega": "20260602 02/06/2026 17:21",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1529762",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529762",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-02T18:01:15.209892"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
