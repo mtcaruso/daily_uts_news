@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-02T17:00:55.635608-03:00",
+  "last_updated": "2026-06-02T17:08:46.796950-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Fechamento da transação e consolidação da UHE Três Irmãos -",
+      "data_referencia": "20260602 02/06/2026",
+      "data_entrega": "20260602 02/06/2026 17:03",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Fechamento da transação e consolidação da UHE Três Irmãos",
+      "protocolo": "1529758",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529758",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-06-02T17:08:25.453470"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
