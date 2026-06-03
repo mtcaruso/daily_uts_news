@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-03T17:30:41.941559-03:00",
+  "last_updated": "2026-06-03T18:00:36.193007-03:00",
   "items": [
+    {
+      "cnpj_short": "00245-3",
+      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado - Aquisição Integral de 11 usinas fotovoltaicas de GD pela Cemig SIM -",
+      "data_referencia": "20260603 03/06/2026",
+      "data_entrega": "20260603 03/06/2026 17:19",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Aquisição Integral de 11 usinas fotovoltaicas de GD pela Cemig SIM",
+      "protocolo": "1530324",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530324",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "2453",
+      "first_seen": "2026-06-03T18:00:17.613381"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Reportes da Diretora-Presidente, do CRCC, do CINV, do CGP, do COAUDI e da Auditoria Interna; Distribuição da Verba anual da DE, CA e CF para 2026; Acompanhamento dos Indicadores de Desempenho, dos trabalhos da Superintendência de Compliance e das métricas de integridade; Atualização das perspectivas de mercado (investidores e analistas) e pontos críticos; Revisão da Meta do Índice de Satisfação dos Clientes (ISC); Acompanhamento do Plano de Redução de Perdas de Água, dos Indicadores Estratégicos, do Orçamento Regulatório e do Orçamento Empresarial 2026; Análise do atendimento das metas e resultados na execução do Plano de Negócios e da Estratégia de Longo Prazo no exercício de 2025; Follow-up da incorporação de Ativos; Formalização de termo aditivo aos contratos nº 24.1590 e 25.3360; Propositura de ação judicial referente ao auto de infração ICMBio - ETE Aeroporto de Confins; Celebração de Termos de Compromisso; Revisão da Política de Due Diligence de Integridade, e de indicadores do risco “R003 - Gestão de Empreendimentos”Ata",
+      "data_referencia": "20260527 27/05/2026 10:30",
+      "data_entrega": "20260603 03/06/2026 17:18",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Reportes da Diretora-Presidente, do CRCC, do CINV, do CGP, do COAUDI e da Auditoria Interna; Distribuição da Verba anual da DE, CA e CF para 2026; Acompanhamento dos Indicadores de Desempenho, dos trabalhos da Superintendência de Compliance e das métricas de integridade; Atualização das perspectivas de mercado (investidores e analistas) e pontos críticos; Revisão da Meta do Índice de Satisfação dos Clientes (ISC); Acompanhamento do Plano de Redução de Perdas de Água, dos Indicadores Estratégicos, do Orçamento Regulatório e do Orçamento Empresarial 2026; Análise do atendimento das metas e resultados na execução do Plano de Negócios e da Estratégia de Longo Prazo no exercício de 2025; Follow-up da incorporação de Ativos; Formalização de termo aditivo aos contratos nº 24.1590 e 25.3360; Propositura de ação judicial referente ao auto de infração ICMBio - ETE Aeroporto de Confins; Celebração de Termos de Compromisso; Revisão da Política de Due Diligence de Integridade, e de indicadores do risco “R003 - Gestão de Empreendimentos”",
+      "protocolo": "1530323",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530323",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-03T18:00:34.581375"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
