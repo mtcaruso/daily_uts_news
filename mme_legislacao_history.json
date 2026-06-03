@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T18:00:53.167939",
+  "last_updated": "2026-06-03T16:07:57.963065",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2556,6 +2556,46 @@
       "summary": "Prorroga a subvenção econômica à importação de GLP, conforme **MP nº 1.349/2026** e **Decreto nº 12.930/2026**.",
       "added_at": "2026-06-01T13:52:16.102448",
       "summarized_at": "2026-06-01T13:52:25.516136"
+    },
+    "portarias_portaria-gm-mme-n-53-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-53-2026",
+      "title": "Portaria GM/MME nº 53/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-53-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-53-2026.pdf",
+      "date_modified": "03/06/2026",
+      "ementa": "Nomeia, a partir de 4 de junho de 2026, CARLOS JORGE PAVÃO DIAS, para exercer o Cargo Comissionado Executivo de Assessor Técnico do Gabinete da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código CCE 2.12.",
+      "summary": "Nomeia **CARLOS JORGE PAVÃO DIAS** como Assessor Técnico do Gabinete da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis (CCE 2.12), a partir de **4 de junho de 2026**.",
+      "added_at": "2026-06-03T16:07:50.588637",
+      "summarized_at": "2026-06-03T16:07:55.561257"
+    },
+    "portarias_portaria-mme-n-79-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-79-2026",
+      "title": "Portaria MME nº 79/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-79-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-79-2026.pdf",
+      "date_modified": "03/06/2026",
+      "ementa": "Altera a Portaria MME nº 41, de 2 de junho de 2025.",
+      "summary": null,
+      "added_at": "2026-06-03T16:07:50.588637",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-normativa-mme-n-136-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-normativa-mme-n-136-2026",
+      "title": "Portaria Normativa MME nº 136/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-136-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-136-2026.pdf",
+      "date_modified": "03/06/2026",
+      "ementa": "Estabelece as Diretrizes e a Sistemática para a realização dos Leilões para Contratação de Potência Elétrica, a partir de novos sistemas de armazenamento de energia em baterias, denominados “Leilão de Reserva de Capacidade na forma de Potência, por meio de novos sistemas de armazenamento de energia em baterias com conteúdo nacional, de 2026 - LRCAP de 2026 - Armazenamento Nacional” e “Leilão de Reserva de Capacidade na forma de Potência, por meio de novos sistemas de armazenamento de energia em baterias, de 2026 - LRCAP de 2026 - Armazenamento”.",
+      "summary": "Estabelece diretrizes para os **Leilões de Reserva de Capacidade de 2026** (**LRCAP de 2026 - Armazenamento Nacional** e **LRCAP de 2026 - Armazenamento**), focados em contratação de potência elétrica via novos sistemas de armazenamento em baterias.",
+      "added_at": "2026-06-03T16:07:50.588637",
+      "summarized_at": "2026-06-03T16:07:57.462412"
     }
   },
   "first_run_done": true
