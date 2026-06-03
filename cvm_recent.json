@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-03T20:01:58.917459-03:00",
+  "last_updated": "2026-06-03T20:16:17.050121-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Anúncio sobre a Oferta Profissional -",
+      "data_referencia": "20260603 03/06/2026",
+      "data_entrega": "20260603 03/06/2026 20:15",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio sobre a Oferta Profissional",
+      "protocolo": "1530612",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530612",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-03T23:16:15.482029"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Anúncio sobre Oferta Profissional -",
+      "data_referencia": "20260603 03/06/2026",
+      "data_entrega": "20260603 03/06/2026 20:13",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio sobre Oferta Profissional",
+      "protocolo": "1530610",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530610",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-03T23:16:15.482041"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
