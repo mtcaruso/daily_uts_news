@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T20:16:17.050121-03:00",
+  "last_updated": "2026-06-03T20:16:39.162201-03:00",
   "items": [
     {
       "cnpj_short": "01944-5",
@@ -17,7 +17,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530612",
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
-      "first_seen": "2026-06-03T23:16:15.482029"
+      "first_seen": "2026-06-03T20:16:37.703547"
     },
     {
       "cnpj_short": "01944-5",
@@ -35,7 +35,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530610",
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
-      "first_seen": "2026-06-03T23:16:15.482041"
+      "first_seen": "2026-06-03T20:16:37.703574"
     },
     {
       "cnpj_short": "02025-7",
