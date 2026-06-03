@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T17:29:14.073513",
+  "last_updated": "2026-06-03T18:01:09.085949",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -745,6 +745,15 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/tomada-de-subsidios-recebe-sugestoes-para-atualizar-base-de-dados-para-o-proret",
       "summary": "A **ANEEL** abriu a Tomada de Subsídios 012/2026 para coletar sugestões e aprimorar a base de dados usada no cálculo dos custos operacionais regulatórios das distribuidoras de energia. O prazo final para contribuições é **30 de junho**, visando as Revisões Tarifárias de **2027** e a atualização dos anexos do PRORET.",
       "added_at": "2026-06-03T14:06:16.127473"
+    },
+    "pauta_14762": {
+      "type": "pauta_rd",
+      "title": "PAUTA DO 9º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "09/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14762&idAreaNoticia=425",
+      "summary": null,
+      "added_at": "2026-06-03T18:01:08.585248",
+      "error": "no_body"
     }
   }
 }
