@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-03T16:00:35.824222-03:00",
+  "last_updated": "2026-06-03T17:01:09.371861-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260603 03/06/2026 16:43",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1530287",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530287",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-06-03T17:01:08.283809"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
