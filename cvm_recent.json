@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-03T17:02:59.147989-03:00",
+  "last_updated": "2026-06-03T17:16:52.622434-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260603 06/2026",
+      "data_entrega": "20260603 03/06/2026 17:10",
+      "status": "Ativo",
+      "versao": "3",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1530315",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530315",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-06-03T17:16:46.973799"
+    },
     {
       "cnpj_short": "01862-7",
       "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
