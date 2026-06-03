@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-03T18:02:26.366598-03:00",
+  "last_updated": "2026-06-03T18:30:32.887009-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Aprovação da proposta de incorporação da controlada integral Companhia Energética do Jari – CEJA. -",
+      "data_referencia": "20260603 03/06/2026",
+      "data_entrega": "20260603 03/06/2026 18:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aprovação da proposta de incorporação da controlada integral Companhia Energética do Jari – CEJA.",
+      "protocolo": "1530509",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530509",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-03T18:30:21.291256"
+    },
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Item 1.1 – Aprovar a celebração, pela Companhia, do Instrumento de Protocolo e Justificação de Incorporação da Companhia Energética do Jari – CEJA.; Item 1.2 – Aprovar a Proposta da Administração e convocação da Assembleia Geral Extraordinária da Companhia para aprovação da Incorporação da CEJA.Ata",
+      "data_referencia": "20260603 03/06/2026 09:00",
+      "data_entrega": "20260603 03/06/2026 18:03",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Item 1.1 – Aprovar a celebração, pela Companhia, do Instrumento de Protocolo e Justificação de Incorporação da Companhia Energética do Jari – CEJA.; Item 1.2 – Aprovar a Proposta da Administração e convocação da Assembleia Geral Extraordinária da Companhia para aprovação da Incorporação da CEJA.",
+      "protocolo": "1530418",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530418",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-03T18:30:21.291223"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
