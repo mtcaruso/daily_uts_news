@@ -407,10 +407,10 @@
       "3283160d7e6f"
     ],
     "andamento_count": 399,
-    "documento_count": 350,
+    "documento_count": 352,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-02T17:07:40.068798",
+    "last_check_at": "2026-06-03T14:07:17.705443",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 17:00",
@@ -594,7 +594,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-02T18:00:15.449728",
+    "last_check_at": "2026-06-03T14:07:20.204104",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -774,7 +774,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-02T16:59:54.202819",
+    "last_check_at": "2026-06-03T14:07:22.812501",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1169,10 +1169,10 @@
       "3b6d0240376f"
     ],
     "andamento_count": 250,
-    "documento_count": 128,
+    "documento_count": 130,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-02T17:07:59.432852",
+    "last_check_at": "2026-06-03T14:07:26.109581",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 11:21",
@@ -1315,6 +1315,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "8663007f0c6e",
+      "1a0c24c8a32b",
       "1daaddd3fba2",
       "822a3e794ee4",
       "34f86f114f55",
@@ -1330,10 +1332,22 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 12,
-    "documento_count": 10,
-    "last_check_at": "2026-06-02T18:00:33.287441",
+    "andamento_count": 14,
+    "documento_count": 12,
+    "last_check_at": "2026-06-03T14:07:28.723955",
     "last_andamentos_top10": [
+      {
+        "datahora": "02/06/2026 18:13",
+        "unidade": "ASD - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "8663007f0c6e"
+      },
+      {
+        "datahora": "02/06/2026 18:04",
+        "unidade": "ASD - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "1a0c24c8a32b"
+      },
       {
         "datahora": "02/06/2026 09:59",
         "unidade": "DIR - GNSJ",
@@ -1381,18 +1395,6 @@
         "unidade": "DIR - GNSJ",
         "descricao": "Processo recebido na unidade",
         "hash": "62dea63908cc"
-      },
-      {
-        "datahora": "04/05/2026 10:36",
-        "unidade": "DIR - GNSJ",
-        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
-        "hash": "253a55d01437"
-      },
-      {
-        "datahora": "24/04/2026 11:18",
-        "unidade": "SGE -SORTEIO",
-        "descricao": "Processo recebido na unidade",
-        "hash": "635fa8cdaf7c"
       }
     ],
     "last_documentos_top10": [
@@ -1446,10 +1448,10 @@
         "unidade": "STR"
       },
       {
-        "protocolo": "0369015",
+        "protocolo": "0372230",
         "tipo": "Memória",
         "data": "27/05/2026",
-        "data_inclusao": "29/05/2026",
+        "data_inclusao": "02/06/2026",
         "unidade": "ASD - APOIO"
       },
       {

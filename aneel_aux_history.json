@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T22:08:52.247506",
+  "last_updated": "2026-06-03T14:06:16.628329",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -729,6 +729,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-estabelece-mecanismo-para-revogacao-de-outorgas-e-rescisao-dos-cust-de-geradoras",
       "summary": "A ANEEL aprovou um mecanismo excepcional para revogar outorgas de geração e rescindir Contratos de Uso do Sistema de Transmissão (CUST) de geradoras, sem multas ou encargos rescisórios. A medida, que passou pela Consulta Pública **CP7/2026** e recebeu **126** contribuições, visa corrigir distorções e projetos inviáveis, especialmente de renováveis, após a \"corrida do ouro\" no setor.",
       "added_at": "2026-06-02T16:59:23.983486"
+    },
+    "noticia_2026_olimpiada-nacional-de-eficiencia-energetica-2026-esta-com-inscricoes-abertas": {
+      "type": "noticia",
+      "title": "Olimpíada Nacional de Eficiência Energética 2026 está com inscrições abertas",
+      "date": "03/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/olimpiada-nacional-de-eficiencia-energetica-2026-esta-com-inscricoes-abertas",
+      "summary": "A ANEEL, via Programa de Eficiência Energética (PEE), abriu as inscrições para a 5ª edição da Olimpíada Nacional de Eficiência Energética (ONEE) 2026, com o objetivo de conscientizar sobre o uso sustentável de energia. A competição, coordenada pelo Instituto Abradee e com o **Grupo Equatorial** como proponente, envolve **48 distribuidoras** de energia de todos os estados, buscando reunir mais de **660 mil** estudantes do ensino fundamental e médio. As inscrições são gratuitas e vão de **8 de junho a 15 de setembro**.",
+      "added_at": "2026-06-03T14:06:13.515899"
+    },
+    "noticia_2026_tomada-de-subsidios-recebe-sugestoes-para-atualizar-base-de-dados-para-o-proret": {
+      "type": "noticia",
+      "title": "Tomada de Subsídios recebe sugestões para atualizar base de dados para o PRORET",
+      "date": "03/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/tomada-de-subsidios-recebe-sugestoes-para-atualizar-base-de-dados-para-o-proret",
+      "summary": "A **ANEEL** abriu a Tomada de Subsídios 012/2026 para coletar sugestões e aprimorar a base de dados usada no cálculo dos custos operacionais regulatórios das distribuidoras de energia. O prazo final para contribuições é **30 de junho**, visando as Revisões Tarifárias de **2027** e a atualização dos anexos do PRORET.",
+      "added_at": "2026-06-03T14:06:16.127473"
     }
   }
 }
