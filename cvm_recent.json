@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-05T07:59:50.257268-03:00",
+  "last_updated": "2026-06-05T08:40:40.990049-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Aviso ao Mercado",
+      "especie": "Aviso ao Mercado da Oferta Pública de Distribuição Secundária de Ações -",
+      "data_referencia": "20260605 05/06/2026",
+      "data_entrega": "20260605 05/06/2026 08:30",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aviso ao Mercado da Oferta Pública de Distribuição Secundária de Ações",
+      "protocolo": "1530986",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530986",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-05T11:40:39.503645"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
