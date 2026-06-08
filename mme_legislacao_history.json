@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T12:23:52.996874",
+  "last_updated": "2026-06-08T08:09:48.444725",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2876,6 +2876,19 @@
       "added_at": "2026-06-03T16:59:51.209714",
       "summarized_at": null,
       "error": "no_ementa"
+    },
+    "portarias_portaria-mme-n-920-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-920-2026",
+      "title": "Portaria MME nº 920/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-920-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-920-2026.pdf",
+      "date_modified": "08/06/2026",
+      "ementa": "Fica prorrogada, pelo prazo de trinta anos, a contar de 5 de junho de 2026, a Concessão de Uso de Bem Público para exploração do potencial de energia hidráulica localizado no Rio Ribeirão das Lajes, Município de Piraí, Estado do Rio de Janeiro, por meio da Pequena Central Hidrelétrica denominada PCH Lajes, cadastrada com o Código Único de Empreendimento de Geração - CEG: PCH.PH.RJ.001306-4.01, com 17.000 kW de potência instalada, bem como as respectivas Instalações de Transmissão de Interesse Restrito, originalmente outorgada à Light - Serviços de Eletricidade S.A. (CNPJ 60.444.437/0001-46) pelo Decreto s/nº, de 28 de maio de 1996, posteriormente regulada pelo Contrato de Concessão nº 008/2013-ANEEL-PCH Lajes, de 17 de dezembro de 2013. A titularidade foi transferida para a Light Energia S.A. (CNPJ 01.917.818/0001-36) por meio da Resolução Autorizativa ANEEL nº 769, de 19 de dezembro de 2006, e, posteriormente, para a Lajes Energia S.A. (CNPJ 19.984.571/0001-36) pela Resolução Autorizativa ANEEL nº 4.734, de 24 de junho de 2014, atual concessionária responsável pela exploração da usina.",
+      "summary": "Prorroga a concessão da PCH Lajes (**17.000 kW**) para a **Lajes Energia S.A.** (**CNPJ 19.984.571/0001-36**) por **30 anos**, a partir de **5 de junho de 2026**.",
+      "added_at": "2026-06-08T08:09:42.198447",
+      "summarized_at": "2026-06-08T08:09:47.941204"
     }
   },
   "first_run_done": true
