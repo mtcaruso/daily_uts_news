@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-08T11:53:19.747590-03:00",
+  "last_updated": "2026-06-08T15:49:29.690782-03:00",
   "items": [
+    {
+      "cnpj_short": "02474-0",
+      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Leilão de Reserva de Capacidade - LRCAP 2026: Participação com os projetos de ampliação das usinas Foz do Areia e Segredo, Assinatura de Contratos de EPC, e Realocação orçamentáriaAta",
+      "data_referencia": "20260317 17/03/2026 18:00",
+      "data_entrega": "20260608 08/06/2026 15:44",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Leilão de Reserva de Capacidade - LRCAP 2026: Participação com os projetos de ampliação das usinas Foz do Areia e Segredo, Assinatura de Contratos de EPC, e Realocação orçamentária",
+      "protocolo": "1531682",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531682",
+      "empresa_label": "Copel",
+      "codigo_cvm": "24740",
+      "first_seen": "2026-06-08T15:49:13.543414"
+    },
+    {
+      "cnpj_short": "02680-8",
+      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "APROVAÇÃO DE AQUISIÇÃO DE CRÉDITOS DE ICMS COM DESÁGIO; PROPOSTA DE DESTINAÇÃO DO LUCRO LÍQUIDO VERIFICADO NO EXERCÍCIO DE 2025 - RERRATIFICAÇÃOAta",
+      "data_referencia": "20260317 17/03/2026 11:00",
+      "data_entrega": "20260608 08/06/2026 15:34",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "APROVAÇÃO DE AQUISIÇÃO DE CRÉDITOS DE ICMS COM DESÁGIO; PROPOSTA DE DESTINAÇÃO DO LUCRO LÍQUIDO VERIFICADO NO EXERCÍCIO DE 2025 - RERRATIFICAÇÃO",
+      "protocolo": "1531680",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531680",
+      "empresa_label": "Copel",
+      "codigo_cvm": "26808",
+      "first_seen": "2026-06-08T15:49:12.933493"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",

@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "ba1f6f20cb02",
+      "48cf2ee89076",
       "34b5cc33cb7f",
       "055c10383b2d",
       "345eeb5f9fbc",
@@ -406,12 +408,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 399,
-    "documento_count": 355,
+    "andamento_count": 401,
+    "documento_count": 357,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-08T11:52:17.403457",
+    "last_check_at": "2026-06-08T15:48:09.871644",
     "last_andamentos_top10": [
+      {
+        "datahora": "08/06/2026 14:21",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.016115/2026-59 anexado",
+        "hash": "ba1f6f20cb02"
+      },
+      {
+        "datahora": "08/06/2026 14:19",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.016113/2026-60 anexado",
+        "hash": "48cf2ee89076"
+      },
       {
         "datahora": "02/06/2026 17:00",
         "unidade": "AIN",
@@ -459,18 +473,6 @@
         "unidade": "ASD - APOIO",
         "descricao": "Reabertura do processo na unidade",
         "hash": "ef3008378993"
-      },
-      {
-        "datahora": "29/05/2026 14:26",
-        "unidade": "DIR - FLMFS",
-        "descricao": "Processo recebido na unidade",
-        "hash": "139da62d7c71"
-      },
-      {
-        "datahora": "29/05/2026 14:21",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.009869/2026-52 anexado",
-        "hash": "9121cf1cdca1"
       }
     ],
     "last_documentos_top10": [
@@ -594,7 +596,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-08T11:52:22.940798",
+    "last_check_at": "2026-06-08T15:48:13.371026",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -774,7 +776,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-08T11:52:25.439374",
+    "last_check_at": "2026-06-08T15:48:18.993780",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1172,7 +1174,7 @@
     "documento_count": 130,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-08T11:52:31.782525",
+    "last_check_at": "2026-06-08T15:48:23.300483",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 11:21",

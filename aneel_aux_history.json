@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T11:51:26.296769",
+  "last_updated": "2026-06-08T15:47:47.520899",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -753,6 +753,14 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14762&idAreaNoticia=425",
       "summary": "- **Leilão nº 2/2026-ANEEL**: Homologação e adjudicação dos produtos de potência termelétrica e hidrelétrica do **LRCAP 2026**.\n- **Leilão nº 3/2026-ANEEL**: Homologação e adjudicação dos produtos de potência termelétrica do **LRCAP 2026** (Óleo e Biodiesel).\n- **RGE Sul Distribuidora de Energia S.A. – RGE**: Requerimento para afastamento da cobrança de PIU e ADCEUST por ultrapassagens de MUST em março de 2024.\n- **Goyaz Transmissão de Energia S.A.**: Recurso contra negativa de excludente de responsabilidade por atraso na operação comercial e isenção de desconto na receita (PVA) do **Contrato de Concessão nº 23/2018-ANEEL**.\n- **Enel Distribuição Ceará – Enel CE**: Pedido de reconsideração contra a **Resolução Homologatória nº 3.574/2026** que homologou o Reajuste Tarifário Anual de 2026.",
       "added_at": "2026-06-03T18:29:17.780918"
+    },
+    "noticia_2026_aneel-divulga-plano-de-desenvolvimento-da-distribuicao-2013-pdd-2026": {
+      "type": "noticia",
+      "title": "ANEEL divulga Plano de Desenvolvimento da Distribuição – PDD 2026",
+      "date": "08/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-divulga-plano-de-desenvolvimento-da-distribuicao-2013-pdd-2026",
+      "summary": "A ANEEL divulgou o PDD 2026, detalhando os investimentos das **distribuidoras de energia elétrica** em todo o Brasil. As empresas investiram **R$ 41 bilhões** em 2025 e projetam **R$ 258 bilhões** para expansão, melhoria e renovação da rede entre 2026 e 2030.",
+      "added_at": "2026-06-08T15:47:47.019026"
     }
   }
 }
