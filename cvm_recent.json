@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T11:40:17.767309-03:00",
+  "last_updated": "2026-06-08T11:53:19.747590-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -17,7 +17,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531534",
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
-      "first_seen": "2026-06-08T14:40:15.577949"
+      "first_seen": "2026-06-08T11:48:58.759740"
     },
     {
       "cnpj_short": "02025-7",
@@ -35,7 +35,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531518",
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
-      "first_seen": "2026-06-08T14:40:07.929315"
+      "first_seen": "2026-06-08T11:53:09.544106"
     },
     {
       "cnpj_short": "01944-5",
