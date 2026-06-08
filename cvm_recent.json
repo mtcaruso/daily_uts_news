@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-08T18:26:52.111474-03:00",
+  "last_updated": "2026-06-08T19:18:54.972610-03:00",
   "items": [
+    {
+      "cnpj_short": "02032-0",
+      "empresa_nome": "CEMIG GERACAO E TRANSMISSAO S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Comunicação de Modificação de Oferta",
+      "especie": "Comunicado ao Mercado - Modificação da Oferta - 12ª Emissão (Cemig GT) -",
+      "data_referencia": "20260608 08/06/2026",
+      "data_entrega": "20260608 08/06/2026 18:11",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Modificação da Oferta - 12ª Emissão (Cemig GT)",
+      "protocolo": "1531914",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531914",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "20320",
+      "first_seen": "2026-06-08T19:18:37.049892"
+    },
+    {
+      "cnpj_short": "00245-3",
+      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Comunicação de Modificação de Oferta",
+      "especie": "Comunicado ao Mercado - Modificação da Oferta - 12ª Emissão (Cemig GT) -",
+      "data_referencia": "20260608 08/06/2026",
+      "data_entrega": "20260608 08/06/2026 18:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Modificação da Oferta - 12ª Emissão (Cemig GT)",
+      "protocolo": "1531909",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531909",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "2453",
+      "first_seen": "2026-06-08T19:18:35.753394"
+    },
     {
       "cnpj_short": "02680-8",
       "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
