@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-08T19:22:42.703003-03:00",
+  "last_updated": "2026-06-08T20:58:24.881194-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Atendimento aos Requisitos das Contas Escrow, Contas de Custódia e Novas Cartas de Fiança pelo Investidor de Referência -",
+      "data_referencia": "20260608 08/06/2026",
+      "data_entrega": "20260608 08/06/2026 19:42",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Atendimento aos Requisitos das Contas Escrow, Contas de Custódia e Novas Cartas de Fiança pelo Investidor de Referência",
+      "protocolo": "1532042",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532042",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-08T20:18:03.508028"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Atendimento aos Requisitos das Contas Escrow, Contas de Custódia e Novas Cartas de Fiança pelo Investidor de Referência -",
+      "data_referencia": "20260608 08/06/2026",
+      "data_entrega": "20260608 08/06/2026 19:37",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Atendimento aos Requisitos das Contas Escrow, Contas de Custódia e Novas Cartas de Fiança pelo Investidor de Referência",
+      "protocolo": "1532039",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532039",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-08T20:18:03.508010"
+    },
     {
       "cnpj_short": "02032-0",
       "empresa_nome": "CEMIG GERACAO E TRANSMISSAO S.A.",
