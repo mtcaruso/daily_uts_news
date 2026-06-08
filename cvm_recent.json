@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-08T15:49:29.690782-03:00",
+  "last_updated": "2026-06-08T16:03:10.111761-03:00",
   "items": [
+    {
+      "cnpj_short": "02747-2",
+      "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260608 08/06/2026 15:49",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1531684",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531684",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "27472",
+      "first_seen": "2026-06-08T16:02:47.093844"
+    },
+    {
+      "cnpj_short": "00332-8",
+      "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260608 08/06/2026 15:49",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1531683",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531683",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "3328",
+      "first_seen": "2026-06-08T16:02:47.896213"
+    },
     {
       "cnpj_short": "02474-0",
       "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
