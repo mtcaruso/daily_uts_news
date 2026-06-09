@@ -471,6 +471,28 @@ def _gemini_client():
         return None
 
 
+def _strip_dou_boilerplate(text: str) -> str:
+    """Corta o ruído do começo do texto do DOU (cabeçalho de publicação +
+    redirecionamento 'A íntegra...') e começa na parte substantiva. Prioridade:
+    'Decisão:' > 'Interessados:' > tipo do ato (DESPACHO/PORTARIA/...)."""
+    if not text:
+        return ""
+    t = " ".join(text.split())
+    # 1) Começa em 'Decisão:' ou 'Interessados:' se existirem (mais informativo)
+    for kw in (r"Decis[ãa]o\s*:", r"Interessad[oa]s?\s*:"):
+        m = re.search(kw, t, flags=re.IGNORECASE)
+        if m:
+            return t[m.start():].strip()
+    # 2) Senão, começa no tipo do ato (corta cabeçalho + redirecionamento antes)
+    m = re.search(
+        r"\b(?:DESPACHO|PORTARIA|RESOLU[ÇC][ÃA]O|ATO|EXTRATO|AVISO|RETIFICA[ÇC][ÃA]O)\b",
+        t, flags=re.IGNORECASE,
+    )
+    if m:
+        return t[m.start():].strip()
+    return t.strip()
+
+
 def _summarize_dou_act(title, body, objeto=""):
     """
     Resume um ato em 2-3 frases usando Gemini (via gemini_util — throttle,
@@ -556,8 +578,14 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
         try:
             summary = _summarize_dou_act(item["title"], body_for_summary, objeto or item.get("objeto", ""))
         except gemini_util.GeminiCircuitOpen:
-            # Gemini indisponível (créditos/quota) — degrada pra extrativo
-            summary = gemini_util.extractive_summary(body_for_summary)
+            # Gemini indisponível (créditos/quota) — degrada pra extrativo.
+            # Usa fonte LIMPA (objeto > content), não o full_text da página ao vivo
+            # (que começa com boilerplate "Diário Oficial... Órgão:..."). E remove
+            # prefixos de redirecionamento, pra pegar "Interessados:/Decisão:".
+            clean = objeto or item.get("objeto") or _strip_dou_boilerplate(
+                item.get("content", "") or body_for_summary
+            )
+            summary = gemini_util.extractive_summary(clean)
             summary_source = "extractive" if summary else "llm"
 
         if summary:
