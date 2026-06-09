@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T09:06:44.641115",
+  "last_updated": "2026-06-09T09:37:03.882798",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2901,7 +2901,7 @@
       "ementa": "Designa RAFAEL BOTALERE LIMA DOS SANTOS, matrícula SIAPE nº 1502811, para exercer a Função Comissionada Executiva de Coordenador de Apoio Técnico e Administrativo do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "summary": "Designa RAFAEL BOTALERE LIMA DOS SANTOS, matrícula SIAPE nº 1502811, para exercer a Função Comissionada Executiva de Coordenador de Apoio Técnico e Administrativo do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": "2026-06-09T09:06:43.117196",
+      "summarized_at": "2026-06-09T09:37:01.876677",
       "summary_source": "extractive"
     },
     "portarias_portaria-gm-mme-n-55-2026": {
@@ -2915,7 +2915,7 @@
       "ementa": "Designa GIOVANNI SANTOS DE LEMOS, matrícula SIAPE nº 1502810, para exercer a Função Comissionada Executiva de Coordenador de Apoio a Programas e Projetos do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "summary": "Designa GIOVANNI SANTOS DE LEMOS, matrícula SIAPE nº 1502810, para exercer a Função Comissionada Executiva de Coordenador de Apoio a Programas e Projetos do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": "2026-06-09T09:06:43.622076",
+      "summarized_at": "2026-06-09T09:37:02.377637",
       "summary_source": "extractive"
     },
     "portarias_portaria-normativa-mme-n-137-2026": {
@@ -2929,7 +2929,21 @@
       "ementa": "Estabelece as diretrizes para a concessão dos descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras classificadas na Classe Rural, no consumo que se verifique na atividade de irrigação e aquicultura, nos termos do art. 25 da Lei nº 10.438, de 26 de abril de 2002.",
       "summary": "Estabelece as diretrizes para a concessão dos descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras classificadas na Classe Rural, no consumo que se verifique na atividade de irrigação e aquicultura, nos termos do art. 25 da Lei nº 10.438, de 26 de abril de 2002.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": "2026-06-09T09:06:44.124101",
+      "summarized_at": "2026-06-09T09:37:02.878588",
+      "summary_source": "extractive"
+    },
+    "decretos_decreto-n-12-995-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-12-995-2026",
+      "title": "Decreto nº 12.995/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-12-995-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-12-995-2026.pdf",
+      "date_modified": "09/06/2026",
+      "ementa": "Regulamenta o disposto no Capítulo I da Medida Provisória nº 1.363, de 30 de maio de 2026, que autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel de uso rodoviário no País, no valor de R$ 1,12 (um real e doze centavos) por litro comercializado, e altera o Decreto nº 12.878, de 13 de março de 2026.",
+      "summary": "Regulamenta o disposto no Capítulo I da Medida Provisória nº 1.363, de 30 de maio de 2026, que autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel de uso rodoviário no País, no valor de R$ 1,12 (um real e doze centavos) por litro comercializado, e altera o Decreto nº 12.878, de 13 de março de 2026.",
+      "added_at": "2026-06-09T09:36:55.256890",
+      "summarized_at": "2026-06-09T09:37:03.379397",
       "summary_source": "extractive"
     }
   },
