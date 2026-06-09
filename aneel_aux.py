@@ -489,12 +489,29 @@ def main():
         if v.get("summary") and v.get("summary_source") != "extractive"
     }
 
-    # Coleta listings
+    # Coleta listings — em PARALELO: são 4 hosts independentes (gov.br/aneel,
+    # www2.aneel Liferay, antigo.aneel Liferay, API MME). Cada fetch tem seus
+    # próprios retries/sleeps internos (que continuam valendo POR host, então
+    # não aumenta pressão em nenhum servidor). Sequencial somava ~10-20s/run.
     print("[aneel_aux] Fetching news + pautas + participação pública (ANEEL + MME)…", file=sys.stderr)
-    news = fetch_news_list()
-    pautas = fetch_pautas_list()
-    partic = fetch_partic_list()
-    partic_mme = fetch_mme_partic_list()
+    from concurrent.futures import ThreadPoolExecutor
+
+    def _safe(fn):
+        try:
+            return fn()
+        except Exception as e:
+            print(f"  [{fn.__name__}] EXC: {e}", file=sys.stderr)
+            return []
+
+    with ThreadPoolExecutor(max_workers=4) as _ex:
+        _f_news = _ex.submit(_safe, fetch_news_list)
+        _f_pautas = _ex.submit(_safe, fetch_pautas_list)
+        _f_partic = _ex.submit(_safe, fetch_partic_list)
+        _f_mme = _ex.submit(_safe, fetch_mme_partic_list)
+        news = _f_news.result()
+        pautas = _f_pautas.result()
+        partic = _f_partic.result()
+        partic_mme = _f_mme.result()
     print(f"  News: {len(news)} items", file=sys.stderr)
     print(f"  Pautas: {len(pautas)} items", file=sys.stderr)
     print(f"  Participação Pública ANEEL (CP/AP/TS): {len(partic)} items", file=sys.stderr)

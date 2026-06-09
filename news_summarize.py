@@ -38,7 +38,10 @@ except Exception:
     _curl_requests = None
 
 HISTORY_FILE = Path("news_history.json")
-HISTORY_RETENTION_DAYS = 7  # nota: lookback de news é 30h, então 7d é folga
+HISTORY_RETENTION_DAYS = 14  # 2x folga sobre o lookback de 30h: cobre fim de
+# semana/downtime sem purgar notícia que ainda não conseguiu summary (achado
+# da auditoria: com 7d, item que falhava e saía do RSS era deletado sem nunca
+# ser resumido)
 MAX_SUMMARIZE_PER_RUN = 200  # cap pra controlar custo Gemini
 
 HEADERS = {
@@ -263,9 +266,14 @@ def main():
     # "Seen" = tem summary LLM. Resumos extrativos (fallback de quando o Gemini
     # estava indisponível) NÃO contam como seen → são re-resumidos com LLM quando
     # os créditos/quota voltam.
+    # Items com error='no_article' (paywall/403) com 3+ dias também contam como
+    # seen: o site não vai destravar — reprocessá-los toda run só queimava tempo
+    # e ocupava slots do cap (achado da auditoria: starvation da fila).
+    _err_cutoff = (datetime.now() - timedelta(days=3)).isoformat()
     seen_urls = {
         url for url, v in history.get("items", {}).items()
-        if v.get("summary") and v.get("summary_source") != "extractive"
+        if (v.get("summary") and v.get("summary_source") != "extractive")
+        or (v.get("error") == "no_article" and v.get("added_at", "") < _err_cutoff)
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
