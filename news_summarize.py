@@ -266,14 +266,19 @@ def main():
     # "Seen" = tem summary LLM. Resumos extrativos (fallback de quando o Gemini
     # estava indisponível) NÃO contam como seen → são re-resumidos com LLM quando
     # os créditos/quota voltam.
-    # Items com error='no_article' (paywall/403) com 3+ dias também contam como
-    # seen: o site não vai destravar — reprocessá-los toda run só queimava tempo
-    # e ocupava slots do cap (achado da auditoria: starvation da fila).
+    # Também contam como seen (param de ser retentados):
+    #   - error='no_article' (paywall/403) com 3+ dias — o site não vai destravar
+    #   - qualquer error com attempts >= MAX_ITEM_ATTEMPTS — item travado a cada
+    #     run queimava a cota diária do free tier (48 runs/dia × N itens) sem
+    #     produzir nada; 8 tentativas a 30min de cadência cobrem ~4h de problema
+    #     transitório (503, cota por minuto) com folga.
+    MAX_ITEM_ATTEMPTS = 8
     _err_cutoff = (datetime.now() - timedelta(days=3)).isoformat()
     seen_urls = {
         url for url, v in history.get("items", {}).items()
         if (v.get("summary") and v.get("summary_source") != "extractive")
         or (v.get("error") == "no_article" and v.get("added_at", "") < _err_cutoff)
+        or (v.get("error") and int(v.get("attempts") or 0) >= MAX_ITEM_ATTEMPTS)
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
@@ -329,26 +334,35 @@ def main():
                 tag = "≈" if source == "extractive" else "✓"
                 print(f"  {tag} [{i}/{len(pending)}] {summary[:80]}", file=sys.stderr)
             else:
-                # Gemini falhou (sem fallback — body curto ou erro pontual)
+                # Gemini falhou (sem fallback — body curto ou erro pontual).
+                # PRESERVA added_at original (sobrescrever resetava o relógio do
+                # retention e da regra de skip) e conta a tentativa — itens com
+                # attempts >= cap deixam de ser retentados (protege a cota
+                # diária: item travado a 48 runs/dia queimava 48 chamadas/dia).
+                _prev = history["items"].get(url, {})
                 history["items"][url] = {
                     "title": title,
                     "summary": None,
                     "source": item.get("source", ""),
-                    "added_at": datetime.now().isoformat(),
+                    "added_at": _prev.get("added_at") or datetime.now().isoformat(),
                     "error": "summarize_failed",
+                    "attempts": int(_prev.get("attempts") or 0) + 1,
                 }
                 consecutive_failures += 1
                 if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
                     print(f"[news_summarize] {MAX_CONSECUTIVE_FAILURES} falhas consecutivas — parando", file=sys.stderr)
                     break
         else:
-            # Não conseguiu pegar o artigo (paywall, 403, redirect falhou)
+            # Não conseguiu pegar o artigo (paywall, 403, redirect falhou).
+            # Mesma preservação de added_at + contador de tentativas.
+            _prev = history["items"].get(url, {})
             history["items"][url] = {
                 "title": title,
                 "summary": None,
                 "source": item.get("source", ""),
-                "added_at": datetime.now().isoformat(),
+                "added_at": _prev.get("added_at") or datetime.now().isoformat(),
                 "error": "no_article",
+                "attempts": int(_prev.get("attempts") or 0) + 1,
             }
             consecutive_failures += 1
             if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
