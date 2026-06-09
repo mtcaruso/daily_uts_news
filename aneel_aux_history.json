@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T18:08:34.332912",
+  "last_updated": "2026-06-09T18:39:40.679082",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -786,7 +786,7 @@
       "date": "09/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-homologa-leiloes-de-reserva-de-capacidade-de-potencia-lrcap-2026",
       "summary": "Notícias GERAÇÃO Agência homologa Leilões de Reserva de Capacidade de Potência (LRCAP 2026) A diretoria da Agência Nacional de Energia Elétrica (ANEEL) homologou nesta terça-feira (9/6) o resultado e adjudicação do objeto do 2º e 3º Leilões de Reserva de Capacidade na forma de Potência (LRCAP 2026) realizados em março na sede da Câmara de Comercialização de Energia Elétrica (CCEE), em São Paulo.…",
-      "added_at": "2026-06-09T18:08:33.831979",
+      "added_at": "2026-06-09T18:39:40.177220",
       "summary_source": "extractive"
     },
     "noticia_2026_aneel-recebe-selo-ouro-de-boas-praticas-regulatorias": {
@@ -795,7 +795,16 @@
       "date": "09/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-recebe-selo-ouro-de-boas-praticas-regulatorias",
       "summary": "Notícias INSTITUCIONAL ANEEL recebe Selo Ouro de Boas Práticas Regulatórias A Agência Nacional de Energia Elétrica (ANEEL) recebeu, nesta terça-feira (9/6), o Selo Ouro de Boas Práticas Regulatórias pela Resolução Normativa ANEEL nº 1.001, de 18 de janeiro de 2022. O prêmio foi recebido pela chefe de gabinete do diretor-geral, Elvira Justino, durante a primeira etapa do Encontro de Reguladores…",
-      "added_at": "2026-06-09T18:08:31.141512",
+      "added_at": "2026-06-09T18:39:38.619607",
+      "summary_source": "extractive"
+    },
+    "noticia_2026_aneel-aprova-transferencia-de-titularidade-de-outorga-da-uhe-santo-antonio-do-jari": {
+      "type": "noticia",
+      "title": "ANEEL aprova transferência de titularidade de outorga da UHE Santo Antônio do Jari",
+      "date": "09/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-transferencia-de-titularidade-de-outorga-da-uhe-santo-antonio-do-jari",
+      "summary": "Notícias GERAÇÃO ANEEL aprova transferência de titularidade de outorga da UHE Santo Antônio do Jari Durante o 9º Circuito Deliberativo de 2026 a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (9/6), a Transferência de titularidade de outorga da Usina Hidrelétrica (UHE) Santo Antônio do Jari, localizada nos municípios paraenses de Almeirim e Laranjal…",
+      "added_at": "2026-06-09T18:39:36.992634",
       "summary_source": "extractive"
     }
   }
