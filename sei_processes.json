@@ -607,7 +607,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-09T16:39:33.482777",
+    "last_check_at": "2026-06-09T17:08:00.330452",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -787,7 +787,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-09T16:39:35.977607",
+    "last_check_at": "2026-06-09T17:08:03.867086",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1185,7 +1185,7 @@
     "documento_count": 130,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-09T16:39:39.110274",
+    "last_check_at": "2026-06-09T17:08:07.090076",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 11:21",
@@ -1328,6 +1328,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "106a4cdd803c",
       "3c2ca5683895",
       "8663007f0c6e",
       "1a0c24c8a32b",
@@ -1346,10 +1347,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 15,
+    "andamento_count": 16,
     "documento_count": 13,
-    "last_check_at": "2026-06-09T16:39:41.520242",
+    "last_check_at": "2026-06-09T17:08:09.555565",
     "last_andamentos_top10": [
+      {
+        "datahora": "09/06/2026 17:07",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "106a4cdd803c"
+      },
       {
         "datahora": "09/06/2026 15:55",
         "unidade": "SGE - PUBLICAÇÃO",
@@ -1403,12 +1410,6 @@
         "unidade": "STR",
         "descricao": "Processo recebido na unidade",
         "hash": "42bdaa7ccdfa"
-      },
-      {
-        "datahora": "19/05/2026 10:17",
-        "unidade": "STR",
-        "descricao": "Processo remetido pela unidade DIR - GNSJ",
-        "hash": "ead248a29f35"
       }
     ],
     "last_documentos_top10": [
