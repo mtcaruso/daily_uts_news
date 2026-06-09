@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-09T17:11:17.673054-03:00",
+  "last_updated": "2026-06-09T17:41:21.851688-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260609 09/06/2026 17:19",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1532470",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532470",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-06-09T17:41:19.686454"
+    },
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260501 05/2026",
+      "data_entrega": "20260609 09/06/2026 17:16",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1532436",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532436",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-06-09T17:41:19.686430"
+    },
     {
       "cnpj_short": "01866-0",
       "empresa_nome": "CPFL ENERGIA S.A.",

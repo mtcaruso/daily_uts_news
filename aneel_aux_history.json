@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:07:44.646529",
+  "last_updated": "2026-06-09T17:38:58.433046",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -779,6 +779,15 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/diretora-da-aneel-recebe-premio-internacional-na-italia",
       "summary": "A diretora da **ANEEL**, Agnes da Costa, recebeu o prêmio internacional **LUCE Awards 2026** na categoria Legacy Women, em Florença, Itália. A homenagem reconhece sua trajetória e contribuições para os setores de energia, clima e sustentabilidade, destacando a importância da presença feminina em espaços de decisão. O prêmio, parte do projeto \"Lights on Women\" da Florence School of Regulation, visa promover a equidade de gênero e valorizar a atuação feminina na transição energética global.",
       "added_at": "2026-06-09T15:37:40.488994"
+    },
+    "noticia_2026_agencia-homologa-leiloes-de-reserva-de-capacidade-de-potencia-lrcap-2026": {
+      "type": "noticia",
+      "title": "Agência homologa Leilões de Reserva de Capacidade de Potência (LRCAP 2026)",
+      "date": "09/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-homologa-leiloes-de-reserva-de-capacidade-de-potencia-lrcap-2026",
+      "summary": "Notícias GERAÇÃO Agência homologa Leilões de Reserva de Capacidade de Potência (LRCAP 2026) A diretoria da Agência Nacional de Energia Elétrica (ANEEL) homologou nesta terça-feira (9/6) o resultado e adjudicação do objeto do 2º e 3º Leilões de Reserva de Capacidade na forma de Potência (LRCAP 2026) realizados em março na sede da Câmara de Comercialização de Energia Elétrica (CCEE), em São Paulo.…",
+      "added_at": "2026-06-09T17:38:57.932104",
+      "summary_source": "extractive"
     }
   }
 }
