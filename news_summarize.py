@@ -18,6 +18,7 @@ import requests
 import trafilatura
 from googlenewsdecoder import gnewsdecoder
 
+import gemini_util
 from digest import fetch_source as fetch_news
 from sources import SOURCES
 
@@ -218,49 +219,29 @@ def _fetch_article(google_news_url, max_retries=2):
 
 
 def _summarize(title, body):
-    """Gemini Flash gera resumo. Retorna None em erro."""
-    client = _gemini_client()
-    if not client:
-        return None
+    """Gemini Flash gera resumo. Resiliente a free tier (throttle/backoff/circuit
+    breaker via gemini_util). Se o Gemini estiver indisponível (créditos/quota),
+    cai pra resumo extrativo. Retorna (summary, source) onde source é
+    'llm' | 'extractive' | None."""
     if not body or len(body) < 80:
-        return None
+        return None, None
+    prompt = (
+        "Você é um analista do setor brasileiro de utilities resumindo uma notícia. "
+        "Em 2-3 frases curtas e diretas em PORTUGUÊS BRASILEIRO, diga:\n"
+        "- O QUE aconteceu (fato principal).\n"
+        "- QUEM está envolvido (empresas, órgãos, pessoas-chave).\n"
+        "- VALORES, DATAS ou números relevantes.\n"
+        "Use **bold** pra destacar empresas e valores. PULE introduções vagas.\n\n"
+        f"Título: {title}\n\n"
+        f"Texto:\n{body}\n\n"
+        "Resumo (2-3 frases):"
+    )
     try:
-        from google.genai import types
-        prompt = (
-            "Você é um analista do setor brasileiro de utilities resumindo uma notícia. "
-            "Em 2-3 frases curtas e diretas em PORTUGUÊS BRASILEIRO, diga:\n"
-            "- O QUE aconteceu (fato principal).\n"
-            "- QUEM está envolvido (empresas, órgãos, pessoas-chave).\n"
-            "- VALORES, DATAS ou números relevantes.\n"
-            "Use **bold** pra destacar empresas e valores. PULE introduções vagas.\n\n"
-            f"Título: {title}\n\n"
-            f"Texto:\n{body}\n\n"
-            "Resumo (2-3 frases):"
-        )
-        for attempt in range(4):
-            try:
-                r = client.models.generate_content(
-                    model="gemini-2.5-flash",
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        temperature=0.2,
-                        max_output_tokens=500,
-                        thinking_config=types.ThinkingConfig(thinking_budget=0),
-                    ),
-                )
-                return (r.text or "").strip() or None
-            except Exception as e:
-                err = str(e)
-                if "503" in err or "UNAVAILABLE" in err:
-                    if attempt < 3:
-                        time.sleep(10 * (attempt + 1))
-                        continue
-                print(f"[gemini] erro: {e}", file=sys.stderr)
-                return None
-        return None
-    except Exception as e:
-        print(f"[summarize] erro: {e}", file=sys.stderr)
-        return None
+        s = gemini_util.generate(prompt, max_output_tokens=500)
+        return (s, "llm") if s else (None, None)
+    except gemini_util.GeminiCircuitOpen:
+        fb = gemini_util.extractive_summary(body)
+        return (fb, "extractive") if fb else (None, None)
 
 
 def main():
@@ -279,9 +260,12 @@ def main():
     # Só pula items que JÁ TÊM summary OK. Items com error (no_article OR
     # summarize_failed) são reprocessados — podem ter falhado por bug transitório
     # (API key errada, IP block resolvido, Gemini 503, etc.)
+    # "Seen" = tem summary LLM. Resumos extrativos (fallback de quando o Gemini
+    # estava indisponível) NÃO contam como seen → são re-resumidos com LLM quando
+    # os créditos/quota voltam.
     seen_urls = {
         url for url, v in history.get("items", {}).items()
-        if v.get("summary")
+        if v.get("summary") and v.get("summary_source") != "extractive"
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
@@ -321,19 +305,23 @@ def main():
         title = item.get("title", "")
         body = _fetch_article(url)
         if body:
-            summary = _summarize(title, body)
+            summary, source = _summarize(title, body)
             if summary:
-                history["items"][url] = {
+                entry = {
                     "title": title,
                     "summary": summary,
                     "source": item.get("source", ""),
                     "added_at": datetime.now().isoformat(),
                 }
+                if source == "extractive":
+                    entry["summary_source"] = "extractive"  # re-resume com LLM depois
+                history["items"][url] = entry
                 done += 1
                 consecutive_failures = 0
-                print(f"  ✓ [{i}/{len(pending)}] {summary[:80]}", file=sys.stderr)
+                tag = "≈" if source == "extractive" else "✓"
+                print(f"  {tag} [{i}/{len(pending)}] {summary[:80]}", file=sys.stderr)
             else:
-                # Gemini falhou
+                # Gemini falhou (sem fallback — body curto ou erro pontual)
                 history["items"][url] = {
                     "title": title,
                     "summary": None,

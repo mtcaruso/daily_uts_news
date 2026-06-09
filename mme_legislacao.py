@@ -36,6 +36,8 @@ from pathlib import Path
 
 from curl_cffi import requests as cf_requests
 
+import gemini_util
+
 # Garante UTF-8 no stderr (Windows console pode usar cp1252 e barfa em ✓/✗)
 try:
     sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -324,17 +326,14 @@ def fetch_category(slug: str, label: str, strategy: str) -> list:
 # ============== SUMMARIZE ==============
 
 def summarize(item: dict, label: str) -> str | None:
-    """Gemini Flash gera resumo 1-2 frases baseado na ementa + título."""
-    client = _gemini_client()
-    if not client:
-        return None
+    """Gemini Flash gera resumo 1-2 frases baseado na ementa + título.
+    Levanta GeminiCircuitOpen se créditos/quota esgotarem (caller aplica fallback)."""
     ementa = item.get("ementa") or ""
     title = item.get("title") or ""
     # Se ementa muito curta, não vale resumir — UI mostra ementa crua
     if len(ementa) < 60:
         return None
     try:
-        from google.genai import types
         prompt = (
             "Você é um analista do setor brasileiro de utilities resumindo um ato normativo do MME.\n\n"
             "REGRAS RÍGIDAS:\n"
@@ -351,27 +350,9 @@ def summarize(item: dict, label: str) -> str | None:
             f"Ementa: {ementa}\n\n"
             "Resumo (1-2 frases, sem filler inicial):"
         )
-        for attempt in range(4):
-            try:
-                r = client.models.generate_content(
-                    model="gemini-2.5-flash",
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        temperature=0.2,
-                        max_output_tokens=400,
-                        thinking_config=types.ThinkingConfig(thinking_budget=0),
-                    ),
-                )
-                return (r.text or "").strip() or None
-            except Exception as e:
-                err = str(e)
-                if "503" in err or "UNAVAILABLE" in err:
-                    if attempt < 3:
-                        time.sleep(10 * (attempt + 1))
-                        continue
-                print(f"[gemini] erro: {e}", file=sys.stderr)
-                return None
-        return None
+        return gemini_util.generate(prompt, max_output_tokens=400)
+    except gemini_util.GeminiCircuitOpen:
+        raise
     except Exception as e:
         print(f"[summarize] erro: {e}", file=sys.stderr)
         return None
@@ -430,7 +411,11 @@ def main():
         history = {"last_updated": None, "items": {}, "first_run_done": False}
     history.setdefault("items", {})
     history.setdefault("first_run_done", False)
-    seen_summarized = {k for k, v in history["items"].items() if v.get("summary")}
+    # Extrativos (fallback) não contam como summarized → re-resume com LLM depois.
+    seen_summarized = {
+        k for k, v in history["items"].items()
+        if v.get("summary") and v.get("summary_source") != "extractive"
+    }
 
     # Coleta todas as categorias
     all_items_by_cat = {}
@@ -512,7 +497,13 @@ def main():
                     item["ementa"] = ementa_extra
                 time.sleep(0.6)  # gentle ao Plone
 
-            summary = summarize(item, item.get("label", ""))
+            summary_source = "llm"
+            try:
+                summary = summarize(item, item.get("label", ""))
+            except gemini_util.GeminiCircuitOpen:
+                # Gemini indisponível — degrada pra extrativo da ementa
+                summary = gemini_util.extractive_summary(item.get("ementa") or "")
+                summary_source = "extractive" if summary else "llm"
 
             # Preserva added_at original (do placeholder) se já existir
             prev_added = history["items"].get(key, {}).get("added_at") or datetime.now().isoformat()
@@ -529,6 +520,8 @@ def main():
                 "added_at": prev_added,
                 "summarized_at": datetime.now().isoformat() if summary else None,
             }
+            if summary_source == "extractive":
+                entry["summary_source"] = "extractive"  # re-resume com LLM depois
             if not item.get("ementa"):
                 entry["error"] = "no_ementa"
             elif not summary:

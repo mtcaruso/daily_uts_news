@@ -28,6 +28,8 @@ import trafilatura
 # que retorna 403 a User-Agents "padrão" de bot
 from curl_cffi import requests as cf_requests
 
+import gemini_util
+
 HISTORY_FILE = Path("aneel_aux_history.json")
 DIAGNOSTIC_FILE = Path("aneel_aux_diagnostic.json")
 HISTORY_RETENTION_DAYS = 180  # ANEEL movimentos podem ser referenciados por meses
@@ -398,14 +400,11 @@ def _extract_partic_deadline(text: str) -> str:
 def summarize(title, body, kind):
     """Gemini Flash gera resumo. Retorna None em erro.
     Pra type=partic_cp/ap/ts, o body JÁ é o objeto extraído (texto curto),
-    então usa prompt direto."""
-    client = _gemini_client()
-    if not client:
-        return None
+    então usa prompt direto. Levanta GeminiCircuitOpen se créditos/quota
+    esgotarem (caller aplica fallback)."""
     if not body or len(body) < 80:
         return None
     try:
-        from google.genai import types
         if kind.startswith("partic_"):
             prompt = (
                 "Você é um analista do setor brasileiro de utilities resumindo o tema "
@@ -454,27 +453,11 @@ def summarize(title, body, kind):
                 f"Texto:\n{body}\n\n"
                 "Resumo:"
             )
-        for attempt in range(4):
-            try:
-                r = client.models.generate_content(
-                    model="gemini-2.5-flash",
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        temperature=0.2,
-                        max_output_tokens=600,
-                        thinking_config=types.ThinkingConfig(thinking_budget=0),
-                    ),
-                )
-                return (r.text or "").strip() or None
-            except Exception as e:
-                err = str(e)
-                if "503" in err or "UNAVAILABLE" in err:
-                    if attempt < 3:
-                        time.sleep(10 * (attempt + 1))
-                        continue
-                print(f"[gemini] erro: {e}", file=sys.stderr)
-                return None
-        return None
+        # gemini_util cuida de throttle/backoff/circuit-breaker (free tier).
+        # Propaga GeminiCircuitOpen pro caller aplicar fallback extrativo.
+        return gemini_util.generate(prompt, max_output_tokens=600)
+    except gemini_util.GeminiCircuitOpen:
+        raise
     except Exception as e:
         print(f"[summarize] erro: {e}", file=sys.stderr)
         return None
@@ -499,7 +482,12 @@ def main():
     else:
         history = {"last_updated": None, "items": {}}
     # Skipa items que já têm summary (no_article/summarize_failed continuam reprocessáveis)
-    seen_ids = {k for k, v in history["items"].items() if v.get("summary")}
+    # "Seen" = tem summary LLM. Extrativos (fallback de Gemini indisponível) são
+    # re-resumidos com LLM quando créditos/quota voltam.
+    seen_ids = {
+        k for k, v in history["items"].items()
+        if v.get("summary") and v.get("summary_source") != "extractive"
+    }
 
     # Coleta listings
     print("[aneel_aux] Fetching news + pautas + participação pública (ANEEL + MME)…", file=sys.stderr)
@@ -560,7 +548,13 @@ def main():
             else:
                 date, body = fetch_news_detail(item["link"])
 
-            summary = summarize(item["title"], body, item["type"]) if body else None
+            summary_source = "llm"
+            try:
+                summary = summarize(item["title"], body, item["type"]) if body else None
+            except gemini_util.GeminiCircuitOpen:
+                # Gemini indisponível (créditos/quota) — degrada pra extrativo
+                summary = gemini_util.extractive_summary(body) if body else None
+                summary_source = "extractive" if summary else "llm"
 
             # Fallback pra partic_* (CP/AP/TS): se o Gemini não resumiu (objeto
             # curto demais, < 80 chars) mas o objeto já é uma descrição completa,
@@ -580,6 +574,8 @@ def main():
                 "summary": summary,
                 "added_at": datetime.now().isoformat(),
             }
+            if summary_source == "extractive":
+                entry["summary_source"] = "extractive"  # re-resume com LLM depois
             # Preserva objeto bruto pra items partic (caso reprocesso futuro)
             if item.get("objeto"):
                 entry["objeto"] = item["objeto"]

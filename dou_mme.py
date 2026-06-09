@@ -16,8 +16,13 @@ import time
 from datetime import datetime, timedelta
 from html import unescape
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
+
+import gemini_util
+
+BRT = ZoneInfo("America/Sao_Paulo")
 
 HISTORY_FILE = Path("dou_history.json")
 HISTORY_RETENTION_DAYS = 90
@@ -468,15 +473,10 @@ def _gemini_client():
 
 def _summarize_dou_act(title, body, objeto=""):
     """
-    Resume um ato em 2-3 frases usando Gemini.
-    Faz retry com backoff em 503 (high demand) — server-side transient.
-    Retorna None em caso de erro definitivo.
+    Resume um ato em 2-3 frases usando Gemini (via gemini_util — throttle,
+    backoff, circuit breaker pra free tier). Levanta GeminiCircuitOpen se
+    créditos/quota esgotarem (caller aplica fallback). Retorna None em erro pontual.
     """
-    client = _gemini_client()
-    if not client:
-        return None
-
-    from google.genai import types
     objeto_hint = (
         f"\nObjeto declarado: {objeto}\n"
         if objeto else ""
@@ -498,37 +498,12 @@ def _summarize_dou_act(title, body, objeto=""):
         f"\nTexto completo:\n{body}\n\n"
         "Resumo (2-3 frases descritivas):"
     )
-
-    for attempt in range(4):
-        try:
-            r = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.2,
-                    max_output_tokens=600,
-                    thinking_config=types.ThinkingConfig(thinking_budget=0),
-                ),
-            )
-            return (r.text or "").strip() or None
-        except Exception as e:
-            err_str = str(e)
-            # Retry em 503 (UNAVAILABLE, high demand) — transitório do lado Google
-            if "503" in err_str or "UNAVAILABLE" in err_str or "high demand" in err_str.lower():
-                if attempt < 3:
-                    wait = 10 * (attempt + 1)  # 10s, 20s, 30s
-                    print(f"[gemini] 503 unavailable, retry {attempt + 1}/4 em {wait}s", file=sys.stderr)
-                    time.sleep(wait)
-                    continue
-            # Outros erros (429 quota, etc.) ou esgotou retries: log e desiste
-            print(f"[gemini] erro ao resumir: {e}", file=sys.stderr)
-            return None
-    return None
+    return gemini_util.generate(prompt, max_output_tokens=600)
 
 
 def _save_history(history):
     """Persiste o histórico no arquivo JSON."""
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -551,7 +526,12 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
     # (Bug anterior: condição "or not i.get('objeto')" re-processava todo run
     # os items antigos que nunca tiveram objeto extraído com sucesso — 374
     # items rodavam em loop, gastando tempo + quota Gemini.)
-    pending = [i for i in history["items"] if not i.get("summary")]
+    # Pendentes: sem summary, OU summary extrativo (fallback de Gemini indisponível)
+    # → re-resume com LLM quando créditos/quota voltam.
+    pending = [
+        i for i in history["items"]
+        if not i.get("summary") or i.get("summary_source") == "extractive"
+    ]
     if not pending:
         print("[summarize] tudo em dia", file=sys.stderr)
         return 0
@@ -572,18 +552,29 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
 
         # 2. Summarize usando texto completo (muito melhor que snippet boilerplate)
         body_for_summary = full_text or item.get("content", "")
-        summary = _summarize_dou_act(item["title"], body_for_summary, objeto or item.get("objeto", ""))
+        summary_source = "llm"
+        try:
+            summary = _summarize_dou_act(item["title"], body_for_summary, objeto or item.get("objeto", ""))
+        except gemini_util.GeminiCircuitOpen:
+            # Gemini indisponível (créditos/quota) — degrada pra extrativo
+            summary = gemini_util.extractive_summary(body_for_summary)
+            summary_source = "extractive" if summary else "llm"
+
         if summary:
             item["summary"] = summary
+            if summary_source == "extractive":
+                item["summary_source"] = "extractive"  # re-resume com LLM depois
+            else:
+                item.pop("summary_source", None)  # upgrade: limpa flag se reresumiu
             done += 1
             consecutive_failures = 0
-            print(f"  ✓ [{i}/{len(target)}] {summary[:80]}", file=sys.stderr)
+            tag = "≈" if summary_source == "extractive" else "✓"
+            print(f"  {tag} [{i}/{len(target)}] {summary[:80]}", file=sys.stderr)
         else:
             consecutive_failures += 1
             if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
                 print(
-                    f"[summarize] {MAX_CONSECUTIVE_FAILURES} falhas consecutivas — "
-                    f"provavelmente quota Gemini esgotada. Parando.",
+                    f"[summarize] {MAX_CONSECUTIVE_FAILURES} falhas consecutivas — parando.",
                     file=sys.stderr,
                 )
                 break
@@ -591,8 +582,8 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
         if i % SAVE_EVERY == 0:
             _save_history(history)
             print(f"[summarize] checkpoint salvo ({done} resumos até agora)", file=sys.stderr)
-        # Rate limit Gemini free tier: 15 RPM ≈ 1 req cada 4s.
-        time.sleep(4.2)
+        # gemini_util já faz throttle (~4.5s) respeitando RPM; só um respiro pro fetch
+        time.sleep(0.3)
 
     # Save final
     _save_history(history)
@@ -637,7 +628,7 @@ def update_history(hits):
     pruned = before - len(history["items"])
 
     history["items"].sort(key=lambda i: i.get("displayDate", "0"), reverse=True)
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
 
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
