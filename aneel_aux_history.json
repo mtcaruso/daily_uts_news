@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T13:36:53.698898",
+  "last_updated": "2026-06-09T14:06:18.472637",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -771,6 +771,15 @@
       "added_at": "2026-06-09T08:03:48.822296",
       "objeto": "obter subsídios para aprimoramento do Relatório de Análise de Impacto Regulatório Conjunto nº 1/2026- STR/STD/ANEEL e da proposta de regulamentação relativa ao método de definição de encargo fixo destinado à cobertura dos custos comerciais na estrutura tarifária aplicável aos consumidores de baixa tensão, no âmbito da agenda de modernização das tarifas de distribuição – Ciclo 1.",
       "fonte": "ANEEL"
+    },
+    "noticia_2026_diretora-da-aneel-recebe-premio-internacional-na-italia": {
+      "type": "noticia",
+      "title": "Diretora da ANEEL recebe prêmio internacional na Itália",
+      "date": "09/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/diretora-da-aneel-recebe-premio-internacional-na-italia",
+      "summary": "Notícias INSTITUCIONAL Diretora da ANEEL recebe prêmio internacional na Itália A diretora da Agência Nacional de Energia Elétrica (ANEEL), Agnes da Costa, foi homenageada nesta terça-feira (9) com o LUCE Awards 2026, na categoria Legacy Women, durante cerimônia realizada em Florença, na Itália. O prêmio internacional reconhece mulheres que se destacam por suas contribuições nos setores de…",
+      "added_at": "2026-06-09T14:06:17.971300",
+      "summary_source": "extractive"
     }
   }
 }
