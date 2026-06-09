@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T08:07:09.517346",
+  "last_updated": "2026-06-09T08:35:30.797119",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2899,10 +2899,10 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-54-2026.pdf",
       "date_modified": "09/06/2026",
       "ementa": "Designa RAFAEL BOTALERE LIMA DOS SANTOS, matrícula SIAPE nº 1502811, para exercer a Função Comissionada Executiva de Coordenador de Apoio Técnico e Administrativo do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
-      "summary": null,
+      "summary": "Designa RAFAEL BOTALERE LIMA DOS SANTOS, matrícula SIAPE nº 1502811, para exercer a Função Comissionada Executiva de Coordenador de Apoio Técnico e Administrativo do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": null,
-      "error": "summarize_failed_or_skipped"
+      "summarized_at": "2026-06-09T08:35:29.293935",
+      "summary_source": "extractive"
     },
     "portarias_portaria-gm-mme-n-55-2026": {
       "category": "portarias",
@@ -2913,10 +2913,10 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-55-2026.pdf",
       "date_modified": "09/06/2026",
       "ementa": "Designa GIOVANNI SANTOS DE LEMOS, matrícula SIAPE nº 1502810, para exercer a Função Comissionada Executiva de Coordenador de Apoio a Programas e Projetos do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
-      "summary": null,
+      "summary": "Designa GIOVANNI SANTOS DE LEMOS, matrícula SIAPE nº 1502810, para exercer a Função Comissionada Executiva de Coordenador de Apoio a Programas e Projetos do Gabinete da Secretaria Nacional Energia Elétrica, código FCE 1.10.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": null,
-      "error": "summarize_failed_or_skipped"
+      "summarized_at": "2026-06-09T08:35:29.794640",
+      "summary_source": "extractive"
     },
     "portarias_portaria-normativa-mme-n-137-2026": {
       "category": "portarias",
@@ -2927,10 +2927,10 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-137-2026.pdf",
       "date_modified": "09/06/2026",
       "ementa": "Estabelece as diretrizes para a concessão dos descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras classificadas na Classe Rural, no consumo que se verifique na atividade de irrigação e aquicultura, nos termos do art. 25 da Lei nº 10.438, de 26 de abril de 2002.",
-      "summary": null,
+      "summary": "Estabelece as diretrizes para a concessão dos descontos especiais nas tarifas de energia elétrica aplicáveis às unidades consumidoras classificadas na Classe Rural, no consumo que se verifique na atividade de irrigação e aquicultura, nos termos do art. 25 da Lei nº 10.438, de 26 de abril de 2002.",
       "added_at": "2026-06-09T08:01:48.747863",
-      "summarized_at": null,
-      "error": "summarize_failed_or_skipped"
+      "summarized_at": "2026-06-09T08:35:30.295897",
+      "summary_source": "extractive"
     }
   },
   "first_run_done": true
