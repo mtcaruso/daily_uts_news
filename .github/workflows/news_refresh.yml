@@ -5,9 +5,11 @@ name: News Refresh (resumos a cada 2h)
 
 on:
   schedule:
-    # A cada 1h, das 07h às 23h BRT (UTC-3 → 10h às 02h UTC)
-    # Pula 23 UTC pra não conflitar com o daily.yml (20h BRT)
-    - cron: "0 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * *"
+    # A cada 30min, das 07h às 23h BRT (UTC-3 → 10h às 02h UTC).
+    # Minutos :7/:37 — fora do top-of-hour saturado do GHA (runs em :00 eram
+    # dropados com frequência). Cadência maior garante que quando o usuário
+    # abrir o dashboard, os resumos das notícias novas já estejam prontos.
+    - cron: "7,37 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * *"
   workflow_dispatch:
 
 permissions:
