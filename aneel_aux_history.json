@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T10:47:19.535030",
+  "last_updated": "2026-06-09T08:03:49.323079",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -761,6 +761,16 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-divulga-plano-de-desenvolvimento-da-distribuicao-2013-pdd-2026",
       "summary": "A ANEEL divulgou o PDD 2026, detalhando os investimentos das **distribuidoras de energia elétrica** em todo o Brasil. As empresas investiram **R$ 41 bilhões** em 2025 e projetam **R$ 258 bilhões** para expansão, melhoria e renovação da rede entre 2026 e 2030.",
       "added_at": "2026-06-08T15:47:47.019026"
+    },
+    "partic_cp_016_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 016/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=ns7cuj6m&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4019&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "obter subsídios para aprimoramento do Relatório de Análise de Impacto Regulatório Conjunto nº 1/2026- STR/STD/ANEEL e da proposta de regulamentação relativa ao método de definição de encargo fixo destinado à cobertura dos custos comerciais na estrutura tarifária aplicável aos consumidores de baixa tensão, no âmbito da agenda de modernização das tarifas de distribuição – Ciclo 1.",
+      "added_at": "2026-06-09T08:03:48.822296",
+      "objeto": "obter subsídios para aprimoramento do Relatório de Análise de Impacto Regulatório Conjunto nº 1/2026- STR/STD/ANEEL e da proposta de regulamentação relativa ao método de definição de encargo fixo destinado à cobertura dos custos comerciais na estrutura tarifária aplicável aos consumidores de baixa tensão, no âmbito da agenda de modernização das tarifas de distribuição – Ciclo 1.",
+      "fonte": "ANEEL"
     }
   }
 }
