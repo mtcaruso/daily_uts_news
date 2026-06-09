@@ -423,7 +423,7 @@
     "documento_count": 364,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-09T15:39:08.654723",
+    "last_check_at": "2026-06-09T16:09:29.659745",
     "last_andamentos_top10": [
       {
         "datahora": "09/06/2026 11:07",
@@ -607,7 +607,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-09T15:39:11.086627",
+    "last_check_at": "2026-06-09T16:09:32.082584",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -787,7 +787,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-09T15:39:13.586626",
+    "last_check_at": "2026-06-09T16:09:34.606823",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1185,7 +1185,7 @@
     "documento_count": 130,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-09T15:39:16.922032",
+    "last_check_at": "2026-06-09T16:09:38.109018",
     "last_andamentos_top10": [
       {
         "datahora": "02/06/2026 11:21",
@@ -1328,6 +1328,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "3c2ca5683895",
       "8663007f0c6e",
       "1a0c24c8a32b",
       "1daaddd3fba2",
@@ -1345,10 +1346,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 14,
+    "andamento_count": 15,
     "documento_count": 13,
-    "last_check_at": "2026-06-09T15:39:19.362635",
+    "last_check_at": "2026-06-09T16:09:40.541566",
     "last_andamentos_top10": [
+      {
+        "datahora": "09/06/2026 15:55",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo remetido pela unidade DIR - GNSJ",
+        "hash": "3c2ca5683895"
+      },
       {
         "datahora": "02/06/2026 18:13",
         "unidade": "ASD - APOIO",
@@ -1402,12 +1409,6 @@
         "unidade": "STR",
         "descricao": "Processo remetido pela unidade DIR - GNSJ",
         "hash": "ead248a29f35"
-      },
-      {
-        "datahora": "04/05/2026 13:19",
-        "unidade": "DIR - GNSJ",
-        "descricao": "Processo recebido na unidade",
-        "hash": "62dea63908cc"
       }
     ],
     "last_documentos_top10": [

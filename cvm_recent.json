@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-09T15:40:09.292975-03:00",
+  "last_updated": "2026-06-09T16:10:24.557391-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Documento de Atribuições da Diretoria Executiva -",
+      "data_referencia": "20260325 25/03/2026",
+      "data_entrega": "20260609 09/06/2026 16:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Documento de Atribuições da Diretoria Executiva",
+      "protocolo": "1532325",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532325",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-06-09T16:10:20.223876"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
