@@ -7,11 +7,13 @@ name: DOU MME/ANEEL Digest
 # dia não duplicam email.
 on:
   schedule:
-    # 1x/dia, na primeira janela da manhã (08:17 BRT = 11:17 UTC), Seg-Sex.
-    # O DOU do dia já está publicado nesse horário. O local_refresh.bat (a cada
-    # 30min) cobre como backup e captura assim que o PC liga. --email-if-new é
-    # idempotente, então não duplica email mesmo se o local rodar antes.
-    - cron: "17 11 * * 1-5"
+    # 2x na manhã (07:17 e 08:17 BRT), Seg-Sex. A edição do DOU é publicada de
+    # madrugada — o run das 07:17 garante o DOU do dia na nuvem ANTES do usuário
+    # abrir o dashboard cedo, sem depender do PC local estar ligado. Frequência
+    # extra não queima cota: atos novos são resumidos 1x de qualquer forma.
+    # O local_refresh.bat (30min) cobre o resto do dia. --email-if-new é
+    # idempotente, então não duplica email.
+    - cron: "17 10,11 * * 1-5"
   workflow_dispatch:
 
 permissions:
