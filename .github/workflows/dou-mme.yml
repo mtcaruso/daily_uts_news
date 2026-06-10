@@ -7,13 +7,15 @@ name: DOU MME/ANEEL Digest
 # dia não duplicam email.
 on:
   schedule:
-    # 2x na manhã (07:17 e 08:17 BRT), Seg-Sex. A edição do DOU é publicada de
-    # madrugada — o run das 07:17 garante o DOU do dia na nuvem ANTES do usuário
-    # abrir o dashboard cedo, sem depender do PC local estar ligado. Frequência
-    # extra não queima cota: atos novos são resumidos 1x de qualquer forma.
-    # O local_refresh.bat (30min) cobre o resto do dia. --email-if-new é
-    # idempotente, então não duplica email.
-    - cron: "17 10,11 * * 1-5"
+    # 2x na manhã (07:15 e 08:15 BRT), Seg-Sex. A edição do DOU é publicada de
+    # madrugada — o run das 07:15 garante o DOU do dia na nuvem ANTES do usuário
+    # abrir o dashboard cedo, sem depender do PC local estar ligado.
+    # NOTA: cron do GHA = hora de ENTRAR NA FILA; execução real tem jitter de
+    # 0-10min (começa ~07:15-07:25). Single-entry com hour-list é o padrão
+    # robusto (multi-entries separadas eram dropadas). Frequência extra não
+    # queima cota: atos novos são resumidos 1x de qualquer forma. O
+    # local_refresh.bat (30min) cobre o resto do dia. --email-if-new idempotente.
+    - cron: "15 10,11 * * 1-5"
   workflow_dispatch:
 
 permissions:
