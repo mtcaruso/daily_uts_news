@@ -1,14 +1,15 @@
 name: CVM Fast (FR near-real-time)
 
-# Loop CONTÍNUO que faz poll da CVM a cada ~3min — latência de Fato Relevante
-# cai pra ~3min (vs ~40min do cvm-realtime de 15min). NÃO depende do cron de
-# 15min ser honrado (o GitHub dropa crons agressivos): é UM job longo que fica
-# pollando dentro de um while. Repo público = Actions ilimitado → grátis e 24/7,
+# Loop CONTÍNUO que faz poll da B3 a cada ~1min — latência de Fato Relevante
+# ~1min (o mais perto da publicação que dá sem feed pago). NÃO depende do cron
+# de 15min ser honrado (o GitHub dropa crons agressivos): é UM job longo que
+# fica pollando num while. Repo público = Actions ilimitado → grátis e 24/7,
 # sem depender do PC ligado.
 #
-# Carga: ~40 requests à CVM a cada 3min por ~5.5h. O cvm-realtime (15min) e o
-# self-host seguem como baseline; se a CVM throttlar o IP do runner, o cvm_fast
-# loga erro por código e continua — degrada suave.
+# EFICIENTE: cvm_fast.py faz 1 request leve à B3 (GetMaterialFacts, ~0.4s, todas
+# as empresas) por ciclo — não os 40 endpoints da CVM RAD. Carga irrisória, dá
+# pra pollar de 1min tranquilo. O cvm-realtime (15min, CVM RAD direto) segue de
+# fallback se a B3 mudar/cair.
 on:
   schedule:
     # reinicia a cada 4h (o job loopa ~5.5h → sobrepõe e cobre um cron dropado)
@@ -37,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - name: Poll loop (~3min, por ~5.5h)
+      - name: Poll loop (~1min, por ~5.5h)
         env:
           CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
@@ -47,5 +48,5 @@ jobs:
           end=$(( $(date +%s) + 19800 ))   # ~5.5h
           while [ $(date +%s) -lt $end ]; do
             python cvm_fast.py || true
-            sleep 180
+            sleep 60
           done
