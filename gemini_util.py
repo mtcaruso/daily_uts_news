@@ -31,7 +31,9 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.5-flash-lite"  # 5x mais barato que 2.5-flash ($0.10/$0.40 vs
+# $0.30/$2.50 por 1M tok), qualidade ótima pra resumo de manchete/ato (validado),
+# e bucket de cota SEPARADO. Billing habilitado no projeto → sem teto de RPD.
 
 # Estado por processo/run
 _CLIENT = None

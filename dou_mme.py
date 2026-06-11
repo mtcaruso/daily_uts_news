@@ -26,8 +26,8 @@ BRT = ZoneInfo("America/Sao_Paulo")
 
 HISTORY_FILE = Path("dou_history.json")
 HISTORY_RETENTION_DAYS = 90
-# Cap pra evitar estourar quota free do Gemini (1500 RPD pra gemini-2.5-flash).
-# 1500 = 1 run consegue processar quase 1 dia inteiro de quota.
+# Cap pra não deixar o DOU monopolizar a cota Gemini compartilhada (4 scrapers,
+# mesma chave). Com billing ligado o teto de RPD some, mas o cap segue saudável.
 # Cada item leva ~4.2s (rate limit 15 RPM) → 1500 items = ~105 min.
 # GHA tem timeout default de 6h, então fica folgado.
 MAX_SUMMARIZE_PER_RUN = 200  # era 1500 (outlier grosso): os 4 scrapers dividem a
