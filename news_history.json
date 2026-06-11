@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T21:30:37.519818",
+  "last_updated": "2026-06-11T18:31:12.945966",
   "items": {
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gckk1V0Foa2V5eUZ5Nlg2Y2YxU1g0UXRVekF4ZmktOEF4dV9iMEZjTXA1cm1hMDc4d25QeVZiTGRhaFk4MDZvOXM4eE1NXzU0UWl0N1JR?oc=5": {
       "title": "Tag SLB Global - MegaWhat",
@@ -2714,31 +2714,37 @@
       "source": "",
       "added_at": "2026-06-11T17:01:59.691203"
     },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTEyb0t5M1c5R1Ewdks5eFZfNVNKVndIREdJZTFIX1FBWTM0SDNTWXJaZGFZSUVCa0RZc2huMEp0R0Q5dTBwSEdOZENKWWZjX3RMcUZkYnF2cDMxLVNJS0xGY3lCc1ZBeG1TMmJWNzdFNzg2UHZNMWNyaGx4dTZXLS1vQWNRR3FfZFNvLVlMU2ZqLWNGUHlia0Rvdm85Qm93RFZxSzl5bWlSWG01T3pucGliN0FCMlhPQlJ5VTdTazBlZkVpWl9XQzdzNA?oc=5": {
-      "title": "Axia conclui cessão de créditos com Amazonas Energia em operação de R$ 554 milhões - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-11T21:30:23.084766",
-      "error": "no_article",
-      "attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWNpeFA5Z0x3MlJxbktwUGlhMktkbkJhWTFydkM1d2xFcnV2NW82Q3BZbEFVTlBBSEhjcV83WUljTi1LMnFrenB5S0FYdGtjWjdPRFZ0VzNDejR4WDNxRGQ0WG9iUHJjekQyWVNXUThMTWsyaXVTVlhDYU1selRSM0xGOEtqNmVpbXYzVEpZNzNJMVhEQ0xzYVNxU2w4aG0wbWsteE5uaVRRZmpJUEc4REl6TVV6NWZRejVzNjBxYmNncGR2ZXJv0gHWAUFVX3lxTE4talhocXJ0ZTEwUy1VT3FuWk9mOHNRZmNfUEVsd0RtYUd6a3c5bmhCV09HOG9Sb0kweXdLWkQ4WmlDVFI2ZWtTZEhpREZBSEI3VENiRWpwSE5XeFhSRGFKWkxPbnFwTHNRcW1VYTNxZDFvNGtpRmdGYkpkR3ZxNHVCUHAyMk9ZcWJIYW1KZU16M3hmckFVdUotNDdvWXVQSllxZXpKS1RTRWpJN1lEVDdKNWlnUjFUTzRnVmJ6aXpYT28xcGw0N1UxVHVCLVd1Y0NpUUZDMWc?oc=5": {
       "title": "Governo abre consulta pública e avança com plano de transição energética - Valor Econômico",
-      "summary": "O **Ministério de Minas e Energia (MME)** abriu consulta pública para o Plano Nacional de Transição Energética (Plante), com previsão de **R$ 300 bilhões** em bioenergia e **R$ 2 trilhões** em geração elétrica até 2055. O plano visa a neutralidade de emissões até 2050, com projeção de **81%** de fontes renováveis na matriz energética até 2055.",
+      "summary": "Governo abre consulta pública e avança com plano de transição energética PNE 2055 e Plante consideram a previsão de investimentos de R$ 300 bi em bioenergia, como biocombustíveis e produção de hidrogênio verde, e de R$ 2 trilhões em geração elétrica até 2055 O governo deu um passo para estabelecer um plano de ação sobre a transformação da produção e consumo de energia no país nos próximos 30…",
       "source": "",
-      "added_at": "2026-06-11T21:30:37.514092"
+      "added_at": "2026-06-11T18:31:12.931424",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTEyb0t5M1c5R1Ewdks5eFZfNVNKVndIREdJZTFIX1FBWTM0SDNTWXJaZGFZSUVCa0RZc2huMEp0R0Q5dTBwSEdOZENKWWZjX3RMcUZkYnF2cDMxLVNJS0xGY3lCc1ZBeG1TMmJWNzdFNzg2UHZNMWNyaGx4dTZXLS1vQWNRR3FfZFNvLVlMU2ZqLWNGUHlia0Rvdm85Qm93RFZxSzl5bWlSWG01T3pucGliN0FCMlhPQlJ5VTdTazBlZkVpWl9XQzdzNA?oc=5": {
+      "title": "Axia conclui cessão de créditos com Amazonas Energia em operação de R$ 554 milhões - CanalEnergia",
+      "summary": "Axia conclui cessão de créditos com Amazonas Energia em operação de R$ 554 milhões. A Axia Energia anunciou a conclusão da cessão da totalidade dos créditos detidos contra a distribuidora Amazonas Energia",
+      "source": "",
+      "added_at": "2026-06-11T18:31:12.931536",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEZ1WGh2TWxabDR6akgyQV93YmVNQVAyMWRQV21JOEFTa0dLdTRUS1ZtOTlOUE80cHpybjhzXzlIQTVvRjJTdHlkV2pzTHFnc3hNb1drU2xIeEFLYV93MDF3RlRqYXJ4SXQ3dV9waFBpS2l3LWJaVTJkNV9qWW9SdWZzSEw0UDVPQWxfd3RXQ1FvV2tKSHhwNjJsWl9fekdKcl9zWnpCWVpEQTVOMmFKV0hvNUdFbWF1MVhtRg?oc=5": {
       "title": "CPFL e Copel garantem incentivos para reforços em linhas de transmissão - MegaWhat",
-      "summary": "A **Aneel** aprovou o enquadramento no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi) para projetos de reforços em linhas de transmissão da **CPFL** e da **Copel** (via Mata de Santa Genebra). A **Pequena Central Hidrelétrica (PCH) Malacara**, de **10,5 MW**, também foi contemplada com o benefício fiscal.",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) aprovou o enquadramento no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi) de projetos de reforços em instalações de transmissão da CPFL e da Mata de Santa Genebra Transmissão S.A., controlada pela Copel. A Aneel também enquadrou no Reidi a pequena central hidrelétrica (PCH) Malacara, de 10,5 MW.",
       "source": "",
-      "added_at": "2026-06-11T21:30:37.514127"
+      "added_at": "2026-06-11T18:31:12.931664",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWRodUVfRURUVkF2dW1CTndzSlByZ0k1Ym1qRmoza0RKSjROZXU0LUhIMUVXeHhHYUs0clRtRVlXbVVlZXMtcW56aTZzeE9iQkxCZV9Oc3RjVWNYSXdWMzlyZDNRY2cwYUt5bkNsOV9lNDl0TW1iaDBFU1BsZFRXS21mNm5kUmYxMVpRVllFQlA5Tm1OdEllRnN0VlV2WG5feXRBTVNKLUppYnM?oc=5": {
       "title": "Espanhola Acciona solicita outorgas para 330 MW em eólicas - MegaWhat",
-      "summary": "A espanhola **Acciona** solicitou à **Aneel** outorgas para **336 MW** em geração eólica na Bahia. A **Aneel** também autorizou **64,8 MW** em renováveis e a **Eneva** unificou outorgas de suas usinas termelétricas **Azulão II e IV**, totalizando **602,5 MW**.",
+      "summary": "A companhia espanhola Acciona protocolou junto à Agência Nacional de Energia Elétrica (Aneel) requerimento de outorga (DRO) para 336 MW em geração eólica, nas usinas Guanambi I a VIII, nos municípios de Guanambi e Pindaí, na Bahia. No país, a Acciona atua em projetos de infraestrutura em saneamento, transportes e infraestrutura portuária.",
       "source": "",
-      "added_at": "2026-06-11T21:30:37.514135"
+      "added_at": "2026-06-11T18:31:12.931838",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
