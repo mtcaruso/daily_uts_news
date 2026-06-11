@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-11T16:30:33.965539-03:00",
+  "last_updated": "2026-06-11T17:00:43.493529-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação Teleconferência Investidor de Referência de COPASA -",
+      "data_referencia": "20260611 11/06/2026",
+      "data_entrega": "20260611 11/06/2026 16:36",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Apresentação Teleconferência Investidor de Referência de COPASA",
+      "protocolo": "1533693",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533693",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-06-11T17:00:23.495615"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
