@@ -1,42 +1,6 @@
 {
-  "last_updated": "2026-06-11T09:30:53.679629-03:00",
+  "last_updated": "2026-06-11T09:02:46.838577-03:00",
   "items": [
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Boletim de voto a distância",
-      "data_referencia": "20260702 02/07/2026 09:00",
-      "data_entrega": "20260611 11/06/2026 09:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1533479",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533479",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-06-11T12:30:42.650577"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Regimento interno de Comitês",
-      "tipo": "-",
-      "especie": "Regimento Interno dos Comitês de Assessoramento -",
-      "data_referencia": "20260427 27/04/2026 10:30",
-      "data_entrega": "20260611 11/06/2026 09:03",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Regimento Interno dos Comitês de Assessoramento",
-      "protocolo": "1533476",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533476",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-06-11T12:30:41.266652"
-    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
@@ -53,7 +17,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533471",
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
-      "first_seen": "2026-06-11T12:30:34.934365"
+      "first_seen": "2026-06-11T09:02:22.653916"
     },
     {
       "cnpj_short": "01987-9",
