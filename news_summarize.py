@@ -43,6 +43,18 @@ HISTORY_RETENTION_DAYS = 14  # 2x folga sobre o lookback de 30h: cobre fim de
 # da auditoria: com 7d, item que falhava e saía do RSS era deletado sem nunca
 # ser resumido)
 MAX_SUMMARIZE_PER_RUN = 200  # cap pra controlar custo Gemini
+BATCH_SIZE = 5               # itens por chamada Gemini → ~5x menos chamadas (cota)
+MAX_RERESUME_ATTEMPTS = 3    # qtas vezes re-tentar upgrade LLM de um extractive
+RERESUME_WINDOW_DAYS = 2     # só re-tenta upgrade de extractive recente; depois congela
+
+# Instrução de resumo COMPARTILHADA (single + batch) pra os prompts não divergirem.
+NEWS_INSTRUCTION = (
+    "Você é um analista do setor brasileiro de utilities resumindo notícias. "
+    "Para CADA item, em 2-3 frases curtas e diretas em PORTUGUÊS BRASILEIRO, diga: "
+    "o QUE aconteceu (fato principal), QUEM está envolvido (empresas, órgãos, "
+    "pessoas-chave) e VALORES/DATAS/números relevantes. Use **bold** pra destacar "
+    "empresas e valores. PULE introduções vagas."
+)
 
 HEADERS = {
     "User-Agent": (
@@ -229,12 +241,7 @@ def _summarize(title, body):
     if not body or len(body) < 80:
         return None, None
     prompt = (
-        "Você é um analista do setor brasileiro de utilities resumindo uma notícia. "
-        "Em 2-3 frases curtas e diretas em PORTUGUÊS BRASILEIRO, diga:\n"
-        "- O QUE aconteceu (fato principal).\n"
-        "- QUEM está envolvido (empresas, órgãos, pessoas-chave).\n"
-        "- VALORES, DATAS ou números relevantes.\n"
-        "Use **bold** pra destacar empresas e valores. PULE introduções vagas.\n\n"
+        f"{NEWS_INSTRUCTION}\n\n"
         f"Título: {title}\n\n"
         f"Texto:\n{body}\n\n"
         "Resumo (2-3 frases):"
@@ -245,6 +252,74 @@ def _summarize(title, body):
     except gemini_util.GeminiCircuitOpen:
         fb = gemini_util.extractive_summary(body)
         return (fb, "extractive") if fb else (None, None)
+
+
+def _record_success(history, url, item, title, summary, source):
+    """Grava resumo OK. PRESERVA added_at (retention/janela corretos — antes,
+    extractive resetava o relógio a cada run). No caso extractive, conta
+    reresume_attempts pra congelar após N upgrades-tentados."""
+    _prev = history["items"].get(url, {})
+    entry = {
+        "title": title,
+        "summary": summary,
+        "source": item.get("source", ""),
+        "added_at": _prev.get("added_at") or datetime.now().isoformat(),
+    }
+    if source == "extractive":
+        entry["summary_source"] = "extractive"
+        entry["reresume_attempts"] = int(_prev.get("reresume_attempts") or 0) + 1
+    history["items"][url] = entry
+
+
+def _record_failure(history, url, item, title, error):
+    """Grava falha preservando added_at e incrementando attempts (o cap em
+    MAX_ITEM_ATTEMPTS tira o item do pending e protege a cota)."""
+    _prev = history["items"].get(url, {})
+    history["items"][url] = {
+        "title": title,
+        "summary": None,
+        "source": item.get("source", ""),
+        "added_at": _prev.get("added_at") or datetime.now().isoformat(),
+        "error": error,
+        "attempts": int(_prev.get("attempts") or 0) + 1,
+    }
+
+
+def _summarize_fetched_in_batches(history, fetched):
+    """Resume os artigos (que têm corpo) em BATCHES de BATCH_SIZE itens por
+    chamada Gemini. Itens que não voltarem no JSON do batch — ou todos, se o
+    circuito abrir (cota esgotada) — caem pro extractive sem gastar chamada.
+    Retorna nº de sucessos (llm + extractive). Função separada pra ser testável."""
+    done = 0
+    circuit_open = gemini_util.circuit_open()
+    for start in range(0, len(fetched), BATCH_SIZE):
+        chunk = fetched[start:start + BATCH_SIZE]
+        batch_map = {}
+        if not circuit_open:
+            try:
+                batch_map = gemini_util.generate_batch(
+                    [{"id": u, "title": t, "text": b} for (u, _it, t, b) in chunk],
+                    NEWS_INSTRUCTION,
+                )
+            except gemini_util.GeminiCircuitOpen:
+                circuit_open = True  # cota esgotou — resto do run vai de extractive
+
+        for (url, item, title, body) in chunk:
+            if url in batch_map:
+                _record_success(history, url, item, title, batch_map[url], "llm")
+                done += 1
+                print(f"  ✓ {batch_map[url][:80]}", file=sys.stderr)
+            else:
+                # Faltou no JSON do batch OU circuito aberto → fallback extrativo.
+                fb = gemini_util.extractive_summary(body)
+                if fb:
+                    _record_success(history, url, item, title, fb, "extractive")
+                    done += 1
+                    print(f"  ≈ {fb[:80]}", file=sys.stderr)
+                else:
+                    _record_failure(history, url, item, title, "summarize_failed")
+        _save(history)  # checkpoint após cada batch
+    return done
 
 
 def main():
@@ -274,11 +349,18 @@ def main():
     #     transitório (503, cota por minuto) com folga.
     MAX_ITEM_ATTEMPTS = 8
     _err_cutoff = (datetime.now() - timedelta(days=3)).isoformat()
+    _extractive_cutoff = (datetime.now() - timedelta(days=RERESUME_WINDOW_DAYS)).isoformat()
     seen_urls = {
         url for url, v in history.get("items", {}).items()
         if (v.get("summary") and v.get("summary_source") != "extractive")
         or (v.get("error") == "no_article" and v.get("added_at", "") < _err_cutoff)
         or (v.get("error") and int(v.get("attempts") or 0) >= MAX_ITEM_ATTEMPTS)
+        # Extractive vira "good enough" e CONGELA (para de re-resumir) quando já
+        # foi re-tentado MAX_RERESUME_ATTEMPTS vezes OU não é mais recente. Antes,
+        # os 148 extractive eram re-resumidos em TODO run — vazamento de cota.
+        or (v.get("summary") and v.get("summary_source") == "extractive"
+            and (int(v.get("reresume_attempts") or 0) >= MAX_RERESUME_ATTEMPTS
+                 or v.get("added_at", "") < _extractive_cutoff))
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
@@ -309,70 +391,32 @@ def main():
     print(f"[news_summarize] {len(pending)} novos pendentes (cap {MAX_SUMMARIZE_PER_RUN})", file=sys.stderr)
 
     pending = pending[:MAX_SUMMARIZE_PER_RUN]
-    done = 0
-    consecutive_failures = 0
-    MAX_CONSECUTIVE_FAILURES = 15
     SAVE_EVERY = 25
 
+    # ---- FASE 1: fetch dos artigos (rede; não dá pra batchar) ----
+    # Separa quem tem corpo (vai pro batch) de quem falhou (no_article já gravado).
+    fetched = []  # (url, item, title, body)
+    consecutive_fetch_fail = 0
+    MAX_CONSECUTIVE_FETCH_FAIL = 15
     for i, (url, item) in enumerate(pending, 1):
         title = item.get("title", "")
         body = _fetch_article(url)
         if body:
-            summary, source = _summarize(title, body)
-            if summary:
-                entry = {
-                    "title": title,
-                    "summary": summary,
-                    "source": item.get("source", ""),
-                    "added_at": datetime.now().isoformat(),
-                }
-                if source == "extractive":
-                    entry["summary_source"] = "extractive"  # re-resume com LLM depois
-                history["items"][url] = entry
-                done += 1
-                consecutive_failures = 0
-                tag = "≈" if source == "extractive" else "✓"
-                print(f"  {tag} [{i}/{len(pending)}] {summary[:80]}", file=sys.stderr)
-            else:
-                # Gemini falhou (sem fallback — body curto ou erro pontual).
-                # PRESERVA added_at original (sobrescrever resetava o relógio do
-                # retention e da regra de skip) e conta a tentativa — itens com
-                # attempts >= cap deixam de ser retentados (protege a cota
-                # diária: item travado a 48 runs/dia queimava 48 chamadas/dia).
-                _prev = history["items"].get(url, {})
-                history["items"][url] = {
-                    "title": title,
-                    "summary": None,
-                    "source": item.get("source", ""),
-                    "added_at": _prev.get("added_at") or datetime.now().isoformat(),
-                    "error": "summarize_failed",
-                    "attempts": int(_prev.get("attempts") or 0) + 1,
-                }
-                consecutive_failures += 1
-                if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                    print(f"[news_summarize] {MAX_CONSECUTIVE_FAILURES} falhas consecutivas — parando", file=sys.stderr)
-                    break
+            fetched.append((url, item, title, body))
+            consecutive_fetch_fail = 0
         else:
-            # Não conseguiu pegar o artigo (paywall, 403, redirect falhou).
-            # Mesma preservação de added_at + contador de tentativas.
-            _prev = history["items"].get(url, {})
-            history["items"][url] = {
-                "title": title,
-                "summary": None,
-                "source": item.get("source", ""),
-                "added_at": _prev.get("added_at") or datetime.now().isoformat(),
-                "error": "no_article",
-                "attempts": int(_prev.get("attempts") or 0) + 1,
-            }
-            consecutive_failures += 1
-            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+            _record_failure(history, url, item, title, "no_article")
+            consecutive_fetch_fail += 1
+            if consecutive_fetch_fail >= MAX_CONSECUTIVE_FETCH_FAIL:
+                print(f"[news_summarize] {MAX_CONSECUTIVE_FETCH_FAIL} fetches falharam seguidos — parando fetch", file=sys.stderr)
                 break
-
-        # Checkpoint
         if i % SAVE_EVERY == 0:
             _save(history)
-            print(f"[news_summarize] checkpoint salvo ({done} sucesso)", file=sys.stderr)
-        time.sleep(0.5)
+        time.sleep(0.3)
+    print(f"[news_summarize] {len(fetched)} artigos com corpo → batch de {BATCH_SIZE}", file=sys.stderr)
+
+    # ---- FASE 2: resumo em BATCH (N itens por chamada Gemini → ~5x menos cota) ----
+    done = _summarize_fetched_in_batches(history, fetched)
 
     # Prune itens antigos (retention)
     cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
