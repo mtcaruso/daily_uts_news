@@ -35,4 +35,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add state/pls_consultas.json
           git diff --staged --quiet || git commit -m "chore: update pls_consultas state [skip ci]"
+          # rebase antes do push pra não perder corrida com outros workflows/self-host
+          git pull --rebase origin main || true
           git push

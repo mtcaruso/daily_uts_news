@@ -5,8 +5,9 @@ name: ANEEL Auxiliar (notícias + pautas RD)
 
 on:
   schedule:
-    # A cada 1h, das 07h às 23h BRT, Seg-Sex (ANEEL não publica fim de semana)
-    - cron: "0 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * 1-5"
+    # A cada 1h, das 07h às 23h BRT, Seg-Sex (ANEEL não publica fim de semana).
+    # Minuto :05 (não :00) — o topo da hora é o mais saturado/dropado no GHA.
+    - cron: "5 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * 1-5"
   workflow_dispatch:
 
 permissions:

@@ -2,10 +2,12 @@ name: CVM Real-Time Scraper
 
 on:
   schedule:
-    # A cada 5 minutos, 7 dias por semana — pega FRs/Comunicados quase em tempo real.
-    # GHA pode dropar alguns runs (mínimo recomendado é 5min), mas mesmo 70%
-    # de sucesso já dá uma cobertura muito boa.
-    - cron: "*/5 * * * *"
+    # A cada 15 minutos, 7 dias por semana. ERA */5, mas a auditoria (API do GHA)
+    # mostrou que o GitHub DROPAVA ~99% dos runs de 5min — entregava só ~2/dia.
+    # O agendador honra muito melhor intervalos menos agressivos (*/15). O
+    # self-host local (30min) cobre o resto. Sem Gemini aqui, então não há cota
+    # em jogo — é puro frescor de FR/Comunicado.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
