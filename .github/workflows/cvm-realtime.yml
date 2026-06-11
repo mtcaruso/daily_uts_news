@@ -24,6 +24,10 @@ jobs:
           cache: pip
       - run: pip install requests
       - run: python cvm_realtime.py
+        env:
+          # WhatsApp via CallMeBot (opcional — sem isso, FR/Comunicado vão só no ntfy)
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
       - name: Commit state changes
         run: |
           git config user.name "github-actions[bot]"

@@ -1,27 +1,25 @@
 """
-Sistema de alertas. Roda a cada 30min via GitHub Actions, checa news/DOU/CVM
-contra config (alerts_config.py), e envia push notification via ntfy.sh
-pra cada NOVO item que matcha.
+Sistema de alertas. Roda a cada 30min via GitHub Actions, checa news/DOU
+contra config (alerts_config.py) + ranking (nota do Top do Dia), e envia push
+via notify.py (WhatsApp CallMeBot + ntfy, com retry/fallback).
 
 State commitado em alerts_state.json (próximo run não realerta o mesmo item).
+
+NOTA: a detecção de Fato Relevante/Comunicado em TEMPO REAL é do cvm_realtime.py
+(scraper RAD direto). A antiga camada CVM via CSV anual foi REMOVIDA daqui —
+tinha ~6 dias de atraso e era redundante com o realtime (mesmo state['cvm']).
 """
 # digest.py lê env vars no top — define dummies antes de importar
 import os
 os.environ.setdefault("RESEND_API_KEY", "_unused_by_alerts")
 os.environ.setdefault("DIGEST_TO", "_unused_by_alerts")
 
-import io
 import json
-import re
 import sys
-import unicodedata
-import zipfile
 from datetime import datetime
 from pathlib import Path
 
-import pandas as pd
-import requests
-
+import notify
 from alerts_config import CONFIG
 from digest import fetch_source as fetch_news
 from dou_mme import collect as dou_collect
@@ -29,60 +27,59 @@ from dou_mme import link_for as dou_link
 from sources import SOURCES as NEWS_SOURCES
 
 STATE_FILE = Path("alerts_state.json")
-NTFY_BASE = "https://ntfy.sh"
 
 # Quantos IDs por categoria manter em state (evita arquivo crescer infinito)
 STATE_CAP = 2000
 # Limite de pushes por run (evita inundar o celular se config muda muito)
 PUSH_CAP_PER_RUN = 25
+# Nota mínima do ranking pra notificar uma notícia (faixa "verde" do Top do Dia)
+SCORE_THRESHOLD = 60
 
 
 # ============== STATE ==============
 def load_state() -> dict:
+    default = {"news": [], "dou": [], "cvm": [], "news_score": []}
     if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    return {"news": [], "dou": [], "cvm": []}
+        st = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+        for k in default:
+            st.setdefault(k, [])
+        return st
+    return default
 
 
 def save_state(state: dict) -> None:
-    # Cap cada categoria nos últimos N (mantém os mais recentes)
     for key in state:
         state[key] = state[key][-STATE_CAP:]
     STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-# ============== NTFY ==============
-def send_ntfy(topic: str, title: str, body: str, click_url: str | None = None,
-              tags: list[str] | None = None) -> bool:
-    """Usa o publish endpoint em JSON pra suportar UTF-8 (emojis, acentos) no título."""
-    payload: dict = {
-        "topic": topic,
-        "title": title,
-        "message": body,
-    }
-    if click_url:
-        payload["click"] = click_url
-    if tags:
-        payload["tags"] = tags
-    try:
-        r = requests.post(NTFY_BASE, json=payload, timeout=10)
-        return r.status_code == 200
-    except Exception as e:
-        print(f"[ntfy] erro: {e}", file=sys.stderr)
-        return False
+def _load_json(path: str, default):
+    p = Path(path)
+    if p.exists():
+        try:
+            return json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            return default
+    return default
+
+
+# ============== COLETA (uma vez, compartilhada) ==============
+def collect_news() -> list:
+    """Fetch de todas as fontes UMA vez. Retorna lista de (src_name, item)."""
+    out = []
+    for src in NEWS_SOURCES:
+        try:
+            for it in fetch_news(src):
+                out.append((src["name"], it))
+        except Exception as e:
+            print(f"[news/{src['name']}] erro: {e}", file=sys.stderr)
+    return out
 
 
 # ============== MATCHING ==============
 def text_matches(text: str, keywords: list) -> bool:
-    """
-    Match se QUALQUER keyword bater. Cada keyword pode ser:
-      - str: match por substring (case-insensitive)
-      - list[str]: TODOS os substrings devem aparecer (AND lógico)
-
-    Ex.: ["LRCAP", ["fato relevante", "Eletrobras"]] dispara em:
-      - qualquer texto contendo "LRCAP"
-      - OU texto contendo AMBOS "fato relevante" e "Eletrobras"
-    """
+    """Match se QUALQUER keyword bater. Cada keyword: str (substring) ou
+    list[str] (AND lógico de todos). Ex.: ["LRCAP", ["fato relevante","Eletrobras"]]."""
     if not text or not keywords:
         return False
     text_lower = text.lower()
@@ -96,46 +93,94 @@ def text_matches(text: str, keywords: list) -> bool:
     return False
 
 
-# ============== NEWS ==============
-def alert_news(config: dict, state: dict, dry: bool) -> int:
-    """
-    Verifica notícias contra keywords. State['news'] guarda APENAS items já
-    ALERTADOS (não todos vistos). Assim, mudança de keyword re-avalia itens
-    antigos automaticamente.
-    """
+# ============== NEWS (por keyword) ==============
+def alert_news(news_items: list, config: dict, state: dict, dry: bool) -> int:
+    """Notícias que casam keywords. State['news'] guarda só os já ALERTADOS."""
     keywords = config.get("news_keywords", [])
     if not keywords:
         return 0
-
     alerted = set(state.get("news", []))
     new_matches = []
-    for src in NEWS_SOURCES:
-        try:
-            items = fetch_news(src)
-        except Exception as e:
-            print(f"[news/{src['name']}] erro: {e}", file=sys.stderr)
+    for src_name, item in news_items:
+        link = item["link"]
+        if link in alerted:
             continue
-        for item in items:
-            link = item["link"]
-            if link in alerted:
-                continue
-            if not text_matches(item["title"], keywords):
-                continue
-            new_matches.append((src["name"], item))
-            alerted.add(link)
+        if not text_matches(item["title"], keywords):
+            continue
+        new_matches.append((src_name, item))
+        alerted.add(link)
 
     if not dry:
         for src_name, item in new_matches[:PUSH_CAP_PER_RUN]:
-            send_ntfy(
-                config["ntfy_topic"],
-                f"📰 {src_name}",
-                item["title"],
-                click_url=item["link"],
-                tags=["newspaper"],
-            )
+            notify.send(f"📰 {src_name}", item["title"], click=item["link"], tags=["newspaper"])
 
     state["news"] = list(alerted)[-STATE_CAP:]
     print(f"[news] {len(new_matches)} alertas novos")
+    return len(new_matches)
+
+
+# ============== NEWS (por NOTA / ranking) ==============
+def alert_news_score(news_items: list, state: dict, dry: bool) -> int:
+    """Notifica notícias cujo SCORE (mesma lógica do Top do Dia) supera
+    SCORE_THRESHOLD. Dedup com state['news_score'] E state['news'] (não duplica
+    com o alerta por keyword)."""
+    try:
+        from news_ranking import rank_news, extract_regulatory_entities
+    except Exception as e:
+        print(f"[news_score] news_ranking indisponível: {e}", file=sys.stderr)
+        return 0
+
+    # watch terms = watchlist.json (mesma lista da UI)
+    wl = _load_json("watchlist.json", [])
+    watch_terms = wl if isinstance(wl, list) else (wl.get("terms", []) if isinstance(wl, dict) else [])
+
+    # entidades regulatórias do dia (DOU + ANEEL aux) — signal 'regulatory'
+    dou_items = (_load_json("dou_history.json", {}) or {}).get("items", []) or []
+    aneel_items = (_load_json("aneel_aux_history.json", {}) or {}).get("items", {}) or {}
+    try:
+        reg_entities = extract_regulatory_entities(aneel_items, dou_items)
+    except Exception:
+        reg_entities = set()
+
+    # resumos + fonte do news_history pra enriquecer o score
+    hist_items = (_load_json("news_history.json", {}) or {}).get("items", {}) or {}
+
+    # dedup por link, enriquecendo com summary/source
+    by_link = {}
+    for src_name, it in news_items:
+        link = it["link"]
+        if link in by_link:
+            continue
+        h = hist_items.get(link, {})
+        by_link[link] = {
+            "title": it["title"], "link": link, "published": it["published"],
+            "summary": h.get("summary") or "", "source": h.get("source") or src_name,
+        }
+    items = list(by_link.values())
+    if not items:
+        return 0
+
+    ranked = rank_news(items, watch_terms, regulatory_entities=reg_entities,
+                       top_n=200, min_score=SCORE_THRESHOLD)
+
+    already = set(state.get("news_score", [])) | set(state.get("news", []))
+    new_matches = [it for it in ranked if it.get("link") and it["link"] not in already]
+
+    if not dry:
+        for it in new_matches[:PUSH_CAP_PER_RUN]:
+            score = round(it.get("_score", 0))
+            notify.send(
+                f"🔥 Top notícia · nota {score}",
+                it.get("title", ""),
+                click=it.get("link"),
+                priority="high",
+                tags=["fire"],
+            )
+
+    seen = set(state.get("news_score", []))
+    seen.update(it["link"] for it in new_matches)
+    state["news_score"] = list(seen)[-STATE_CAP:]
+    print(f"[news_score] {len(new_matches)} alertas novos (nota>={SCORE_THRESHOLD})")
     return len(new_matches)
 
 
@@ -145,7 +190,6 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
     keywords = config.get("dou_keywords", [])
     if not keywords:
         return 0
-
     today = datetime.now().strftime("%d-%m-%Y")
     try:
         hits = dou_collect(today, with_summary=False)
@@ -167,11 +211,10 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
 
     if not dry:
         for hit in new_matches[:PUSH_CAP_PER_RUN]:
-            send_ntfy(
-                config["ntfy_topic"],
+            notify.send(
                 "🏛️ DOU",
                 hit.get("title", "(sem título)"),
-                click_url=dou_link(hit),
+                click=dou_link(hit),
                 tags=["classical_building"],
             )
 
@@ -180,124 +223,18 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
     return len(new_matches)
 
 
-# ============== CVM ==============
-_CVM_ZIP_URL = (
-    "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/IPE/DADOS/"
-    "ipe_cia_aberta_{year}.zip"
-)
-
-# Espelho da config em utilities-interface/lib/cvm.py — mantenha sincronizado.
-_CVM_COMPANIES = [
-    {"label": "Eletrobras",   "patterns": ["axia energia", "eletrobras"]},
-    {"label": "CTEEP / ISA",  "patterns": ["isa energia brasil", "cteep", "transmissao paulista"]},
-    {"label": "Equatorial",   "patterns": ["equatorial"]},
-    {"label": "Cemig",        "patterns": ["cemig", "cia energ minas gerais", "cia energetica de minas gerais"]},
-    {"label": "Copel",        "patterns": ["copel", "companhia paranaense de energia", "cia paranaense de energia"]},
-    {"label": "Light",        "patterns": ["light s.a", "light s/a", "light servicos"]},
-    {"label": "Engie",        "patterns": ["engie brasil"]},
-    {"label": "EDP",          "patterns": ["edp - energias", "energias do brasil"]},
-    {"label": "Neoenergia",   "patterns": ["neoenergia"]},
-    {"label": "Taesa",        "patterns": ["transmissora alianca"]},
-    {"label": "Energisa",     "patterns": ["energisa"]},
-    {"label": "Auren",        "patterns": ["auren"]},
-    {"label": "CPFL Energia", "patterns": ["cpfl"]},
-    {"label": "Sabesp",       "patterns": ["saneamento basico estado", "sabesp"]},
-    {"label": "Copasa",       "patterns": ["saneamento de minas gerais", "copasa"]},
-    {"label": "Sanepar",      "patterns": ["sanepar"]},
-]
-
-
-def _strip_accents(s: str) -> str:
-    return "".join(c for c in unicodedata.normalize("NFD", s) if not unicodedata.combining(c))
-
-
-def _fetch_cvm_year(year: int) -> pd.DataFrame:
-    url = _CVM_ZIP_URL.format(year=year)
-    r = requests.get(url, timeout=60)
-    r.raise_for_status()
-    z = zipfile.ZipFile(io.BytesIO(r.content))
-    csv_name = next(n for n in z.namelist() if n.endswith(".csv"))
-    with z.open(csv_name) as f:
-        df = pd.read_csv(f, sep=";", encoding="latin-1", dtype=str)
-    return df
-
-
-def _label_cvm(df: pd.DataFrame) -> pd.DataFrame:
-    nome_norm = df["Nome_Companhia"].fillna("").map(_strip_accents).str.lower()
-    df = df.copy()
-    df["Empresa"] = None
-    for c in _CVM_COMPANIES:
-        for p in c["patterns"]:
-            mask = nome_norm.str.contains(re.escape(p), na=False, regex=True)
-            df.loc[mask & df["Empresa"].isna(), "Empresa"] = c["label"]
-    return df[df["Empresa"].notna()].copy()
-
-
-def alert_cvm(config: dict, state: dict, dry: bool) -> int:
-    """State['cvm'] guarda apenas protocolos já alertados."""
-    cfg = config.get("cvm", {})
-    target_empresas = set(cfg.get("empresas", []))
-    target_categorias = set(cfg.get("categorias", []))
-    if not target_empresas or not target_categorias:
-        return 0
-
-    year = datetime.now().year
-    try:
-        df = _fetch_cvm_year(year)
-    except Exception as e:
-        print(f"[cvm] erro: {e}", file=sys.stderr)
-        return 0
-
-    df = _label_cvm(df)
-    df = df[df["Empresa"].isin(target_empresas)]
-    df = df[df["Categoria"].isin(target_categorias)]
-
-    alerted = set(state.get("cvm", []))
-    new_matches = []
-    for _, row in df.iterrows():
-        protocol = str(row.get("Protocolo_Entrega", "")).strip()
-        if not protocol or protocol in alerted:
-            continue
-        new_matches.append(row)
-        alerted.add(protocol)
-
-    def _s(val) -> str:
-        """Converte NaN/None pra string vazia (pandas retorna NaN em campos vazios)."""
-        if val is None or (isinstance(val, float) and pd.isna(val)):
-            return ""
-        return str(val)
-
-    if not dry:
-        new_matches.sort(key=lambda r: _s(r.get("Data_Entrega")))
-        for row in new_matches[:PUSH_CAP_PER_RUN]:
-            empresa = _s(row.get("Empresa"))
-            categoria = _s(row.get("Categoria")) or "?"
-            tipo = _s(row.get("Tipo"))
-            assunto = _s(row.get("Assunto")) or tipo or "(sem assunto)"
-            link = _s(row.get("Link_Download"))
-            send_ntfy(
-                config["ntfy_topic"],
-                f"📋 {empresa} · {categoria}",
-                assunto[:200],
-                click_url=link,
-                tags=["scroll"],
-            )
-
-    state["cvm"] = list(alerted)[-STATE_CAP:]
-    print(f"[cvm] {len(new_matches)} alertas novos")
-    return len(new_matches)
-
-
 # ============== MAIN ==============
 def main():
+    # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
+    if CONFIG.get("ntfy_topic"):
+        os.environ.setdefault("NTFY_TOPIC", CONFIG["ntfy_topic"])
+
     state = load_state()
-    # Não tem mais first-run dry mode: agora state só guarda items ALERTADOS,
-    # então mudanças de keyword re-avaliam tudo naturalmente.
-    # PUSH_CAP_PER_RUN limita o burst de notificações.
+    news_items = collect_news()  # fetch uma vez, compartilhado
     total = 0
-    total += alert_news(CONFIG, state, dry=False)
+    total += alert_news(news_items, CONFIG, state, dry=False)
+    total += alert_news_score(news_items, state, dry=False)
     total += alert_dou(CONFIG, state, dry=False)
-    total += alert_cvm(CONFIG, state, dry=False)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 

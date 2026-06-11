@@ -20,6 +20,8 @@ from pathlib import Path
 
 from curl_cffi import requests as cf
 
+import notify
+
 PROCESSES_FILE = Path("sei_processes.json")
 NTFY_TOPIC = "utl-mtc-621qmvsd"
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
@@ -159,20 +161,7 @@ def notify_ntfy(label: str, new_andamentos: list, processo: str):
     if n > 3:
         body_lines.append(f"...e mais {n - 3}")
     body = "\n".join(body_lines)
-
-    try:
-        cf.post(
-            NTFY_URL,
-            data=body.encode("utf-8"),
-            headers={
-                "Title": title.encode("utf-8"),
-                "Priority": "default",
-                "Tags": "page_facing_up",
-            },
-            timeout=10,
-        )
-    except Exception as e:
-        print(f"[ntfy] erro: {e}", file=sys.stderr)
+    notify.send(title, body, tags=["page_facing_up"])
 
 
 def monitor_all():

@@ -24,6 +24,9 @@ jobs:
           # Esses são lidos pelo digest.py no import (mesmo sem usar)
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          # WhatsApp via CallMeBot (opcional — sem isso, cai só no ntfy)
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
       - name: Commit state changes
         run: |
           git config user.name "github-actions[bot]"

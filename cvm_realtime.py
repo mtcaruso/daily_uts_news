@@ -22,6 +22,8 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+import notify
+
 BRT = ZoneInfo("America/Sao_Paulo")
 
 # Empresas alvo com seus codigoCVM (extraídos do CSV anual via cruzamento de nome).
@@ -146,17 +148,6 @@ def save_history(history: dict) -> None:
     )
 
 
-def send_ntfy(title: str, body: str, click_url: str | None = None, tags: list[str] | None = None) -> None:
-    payload = {"topic": NTFY_TOPIC, "title": title, "message": body}
-    if click_url:
-        payload["click"] = click_url
-    if tags:
-        payload["tags"] = tags
-    try:
-        requests.post("https://ntfy.sh", json=payload, timeout=10)
-    except Exception as e:
-        print(f"[ntfy] erro: {e}", file=sys.stderr)
-
 
 def main():
     history = load_history()
@@ -223,10 +214,13 @@ def main():
             continue
         # Monta título
         empresa = item["empresa_label"]
-        cat_emoji = "🚨" if item["categoria"] == "Fato Relevante" else "📋"
+        is_fr = item["categoria"] == "Fato Relevante"
+        cat_emoji = "🚨" if is_fr else "📋"
         title = f"{cat_emoji} {empresa} · {item['categoria']}"
         body = (item["assunto"] or item["tipo"] or "(sem assunto)")[:200]
-        send_ntfy(title, body, click_url=item["link_pdf"], tags=["scroll"])
+        # Fato Relevante = prioridade ALTA (toca/vibra diferente); Comunicado = default.
+        notify.send(title, body, click=item["link_pdf"],
+                    priority="high" if is_fr else "default", tags=["scroll"])
         cvm_alerted.add(item["protocolo"])
         pushed += 1
 

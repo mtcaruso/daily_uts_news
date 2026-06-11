@@ -37,6 +37,7 @@ from pathlib import Path
 from curl_cffi import requests as cf_requests
 
 import gemini_util
+import notify
 
 # Garante UTF-8 no stderr (Windows console pode usar cp1252 e barfa em ✓/✗)
 try:
@@ -373,19 +374,7 @@ def notify_ntfy(new_items: list):
     if n > 5:
         lines.append(f"...e mais {n - 5}")
     body = "\n".join(lines)
-    try:
-        cf_requests.post(
-            NTFY_URL,
-            data=body.encode("utf-8"),
-            headers={
-                "Title": title.encode("utf-8"),
-                "Priority": "default",
-                "Tags": "scroll",
-            },
-            timeout=10,
-        )
-    except Exception as e:
-        print(f"[ntfy] erro: {e}", file=sys.stderr)
+    notify.send(title, body, tags=["scroll"])
 
 
 # ============== MAIN ==============
