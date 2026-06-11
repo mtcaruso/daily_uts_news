@@ -33,6 +33,19 @@ else:
     except Exception as e:
         print(f"Erro ao chamar CallMeBot: {e}")
 
-print("\n=== notify.send (WhatsApp + ntfy) ===")
-ok = notify.send("🧪 Teste 2", "diagnóstico de canal", priority="high")
-print("notify.send entregou em ao menos 1 canal:", ok)
+print("\n=== PREVIEW dos 2 alertas que você vai receber (WhatsApp + ntfy) ===")
+# 1) Exemplo de Fato Relevante (CVM) — é o que chega ~3min após sair
+ok1 = notify.send(
+    "🚨 Eletrobras · Fato Relevante",
+    "[TESTE] Exemplo de como um Fato Relevante vai chegar — em ~3min, prioridade alta.",
+    click="https://www.rad.cvm.gov.br/",
+    priority="high", tags=["scroll"],
+)
+# 2) Exemplo de notícia Top do Dia com nota alta
+ok2 = notify.send(
+    "🔥 Top notícia · nota 78",
+    "[TESTE] Exemplo de notícia com nota >=60 (Top do Dia) — só as de alto sinal.",
+    click="https://example.com",
+    priority="high", tags=["fire"],
+)
+print("FR de teste entregue:", ok1, "| Top-notícia de teste entregue:", ok2)

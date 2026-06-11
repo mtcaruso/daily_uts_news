@@ -362,8 +362,11 @@ def summarize(item: dict, label: str) -> str | None:
 # ============== NTFY ==============
 
 def notify_ntfy(new_items: list):
-    """Manda push pro ntfy quando há legislação nova.
-    Agrupa por tipo, máx 5 items no body."""
+    """Push de legislação nova. DESLIGADO a pedido do usuário (11/06/2026): só
+    FR/Comunicado e Top do Dia >=60 notificam. O scraper segue rodando e
+    atualizando o histórico MME (dashboard continua), só o push foi cortado.
+    Pra reativar, remova o return abaixo."""
+    return
     if not new_items:
         return
     n = len(new_items)

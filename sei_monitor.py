@@ -151,7 +151,11 @@ def save_processes(processes: list):
 
 
 def notify_ntfy(label: str, new_andamentos: list, processo: str):
-    """Manda notificação ntfy pro topic configurado."""
+    """Manda notificação pro canal. DESLIGADO a pedido do usuário (11/06/2026):
+    só FR/Comunicado e Top do Dia >=60 notificam. O scraper segue rodando e
+    atualizando sei_processes.json (o dashboard continua mostrando), só o push
+    foi cortado. Pra reativar, remova o return abaixo."""
+    return
     n = len(new_andamentos)
     title = f"📋 SEI {processo}: {n} movimento{'s' if n > 1 else ''}"
     # Body: até 3 andamentos mais recentes

@@ -230,11 +230,13 @@ def main():
         os.environ.setdefault("NTFY_TOPIC", CONFIG["ntfy_topic"])
 
     state = load_state()
-    news_items = collect_news()  # fetch uma vez, compartilhado
+    news_items = collect_news()  # fetch uma vez (usado pelo score)
     total = 0
-    total += alert_news(news_items, CONFIG, state, dry=False)
+    # A pedido do usuário (11/06/2026): SÓ notificar Top do Dia com nota >=60.
+    # Notícias por keyword (alert_news) e DOU (alert_dou) foram DESLIGADAS — as
+    # funções seguem definidas (fácil reativar), mas não são chamadas. FR/
+    # Comunicado continuam vindo do cvm_realtime/cvm_fast.
     total += alert_news_score(news_items, state, dry=False)
-    total += alert_dou(CONFIG, state, dry=False)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 
