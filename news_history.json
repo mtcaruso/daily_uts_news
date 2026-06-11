@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T18:31:12.945966",
+  "last_updated": "2026-06-11T19:01:40.156721",
   "items": {
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gckk1V0Foa2V5eUZ5Nlg2Y2YxU1g0UXRVekF4ZmktOEF4dV9iMEZjTXA1cm1hMDc4d25QeVZiTGRhaFk4MDZvOXM4eE1NXzU0UWl0N1JR?oc=5": {
       "title": "Tag SLB Global - MegaWhat",
@@ -2720,7 +2720,7 @@
       "source": "",
       "added_at": "2026-06-11T18:31:12.931424",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTEyb0t5M1c5R1Ewdks5eFZfNVNKVndIREdJZTFIX1FBWTM0SDNTWXJaZGFZSUVCa0RZc2huMEp0R0Q5dTBwSEdOZENKWWZjX3RMcUZkYnF2cDMxLVNJS0xGY3lCc1ZBeG1TMmJWNzdFNzg2UHZNMWNyaGx4dTZXLS1vQWNRR3FfZFNvLVlMU2ZqLWNGUHlia0Rvdm85Qm93RFZxSzl5bWlSWG01T3pucGliN0FCMlhPQlJ5VTdTazBlZkVpWl9XQzdzNA?oc=5": {
       "title": "Axia conclui cessão de créditos com Amazonas Energia em operação de R$ 554 milhões - CanalEnergia",
@@ -2728,7 +2728,7 @@
       "source": "",
       "added_at": "2026-06-11T18:31:12.931536",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTEZ1WGh2TWxabDR6akgyQV93YmVNQVAyMWRQV21JOEFTa0dLdTRUS1ZtOTlOUE80cHpybjhzXzlIQTVvRjJTdHlkV2pzTHFnc3hNb1drU2xIeEFLYV93MDF3RlRqYXJ4SXQ3dV9waFBpS2l3LWJaVTJkNV9qWW9SdWZzSEw0UDVPQWxfd3RXQ1FvV2tKSHhwNjJsWl9fekdKcl9zWnpCWVpEQTVOMmFKV0hvNUdFbWF1MVhtRg?oc=5": {
       "title": "CPFL e Copel garantem incentivos para reforços em linhas de transmissão - MegaWhat",
@@ -2736,13 +2736,27 @@
       "source": "",
       "added_at": "2026-06-11T18:31:12.931664",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWRodUVfRURUVkF2dW1CTndzSlByZ0k1Ym1qRmoza0RKSjROZXU0LUhIMUVXeHhHYUs0clRtRVlXbVVlZXMtcW56aTZzeE9iQkxCZV9Oc3RjVWNYSXdWMzlyZDNRY2cwYUt5bkNsOV9lNDl0TW1iaDBFU1BsZFRXS21mNm5kUmYxMVpRVllFQlA5Tm1OdEllRnN0VlV2WG5feXRBTVNKLUppYnM?oc=5": {
       "title": "Espanhola Acciona solicita outorgas para 330 MW em eólicas - MegaWhat",
-      "summary": "A companhia espanhola Acciona protocolou junto à Agência Nacional de Energia Elétrica (Aneel) requerimento de outorga (DRO) para 336 MW em geração eólica, nas usinas Guanambi I a VIII, nos municípios de Guanambi e Pindaí, na Bahia. No país, a Acciona atua em projetos de infraestrutura em saneamento, transportes e infraestrutura portuária.",
+      "summary": "A **Acciona** solicitou à **Aneel** outorgas para **336 MW** em geração eólica na Bahia. A **Aneel** também autorizou mais **64,8 MW** em geração renovável para outras empresas, incluindo **Casa dos Ventos** e **Eneva**, que unificou suas usinas termelétricas **Azulão II e IV** para **602,5 MW**.",
       "source": "",
-      "added_at": "2026-06-11T18:31:12.931838",
+      "added_at": "2026-06-11T18:31:12.931838"
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHdpSmFZRTJFc0RoTFdpUGZaajU0N0cyYXo3ZWNxM0N4c1F3WHhZTEtGMUJNV0dHNnd0dGprSDZxX2pwRFhWdkhOeXFMYVZ2bE5VdzNiUVBwbGNHVE9qQU4zTTgtaGp4LVBQVUg3NVVpNm82a2JuLTQ3RXBLQXJGSUJaZDZ0QmtrVFIzT2p6a1RmU1JLWG9taFZCcHpzd1U4SldadE9GNy1qeUpjZjZzZ0tObGVzMmlEanlBc3A0aFIwc05GMTdSdXdpUndEa000SmfSAdIBQVVfeXFMTWR3aUphWUUyRXNEaExXaVBmWmo1NDdHMmF6N2VjcTNDeHNRd1h4WUxLRjFCTVdHRzZ3dHRqa0g2cV9qcERYVnZITnlxTGFWdmxOVXczYlFQcGxjR1RPakFOM004LWhqeC1QUFVINzVVaTZvNmtibi00N0VwS0FyRklCWmQ2dEJra1RSM09qemtUZlNSS1hvbWhWQnB6c3dVOEpXWnRPRjctanlKY2Y2c2dLTmxlczJpRGp5QXNwNGhSMHNORjE3UnV3aVJ3RGtNNEpn?oc=5": {
+      "title": "Justiça Federal no DF mantém megaleilão bilionário de energia após suspensão e decisão da Aneel - Estadão",
+      "summary": "BRASÍLIA - A Justiça Federal no Distrito Federal manteve o megaleilão de energia realizado pelo governo do presidente Luiz Inácio Lula da Silva em março, negando pela segunda vez um pedido para suspender o processo de formalização do certame. A decisão ocorre após a Justiça Federal do Ceará ter suspendido o resultado do leilão até que a Vara de Brasília se manifestasse.",
+      "source": "",
+      "added_at": "2026-06-11T19:01:33.165772",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhfSkxnMkN6bGt3aXk2aWVzQkpnaDU4akl3bzVlQlpTTnRnTS1vNjFkOTFVb2JEZkkwZkZvLWk5VGNHMEtndlA2dnJoYUZYYlBxN1JSbzI0YmxJSXZJblB0eldWLVVYRVVNQ0ZqcG1rakNDRWY3YXlYRG9NdWt4N25vNEJMN3BwYjFKakt1U0J4VDJDSmNJa2c4aDJ5S3JhVlNyeGhkejctOWszMWFMVkIxY2xOUQ?oc=5": {
+      "title": "ONS terá boletim especial para monitorar impacto da Copa do Mundo - CanalEnergia",
+      "summary": "ONS terá boletim especial para monitorar impacto da Copa do Mundo. O ONS prepara uma operação especial durante a Copa do Mundo de 2026 para monitorar o impacto dos principais jogos no consumo de energia",
+      "source": "",
+      "added_at": "2026-06-11T19:01:33.165834",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
