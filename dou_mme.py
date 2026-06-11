@@ -30,7 +30,10 @@ HISTORY_RETENTION_DAYS = 90
 # 1500 = 1 run consegue processar quase 1 dia inteiro de quota.
 # Cada item leva ~4.2s (rate limit 15 RPM) → 1500 items = ~105 min.
 # GHA tem timeout default de 6h, então fica folgado.
-MAX_SUMMARIZE_PER_RUN = 1500
+MAX_SUMMARIZE_PER_RUN = 200  # era 1500 (outlier grosso): os 4 scrapers dividem a
+# MESMA cota Gemini, e um cap de 1500 deixava o DOU comer o dia inteiro sozinho.
+# 200 alinha com os pares (news=200, aneel=100, mme=50).
+MAX_RERESUME_ATTEMPTS = 3  # qtas vezes re-tentar upgrade LLM de um resumo extrativo
 
 BASE_URL = "https://www.in.gov.br/consulta/-/buscar/dou"
 HEADERS = {"User-Agent": "Mozilla/5.0 (dou-mme-digest)"}
@@ -550,9 +553,14 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
     # items rodavam em loop, gastando tempo + quota Gemini.)
     # Pendentes: sem summary, OU summary extrativo (fallback de Gemini indisponível)
     # → re-resume com LLM quando créditos/quota voltam.
+    # Extractive vira "good enough" e CONGELA após MAX_RERESUME_ATTEMPTS upgrades
+    # tentados — antes, os ~53 extractive eram re-resumidos em TODO run (2x/dia),
+    # vazando cota sem nunca virar LLM quando o Gemini seguia indisponível.
     pending = [
         i for i in history["items"]
-        if not i.get("summary") or i.get("summary_source") == "extractive"
+        if not i.get("summary")
+        or (i.get("summary_source") == "extractive"
+            and int(i.get("reresume_attempts") or 0) < MAX_RERESUME_ATTEMPTS)
     ]
     if not pending:
         print("[summarize] tudo em dia", file=sys.stderr)
@@ -592,8 +600,10 @@ def summarize_pending_history(limit=MAX_SUMMARIZE_PER_RUN):
             item["summary"] = summary
             if summary_source == "extractive":
                 item["summary_source"] = "extractive"  # re-resume com LLM depois
+                item["reresume_attempts"] = int(item.get("reresume_attempts") or 0) + 1
             else:
                 item.pop("summary_source", None)  # upgrade: limpa flag se reresumiu
+                item.pop("reresume_attempts", None)
             done += 1
             consecutive_failures = 0
             tag = "≈" if summary_source == "extractive" else "✓"

@@ -34,6 +34,7 @@ HISTORY_FILE = Path("aneel_aux_history.json")
 DIAGNOSTIC_FILE = Path("aneel_aux_diagnostic.json")
 HISTORY_RETENTION_DAYS = 180  # ANEEL movimentos podem ser referenciados por meses
 MAX_SUMMARIZE_PER_RUN = 100
+MAX_RERESUME_ATTEMPTS = 3  # qtas vezes re-tentar upgrade LLM de um resumo extrativo
 
 # URLs
 NEWS_URL = "https://www.gov.br/aneel/pt-br/assuntos/noticias"
@@ -484,9 +485,13 @@ def main():
     # Skipa items que já têm summary (no_article/summarize_failed continuam reprocessáveis)
     # "Seen" = tem summary LLM. Extrativos (fallback de Gemini indisponível) são
     # re-resumidos com LLM quando créditos/quota voltam.
+    # Extractive CONGELA após MAX_RERESUME_ATTEMPTS upgrades-tentados (antes era
+    # re-resumido em todo run, vazando cota sem nunca virar LLM).
     seen_ids = {
         k for k, v in history["items"].items()
-        if v.get("summary") and v.get("summary_source") != "extractive"
+        if (v.get("summary") and v.get("summary_source") != "extractive")
+        or (v.get("summary") and v.get("summary_source") == "extractive"
+            and int(v.get("reresume_attempts") or 0) >= MAX_RERESUME_ATTEMPTS)
     }
 
     # Coleta listings — em PARALELO: são 4 hosts independentes (gov.br/aneel,
@@ -593,6 +598,8 @@ def main():
             }
             if summary_source == "extractive":
                 entry["summary_source"] = "extractive"  # re-resume com LLM depois
+                _prev = history["items"].get(item["id"], {})
+                entry["reresume_attempts"] = int(_prev.get("reresume_attempts") or 0) + 1
             # Preserva objeto bruto pra items partic (caso reprocesso futuro)
             if item.get("objeto"):
                 entry["objeto"] = item["objeto"]
