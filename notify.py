@@ -90,9 +90,13 @@ def _send_whatsapp(title, message, click=None, retries=2) -> bool:
 
 def send(title, message, click=None, priority="default", tags=None) -> bool:
     """Envia pros canais disponíveis (WhatsApp se configurado + ntfy sempre).
-    Retorna True se PELO MENOS UM canal entregou."""
-    wa = _send_whatsapp(title, message, click=click)
+    Retorna True se PELO MENOS UM canal entregou.
+
+    ntfy PRIMEIRO (push direto = instantâneo) pra não esperar a chamada do
+    WhatsApp. O CallMeBot (free, beta) enfileira e pode atrasar ~até 1min — é
+    característica do serviço deles, não do nosso código."""
     nt = _send_ntfy(title, message, click=click, priority=priority, tags=tags)
+    wa = _send_whatsapp(title, message, click=click)
     if not (wa or nt):
         print(f"[notify] FALHA em TODOS os canais: {title!r}", file=sys.stderr)
     return wa or nt
