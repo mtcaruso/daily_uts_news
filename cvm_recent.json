@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-11T16:00:30.985351-03:00",
+  "last_updated": "2026-06-11T16:30:33.965539-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "1 – Incorporação pela Companhia da Companhia Energética do Jari – CEJAAta",
+      "data_referencia": "20260603 03/06/2026 15:30",
+      "data_entrega": "20260611 11/06/2026 16:09",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1 – Incorporação pela Companhia da Companhia Energética do Jari – CEJA",
+      "protocolo": "1533667",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533667",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-11T16:30:19.748079"
+    },
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "1 – Potencial transferência de participação em ativos da acionista controladora ENGIE Brasil Participações à Companhia.Ata",
+      "data_referencia": "20260602 02/06/2026 16:30",
+      "data_entrega": "20260611 11/06/2026 16:05",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1 – Potencial transferência de participação em ativos da acionista controladora ENGIE Brasil Participações à Companhia.",
+      "protocolo": "1533666",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533666",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-11T16:30:19.748054"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
