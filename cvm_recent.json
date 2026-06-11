@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-11T08:36:12.057144-03:00",
+  "last_updated": "2026-06-11T08:41:04.324010-03:00",
   "items": [
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
+      "especie": "Declaração de Alienação de Participação Acionária Relevante",
+      "data_referencia": "20260611 11/06/2026",
+      "data_entrega": "20260611 11/06/2026 08:38",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1533470",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533470",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-06-11T08:40:48.940307"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
