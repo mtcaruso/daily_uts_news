@@ -5,15 +5,18 @@ cvm_realtime.py, sei_monitor.py, mme_legislacao.py). Envia pros DOIS canais
 (redundância): se um falhar, o outro entrega — era fire-and-forget, agora tem
 retry + fallback.
 
-Canais:
-  - WhatsApp via CallMeBot (https://www.callmebot.com) — PRIMÁRIO, se
-    CALLMEBOT_PHONE + CALLMEBOT_APIKEY estiverem setados. Grátis, uso pessoal.
-  - ntfy.sh — redundância/fallback (sempre, topic em NTFY_TOPIC).
+Canais (envia em TODOS os configurados, por redundância):
+  - ntfy.sh — push direto, INSTANTÂNEO (sempre, topic em NTFY_TOPIC).
+  - Telegram — bot, INSTANTÂNEO e grátis, se TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID.
+  - WhatsApp via CallMeBot — grátis/pessoal, mas enfileira (~até 1min, beta deles),
+    se CALLMEBOT_PHONE + CALLMEBOT_APIKEY.
 
 Env vars:
-  CALLMEBOT_PHONE   número com DDI, ex: +5511999998888. Sem ele, pula WhatsApp.
-  CALLMEBOT_APIKEY  a APIKEY que o CallMeBot devolve na ativação.
-  NTFY_TOPIC        topic do ntfy (default: utl-mtc-621qmvsd).
+  NTFY_TOPIC          topic do ntfy (default: utl-mtc-621qmvsd).
+  TELEGRAM_BOT_TOKEN  token do bot (@BotFather). Sem ele, pula Telegram.
+  TELEGRAM_CHAT_ID    seu chat id (veja getUpdates). Sem ele, pula Telegram.
+  CALLMEBOT_PHONE     número com DDI, ex: +5511999998888. Sem ele, pula WhatsApp.
+  CALLMEBOT_APIKEY    a APIKEY que o CallMeBot devolve na ativação.
 
 CallMeBot tem rate-limit (free, ~1 msg a cada poucos segundos) — ok pro volume
 normal de alertas (0-3/run); o retry com backoff cobre throttle eventual.
@@ -88,15 +91,36 @@ def _send_whatsapp(title, message, click=None, retries=2) -> bool:
     return False
 
 
-def send(title, message, click=None, priority="default", tags=None) -> bool:
-    """Envia pros canais disponíveis (WhatsApp se configurado + ntfy sempre).
-    Retorna True se PELO MENOS UM canal entregou.
+def _send_telegram(title, message, click=None, retries=2) -> bool:
+    """Telegram Bot API — INSTANTÂNEO e grátis. No-op se não configurado."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if not token or not chat_id:
+        return False
+    text = f"{title}\n{message}"
+    if click:
+        text += f"\n{click}"
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    payload = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
+    for attempt in range(retries):
+        try:
+            r = requests.post(url, json=payload, timeout=10)
+            if r.status_code == 200:
+                return True
+            print(f"[notify/telegram] HTTP {r.status_code}: {(r.text or '')[:120]}", file=sys.stderr)
+        except Exception as e:
+            print(f"[notify/telegram] tentativa {attempt+1} falhou: {e}", file=sys.stderr)
+        time.sleep(1.5 * (attempt + 1))
+    return False
 
-    ntfy PRIMEIRO (push direto = instantâneo) pra não esperar a chamada do
-    WhatsApp. O CallMeBot (free, beta) enfileira e pode atrasar ~até 1min — é
-    característica do serviço deles, não do nosso código."""
+
+def send(title, message, click=None, priority="default", tags=None) -> bool:
+    """Envia pros canais configurados, por redundância. Retorna True se PELO
+    MENOS UM entregou. Ordem: INSTANTÂNEOS primeiro (ntfy, Telegram), WhatsApp
+    (CallMeBot) por último — ele enfileira e atrasa ~até 1min (beta deles)."""
     nt = _send_ntfy(title, message, click=click, priority=priority, tags=tags)
+    tg = _send_telegram(title, message, click=click)
     wa = _send_whatsapp(title, message, click=click)
-    if not (wa or nt):
+    if not (nt or tg or wa):
         print(f"[notify] FALHA em TODOS os canais: {title!r}", file=sys.stderr)
-    return wa or nt
+    return nt or tg or wa
