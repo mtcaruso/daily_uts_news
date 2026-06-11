@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T14:34:50.385956",
+  "last_updated": "2026-06-11T14:59:40.784821",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -857,9 +857,9 @@
       "title": "PAUTA DA 12ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
       "date": "16/06/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14764&idAreaNoticia=425",
-      "summary": "Data da Reunião: 16 de junho de 2026. Local: Sala de Reunião da Diretoria, no Edifício Sede da ANEEL, SGAN 603, Módulo I/J, Brasília-DF.",
-      "added_at": "2026-06-11T13:30:50.844287",
-      "summary_source": "extractive"
+      "summary": null,
+      "added_at": "2026-06-11T14:59:40.284073",
+      "error": "no_body"
     }
   }
 }
