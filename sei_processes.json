@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "9ba7e17a7129",
+      "9142c67f8a85",
       "9f9c25d843ff",
       "af8716dc3da3",
       "477dfb16bb8e",
@@ -431,12 +433,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 424,
+    "andamento_count": 426,
     "documento_count": 373,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-12T10:59:45.992208",
+    "last_check_at": "2026-06-12T11:29:34.797469",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/06/2026 11:13",
+        "unidade": "SEL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "9ba7e17a7129"
+      },
+      {
+        "datahora": "12/06/2026 11:06",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "9142c67f8a85"
+      },
       {
         "datahora": "12/06/2026 10:22",
         "unidade": "SEL",
@@ -484,18 +498,6 @@
         "unidade": "SEL",
         "descricao": "Processo recebido na unidade",
         "hash": "6cd8377df06e"
-      },
-      {
-        "datahora": "10/06/2026 09:49",
-        "unidade": "SEL",
-        "descricao": "Processo remetido pela unidade CPL",
-        "hash": "b595209eceab"
-      },
-      {
-        "datahora": "10/06/2026 09:43",
-        "unidade": "SEL",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "a1d388847d17"
       }
     ],
     "last_documentos_top10": [
@@ -619,7 +621,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T10:59:48.442782",
+    "last_check_at": "2026-06-12T11:29:37.291284",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -799,7 +801,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-12T10:59:54.219124",
+    "last_check_at": "2026-06-12T11:29:39.862871",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1202,7 +1204,7 @@
     "documento_count": 131,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T10:59:58.659867",
+    "last_check_at": "2026-06-12T11:29:44.272162",
     "last_andamentos_top10": [
       {
         "datahora": "12/06/2026 08:39",
@@ -1369,7 +1371,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 19,
     "documento_count": 15,
-    "last_check_at": "2026-06-12T11:00:02.150805",
+    "last_check_at": "2026-06-12T11:29:46.752445",
     "last_andamentos_top10": [
       {
         "datahora": "11/06/2026 23:55",
