@@ -107,8 +107,9 @@ def poll_once() -> int:
         title = f"{emoji} {empresa} · {x['category']}"
         body = (x.get("type") or x.get("subject") or "").strip() or "Documento publicado — toque pra ver"
         click = x.get("urlSearch") or PDF_URL.format(proto)
+        # wa_cloud=True: FR/Comunicado também vão pro WhatsApp Cloud (time), se configurado.
         notify.send(title, body, click=click,
-                    priority="high" if is_fr else "default", tags=["scroll"])
+                    priority="high" if is_fr else "default", tags=["scroll"], wa_cloud=True)
         cvm_alerted.add(proto)
 
     # persiste + commita SÓ quando há novo (raro)

@@ -33,13 +33,18 @@ else:
     except Exception as e:
         print(f"Erro ao chamar CallMeBot: {e}")
 
-print("\n=== PREVIEW dos 2 alertas que você vai receber (WhatsApp + ntfy) ===")
-# 1) Exemplo de Fato Relevante (CVM) — é o que chega ~3min após sair
+print("\n=== Diagnóstico WhatsApp Cloud API (Meta, p/ time) ===")
+_wt = os.environ.get("WHATSAPP_TOKEN", ""); _wp = os.environ.get("WHATSAPP_PHONE_ID", "")
+_wr = [r for r in os.environ.get("WHATSAPP_RECIPIENTS", "").split(",") if r.strip()]
+print(f"WHATSAPP_TOKEN presente? {bool(_wt)} | PHONE_ID? {bool(_wp)} | destinatários: {len(_wr)} | template: {os.environ.get('WHATSAPP_TEMPLATE','alerta_cvm')!r}")
+
+print("\n=== PREVIEW dos 2 alertas (ntfy + Telegram + WhatsApp) ===")
+# 1) Exemplo de Fato Relevante (CVM) — vai TAMBÉM pro WhatsApp Cloud (wa_cloud=True)
 ok1 = notify.send(
     "🚨 Eletrobras · Fato Relevante",
-    "[TESTE] Exemplo de como um Fato Relevante vai chegar — em ~3min, prioridade alta.",
+    "[TESTE] Exemplo de como um Fato Relevante vai chegar — prioridade alta.",
     click="https://www.rad.cvm.gov.br/",
-    priority="high", tags=["scroll"],
+    priority="high", tags=["scroll"], wa_cloud=True,
 )
 # 2) Exemplo de notícia Top do Dia com nota alta
 ok2 = notify.send(

@@ -219,8 +219,9 @@ def main():
         title = f"{cat_emoji} {empresa} · {item['categoria']}"
         body = (item["assunto"] or item["tipo"] or "(sem assunto)")[:200]
         # Fato Relevante = prioridade ALTA (toca/vibra diferente); Comunicado = default.
+        # wa_cloud=True: FR/Comunicado também vão pro WhatsApp Cloud (time), se configurado.
         notify.send(title, body, click=item["link_pdf"],
-                    priority="high" if is_fr else "default", tags=["scroll"])
+                    priority="high" if is_fr else "default", tags=["scroll"], wa_cloud=True)
         cvm_alerted.add(item["protocolo"])
         pushed += 1
 

@@ -120,13 +120,65 @@ def _send_telegram(title, message, click=None, retries=2) -> bool:
     return any_ok
 
 
-def send(title, message, click=None, priority="default", tags=None) -> bool:
+def _wa_clean(s: str) -> str:
+    """Sanitiza variável de template do WhatsApp (Meta proíbe newline/tab/4+ espaços)."""
+    return " ".join((s or "").split())[:1000]
+
+
+def _send_whatsapp_cloud(title, message, click=None, retries=2) -> bool:
+    """WhatsApp via Cloud API OFICIAL da Meta (template aprovado) — pra TIME, sem
+    risco de ban, near-real-time. Usado SÓ nos alertas que pedirem (FR/Comunicado).
+    No-op se não configurado.
+
+    Template esperado: body com UMA variável {{1}}. Ex.: "🔔 *Alerta CVM*\\n{{1}}".
+    O texto+link entram em {{1}} (WhatsApp auto-linka a URL).
+
+    Env: WHATSAPP_TOKEN (permanente), WHATSAPP_PHONE_ID, WHATSAPP_RECIPIENTS
+    (números com DDI, vírgula), WHATSAPP_TEMPLATE (nome, default 'alerta_cvm'),
+    WHATSAPP_TEMPLATE_LANG (default 'pt_BR'), WHATSAPP_API_VERSION (default v21.0)."""
+    token = os.environ.get("WHATSAPP_TOKEN", "").strip()
+    phone_id = os.environ.get("WHATSAPP_PHONE_ID", "").strip()
+    recipients = [r.strip() for r in os.environ.get("WHATSAPP_RECIPIENTS", "").split(",") if r.strip()]
+    if not token or not phone_id or not recipients:
+        return False
+    template = os.environ.get("WHATSAPP_TEMPLATE", "alerta_cvm").strip()
+    lang = os.environ.get("WHATSAPP_TEMPLATE_LANG", "pt_BR").strip()
+    ver = os.environ.get("WHATSAPP_API_VERSION", "v21.0").strip()
+
+    text = f"{title} — {message}"
+    if click:
+        text += f" — {click}"
+    components = [{"type": "body", "parameters": [{"type": "text", "text": _wa_clean(text)}]}]
+    url = f"https://graph.facebook.com/{ver}/{phone_id}/messages"
+    headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
+    any_ok = False
+    for to in recipients:
+        payload = {"messaging_product": "whatsapp", "to": to, "type": "template",
+                   "template": {"name": template, "language": {"code": lang}, "components": components}}
+        for attempt in range(retries):
+            try:
+                r = requests.post(url, json=payload, headers=headers, timeout=15)
+                if r.status_code == 200:
+                    any_ok = True
+                    break
+                print(f"[notify/wa-cloud] {to} HTTP {r.status_code}: {(r.text or '')[:180]}", file=sys.stderr)
+            except Exception as e:
+                print(f"[notify/wa-cloud] {to} tentativa {attempt+1}: {e}", file=sys.stderr)
+            time.sleep(1.5 * (attempt + 1))
+    return any_ok
+
+
+def send(title, message, click=None, priority="default", tags=None, wa_cloud=False) -> bool:
     """Envia pros canais configurados, por redundância. Retorna True se PELO
     MENOS UM entregou. Ordem: INSTANTÂNEOS primeiro (ntfy, Telegram), WhatsApp
-    (CallMeBot) por último — ele enfileira e atrasa ~até 1min (beta deles)."""
+    (CallMeBot) por último — ele enfileira e atrasa ~até 1min (beta deles).
+
+    wa_cloud=True → também dispara o WhatsApp Cloud API (Meta oficial, p/ TIME).
+    Reservado pros alertas que pedirem (FR/Comunicado) — não vai em tudo."""
     nt = _send_ntfy(title, message, click=click, priority=priority, tags=tags)
     tg = _send_telegram(title, message, click=click)
     wa = _send_whatsapp(title, message, click=click)
-    if not (nt or tg or wa):
+    wc = _send_whatsapp_cloud(title, message, click=click) if wa_cloud else False
+    if not (nt or tg or wa or wc):
         print(f"[notify] FALHA em TODOS os canais: {title!r}", file=sys.stderr)
-    return nt or tg or wa
+    return nt or tg or wa or wc
