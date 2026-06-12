@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:32:40.535942",
+  "last_updated": "2026-06-12T11:57:49.183440",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2980,6 +2980,32 @@
       "summary": "Estabelece diretrizes e responsabilidades para uso de APP e borda de reservatórios de usinas hidrelétricas para aquicultura. Define regras para a atividade, visando a sustentabilidade e a geração de energia.",
       "added_at": "2026-06-11T08:40:29.693823",
       "summarized_at": "2026-06-11T14:35:34.861791"
+    },
+    "portarias_portaria-gm-mme-n-57-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-57-2026",
+      "title": "Portaria GM/MME nº 57/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-57-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-57-2026.pdf",
+      "date_modified": "12/06/2026",
+      "ementa": "Nomeia ISABELLA CAMPOS PEREIRA, CPF nº ***.537.886-**, para exercer o Cargo Comissionado Executivo de Assessor Técnico da Assessoria de Cerimonial da Assessoria Especial de Apoio ao Ministro de Estado de Minas e Energia, código CCE 2.10.",
+      "summary": "Nomeia **ISABELLA CAMPOS PEREIRA** para o Cargo Comissionado Executivo de Assessor Técnico da Assessoria de Cerimonial.",
+      "added_at": "2026-06-12T11:57:38.708969",
+      "summarized_at": "2026-06-12T11:57:43.712819"
+    },
+    "portarias_portaria-mme-n-82-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-82-2026",
+      "title": "Portaria MME nº 82/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-82-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-82-2026.pdf",
+      "date_modified": "12/06/2026",
+      "ementa": "Exonera, a pedido, ANTÔNIO FERNANDO COSTA PELLA, CPF nº ***.471.697-**, do Cargo Comissionado Executivo de Gerente de Projeto da Subsecretaria de Assuntos Econômicos e Regulatórios, da Secretaria-Executiva, código CCE 3.13, a partir de 8 de junho de 2026.",
+      "summary": "Exonera **ANTÔNIO FERNANDO COSTA PELLA** do Cargo Comissionado Executivo de Gerente de Projeto a partir de **8 de junho de 2026**.",
+      "added_at": "2026-06-12T11:57:38.708969",
+      "summarized_at": "2026-06-12T11:57:48.683075"
     }
   },
   "first_run_done": true
