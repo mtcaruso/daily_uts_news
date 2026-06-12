@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T10:29:36.745732",
+  "last_updated": "2026-06-12T10:59:41.989929",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -875,6 +875,18 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-divulga-segunda-edicao-de-2026-do-boletim-infotarifas",
       "summary": "A **ANEEL** divulgou a segunda edição do InfoTarifas 2026, com um efeito médio tarifário nacional de **8,6%** para o ano. Consumidores de **22 distribuidoras** terão descontos devido à utilização de recursos de Uso do Bem Público para modicidade tarifária em regiões da Sudam/Sudene.",
       "added_at": "2026-06-12T10:29:36.245050"
+    },
+    "partic_ts_017_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 017/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=TU4Mcwy8&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4024&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão tarifária da usina cotista Jaguari, conforme art. 7º da Portaria **MME nº 117/2013**.",
+      "added_at": "2026-06-12T10:59:41.488702",
+      "objeto": "Obter subsídios da Revisão Tarifária da usina cotista Jaguari, conforme previsto no art. 7º do Anexo da Portaria nº 117/2013 do Ministério de Minas e Energia.",
+      "deadline": "13/07/2026",
+      "start_date": "12/06/2026",
+      "fonte": "ANEEL"
     }
   }
 }
