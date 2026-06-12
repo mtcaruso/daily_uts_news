@@ -6,6 +6,12 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "071ce36fc8d5",
+      "47e72fb3a7c1",
+      "0ee392e1fce3",
+      "1eacab64d912",
+      "71f134cd1b83",
+      "81e8332184ec",
       "9ba7e17a7129",
       "9142c67f8a85",
       "9f9c25d843ff",
@@ -433,12 +439,48 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 426,
+    "andamento_count": 432,
     "documento_count": 373,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-12T11:29:34.797469",
+    "last_check_at": "2026-06-12T17:04:27.075443",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/06/2026 16:41",
+        "unidade": "GDG",
+        "descricao": "Processo recebido na unidade",
+        "hash": "071ce36fc8d5"
+      },
+      {
+        "datahora": "12/06/2026 16:15",
+        "unidade": "SEL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "47e72fb3a7c1"
+      },
+      {
+        "datahora": "12/06/2026 15:09",
+        "unidade": "GDG",
+        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+        "hash": "0ee392e1fce3"
+      },
+      {
+        "datahora": "12/06/2026 15:08",
+        "unidade": "SEL",
+        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+        "hash": "1eacab64d912"
+      },
+      {
+        "datahora": "12/06/2026 13:51",
+        "unidade": "CPL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "71f134cd1b83"
+      },
+      {
+        "datahora": "12/06/2026 12:14",
+        "unidade": "CPL",
+        "descricao": "Processo remetido pela unidade SEL",
+        "hash": "81e8332184ec"
+      },
       {
         "datahora": "12/06/2026 11:13",
         "unidade": "SEL",
@@ -462,42 +504,6 @@
         "unidade": "PROCURADORIA FEDERAL",
         "descricao": "EM ATENÇÃO PARECER Nº 00132/2026/PF",
         "hash": "af8716dc3da3"
-      },
-      {
-        "datahora": "12/06/2026 08:03",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo recebido na unidade",
-        "hash": "477dfb16bb8e"
-      },
-      {
-        "datahora": "12/06/2026 00:42",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
-        "hash": "3b87374339c1"
-      },
-      {
-        "datahora": "12/06/2026 00:42",
-        "unidade": "SGE -SORTEIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "79bb9552a6c8"
-      },
-      {
-        "datahora": "11/06/2026 11:34",
-        "unidade": "SEL",
-        "descricao": "Processo 48500.016633/2026-72 anexado",
-        "hash": "249ad0cc08ce"
-      },
-      {
-        "datahora": "10/06/2026 16:51",
-        "unidade": "CPL",
-        "descricao": "Disponibilizado acesso externo para Paulo Gesteira Costa Filho ( [email&#160;protected] ) até 08/10/2026 (120 dias). Para disponibilização de documentos. Por orientação do presidente da CPL, encaminha-se acesso ao Memorando 3/2026-CPL, conforme procuração apresentada.",
-        "hash": "6e609d780d96"
-      },
-      {
-        "datahora": "10/06/2026 09:49",
-        "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "6cd8377df06e"
       }
     ],
     "last_documentos_top10": [
@@ -621,7 +627,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T11:29:37.291284",
+    "last_check_at": "2026-06-12T17:04:30.626621",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -801,7 +807,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-12T11:29:39.862871",
+    "last_check_at": "2026-06-12T17:04:33.161101",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -944,6 +950,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "b9cb00b708da",
       "cf7f1a90cdcf",
       "b9d5c50198ed",
       "9bb77a29349a",
@@ -1200,12 +1207,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 255,
+    "andamento_count": 256,
     "documento_count": 131,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T11:29:44.272162",
+    "last_check_at": "2026-06-12T17:04:39.503646",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/06/2026 14:30",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "b9cb00b708da"
+      },
       {
         "datahora": "12/06/2026 08:39",
         "unidade": "SFT",
@@ -1259,12 +1272,6 @@
         "unidade": "ASD - APOIO",
         "descricao": "Conclusão do processo na unidade",
         "hash": "36d66b264ae3"
-      },
-      {
-        "datahora": "20/05/2026 16:28",
-        "unidade": "ASD - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "99795eeea6b6"
       }
     ],
     "last_documentos_top10": [
@@ -1371,7 +1378,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 19,
     "documento_count": 15,
-    "last_check_at": "2026-06-12T11:29:46.752445",
+    "last_check_at": "2026-06-12T17:04:41.916285",
     "last_andamentos_top10": [
       {
         "datahora": "11/06/2026 23:55",
