@@ -1,9 +1,9 @@
 {
-  "last_run": "2026-06-12T09:59:32.298894",
+  "last_run": "2026-06-12T10:29:36.749961",
   "news_count": 30,
-  "pautas_count": 15,
-  "pending": 0,
-  "done": 0,
+  "pautas_count": 0,
+  "pending": 1,
+  "done": 1,
   "failed": 0,
   "pruned": 0
 }

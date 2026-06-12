@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "9f9c25d843ff",
+      "af8716dc3da3",
       "477dfb16bb8e",
       "3b87374339c1",
       "79bb9552a6c8",
@@ -429,12 +431,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 422,
-    "documento_count": 371,
+    "andamento_count": 424,
+    "documento_count": 373,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-12T09:59:36.135407",
+    "last_check_at": "2026-06-12T10:29:41.767944",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/06/2026 10:22",
+        "unidade": "SEL",
+        "descricao": "Processo remetido pela unidade PROCURADORIA FEDERAL",
+        "hash": "9f9c25d843ff"
+      },
+      {
+        "datahora": "12/06/2026 10:21",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "EM ATENÇÃO PARECER Nº 00132/2026/PF",
+        "hash": "af8716dc3da3"
+      },
       {
         "datahora": "12/06/2026 08:03",
         "unidade": "SGE - PUBLICAÇÃO",
@@ -482,18 +496,6 @@
         "unidade": "SEL",
         "descricao": "Conclusão do processo na unidade",
         "hash": "a1d388847d17"
-      },
-      {
-        "datahora": "10/06/2026 09:40",
-        "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "6dafe550faab"
-      },
-      {
-        "datahora": "10/06/2026 09:40",
-        "unidade": "SEL",
-        "descricao": "Processo remetido pela unidade CPL",
-        "hash": "fb71c5e1d46a"
       }
     ],
     "last_documentos_top10": [
@@ -617,7 +619,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T09:59:39.677240",
+    "last_check_at": "2026-06-12T10:29:45.273762",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -797,7 +799,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-12T09:59:42.206576",
+    "last_check_at": "2026-06-12T10:29:48.855244",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1197,10 +1199,10 @@
       "3b6d0240376f"
     ],
     "andamento_count": 255,
-    "documento_count": 130,
+    "documento_count": 131,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T09:59:45.656058",
+    "last_check_at": "2026-06-12T10:29:53.268584",
     "last_andamentos_top10": [
       {
         "datahora": "12/06/2026 08:39",
