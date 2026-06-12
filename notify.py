@@ -92,26 +92,32 @@ def _send_whatsapp(title, message, click=None, retries=2) -> bool:
 
 
 def _send_telegram(title, message, click=None, retries=2) -> bool:
-    """Telegram Bot API — INSTANTÂNEO e grátis. No-op se não configurado."""
+    """Telegram Bot API — INSTANTÂNEO e grátis. No-op se não configurado.
+    TELEGRAM_CHAT_ID aceita VÁRIOS destinos separados por vírgula (ex.: seu
+    privado + um grupo com colegas, ou vários ids). Retorna True se ao menos um
+    destino recebeu."""
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-    if not token or not chat_id:
+    chat_ids = [c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()]
+    if not token or not chat_ids:
         return False
     text = f"{title}\n{message}"
     if click:
         text += f"\n{click}"
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    payload = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
-    for attempt in range(retries):
-        try:
-            r = requests.post(url, json=payload, timeout=10)
-            if r.status_code == 200:
-                return True
-            print(f"[notify/telegram] HTTP {r.status_code}: {(r.text or '')[:120]}", file=sys.stderr)
-        except Exception as e:
-            print(f"[notify/telegram] tentativa {attempt+1} falhou: {e}", file=sys.stderr)
-        time.sleep(1.5 * (attempt + 1))
-    return False
+    any_ok = False
+    for chat_id in chat_ids:
+        payload = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
+        for attempt in range(retries):
+            try:
+                r = requests.post(url, json=payload, timeout=10)
+                if r.status_code == 200:
+                    any_ok = True
+                    break
+                print(f"[notify/telegram] chat {chat_id} HTTP {r.status_code}: {(r.text or '')[:100]}", file=sys.stderr)
+            except Exception as e:
+                print(f"[notify/telegram] chat {chat_id} tentativa {attempt+1}: {e}", file=sys.stderr)
+            time.sleep(1.5 * (attempt + 1))
+    return any_ok
 
 
 def send(title, message, click=None, priority="default", tags=None) -> bool:
