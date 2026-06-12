@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T09:01:38.612142",
+  "last_updated": "2026-06-12T09:31:08.425154",
   "items": {
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gckk1V0Foa2V5eUZ5Nlg2Y2YxU1g0UXRVekF4ZmktOEF4dV9iMEZjTXA1cm1hMDc4d25QeVZiTGRhaFk4MDZvOXM4eE1NXzU0UWl0N1JR?oc=5": {
       "title": "Tag SLB Global - MegaWhat",
@@ -2798,7 +2798,7 @@
       "source": "",
       "added_at": "2026-06-12T08:34:05.419344",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVTNaY09EUS1PQmVOQlJYdnlEc1cwNDE3R0M2NG1LQWtHRFdBYUgzRFkyNkRxaUlyOHJibWQ0ajhRTEx3NkY0WUwxRTlkRDk1aVlKek94QjZPVHcwZktWRko0T192ZTlRZlh6TGtIVGd0cElFaXJTcjFiZFM2aXNQX2E3VW5pOW1KbDc4dUNvUjVqN2dlaU9wY3Q1VWJINVRyWWVGRFM4M3JzZEJ6WmN3VlJHSEQ0ZzZjdkZBbGFiendDRVItQklCZUJnUXpxbmpaVGZ3YkFqaXZnbm10T0hVV19OakVmZ09oY1ZvNnVacG1fSU9ZS3J0SmdwT0k3TkFD0gGPAkFVX3lxTFBlMTVJUmtQcllBSmNFajJYdkR2STJQSGdUWS1pcnRrZFE4WTZzdEk3RFZLYU5OT016YUNpQTVGc0Q2TUozaVhyVGpsY3M0MGs1TVBfVFVEQjlTZ1kxYWlhQllvUVRNNzNJZy1xamRBQzVKaUtXTmlCYk0wOHRDdDRLeGljYVBEREdad1FYdzQ0NFZxT3F6TW5pREd1TVk1Y2VrcmV5NDAwUGNwQWVqRTJhTEd3QUZ6a0Fjd0V6dVRVT2FOR3VFT2REN2FFekxjT3lvY1ZVMXRDMzE2M2ZyNnU3UkhUaTl0TjFwUEZKRTA0a3huSFM2M2dLVmhTNHlkYVRIbklwV2ZQTFozdU1OSDQ?oc=5": {
       "title": "Agenda de empresas: Copasa conclui oferta de privatização; Previ pede destituição de presidente do conselho da Vale - Valor Econômico",
@@ -2863,6 +2863,18 @@
       "summary": "As ações da **Cemig** e **Copasa** atingiram máximas intradia, com alta superior a **20%**, após a ida de Romeu Zema (Partido Novo), favorável à privatização, para o segundo turno da eleição em Minas Gerais. O resultado eleitoral impulsionou o mercado, refletindo o otimismo com a perspectiva de privatizações das estatais.",
       "source": "",
       "added_at": "2026-06-12T08:34:34.721948"
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQTV9MWl9RUzNTeVBLUjdPYmVJRFRVaDRlemFhb19rMVdCQ3lWTGYxZDJyMW93REtzYVlFSW5jWFlGYThESWthVmJJbjQzMFJ1OVZSZVQxV2tKLU82NVNZMzhyVVpKT0JtWEI5aGNadURFY0t6UWo0Z3h5OFVzbV9RaHoxNkFtd3o1dzRUZExkYVhVdlU0dVJ0YlFKc0dyUQ?oc=5": {
+      "title": "TIM amplia geração própria de energia renovável - CanalEnergia",
+      "summary": "A **TIM** expandiu sua geração própria de energia renovável, produzindo **70%** da eletricidade consumida em **136 usinas** (solares, hídricas, biogás) em **23 estados** e no DF. A estratégia, iniciada em 2017, agora foca em eficiência e IA, com aquisição de energia renovável no mercado livre e I-RECs.",
+      "source": "",
+      "added_at": "2026-06-12T09:31:08.413307"
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1BOVFpfMUMyR1FkeFdzdzU4dDFRd3k4WUFfNGNreGZpUExsMWxWbjZKTElxX1RWbXVkX0VWRlFLQ0EyVWhoQ2VndlZ2RjZYd0VJbDVSTW9hOGNCRVRETVlkdDl1dHlHS0FEeWdaRjZkS0hLdG5SYmhhYWVQb2JkNjhlM0k5UFdhNVg3dTUzNlppN1FEaGpNSUk2VEZRMGh6NjQtaC1NWkNvdUx3VkE4ZEc2akpYUkwwZzdkczc1Qmt1RUU?oc=5": {
+      "title": "O valor invisível das PCHs em um novo ciclo do mercado elétrico - MegaWhat",
+      "summary": "Pequenas Centrais Hidrelétricas (**PCHs**) ganham destaque no setor elétrico brasileiro com a Lei nº **15.269/2025**, que prevê a contratação de **4.900 MW** de usinas de até **50 MW**. Investidores reavaliam **PCHs** como ativos estratégicos pela confiabilidade e segurança que oferecem ao Sistema Interligado Nacional (SIN), especialmente em processos de fusões e aquisições onde a qualidade regulatória e jurídica é crucial.",
+      "source": "",
+      "added_at": "2026-06-12T09:31:08.413383"
     }
   }
 }
