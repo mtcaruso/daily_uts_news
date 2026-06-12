@@ -433,7 +433,7 @@
     "documento_count": 371,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-12T08:32:03.906017",
+    "last_check_at": "2026-06-12T08:59:39.732392",
     "last_andamentos_top10": [
       {
         "datahora": "12/06/2026 08:03",
@@ -617,7 +617,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T08:32:07.456616",
+    "last_check_at": "2026-06-12T08:59:42.198011",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -797,7 +797,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-12T08:32:11.059941",
+    "last_check_at": "2026-06-12T08:59:44.713243",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -940,6 +940,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "cf7f1a90cdcf",
       "b9d5c50198ed",
       "9bb77a29349a",
       "24d590a94a83",
@@ -1195,12 +1196,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 254,
+    "andamento_count": 255,
     "documento_count": 130,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-12T08:32:14.421889",
+    "last_check_at": "2026-06-12T08:59:49.487725",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/06/2026 08:39",
+        "unidade": "SFT",
+        "descricao": "Processo recebido na unidade",
+        "hash": "cf7f1a90cdcf"
+      },
       {
         "datahora": "12/06/2026 07:55",
         "unidade": "SGI",
@@ -1254,12 +1261,6 @@
         "unidade": "ASD - APOIO",
         "descricao": "Reabertura do processo na unidade",
         "hash": "99795eeea6b6"
-      },
-      {
-        "datahora": "18/05/2026 11:00",
-        "unidade": "DIR - AMAC",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "82181b0dd354"
       }
     ],
     "last_documentos_top10": [
@@ -1366,7 +1367,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 19,
     "documento_count": 15,
-    "last_check_at": "2026-06-12T08:32:16.933725",
+    "last_check_at": "2026-06-12T08:59:51.957426",
     "last_andamentos_top10": [
       {
         "datahora": "11/06/2026 23:55",

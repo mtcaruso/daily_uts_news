@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-12T08:33:03.447996-03:00",
+  "last_updated": "2026-06-12T09:00:40.602837-03:00",
   "items": [
+    {
+      "cnpj_short": "00245-3",
+      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Fato Relevante - Nova Composição da Diretoria Executiva -",
+      "data_referencia": "20260612 12/06/2026",
+      "data_entrega": "20260612 12/06/2026 08:57",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Fato Relevante - Nova Composição da Diretoria Executiva",
+      "protocolo": "1533939",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533939",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "2453",
+      "first_seen": "2026-06-12T09:00:22.280687"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
