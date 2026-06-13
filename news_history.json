@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:34:18.603309",
+  "last_updated": "2026-06-13T08:32:29.954632",
   "items": {
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gckk1V0Foa2V5eUZ5Nlg2Y2YxU1g0UXRVekF4ZmktOEF4dV9iMEZjTXA1cm1hMDc4d25QeVZiTGRhaFk4MDZvOXM4eE1NXzU0UWl0N1JR?oc=5": {
       "title": "Tag SLB Global - MegaWhat",
@@ -3052,11 +3052,11 @@
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVmpZODlkd1Rfb2dwckUyQS1YY1ZtTFpDS0JIVXlzZlVnS3oycDJKVEVyUTk1TE8zYl85VkJheWptMjVLU1RCdTdGQ1F6WmZYUS1mSFRzUmFEV2pFUjBuZ0w1RUJlY2dPLWJoZkdJVXRQb2lwZExBZmVkWTgxZjZSTWU5ZmprblY3YmUwcmVscGdtYXRtbENORHliUDdaU0ZyejZaak1CN2dPbDZsSDRKaU92dWFCTjJBMjk4SElTRnJaLWxSTmpPMTBGZ0dwMjFKdzFNcg?oc=5": {
       "title": "Demanda por energia pode dobrar até 2055 e exigirá expansão da infraestrutura, aponta EPE - CanalEnergia",
-      "summary": "Demanda por energia pode dobrar até 2055 e exigirá expansão da infraestrutura, aponta EPE. PNE prevê avanço da eletrificação e da bioenergia, destaca eficiência energética e projeta matriz com mais de 80% de renováveis",
+      "summary": null,
       "source": "",
       "added_at": "2026-06-12T19:34:05.204743",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTE1VjIxdnJVTnA2TmRfZ0k5d3JqdFVOeVAtSGtoVWlidFlBbmdQeHNoSFZVRWhYOV9QZWpFOXVMcWJ5VDJVczJjOEd1VEJGSDExTUV5d3BUTjM2VER6M01XMzFfUVQ2VlA0cW45eWd6bUJrem94TDJPN2JoSzhZOWs4N1JiUUpiUWpnYjRvWmdnMkJsWUkwWUY0VmZrRlU4VnlZaUx2UG9NU2tZTjBHaTg3LVdMYjZURXFQZkVOQ1JSRy1vVE5MT9IB1wFBVV95cUxQVmpYbHVYRTNzTmZCMnhnOHFEbVJIbkJEa1AwNnRzdkczV3dyM2tQOEszNGprTllaTnlObHEydm81Tjlxa1FadlJvYmFfdTB6RWZ3OUFkaEpUMFBiemZOSDRZbEFXeXNPR2FkOXBFdkRGal9xZ3dmZmViLURUeUV5RmVfWU9FZ0xHV0dyYVk5ZUx5cFdfNmJhSHhxZGRUSm5oZ1ByNnF4Q1k5cGV3T1RveEZnbWY0aDhoLV9BRFJxS3VCZkc3N042U29fbGdWXy1CRUZ5QkUzSQ?oc=5": {
       "title": "Trafigura, de Cingapura, entra no mercado livre de eletricidade do Brasil - Valor Econômico",
@@ -3224,25 +3224,93 @@
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ05kVmhzR19nMTNpSndUMERELXcwVDFRTm5OeHhVaVYxc3BIOElRSXJ1RWt6SzU3eEtqSXp6a2NsNjc3RU5OaHk4eFh4VGpRRDhOOUlfY0h3SFM2RmFzMkJqVXVRN3R6cXFfMl8wcnJoXzc2N0Jkb1Bvb3FGcURGekZnNFZqclVEMFhZX3JlOW0ybGg1d1Zoa0VlVTdQa3JaWGhnZV9uNElNNjJ1UTh1TXRaV3VRX05pYzBZbjB1ZGUzVWdGQ0E?oc=5": {
       "title": "Prumo firma acordo de compra de 22,11% da Siemens na termelétrica GNA I - MegaWhat",
-      "summary": "A Prumo Logística firmou acordo para adquirir a participação de 22,11% detida pela Siemens na usina termelétrica GNA I, localizada no Porto do Açu, no Rio de Janeiro. O empreendimento opera uma usina termelétrica a gás natural em ciclo combinado, com capacidade instalada de aproximadamente 1.338,3 MW, e um terminal de regaseificação de gás natural liquefeito (GNL), com capacidade de até 21…",
+      "summary": "A **Prumo Logística** firmou acordo para comprar **22,11%** da **Siemens** na termelétrica **GNA I**, no Porto do Açu (RJ). A usina, com capacidade de **1.338,3 MW**, entrou em operação em setembro de 2021 após **US$ 1 bilhão** em investimentos. A operação aguarda aprovação do **Cade**.",
       "source": "",
-      "added_at": "2026-06-12T17:10:42.676767",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-06-12T17:10:42.676767"
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWphZXlNRVFSRUMzVnFFcENBNzNtSXZraG5RaWlveGZnVS1EcVlPLWVWX3RvX0N3UFRad2FIcU9JSDNRTElZRlZVcFpPZU84M0tNenQwVFZPOE1kSkVhLTlMTElEeVIxNnlJZ21kZ1pocGk3SFByY0RxZEJ6cUlTb3Zfc1lhNDctenozRGJ4YkRTSnhLa0VVWGs3QkxZVnpqU2Fj?oc=5": {
-      "title": "‘Gato solar’: associações se manifestam contra expansão irregular de MMGD - Agência iNFRA",
+      "title": "‘Gato solar’: Associações se manifestam contra expansão irregular de MMGD - Agência iNFRA",
       "summary": "da Agência iNFRA A Absolar (Associação Brasileira de Energia Solar Fotovoltaica) e a ABGD (Associação Brasileira de Geração Distribuída) divulgaram nota conjunta nesta sexta-feira (12) repudiando práticas irregulares no segmento de MMGD (micro e minigeração distribuída). As entidades afirmaram acompanhar com atenção e preocupação o debate recente sobre o tema, que está na ANEEL (Agência Nacional…",
       "source": "",
       "added_at": "2026-06-12T17:33:52.612919",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQei1GTXF1S1JkUWo1NDF6VmJzenBtaTdheWowUDJtVkNGVURDWjc2aWZmZk85Wkw5Y3JpbmFuaXRiZ1dqMG8wbzNWQjh4a2pILUpnM21JTHhYS1Q1UWRUdDBXdzd6M2ROcERRX3dZTHV3MGIwT0dGRzVLam5NQkNGd3g3R1NHVko4UC1XTl9zYlgwNzNoUFBXTVJXcWotTUdWNXdFVml3?oc=5": {
       "title": "ANP adia mudanças no GLP para focar em subvenção a combustíveis - MegaWhat",
-      "summary": "A diretoria colegiada da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) decidiu suspender ações regulatórias, com a justificativa de priorizar recursos para medidas de mitigação dos efeitos do conflito no Oriente Médio no mercado de combustíveis brasileiro, como subvenções econômicas ao diesel, à gasolina e ao GLP, e fiscalização de possíveis elevações abusivas de preços. Um…",
+      "summary": "A **ANP** adiou a revisão do marco regulatório do **GLP** para priorizar recursos na subvenção a combustíveis como diesel, gasolina e GLP, devido ao conflito no Oriente Médio. A decisão suspende discussões sobre mudanças na distribuição e revenda de botijões de gás, previstas para votação em 12 de junho.",
       "source": "",
-      "added_at": "2026-06-12T17:34:06.810384",
+      "added_at": "2026-06-12T17:34:06.810384"
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE52T3N2U0dtc2h3ci1kSWdSSDNwTFFTeDVuR1lyZDFXUW0wTk9CeERVc3EzYmpYNy1IYVkzSjg1ejI0cS1OMEZUWWtXOXFBazlLNE5yZjFOZWNKclgxZW84NVg4WWtOdHRZUDYxWmZVQWU2czVwbXJmVEVNSkE1dw?oc=5": {
+      "title": "EQUATORIAL S.A. – 1534080 - estadaori.estadao.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-13T08:31:49.102130",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVljTy1pcGpBMTR5SnlOQnBqTS1wM2F1LU5TbE5jTENTTEptR0htRWRhTFdtUktWUGtZZ2t2d0JjODRUVS03alRtWi1LRFhYNEhreEFUR1J4cm11aUw3Wm0tZVlHZDZaQXBnUF9BeHRJQjJBalZ0QW9CX2ZHd1U2V0M5VUozTnFmeUpvQ0tWU1o3LWZmV1BEejRROEQxOElS?oc=5": {
+      "title": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG – 1533944 - estadaori.estadao.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-13T08:31:51.704252",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJBdllIN2RSUW9IeFhUdE93b0d1ckdMWlJjazlFNUZlTVJYVjNTQTFxQl9Iamgyb0dDMkRqeXp1bkhsclJiWXdJSXlielZYQVo5SGNOQ0hSeTQ2UENUWUNhS0hPcDE1VEN6MXBPVzdHZ2ZETG4tSngtXzIwMzVxY1pIRVpFUjF6TmJ1WTQyNWoxR3NIMHBJb2Jpc0lBNnBn?oc=5": {
+      "title": "ONS mantém projeção de alta de 0,9% na carga do SIN em junho - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-13T08:32:00.756803",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3c1UnFVejBVR3hIQnU0RWN4OGxJd3RYSWtyX0FDUFU4Rnpaa19xUHFSbVhyYnJ3VjdNdUx4M296Mk5TU3RKbWRLQnZXclhXQk9rcGtydUxVVk9mb1ZORngxUFZ6X2Z3NFJCcTNiejR3N3phVVcxcG1Xa25kQ052eE5fY2ZmcFRCOEEwWTM4RlU2SnFmbFFaX1hiOS1KdEdFTHV5Qw?oc=5": {
+      "title": "El Niño + planeta mais quente: O Brasil está preparado? - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-13T08:32:02.432101",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGFKcUhxZDJHWV9zMEtHNkhpZjM2QmZvUmhudUlYWW5uTkJhc1JreTdpbGZsS2xLRUFvNnplaTdnbW0zTG5NLXJTaGh5WTVna1BNU2RzM1prYVp3cnRxdDVVcDV5WnBDNlZObG1ydHNGUnpZUkhneDZNcnIxTGliRHFDNXdXMFNzYWotT29ENWZqNmYyX3IwMWYwdzJSZUgwWGc2X0Y4MFh4V1Nwc0hoM3MzaDQ4SmNQ?oc=5": {
+      "title": "Transição energética ganha novo instrumento de planejamento no país - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-13T08:32:04.114904",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDBMVHlzRXo2SVpoSUYySGgtTEpiandNM3R2MVNzc3V3RGwyNXBFSW1iV1VqY0ItM05yLV92dzg5YUJsa0xIS3I5a2M3VEVteEVxRGg2dlFVVl8wWnZFOWZJNW92czlEMHRIQVF0QjNvYjlabTc1SjFRbFU5QXZSZTBCUzd6ZUtGTFpHVXlSMG1TdkM4SDdTMER3QUJERkxCQ3VGYko1eE1wQUY4U1VRTlhMTFFrOFdQa0ZXeGZva9IBzgFBVV95cUxPbXNkcDJHZEZ5N09iSlI1eGQ2U1ZjWWxXeDBnQmx1TFRvWUNzY2p4cUR0eW9IOWU2RFdObXp3ckJaQ01hY2VSMlVaS2pjaEFsNGc5UG5DZWJKZ3Q2VmQ3aGppSi02VmdfLS00S1dqUG5YeDJZZk1LT3dPcElCbV9OTHROSHAxYUh6cE1JVVFDcV90WV9MUFJBNDNTUXpTa2hEZ2t1b08tT1B1cXpYMGl5Zm42T1VIS0d6YlBKaTBuQkxRM2VSNUVzODdjUVFVZw?oc=5": {
+      "title": "Alimentação e energia puxaram alta do IPCA em maio; combustíveis ajudaram a segurar a inflação - Valor Econômico",
+      "summary": "Alimentação e energia puxaram alta do IPCA em maio; combustíveis ajudaram a segurar a inflação Grupo respondeu por 0,29 ponto percentual da alta de 0,58% do IPCA do período, ou metade do aumento A inflação de maio foi marcada por pressão vinda da alimentação e da energia elétrica, mas com efeitos mitigados pela queda nos preços de combustíveis, mostrou o Índice de Preços ao Consumidor Amplo…",
+      "source": "",
+      "added_at": "2026-06-13T08:32:20.024596",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3FWMVBybjl3MEpXdENLZnhrbjNBMzZBQXhCRkxRQ2hwNVNReDVvWUdZZHBTNnZHV1hMbzkzZHRlUGpUdTgyOFVldzI4c3ZVcV9pc2thbmVUUnNnRFBteUhfazlOanF4VEZkTWJoU3RfeVpLTG9tV0NQbHNqT0NCalZRTjdySU1KajFGN29TT0FxUW4tTTRDc3ZLaEo5dU5kQlRab3dqbjdRek95WnJjRHdyWnRPT0NvY25zWkYzU0IzcjdudzZoX0NVOHlIUDA?oc=5": {
+      "title": "Novo em Folha: Petrobras distribui R$ 300 mil em bolsas para reportagens sobre energia - Folha de S.Paulo",
+      "summary": "Jornalistas de todo o Brasil já podem se inscrever na segunda edição da Seleção Petrobras de Jornalismo, que vai distribuir R$ 300 mil em bolsas para a produção de reportagens sobre ciência e energias do futuro. Ao todo, serão concedidas 15 bolsas de R$ 20 mil.",
+      "source": "",
+      "added_at": "2026-06-13T08:32:20.024671",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0pqcURKZmJwdXctUTNCRlY5cnJNRFJ3UURvR21odXV3S1RYMXR4OTl2QmpITFplYXMzQnJ0M3VvV3pYRHVpVlpENVdNV0hnZXo1aHBzQVI1NjBOeUpaSWlSeHpjVE0wVEdUbHAtTms0d1FRZ0U4aDdPQ3VNUk1fS3JR?oc=5": {
+      "title": "TCU pauta LRCAP para próxima sessão plenária - Agência iNFRA",
+      "summary": "Marisa Wanzeller, da Agência iNFRA O processo de acompanhamento do LRCAP (Leilão de Reserva de Capacidade em forma de Potência) de 2026 entrou na pauta da sessão plenária do TCU (Tribunal de Contas da União) da próxima quarta-feira (17), marcada para 14h30. O tema é relatado pelo ministro Jorge Oliveira e, segundo fontes, mesmo após a homologação dos resultados realizada pela ANEEL (Agência…",
+      "source": "",
+      "added_at": "2026-06-13T08:32:20.024711",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjctR3hmUDhBdGJsNHZpYmlucFY1dGJYaFRfakwtaFdkM1BPaXU3YmdyVWVvM1J3S0duZGxLcEVMbTdmallLTGh5SnREQzdxMm0waTM4Wm1ET1RvbXE0d2RDT29qQlc1NVVnbUhvZ0FRU3VmT2lnOU83dG1wOGhzV3NYWnFEdTJrUUxUYzhOMTNsQWsxcVFsSQ?oc=5": {
+      "title": "ONS eleva previsão de afluências no Sul e Sudeste/Centro Oeste - Agência iNFRA",
+      "summary": "da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) elevou as projeções de afluências para os subsistemas Sul e Sudeste/Centro-Oeste no boletim do PMO (Programa Mensal de Operação) referente à semana operativa de 13 a 19 de junho. As estimativas indicam melhora em relação à semana anterior e apontam que ambos os subsistemas devem encerrar o mês com níveis superiores a 80% da MLT (Média…",
+      "source": "",
+      "added_at": "2026-06-13T08:32:20.024763",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
