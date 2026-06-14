@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-14T17:15:36.543112-03:00",
+  "last_updated": "2026-06-14T18:40:04.598850-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Resgate PNCs – Tratamento tributário -",
+      "data_referencia": "20260614 14/06/2026",
+      "data_entrega": "20260614 14/06/2026 18:11",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate PNCs – Tratamento tributário",
+      "protocolo": "1534349",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534349",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-06-14T21:39:44.349631"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Resgate das ações PNCs -",
+      "data_referencia": "20260614 14/06/2026",
+      "data_entrega": "20260614 14/06/2026 18:04",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate das ações PNCs",
+      "protocolo": "1534348",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534348",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-06-14T21:39:44.349617"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
