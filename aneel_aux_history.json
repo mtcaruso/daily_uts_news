@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T18:12:51.287699",
+  "last_updated": "2026-06-15T15:16:25.163604",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -887,6 +887,14 @@
       "deadline": "13/07/2026",
       "start_date": "12/06/2026",
       "fonte": "ANEEL"
+    },
+    "noticia_2026_nota-a-imprensa": {
+      "type": "noticia",
+      "title": "Nota à imprensa",
+      "date": "15/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/nota-a-imprensa",
+      "summary": "A **ANEEL** adiou a deliberação sobre cortes de geração (Consulta Pública nº 45/2019) para **22 de junho**, priorizando audiência no Senado sobre bloqueio de orçamento.",
+      "added_at": "2026-06-15T15:16:24.662840"
     }
   }
 }
