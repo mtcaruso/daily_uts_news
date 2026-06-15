@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-15T16:32:39.109113-03:00",
+  "last_updated": "2026-06-15T19:04:12.211977-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Mudança de Diretoria -",
+      "data_referencia": "20260615 15/06/2026",
+      "data_entrega": "20260615 15/06/2026 18:18",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mudança de Diretoria",
+      "protocolo": "1534737",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534737",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-06-15T22:04:09.806621"
+    },
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado 11/26 - Alienação de Participação na Usina Hidrelétrica Dona Francisca -",
+      "data_referencia": "20260615 15/06/2026",
+      "data_entrega": "20260615 15/06/2026 18:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado 11/26 - Alienação de Participação na Usina Hidrelétrica Dona Francisca",
+      "protocolo": "1534698",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534698",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-06-15T22:03:56.551150"
+    },
     {
       "cnpj_short": "01866-0",
       "empresa_nome": "CPFL ENERGIA S.A.",
