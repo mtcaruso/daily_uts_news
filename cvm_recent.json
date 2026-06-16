@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-15T21:00:35.907735-03:00",
+  "last_updated": "2026-06-16T01:17:16.440174-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
+      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
+      "data_referencia": "20260615 15/06/2026",
+      "data_entrega": "20260615 15/06/2026 22:43",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1534870",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534870",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-16T04:17:14.868135"
+    },
     {
       "cnpj_short": "00332-8",
       "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
