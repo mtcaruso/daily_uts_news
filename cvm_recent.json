@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-16T06:38:43.960808-03:00",
+  "last_updated": "2026-06-16T11:36:01.543660-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Orientações para pagamento de JCP referente ao exercício de 2025 -",
+      "data_referencia": "20260616 16/06/2026",
+      "data_entrega": "20260616 16/06/2026 07:52",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Orientações para pagamento de JCP referente ao exercício de 2025",
+      "protocolo": "1534891",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534891",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-06-16T14:36:00.606025"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
