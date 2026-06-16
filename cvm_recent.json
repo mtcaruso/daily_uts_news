@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-16T18:38:02.671956-03:00",
+  "last_updated": "2026-06-16T20:08:38.220127-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Data de pagamento dos dividendos intercalares do 1T26 aprovados em RCA de 07 de maio de 2026 -",
+      "data_referencia": "20260616 16/06/2026",
+      "data_entrega": "20260616 16/06/2026 19:18",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Data de pagamento dos dividendos intercalares do 1T26 aprovados em RCA de 07 de maio de 2026",
+      "protocolo": "1535330",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535330",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-06-16T23:08:33.554170"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
+      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
+      "data_referencia": "20260615 15/06/2026",
+      "data_entrega": "20260616 16/06/2026 19:01",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1535294",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535294",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-16T23:08:36.663398"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
