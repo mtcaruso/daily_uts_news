@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T15:20:01.760472",
+  "last_updated": "2026-06-16T19:46:12.088453",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -895,6 +895,46 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/nota-a-imprensa",
       "summary": "A **ANEEL** adiou a deliberação sobre cortes de geração (Consulta Pública nº 45/2019) para **22 de junho**, priorizando audiência no Senado sobre bloqueio de orçamento.",
       "added_at": "2026-06-15T15:16:24.662840"
+    },
+    "noticia_2026_diretora-da-aneel-defende-protecao-orcamentaria-das-agencias-reguladoras-em-debate-no-senado": {
+      "type": "noticia",
+      "title": "Diretora da ANEEL defende proteção orçamentária das agências reguladoras em debate no Senado",
+      "date": "16/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/diretora-da-aneel-defende-protecao-orcamentaria-das-agencias-reguladoras-em-debate-no-senado",
+      "summary": "A **ANEEL**, representada pela diretora Agnes da Costa, defendeu no Senado a aprovação do PLP 73/2025. O projeto visa proteger o orçamento das agências reguladoras, como a **ANEEL**, de bloqueios federais, garantindo a continuidade de suas atividades essenciais para setores como energia e saneamento. O PLP foi aprovado na Comissão de Infraestrutura e segue para o plenário do Senado.",
+      "added_at": "2026-06-16T19:45:51.201528"
+    },
+    "noticia_2026_consulta-publica-recebe-contribuicoes-sobre-processo-sancionador-da-ccee": {
+      "type": "noticia",
+      "title": "Consulta Pública recebe contribuições sobre processo sancionador da CCEE",
+      "date": "16/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/consulta-publica-recebe-contribuicoes-sobre-processo-sancionador-da-ccee",
+      "summary": "A **ANEEL** abriu Consulta Pública (**CP17/2026**) para estruturar o Processo Sancionador de Monitoramento do Mercado de Comercialização de Energia Elétrica (**PSM**), proposto pela **CCEE**. As contribuições podem ser enviadas de **18 de junho a 3 de agosto de 2026**.",
+      "added_at": "2026-06-16T19:45:56.198284"
+    },
+    "noticia_2026_novas-tarifas-da-rge-sul-sao-aprovadas-pela-aneel": {
+      "type": "noticia",
+      "title": "Novas tarifas da RGE Sul são aprovadas pela ANEEL",
+      "date": "16/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/novas-tarifas-da-rge-sul-sao-aprovadas-pela-aneel",
+      "summary": "A **ANEEL** aprovou o reajuste tarifário da **RGE Sul**, com impacto médio de **16,06%** para os consumidores. As novas tarifas entram em vigor em **19 de junho de 2026**.",
+      "added_at": "2026-06-16T19:46:01.509661"
+    },
+    "noticia_2026_aneel-aprova-revisao-tarifaria-periodica-da-energisa-minas-rio": {
+      "type": "noticia",
+      "title": "ANEEL aprova Revisão Tarifária Periódica da Energisa Minas Rio",
+      "date": "16/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-revisao-tarifaria-periodica-da-energisa-minas-rio",
+      "summary": "A **ANEEL** aprovou a Revisão Tarifária Periódica da **Energisa Minas Rio**, impactando cerca de 621 mil consumidores em MG e RJ. As novas tarifas, com efeito médio de **11,27%**, entram em vigor em **22 de junho de 2026**.",
+      "added_at": "2026-06-16T19:46:06.503609"
+    },
+    "noticia_2026_agencia-define-distribuicao-da-tarifa-bonus-de-itaipu-para-agosto": {
+      "type": "noticia",
+      "title": "Agência define distribuição da tarifa bônus de Itaipu para agosto",
+      "date": "16/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-define-distribuicao-da-tarifa-bonus-de-itaipu-para-agosto",
+      "summary": "A **ANEEL** definiu que a distribuição da Tarifa Bônus de Itaipu ocorrerá em **agosto**, em vez de julho. A decisão, que aprimora procedimentos e impacta a **ENBPar** e distribuidoras do SIN, foi resultado de consulta pública com 19 agentes do setor.",
+      "added_at": "2026-06-16T19:46:11.588209"
     }
   }
 }
