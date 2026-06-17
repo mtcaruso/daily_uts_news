@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T17:15:07.242385",
+  "last_updated": "2026-06-17T20:27:03.145500",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -935,6 +935,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-define-distribuicao-da-tarifa-bonus-de-itaipu-para-agosto",
       "summary": "A **ANEEL** definiu que a distribuição da Tarifa Bônus de Itaipu ocorrerá em **agosto**, em vez de julho. A decisão, que aprimora procedimentos e impacta a **ENBPar** e distribuidoras do SIN, foi resultado de consulta pública com 19 agentes do setor.",
       "added_at": "2026-06-16T19:46:11.588209"
+    },
+    "noticia_2026_aneel-reconhece-aprovacao-de-proposta-que-fortalece-a-autonomia-das-agencias-reguladoras": {
+      "type": "noticia",
+      "title": "ANEEL reconhece aprovação de proposta que fortalece a autonomia das agências reguladoras",
+      "date": "17/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-reconhece-aprovacao-de-proposta-que-fortalece-a-autonomia-das-agencias-reguladoras",
+      "summary": "A **ANEEL** reconhece a aprovação pelo Senado do PLP 73/2025, que veda o contingenciamento de despesas das agências reguladoras federais. A medida visa fortalecer a autonomia e previsibilidade orçamentária, essencial para a atuação do setor elétrico.",
+      "added_at": "2026-06-17T20:27:02.645188"
     }
   }
 }
