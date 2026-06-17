@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-16T21:30:38.837483-03:00",
+  "last_updated": "2026-06-16T22:37:26.205961-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Encerramento de Distribuição Pública",
+      "especie": "Anúncio de Encerramento da Oferta Pública de Distribuição Secundária de Ações da Copasa -",
+      "data_referencia": "20260616 16/06/2026",
+      "data_entrega": "20260616 16/06/2026 22:27",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio de Encerramento da Oferta Pública de Distribuição Secundária de Ações da Copasa",
+      "protocolo": "1535378",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535378",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-16T22:37:24.530636"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
