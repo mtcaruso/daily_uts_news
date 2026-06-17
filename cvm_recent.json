@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-17T16:48:38.732908-03:00",
+  "last_updated": "2026-06-17T18:51:07.681218-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Regimento Interno do Comitê de Auditoria Estatutário",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20191206 06/12/2019 12:30",
+      "data_entrega": "20260617 17/06/2026 17:21",
+      "status": "Ativo",
+      "versao": "4",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1535662",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535662",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-17T21:50:57.246996"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
