@@ -1,21 +1,22 @@
 name: DOU MME/ANEEL Digest
 
-# A cada 1h @:17 das 07h às 19h BRT, Seg-Sex (mesmo padrão que aneel_aux.yml e
-# news_refresh.yml que funcionam de forma confiável). 5-cron entries separadas
-# era flaky — single-cron com hour-list é robusto.
-# Email só envia se houver items novos (--email-if-new) — multi-runs no mesmo
-# dia não duplicam email.
+# A cada 1h @:15, das 07h às 23h BRT, Seg-Sex (mesmo padrão robusto do
+# aneel_aux.yml / news_refresh.yml — single-cron com hour-list; multi-entries
+# separadas eram dropadas pelo GHA).
+#
+# POR QUE HORÁRIO: mantém o dou_history.json fresco na nuvem o dia todo, então
+# o dashboard quase nunca precisa resumir um ato ao vivo na hora (o pré-render
+# bloqueante raramente dispara → load rápido), SEM depender do PC local ligado.
+#
+# EMAIL: só os runs da MANHÃ (10/11 UTC = 07/08 BRT) mandam o digest
+# (--email-if-new, idempotente — manda 1x). Os runs intraday usam --no-email:
+# atualizam o histórico SEM mandar email extra (preferência: notificações
+# mínimas). Frequência extra não queima cota — ato novo é resumido 1x só, e o
+# commit só acontece quando há mudança real no histórico.
 on:
   schedule:
-    # 2x na manhã (07:15 e 08:15 BRT), Seg-Sex. A edição do DOU é publicada de
-    # madrugada — o run das 07:15 garante o DOU do dia na nuvem ANTES do usuário
-    # abrir o dashboard cedo, sem depender do PC local estar ligado.
-    # NOTA: cron do GHA = hora de ENTRAR NA FILA; execução real tem jitter de
-    # 0-10min (começa ~07:15-07:25). Single-entry com hour-list é o padrão
-    # robusto (multi-entries separadas eram dropadas). Frequência extra não
-    # queima cota: atos novos são resumidos 1x de qualquer forma. O
-    # local_refresh.bat (30min) cobre o resto do dia. --email-if-new idempotente.
-    - cron: "15 10,11 * * 1-5"
+    # cron do GHA = hora de ENTRAR NA FILA; execução real tem jitter de 0-10min.
+    - cron: "15 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -36,7 +37,15 @@ jobs:
 
       - name: Run DOU scraper
         continue-on-error: true
-        run: python dou_mme.py --email-if-new
+        # Manhã (10/11 UTC = 07/08 BRT) manda o digest por email; runs intraday
+        # só atualizam o histórico (--no-email) pra manter o dashboard fresco.
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" = "10" ] || [ "$HOUR" = "11" ]; then
+            python dou_mme.py --email-if-new
+          else
+            python dou_mme.py --no-email
+          fi
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
