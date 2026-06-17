@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "f9637e66221b",
       "b3ae1f1a8981",
       "b63b3befec13",
       "d345e6d1865e",
@@ -442,12 +443,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 435,
-    "documento_count": 374,
+    "andamento_count": 436,
+    "documento_count": 375,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-15T18:02:10.043320",
+    "last_check_at": "2026-06-16T21:29:34.889447",
     "last_andamentos_top10": [
+      {
+        "datahora": "16/06/2026 09:17",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "f9637e66221b"
+      },
       {
         "datahora": "15/06/2026 14:21",
         "unidade": "CPL",
@@ -501,12 +508,6 @@
         "unidade": "CPL",
         "descricao": "Processo remetido pela unidade SEL",
         "hash": "81e8332184ec"
-      },
-      {
-        "datahora": "12/06/2026 11:13",
-        "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "9ba7e17a7129"
       }
     ],
     "last_documentos_top10": [
@@ -630,7 +631,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-15T20:18:06.854107",
+    "last_check_at": "2026-06-16T21:29:37.273071",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -810,7 +811,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-15T20:18:12.474325",
+    "last_check_at": "2026-06-16T21:29:39.792646",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1214,7 +1215,7 @@
     "documento_count": 131,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-15T20:18:15.773195",
+    "last_check_at": "2026-06-16T21:29:42.883569",
     "last_andamentos_top10": [
       {
         "datahora": "12/06/2026 14:30",
@@ -1381,7 +1382,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 19,
     "documento_count": 15,
-    "last_check_at": "2026-06-15T20:18:18.223541",
+    "last_check_at": "2026-06-16T21:29:45.305990",
     "last_andamentos_top10": [
       {
         "datahora": "11/06/2026 23:55",

@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-06-16T22:39:55.188211-03:00",
+  "last_updated": "2026-06-16T21:30:38.837483-03:00",
   "items": [
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Encerramento de Distribuição Pública",
-      "especie": "Anúncio de Encerramento da Oferta Pública de Distribuição Secundária de Ações da Copasa -",
-      "data_referencia": "20260616 16/06/2026",
-      "data_entrega": "20260616 16/06/2026 22:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anúncio de Encerramento da Oferta Pública de Distribuição Secundária de Ações da Copasa",
-      "protocolo": "1535378",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535378",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-17T01:39:53.330917"
-    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
@@ -35,7 +17,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535330",
       "empresa_label": "Alupar",
       "codigo_cvm": "21490",
-      "first_seen": "2026-06-17T01:39:50.014830"
+      "first_seen": "2026-06-16T21:30:33.956567"
     },
     {
       "cnpj_short": "01944-5",
@@ -53,7 +35,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535294",
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
-      "first_seen": "2026-06-17T01:39:53.330903"
+      "first_seen": "2026-06-16T21:30:37.247969"
     },
     {
       "cnpj_short": "02025-7",
@@ -71,25 +53,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535215",
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
-      "first_seen": "2026-06-17T01:39:44.948787"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Escritura de Emissão da 22ª Emissão de Debêntures da TAESA. -",
-      "data_referencia": "20260616 16/06/2026",
-      "data_entrega": "20260616 16/06/2026 18:17",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Escritura de Emissão da 22ª Emissão de Debêntures da TAESA.",
-      "protocolo": "1535211",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535211",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-06-17T01:39:44.948773"
+      "first_seen": "2026-06-16T21:30:27.846235"
     },
     {
       "cnpj_short": "02025-7",
@@ -107,7 +71,25 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535186",
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
-      "first_seen": "2026-06-17T01:39:44.948789"
+      "first_seen": "2026-06-16T21:30:27.846213"
+    },
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Escrituras e aditamentos de debêntures",
+      "tipo": "-",
+      "especie": "Escritura de Emissão da 22ª Emissão de Debêntures da TAESA. -",
+      "data_referencia": "20260616 16/06/2026",
+      "data_entrega": "20260616 16/06/2026 18:17",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Escritura de Emissão da 22ª Emissão de Debêntures da TAESA.",
+      "protocolo": "1535211",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535211",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-06-16T21:30:27.846231"
     },
     {
       "cnpj_short": "00243-7",
@@ -125,7 +107,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535171",
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
-      "first_seen": "2026-06-17T01:39:32.983761"
+      "first_seen": "2026-06-16T21:30:16.922849"
     },
     {
       "cnpj_short": "01525-3",
@@ -143,7 +125,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535097",
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
-      "first_seen": "2026-06-17T01:39:45.570465"
+      "first_seen": "2026-06-16T21:30:28.510852"
     },
     {
       "cnpj_short": "01862-7",
@@ -161,7 +143,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534891",
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
-      "first_seen": "2026-06-17T01:39:54.054889"
+      "first_seen": "2026-06-16T21:30:37.892916"
     },
     {
       "cnpj_short": "01944-5",
@@ -179,7 +161,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534870",
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
-      "first_seen": "2026-06-17T01:39:53.330915"
+      "first_seen": "2026-06-16T21:30:37.247944"
     },
     {
       "cnpj_short": "00332-8",
