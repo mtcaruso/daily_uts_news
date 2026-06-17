@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T05:13:31.294246",
+  "last_updated": "2026-06-17T07:35:26.262439",
   "items": {
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXhMTHlfOWFOS0NSUzQ5OXVfWTJDTXZ1LVNRMzJLRGdzTm9ZSWpyWXgwejVvNDFSanJmbTMwa0JCZVV0Qkk4WGFIU0ZzbkdQZTJIdGhfcXlkekxSRE45VW5pc0pkcUM3eFNQeTZDTkdRMDRxMTcycTJPUTlhZHdoWUtkN3c1ekRSRWMzLW4yX1U4Z2VmZDRIRVpCZmJweEprUmhPVDdScw?oc=5": {
       "title": "ANEEL regulamenta revogação de outorgas e rescisão de CUST para geradoras - Agência iNFRA",
@@ -3905,11 +3905,11 @@
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnVrRWQ2Q3dQMWltV0djTGx6bk90NVpkQ191LUJrazBZVXl4amxhWE1TcXRhbzljaXFiZjJLdkRMTDB4XzZYWmY5aW1Xam1sMjZvLW81b2pUZkpRd1V4ek1QbUZpdGpxdVJkUm5YRmZVY2FVa19MWUVlcHIzWjM0TUU3WTUwLWR4WTlLWjh4MkZmVWN2Zi1rVE9MTWF2OVQxcUxUNEZVUTdNeEktdzZSNTkwNFpjTEVpcjR0VTBQYjlDdjlR?oc=5": {
       "title": "TCU: relatório sugere aprovar LRCAP, mas recomenda apurar responsabilidades - CanalEnergia",
-      "summary": null,
+      "summary": "TCU: relatório sugere aprovar LRCAP, mas recomenda apurar responsabilidades. O processo de acompanhamento do leilão de potencia de março desse ano está na pauta do plenário da corte desta quarta-feira, 17 de junho",
       "source": "",
       "added_at": "2026-06-16T21:57:50.427836",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlNtb2cxdC1pSm14TE94YUtYcXdIRUg1VWdSYmgtLWt2Tnplb0xPUlVoTmVWTWYxRS1HSW9NdlF2ejhKNnhkSHZyU1dOby1WSkVPZS1HS21uX283bnNFMVR4cVM4ektxeGFITUg4dGNEa1VKaThSVzYxZm5ZZGYweU40b1ptVjdZeERjSUpfUG1vRkRJd1hiMkhKckNnTy1yYlRvRjY3a1B3R3p0dU5xS0lLRkwzbGFqMUtPOHE5Zw?oc=5": {
       "title": "Aliança Energia amplia capacidade em 9% com complexo eólico Caetité Norte - CanalEnergia",
@@ -4165,7 +4165,7 @@
       "source": "",
       "added_at": "2026-06-16T22:45:03.773700",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WYzNENTFnS1BMWGtfSXIzbGwtYm1BanJWUVBwMEVSTEo2Q0JzRlktYkNTMzRZRFV3LXlhRE5ESWZCdXpMV05NZkVHcTJQc0E3b0Ezdml4OHhZVVNVU3pBZGp5bWZoSTZVMmhDYTlvSTNNaDM5?oc=5": {
       "title": "Empresas - MegaWhat",
@@ -4181,11 +4181,27 @@
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmt0a3IwaGVnNzlvcVFYcjlBaldyRllCMkhoTC10WjJ2c3R3SWt6cmVwMkRKaGdfTGJUUlBSbmxqd3JJSXRLazlCYnNKLVA0WVZtTTdsNzh0UFpRdUdXS29BaGdmYTlWSGszdGpjTlR2Y1VhRTl3YmZ5SFVJVmN1S05waDZXZ3haTmdkMU1Ta3R1dXJOYjlxYnNqdEE2NnpmOVo0bFJNS2FhUmdBOXZ6emw5TzNrOHZKNERubVJpSQ?oc=5": {
       "title": "CI aprova projeto que impede contingenciamento orçamentário das agências - CanalEnergia",
-      "summary": null,
+      "summary": "CI aprova projeto que impede contingenciamento orçamentário das agências. A CI do Senado aprovou projeto que impede o contingenciamento orçamentário dos recursos direcionados às atividades das agencias reguladoras.",
       "source": "",
       "added_at": "2026-06-17T05:11:18.551558",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlNkd1dmZlFjcDJrMnRyX1ZzTkMwa0pFM0dYeERXekxLNGFyTTlOM2JiUnBtTGJsU25hZjNMQlN0SmFUSTROU1Y4ajNBNU5JajB4SWM5YnFJbkE4U1pjQ0dPblRfRnFfQWtsUFFuSmtjMmVVYXR6T1hCOTN1ajRXX3pPTWlYS3NhbVVmYmxRbVFNTnBQbDZyZXRaZ1huWC1wU1kzZS1xSUx5QdIBuAFBVV95cUxPUTRiWmVYOVRrd2FNVjlrRXFiM2VjaW9aWjc1cFczSlBQdUZLSThkYjJfbWljQ2FmSkN2NlI4NnRacWRyRkliaGxzSlNwTHQyZi1DeVYxSnk1TTFSa1dwZzJ2dmIxQjMwREprS3BaMGZTTTZLVmQ4aXA4bDBqZG9Tbmg4eDJPaXdnX3AzZ2xMS2ViY1ROcnQ2OWwtSlBuLVJ6TGNFU3BmdGZjYUd6YktRem9PN2xUM2st?oc=5": {
+      "title": "Com Copasa, Equatorial reforça foco em saneamento - Valor Econômico",
+      "summary": "Com Copasa, Equatorial reforça foco em saneamento Empresa do setor elétrico, que desembolsou R$ 5,6 bilhões na operação, já é acionista da Sabesp Empresa tradicional do setor elétrico no Brasil, a Equatorial consolidou sua posição como “player” relevante em saneamento, após concluir sua participação no processo de privatização da Companhia de Saneamento de Minas Gerais (Copasa) e adquirir uma…",
+      "source": "",
+      "added_at": "2026-06-17T07:35:26.250302",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUXY2ZERWUWFWNlZmSFZIQlhlbjE4by1GcDQzZmRBQ0F1eElQWEsxT3Bvbnl5MzVUSFFfR1ZVVzNIdjAxZi1xcHMxdjE2LTZSSnYyeXhvNXZKODE1aVEzV0RkaEd2SzlIN2t0RHFTbEluOUllU1RtT2l3MjFEekRmWjJrNHhpVFFmRDFRSU1GS25HT1ZOaHNnaUZxc2Y5R0Q2bkNJanhmUVYtZHlwX2txX1dDVDl5cGVXSjRUc0ZKbDJPd2xjaWZyUXNPZExGS3l0Yy15bU56c9IB5gFBVV95cUxPbW1FREVNN1E2b2RTNHVhd2tOS0pFeFdVeG40SmFsRmZIWm51MjRiMmZKRGRyV3RtUmJac0FVVEczeFZEZlhNRHlNcFBBTDd0SkYyV25GQUo5N2E2WVJqRkRfd1hkU09WTXBLZjh0T2VQd1pIOHhlUDVkV3pOMXRaNDdvM3d6bGJVNzhLanRJazZaQ2JWTEtWRk42VmJEWEgwQmFqdmF1ZlgwcUljMnRXc1FRd2ZxRk1PbS1tT0dJdDB4am1NazNpakVpbEhxd2hTeE85SXNodHpsUlRUaVRSOHhKNWQ4UQ?oc=5": {
+      "title": "Custo de armazenar energia em baterias fica menor do que termelétricas a gás pela 1ª vez - Valor Econômico",
+      "summary": "Custo de armazenar energia em baterias fica menor do que termelétricas a gás pela 1ª vez Atualizado Os custos totais de estações de armazenamento de energia em baterias caíram abaixo dos custos de usinas termelétricas a gás pela primeira vez. Isso por conta da superprodução na China e da mudança para veículos elétricos, que reduziram os preços das baterias em 40% em 2025.",
+      "source": "",
+      "added_at": "2026-06-17T07:35:26.250402",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
