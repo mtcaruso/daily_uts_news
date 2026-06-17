@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-16T22:37:26.205961-03:00",
+  "last_updated": "2026-06-17T03:49:19.514417-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Transferência de Jirau - Tópicos de discussão -",
+      "data_referencia": "20260616 16/06/2026",
+      "data_entrega": "20260616 16/06/2026 23:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Transferência de Jirau - Tópicos de discussão",
+      "protocolo": "1535382",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535382",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-06-17T06:49:07.789049"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
