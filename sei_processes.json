@@ -6,6 +6,16 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "7016a6e0bf98",
+      "ad5c0796fe56",
+      "9984a5c0d62f",
+      "d0bba00dca6f",
+      "0ac33f80ae92",
+      "dc08a5cea237",
+      "619355062b66",
+      "277c4306133c",
+      "cd6abd0b5298",
+      "fd7b6413c4dd",
       "6661762eae36",
       "7b0132cd8bef",
       "f9637e66221b",
@@ -445,71 +455,71 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 438,
-    "documento_count": 375,
+    "andamento_count": 448,
+    "documento_count": 379,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-17T08:30:04.094208",
+    "last_check_at": "2026-06-18T19:29:40.692526",
     "last_andamentos_top10": [
       {
-        "datahora": "17/06/2026 05:48",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
-        "hash": "6661762eae36"
-      },
-      {
-        "datahora": "17/06/2026 05:48",
-        "unidade": "SGE -SORTEIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "7b0132cd8bef"
-      },
-      {
-        "datahora": "16/06/2026 09:17",
-        "unidade": "DIR - FLMFS",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "f9637e66221b"
-      },
-      {
-        "datahora": "15/06/2026 14:21",
+        "datahora": "18/06/2026 16:41",
         "unidade": "CPL",
         "descricao": "Processo recebido na unidade",
-        "hash": "b3ae1f1a8981"
+        "hash": "7016a6e0bf98"
       },
       {
-        "datahora": "15/06/2026 13:05",
+        "datahora": "18/06/2026 16:00",
         "unidade": "CPL",
         "descricao": "Processo remetido pela unidade SEL",
-        "hash": "b63b3befec13"
+        "hash": "ad5c0796fe56"
       },
       {
-        "datahora": "15/06/2026 12:49",
+        "datahora": "18/06/2026 15:59",
+        "unidade": "SEL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "9984a5c0d62f"
+      },
+      {
+        "datahora": "18/06/2026 15:56",
+        "unidade": "SEL",
+        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+        "hash": "d0bba00dca6f"
+      },
+      {
+        "datahora": "18/06/2026 10:34",
         "unidade": "CPL",
-        "descricao": "Processo 48500.016455/2026-80 anexado",
-        "hash": "d345e6d1865e"
-      },
-      {
-        "datahora": "12/06/2026 16:41",
-        "unidade": "GDG",
         "descricao": "Processo recebido na unidade",
-        "hash": "071ce36fc8d5"
+        "hash": "0ac33f80ae92"
       },
       {
-        "datahora": "12/06/2026 16:15",
+        "datahora": "18/06/2026 10:16",
+        "unidade": "CPL",
+        "descricao": "Processo remetido pela unidade SEL",
+        "hash": "dc08a5cea237"
+      },
+      {
+        "datahora": "18/06/2026 10:10",
         "unidade": "SEL",
         "descricao": "Processo recebido na unidade",
-        "hash": "47e72fb3a7c1"
+        "hash": "619355062b66"
       },
       {
-        "datahora": "12/06/2026 15:09",
-        "unidade": "GDG",
-        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "0ee392e1fce3"
-      },
-      {
-        "datahora": "12/06/2026 15:08",
+        "datahora": "18/06/2026 05:07",
         "unidade": "SEL",
         "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "1eacab64d912"
+        "hash": "277c4306133c"
+      },
+      {
+        "datahora": "17/06/2026 17:42",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "cd6abd0b5298"
+      },
+      {
+        "datahora": "17/06/2026 09:33",
+        "unidade": "DIR - FLMFS",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "fd7b6413c4dd"
       }
     ],
     "last_documentos_top10": [
@@ -633,7 +643,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-17T08:30:06.559878",
+    "last_check_at": "2026-06-18T19:29:44.177575",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -813,7 +823,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-17T08:30:09.059940",
+    "last_check_at": "2026-06-18T19:29:49.762448",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
