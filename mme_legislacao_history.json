@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T01:42:46.699801",
+  "last_updated": "2026-06-18T17:29:55.160585",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -763,8 +763,8 @@
       "title": "Portaria MME nº 897/2026",
       "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-897-2026.pdf/view",
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-897-2026.pdf",
-      "date_modified": "27/02/2026",
-      "ementa": "Altera a Portaria MME nº 763, de 28 de dezembro de 2023.",
+      "date_modified": "18/06/2026",
+      "ementa": "Revogada pela Portaria MME nº 921, de 16 de junho de 2026.",
       "summary": null,
       "added_at": "2026-05-26T16:32:08.467923",
       "summarized_at": null,
@@ -3019,6 +3019,20 @@
       "summary": "Institui a **COPAM** para analisar e acompanhar o mercado de energia elétrica. Estabelece procedimentos para apresentação de informações de agentes do setor elétrico sobre seus mercados ou cargas.",
       "added_at": "2026-06-17T14:01:18.905837",
       "summarized_at": "2026-06-17T14:01:33.592080"
+    },
+    "portarias_portaria-mme-n-921-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-921-2026",
+      "title": "Portaria MME nº 921/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-921-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-921-2026.pdf",
+      "date_modified": "18/06/2026",
+      "ementa": "Altera a Portaria MME nº 763, de 28 de dezembro de 2023.",
+      "summary": null,
+      "added_at": "2026-06-18T17:29:50.158548",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped"
     }
   },
   "first_run_done": true
