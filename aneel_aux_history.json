@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T13:36:13.371935",
+  "last_updated": "2026-06-18T17:21:43.387632",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -943,6 +943,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-reconhece-aprovacao-de-proposta-que-fortalece-a-autonomia-das-agencias-reguladoras",
       "summary": "A **ANEEL** reconhece a aprovação pelo Senado do PLP 73/2025, que veda o contingenciamento de despesas das agências reguladoras federais. A medida visa fortalecer a autonomia e previsibilidade orçamentária, essencial para a atuação do setor elétrico.",
       "added_at": "2026-06-17T20:27:02.645188"
+    },
+    "noticia_2026_relatorios-de-air-da-aneel-serao-disponibilizados-em-tres-idiomas": {
+      "type": "noticia",
+      "title": "Relatórios de AIR da ANEEL serão disponibilizados em três idiomas",
+      "date": "18/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/relatorios-de-air-da-aneel-serao-disponibilizados-em-tres-idiomas",
+      "summary": "A **ANEEL** passará a disponibilizar seus Relatórios de Análise de Impacto Regulatório (AIR) em português, inglês e espanhol. A medida visa aumentar a transparência e o alcance internacional das decisões regulatórias, facilitando o acesso para investidores e parceiros globais. O primeiro relatório trilíngue publicado é sobre o acesso à transmissão para fontes eólica e solar.",
+      "added_at": "2026-06-18T17:21:42.887359"
     }
   }
 }
