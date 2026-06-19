@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T21:31:13.746145",
+  "last_updated": "2026-06-19T05:37:55.974689",
   "items": {
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWZON3lheEw1OXlWdlExUnlDY2lLZEFjZ3NpbzNfSmczcnN0SjJYTjJtNjlwM29UbWctVlRNbHZHdmZ1RVh1QTB1cFRzMEhScDNNUDNZdm84UDk0Z2ktWXFWYzNvUmk5NVNrNVFNTkFtMWZoSFVKSHhlTFBZTExnT2ZvR042MUNwOUpsZGZ0R082U0U5OUxqRjZCSkN2dG9zcTA2aWFzMHl3VlpubnhWOGI4aVR0ODFQZjE4OHZjaw?oc=5": {
       "title": "Sem Aegea, Equatorial é a sócia de referência finalista da Copasa - Valor Econômico",
@@ -3568,7 +3568,7 @@
       "source": "",
       "added_at": "2026-06-18T19:39:34.146612",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zUlhndk9HcDNnNTNTSlNFSk43ZWxZcklic09hNVJydHBCa3ExMWd2dnVkblkyQW9yLXhPcU5ZOUwxUG4tWFU0cUwyb3VjWHZ5Wm9tRWdTajU?oc=5": {
       "title": "Podcasts - MegaWhat",
@@ -4142,7 +4142,19 @@
       "source": "",
       "added_at": "2026-06-18T21:30:58.968792",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNW1PQTBOclZSODFaV3lNWHc5NlhSMmJSVmlxOUsxRE14U1V3Q29ZaWVVTENtZnVnS082ajRkMGtFT3RVc2Z1ZUVqM20yRk5WMDBLbkx0TWRnYzNfdWlVbWZVNHpCUQ?oc=5": {
+      "title": "Últimas Notícias - MegaWhat",
+      "summary": "O príncipe herdeiro da Arábia Saudita, Mohammed bin Salman, afirmou que o reino está cumprindo promessas de compensar a perda de oferta de petróleo do Irã devido a sanções dos EUA. A Arábia Saudita está produzindo cerca de **10,7 milhões** de barris por dia.",
+      "source": "",
+      "added_at": "2026-06-19T05:37:55.967255"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00WEQ0N01xZ1ZhaXQtMkNtekpFRVFIQ2p5Snh0bjFqZDlNMWdqNGdRM0pyaV9yd0xfbnpwOENFOVc2Qjd4QTdsSi1zaG5qVXY1ODJDN3hQdDN1RzFkdnc?oc=5": {
+      "title": "Planejamento - MegaWhat",
+      "summary": "O presidente da **EPE**, Thiago Barral, informou que o Plano Decenal da Expansão (PDE) 2031 irá incorporar as perspectivas para produção e consumo de hidrogênio verde no Brasil. A **EPE** ainda discute as diretrizes do plano com o governo.",
+      "source": "",
+      "added_at": "2026-06-19T05:37:55.967290"
     }
   }
 }
