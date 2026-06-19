@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T10:59:50.338272",
+  "last_updated": "2026-06-19T11:30:26.726160",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -969,6 +969,22 @@
       "added_at": "2026-06-18T20:59:31.387625",
       "objeto": "obter subsídios para estabelecer o processo sancionador da Câmara de Comercialização de Energia Elétrica - CCEE.",
       "fonte": "ANEEL"
+    },
+    "pauta_14768": {
+      "type": "pauta_rd",
+      "title": "PAUTA DO 10º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "23/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14768&idAreaNoticia=425",
+      "summary": "- **Copel Distribuição**: Revisão Tarifária Periódica de 2026, com efeitos a partir de 24/06/2026, após consulta pública.\n- **Eficiência Energética**: Proposta de abertura de Consulta Pública para aprimoramento do programa voltado à Transição Energética.\n- **Equatorial Alagoas**: Recurso Administrativo contra Auto de Infração da ARSAL sobre qualidade do fornecimento.\n- **PCH Clairto Zonta**: Recurso Administrativo da Argentum Energia contra multa por descumprimento de cronograma de implantação.\n- **JPNR Goiás**: Pedido de Medida Cautelar para manutenção de Contrato de Uso do Sistema de Distribuição para conexão de UFVs.",
+      "added_at": "2026-06-19T11:29:59.692257"
+    },
+    "pauta_14767": {
+      "type": "pauta_rd",
+      "title": "PAUTA DA 4ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "22/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14767&idAreaNoticia=425",
+      "summary": "- **Leilão nº 4/2026**: Aprovação do Edital para contratação de concessões de transmissão de energia elétrica em sete estados, consolidado após consulta pública.\n- **Consulta Pública nº 45/2019**: Definição de critérios operativos para redução ou limitação de geração no SIN, com base no resultado da terceira fase.",
+      "added_at": "2026-06-19T11:30:26.225333"
     }
   }
 }
