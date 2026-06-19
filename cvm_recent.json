@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-19T08:45:22.581222-03:00",
+  "last_updated": "2026-06-19T11:00:55.034665-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "Acompanhamento dos Custos e DespesasAta",
+      "data_referencia": "20260610 10/06/2026 09:30",
+      "data_entrega": "20260619 19/06/2026 09:09",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Acompanhamento dos Custos e Despesas",
+      "protocolo": "1536363",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1536363",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-19T11:00:53.103601"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Alienação de Participação Societária MinoritáriaAta",
+      "data_referencia": "20260611 11/06/2026 09:00",
+      "data_entrega": "20260619 19/06/2026 09:03",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Alienação de Participação Societária Minoritária",
+      "protocolo": "1536360",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1536360",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-06-19T11:00:53.103624"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",

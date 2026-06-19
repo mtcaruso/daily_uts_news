@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T13:50:37.517854",
+  "last_updated": "2026-06-19T11:03:11.927139",
   "items": {
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOVBuUzdOVXYxVVRrUDBMTGlxbUNuQ3NCcTZrSVFJWGhsblUycHJIVWU4MXBfa1p1OHdGakxqQkdMM2FPMU5wRjJ1SVFqVXpZMWZNazg5U3BmUHlkRkZaSjVZbmpidW16UG9RR2ZHYlp6eTdudlBETFJZalhSblNrNllGWmp0Qnh3bHoxdTktcWV3ZW1ic2FnT0xGN3o1Q1YwNkt1Q3RPVjNrX2Zlc3hwUm1UUVpBTlFCMWFRQjQ5b0ZPM3BObkpDUkN1ZXN0eGpTWV9NdNIB4wFBVV95cUxQdUx6S1J5WDZfM0ozVGFhdkFHcy14WG1mZEo4WEpOY2RTRE9sSVdvM3AyT29ZdGgtT1BERkwwa2hTRjlhWnhkaldjNXBkVHpFVDgyTlpKelV5am9NcTdINUhETXAxSUYyd0VGbVJHckRCM3VidjVVdHhqU1JJNWh0TDFtQnhWdlkxYkV2THhJbnRDQU5ibE5ZWFlDMHExWkhVelVvS2xtX2JhR1l5RERfSUEzU2RhTVprRXMxbFhzUzZ4UjNwX1E1Y1pQblRZcVRKTEk1Y3BiLXR6LVVNc0Q2MC1KTQ?oc=5": {
       "title": "Falta de quórum impede realização de assembleia da Azevedo & Travassos Energia - Valor Econômico",
@@ -4106,7 +4106,7 @@
       "source": "",
       "added_at": "2026-06-18T21:30:58.968792",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNW1PQTBOclZSODFaV3lNWHc5NlhSMmJSVmlxOUsxRE14U1V3Q29ZaWVVTENtZnVnS082ajRkMGtFT3RVc2Z1ZUVqM20yRk5WMDBLbkx0TWRnYzNfdWlVbWZVNHpCUQ?oc=5": {
       "title": "Últimas Notícias - MegaWhat",
@@ -4122,27 +4122,27 @@
     },
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVhBcXg0VjM5R1FwNzBHRWtPbTJ4SU9ZNGRUbDZpZVpiYTFzaFhCY01xaW9NejE5cmFqOTF6OXZtLW1IRjctQkZoTWVfR3NLbFFNMTRwLVA0bGpjdnB0YzFMRERvSzNqQkh0VGdGZGJucjk2N3lCZ1BQLXF0eFY1ZEJGQ3RkNmNtTGZoYlUtMV9JTGlLbHc?oc=5": {
       "title": "O Pré-sal como plataforma, não como destino - CanalEnergia",
-      "summary": null,
+      "summary": "O Pré-sal como plataforma, não como destino. Rio tem tudo o que uma política industrial precisa, porém, falta decidir se quer continuar extraindo riqueza ou, finalmente, convertê-la em futuro",
       "source": "",
       "added_at": "2026-06-19T13:48:39.607374",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaFNvSVR1ODE4dEFoQUpSdkdYWFNlUlJTa3NaX19WQkpaZUxXdWlYS3JIQmNkQUZoelF3WXJFdzJkOXRHNWZBbnc5M01PQ2lqZUdOTmVIdzZNdEdwaTBXOEZnc0FmcmF2c3BRTGVXd2xCOHNsMExpRnp2aE92VFNtbHl4NThSbXdDRzhnSnE2UTlYXzJENFVBS1o0emVzNjMyZk1ScFppUGZVYkdWS2VwNHI3SUUyTVAyODZfYWdaRi1BRzBvRUtpUklfZzRCcHFSeWhzMk1WQjdIMjN5UGJ6MTAzM0ktWExzX3VVbzhCYk1pakg1?oc=5": {
       "title": "5 desafios invisíveis da infraestrutura elétrica que podem afetar a eficiência e a disponibilidade das operações - CanalEnergia",
-      "summary": null,
+      "summary": "Quando se fala em eficiência operacional, a atenção normalmente está voltada para produção, automação, consumo de energia e desempenho dos equipamentos. No entanto, existe uma camada menos visível da operação que também influencia diretamente a produtividade das empresas: a infraestrutura elétrica.",
       "source": "",
       "added_at": "2026-06-19T13:48:41.308329",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdk1iSTdJT1NORy1IQjFtd1BJYThheFBOVjM2WllRckJGdXM4U1JQR2JjY21YYkVVVnVOaGtiaUtBWTl3MVcyTXA0MVBmNHVWM01IQkt2aU9LUnJqYlBmZ2VxZGRzckt6ek5CRWtndk5QVTQzdl9majRJdFJlNWhXMmJvZlYzbmt3WEJxSnNNSlk4SUNvSUVZ?oc=5": {
       "title": "Reynaldo Passanezi renúncia ao cargo de presidente da Taesa - CanalEnergia",
-      "summary": null,
+      "summary": "Reynaldo Passanezi deixa conselho da Taesa. A Taesa anunciou que Reynaldo Passanezi Filho renunciou aos cargos de presidente e membro efetivo do conselho de administração da companhia.",
       "source": "",
       "added_at": "2026-06-19T13:48:43.006006",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGxIa0JyTkVkdjNXTDlxNVlzY2R0d2JMUktweEo3aUJXbERXTEtNREZDQlhUQXZpbl9SRjQyY1liZEJWN1JuVlJHMm8yOFRxbDdqcWZWQ0toZW11N3N2aWpIMVFBajd0bl9fcDhUWU5YZ0RxbVVhWkNteGw3ZDBqa2VySmhEQkg4VDhRc2RabE1fbG5VenhCYlY3WDc1M0UyUjdGYllLeWlNRkRJc1lRc0FGalZnSGloeVFCd0xYNk5OVW1ra2RnY9IB1wFBVV95cUxQMEk3WjNJOHRteVhJSnlLZ3ZzTU9lYVR5SnJnMXJFQ2w4akY5UUpkQUUxVmZUajFXOGFkdnNXVUhPMHZ3QkpDWWlaZUM1VjVUUTRsMEItb21rV1h0dWl0ZUxlSlphc2tIdXdtWjhRcnhUQ1JQd0xiX2ZxXzVfUDhNNmppbnJDRTdMbVVKWkhLNkV6X2JVNjlGMmdITEptQThIT3B3ek1yVWhQVnM3bURoanFRVDNvOWR3NUpRM0w0eXFPUEhvVjRIVjFwRVg0U3AyLWl2OGNlaw?oc=5": {
       "title": "Preços ao produtor da Alemanha sobem 2,2% em maio, puxados por energia - Valor Econômico",
@@ -4150,7 +4150,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:18.770724",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTXhFTTVSQ21wWjIyYWZVNXI2Q2IzOEczdF8tamhUNnZ3QjlfYmgwUC1CY1lvcWxjWlNYSF9Vb0lPLUo1cFd3cmw2NXJNQ3RNNG9NYzByVmZTQjlubjNlYzY5UVVwbGxDS2FIQm9TMVo3dVZnVU81TmxWMzJmVVVVT1pKbFlwTEdRTWQwdmpuaWZISERKS1d6Q1dVVjhJaFpWd1ZZM1NSRWw4VnV4U1ZhaUNudHRJWUtsbkh6NFdoTnktRFlHckVXbUhVS2lzLThHZlI2Z0x2ZWhNOEtwNUxVRXN6Y3pZRGotZjNIdnJoZVh0UXZXd284?oc=5": {
       "title": "À medida que a IA sobrecarrega a rede elétrica, a Envision lança a Mission Gobi na VivaTech 2026 - Estadão Blue Studio",
@@ -4158,7 +4158,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:18.770969",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXg2QzA5eHVJVXBCbGJSV0hSa1R2aEpYOExqSjFlanRYd3pjczE2NUVPMlE4NVY2REpSM2lwcDQ4ZVpDVEY5YWFLT1k1NXllVHFIaERWVmlKTHpldXAzSm4wNUgxckNBWGtrZ05YckZnTXMxd3FQa1laRE9mYkdpZlUxNjRXRWxxeXVhTzZyZlExUFVseVpzT25CVVp0OEQwWDZiU19ObHVaUW4zSGRnNGVfVU1VVDdiQjdrSVZqdTgxYjUxY3ltSXRZSdIB0AFBVV95cUxPVjM2VENBYnhBSE1BOFAzWnJCM2s2RlhpNVpnMUVWMy16Ri1FTEVRZFBPU2ZjWTRFU1ZVV2Jtd0QxUWZkTFRPRFVvN2hxYUl1b09OaGFfTmt2UUJLZm9yUGJ5bHdITXhlc1RESGNaQUFyVVdjcXRRY2FLLUdlamZvUDZYMS1xWEVKM3NHZThFY21kTm8wVVFyeHp2UnBwNkVPSWpOdldDbmdvYk1qSEowUmZCLWJUWmJFTUJ1aXZUaTE0V1BtaEV3alotazM1al9F?oc=5": {
       "title": "El Niño deve fazer Brasil poupar água em Itaipu e hidrelétricas do Sul para compensar seca, diz ONS - Estadão",
@@ -4166,7 +4166,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:18.771125",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3RabXdhOTU4N3djNlI2QnI5dVpPWFVwRXVvdVRfTDJEdmM1WnBMdnFBSFNsc25YN3hDVXlCQXhnVHBodlBxOHUxRjZ5LUM1eTJ0N2VuUjNGY1MtaWxwUHBzalJweldTVnl1VjFVNWsydFJtUU1yOHE1dFpZNWNtcV9rOUxNOENKRW1DTXEwVVRsWVpiYWtZVHlmUjJPYWFBYmFzOVA4ZlJWaU44ZG9ZOEx2c05WdTVHZExqQ1JFekhQSWNlVDJHTFJJOUM?oc=5": {
       "title": "🎙️Como os problemas do mercado livre chegaram na tarifa do consumidor final - MegaWhat",
@@ -4174,7 +4174,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:18.771185",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekNHSXEyNlc4ZzlXT2V1bV8zUVZYM2YydzFxY2FqUFpYcEpjejFNTTBoV0VlU1FnZW1lbWZaRGhjbkxaRU9MUDhZenNBaGRYVWlFRVMtaHpSSHRyWXVERURiQWJmSWRUY0xDcmV3ZWp2d2NiWVFHZUFQeC0xem5ibGwwYjdkbV91M0J4cWdfci1udW9ibC1YZVk4bUJMVVdjSUlteXZWUXQwMm1SZ3pLLQ?oc=5": {
       "title": "Impasse entre Aneel e Anatel pode empurrar regra dos postes para 2027 - MegaWhat",
@@ -4182,7 +4182,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:18.771369",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnNxSVhPVHRQNlZvR1pHeHlHOHhiWVFpb0lqNUhFanRpOWJVdUNIdlQxOGRGRk5TNEFXT05HUzkxUnNDNW9nd0t2ZmpJdm40SGJkOVZhNnM4NXRIdzV3VUJaZTJHMDFZVVU3aVRaUWVsc3FpbFNUTUJUeFNjQmdRdk5fUEZMWHhQNDRobmk2aTBJU3BwSXZRaW5DYWFIQkhyeWdwU0Y4Tjh1ZDVLRTFnS2ZOM0hwM1NuODFiNVkwenRDN3psVERoandqYzNaNEx2S05vQklManpia1Z3WGx1eA?oc=5": {
       "title": "Como o super El Niño, previsto para os próximos meses, pode pressionar a conta de luz em 2027? - Edição do dia - MegaWhat",
@@ -4190,7 +4190,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:37.511030",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZEJnOHZfV2ItdkxzcDZMZ2dXRUp3YnZYUlRwTTE5V05vSXoxR1czVkowN0dIRFpCWmNoLWdndUJ2TUxQYnFCOGg1TWtNV1E?oc=5": {
       "title": "Tag CRCAP - MegaWhat",
@@ -4206,7 +4206,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:37.511252",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHg0NWpHQk01Tm1PcTU4dy1uX2FtVVdNVXVPRDg2SG5xS09SZmw3Mm5nSGgzem52VklhWnR2ZWhSbmNMX3FNRndqOFVYbDBoc3NOeG16YUI3Wm1zWFZacE9KRFY5TVlORFBtZ2xoSDUxeE5oZ0lBazJGeXZDdzNLWnluQ1BBM09rc0U5dF9DeTlSZmVsa2VidTJVWW1rcTE3eExUTEtqdVRHb1FDVlE?oc=5": {
       "title": "‘Baterias ajudam, mas não resolvem sobreoferta’, avaliam agentes - MegaWhat",
@@ -4214,7 +4214,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:37.511418",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjRxTTN6ZmpReUh6RTN6RjlGTGE2b3FYeVdQbGZQYXRJcTlEa3hMYmVnWTVIbzNNTGdvZ0RvNHl2VDllY3FVSW1iUUtjSk9mWldPUVFvVUY3cHZvZmhfTVBBaWpFSDF6QUZ1NVk5dHl1Zm5hRy1WdjJpR1ZadDROUHFSNXBFVXE5d2htUmV0d3VFbDZYQS1tMkFBTWI4VmF2QjNV?oc=5": {
       "title": "MME estuda cobrar mais de quem pressiona o sistema elétrico - MegaWhat",
@@ -4222,7 +4222,7 @@
       "source": "",
       "added_at": "2026-06-19T13:50:37.511498",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     }
   }
 }
