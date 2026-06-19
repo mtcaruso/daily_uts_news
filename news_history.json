@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T00:14:05.227025",
+  "last_updated": "2026-06-18T21:31:13.746145",
   "items": {
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWZON3lheEw1OXlWdlExUnlDY2lLZEFjZ3NpbzNfSmczcnN0SjJYTjJtNjlwM29UbWctVlRNbHZHdmZ1RVh1QTB1cFRzMEhScDNNUDNZdm84UDk0Z2ktWXFWYzNvUmk5NVNrNVFNTkFtMWZoSFVKSHhlTFBZTExnT2ZvR042MUNwOUpsZGZ0R082U0U5OUxqRjZCSkN2dG9zcTA2aWFzMHl3VlpubnhWOGI4aVR0ODFQZjE4OHZjaw?oc=5": {
       "title": "Sem Aegea, Equatorial é a sócia de referência finalista da Copasa - Valor Econômico",
@@ -3568,7 +3568,7 @@
       "source": "",
       "added_at": "2026-06-18T19:39:34.146612",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zUlhndk9HcDNnNTNTSlNFSk43ZWxZcklic09hNVJydHBCa3ExMWd2dnVkblkyQW9yLXhPcU5ZOUwxUG4tWFU0cUwyb3VjWHZ5Wm9tRWdTajU?oc=5": {
       "title": "Podcasts - MegaWhat",
@@ -3576,7 +3576,7 @@
       "source": "",
       "added_at": "2026-06-18T19:41:23.050530",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzZQUWhCczQySGtKTEplM1UtZEUzYkxoS2JuODBERjBmZDF3Qm9Cc1V3Y1haa0hyVDFIc2dQS2s0OGt1UExqVHpIblNpamlLNWFySnNTemJWRmxHeG85MjlQaXRzODQwSzlfeC1OV3Y0ejlDSG54U1VEeFhYOTF6ODE3SVBXZjI4YVBfMlQ5M01paHZjcE5uTnQ2N2dmR0JQNFNsbG9HS1VSNDVHXzN0a3lJSV9zdTRzVkNsY21wUVM3d3p2QXMyeWhmWkJfdXc3RTJ0bVhLSDJJTENW0gHrAUFVX3lxTE5wMjlscUVMTmswT1BweUVpbVZXUm5JMmlSMlNaWlBERXp4dGJ3T3FOVU1CQmpkWEVCMExLX0dGSE5sTEVLWEhKV0dPalc3dUhMRVZLQ2tNVDZVY0Y3VG11cjVzYjNCaHFLZ2tJNGhneWlrMGlHY09SOVYydGVfU3NhYzg2c0FSWUthbFVBaTl0d0FkcGJ3a1k2ZWJVUWc1Q2d4aGREMTNjd3ktZFpyYTJnY1FlcE9JNkw5eU42R21QWllMQzVsLWt4dm5jdElmb25pZndFYzFLVXUxQmR5RkN5VTdOVnU1dlFtdDQ?oc=5": {
       "title": "Conselho da Sanepar elege novo diretor financeiro e autoriza projeto no norte do Paraná - Valor Econômico",
@@ -4135,6 +4135,14 @@
       "summary": "A energia eólica no Brasil tem potencial para gerar **200 mil empregos**, impulsionada por uma matriz energética já com mais de **80%** de fontes renováveis. O país se destaca globalmente nesse setor, segundo estudo da International Energy Agency.",
       "source": "",
       "added_at": "2026-06-19T00:14:05.220206"
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSmw3SlZVdUpfLVdYdzZpTUxwTW1sMUJaWG5MeVRvMDE3NnF5WFh4ZTBrYnZNSElaNnlVVkcyOWRaMDRXZ19remRIZGdEVFlsMmtRclAzWQ?oc=5": {
+      "title": "Tag Zamp Energy - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-18T21:30:58.968792",
+      "error": "no_article",
+      "attempts": 1
     }
   }
 }
