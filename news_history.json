@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T12:03:33.563014",
+  "last_updated": "2026-06-19T12:32:34.223777",
   "items": {
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOVBuUzdOVXYxVVRrUDBMTGlxbUNuQ3NCcTZrSVFJWGhsblUycHJIVWU4MXBfa1p1OHdGakxqQkdMM2FPMU5wRjJ1SVFqVXpZMWZNazg5U3BmUHlkRkZaSjVZbmpidW16UG9RR2ZHYlp6eTdudlBETFJZalhSblNrNllGWmp0Qnh3bHoxdTktcWV3ZW1ic2FnT0xGN3o1Q1YwNkt1Q3RPVjNrX2Zlc3hwUm1UUVpBTlFCMWFRQjQ5b0ZPM3BObkpDUkN1ZXN0eGpTWV9NdNIB4wFBVV95cUxQdUx6S1J5WDZfM0ozVGFhdkFHcy14WG1mZEo4WEpOY2RTRE9sSVdvM3AyT29ZdGgtT1BERkwwa2hTRjlhWnhkaldjNXBkVHpFVDgyTlpKelV5am9NcTdINUhETXAxSUYyd0VGbVJHckRCM3VidjVVdHhqU1JJNWh0TDFtQnhWdlkxYkV2THhJbnRDQU5ibE5ZWFlDMHExWkhVelVvS2xtX2JhR1l5RERfSUEzU2RhTVprRXMxbFhzUzZ4UjNwX1E1Y1pQblRZcVRKTEk1Y3BiLXR6LVVNc0Q2MC1KTQ?oc=5": {
       "title": "Falta de quórum impede realização de assembleia da Azevedo & Travassos Energia - Valor Econômico",
@@ -4106,7 +4106,7 @@
       "source": "",
       "added_at": "2026-06-18T21:30:58.968792",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNW1PQTBOclZSODFaV3lNWHc5NlhSMmJSVmlxOUsxRE14U1V3Q29ZaWVVTENtZnVnS082ajRkMGtFT3RVc2Z1ZUVqM20yRk5WMDBLbkx0TWRnYzNfdWlVbWZVNHpCUQ?oc=5": {
       "title": "Últimas Notícias - MegaWhat",
@@ -4188,11 +4188,9 @@
     },
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZEJnOHZfV2ItdkxzcDZMZ2dXRUp3YnZYUlRwTTE5V05vSXoxR1czVkowN0dIRFpCWmNoLWdndUJ2TUxQYnFCOGg1TWtNV1E?oc=5": {
       "title": "Tag CRCAP - MegaWhat",
-      "summary": "Revisão Leilões de capacidade elevam encargo para R$ 5,9 bilhões A Superintendência de Gestão Tarifária e Regulação Econômica da Agência Nacional de Energia Elétrica (Aneel) propôs revisar a previsão anual de custos do Encargo de Potência para Reserva de Capacidade (ERCap) utilizada na cobertura tarifária das distribuidoras com processos tarifários previstos para o segundo quadrimestre de 2026. A…",
+      "summary": "A **Aneel** propôs revisar a previsão anual de custos do Encargo de Potência para Reserva de Capacidade (ERCap) para **R$ 5,9 bilhões**. A revisão visa cobrir os custos tarifários das distribuidoras, com processos previstos para o segundo quadrimestre de **2026**.",
       "source": "",
-      "added_at": "2026-06-19T13:50:37.511096",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-06-19T13:50:37.511096"
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOExLWHlNMnhnSjRmN2xmTjEwWGk4cTNXa2hKYVZaal9mUEVsLWU2ZjctVGMteTIzV2ZCMTRpZ3FQQkk3ZkpRLXBVbkt5N21pYktSVGo0LTZCU0hERFkxUTJGU2RmZjQyLVAyTFlpNkltaFpHUXJHNnBFZ1VjSmZuTzJUb0F0dE9PaEZ1di1ISmNPMmpYR1VycA?oc=5": {
       "title": "Leilões de capacidade elevam encargo para R$ 5,9 bilhões - MegaWhat",
@@ -4232,7 +4230,7 @@
       "source": "",
       "added_at": "2026-06-19T11:33:40.387292",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcllCeWJQRFZHSnBBQWczNXYzTHhGQUtlMTlDOTRmM0Q0RHJsWGpKcXdsSDl3Y2hyM2h1V3NBVnBqck94bVF5ZzZpSUlFOWI3WUJiWVJfZVhwOWNrNHNlcWRjanpnZTlkUWRTeDBKS0o5bTdBZXRPLUhuWjJWTFdRaFNsMWpSRTNHWmdqd0I0MTFwUXIyNXN6bmUybzN3WjNONkZRc0RB?oc=5": {
       "title": "Agrovale e Groener revogam 200 MW de solares e térmica - MegaWhat",
@@ -4240,13 +4238,29 @@
       "source": "",
       "added_at": "2026-06-19T12:02:45.150427",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWW5XcktDUFJDM2FoZ2NpODZCNS1FaVE1V293R1FXYkpRS0pUb0JvWmpfMG85U1hhYWJ4MHZkUGlyWjhrUjVydnRuRmhpR1pNdmFvT2RCcE9DaWlGdWtqVmhKTjFaZ3R5d1hkeFpEWTgyVHduVzUwTTBSak1jZkNXQ2w2MmY3WnNEUkJTaGRxME83eVRzYzd0VmtqaTVidUFn?oc=5": {
       "title": "Aneel fixa em R$ 98,6 milhões cota da CDE para transmissoras - MegaWhat",
       "summary": "A Agência Nacional de Energia Elétrica (Aneel) fixou em R$ 98,6 milhões as cotas referentes ao encargo da Conta de Desenvolvimento Energético (CDE), para o mês de abril de 2026. O montante é relativo a 18 concessionárias de transmissão que atendem consumidor livre e/ou autoprodutor com unidade de consumo conectada às instalações da Rede Básica do Sistema Interligado Nacional.",
       "source": "",
       "added_at": "2026-06-19T12:02:45.150580",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ01iOXdfd19wYTN5M1ZsbWFRRFdSb09EOFBMSXZhSzNYRFBKeFhmOVlHOURKQWdrU05ETDJRMG85Rkh2ay1kR2NLT2J4dkNnamI4dHJKVXN0aGJINEJ2bTZ5RldzUlhfdTlCYXFGMG5mbjBKcTRtRTdKOVVMbi05OFNYQWtEcGpoX21BWVBHeUFtQWNtRWNvWDVudEZNbUVJYlE?oc=5": {
+      "title": "Super El Niño coloca setor elétrico em alerta para possíveis impactos - Agência iNFRA",
+      "summary": "Marisa Wanzeller e Geraldo Campos Jr., da Agência iNFRA O início do El Niño aliado às previsões de uma piora do fenômeno ao longo do segundo semestre de 2026 já movimenta agentes e entidades do setor elétrico. Se por um lado a projeção é de que seja adiada a queda nos volumes dos reservatórios neste ano, o cenário já acende um alerta, tanto pelos possíveis impactos no suprimento no início do…",
+      "source": "",
+      "added_at": "2026-06-19T12:32:25.123475",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG11WjBBSEd6YmVLQUE3dkliMlpNQmhUcmFNN2FlZ3IwRk9aZ045Q2VFeTFJa3h0OG95eHRIeHVtYndkV3lVbDNyaHBTbndhcld2cG5Qc1dXdll6U0VuaGgzQnppQ3VuWl9NcmJITkI0cUY2S2JjbFIwNklsTEtKUXZWcU1fNVVrYXhXYTVfOTF5elBmZHkwTWhtR0JCSXczZFYzbURFSy0zTXo5QzhhdzNGQmJyUVVzV2N6WFBOdGJGN21sNWdRc19qSQ?oc=5": {
+      "title": "Encargos e tributos do setor são prioridade na agenda da CNI para presidenciáveis - CanalEnergia",
+      "summary": "Encargos e tributos do setor são prioridade na agenda da CNI para presidenciáveis. A CNI vai apresentar uma agenda para o próximo governo que inclui a redução de encargos e tributos incidentes sobre a conta de energia.",
+      "source": "",
+      "added_at": "2026-06-19T12:32:25.123585",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
