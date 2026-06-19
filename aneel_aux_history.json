@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:29:37.395749",
+  "last_updated": "2026-06-18T20:59:31.888463",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -959,6 +959,16 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/audiencia-publica-debate-proposta-de-revisao-tarifaria-da-celesc-distribuicao-s-a-sc",
       "summary": "A **ANEEL** realizou audiência pública para debater a proposta de Revisão Tarifária Periódica da **Celesc Distribuição S.A.**, que pode resultar em um aumento médio de **11,77%** nas tarifas. Contribuições podem ser enviadas até 13 de julho, com decisão prevista para 22 de agosto.",
       "added_at": "2026-06-18T19:29:36.913731"
+    },
+    "partic_cp_017_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 017/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=MFxoE91M&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4025&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Estabelecer processo sancionador da **CCEE**. Obter subsídios para regulamentar a aplicação de sanções pela Câmara de Comercialização de Energia Elétrica.",
+      "added_at": "2026-06-18T20:59:31.387625",
+      "objeto": "obter subsídios para estabelecer o processo sancionador da Câmara de Comercialização de Energia Elétrica - CCEE.",
+      "fonte": "ANEEL"
     }
   }
 }

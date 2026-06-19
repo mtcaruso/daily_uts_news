@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:39:35.723664",
+  "last_updated": "2026-06-18T21:01:12.551973",
   "items": {
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGlyUUktelZrVGN2NHpMclA2MnlYYld4aDdXQ2xXb0hLYk96MG1WUldVQ2tBSXROTzYteWQ4R2JXaC1ic2NmX3REUm1JbGlLVG5ZYk5GOU1rS2p1SXRRRm5xeVBvZENIa0NRTlZoNTdIbEFGQ3gyR1BzNFpUal80b1k3NUY2RmdQanFCWUFFM3N3VzlxYlNnSE1MUnAxcm9QQjF5SFZFdHpWVi0wZGFtSVVWWQ?oc=5": {
       "title": "Mercado reage bem a diretrizes com desenho do LRCAP de baterias - CanalEnergia",
@@ -3615,7 +3615,7 @@
       "source": "",
       "added_at": "2026-06-18T19:39:34.146612",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zUlhndk9HcDNnNTNTSlNFSk43ZWxZcklic09hNVJydHBCa3ExMWd2dnVkblkyQW9yLXhPcU5ZOUwxUG4tWFU0cUwyb3VjWHZ5Wm9tRWdTajU?oc=5": {
       "title": "Podcasts - MegaWhat",
@@ -3623,7 +3623,7 @@
       "source": "",
       "added_at": "2026-06-18T19:41:23.050530",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzZQUWhCczQySGtKTEplM1UtZEUzYkxoS2JuODBERjBmZDF3Qm9Cc1V3Y1haa0hyVDFIc2dQS2s0OGt1UExqVHpIblNpamlLNWFySnNTemJWRmxHeG85MjlQaXRzODQwSzlfeC1OV3Y0ejlDSG54U1VEeFhYOTF6ODE3SVBXZjI4YVBfMlQ5M01paHZjcE5uTnQ2N2dmR0JQNFNsbG9HS1VSNDVHXzN0a3lJSV9zdTRzVkNsY21wUVM3d3p2QXMyeWhmWkJfdXc3RTJ0bVhLSDJJTENW0gHrAUFVX3lxTE5wMjlscUVMTmswT1BweUVpbVZXUm5JMmlSMlNaWlBERXp4dGJ3T3FOVU1CQmpkWEVCMExLX0dGSE5sTEVLWEhKV0dPalc3dUhMRVZLQ2tNVDZVY0Y3VG11cjVzYjNCaHFLZ2tJNGhneWlrMGlHY09SOVYydGVfU3NhYzg2c0FSWUthbFVBaTl0d0FkcGJ3a1k2ZWJVUWc1Q2d4aGREMTNjd3ktZFpyYTJnY1FlcE9JNkw5eU42R21QWllMQzVsLWt4dm5jdElmb25pZndFYzFLVXUxQmR5RkN5VTdOVnU1dlFtdDQ?oc=5": {
       "title": "Conselho da Sanepar elege novo diretor financeiro e autoriza projeto no norte do Paraná - Valor Econômico",
@@ -4167,11 +4167,9 @@
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3J3MVg5NUY4bWVXRUV1N25sWjAwZ2FMYV8zMGI2VU5kTE9wWTM0Yy05eEg1LVZhUHRCempOcG9BQ2tLWGh2SEJ6Tl9uNTdYT1RMNVJLeW9rWjVWSTJqY3dldldBcDQxc0dDZ0syQzhXTlU0MmszRnpweE5tWDlOVlROSU5ZVDZZWXBIU3M2OE5BdW85aGdxZklvSjNod3dSVjU5U2ZSQWhXcEdpYm9tclEtV0R5UU9R?oc=5": {
       "title": "Painel S.A.: Enel SP é defendida por sindicato em ofício para agência - Folha de S.Paulo",
-      "summary": "Em uma tentativa de influir nas discussões a respeito da concessão da Enel em São Paulo, o Sindistalação (Sindicato da Indústria de Instalação do Estado de São Paulo) encaminhou ofício à Aneel (Agência Nacional de Energia Elétrica) para dar apoio à continuidade dos investimentos da multinacional no estado. O documento foi endereçado ao diretor-geral da agência, Sandoval de Araujo Feitosa Neto, e…",
+      "summary": "O **Sindistalação** enviou ofício à **Aneel**, defendendo a **Enel SP** e pedindo a continuidade de seus investimentos. O sindicato apoia a empresa em meio ao processo de caducidade da concessão, citando avanços no plano de recuperação e investimentos em infraestrutura, e pede avaliação regulatória que preserve a segurança jurídica do setor.",
       "source": "",
-      "added_at": "2026-06-18T20:38:08.305283",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-06-18T20:38:08.305283"
     }
   }
 }
