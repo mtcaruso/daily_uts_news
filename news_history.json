@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T16:54:44.765652",
+  "last_updated": "2026-06-21T18:47:01.903911",
   "items": {
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wdV9sVVA1OGFBUUdPZGNBTkRzQVFlTXB5dkpLbnhTZ0N3QksxUjRtUHZoaHQ4MTBMWWkwek1pMkhiTGhrZ3JpMDJiMXpHdG1QRzVCeDNGeVdHbUJKU0hyX2htOGRrVUFXVGgxU05vNmotTExNaHNtbjI4VWxVQdIBjAFBVV95cUxPUlo2NW5hSUE3V0VCcEdnX1ZHeE9fSzNiT3daVUphU2NjSE9Ddk9lcnozSFdOUGdSOU5sbzdRcjBBdG1FNkkzcmcxMXZFN0J6RGJWTXRIWFRDOWlqeXd1bGpsTDNtUHpydjF1YjAxZmFFSmxIXy1IdUlxVzJiTnNkejZTQmxhc01MWm5iVA?oc=5": {
       "title": "Segurança energética em alta - Valor Econômico",
@@ -4221,7 +4221,7 @@
       "source": "",
       "added_at": "2026-06-21T15:01:51.480193",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFdzWVRWeC1EVjRSUjZsVVhDcDE4M3JkTUVYWDFSVGNqVm1PbE1CV25fbzZVQWo0eTc2ZFRCb3dOLWFNNkFHOEhDTVR0SVNGZF9lNGNoRThVMjFmM3ZQRjRRVzZlQjRYMVNQM0ZlRjJ1UWotVjR2UlVBbjM3ZUp1RVBZNzdyTTlkR0tzU2dMOHdNNk41cGxuU3JYcUNZNXNiMjFoWGR6MjfSAbcBQVVfeXFMTnZrZlBmU2w3b3ZQNHJua0Nqa1kxbzFYdW1nSnBtb21uY0VUNnA3YzAyeENZNXJJRHp3ZktkYWlIRWUwSV9aNFdHZkNhUUdrQ2JsM0JHRVNBUU91UmFxM3BZNGkxbTBzdnd6WVh0RXJmeVAzVWNBcHdnVlA0X1g5dmFyYjkzV2tfdzFWNXV0YktkTXZyZTRwLXI0d1ZaNTEyYVhPRFYwUVRva0FnWV9vS29LaEpJVmNB?oc=5": {
       "title": "Distress, curtailment e risco de M&A em renováveis - pipelinevalor",
@@ -4237,13 +4237,29 @@
       "source": "",
       "added_at": "2026-06-21T16:54:33.169996",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWJOaFVjeTQ4TTZ6ak1jSVE5SjdPcDFmSVJDbHZYUktHNWFaM2oxRjhFenAwYVdqaDRsYXIwamF5eHNRVU83UElVVThxaDlhNDQ5dGpvYThaZjF2eERKMFRQcmxUTW1KRDU3TF9KZy1GRm02V21ZWlp3S0dvXzl2ekRzak1YbjZvb3c3VU9WUW5iTzFHNUtRanFhN01mdjNhSXRxVF9rNXJjMWJ4a0hybG5CTmlCVmNFUDl5RG1mS283Z9IBxwFBVV95cUxPUjh5NUtXRnFVXzl0TldPN0RvanJ0RzdWWUdVUDFMSWdoQmVSRExWVlotbS1CcEtvYmJJVXdIc0tnQ0t2RElON3RDblRiX3libEhjMjFkNl96TzlGTHp5RkZXT1g4bXVTTWZ1WkZrODJ4VkZSTlcyLTQySEZqVm5Wc3FUTnBhN2R3bzFRbG9OSFV5RmZGNnpObXFWQnp0cVo0QkZrcDF2Q18yWGUzV3ZuX0ZqZTVwUEVaN0NmdWpPUzMwcVg1cGZj?oc=5": {
       "title": "Rodei 1.300 km entre SP e RJ com um carro elétrico e a bateria não foi o problema - Estadão",
       "summary": "Gerando resumo Viajar de carro elétrico ainda é uma pequena prova de confiança. Não exatamente no carro, mas na soma entre autonomia, planejamento, carregadores disponíveis, tempo de espera e o ‘FOMO’ natural de ver a porcentagem da bateria caminhando rumo ao zero.",
       "source": "",
       "added_at": "2026-06-21T16:54:33.170276",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWkzQUYyUS1rVmlQbDJZMmlVcDNranJWNFVsdFE3LVRmTDdYS0tPZFpyVWpPNkM2cExWcG91V2E4YlVmQXZHYjlPVlhsN0hVZ09ORFNQSTBFbTV0Q2ZCS0ZKZHdIUHQ2aXIzWHYtSDVITnYyUTJRakVybUllQTV0MzJSTlZSMy1keDFQNG1DWkRTOXhHSXhnWnZ1TG1SS0dGSnNFdFlBNjJNTk5Va2NyVVppNnQ4YnVSbjlzX3YzUHplOXM4OUhVbXlaZ0NwTGJWN1ItMjBUXzFiTWxwMWFIVXJJeFFPRVVYRGNDNmxzYzJHQdIBgAJBVV95cUxQQkJJRU03bjlacTJzOW9iaTJQVWhxenNmemNuSU40SmVVV3NjSHFVWWh3c2F2ZGU1MVA0eDJvMENvb1BjYU9NT19CRTR5d2c5dHJTWjliakltbXluaVlUUEhpY3hFLUY5cHFPVHdfX203ZGpSWjF1d3JicmltcWZwaXRiU0pQbFlxLTZqdHhRNTl0RmgwckYxX0ItTjk4ZW5KcmdiNGF6d0RkWm56RTVnTlBnbWctbG5UZFBnZHF0NkNjQldtaW1GSFBwdkhrS2hjZVp2NEkzU2Y0YjltOE5zM3ZOUGpDUG1KZDV3aG9SaFVTYkhxcmpjRlFXRU91b0dD?oc=5": {
+      "title": "Aliança Energia, da Vale, incorpora complexo eólico e aumenta capacidade instalada em 9% - Valor Econômico",
+      "summary": "Aliança Energia, da Vale, incorpora complexo eólico e aumenta capacidade instalada em 9% Com a operação, a empresa de energias renováveis da mineradora passou a deter 2.382 MW de capacidade instalada A Aliança Energia ampliou a capacidade instalada do parque gerador da empresa em 9% ao incorporar o complexo eólico Caetité, de 193 megawatts (MW) de potência. Com a operação, a empresa de energias…",
+      "source": "",
+      "added_at": "2026-06-21T18:47:01.895488",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTh6Nl9YR2lQZ3k2VHdjV2VhLVA5ZVc4dF9BOHVGWU5HTUJkT1l6VU1WQVpxYlRUelBZVUZ0cVdvdlpvM3ZScUl2WjF4V0twUFlzcGd1cWUtTXlST2FsOUtTLUI2aXg3RmpTbnJFb3ZjOGRaYVozNHNWZ3hreHpYekE0YmJTTXBOR2o5WURvcUlkaWR5bzFDNWFnMEVtQWNXLWJIaHpqakdDY2JpaU1QNl82WkhLWUFmNlE?oc=5": {
+      "title": "São Paulo recebe 500 ônibus elétricos e amplia frota sustentável - Folha de S.Paulo",
+      "summary": "A Prefeitura de São Paulo entregou neste domingo (21) um lote de 500 novos ônibus elétricos para o sistema municipal de transporte coletivo. A frota elétrica da capital paulista chega a 1.759 veículos do tipo, segundo a gestão.",
+      "source": "",
+      "added_at": "2026-06-21T18:47:01.895947",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }

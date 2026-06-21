@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-06-21T16:54:44.771255",
+  "last_run": "2026-06-21T18:47:01.909527",
   "source_counts": {
-    "Valor": 1,
+    "Valor": 2,
     "Pipeline": 1,
     "Brazil Journal": 0,
-    "Folha": 1,
+    "Folha": 2,
     "Estadão": 4,
     "Agência Infra": 1,
     "Canal Energia": 0,
     "Megawhat": 0
   },
-  "all_items_total": 8,
-  "pending_count": 6,
-  "done": 6,
-  "pruned": 2,
+  "all_items_total": 10,
+  "pending_count": 5,
+  "done": 5,
+  "pruned": 0,
   "fetch_fail_reasons": {}
 }
