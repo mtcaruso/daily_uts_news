@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T18:47:01.903911",
+  "last_updated": "2026-06-21T20:46:11.612553",
   "items": {
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wdV9sVVA1OGFBUUdPZGNBTkRzQVFlTXB5dkpLbnhTZ0N3QksxUjRtUHZoaHQ4MTBMWWkwek1pMkhiTGhrZ3JpMDJiMXpHdG1QRzVCeDNGeVdHbUJKU0hyX2htOGRrVUFXVGgxU05vNmotTExNaHNtbjI4VWxVQdIBjAFBVV95cUxPUlo2NW5hSUE3V0VCcEdnX1ZHeE9fSzNiT3daVUphU2NjSE9Ddk9lcnozSFdOUGdSOU5sbzdRcjBBdG1FNkkzcmcxMXZFN0J6RGJWTXRIWFRDOWlqeXd1bGpsTDNtUHpydjF1YjAxZmFFSmxIXy1IdUlxVzJiTnNkejZTQmxhc01MWm5iVA?oc=5": {
       "title": "Segurança energética em alta - Valor Econômico",
@@ -4237,15 +4237,13 @@
       "source": "",
       "added_at": "2026-06-21T16:54:33.169996",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWJOaFVjeTQ4TTZ6ak1jSVE5SjdPcDFmSVJDbHZYUktHNWFaM2oxRjhFenAwYVdqaDRsYXIwamF5eHNRVU83UElVVThxaDlhNDQ5dGpvYThaZjF2eERKMFRQcmxUTW1KRDU3TF9KZy1GRm02V21ZWlp3S0dvXzl2ekRzak1YbjZvb3c3VU9WUW5iTzFHNUtRanFhN01mdjNhSXRxVF9rNXJjMWJ4a0hybG5CTmlCVmNFUDl5RG1mS283Z9IBxwFBVV95cUxPUjh5NUtXRnFVXzl0TldPN0RvanJ0RzdWWUdVUDFMSWdoQmVSRExWVlotbS1CcEtvYmJJVXdIc0tnQ0t2RElON3RDblRiX3libEhjMjFkNl96TzlGTHp5RkZXT1g4bXVTTWZ1WkZrODJ4VkZSTlcyLTQySEZqVm5Wc3FUTnBhN2R3bzFRbG9OSFV5RmZGNnpObXFWQnp0cVo0QkZrcDF2Q18yWGUzV3ZuX0ZqZTVwUEVaN0NmdWpPUzMwcVg1cGZj?oc=5": {
       "title": "Rodei 1.300 km entre SP e RJ com um carro elétrico e a bateria não foi o problema - Estadão",
-      "summary": "Gerando resumo Viajar de carro elétrico ainda é uma pequena prova de confiança. Não exatamente no carro, mas na soma entre autonomia, planejamento, carregadores disponíveis, tempo de espera e o ‘FOMO’ natural de ver a porcentagem da bateria caminhando rumo ao zero.",
+      "summary": "O **Volvo EX90** percorreu **1.336 km** entre SP e RJ, com a bateria de **111 kWh** chegando ao Rio com **16%**. A recarga em estação rápida de **120 kW** levou **96 minutos** para recuperar de **16% a 100%**, mostrando desafios de infraestrutura em trechos rodoviários.",
       "source": "",
-      "added_at": "2026-06-21T16:54:33.170276",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-06-21T16:54:33.170276"
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWkzQUYyUS1rVmlQbDJZMmlVcDNranJWNFVsdFE3LVRmTDdYS0tPZFpyVWpPNkM2cExWcG91V2E4YlVmQXZHYjlPVlhsN0hVZ09ORFNQSTBFbTV0Q2ZCS0ZKZHdIUHQ2aXIzWHYtSDVITnYyUTJRakVybUllQTV0MzJSTlZSMy1keDFQNG1DWkRTOXhHSXhnWnZ1TG1SS0dGSnNFdFlBNjJNTk5Va2NyVVppNnQ4YnVSbjlzX3YzUHplOXM4OUhVbXlaZ0NwTGJWN1ItMjBUXzFiTWxwMWFIVXJJeFFPRVVYRGNDNmxzYzJHQdIBgAJBVV95cUxQQkJJRU03bjlacTJzOW9iaTJQVWhxenNmemNuSU40SmVVV3NjSHFVWWh3c2F2ZGU1MVA0eDJvMENvb1BjYU9NT19CRTR5d2c5dHJTWjliakltbXluaVlUUEhpY3hFLUY5cHFPVHdfX203ZGpSWjF1d3JicmltcWZwaXRiU0pQbFlxLTZqdHhRNTl0RmgwckYxX0ItTjk4ZW5KcmdiNGF6d0RkWm56RTVnTlBnbWctbG5UZFBnZHF0NkNjQldtaW1GSFBwdkhrS2hjZVp2NEkzU2Y0YjltOE5zM3ZOUGpDUG1KZDV3aG9SaFVTYkhxcmpjRlFXRU91b0dD?oc=5": {
       "title": "Aliança Energia, da Vale, incorpora complexo eólico e aumenta capacidade instalada em 9% - Valor Econômico",
@@ -4253,13 +4251,29 @@
       "source": "",
       "added_at": "2026-06-21T18:47:01.895488",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTh6Nl9YR2lQZ3k2VHdjV2VhLVA5ZVc4dF9BOHVGWU5HTUJkT1l6VU1WQVpxYlRUelBZVUZ0cVdvdlpvM3ZScUl2WjF4V0twUFlzcGd1cWUtTXlST2FsOUtTLUI2aXg3RmpTbnJFb3ZjOGRaYVozNHNWZ3hreHpYekE0YmJTTXBOR2o5WURvcUlkaWR5bzFDNWFnMEVtQWNXLWJIaHpqakdDY2JpaU1QNl82WkhLWUFmNlE?oc=5": {
       "title": "São Paulo recebe 500 ônibus elétricos e amplia frota sustentável - Folha de S.Paulo",
       "summary": "A Prefeitura de São Paulo entregou neste domingo (21) um lote de 500 novos ônibus elétricos para o sistema municipal de transporte coletivo. A frota elétrica da capital paulista chega a 1.759 veículos do tipo, segundo a gestão.",
       "source": "",
       "added_at": "2026-06-21T18:47:01.895947",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zV3FiMmpreU43Q3EyRXVBblJVYjkxV0xSMTdncS1KN3c2Y1N0UUNib1JpaUpPbjF0Wkp1V2NxcFl3V2dhR1p0My05dGpKQjNRTVZURTNkVFJvc1FhX3Y5RWZTYVRmZExvWGxLY3RVUVZrNWtQS1ViOGc0amhiRDA?oc=5": {
+      "title": "Demanda recorde por rede elétrica leva espera a até 5 anos e põe indústria e data centers em disputa - UOL",
+      "summary": "* Apenas para assinantes comentÃĄrios Os comentÃĄrios nÃĢo representam a opiniÃĢo do jornal; a responsabilidade ÃĐ do autor da mensagem. - otto braune wiikRealmente ANEEL e ONS deixam muito a desejar.",
+      "source": "",
+      "added_at": "2026-06-21T20:46:01.036765",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWN1Z2NkZHhSYUwwNF9BSmZTYXRibW84Z2RpUGtYYkpoTEQwQXNpT3c3cU4zNko2Z3ZIcWYydENnWkpSSHN2ZmpxUlJGTzBvVExYVzNJbGlYUWpVYWx3dDhkUlVHMWp5RENzTzdQczdBcW5Xd0dnam11Y1FLLV9tTHdNVmt3c1hrOHRiZEtGRXFReEpHNzNtZTFvbTFNak5YSU9lMEZ0NG9INFRrYlHSAbMBQVVfeXFMT2htWk1yTXRhRnJvaUFTQjA0WmxGSEI2V2JiMm9lNnpJVUl6TlZNT0xWb3ZqbVMwOXYyZUNFX2Vuak96eklSbVVPOEJ4dWlreG8xSXlnRkpnUlVNVzUyS0ptMDVScllPTVNTRHJiUkZfV2RLTndDdXJIRTMzaVhNZGRoZEEwMmhkdHpxLXBLMEJ3di1XM2JLeDJSMzZtUkRKZ20xSi1SM2MwY2N6VWRKMUQ4eHM?oc=5": {
+      "title": "China cria novas regras para evitar incêndios em carros elétricos - Estadão",
+      "summary": "Gerando resumo A China está implementando regras mais rigorosas para as baterias de carros elétricos. O objetivo é reduzir praticamente a zero os riscos de incêndio e explosão causados por falhas nas baterias.",
+      "source": "",
+      "added_at": "2026-06-21T20:46:01.036887",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
