@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T23:48:11.107680",
+  "last_updated": "2026-06-21T05:16:42.704138",
   "items": {
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2Q1Vk1OWmFKQjdGSjRXbVZZX0tBYnpuY01XWWtuemxQeEs5dFh4NGFjaUJla3Q4S01EX2xIc2NkamtXVlRtbVJrVEsyc1ZEeGdzZUQ1aGYycmJPUUQ3c1c0OWV0RXhNbXJqSmJla1lBdlY4M0tuSlY2bUJJVWx6T3dwQzZLMHNWLVhvT3JrODlHN00zRW9EUFRrLVItd1V4eG90YTlTb0tYYzI1XzZLVWNqV0l1YXNSWUJHUnpSSmVzS3dVZThRWGYwXzQ0QkNZbG5GdUljQTVUT1Q3UVBHdA?oc=5": {
       "title": "Adaptação lenta da rede elétrica na Bahia ameaça arara-azul-de-lear, diz projeto de conservação - Folha de S.Paulo",
@@ -4203,7 +4203,13 @@
       "source": "",
       "added_at": "2026-06-20T18:44:31.140782",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjVKQ3BNQWN0N000M1lybGxuVkk3MzVjZzVxVzZPNnFYVW9UUnEwZmdoYkR5Wk1QMTU3SVhrUEdsQW5tTXdOaXd5ZXZUQ2t3S25iTlpkMVpMWE5LMm1mdS1ucVl0cXZycHE0Q2JZd1dDcG50YVBCQzdfNUFsMTQ5cVR4azFheHlNZEhzNkhMRi1FWGR0YkthTkg4UVY3eFhaalFmU3BobXhvX0NwNlRBNWxyLXhFMkVqWEpKZ3l5bDdLUTh1YnVNNWtoRnQ0Qi1IX2x5dUVhVWJCaFhoZlllUWhXSVE2Rms?oc=5": {
+      "title": "Demanda recorde por rede elétrica leva espera a até 5 anos e põe indústria e data centers em disputa - Folha de S.Paulo",
+      "summary": "A demanda recorde por conexão à rede de transmissão elétrica brasileira está gerando filas de até 5 anos, forçando a indústria e data centers a competirem por capacidade. Um novo sistema de leilão, implementado em dezembro pelo **MME** e operado pelo **ONS**, prioriza quem oferecer maior bônus financeiro por kW. A **Abrace**, representando grandes consumidores, alerta para a disputa desproporcional com data centers, que solicitam volumes muito maiores de energia, impactando planos de expansão industrial.",
+      "source": "",
+      "added_at": "2026-06-21T05:16:42.697281"
     }
   }
 }
