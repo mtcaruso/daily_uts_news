@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T15:00:59.052754-03:00",
+  "last_updated": "2026-06-21T16:42:17.067560-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -4736,24 +4736,6 @@
       "first_seen": "2026-05-22T22:16:37.809977"
     },
     {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação para Analistas e Investidores - Maio 2026 -",
-      "data_referencia": "20260522 22/05/2026",
-      "data_entrega": "20260522 22/05/2026 15:11",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação para Analistas e Investidores - Maio 2026",
-      "protocolo": "1526033",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1526033",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-05-22T18:22:28.939326"
-    },
-    {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
       "categoria": "Dados Econômico-Financeiros",
@@ -4770,24 +4752,6 @@
       "empresa_label": "Alupar",
       "codigo_cvm": "21490",
       "first_seen": "2026-05-26T23:44:15.898045"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação de Roadshow -",
-      "data_referencia": "20260522 22/05/2026",
-      "data_entrega": "20260522 22/05/2026 08:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação de Roadshow",
-      "protocolo": "1525840",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1525840",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-05-22T18:22:54.987053"
     },
     {
       "cnpj_short": "02149-0",
