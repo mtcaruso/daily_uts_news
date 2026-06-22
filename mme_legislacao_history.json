@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:20:44.230342",
+  "last_updated": "2026-06-22T15:33:47.654928",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3033,6 +3033,45 @@
       "added_at": "2026-06-18T17:29:50.158548",
       "summarized_at": null,
       "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-gm-mme-n-58-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-58-2026",
+      "title": "Portaria GM/MME nº 58/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-58-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-58-2026.pdf",
+      "date_modified": "22/06/2026",
+      "ementa": "Designa MATHEUS CASTELO BRANCO CABRAL, matrícula SIAPE nº 2035145, para exercer a Função Comissionada Executiva de Coordenador de Governança das Entidades Vinculadas da Coordenação-Geral de Governança das Entidades Vinculadas, da Subsecretaria de Governança, da Secretaria-Executiva, código FCE 1.10, ficando dispensado da função que atualmente ocupa.",
+      "summary": "Designa **MATHEUS CASTELO BRANCO CABRAL** para Coordenador de Governança das Entidades Vinculadas. Dispensa-o da função atual.",
+      "added_at": "2026-06-22T15:33:21.019187",
+      "summarized_at": "2026-06-22T15:33:30.135337"
+    },
+    "portarias_portaria-mme-n-83-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-83-2026",
+      "title": "Portaria MME nº 83/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-83-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-83-2026.pdf",
+      "date_modified": "22/06/2026",
+      "ementa": "Dispensa RAFAELA COELHO GUERRANTE GOMES SIQUEIRA MOREIRA, matrícula SIAPE nº 1138655, do encargo de substituta eventual do Diretor do Departamento de Biocombustíveis da Secretaria de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.15.",
+      "summary": "Dispensa **RAFAELA COELHO GUERRANTE GOMES SIQUEIRA MOREIRA** do encargo de substituta eventual do Diretor do Departamento de Biocombustíveis.",
+      "added_at": "2026-06-22T15:33:21.019187",
+      "summarized_at": "2026-06-22T15:33:40.014657"
+    },
+    "portarias_portaria-mme-n-84-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-84-2026",
+      "title": "Portaria MME nº 84/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-84-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-84-2026.pdf",
+      "date_modified": "22/06/2026",
+      "ementa": "Designa MARCIA VALERIA DE SOUZA ALVES, matrícula SIAPE nº 1517283, para exercer o encargo de substituta do Diretor do Departamento de Biocombustíveis da Secretaria de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.15, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **MARCIA VALERIA DE SOUZA ALVES** para substituir o Diretor do Departamento de Biocombustíveis.",
+      "added_at": "2026-06-22T15:33:21.019187",
+      "summarized_at": "2026-06-22T15:33:47.154568"
     }
   },
   "first_run_done": true
