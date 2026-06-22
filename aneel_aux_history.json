@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T22:11:57.089251",
+  "last_updated": "2026-06-22T05:22:51.113299",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -985,6 +985,14 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14767&idAreaNoticia=425",
       "summary": "- **Leilão nº 4/2026**: Aprovação do Edital para contratação de concessões de transmissão de energia elétrica em sete estados, consolidado após consulta pública.\n- **Consulta Pública nº 45/2019**: Definição de critérios operativos para redução ou limitação de geração no SIN, com base no resultado da terceira fase.",
       "added_at": "2026-06-19T11:30:26.225333"
+    },
+    "noticia_2026_aneel-promove-educacao-sobre-consumo-de-energia-para-mais-de-370-criancas-no-distrito-federal": {
+      "type": "noticia",
+      "title": "ANEEL promove educação sobre consumo de energia para mais de 370 crianças no Distrito Federal",
+      "date": "19/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-educacao-sobre-consumo-de-energia-para-mais-de-370-criancas-no-distrito-federal",
+      "summary": "A **ANEEL** realizou uma ação educativa sobre consumo consciente de energia para **377 crianças** em Ceilândia (DF), nesta sexta-feira (19/6). A iniciativa utilizou dinâmicas lúdicas para ensinar sobre energia elétrica e sustentabilidade.",
+      "added_at": "2026-06-22T05:22:50.613047"
     }
   }
 }
