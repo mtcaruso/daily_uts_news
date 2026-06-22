@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T04:38:54.354959-03:00",
+  "last_updated": "2026-06-22T10:16:44.728683-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -4662,24 +4662,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-05-26T23:44:18.551656"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Aprovação pelo Cade da aquisição da Sanessol -",
-      "data_referencia": "20260522 22/05/2026",
-      "data_entrega": "20260522 22/05/2026 20:55",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aprovação pelo Cade da aquisição da Sanessol",
-      "protocolo": "1526423",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1526423",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-05-23T07:45:53.132697"
     },
     {
       "cnpj_short": "02149-0",
