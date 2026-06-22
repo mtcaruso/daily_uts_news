@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T19:38:42.774362",
+  "last_updated": "2026-06-22T22:11:27.851598",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -993,6 +993,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-educacao-sobre-consumo-de-energia-para-mais-de-370-criancas-no-distrito-federal",
       "summary": "A **ANEEL** realizou uma ação educativa sobre consumo consciente de energia para **377 crianças** em Ceilândia (DF), nesta sexta-feira (19/6). A iniciativa utilizou dinâmicas lúdicas para ensinar sobre energia elétrica e sustentabilidade.",
       "added_at": "2026-06-22T05:22:50.613047"
+    },
+    "noticia_2026_edital-do-leilao-de-transmissao-previsto-para-outubro-e-enviado-para-o-tcu": {
+      "type": "noticia",
+      "title": "Edital do leilão de transmissão previsto para outubro é enviado para o TCU",
+      "date": "22/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/edital-do-leilao-de-transmissao-previsto-para-outubro-e-enviado-para-o-tcu",
+      "summary": "A **ANEEL** enviou o edital do Leilão de Transmissão 4/2026, com investimento previsto de **R$ 8,9 bilhões**, para o **TCU** para análise. O leilão, marcado para **30 de outubro**, contratará empresas para construir e gerir empreendimentos em **sete estados**, totalizando **1.866 km** de linhas e **13.564 MVA** em transformação.",
+      "added_at": "2026-06-22T22:11:22.156347"
+    },
+    "noticia_2026_mais-de-2mil-pessoas-participam-da-corrida-da-regulacao": {
+      "type": "noticia",
+      "title": "Mais de 2 mil pessoas participam da Corrida da Regulação",
+      "date": "22/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/mais-de-2mil-pessoas-participam-da-corrida-da-regulacao",
+      "summary": "A **ANEEL** realizou a Corrida da Regulação em **21/6**, reunindo mais de **2.000** participantes, incluindo servidores de **11 agências reguladoras** e órgãos públicos. O evento, que celebrou os **30 anos** da agência, arrecadou **708,5kg** de alimentos para doação.",
+      "added_at": "2026-06-22T22:11:27.351355"
     }
   }
 }
