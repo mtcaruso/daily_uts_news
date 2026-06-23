@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-23T09:46:20.888960-03:00",
+  "last_updated": "2026-06-23T12:43:58.131246-03:00",
   "items": [
+    {
+      "cnpj_short": "01830-9",
+      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260622 06/2026",
+      "data_entrega": "20260623 23/06/2026 10:56",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1537391",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1537391",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "18309",
+      "first_seen": "2026-06-23T15:43:07.465582"
+    },
     {
       "cnpj_short": "00557-6",
       "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
