@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T21:05:19.721958",
+  "last_updated": "2026-06-23T22:21:35.405079",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1017,6 +1017,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/fiscalizacao-da-aneel-iniciou-inspecao-na-neoenergia-brasilia",
       "summary": "A **ANEEL** iniciou fiscalização na **Neoenergia Brasília** para apurar impactos do novo sistema de gestão comercial. A inspeção, realizada em **18 de junho**, abrange processos como leitura, faturamento e entrega de contas para **1,19 milhão de consumidores**.",
       "added_at": "2026-06-23T21:05:19.221707"
+    },
+    "noticia_2026_aneel-abre-consulta-publica-para-aperfeicoar-programa-de-eficiencia-energetica": {
+      "type": "noticia",
+      "title": "ANEEL abre Consulta Pública para aperfeiçoar Programa de Eficiência Energética",
+      "date": "23/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-abre-consulta-publica-para-aperfeicoar-programa-de-eficiencia-energetica",
+      "summary": "A **ANEEL** abriu Consulta Pública (CP018/2026) para aprimorar o Programa de Eficiência Energética (PEE), visando alinhar o programa à transição energética e prioridades do setor. As contribuições podem ser enviadas de **25 de junho a 10 de agosto de 2026**.",
+      "added_at": "2026-06-23T22:21:29.641788"
+    },
+    "noticia_2026_aneel-aprova-revisao-tarifaria-periodica-da-copel-dis": {
+      "type": "noticia",
+      "title": "ANEEL aprova revisão tarifária periódica da Copel-DIS",
+      "date": "23/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-revisao-tarifaria-periodica-da-copel-dis",
+      "summary": "A **ANEEL** aprovou a Revisão Tarifária Periódica de 2026 da **Copel-DIS**, com efeito médio de **20,51%** para os consumidores, a partir de **24 de junho**. A decisão impacta cerca de **5,32 milhões** de unidades consumidoras no Paraná.",
+      "added_at": "2026-06-23T22:21:34.904832"
     }
   }
 }
