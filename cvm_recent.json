@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-23T14:29:57.382583-03:00",
+  "last_updated": "2026-06-23T16:26:34.043311-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Deliberações sobre a celebração de Contratos e aditivos pelas Subsidiárias com os fornecedores e seus clientes; Outros assuntos não inerentes a CVM 44Ata",
+      "data_referencia": "20260618 18/06/2026 08:30",
+      "data_entrega": "20260623 23/06/2026 14:56",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Deliberações sobre a celebração de Contratos e aditivos pelas Subsidiárias com os fornecedores e seus clientes; Outros assuntos não inerentes a CVM 44",
+      "protocolo": "1537485",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1537485",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-06-23T19:26:30.199225"
+    },
     {
       "cnpj_short": "01830-9",
       "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
