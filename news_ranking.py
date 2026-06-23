@@ -119,6 +119,12 @@ _GENERIC_ENTITIES = {
     "painel", "exclusivo", "agenda", "analise", "coluna", "entrevista", "giro",
     "veja", "saiba", "entenda", "ultimas", "empresas", "politica", "opiniao",
     "balanco", "novas", "novos", "nova", "novo", "primeiro", "primeira", "tag",
+    # substantivos comuns que viram "entidade" FALSA em início de frase
+    # ("Agentes pressionam...", "Hidrelétricas disputam...") e separavam
+    # histórias da mesma cobertura:
+    "agente", "agentes", "consumidor", "consumidores", "solares", "termica",
+    "termicas", "gerador", "geradores", "investidor", "investidores",
+    "comercializadora", "comercializadoras", "concessionaria", "concessionarias",
 }
 
 
@@ -140,23 +146,70 @@ def _entities(title: str) -> set:
     ents = set()
     for w in re.findall(r"[A-ZÀ-Þ][A-Za-zÀ-ÿ0-9]{2,}", head):
         wn = _norm(w)
-        if wn and wn not in _PT_STOP and wn not in _GENERIC_ENTITIES:
-            ents.add(wn)
+        if not wn or wn in _PT_STOP:
+            continue
+        # plural simples → singular pra casar com a lista genérica (evita que
+        # 'Hidrelétricas'/'Agentes' de início de frase virem 'entidade' FALSA e
+        # separem histórias da mesma cobertura).
+        wn_sing = wn[:-1] if (len(wn) > 4 and wn.endswith("s")) else wn
+        if wn in _GENERIC_ENTITIES or wn_sing in _GENERIC_ENTITIES:
+            continue
+        ents.add(wn)
     return ents
 
 
-def _same_story(a_toks: set, b_toks: set, a_ents: set, b_ents: set) -> bool:
+# ── Concept tags: temas regulatórios RECORRENTES do setor (energia/saneamento).
+# Duas manchetes que batem no MESMO tema são tratadas como a MESMA história —
+# mesmo com palavras bem diferentes entre fontes (ex.: "corte de geração" ×
+# "curtailment" × "rateio de corte"). NÃO cola empresas distintas (CPFL × Cemig):
+# isso é barrado ANTES, em _same_story. Estende à vontade — (nome: [regex...])
+# casado contra o título normalizado (lower, SEM acento).
+_CONCEPT_TAGS = {
+    "curtailment": [
+        r"curtailment", r"constrained",
+        r"cortes? (de|na) gera", r"corte de gera",
+        r"ordem de corte", r"ordenamento.{0,20}corte",
+        r"rateio.{0,20}corte", r"corte.{0,20}rateio", r"regra de corte",
+    ],
+    "leilao_transmissao": [r"leil\w+ de transmiss"],
+    "leilao_geracao": [
+        r"leil\w+ de (gera|capacidade|reserva|potencia)",
+        r"leil\w+ de energia (nova|existente)", r"\blrcap\b",
+    ],
+    "mmgd": [r"\bmmgd\b", r"minigera", r"gera\w+ distribuida"],
+}
+_CONCEPT_COMPILED = {k: [re.compile(p) for p in pats] for k, pats in _CONCEPT_TAGS.items()}
+
+
+def _concepts(title: str) -> frozenset:
+    """Temas regulatórios que o título toca (ver _CONCEPT_TAGS). Tira o sufixo
+    da fonte antes pra não casar com nome de fonte."""
+    t = _norm(re.split(r"\s+[\-|–—]\s+", title or "")[0])
+    return frozenset(
+        name for name, pats in _CONCEPT_COMPILED.items()
+        if any(p.search(t) for p in pats)
+    )
+
+
+def _same_story(a_toks: set, b_toks: set, a_ents: set, b_ents: set,
+                a_cons: frozenset = frozenset(), b_cons: frozenset = frozenset()) -> bool:
     """True se dois títulos cobrem a MESMA história.
     1) Compartilham ≥2 ENTIDADES (mesma empresa+ativo) → mesma história, mesmo
        que as manchetes (de fontes diferentes) usem palavras bem distintas.
     2) Se AMBOS têm entidades mas NÃO compartilham nenhuma → empresas diferentes,
-       NÃO junta (evita colar 'reajuste CPFL' com 'reajuste Cemig').
-    3) Fallback lexical pra dupes quase idênticos sem entidades claras."""
+       NÃO junta (evita colar 'reajuste CPFL' com 'reajuste Cemig'). Barrado ANTES
+       do concept, de propósito.
+    3) Mesmo TEMA regulatório recorrente (curtailment, leilão de transmissão...) →
+       mesma história, mesmo com manchetes bem diferentes (cobre o caso do user:
+       3-4 matérias do 'ANEEL adia curtailment' viravam 4 cards).
+    4) Fallback lexical pra dupes quase idênticos sem entidades claras."""
     shared_ents = a_ents & b_ents
     if len(shared_ents) >= 2:
         return True
     if a_ents and b_ents and not shared_ents:
         return False
+    if a_cons & b_cons:
+        return True
     # Fallback lexical ESTRITO — só pra dupes quase idênticos sem entidades
     # claras (ex.: títulos repetidos, relatórios de série). Estrito de propósito:
     # o fallback frouxo colava manchetes genéricas que só dividiam 'energia'.
@@ -172,20 +225,21 @@ def _same_story(a_toks: set, b_toks: set, a_ents: set, b_ents: set) -> bool:
 def _cluster_items(items: List[dict]) -> List[List[dict]]:
     """Agrupa items que são a mesma história (greedy, compara com o seed de cada
     cluster pra não derivar). Retorna lista de clusters (cada um lista de items)."""
-    clusters = []  # cada: {"toks": set, "ents": set, "items": [...]}
+    clusters = []  # cada: {"toks": set, "ents": set, "cons": frozenset, "items": [...]}
     for it in items:
         title = it.get("title") or ""
         toks = _content_tokens(title)
         ents = _entities(title)
+        cons = _concepts(title)
         placed = False
-        if toks or ents:
+        if toks or ents or cons:
             for c in clusters:
-                if _same_story(toks, c["toks"], ents, c["ents"]):
+                if _same_story(toks, c["toks"], ents, c["ents"], cons, c["cons"]):
                     c["items"].append(it)
                     placed = True
                     break
         if not placed:
-            clusters.append({"toks": toks, "ents": ents, "items": [it]})
+            clusters.append({"toks": toks, "ents": ents, "cons": cons, "items": [it]})
     return [c["items"] for c in clusters]
 
 
