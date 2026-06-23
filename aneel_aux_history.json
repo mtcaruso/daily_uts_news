@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T18:07:56.340485",
+  "last_updated": "2026-06-23T21:05:19.721958",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1009,6 +1009,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/mais-de-2mil-pessoas-participam-da-corrida-da-regulacao",
       "summary": "A **ANEEL** realizou a Corrida da Regulação em **21/6**, reunindo mais de **2.000** participantes, incluindo servidores de **11 agências reguladoras** e órgãos públicos. O evento, que celebrou os **30 anos** da agência, arrecadou **708,5kg** de alimentos para doação.",
       "added_at": "2026-06-22T22:11:27.351355"
+    },
+    "noticia_2026_fiscalizacao-da-aneel-iniciou-inspecao-na-neoenergia-brasilia": {
+      "type": "noticia",
+      "title": "Fiscalização da ANEEL iniciou inspeção na Neoenergia Brasília",
+      "date": "23/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/fiscalizacao-da-aneel-iniciou-inspecao-na-neoenergia-brasilia",
+      "summary": "A **ANEEL** iniciou fiscalização na **Neoenergia Brasília** para apurar impactos do novo sistema de gestão comercial. A inspeção, realizada em **18 de junho**, abrange processos como leitura, faturamento e entrega de contas para **1,19 milhão de consumidores**.",
+      "added_at": "2026-06-23T21:05:19.221707"
     }
   }
 }
