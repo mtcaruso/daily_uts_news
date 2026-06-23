@@ -1,0 +1,44 @@
+name: Keep-Alive (mantém o dashboard acordado 24/7)
+
+# A Streamlit Community Cloud "dorme" o app após um tempo sem tráfego — e NÃO dá
+# pra mudar esse timeout no plano grátis. Este job faz um GET no app a cada ~5min
+# pra resetar o timer de inatividade → o site nunca cai na tela "gone to sleep"
+# e fica rápido (container quente, caches mornos). É UM job longo num while, não
+# depende do cron do GHA ser honrado (mesmo padrão do cvm-fast.yml). Repo público
+# = Actions ilimitado → grátis e 24/7, independente do PC local estar ligado.
+#
+# 🔴 O ping SEGUE os redirects (-L): a Streamlit responde 303 pro gateway de
+# auth/wake (share.streamlit.io/-/auth/app) e só DEPOIS serve o app (200). Sem
+# -L o ping para no 303 e não "acorda" o app.
+#
+# OBS: o GET NÃO roda o script Python do app (isso só acontece via websocket
+# quando um browser abre de verdade), então NÃO gasta Gemini. As notícias já são
+# resumidas via LLM pelo backend (news_refresh 2x/h + self-host 30min),
+# independente do site estar acordado.
+on:
+  schedule:
+    # reinicia a cada 4h (o job loopa ~5.5h → sobrepõe e cobre um cron dropado)
+    - cron: "9 */4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: keep-alive
+  cancel-in-progress: true  # novo run cancela o antigo (nunca 2 loops juntos)
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Ping loop (~5min, por ~5.5h)
+        run: |
+          URL="https://utilities-clipping.streamlit.app/"
+          UA="Mozilla/5.0 (keep-alive bot; mtcaruso/daily_uts_news)"
+          end=$(( $(date +%s) + 19800 ))   # ~5.5h
+          ok=0; fail=0
+          while [ $(date +%s) -lt $end ]; do
+            code=$(curl -sS -L --max-time 45 -A "$UA" -o /dev/null -w "%{http_code}" "$URL" || echo "000")
+            if [ "$code" = "200" ]; then ok=$((ok+1)); else fail=$((fail+1)); fi
+            echo "$(date -u +%H:%M:%S)Z keep-alive -> HTTP $code (ok=$ok fail=$fail)"
+            sleep 300
+          done
