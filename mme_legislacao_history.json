@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T05:15:09.627987",
+  "last_updated": "2026-06-23T08:26:07.186854",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3072,6 +3072,58 @@
       "summary": "Designa **MARCIA VALERIA DE SOUZA ALVES** para substituir o Diretor do Departamento de Biocombustíveis.",
       "added_at": "2026-06-22T15:33:21.019187",
       "summarized_at": "2026-06-22T15:33:47.154568"
+    },
+    "portarias_portaria-gm-mme-n-59-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-59-2026",
+      "title": "Portaria GM/MME nº 59/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-59-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-59-2026.pdf",
+      "date_modified": "23/06/2026",
+      "ementa": "Designa MARCELO SPERLING, matrícula SIAPE nº 1504929, para exercer o encargo de substituto do Coordenador de Projetos de Eficiência Energética da Coordenação-Geral de Eficiência Energética, do Departamento de Informações, Estudos e Eficiência Energética, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **MARCELO SPERLING** para substituir o Coordenador de Projetos de Eficiência Energética.",
+      "added_at": "2026-06-23T08:25:29.244800",
+      "summarized_at": "2026-06-23T08:25:45.361242"
+    },
+    "portarias_portaria-gm-mme-n-60-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-60-2026",
+      "title": "Portaria GM/MME nº 60/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-60-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-60-2026.pdf",
+      "date_modified": "23/06/2026",
+      "ementa": "Designa SHEILLA DA SILVA BATISTA CAVALCANTI, matrícula SIAPE nº 2499484, para exercer a Função Comissionada Executiva de Chefe do Serviço de Gestão de Desempenho da Coordenação de Desenvolvimento, Saúde e Desempenho, da Coordenação-Geral de Gestão de Pessoas, da Subsecretaria de Planejamento, Orçamento e Administração, da Secretaria-Executiva, código FCE 1.05.",
+      "summary": "Designa **SHEILLA DA SILVA BATISTA CAVALCANTI** para exercer a Função Comissionada Executiva de Chefe do Serviço de Gestão de Desempenho.",
+      "added_at": "2026-06-23T08:25:29.244800",
+      "summarized_at": "2026-06-23T08:25:53.352963"
+    },
+    "portarias_portaria-mme-n-85-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-85-2026",
+      "title": "Portaria MME nº 85/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-85-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-85-2026.pdf",
+      "date_modified": "23/06/2026",
+      "ementa": "Exonera, a pedido, GEOVANNA BARRETO SILVA, CPF: ***.469.661-**, do Cargo Comissionado Executivo de Chefe de Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral, código CCE 1.13, a partir de 22 de junho 2026.",
+      "summary": "Exonera **GEOVANNA BARRETO SILVA** do Cargo Comissionado Executivo de Chefe de Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral, a partir de **22 de junho de 2026**.",
+      "added_at": "2026-06-23T08:25:29.244800",
+      "summarized_at": "2026-06-23T08:26:01.251884"
+    },
+    "portarias_portaria-mme-n-86-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-86-2026",
+      "title": "Portaria MME nº 86/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-86-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-86-2026.pdf",
+      "date_modified": "23/06/2026",
+      "ementa": "Designa SAMIRA SANA FERNANDES DE SOUSA CARMO, matrícula SIAPE nº 3420721, para exercer o encargo de substituta do Diretor do Departamento de Informações, Estudos e Eficiência Energética da Secretaria Nacional de Transição Energética e Planejamento, código CCE 1.15, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo.",
+      "summary": "Designa **SAMIRA SANA FERNANDES DE SOUSA CARMO** para substituir o Diretor do Departamento de Informações, Estudos e Eficiência Energética. O encargo é para afastamentos, impedimentos ou vacância do cargo.",
+      "added_at": "2026-06-23T08:25:29.244800",
+      "summarized_at": "2026-06-23T08:26:06.671668"
     }
   },
   "first_run_done": true
