@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T09:01:29.541691",
+  "last_updated": "2026-06-24T12:26:18.289790",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1033,6 +1033,16 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-revisao-tarifaria-periodica-da-copel-dis",
       "summary": "A **ANEEL** aprovou a Revisão Tarifária Periódica de 2026 da **Copel-DIS**, com efeito médio de **20,51%** para os consumidores, a partir de **24 de junho**. A decisão impacta cerca de **5,32 milhões** de unidades consumidoras no Paraná.",
       "added_at": "2026-06-23T22:21:34.904832"
+    },
+    "noticia_2026_aneel-publica-edital-para-recrutamento-e-chamamento-de-candidatos-para-contratacao-por-tempo-determinado": {
+      "type": "noticia",
+      "title": "ANEEL publica edital para recrutamento e chamamento de candidatos para contratação por tempo determinado.",
+      "date": "24/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-publica-edital-para-recrutamento-e-chamamento-de-candidatos-para-contratacao-por-tempo-determinado",
+      "summary": "Notícias INSTITUCIONAL ANEEL publica edital para recrutamento e chamamento de candidatos para contratação por tempo determinado A Agência Nacional de Energia Elétrica (ANEEL) informa que foi publicado, nesta quarta-feira (24/06), o Edital nº 1/2026 – SGP/ANEEL, que trata do recrutamento e chamamento de candidatos para contratação por tempo determinado (CDT) no âmbito da Agência. O edital…",
+      "added_at": "2026-06-24T12:26:17.789556",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
