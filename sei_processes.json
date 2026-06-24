@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "4fce22528a10",
       "7016a6e0bf98",
       "ad5c0796fe56",
       "9984a5c0d62f",
@@ -455,12 +456,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 448,
-    "documento_count": 380,
+    "andamento_count": 449,
+    "documento_count": 381,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-23T09:42:26.684671",
+    "last_check_at": "2026-06-24T08:37:33.084657",
     "last_andamentos_top10": [
+      {
+        "datahora": "23/06/2026 13:11",
+        "unidade": "CPL",
+        "descricao": "Processo 48500.017649/2026-01 anexado",
+        "hash": "4fce22528a10"
+      },
       {
         "datahora": "18/06/2026 16:41",
         "unidade": "CPL",
@@ -514,12 +521,6 @@
         "unidade": "SGE - PUBLICAÇÃO",
         "descricao": "Processo recebido na unidade",
         "hash": "cd6abd0b5298"
-      },
-      {
-        "datahora": "17/06/2026 09:33",
-        "unidade": "DIR - FLMFS",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "fd7b6413c4dd"
       }
     ],
     "last_documentos_top10": [
@@ -823,7 +824,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-23T09:42:34.752842",
+    "last_check_at": "2026-06-24T08:37:44.102528",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -966,6 +967,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "6b2b4e40a5e6",
       "b9cb00b708da",
       "cf7f1a90cdcf",
       "b9d5c50198ed",
@@ -1223,12 +1225,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 256,
-    "documento_count": 131,
+    "andamento_count": 257,
+    "documento_count": 137,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-23T09:42:39.970912",
+    "last_check_at": "2026-06-24T08:37:47.294416",
     "last_andamentos_top10": [
+      {
+        "datahora": "24/06/2026 06:41",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "6b2b4e40a5e6"
+      },
       {
         "datahora": "12/06/2026 14:30",
         "unidade": "SGE - PUBLICAÇÃO",
@@ -1282,12 +1290,6 @@
         "unidade": "ASD - APOIO",
         "descricao": "Reabertura do processo na unidade",
         "hash": "48eac262d182"
-      },
-      {
-        "datahora": "20/05/2026 16:33",
-        "unidade": "ASD - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "36d66b264ae3"
       }
     ],
     "last_documentos_top10": [
@@ -1395,7 +1397,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 20,
     "documento_count": 15,
-    "last_check_at": "2026-06-23T09:42:43.788188",
+    "last_check_at": "2026-06-24T08:37:49.723113",
     "last_andamentos_top10": [
       {
         "datahora": "22/06/2026 08:38",
