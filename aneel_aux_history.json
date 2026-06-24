@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T12:26:18.289790",
+  "last_updated": "2026-06-24T15:37:36.995595",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1036,11 +1036,21 @@
     },
     "noticia_2026_aneel-publica-edital-para-recrutamento-e-chamamento-de-candidatos-para-contratacao-por-tempo-determinado": {
       "type": "noticia",
-      "title": "ANEEL publica edital para recrutamento e chamamento de candidatos para contratação por tempo determinado.",
+      "title": "ANEEL publica edital para recrutamento e chamamento de candidatos para contratação por tempo determinado",
       "date": "24/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-publica-edital-para-recrutamento-e-chamamento-de-candidatos-para-contratacao-por-tempo-determinado",
       "summary": "Notícias INSTITUCIONAL ANEEL publica edital para recrutamento e chamamento de candidatos para contratação por tempo determinado A Agência Nacional de Energia Elétrica (ANEEL) informa que foi publicado, nesta quarta-feira (24/06), o Edital nº 1/2026 – SGP/ANEEL, que trata do recrutamento e chamamento de candidatos para contratação por tempo determinado (CDT) no âmbito da Agência. O edital…",
-      "added_at": "2026-06-24T12:26:17.789556",
+      "added_at": "2026-06-24T15:37:36.495339",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "noticia_2026_aneel-conclui-calculo-das-tarifas-de-transmissao-para-o-ciclo-2026-2027-com-maior-estabilidade-e-sinal-economico-mais-eficiente": {
+      "type": "noticia",
+      "title": "ANEEL conclui cálculo das tarifas de transmissão para o ciclo 2026/2027 com maior estabilidade e sinal econômico mais eficiente",
+      "date": "24/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-conclui-calculo-das-tarifas-de-transmissao-para-o-ciclo-2026-2027-com-maior-estabilidade-e-sinal-economico-mais-eficiente",
+      "summary": "Notícias TRANSMISSÃO ANEEL conclui cálculo das tarifas de transmissão para o ciclo 2026/2027 com maior estabilidade e sinal econômico mais eficiente A Agência Nacional de Energia Elétrica (ANEEL) concluiu o processo de cálculo das Receitas Anuais Permitidas (RAP) das transmissoras e das Tarifas de Uso do Sistema de Transmissão (TUST) para o ciclo 2026/2027, com vigência de 1º de julho de 2026 a…",
+      "added_at": "2026-06-24T15:37:35.394485",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
