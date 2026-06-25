@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-06-25T18:08:34.605034-03:00",
+  "last_updated": "2026-06-25T19:43:17.728878-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "10ª Emissão de Debêntures – AXIA Energia -",
+      "data_referencia": "20260625 25/06/2026",
+      "data_entrega": "20260625 25/06/2026 18:50",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "10ª Emissão de Debêntures – AXIA Energia",
+      "protocolo": "1538567",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538567",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-06-25T22:42:54.875405"
+    },
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Relatório de Sustentabilidade",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20251231 31/12/2025",
+      "data_entrega": "20260625 25/06/2026 18:33",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1538566",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538566",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-06-25T22:42:58.324859"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",
