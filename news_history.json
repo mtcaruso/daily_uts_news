@@ -1,636 +1,6 @@
 {
-  "last_updated": "2026-06-25T12:35:26.400782",
+  "last_updated": "2026-06-25T15:37:45.857984",
   "items": {
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX0FjNHJ0b2N3dGM1T215QXdzdnpCVUxGX3BjdEV4LWJ5U3Y1a1RLckE5bUJ0UE9VX0s5a2ZjMml2VF83TFowdkx0YW5HWEkyVmUya2ROMkpzX0IwWlBGNTRFSExDSm1tVWgycmprcmlaaWNSU2QyWnk4cFprZG05RHVyWUp3VUplMEp2ejNwSFZiVkhLd1VBNHBEbFFkSU9xSFhiNDlTWjI3US1udUVqRVQxcDVRTk1US1hiMkRpczBldFJKWFNfVUY3Y2luX2xlUldWLUFLQlE4VU9lVmRiUVgtSGTSAfMBQVVfeXFMTjNINy1yb3JWUUlySEFycWQ0VTZOSnIxaHRmMGRfOW5DaEdxb216NzN1em5UQ3BhR2xEa3VBMFc1cEdWUUduUUwyc0VOOFpQS05IY1JxOXUtVzYyTEF0WkIyVDM3dzY4a1N6Vlo2NjN6UUk2Q3pJZkRfcG0wOEYzUU9vOVduSDVYRDVnN1pRQzl1MzV1eG9ad0xEUlI5V3FRblQ5QkQ4cXltbThBSDJKTGw1aE9jMk5qc1IwT2RHc2t6ZDB2V21wcWswYmtlT2VpTnlKYWZJWllUM21obkxSMG0wWk1wRV9nb3VERU9OUlV6STVN?oc=5": {
-      "title": "Leilão de capacidade foi importante para garantir recontratação de térmicas, afirma Petrobras - Valor Econômico",
-      "summary": "Leilão de capacidade foi importante para garantir recontratação de térmicas, afirma Petrobras Gerente de gás e energia da empresa, Álvaro Tupiassu afirmou que o certame de março, voltado para a segurança energética, era esperado pela petroleira O leilão de reserva de capacidade realizado pelo governo em março foi um evento importante para a Petrobras, por garantir a recontratação de térmicas da…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:29.127566",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXRuYlh5VHlERm1tVU5GOFlPcGc3WnJmbjFYS1lfQ2pHY0x1dTg1TW5tVHd3Q1BXT0J6elpjZkNUYVpiUkxHZUhkc3F3N1BScENiazVQZVBZQjhLcF9oODJqSlQ5R2s5anFNd2RsRmJsUHRrdUctTFhWQkNjeEVXa2NUbTNtVFBXeElRR3dCV3hUcGFKLTU3TERXOEpDTTl5bHBoV0l0ZC1EUVQ5bElPb0EwMDFQUdIBxAFBVV95cUxOTUsxa0xoLXFDcjdJNHVRcmRacTRpM3pBSDg5cEg1SENOTlJRSXlpYS02bWcxZklFbldxREZoUEVWRkhEWHBHTTlBNFY5bTl4RnR2RUdfWVlYYUZieXpJc0xYSkN2S3ZKaDN5cUhQVlpRZ29Nc0xZVlBEbExMZ29VQXlBbTMtU2Fvbm1mbEEwOU1GX1hyWVYxZkF3U0ZyY0g4RFBtM1BrQU1DZ0had2UwaHlDZ0lVaXhJRTJ5M3RDUlBNRVl6?oc=5": {
-      "title": "Eneva dá início a construção de térmicas de R$ 6 bilhões no Ceará - Valor Econômico",
-      "summary": "Eneva dá início a construção de térmicas de R$ 6 bilhões no Ceará Segundo a companhia, R$ 5,4 bilhões serão direcionados para construir as duas usinas e cerca de R$ 600 milhões na infraestrutura de gás A Eneva deu início à implantação do Hub Ceará, projeto que envolve a construção de duas térmicas e um terminal de gás natural liquefeito (GNL) no Porto do Pecém, Ceará. As usinas terão potência…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:37.565112",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVIyaDFLd2pWNVNKQVpnS2trVndkcURYRDFpSWxfZmM0cGoxTDBWekR4bjhlY29oV3BNNUV1WjNkenlhOE0xM3NKTHhjak44NS16cHJ5MldEQnF0LWpPRjk2NTR4dGV4dmtBVGM1Nl9NSzF2S0pNamE2TkRibXloM3V0clJpNjZkcnNUc29lMk5DMFdzTGFldDFZU2lkZW9zR0pMb1BkUmdDbTd2VUR1M0FHMmowb3lPZWVtWNIBywFBVV95cUxORnJ0VFdvVXBWTkQ5V25hRGRGLVBfMnhHdVNGclBRZDU3elFWWFBEcW1WVEdMbU9MSk4xY1hnWVpVYWtYYmE3TXotd2Z4dmxPT1Rlbmx4QVBuWlhkU0FCVFVOTy1QX0c0S1NseVlSNnFKZzF2b3lIa1o2QW5ETUV3ckh2a3lRc1R0Tl9tcE4wR1pURWNsSHp5TlNmVFlraHVjUG05TkRGai16Rm0tSHZvOUltWDM2cGp5SF8zVDhvYnZQQkZvRzRxQ1lINA?oc=5": {
-      "title": "Tokenização leva derivativos de agro e energia para fora da bolsa - pipelinevalor",
-      "summary": "Tokenização leva derivativos de agro e energia para fora da bolsa Executivos de Vox Capital e Justoken dizem que IA e blockchain podem criar novos mercados A digitalização de ativos ligados a agro e energia pode criar novos mercados privados de negociação e crédito fora da infraestrutura tradicional, segundo Rafael Campos, sócio da Vox Capital, e Eduardo Novillo Astrada, cofundador e CEO da…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:45.855441",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWlZYUZBQ0MxblJ1c0g2SVY3QzJvTW5kRnoyWk9QdjZPRnF0bTZ5QWdmSUZyUEZBcm10am9qcEp5TTlaalBpalMzMXVhSF9UQVMxUElPWk9sOXZLbGtOVGZiWnlZVkpNNUdtckpqdWtaZnN3eGxCaHI3Y1VQQXIzVVU2bjNhR3Q0MWhoQ01VaFhyblljQm5fV2tTNXBNOXlGYVNqQ3ozcUpFNU8tRnJWMF9OQ3dBa3V2WU43U0RvWmF0T3M?oc=5": {
-      "title": "Mineração será essencial para atender elevação da demanda energéticano mundo, diz presidente do IBRAM - Estadão Blue Studio",
-      "summary": "Mineração será essencial para atender elevação da demanda energéticano mundo, diz presidente do IBRAM AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 10 de junho de 2026 Segundo Pablo Cesário, a expansão de tecnologias como inteligência artificial e data centers ampliará a demanda por minerais críticos, tornando a mineração peça-chave para a transição energética e o fornecimento de…",
-      "source": "",
-      "added_at": "2026-06-11T13:05:18.016159",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNXzJUcFF6STVKSlctU3Q5dGxCTGM1VlN6MHFfRjFkNXFZUkJUaWpCMWk0ckc1M3RoTTdvLUszVzZLM3NoUjRqWDZONkhtd3cyRXFsVXNscEhrd0xnZGdNQ19WUmZja2h1MnNBRVhScmJtREpLZkxrZ1l0cmtiUlVfWWcydGphbXNMMzdONFBfZUJfOEtuV2J3a0lNcUtESnVw?oc=5": {
-      "title": "ANEEL homologa resultados do LRCAP 2026, mas debate jurídico continua - Agência iNFRA",
-      "summary": "Marisa Wanzeller e Geraldo Campos Jr., da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) homologou os resultados do LRCAP 2026 (Leilão de Reserva de Capacidade na forma de Potência) nesta terça-feira (9), mas o debate jurídico acerca do certame segue. Apesar disso, especialistas e empresários do setor ouvidos pela Agência iNFRA avaliam que a assinatura dos contratos com os…",
-      "source": "",
-      "added_at": "2026-06-11T13:06:18.414461",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDVkVVB3WUtMNWJhTGJkalJWWGlLLWN4eF8xUHpHS1BHdDh2Slh1dkF6OW5lNkJ6V29ENWk1TV9DeDNSdy1ON1VwczNKNjBEbjRNWUlUQ2ljcF9QWkZaZ0dRNHBXbVJfS204SUE0SXlQWlpKTWxxZkEtcFZKYXV0VkhUWmE3SGZLdHBXemg2MnhOMHdrMk14TjJQSElkZklMSlRNMmd5YllnaVE4cHhlR3ctWWtZazk2anNHbFFMSl8?oc=5": {
-      "title": "Eólica offshore no Brasil pode gerar 516 mil empregos e R$ 900 bi até 2050 - CanalEnergia",
-      "summary": "A energia eólica offshore no Brasil tem potencial para gerar mais de **516 mil empregos** e adicionar **R$ 900 bilhões** à economia até 2050, segundo o GWEC.",
-      "source": "",
-      "added_at": "2026-06-11T13:10:22.172473"
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNW1WLXYwd1QtWjc1ZzBXZzUtelFBRVlEdFpRSEVleHQ4WkZRWWhLMWhTbWJuNjVKSW1ZSUxfYlUwNi15MFBKMU41OWwwc3VRRHY2aTM4Sl83V2NUX00wZlpEUmlRelJTcTVCaW5fd1V0M2x5bUsxckhOT1VacFY5Y3FYdzAyN1UyUnJhTXVVLXZ5OFZJeFVRTVNib1FWMHc?oc=5": {
-      "title": "Windey instala fábrica de baterias na Bahia - CanalEnergia",
-      "summary": "Windey Energy lança fábrica de baterias na Bahia. Windey instala fábrica de baterias na Bahia.",
-      "source": "",
-      "added_at": "2026-06-11T13:10:36.986403",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUxLSjlrbW4yS2lVWl8xZ19ldWJzSkMweDl1UnBuZHFQTHBuV0lEWndXRTU3Y1Y3Q3VvN1VsbUFIYnhnbWFvZVdVY2ZJaVJxVGYxdXVVcnJOUjNUZ2dvVlIzSTdIdXVEQWxSSTZFV3hQdnBYSHQ5OWFuOEFrVnh4ZmVBVnA4LWw2bDVvZ3JyUDRmZ080bGI3dUx1TnhRbG9ocGhDeW5oMVdNVWdwcXdN?oc=5": {
-      "title": "Equinor e Petrobras formam consórcio em Itaimbezinho - MegaWhat",
-      "summary": "A Petrobras celebrou contrato com a Equinor Brasil Energia para aquisição de 50% de participação do bloco Itaimbezinho, no offshore da Bacia de Campos. Atualmente a Equinor possui 100% do bloco Itaimbezinho e, com a conclusão da transação, o consórcio passará a ser composto pela Equinor (operadora, 50%), Petrobras (50%) e Pré-Sal Petróleo S.A.",
-      "source": "",
-      "added_at": "2026-06-11T13:12:39.188454",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDF0VHlENkYwTFF2Sm1nZnFDcXNFM202bWR3YURZelV4c0tVNUZ5WEM1OUdMb0EtNHBqa1lvQzRRbzNaSlhuUnFfcjBZaTM3Zm5UdEh2OHR2X3Q2bjBqa2lveDJGckxFNUxWemM3VFNRd3BZNlYxOTMyR2paZ2h5Wk9LS1hIRkUycnpVUktYT3Q2djZhdWJOZXNZcHU0YlVRVXJMNlVtQ19NeWZZ?oc=5": {
-      "title": "UHE Sinop ganha cautelar para alterar fator de operação comercial - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) acatou o pedido de medida cautelar da hidrelétrica Sinop para suspender os efeitos financeiros, com efeitos retroativos a 5 de maio de 2025, causados pela paralisação da unidade geradora 2 da usina. A empresa havia alegado prejuízo de cerca de R$ 24 milhões para o projeto que está localizado entre os municípios de Cláudia e Itaúba, no Mato Grosso..",
-      "source": "",
-      "added_at": "2026-06-11T13:12:46.743552",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamEzWGJTUWF1MTk4cUhPdS1sZFVXaUluLWRVdE5WV2poMjhRSFpackpTTnRxX0JTeVU0ZVZrU2RlNGdiNTRub0xHaloyTWJOOWxNb2ZjeHFoS0xIUWFKUmZhVXdfYk9tblRIMDdGTWkyTEh2Mnd2R1RkN1M1UlhkNGxnaXRES1U2V1JYRGttbEc3LWVvSEZ2SXdJWEtMQ0c5TFdZV2N3OU5UWHMxNVhqUzF4aWRYYUFFaG1qNzhfLXI?oc=5": {
-      "title": "Governador do Ceará defende LRCAP em lançamento de projeto da Eneva – Edição do dia - MegaWhat",
-      "summary": "O governador do Ceará, Elmano de Freitas, defendeu ontem (9) o LRCAP (Leilão de Reserva de Capacidade) 2026 e afirmou que o certame é fundamental para garantir a segurança do abastecimento elétrico do país. A declaração foi feita durante o lançamento da pedra fundamental do Hub Ceará, projeto da Eneva no Complexo Industrial e Portuário do Pecém que prevê investimentos próximos de R$ 6 bilhões.",
-      "source": "",
-      "added_at": "2026-06-11T13:13:01.679715",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dVlzZ2IxX1ZWZERTeVhYLXczTFFvdXlHV05fakV6WkpQLVlPUEEtYm13UHhJSUxrQUpodUtoMWxUeEQ5T2VnbkJoVVM5MG5xV2tkR1BwekRlbnFuTy02RnkxUnQ3UWZN?oc=5": {
-      "title": "Economia e Política - MegaWhat",
-      "summary": "Empresas Bank of America inicia cobertura da Eletrobras com recomendação de compra O Bank of America iniciou a cobertura das ações da Eletrobras, com recomendação de compra e preço-alvo de R$ 47 para as ordinárias e de R$ 51 para as preferenciais classe B, potenciais de alta de 49,2% e 61,1%, respectivamente, em relação aos fechamentos de 15 de outubro. As recomendações não consideram a…",
-      "source": "",
-      "added_at": "2026-06-11T13:13:09.837877",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGtJS0lhWlZFeHdWLXpGaXZvMXRGSVdueUN3ZmVHdXZJcU9HSXJhaHpNbW8zLXJBZk9mN0UzRFdkX1pTdS1QUzZFOEE2dmlGak9hV1VHb1ZDbEltR0lhaElKaTBzQ3lrbnN4anNUdFM1bWh2dkJ2ejZQT0gtM05VenF0LTB5NTVQaGhUQTNKWFhPQmx6QmtPYzhwTE9ncG41UUxTbVNFeDhRRmtUdFhVcWNiUUNEZWhjUFRrUDlkazRJemdQ?oc=5": {
-      "title": "Eleição para diretor-presidente da CCEE é adiada por falta de indicação do MME - MegaWhat",
-      "summary": "A Assembleia Geral Extraordinária (AGE) convocada pela Câmara de Comercialização de Energia Elétrica (CCEE) para eleger seu novo diretor-presidente nesta quinta-feira, 11 de junho, foi adiada e ainda não tem data para acontecer. A convocação da assembleia condiciona a realização da eleição ao cumprimento de duas exigências: o recebimento da indicação formal do nome pelo Ministério de Minas e…",
-      "source": "",
-      "added_at": "2026-06-11T13:13:17.528675",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3Nod3NYN2xtSVZvZHo4dm14TTd4RFphVTdkYS1NNno2bGpPcHd2ZUxDMnNkOV9ibUVkSGhMbDFsM3FYcVotaDZiN1NIbXhnSkRjcUNVbk5VTlhpY1hBbFlEcEZiMG93OXphTlNoM0hITy00TG9HQzFJNll3MUUyNTNjbHJqQTBycGREYVNvUU4xYWRhUUJhcnFmLU5rNk80RWdZ?oc=5": {
-      "title": "Juiz do CE nega analisar se Aneel descumpriu liminar sobre LRCap - MegaWhat",
-      "summary": "O juiz federal Luís Praxedes Vieira da Silva, da 1ª Vara Federal do Ceará, indeferiu nesta terça-feira, 9 de junho, um pedido urgente da Federação das Indústrias do Estado do Ceará (Fiec) e do Sindienergia-CE para barrar a homologação dos resultados dos Leilões de Reserva de Capacidade na forma de Potência de 2026 (LRCap 2026), que alegava que a Agência Nacional de Energia Elétrica (Aneel) estava…",
-      "source": "",
-      "added_at": "2026-06-11T13:13:24.736789",
-      "summary_source": "extractive"
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVoxUWllaXNjWF92LV9KaVN4WmJXaDlUN2tneHFDUW84eXVTX2lRSTN3bmxEbS0yamoxd1JnYmtMczVsQnphSkxCbzFrWEtleVYwM1RwMXZ4U2JXWTVrU0pueXFVVG1uZng5SVRYaEgxNXBIc2x1NDRUeUZnS3p6VzNjeldfTGMxUy1zY0FsN004VDFKd0dYc2JaN2hNQjJBOEJ3QzFYZFF6QXNjeUM2eVA1eE1SOHgybTRBWVNqcm9EX3JienhYZW0xOUoxdFktQXZGQmtORFJXZHkz0gHrAUFVX3lxTFB6elVtNmRsaWdzaXR4N2cxZFBCUFNsSmVmZWV3LXBtbmNSZXI4V3VNM0tXSDhHZGQyYXdDWEdGeW1kVXF0RFJfZnRzMUEyRGNZdUZCWHZtRWZnVEpzS3ZoQ3hDaVdkTEp6dTVuc1JBbm5mWjlaZnFZMUhzall2TzRWUW4xci1raE80MEQwek5kVXpwYWZUX0F4ZzdsTWxIdkhCSWZrVzdhNVJfY09TeGI3OVktb0RwZ2dzT0tubFpDVnpSa1BCQkp5ZVl4cTVxd04wUFIxamlodlpSYm15enVtWmtxZkRGRk1sREU?oc=5": {
-      "title": "Exclusivo: Oferta da Copasa em privatização tem demanda de mais de R$ 50 bi, dizem fontes - Valor Econômico",
-      "summary": "Exclusivo: Oferta da Copasa em privatização tem demanda de mais de R$ 50 bi, dizem fontes O preço da ação no âmbito da oferta tende a ser o mesmo daquele proposto pela Equatorial, já selecionada como acionista de referência da companhia mineira A demanda pelas ações da Copasa na oferta subsequente de ações (“follow-on”) para a privatização da empresa se aproximou ontem (10) dos R$ 50 bilhões…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:20.708134",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkRzdFR5RHdhbUZBS182VHFrZEo2cXZlbm5XaHJBQ3RMNGd5clE3R1h0TnA0LXdodTlIYzFhUVVXNnNzRTIwT3lKXzh1OGh1c0tMV3FabGM5UHROSExnLWdKREpVdm1pMWtDU1FLdExjalNtMDBrZzhqWktXd1FZcmRiWVBZcUxnc0dROVFEbUhoYlRhbVpuYm1sMXNhei1EcElUTnpkdmxsTFlHRzJicVRqRQ?oc=5": {
-      "title": "GM anuncia fabricação de baterias de armazenamento de energia - Folha de S.Paulo",
-      "summary": "A General Motors planeja começar a fabricar componentes para grandes baterias de armazenamento de energia, anunciou a empresa nesta terça-feira (9), juntando-se a Tesla, Ford Motor e outras montadoras na expansão para um mercado em crescimento e compensando as vendas mais lentas de veículos elétricos nos Estados Unidos. As baterias, que podem ter o tamanho de contêineres de transporte, armazenam…",
-      "source": "",
-      "added_at": "2026-06-11T13:04:39.394439",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWdaMFlMbHI3XzVicEt1cWJ5Sjh6YTFwNklBNktVYUJkLTFndE1qQ18xZHJtUkNydFdBOU1tVl9jb2lyRDU3SWlUaHlNamRKdW84Yk9yVVFBYzluSWFkZldPeFg2a19yVWE5WGZ0TXZUenZ4djlaVW1JTWlLLXNHd0hzTFhLVnVzcU9kdm1ISWs3bnk1NE9NMFRPb0txaV8yNnBIaENlWTFDT1lDWTlEeTZ0Vm1BQ2RpX1lqZWx4dkNGZDFPMEhnRjNB?oc=5": {
-      "title": "Justiça no DF derruba liminar que suspendia leilão de energia de R$ 515 bilhões - Folha de S.Paulo",
-      "summary": "A Justiça Federal no Distrito Federal derrubou a liminar que havia suspendido o megaleilão do governo de Luiz Inácio Lula da Silva (PT) que contratou R$ 515 bilhões de reserva de energia de grupos como J&F, dos irmãos Batista, Eneva, de André Esteves, e Petrobras. O pregão é questionado na Justiça e no TCU (Tribunal de Contas da União) em razão das alterações feitas em sua base de cálculo que, em…",
-      "source": "",
-      "added_at": "2026-06-11T13:04:47.330593",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkQ4RkdKNG9oNTJBSEg3LThZbDN0UEw1QUVPYy01UWdkMTdCamNnVnYwdWxxYUtyalBaNVVKTUNoZmoxZVZPeUFVc0RGSnhETkJyUWhzZnMydmZGaGFDSmF4aV9RajJxOEIyWWNseTVUc0pQYTUzREJTT0wxdi1UTXBBSGFHaUdRWkd4M3pZVmMtQXJ0SzVLUHVaOTcxZVo4VlEwLXVReXNkRFZpTWNCVkxHY3BVRm82dkE4REo3ZFlFNW5BLUhGUGhRazfSAdIBQVVfeXFMTWR3aUphWUUyRXNEaExXaVBmWmo1NDdHMmF6N2VjcTNDeHNRd1h4WUxLRjFCTVdHRzZ3dHRqa0g2cV9qcERYVnZITnlxTGFWdmxOVXczYlFQcGxjR1RPakFOM004LWhqeC1QUFVINzVVaTZvNmtibi00N0VwS0FyRklCWmQ2dEJra1RSM09qemtUZlNSS1hvbWhWQnB6c3dVOEpXWnRPRjctanlKY2Y2c2dLTmxlczJpRGp5QXNwNGhSMHNORjE3UnV3aVJ3RGtNNEpn?oc=5": {
-      "title": "Justiça Federal no DF mantém megaleilão bilionário de energia após suspensão e decisão da Aneel - Estadão",
-      "summary": "Gerando resumo BRASÍLIA - A Justiça Federal no Distrito Federal manteve o megaleilão de energia realizado pelo governo do presidente Luiz Inácio Lula da Silva em março, negando pela segunda vez um pedido para suspender o processo de formalização do certame. A decisão ocorre após a Justiça Federal do Ceará ter suspendido o resultado do leilão até que a Vara de Brasília se manifestasse.",
-      "source": "",
-      "added_at": "2026-06-11T13:05:03.179284",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTFScDRnejNoOWk4NzFxS1FIRlp2djNCWVdULWltcHU5UmRuaWJVSjZpQVJ3M1dyV1pkQ3VZT1FyZ1ZVODRISUNNNllibThFcmV4NlpGeGdyWjBNSHA2Q2FHM0JWZ2ZPWG5icUZrOHdBOVJEdGVkOTJMRVAwNzNmWmM0WWt5VXhYS0l6RjE4b29XNElxSWtlVzQ3RXhiWVNGNUZqZHl2aGprOWFfV0FfTG9nd091US1ORURxMEJLQVFoV3pacjg5blBKMV9QTmPSAdQBQVVfeXFMTjlxT25yRjV6dDkzaFFxRjh4MlY0VDNxMDNZdkF3MTFNcWtzUFctUmdFVHY1QTlrYnZNci11UVlvQXFiTldEaU1tSGRVbVJLRlhoejJOUGJtbk92MzRXWnQ4VmZNMGFVRFhzTU54RW1WbWQ5RG51TjROS3luUGlmc1VNVjZKSElPT3gySkZKSnlLaGpIYU8xSHZuRmliaVUwSl9EbzJ6M3VvRlRHdDFnZHY1MDJTX1FlbmNTSTRlZmF5dmFFLXNhUTBGRU0wYW5sUWRxYXA?oc=5": {
-      "title": "Peugeot divulga primeiras imagens do novo 208 GTi, versão esportiva e elétrica do “hot hatch” - Estadão",
-      "summary": "Gerando resumo No dia 12 de junho, a Peugeot vai revelar oficialmente o 208 GTi, versão de produção do conceito e‑208 GTi, apresentado em junho de 2025. Os detalhes mecânicos estão sendo mantidos em segredo e só serão revelados nos próximos dias.",
-      "source": "",
-      "added_at": "2026-06-11T13:05:10.689888",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSS1iV04yLVpvMkxNcUt3LTV6ejQzY0x5enhMN1otT0ZLbk8tWE5kZzlPa0FPa0w2RURCRlJsblhKM3lPZk9BSnY1emhFRUNwNU9VZ1hQREttRnVOSy1leEVxUlhKWHdxN3NsSVhKZjg3RUkxOHpKcmNBNXp6TTAtazY5MWVMeHhtTnlURzdXSDItOXh4TXJiQmtRay1tRUo2MDhj?oc=5": {
-      "title": "ANEEL vai revisar resolução que trata do curtailment, diz diretor-geral - Agência iNFRA",
-      "summary": "Marisa Wanzeller, da Agência iNFRA O diretor-geral da ANEEL (Agência Nacional de Energia Elétrica), Sandoval Feitosa, disse nesta quarta-feira (10) que a reguladora irá revisar a REN (Resolução Normativa) 1.030, que trata sobre os cortes obrigatórios de geração, o curtailment. A relatoria do processo será sorteada na segunda-feira (15), disse.",
-      "source": "",
-      "added_at": "2026-06-11T13:05:41.596169",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUJxZVJrMkR1MXFXdVYtbFpyMV9SZ1VDem1ud1FpUUpRNjVtTEUzQWxQeTJGcjkxZjBmTTFDZ2N2Q3NmMVdoOW5sT0t1NWo3T3BHdjZpXzRtMEIxbU1YdmViTUYwVjBPRUtsaENfSFpaMHhPZXJsal9lUi00bTBJd2szd1FIcGxrb1lmb3FXLS1aX1ZQaVNucnEzaW5YUFU?oc=5": {
-      "title": "EDP mira leilão de baterias, mas encargo a geradores é ponto ‘crítico’ - Agência iNFRA",
-      "summary": "Lais Carregosa, da Agência iNFRA* A portuguesa EDP estuda participar do leilão de baterias no Brasil, previsto para dezembro deste ano. No entanto, o encargo a ser pago pelos geradores para arcar com os custos da contratação de armazenamento é visto como um “tema crítico”, segundo o CEO da companhia na América Latina, João Brito.",
-      "source": "",
-      "added_at": "2026-06-11T13:05:49.900942",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmlOcFA3ZHNvZ2FfRW93WEdDQlN5Q0NFcFpXLVJJY0ktOGxDQWZRbVJ1bS1FaDJkQ2pNQTl3eVhPZDd5amtGcERrcmI5ZlZ5aDNwMjF6WkdneVJ6UllWQTVQRDNveW03V243U1FmZ0NjODZQRWpkLWlQRkdQZzdHOVZCcHlYSVBGZTRhRTB6WmNJSVVINTNiUDhHTmpMaGdXZVRPQw?oc=5": {
-      "title": "Justiça do DF nega recurso contra LRCAP e decisão do Ceará perde efeito - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA O juiz federal Manoel Martins de Castro Filho, da 6ª Vara Federal Cível do Distrito Federal, negou o recurso movido pela Fiec (Federação das Indústrias do Estado do Ceará) que solicitava a suspensão da homologação dos resultados do LRCAP 2026 (Leilão de Reserva de Capacidade na forma de Potência). Em decisão expedida na noite de terça-feira (9), o magistrado…",
-      "source": "",
-      "added_at": "2026-06-11T13:05:59.761107",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGRjVk1zU0hWSUE3ZFZRdkJoakptV2l4TlJidTgxSV9OWDNicm1xVlJMNnVYbDhuemJXQTJKQ3RlRGVkdThwNmJmb3k4MS0wbnk0S1FzdVktVHNqWDRaTlV6SjA3R2tPdk41X1lHY3VKV0lvRmxFUFFYcEtBd3hLR21fME1EN1VCRnBpSjd1dlNibG5VeGd4NWdKVzVGbWtnX09YLU5wUQ?oc=5": {
-      "title": "ONS inicia processo para desenvolver modelos computacionais colaborativos - Agência iNFRA",
-      "summary": "da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) informou que revisou sua estrutura organizacional a fim de dar início a um processo para desenvolver modelos computacionais colaborativos, ampliando a autonomia e a colaboração com o setor elétrico. O projeto Maestro está dividido em fases, com estimativa de que até outubro deste ano a configuração desta nova área de desenvolvimento…",
-      "source": "",
-      "added_at": "2026-06-11T13:06:09.162776",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmtQUExuNUN3XzI5bWVpNnhLUndVc29LUXpoYmpCVnlRYllfTHRfeWpyQkJXWVJHX1p1eWE5WWdXQ3JsZl9ZeDBCYi03YUF2OGZkV0NZY0JwalI2RC15eUdNam13MzZwQjBwak96Y1g1dDhqcUR6ZDh4VjJSSkJwaDFDXzhYa2ZEVzRBemliLWFDbXhpUnJFdGZvVVZ4eGJNOW5mSjNURmI1UDNtdTlGMjg2eTNabUZUTFkw?oc=5": {
-      "title": "CanalEnergia Entrevista: Marcio Rea completa dois anos à frente do ONS - CanalEnergia",
-      "summary": "O Diretor Geral do **ONS**, **Márcio Rea**, completou **dois anos** à frente do órgão e concedeu entrevista ao CanalEnergia para discutir seu período de gestão e os próximos passos.",
-      "source": "",
-      "added_at": "2026-06-11T13:08:44.323429"
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3lNRm9lNUQ4RUhfdnQtbGtlaXdUVXdrRTFoWXRnRWxKd1NpdFd3Rm9GRHViR1IyLXBYb0NzTERmMDdTQVhpN2JSWjBIYzhDQXpYSnU3YWNfM0l0ZlVnYlVxQkJYS0NPZC1Bd19PMWdwWGg4cTR0TTdTaFVXOF83T3FHZlRISWFXVlduRVB4ekJIUW5GWG1yeFJPUzNReHZJdjJrczZUYjhfcDZuOXdwaUdB?oc=5": {
-      "title": "Senado pede os estudos sobre antecipação de contratos do LRCAP - CanalEnergia",
-      "summary": "A CI do Senado requisitará ao ministro Alexandre Silveira estudos sobre a antecipação de contratos do **LRCAP**.",
-      "source": "",
-      "added_at": "2026-06-11T13:08:57.950146"
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZll3RXp0ZXA2WUZqZUEySEx5eDZvdEt0RENObkE1SlVfTm5kSGhramVjNlNnUDR2MW95Nm5IcERvMG8zbTd0TXZLcHJfeXBhNU5GSUItTmQzWEpmTUdIRHJmSzN5emp2ZkwtTFZkV193LXItd3M1dUZ5WmpkOXhFY2ZYYVdlZjU5TGZhREQ3ZVh1R0JTcURPOE5US3N0cGxMMmhzQ2d4NE52QU9iU3I1ak9KcG5ocFJ2eWJHTVVLaw?oc=5": {
-      "title": "Brasil precisará investir em estocagem de gás, diz executivo da Petrobras - CanalEnergia",
-      "summary": "Um executivo da **Petrobras** afirmou que o Brasil precisará investir em estocagem de gás, além de baterias, para garantir a flexibilidade do sistema elétrico.",
-      "source": "",
-      "added_at": "2026-06-11T13:09:12.179154"
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTlYNjZkdWdvVnNWaEdLUmtZY1lwaDVpYUJ1bWdHaWVESThUQ2lFSVlxOTlWOGZiallJdld2NEo2bHFLQTNFdklRQUFTdlR2MlUzOG9aZGRGU0UwMUlweXBWdkhWUXl4MElrVjJPVE9RdVFVLUZza25ZMnlEaThsYjZHVUVweVVSUVl2VkliV2pUem9OX1YybExfdU91dw?oc=5": {
-      "title": "Reservatórios apresentam queda no armazenamento - CanalEnergia",
-      "summary": "Os reservatórios do Sul apresentaram queda de **0,3 ponto percentual**, operando com **58,2%** de sua capacidade, segundo o **ONS**.",
-      "source": "",
-      "added_at": "2026-06-11T13:09:25.280379"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWlLZEtvbzc0RzFLVjJzMU9FZ2w2b1NlT0t5b1h1WXJUeXZVd3hGX3lnQWFHMTg0RDdPemsxWUdEZkRCcE5UdjhWMlpOWThpZjd3Sl8zbTQ3QWNEUUEtdV81Mi0wa1A5djZURUVCM2ZOa1RVNG1JRWZIb3h1QW13a0owZlU1UWdHN2dweVA4Q0hZbFNFYmNkejhBZDgwUms1WDl4ckVTSmhBaC1VS2FQUWhETlA?oc=5": {
-      "title": "ONS registra restrição de 5,3 GW em geração renovável no Nordeste - CanalEnergia",
-      "summary": "O **ONS** registrou restrições de **5,3 GW** na geração de energia renovável em todos os submercados do Sistema Interligado Nacional (SIN).",
-      "source": "",
-      "added_at": "2026-06-11T13:09:40.095356"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1l5ZkpxYk5IVWlWeXA3TExWd1RDSS1KZDM4M1dSSERkWTNralhQOVBKWHZZN1doa0I5WGxpRGUzeFJ5czZvTHhycmUzYldKR1pmYU5GUmhTUkZPT25INWlYZy1FTlRMT0oyaVZYYWozN2dSTURCQ1Myd09MT29XMy1DNUVxRU4zcHF5TTVsa1JkcW5TVFBadnFFWjY0UEg3QklQd3kycjE?oc=5": {
-      "title": "Justiça Federal no DF nega liminar em ação contra LRCAP - CanalEnergia",
-      "summary": "A Justiça Federal no DF negou liminar em ação contra o **LRCAP**, indeferindo pedido contra a homologação do resultado dos leilões de março.",
-      "source": "",
-      "added_at": "2026-06-11T13:09:53.766227"
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSndWelJFdVJvU1NPTmh2dXlsYmc3WnpRbm43clZhVFdEczNsUERXUkhSeGh2LVFJeHUtSE5xTFFibUxVTGt3b2FadU9OWm5WdzFvU3E0TlpWUFhsdUtUQk5wZWJaYzhicS1CSk5uNWM0UUpaSnl0VkJWdzl3NWVpOHI4TnM1R1ZGWGZVVnNOcFlyTUpQcXc?oc=5": {
-      "title": "Eneva inicia obras do hub de gás em Pecém - CanalEnergia",
-      "summary": "A **Eneva** iniciou as obras de seu hub de gás em Pecém, Ceará. Este projeto é um dos três hubs que a empresa adquiriu no leilão de março, totalizando cerca de **5 GW** de potência.",
-      "source": "",
-      "added_at": "2026-06-11T13:10:08.117182"
-    },
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTVFVld5cEk1d0V3djdWbHdNbDl1TW5ZSmpib2pJZ2k4TkcxSkNNbThhbnhZdWJ3algwczl4Rm53aGo3Q0pHZ1YzSHV2RzA1clhod2ZkVWthZUJNY21EUmJqSnQyWjFkSTkyOXN5UFM0OFpkX3hGMGxMemx2Ym1MendPMmJZQktSaHhxMGlpaWROZXhRM2JmTXhNcXBBbWo4V0UyLVNLZ0VEU3JnZDdEcDRieXdHekJZNlBDUUxaUEZyTEdOV2NRTmpTMEs0TVZKNUMwRks0Rl_SAecBQVVfeXFMTVFZNnZWemVVSTh5bU8xNml3WjlQd0lLVklkeEZJVGl1QzZVaE8zd3pXMXhvbTUwM3ZMTXl0RWQ1UFF2Q3VkRmhHR0NhTGE2U09uVmV5SkFlSzRLd3JkNmxTWVZVZDZESnZHdW5LVEJrRmh5djhLZnQwcTJIOHhucXlkR0lYUzNOUTFNNExZbDAzdXZ0RkY0TzlBc21mM2swUkVNU0gxRFZkQXprMk9VMS0wa2NUNl9VVFdMellwbUtrWVFRbWRreUFndi0ydE1SSVRQa2t1ckxpZGdKMElWN1NnUFNaeTBN?oc=5": {
-      "title": "Renovação de contratos de distribuidoras abre debate sobre retorno de investimentos - Valor Econômico",
-      "summary": "Renovação de contratos de distribuidoras abre debate sobre retorno de investimentos Distribuidoras que não assinaram aditivos podem se interessar, mas regras são incertas A renovação da concessão de quase todas as distribuidoras de energia cujos contratos se encerram até 2031 inaugura uma nova etapa de discussão regulatória sobre a prestação de serviço no segmento. Pontos como o retorno pelos…",
-      "source": "",
-      "added_at": "2026-06-11T13:02:40.483994",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01jWk52TG1SMUszVFNDTk5ZVlczZ1BhRDdMUFpFVGQyTnZONzBack55djFmek5aOEZsbEtrUDQxS3Jlc1hoX25nLXpFSGhudzNmc3ZDOGZDWlIxM3VsMi1QS1ZhRFVXS0lKS2lfZkpyX1F3UjZYMVpMTWRJRVNlN3J6Q2Z5Q0pBcTk2Vy01eUV2R2tRbXlDZ2FqRF9LaDdCd1VYTzlQZThhM19pczNqQ0gxLVJtV1N3YVpSSTZ0RzdDNmxrTUFWczJ5NTRSUdIB3AFBVV95cUxNeVZwNlNJOEo2Tm1HVDdKVDM4cHhLQUN1LVZmYkZlS1NOUk5kLVZzZWNNX25UcHBCeklpQ0N4VEVpbXc3NEtxaFhuUEJ4N0xtVlFsVEV5cmhuXzNWdmtsWE8wdG5lLWxoLXNaRGJsVWhydFJfOXJKaDdKVGJOTndwVDlDWm5KbDhRU1BjQkZWUjduZUdfWl9IN3ZiTXQwTi1aOXJNYllBdW9OMGVEVmk1SVBUeEVfTWJkQ0h1RmZNWlNBZGo4cXZjNkxQbGtwb3BRZ1hFeG1yYmhhdmFJ?oc=5": {
-      "title": "EDP inaugura baterias em parque híbrido no Chile e mira tecnologia no Brasil - Valor Econômico",
-      "summary": "EDP inaugura baterias em parque híbrido no Chile e mira tecnologia no Brasil A companhia investiu US$ 44 milhões no sistema, que foi incorporado ao projeto eólico Punta de Talca A empresa de energia EDP começou a operar seu primeiro parque híbrido, com geração eólica e baterias, na América do Sul. A companhia investiu US$ 44 milhões (cerca R$ 230 milhões) no sistema, que foi incorporado ao…",
-      "source": "",
-      "added_at": "2026-06-11T13:02:48.408713",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZPdlgtWFZodnU3MFVUVjI1Z0ZZcGVkci1tMldxVGxwV2ZHdll2RGcwaC1rRUp2dU50YS0zdnI1anI5SThLekFJMzlCU1phR3dONXl2ZlRvREFOOWZ1QlFXNlVxOWhSQTFMc3JUYl8zaklRUlJKaHZ6ZlR5TnVXMnVxSWU2U3FSUDE3MTZtYzhuam4zcUVyY21vZjRjTEt0VmxsaFU3bEFCbXE3RnN3cXBPOHNTekprWHplOXJ2ZWhvVkdqUHNlb1BMdkXSAdsBQVVfeXFMTU1iOExVY3J3MWtEZHdpOWJBdGdqY3JfOFU4eTZCTFFLdVI4S05PVS12X2VERmZFX1JNamVlYURhazJNRXVkVi1YLTBoaTZMQktiWjU3M0laTVJzckNvOEsteFBLLThhTm9aSjNjdkFWbGZuSkNvYzBONllNeXhCdWZjNjR2eTQtOV9hd2hMOElHRnhqWlBZSkt6MzZ5dlBLMnNVQjhjbnc0NkZWMW5ONDgwclFaR01xTVZ3aWMwNmM4WTZlMVdXQzYzOVlZSXRrWmpkVWpiMzV2d0lR?oc=5": {
-      "title": "Engie Brasil aprova oferta de ações e pode incorporar fatia da Jirau Energia - Valor Econômico",
-      "summary": "Engie Brasil aprova oferta de ações e pode incorporar fatia da Jirau Energia O conselho de administração da Engie Brasil aprovou nesta quarta-feira (10) a realização de uma oferta pública de distribuição primária de ações ordinárias, com potencial captação de recursos e reorganização de ativos. A operação prevê que a Engie Brasil Participações (EBP), controladora da companhia, possa subscrever…",
-      "source": "",
-      "added_at": "2026-06-11T13:02:56.741418",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3FFeG1mMTE0M3RZUmZ3R0FOWkFfNnZ6U01tUmRma1NRd2hLRXlVWDdzbG91UE5WRzlDZk94VUt4aWVvSUpCTk1LT1p3alJyNEFxV0thVzFvcEJUallPMjdmUTRHRndfSDJCdmttQnJqTkVfR1RCVk5adUdsLTc4V1VQOVM2SUhEU1J1WmFzdXpDOWkwNkJEMUZ6LVRBdUo1UlMxZWJ6eXp3emdBdzN2OWs2WE1reUtFVnA0S3Y3VdIBzgFBVV95cUxPeWtISlNXN1dGLUFITUd4WGV3eWRGanhPb1ZWNWN6b3c1eEpGazVGNlFlUjl0MlNqVVQtejktb0tuNHduNE1XMWg0RlVFWWZRRmZjdjNPcDhsOFJwc3Y1U0lSQ09TeUdkYldVYVFCdFAyTldQR19sNTlEbVpjS1NNSktqUXpxWnVJNlpDNWVTcFdrS1B1aUk2Qk00YnU0Z0d4UW5vYkQ5TF9mZy02Rm9TaElJa0ptX0lLVjFiSUFnNEE0VGtkekRCYUZsd1BlQQ?oc=5": {
-      "title": "Aneel vai revisar regras para ressarcimentos por cortes de geração - Valor Econômico",
-      "summary": "Aneel vai revisar regras para ressarcimentos por cortes de geração Segundo a diretoria, ainda não é possível indicar todas as mudanças a serem feitas nas regras, mas a agência pretende, por exemplo, caracterizar melhor a classificação dos tipos de cortes A Agência Nacional de Energia Elétrica (Aneel) irá revisar a regulamentação que trata dos ressarcimentos às usinas por cortes na geração de…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:04.615304",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVW1sVldOMy1qSldEcmFhVmxXU0NTeXBUZmI1VExZdHdCa2YxT2RYaEJHT3pFVUpRaVZvOW1zamhqVzVjYUwyaWVjeVdHYll4X2g0bllNZFBUaTRrZDNBNGhmSGVCV3NSazh5M1VnaXlUV3ZWOXk2aGVmNmUyalZMRU5lN05tbXJnQk5raUNtOGVXNjFTZ2p0ZjZ5czVNUVNoSHRXSlpYUndLckdIcUhtWXRsdGVXWUx0SC1WVkl3ZUozZm1CdTJ3VHNNaHZNZDg?oc=5": {
-      "title": "Justiça suspende liminar que impedia confirmação de leilão de energia de março - Valor Econômico",
-      "summary": "Justiça suspende liminar que impedia confirmação de leilão de energia de março A decisão, na prática, corroborou a confirmação dos vencedores, feita pela diretoria da Agência Nacional de Energia Elétrica na terça-feira O juiz federal substituto da 6ª Vara da Seção Judiciária do Distrito Federal, Manoel Pedro Martins de Castro Filho, anulou a liminar que suspendia a homologação do leilão de…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:12.295021",
-      "summary_source": "extractive"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVB6eThnakt6cUd4RlktRnZpQVlxNXNfWnRMTkNSbFRlcGdaZUxad2pFTW93V09zR2FPVDFadzdVcEFzdXdxanJtb01Vd1ZiZTZFekV3MlNCb0ZydEs3dkxZTnZtc1RoZDdWbldVeHhPbVpyQWotM2gyTUZmRXd1WXhnZ19SLTVTR0F6YWlfcVB2bEZnNlRRQ09vYVlGUWE1UFdoMGdFTTk?oc=5": {
-      "title": "Engie faz follow-on de R$ 8,3 bilhões para comprar fatia em Jirau e desalavancar - Brazil Journal",
-      "summary": "A Engie anunciou uma oferta de R$ 8,3 bilhões em novas ações para financiar a aquisição dos 40% de sua matriz francesa na hidrelétrica de Jirau, avaliar outros potenciais negócios e desalavancar seu balanço. No centro da transação: a Engie Brasil Participações, que tem 68,7% da Engie Brasil Energia – a empresa listada na B3 – vai subscrever a oferta contribuindo suas ações em Jirau, que estão…",
-      "source": "",
-      "added_at": "2026-06-11T13:03:53.334359",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1JvQnNVOUF2Z29YemNad3VmOUdZT25SX21peWNwNGR0NTloVGx6ZC1MZnJNcGM2cFJ1WEpSSlNpUFJQUTd0MFZrRXVvRmNEbVVuUE50YmdfRXg5NkJ3cU5vdmJyS09RTGhWSUJ5OTl2akwwcHJUUXpJa2FGWEo0bExCcUxFdkVUX2ZxanBrNkwxN3BQM0FoeUNVMmpPQmItclB0dEhSUmF1T0pVYlRYQ01rRTQyVDN0blZoUnBRZHVqR1RiSzFrRQ?oc=5": {
-      "title": "Brasil evita seminário sobre energia nuclear apesar de convite do governo Trump - Folha de S.Paulo",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) foi convidado pela gestão Donald Trump a participar de um seminário com países latino-americanos sobre cooperação na área de energia nuclear, mas decidiu não enviar um representante. O evento, denominado First (Infraestrutura Fundamental para o Uso Responsável da Tecnologia de Reatores Modulares Pequenos, na sigla em inglês), foi realizado em…",
-      "source": "",
-      "added_at": "2026-06-11T13:04:24.363835",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeFJLUU10dXZhOEFNa3pfRlpybHRIVHVzdWRDdldMRW1PUk41UE1GVEcxMjhXNXkwbzk3TVd4bWpIWGVyeFNoczdyQTlFTzFwcDFpMWJOZlZ6WnVjTHZUMGdfS1piZWVjaDR6cnAyaWNEdklGcTRSSzJFYXNhbmE1N3kxYlZEcUZPajgxbU9xM0xsRGFZaWR3M194SUl6TUlxRXU4Uk1IOThreml5bjlpUHNlUE8tRGFlaFlJd3hZNEdEY1lKS0JodFlZT0t6NTNo?oc=5": {
-      "title": "K-cultura: Monsta X volta a SP após 7 anos com integrantes a menos, mas a mesma energia - Folha de S.Paulo",
-      "summary": "O Monsta X demorou sete anos para voltar ao Brasil. O grupo de k-pop fez show nesta terça (9), em São Paulo, mas encontrou um público menor do que nas apresentações que fizeram em 2018 e 2019, no mesmo Espaço Unimed.",
-      "source": "",
-      "added_at": "2026-06-11T13:04:32.028058",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclpwR1g4ZnhMUENwWHo5Q1l5RHVIOVJnSnlEM1hEZ293Wkc2M2xVMm1FVU52SHlqVm4yX0YwNGQ2MlhGMWh5WGJXZVdCTkZNTldQOFRrd0NiSXlhTEJMd2x3UUw5ell6SHEtTTRpYWswYmdBaUhkSFpjc0lXVjdDOHNnRkJvdHNLUUcydHhib1VqTDRkQ2tyNUVwN2EwTGt4ektWekxxN0k3b095MVpYRlFxdjI2aFN0YXJmMVROQ3RxbEY3T3J5SmF1aDU4SURWSEdzMXBNOFpjY25F0gHiAUFVX3lxTFBIUU56RXNBTi14R0ZOdGx6c3QyaE50elFtTUoteHdSQkRTZng3VnZFVE01Yk5PTTAyS2x2N1pyNm5OU3ZnS2tPM3BQWkVBdXQ1UXZTazhYdDNacHVwWnpucm0tcVRHRWh4RXlub2dVdHcteV9UUW9QMVUyVEdkazBYeFlxWXdPWkQ1eklrOWNTRmxwTnNDR3dyaWJJdUdHNjVLWkdHbUhMNWIzUjFBaUhKTEYwbFRyM3FJWGF2eVdrSV9QRkktRUJ2T3B3NE9Db2RXd0VwX0hPbTF4RDk5eVNOd1E?oc=5": {
-      "title": "Copasa: governo de Minas confirma Equatorial como investidor de referência antes de oferta de ações - Estadão",
-      "summary": "P3C: Novo ciclo de concessões exige estruturação Gabriel Ribeiro Fajardo, diretor de Concessões e Parcerias da CODEMGE, fala sobre os desafios para consolidar a nova fase da infraestrutura. Crédito: Imagens: Léo Souza e Deividi Correa/Edição: Laís Nagayama Gerando resumo A Companhia de Saneamento de Minas Gerais (Copasa) informou nesta quarta-feira, 10, por meio de fato relevante, que a Gerais…",
-      "source": "",
-      "added_at": "2026-06-11T13:04:55.174532",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWhfbnByX1ZkVE4zNHlRcUh3Z2hhbVR1cExHV0lGbnVoVWwtdkpwQWZpTDdYdk1GTHI2aVQ1bmhOeDZJc096WDRTcGUtamtrVVhJVEdiZWljYmtlc3kzOVhyTWp4LWMxTWloUjI1VU9lVE1wel9DMDNRaGVybVE0dlBPYmpjaVktVmI3N1YtVzg0bFdmZi1Iamw3WmJ2WFlqZHRPa1F3?oc=5": {
-      "title": "Sandoval: Prejuízos a geradores conectados à distribuição serão avaliados - Agência iNFRA",
-      "summary": "Marisa Wanzeller, da Agência iNFRA O diretor-geral da ANEEL (Agência Nacional de Energia Elétrica), Sandoval Feitosa, disse nesta quarta-feira (10) que a agência irá avaliar se houve prejuízos “fora do que seria considerado normal” aos geradores conectados à rede de distribuição que sofreram cortes no último domingo (7). “A ANEEL vai tratar os casos e se precisar fazer algum aprimoramento…",
-      "source": "",
-      "added_at": "2026-06-11T13:05:25.219457",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkpxUWg4OV80enBPclQ3YUNtVVY4NFlGOUhxQzZPdnNZTFk2V0NpbFhKczJxcTVUdEFBREY1eVh2c0dhM1gzUk1RcUwtNE0yX2theWQzWUxCbHlTZFJ5WTlEa3FYZjFMUWlkNXZiQjUtclVqOGRqQ0tzTTkxWTlLcDF6ZTBCM2w4SDdyUzYwMmZMNFZQUy1ja0NDZw?oc=5": {
-      "title": "Axia conclui cessão de créditos da Amazonas Energia por R$ 554 mi - Agência iNFRA",
-      "summary": "da Agência iNFRA A Axia Energia informou nesta quarta-feira (10) a conclusão da cessão integral dos créditos que detinha contra a distribuidora Amazonas Energia, operação que prevê o recebimento de R$ 554,1 milhões, corrigidos até a data do pagamento, além de uma opção de compra de participação minoritária na concessionária. Segundo a companhia, a transação encerra a estrutura acordada em 2024…",
-      "source": "",
-      "added_at": "2026-06-11T13:05:32.758888",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdOSmJzT2xjM1RvRDR3SW8tTEFmdEZFeE9MaFk1R01mUG82SjFqdHBKSy0wS1p3T0hFY1Q0aEtvTmhyMXFzVFd4cmN4NzNUekJKZUg0c1l6ZVZGYUcwajc3Rlh6NU5zNlVmVUVmZXhUeE5HaV9HdmpuUVFudjQ2VkhUd3NjN3gwQlNob0poemlaazZkNTE2TWh6Y0VpMGV5R19aSmVfUVo?oc=5": {
-      "title": "CMSE decide manter parâmetros atuais de aversão a risco para 27 - CanalEnergia",
-      "summary": "O **CMSE** decidiu manter os parâmetros de aversão ao risco da metodologia CVaR para o ano de **2027**, os mesmos adotados no ciclo atual.",
-      "source": "",
-      "added_at": "2026-06-11T13:07:48.020048"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWdTRjhWc21PMkJYUGNReGFSRmluZks5Nlp0Wjh3RzVoR3NZV0lBOVIyVE1mdHQtQjE3SDhkWW5HanBQcHRXTlFGc0JSWmpPRUJKNkJ4eWRYejhPQm5jcGRxeHNrNzRvdzNNMF9tYUZPSVpReHFrTHFIOU9YUGpHLUZKUEJvaXY4NVJqaGdHOFRuRFRhSEd3cWJHSERWT0ZDVmlvQ1d5TFdaWEpXaFdLTlVPaFB0Nkp4WXc?oc=5": {
-      "title": "Aneel nega pedido da 2W e mantém inabilitação como varejista na CCEE - CanalEnergia",
-      "summary": "A **Aneel** negou o pedido da **2W Comercializadora Varejista** para suspender sua inabilitação como varejista na **CCEE**, mantendo a decisão.",
-      "source": "",
-      "added_at": "2026-06-11T13:08:01.830665"
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUFUc1VieVRac2xfdDVOWGpxVVJHdjI0eXVRWlhGa1VkNmZlUjBudVpCQXBGSGp4dzFGclk2aGxzajg3ZmxnNHVFc0t1cU11aDh3MHFOakRXcnFCLVVJU0VOZzU1THREVnkzbEprXzJnVWlhaE1iQ1VVTmM2Q213UlQtNGdRMEF3bzRjNVBlU3dETV9KYWNF?oc=5": {
-      "title": "Energisa acelera projetos de flexibilidade - CanalEnergia",
-      "summary": "A **Energisa** planeja acelerar projetos de flexibilidade, com previsão de iniciar até **dez** novos projetos nos próximos meses, focando em interoperabilidade e dados.",
-      "source": "",
-      "added_at": "2026-06-11T13:08:16.785534"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVFUYS1kS2Nhc1Y3N29wU1VRV0MxVi1sU0ppTXoyX21uSkxPZVpfQnQ5c1o0d3NzaVhsRzF3STFWM09LTXFsbVhEOG4wRXJTaXdMUXdYZHlSMmNaYjhXeG92cTc5cFhqNVNRZ0tvQ2IwdGpJZkN1elRVYzF0RFJacjFWR1FnWl9Rd0lDX2ZGU2RtNmZJSjg3ajVuTUQ?oc=5": {
-      "title": "Escolha de diretor presidente na CCEE é adiada - CanalEnergia",
-      "summary": "Escolha de diretor presidente na CCEE é adiada. AGE do dia 11 de junho, que escolheria o diretor presidente na CCEE não tem data definida por ainda não ter indicação do MME",
-      "source": "",
-      "added_at": "2026-06-11T13:08:30.438056",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSkVaR1MxU3BLRm1yQlNZOC1HRkdrSG9SMElWY28wMFQ1bnNXTmpBM3RmN1ZpWWI1RlVjM0tBT0xQY2lKT3R0aHA4TlRFbTliZzNTcnZjQlFabHdmOGdOWDctYXJmQm9WVnRpZGJwSGJWMnlBd0l1OTdMeXdMb2lYWGJ4SFp3R3JocC1Ld2xwX2tSRWZiODNUQ0t3SzQwLWpCelF2T3NxT212M0NaZWZOYlN0MnRHQm91RHVEYm5xeG1LblhzejdRZE40Tnk3QVBXYmkzcTNmUDNKYUts?oc=5": {
-      "title": "Justiça nega pedido da Electra para cancelar contratos de energia e suspende pagamento à controladora - MegaWhat",
-      "summary": "A Justiça do Paraná negou a maior parte de um pedido da Electra para cancelar contratos de venda de energia registrados na Câmara de Comercialização de Energia Elétrica (CCEE), incluindo contratos regulados com distribuidoras, e autorizou a suspensão cautelar de um pagamento de R$ 14,875 milhões à Continental Comercializadora de Energia, controladora da companhia. A decisão foi proferida ontem…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:36.687659",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVlFfU0dQbkZ5Q0VhVUFIMDZHSGhYR2o0aHNWVnZiYVhCM19zc21oLTU5R2lDTnFrZlgzangyYzdKSXNNWDFtUklIUTlMeDlkTlVvU3VUVWR5SXNOTUREYUxqM3pwNENELXRmME4wQUZxcGZTZVpZ?oc=5": {
-      "title": "Redação, Autor em MegaWhat - MegaWhat",
-      "summary": "Mercado energético Cemig e Copasa renovam máximas intradia reagindo a resultado eleitoral em MG (.) SÃO PAULO, 8 Out (Reuters) – As ações da Cemig e da Copasa chegaram a subir mais de 20 por cento no começo do pregão desta segunda-feira, atingindo máximas intradia, após o candidato do Partido Novo, Romeu Zema, de perfil liberal e favorável à privatização das companhias, passar para o segundo…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:44.124101",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81RWdHcUdBSDdlaW9LeDNxc09TeUREYVNReV9lZ1FvYWYyQlN5SG90RW5FYS00WlZUUFhmS3NTeVB6ckg1N1lkSjNYUU13d29ZRUZDLWItU2NYRndIQ1l6RDFCSQ?oc=5": {
-      "title": "Conteúdo de Marca - MegaWhat",
-      "summary": "Conteúdo de Marca Eneva revela planos para o Hub Sergipe: gás para grandes clientes e leilões do setor elétrico *Conteúdo oferecido pela Eneva A Eneva investiu e se transformou nos últimos cinco anos a partir da diversificação do seu portfólio de ativos, passando a oferecer novas soluções para geração de energia para o mercado regulado e até mesmo realizando a venda do gás diretamente para…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:51.409742",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoazZhQTBMdXU1X3YtQ3kyZjAwamdhSlB5cnNqNEdYdGZaTTFQNHJNNXNvVTJRTTNpbUpsOVRFeVhMeXliaTJVeUtFMklQeWlXU0pHdTltRTlYOUVnSDgybEh1VTVMQQ?oc=5": {
-      "title": "Últimas Notícias - MegaWhat",
-      "summary": "Glossário Consórcio O que é: associação de empresas, que não perdem as respectivas personalidades jurídicas, com uma finalidade comum como, por exemplo, explorar determinado empreendimento, mediante contrato. Estas empresas podem ou não estar subordinadas ao mesmo controlador.",
-      "source": "",
-      "added_at": "2026-06-11T13:11:59.407904",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWg1R29OX21uZ2NWRmlQLVNHVUYzRDBFQTYybnk4VE1UYWJpTUR6YnZnSHdkSlh3T0pNeExITDBCdEN6ZWJWYkZwTGlrd2p5VGl6ZTgtZklBRVhsNFhqMFZjSkx6SW9qSlB3a3VqcXpLckxCY1RWV2h3emp1alV4RTF2V1MtZlNzaGtXM2V3TnVybTV2VEhlb1ItQkEwdG1oMTh4UA?oc=5": {
-      "title": "CMSE mantém CVaR 15/40 para operação do sistema a partir de 2027 - MegaWhat",
-      "summary": "O Comitê de Monitoramento do Setor Elétrico (CMSE) decidiu nesta quarta-feira, 10 de junho, manter o parâmetro de aversão ao risco CVaR em 15/40 para uso nos modelos de operação e formação de preços do setor elétrico a partir de janeiro de 2027, apurou a MegaWhat. A decisão mantém o critério atualmente em vigor desde janeiro de 2025.",
-      "source": "",
-      "added_at": "2026-06-11T13:12:07.864707",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lPRHRSckdHNjNnTXNmOWcwMFRMSFpQalpRUzBWenJ3aVJLamhEOVNQWUc0dEhtT0JfbDZMZ3hlcmxuU2RVX19iY3JDUGNOb2JhZnJXeWtvbDZBZnNxQXNOZ1BHTHI3UXhMM1pJcU5keHM0N1BBUTFsWU83QVpyN3hrdTA5SjhjWW9wQjNzV3p1WmFfb0dPRFZvNnZUWURpR1pCV2dmWTlkSmdXaXc?oc=5": {
-      "title": "Demanda por gás no país deve mais que dobrar após LRCap, diz Petrobras - MegaWhat",
-      "summary": "A demanda nacional de gás natural deve saltar dos atuais 50 milhões de m³ e chegar a até 140 milhões de m³ de gás por dia em cinco anos, considerando um cenário de despacho térmico pleno de todas as termelétricas contratadas no leilão de reserva de capacidade na forma de potência (LRCap) realizado em março. A previsão é de Alvaro Tupiassu, gerente-executivo de Gas e Energia da Petrobras, que…",
-      "source": "",
-      "added_at": "2026-06-11T13:12:16.323241",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcnBxRnlWelZoMEU1emtHSWFUaFdZakYtWjB6dlkyUjNXazJRazcyUmZMdmpSTGJNMGRkcHUtNkg4Y1lJUF9OM01sRnYyY3BqUmVGWE51WTZnemIzNGUtT0RGMDk3bmRxTVFrSnFVaUxZanZQd2VNRnoyajkydmdFaEZKWU93b2xPT3B1Rk1BQWthVnRfR3RqMERRWXU5MjdyVzk4bGIzLV8yNFRraTVPUVFmMFdEQmFWRmYwZm1kYXNEUGU5QkhSWlV2RHBVMkR6?oc=5": {
-      "title": "Open Energy Brasil: evento reúne, no mês que vem, o setor elétrico em São Paulo - MegaWhat",
-      "summary": "*Conteúdo oferecido pela Way2 Technology Do conceito à infraestrutura Em 2026, o avanço do tema Open Energy no Brasil entra em etapa decisiva. À medida que a regulação define contornos para o compartilhamento padronizado de dados de energia, o desafio passa a ser transformar diretrizes em operação real, com infraestrutura técnica, governança de dados e integração entre agentes.",
-      "source": "",
-      "added_at": "2026-06-11T13:12:23.308241",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR090czRpWGVzNzZ5Um5mWWZsdG10dld4cXRuSVNUMWtNN203eGRzcXJ6NVR3YTBmMXNRUkh2S09aSGM1bGZRWG15bUhpSHRrVDJPTUE3WEFyNnhCYWJYYmNUY2Zzb2JBejV6OWRBdS1qMFB3NlVhUkVlbEE4YUY3STBzV1dHWjU4R0ZYbDRFSjJTSy1ZNFJzdmM4bnJ1NDdjSXdkcXVveGc1ZW8?oc=5": {
-      "title": "ONS terá nova área para desenvolver ferramentas eletroenergéticas - MegaWhat",
-      "summary": "O Operador Nacional do Sistema Elétrico (ONS) revisou a sua estrutura organizacional para rotinas que impactam o setor elétrico. A iniciativa é parte de um amplo projeto denominado internamente como Maestro, que está dividida em fases e desenvolverá modelos computacionais colaborativos.",
-      "source": "",
-      "added_at": "2026-06-11T13:12:30.795615",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVpTU2ZtUGJya0pkNGdqWlFad0E3TFI0WG1RWXF4ZU1rdlFMVjlLR1RjNm9oUkloSVRpM2k4QTEwVlo0eGd2anJwQ2hXUkM3cm95MVlRWl9sQnJOTDhROVpnR1Q0cDlGc04tREdLNGZyODZKeFo2d25sb0lfYWZNU3lZNHgxWnRMTHdrNklGLTUwUkFlcXdZajQxZlBvNU5hMUtYQUlqUjU4c0dfTXc?oc=5": {
-      "title": "🎙️CVaR, flexibilidade e o debate que define o futuro dos preços de energia - MegaWhat",
-      "summary": "O episódio do MinutoMega de 10 de junho abordou a homologação do LRCap pela **Aneel** e a crise das comercializadoras. Discute-se o impacto do CVaR pelo CMSE no futuro dos preços de energia, flexibilidade e os desafios da nova matriz elétrica brasileira.",
-      "source": "",
-      "added_at": "2026-06-11T13:12:54.379796"
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWUx6dERkWS1TNnFIU1NrWDVGS3RsZ3FiUFBBRnVvdmVtR2FDMlRWOGtjckFvdi1yYjBDU25Yd0lhVldvRUhOcUhkUmhIUjFZSEtFODMzSWtUeGZscThDbk5XX0d3al93VG9oQ3pUQU5fbzE1MXRkMlkwd203bUVjYlNXUFFheVVSNlNyZEQtaWZZS1VYQ0NhNlF0MmJZMlRseWZqbU83LXlMS2NsQjdVSXVRQ0NQLVRhd0xuUjJfVjlWRUlLM1p4LWRpTDBuWUlFVFRPVTFR0gHkAUFVX3lxTE03YXZsc0RrTHZmWEthbTV6NDNMQTlzQm5FMjJaY2FWbWRiczhJZmNWVUJXbW96RTNwUGQ3VWZSd29uN3RKS3c5Y3NrQXNhdmlsc3FMVldYLXBieWNZY1FqVG51RWVsSWJaSUlIUkRZcjNxVlpmZ1c1ZlVLcGRYUXNaUVRyYXB3QjBpNHBRZUFuTm9jaWhia0M1ZlJkWW1rLVJXYXhEWDhGRjVzOE1vbnVqbTRES3d3b2JfUjB5YlJueTdUbWQ1QTV2WnR4VXU4OEszUlgyZ2lFdGYyUUttSTVjSWpkNw?oc=5": {
-      "title": "Agenda de empresas: Engie anuncia oferta de ações; tráfego da Motiva cresce em maio - Valor Econômico",
-      "summary": "Agenda de empresas: Engie anuncia oferta de ações; tráfego da Motiva cresce em maio Por Valor — São Paulo Engie Brasil O conselho de administração da Engie Brasil aprovou a realização de uma oferta pública de distribuição primária de ações ordinárias, com potencial captação de recursos e reorganização de ativos.",
-      "source": "",
-      "added_at": "2026-06-11T13:02:24.467293",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODliNllTUlZhc21KeGQ3Zk1NRWtsejhZY282SzVjb040ZGhHc19JV25uTkhHRndqU3ktRTdqMDV1c21weWpGV2pEcmVGYnRKWjFtdTVzMW1HOUVRR3R2ck5wellGclpDa2dXcnYtb0kxSlZYc2F0Qmc3SkJDWi01YmRzYWRwekNlXzhiZEZydWEzSTNTLUlsOUNCc2I4OGpGNTR3OTU4TmlYWndaOG1EaTZJM3pMQjN4RFUxOXp1MUZrSElTMzVwcg?oc=5": {
-      "title": "Equatorial é confirmada como investidor de referência em controlada da Copasa - Folha de S.Paulo",
-      "summary": "A Equatorial disse nesta quinta-feira (11) que foi confirmada como investidor de referência selecionado na oferta pública de distribuição secundária de ações da Copasa à sua controlada Gerais Saneamento. Em 3 de junho, o Equatorial já havia sido o único a apresentar proposta para ser acionista de referência da companhia mineira de água e esgoto, submetendo oferta de R$ 49,03 por ação.",
-      "source": "",
-      "added_at": "2026-06-11T13:04:16.817417",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXRScnU5My1QRERsUHRVYjFMcXlucWhlWkpYQlJ6VkZvNXduQnEtUWhuS3JSX1JGaU4wbUNPN3p0SzRQSDR5TjhHeTNtMVZpUlRqT0N5NEFjWHhXUlZQZEJhdlpfM0lrWEFkVnpReVVFa3FwZXlqRkFmc0g4N0RrUmI1WF94S3pfcTgtczRYT0RPMDYyb1RLTmFzR181ZEtBYXJ5RQ?oc=5": {
-      "title": "CCEE vê avanço na classificação de comercializadoras - CanalEnergia",
-      "summary": "CCEE vê avanço na classificação de comercializadoras. Queda de 39% no número de empresas sem documentação e aumento dos agentes Tipo 1 reforçam a maturidade do mercado",
-      "source": "",
-      "added_at": "2026-06-11T13:07:21.658567",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmFFTlZWd0dhdFRvLS1kMkd5c05aSUlKUkxRSmNVRE9nZFcwWGN2Qm9VRldydTY4MG9yZVdsc29vTjQwUmIxLUhld0ZZM21DNllXSVp2dDlaUmZGVnhkZzJQYTROR3p1bWp2emJuUFdPSnNwdnB6RVh5Zmc0MG1qSWs5djhWUWRkRWx0WjBLUEEyQWh2QkEtVm9zSkNkVEo4LXdzWUx6SmtkZjVoZl80MzNQdjQ4Y0J0blVYUjBlMm1vZUdjcmotMmdheEZMUjRZZm1YMkxB?oc=5": {
-      "title": "Renovação de contratos de distribuidoras abre debate sobre retorno de investimentos – Edição do dia - MegaWhat",
-      "summary": "Reportagem do Valor Econômico destaca que a renovação da concessão de quase todas as distribuidoras de energia cujos contratos se encerram até 2031 inaugura uma nova etapa de discussão regulatória sobre a prestação de serviço no segmento. Pontos como o retorno pelos investimentos e regras para as perdas ficaram em aberto e devem ser debatidos até o ano que vem, com potencial para atrair…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:15.756386",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamVCamh4a2UxYWc3dkZJUXpqUXNQV3draHRXS2wxOWlnQzlnNnBtOUpzZjN1OXNRbGZfNG9hQ0VzQ0lpUjdQZm00Nnhocmx4eGw2R1hvOTZ6cVBEUDBqTHVMeVdUZFQ5cm5rLWt0WFBRdE5FY3BkM09QZWN0N0d2cWlHaEZzUTV4Y2U3T2pDS2E0bzhlZ0FFRnBrRjN3OHRI?oc=5": {
-      "title": "Baterias devem ficar mais perto da carga, defende Energisa - MegaWhat",
-      "summary": "A Energisa avalia que baterias instaladas mais próximas dos consumidores, em subestações de distribuição, podem ser uma resposta mais eficiente para parte dos desafios de flexibilidade do sistema elétrico do que soluções concentradas apenas na rede básica. A avaliação foi feita pelo vice-presidente de Regulação e Relações Institucionais da companhia, Fernando Maia, durante o Aquecimento…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:22.739486",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUtONnBJVDF6UUpBNDdZQU11aW5yR2dwUTZkbUJrM3Y0TFZObEgwaEk2eFk5ekFObFFTd2ZEVUI2Nk9GcEZoSGFoSUpCRnIwMkdNZEV5WWhXRFowYmdoWXJtankzcUJOaC1ZNHNGZ0pNcEg1ang3eHNlYjlfZWprMG9PdWl5Z0dWOTdBR1FKLWVxbl96N2gtUFdUY3NnYlBPWUx3czYtQnNKT3NGbGtqdlZJYjdmQU9LYnMxeEFYaE8?oc=5": {
-      "title": "EDP aposta em baterias e adia novos projetos de geração no Brasil - MegaWhat",
-      "summary": "A EDP iniciou a operação em fase de testes do seu primeiro parque híbrido de geração eólica com baterias da América do Sul. O projeto deve servir como referência para a estratégia de armazenamento de energia da companhia no Brasil, em um momento em que a empresa não prevê novos investimentos em geração renovável no país nos próximos dois ou três anos, devido aos impactos do curtailment e ao…",
-      "source": "",
-      "added_at": "2026-06-11T13:11:29.704741",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFkwaFREMWstNGdJeUR4T0ExNnFrOVU0am9xWVVEaEFCcW15Vnc1QjlDVlNqTjIwbEtZWWdNR2IzSE81eFo5dmVvYWplQzMzY3ExbFJJTXZXcTFOWjdrSEpZTGlSNmI5eVgwQ084TlhBRU4tZnk3N1ducFIyMUJIRlRoWkJOTzZicDdoVjhJU1VyREJITlVEVS1ZRFMybXVYWkh2U29JSG9fVXBqNGp4RmVFMjJiRDVKMnFjdmhxQUVnUUU4ZUpxZVZ3?oc=5": {
-      "title": "🎙️CVaR, flexibilidade e o debate que define o futuro dos preços de energia - MegaWhat",
-      "summary": "No MinutoMega desta quarta-feira, 10 de junho, a jornalista da MegaWhat Camila Maia confirma a homologação do LRCap pela Aneel e explica por que a crise das comercializadoras continua se espalhando pelo mercado livre. O episódio também contextualiza o que está em jogo na definição do CVaR pelo CMSE hoje, conectando o debate sobre preços, flexibilidade e os limites do modelo atual para lidar com a…",
-      "source": "",
-      "added_at": "2026-06-11T12:43:02.882245",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNazF2c1l2eVlSdUFMTjd5am9WYUh4REpGWHdUb0JHaG9JX0ZBSk9qOHNGRjFZZEtNd1c3UEpXdkxDdDlSaGh3QUlSSUZjSTJMSktLTXQwc1JYXzctbnlUSk94YThPZE1CT3dKa1h1MndaVW5WalJYQ1BVVndKUDVNczNaNDg2RHM4RTVIeUhhQnZVTkQ1ZElySDFobWFZSWpwcjYtRkQxcDJ3UGRTWHBodTRkS1ZBTkJBbVR0bnlPdzJWTkpuQzBYaDdWVDdlb3U0UnA5SFpNQQ?oc=5": {
-      "title": "Área técnica do MME alerta conselho sobre risco de aumentar mistura de biodiesel para 16% - Folha de S.Paulo",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) chegou a anunciar, no dia 30 de abril, que a mistura obrigatória de biodiesel no diesel fóssil subiria dos atuais 15% (B15) para 16% (B16). O aumento é esperado desde março pelo setor de biocombustíveis.",
-      "source": "",
-      "added_at": "2026-06-11T13:04:09.009966",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcXo1a0ZxTFpuTXFLSkF3Rnl1WG9zeDVCVjloSWdhS3R5SGY4elNScmM1UWxfTldXNjZfbFlyOEIyZURmdnBNZXRPenBXdHA1aUYzeHpnUTJyUTQ4OHdfLVE5Sk9HdE9NQ3E1M0RFUXg0LWxlU1hMQlVyVFpOcGM3Y1ZKT3N4eGxMc1NhVnZtRTFoTzI2OXltaTF6MGZwWE4zRlZwTkdVYk1qbzA?oc=5": {
-      "title": "Leilão de baterias já atrai novas fábricas para o Brasil - CanalEnergia",
-      "summary": "Leilão de baterias já atrai novas fábricas para o Brasil. O mercado de sistemas de armazenamento de energia em baterias (BESS, na sigla em inglês) vive a expectativa de ganhar escala com a realização do primeiro",
-      "source": "",
-      "added_at": "2026-06-11T13:07:14.036576",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzNiSjAwdjdyYTM1ZW56dHppaDByVEI2RnFWdmV6UW82VHI0d2w1WlpWQTUxcThlY0t5eXVOOVBSRlp1cWdZelJURjhrMzNmQVBUc3gxaVZyYW93RURFV3B2WHB5UlNCRzUzQkt1RXFxRGxWNENEMDY4X0lfZnFOYnhBdmtVUkt0YllCY2FkOWpfb0JoZjdIaXUwTEpKZGliOVNYUGdtNUZPTWRyNUE?oc=5": {
-      "title": "Regra que ressarce usina por corte será revisada, diz Aneel - CanalEnergia",
-      "summary": "Regra que ressarce usina por corte será revisada, diz Aneel. A Agência Nacional de Energia Elétrica (Aneel) irá revisar a regulamentação que trata dos ressarcimentos às usinas por cortes na geração de energia",
-      "source": "",
-      "added_at": "2026-06-11T13:07:34.282760",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2tvOVFiRnlNdFZ4T0VobjNmMTRWWTB0YzNNX19KUHdfbnFFeDJkY19keHA5NFhIM2Y2SVU4UGRhUUVfM3NNR0xfVzNQY3dqeEZDSEozb0lyVFJXbURfYURxSm9zd2E4a2NKdFlLRTlLNnhCREZIYnlRMWtrSXNWNXBTcy1SOUxIRmhxd09hSFZ2SWVtdHE3SkVIRFpmZjdyYllPc3hlaTVjZEZRZ1E?oc=5": {
-      "title": "TCU derruba tentativa de barrar acordo das concessões da MEZ - MegaWhat",
-      "summary": "O **TCU** derrubou uma denúncia contra o acordo de concessões da **MEZ Energia**, arquivando o processo e permitindo a manutenção da concessão da **MEZ 6**. O acordo prevê o distrato de outros quatro contratos, com licitação marcada para **3 de julho de 2026**.",
-      "source": "",
-      "added_at": "2026-06-11T13:11:01.094112"
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOENkMzlRNW5kVktuMFFfVk8tV1hFaEREaUFwZ25iczJSLVF4Tmd2blUwOW5ta09LcW1SbkpWUUVnSXlDRmlqb2h5djZNTUxkcmZnSUh4UHd1QW9oMS1nOUpTazlrNzNGcXJuUlpTb1FuejdrMHpucUlNaUhDdGR2ZGVuYkNhQm85bGVXVWFkbnFSR2d3b3RjNFNVNUgzY0NuajVKVHlpTV9CbU1ESmhPNkpVal9oT0hlRUZKcUJFOWhYYndQZm1UUnp4Zkg4THU3UHNuOGdn0gHkAUFVX3lxTE5SOERPS0FBYVpSb25IRFpPUmF5dVJ6YkFpV0g3OTNodU1rQkJuTktYNFkxbUNuLU01UktFNzlEOExhSDRNZlh4eXR4TUFIWXRyU0VFTDVKbDhuNjVTR2YzeU9ZYVQ4WkJiMUUtc3U4NENlU0JKUHNSVEJYSjkwUFJCdVhMVVA3RHBDTmlVVzV2d1FGdG1nRlNZaDhaN3R0YUllNkIxRE5tWDF4QkliZ0FDbUJmU3VxVXh1YWdSY3lhVkp3aW5sdE1xTFE2ZmVzQXd2aHlmRmhEczkzX2JGb3FFTEVCRQ?oc=5": {
-      "title": "Equatorial é escolhida pela Copasa como investidora de referência em privatização - Valor Econômico",
-      "summary": "Equatorial é escolhida pela Copasa como investidora de referência em privatização Serão alocadas ações representativas de 30% do capital social da Copasa à Gerais Saneamento, controlada pela Equatorial, além da assinatura de acordo de acionistas e outros documentos relacionados à privatização A Equatorial disse que recebeu a confirmação da Companhia de Saneamento de Minas Gerais (Copasa) que foi…",
-      "source": "",
-      "added_at": "2026-06-11T13:02:32.463601",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzZSU2g5VFFvTXVscjF5WU5ZOXN3TF82QnlhY0lGdDgxRkxLS3h4NE5LZmRLMkZFVGx3M0ZhTTBKcVR6b0QwbjZZSDBITUozTmpwWThFUXYwSThkY2JGSE1RUkFpckxtYUFPaVBjUVdBQTRjeC1MV2RlWGdQc0w5Z0d3MUgwTmNJbENQTUU2Y3JSb2dDRUlnSVdEU3dfMUFUQXpUemxPa0VOZm1QZWFxTTg4Rm9KMkJ2alZKYXJTMjB3Zw?oc=5": {
-      "title": "Eletron conquista recursos para eficiência energética industrial no Paraná - CanalEnergia",
-      "summary": "A Eletron Energia conquistou a totalidade dos recursos da chamada pública da Copel (Companhia Paranaense de Energia) destinados a projetos de eficiência energética no segmento industrial do Paraná. Segundo o relatório preliminar do edital, a captação alcançou aproximadamente R$ 30 milhões, representando 75% do total previsto pela distribuidora para todo o Programa de Eficiência Energética (PEE)…",
-      "source": "",
-      "added_at": "2026-06-11T13:07:00.965486",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3FSek1sUjhSNkFMczJPNDh0MUhUSGtyLTBWaTYwQ1c5cVlyR29NYVp6M24wNDl0MUctbFNRT1dxUWlKbWRMNV9KVXlfUDhpQjR0NTlVckFEdTNmT0tlbDlOLWNpNDRPVG1kanZZdDRLUnc3RmEweENhNDc5eUczTkt6Vzh3TWptUTZ0XzhBaklkRzMyQTVSdld3VlRYb0tlYTRVdUFuaTdEa01SaHR6bDhfY0hDN3Q3OXpoQ2NWLWJNdXpfek5lLUtUV2VuRXptd1E1TE80WkNPYWUyYXgwcmNvRjBZbmFUNlNIUA?oc=5": {
-      "title": "Engie propõe oferta de ações que pode superar R$ 8,4 bi com incorporação de Jirau e reforço no caixa - MegaWhat",
-      "summary": "A **Engie Brasil** propôs uma oferta primária de ações com volume inicial de **R$ 5,744 bilhões**, podendo chegar a **R$ 8,4 bilhões**, para incorporar a **Jirau Energia** (40%) e captar recursos para investimentos.",
-      "source": "",
-      "added_at": "2026-06-11T13:10:54.005811"
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2hkM1dWelVRbkIxNjFzaGI0LXBMMFljQU92Uzk3YjZ4b2k5aF8wbHpMRjlHNHJKLS1ydXdKOG5tbUNkeExIbkl3d0JFMlBiaUR6VjA1d2gxLVEwalB4bjFPemVnYzZnU1BNeUVfMS1OMDZpOUNFSGdNMG1XcDlhYVdwMGpwNW9nbWIydjluX1UzeGRyRkJ3aUZJN3R4eEVtSTdINFM5T2dUbFFKcTRjVm9iOWRrZmwyZ28ycmpUUzdEay1JOUtGb2diMA?oc=5": {
-      "title": "Engie Brasil aprova oferta de ações para comprar participação na usina de Jirau - 11/06/2026 - Economia - Folha de S.Paulo",
-      "summary": "A Engie Brasil informou na quarta-feira (10) que seu conselho aprovou uma oferta pública de novas ações como parte de um plano para adquirir uma participação na usina hidrelétrica de Jirau. A empresa comunicou que seu acionista controlador, de propriedade indireta da francesa Engie, poderá participar da oferta transferindo uma participação de 40% na Jirau para a unidade brasileira.",
-      "source": "",
-      "added_at": "2026-06-11T13:04:01.091262",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEJYczBNdjB6LXRDRXRvTkFKNDBicDNmbnE1Zk43UU1rdVVhSkQ1MEc5ZXQ2ZGtWOFhsRmVGRHprY3psdUdtYXM0eUM3NDBUeGpxMEJDczlIdldNZ0tsVG1xcUZpczZCUTVhdVl6ZW13Vlhxd0RpMnJFWU1ESk0zZkdNV1Jnakt4a29VbFlGWW9PUURNMTc1c2RUNHZWM2ZRY2ZtdlFaQk96ZXVh?oc=5": {
-      "title": "Ibama libera obras de linha de transmissão de R$ 18 bilhões - CanalEnergia",
-      "summary": "Ibama libera obras de linha de transmissão de R$ 18 bilhões. Com licença de instalação emitida, projeto vai ampliar o escoamento de energia renovável entre as regiões Norte, Nordeste e Centro-Oeste",
-      "source": "",
-      "added_at": "2026-06-11T13:06:47.279316",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYktHSGtmOU5XOEZzNnB4WEVyMnkzZC1lMU5EVmVHYVVoQmNKb3F4enZHcVREM1NpQ2MzeUNMVnJ3ME9JVHd5M1hKc2dUWHJrdVgyaHFfMlZ6YXhsdWtrU2F2S2h3dFRVdW02d3BtYWtfQW1OZUY3N0Fjek9vdV83WE9LSGcxX1NvYTlVT1Y0ckJlNTVQYzVVT3BEVUlxSUNSeGFIanU4Rk9KUEU?oc=5": {
-      "title": "CCEE retira Elétron de operação balanceada após decisão judicial - MegaWhat",
-      "summary": "A **CCEE** retirou a **Elétron Comercializadora de Energia** do regime de operação balanceada após decisão judicial em Pernambuco. A Justiça determinou o restabelecimento das condições operacionais ordinárias, considerando a medida restritiva à recuperação judicial do grupo, que tem valor de causa de **R$ 1,17 bilhão**.",
-      "source": "",
-      "added_at": "2026-06-11T13:10:45.774793"
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ0xWSEdhbGpKVkxDRjY1WFI5YWZYWHVCd0lRU0JXRXZVNF9OMjNNOVlYek1TZmczTWM3c3JGTGNDN3N0N252QzU1X0xEazhMZUdpREVfSUJLZlFkQ2lySU90Z3ZtdGZYNS12cmZSdk56Rm5NUEdLa01IUEFEQk1uRXRWbFV6ZVFzSUVzRElCRXFlcHhXWHN5Rm9vTEx4dTdRS3FKNWczSndiM0NlYkRodkdJc0s4Y2NZN0NiMFpyWmwzZw?oc=5": {
-      "title": "EDP quer disputar leilão de baterias, mas alerta sobre encargo para gerador - CanalEnergia",
-      "summary": "EDP quer disputar leilão de baterias, mas alerta sobre encargo para gerador. Na avaliação do CEO da EDP os encargos podem afetar viabilização de projetos em leilão que deverá ocorrer em dezembro deste ano",
-      "source": "",
-      "added_at": "2026-06-11T13:06:32.818336",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcmJQUlRfbWV2NG5ORG5OVllXbzd0Mktvd0JoUGx1Y2k3RkVxb0xpU21uOXNQbGxZV3lOUzc0X3hySUxoeWsxaGFwSldCY2ZUZjYtSWFnWkIwaXE1bF9uRVJGVWJVb3o1aTZzbEdVUzRzUkpP?oc=5": {
-      "title": "Empresas - MegaWhat",
-      "summary": "O **Banco Clássico**, via FIA Dinâmica Energia, aumentou sua participação na **Cemig** para **10,03%**, após adquirir **200 mil ações ordinárias** por **R$ 2,44 milhões**.",
-      "source": "",
-      "added_at": "2026-06-11T13:11:08.851510"
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWpMbWNWeVNlNUxIWThkUnFzY1Z0SllzTDZDOFMxWTFsQ0FuUk1CdVg4clYwanZoWnhOUDZFV2NlemZtVVpVMEQtdkdSRGlWeWdiYm5sZm55cjI2NFNTVHF0eUx4TWpfZFBrR3dwcWJ5WE5jWjBKN3FoZU82MDhDZmVFWlhrVml5SWZ3ODJRTzFwTmo0bHRETlRaNTA2a0h3?oc=5": {
-      "title": "Após ataques dos EUA, Irã volta a fechar o Estreito de Ormuz - MegaWhat",
-      "summary": "O Irã anunciou o fechamento do Estreito de Ormuz para todos os tipos de embarcações, após novos ataques dos EUA. A região, que era passagem para cerca de **20% do petróleo global**, já havia sido fechada anteriormente, causando volatilidade nos preços, com o Brent superando os **US$ 100** por barril em março e chegando perto de **US$ 120** em abril.",
-      "source": "",
-      "added_at": "2026-06-11T13:42:24.523421"
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmlpMG94alduY3E0WlJmRGdKTEVWLU9vRUFsdEkwV3c4MVlPcElid3I5Sk16d2tQd0hTQWdZdWN6d2lXeThmRnlOY0d6UmFPUFZNeE1kbEhSSjdWeUFMU19wb190cFVhZXByS2Q0OTR6cEFWX3dLVFVUM2xoYVVCa0ZxTnlhQ3EtZE5LUEh4bnhHMW5XTDdfUDRrSUJ3WEFkRmdScTFVOXRZVXcwbWNITUNnbzV0UQ?oc=5": {
-      "title": "Aneel cobra plano de contingência para Copa de 2026 e impactos do El Niño - MegaWhat",
-      "summary": "A **Aneel** solicitou aos agentes de geração um plano de contingência para a Copa do Mundo de 2026 e os impactos do El Niño. A agência pede medidas operacionais especiais para garantir a segurança do Sistema Interligado Nacional (SIN), incluindo a suspensão de manutenções programadas durante os jogos da seleção brasileira e monitoramento meteorológico.",
-      "source": "",
-      "added_at": "2026-06-11T14:12:58.518892"
-    },
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fVDNPQU5UVDN4UUh4a1dXSGotMG9OYkFNYlFGa20wNmFJRjNzRHFaM0JTMmhkV0NTU3pFazlaX1ZoVG9GYzJPLUs1eXcwdzVyYkJ2Z0NNcw?oc=5": {
-      "title": "Tag Continental - MegaWhat",
-      "summary": "A Justiça do Paraná negou o pedido da **Electra** para cancelar contratos de energia na **CCEE** e suspendeu um pagamento de **R$ 14,875 milhões** à sua controladora, **Continental Comercializadora de Energia**.",
-      "source": "",
-      "added_at": "2026-06-11T14:12:58.534611"
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY21iWENPNHdNNGd5LTlDVENpNEM1emVtV2x4TE1qMGJ6NkQ2QjhkWTVQMFdJZ01TWnRoN3BaRnpfbjZjQlR2UGdJYms3SUNNaC1odFlxc015b1N2aXl6WTQ0WkxVLXZMZm5vWDhmc3ZKZlFkRENjVTl6YVhiOEJDdW5tVEx6QXNqVmdfc0FSU1UxZ2FKYzkxd1ZoQVMtUXdhTnhwMTZ0WFdmUXJhWE5PY3lYUl9IQUx0NEhodFJveUtHZXZ6alp5aTB30gHKAUFVX3lxTFBjbWJYQ080d000Z3ktOUNUQ2k0QzV6ZW1XbHhMTWowYno2RDZCOGRZNVAwV0lnTVNadGg3cFpGel9uNmNCVHZQZ0liazdJQ01oLWh0WXFzTXlvU3ZpeXpZNDRaTFUtdkxmbm9YOGZzdkpmUWREQ2NVOXphWGI4QkN1bm1UTHpBc2pWZ19zQVJTVTFnYUpjOTF3VmhBUy1Rd2FOeHAxNnRYV2ZRcmFYTk9jeVhSX0hBTHQ0SGh0Um95S0dldnpqWnlpMHc?oc=5": {
-      "title": "ISA Energia Brasil energiza terceiro bloco de projeto Piraquê - Valor Econômico",
-      "summary": "ISA Energia Brasil energiza terceiro bloco de projeto Piraquê Empresa conclui lote com aporte de R$ 4,4 bilhões, segundo estimativa da Agência Nacional de Energia Elétrica (Aneel) A ISA Energia Brasil anunciou nesta quinta-feira (11) a conclusão das obras do projeto Piraquê, que compreende oito linhas de transmissão que somam cerca de mil quilômetros de extensão em Minas Gerais e Espírito Santo…",
-      "source": "",
-      "added_at": "2026-06-11T14:47:35.662445",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjhET0tBQWFaUm9uSERaT1JheXVSemJBaVdINzkzaHVNa0JCbk5LWDRZMW1Dbi1NNVJLRTc5RDhMYUg0TWZYeHl0eE1BSFl0clNFRUw1Smw4bjY1U0dmM3lPWWFUOFpCYjFFLXN1ODRDZVNCSlBzUlRCWEo5MFBSQnVYTFVQN0RwQ05pVVc1dndRRnRtZ0ZTWWg4Wjd0dGFJZTZCMURObVgxeEJJYmdBQ21CZlN1cVV4dWFnUmN5YVZKd2lubHRNcUxRNmZlc0F3dmh5ZkZoRHM5M19iRm9xRUxFQkXSAeQBQVVfeXFMTlI4RE9LQUFhWlJvbkhEWk9SYXl1UnpiQWlXSDc5M2h1TWtCQm5OS1g0WTFtQ24tTTVSS0U3OUQ4TGFINE1mWHh5dHhNQUhZdHJTRUVMNUpsOG42NVNHZjN5T1lhVDhaQmIxRS1zdTg0Q2VTQkpQc1JUQlhKOTBQUkJ1WExVUDdEcENOaVVXNXZ3UUZ0bWdGU1loOFo3dHRhSWU2QjFETm1YMXhCSWJnQUNtQmZTdXFVeHVhZ1JjeWFWSndpbmx0TXFMUTZmZXNBd3ZoeWZGaERzOTNfYkZvcUVMRUJF?oc=5": {
-      "title": "Equatorial é escolhida pela Copasa como investidora de referência em privatização - Valor Econômico",
-      "summary": "Equatorial é escolhida pela Copasa como investidora de referência em privatização Serão alocadas ações representativas de 30% do capital social da Copasa à Gerais Saneamento, controlada pela Equatorial, além da assinatura de acordo de acionistas e outros documentos relacionados à privatização A Equatorial disse que recebeu a confirmação da Companhia de Saneamento de Minas Gerais (Copasa) que foi…",
-      "source": "",
-      "added_at": "2026-06-11T14:47:35.662721",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2Jjd3JfVm1URlBSUE5SOGUwM2h0S2k5Y2FHaERRMWlnYTBKUzh3UWpTVDd3TkFhVWtZRVBBOEd0VXZzaGU5T3pCQXdqanBPbmNwWVZMaFJuVURTa0JxV05xTVI3cEJzUldTdFlhR051UDU3ZWJCV2FaUDJjejhLSVFscEdkZ1UyZmY4UW1nQ2c3Umc0Z3NEb1k1NndZN0lTWHJWdmtFTk9NOVRtTXdKTXNSUGEyLTDSAcYBQVVfeXFMUEZXeHdUbmcwSEQ2LUdnbXg3cU8wbEprdXVpM2lyekdWa0NzTXFyNUNjUHlBdnJsY1VNdDhTN2VWeXR3ZE4zLVRMVE02YVZTejIya3RmNU9POHZiQWtUYVBTTldUR3B5dGhaRTNjekZVZDZJTFlVQlRNcXIyblhvdXI1N2ZMODMtTEdqRzBfaVNZVkc3VGQxZmlhUWR3Nm9rXzdoYVY1MEgyTE5qaTFwdE1KYUtaQVZwTVVIMnk3bWpkWVVvOGR3?oc=5": {
-      "title": "Engie busca R$ 2,6 bi no mercado em oferta de R$ 8,4 bi com Jirau - pipelinevalor",
-      "summary": "Engie busca R$ 2,6 bi no mercado em oferta de R$ 8,4 bi com Jirau Empresa vai integralizar a participação do grupo de 40% na hidrelétrica A Engie Brasil Energia deve buscar até R$ 2,6 bilhões no mercado para sua oferta de ações de R$ 8,4 bilhões, com expectativa de precificação no terceiro trimestre, apurou o Pipeline. A controladora, Engie Brasil Participações, poderá subscrever a oferta com a…",
-      "source": "",
-      "added_at": "2026-06-11T14:48:09.148209",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGtJNTYyWXlpN2hOM2RoQ0RVRW1sQ0RPRzlHNW5WbVJfdlk1SWQxLWVwTk5fSENmbEY5NXJFVjdvcEc1TXBBOTJMWU9SbmJUYlQ1QVVITWQ4dnFFRjdDTFFIVWFObUVOMU0xMFFWYkhXVXV6ei1STW01a09Mdk9QVHg1cGpLME0wQVhDU0xObi1HUXAyN1BVMXdBMmk3eXdITmF1M0p0Zw?oc=5": {
-      "title": "MME: Indenização por ativos de transmissão pode ser alvo de judicialização - Agência iNFRA",
-      "summary": "Lais Carregosa, da Agência iNFRA A indenização às transmissoras pelos ativos não-amortizados ou não-depreciados das concessões a vencer nos próximos anos pode ser alvo de judicialização, avaliou a diretora de programa do MME (Ministério de Minas e Energia) Isabela Vieira, em evento realizado pelo IDA (Instituto Brasiliense de Direito Aplicado) nesta quinta-feira (11). De acordo com ela, há…",
-      "source": "",
-      "added_at": "2026-06-11T14:48:56.370271",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOG9WX09sVk12eUhhU053NEhIdTVscU1tX3F6OEdTdjl3X0ZzUUZuTU10QjFTZTUwVmlsaE1peDhLU3ZGQTR1R25yRTIwUVNfLWwwUXcyWXVscUFOY1dkZFpJNzFqNHJzR1JlVUFtLXlMU1o0VEJIQVdsV0JTNE83cnZxNjNKTkpxam5zeURCX0MxS3paMWNQejZhQkxKNDhzTGdRQkRnanBXRzdEbmg4WVJaVmRmWko3c1E?oc=5": {
-      "title": "Reservatórios do Norte ficam estáveis e operam com 97,7% da capacidade - CanalEnergia",
-      "summary": "O submercado Norte de reservatórios de energia elétrica manteve estabilidade, operando com **97,7%** de sua capacidade total.",
-      "source": "",
-      "added_at": "2026-06-11T14:49:11.217908"
-    },
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUndNajk5a1FmNHdjZkdFbjcxMlJiTjJkbGI0QzlXVTZ3aFQ0ZmJDN3BxR0E5YTlURjNHM0lJVDEwMjlOTW54aGJXSTVOYVBkQVdXNXVsTDc1eERvOE9TVk14dEVra1c4UmUxSi1GSXlISUFUc2VvaFRfbkthaWFzVVY4UHRFam05QjA3LWFPT045WE9BcGxJT0t4eG9IcjM4bWpVd09CM1lwNjh2U0hPeTYyZDJzOHRpSTRLRzJR?oc=5": {
-      "title": "De olho no mercado brasileiro, EDP inaugura sistema de baterias no Chile - CanalEnergia",
-      "summary": "De olho no mercado brasileiro, EDP inaugura sistema de baterias no Chile. Projeto Punta de Talca BESS tem investimento de US$ 44 milhões e é o primeiro da companhia de baterias associado a fonte eólica",
-      "source": "",
-      "added_at": "2026-06-11T15:02:16.853555",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbWRmWWFaU2tyWlcyN3hid3RJaHVvZUpjN0JiejNPX0RKRlVJQnRTaG9xRjV5VWFpYVd0RW42QWVMNEhOU25KUXYzdmszeDE4bDBFUjlUVS04ZHNUQlNLaTBpeF9qc1U2QUdDQzNOMTRaOFVZSlZFeHlJRm9GNkNHSjk5bzBJMEYtM0pUekx4LVBMYjd0aHRPMGlIZlNJdXdlbEJsVTJwRk1Xc0tTaEpscQ?oc=5": {
-      "title": "CCEE rejeita recursos e mantém desligamento da 2W e Diferencial - MegaWhat",
-      "summary": "A **CCEE** manteve o desligamento das comercializadoras **2W** e **Diferencial Energia** por inadimplência, rejeitando seus recursos. A decisão, tomada em 9 de junho, afeta empresas em recuperação judicial e com dívidas significativas, como a Diferencial com **R$ 154,5 milhões**.",
-      "source": "",
-      "added_at": "2026-06-11T15:02:31.697900"
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUVZZGo4WUxJWUs4cUxGUHZXaTc3dWFkTHdIemJRN09ra21iZ2V2Wm0ydjBYSGwwQWxMQVpGUHd2Tjl0SENtY3EzOHRUTVc4c0JRQm56QjFCTDE5WVlQdktwQk1kbGZZampla0RlX2hESjltQW1YM3dybHVYdExXdGVJSE5VNG1mcTJmLUY2WkdhOFJQU2VwT1Jyd1pfRzFvOXphcUxIZXVfY2RILXdJUHVIOElBd0VUVjhUMmdpSmw?oc=5": {
-      "title": "NOAA confirma El Niño e Aneel avalia barragens e impactos de seca no Norte - MegaWhat",
-      "summary": "A **NOAA** confirmou a probabilidade de **63%** para um El Niño forte entre novembro e dezembro de 2026. A **Aneel** emitiu um ofício para proprietários de barragens, reforçando a necessidade de medidas preventivas de segurança e avaliação de riscos devido à possibilidade de chuvas intensas.",
-      "source": "",
-      "added_at": "2026-06-11T15:02:31.698888"
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOS14U1dxdjFJQ0tCeThESURncjJPck9YQkJJOVhOLUZIVllocUlST1V4MTY1VlUzMHJlaEFKcDdpNkFMU1lPb3Y2MVp2Rk1wcm9fN1A0a0FBTWljYlZqc09sMExfTEtSbU9IVTRtUTAxYThmTFhCVnBiQnl4dzFpQkRRbUVXOUFCZUpNbkVadm9jXzFuRkZkNmZvWFF3RjB3YjBNV1MzQTQ3cHZibWFrc3JXbkxuM210RE16ZGxJOWMwVDFOM2xTc19GUG5JUDRuaGw3ck53?oc=5": {
-      "title": "TCU revoga cautelar, mas mantém dúvidas sobre R$ 2,18 bi no contrato de Candiota III - MegaWhat",
-      "summary": "O **TCU** revogou medida cautelar sobre o contrato da usina **Candiota III**, mas mantém dúvidas sobre a inclusão do reembolso da CDE, que pode custar **R$ 2,18 bilhões** aos consumidores em 15 anos. A decisão inicial suspendeu parte do novo Contrato de Energia de Reserva (CER) da usina.",
-      "source": "",
-      "added_at": "2026-06-11T15:32:35.083077"
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX0lPSWU2VFJKT2VfbDJnYzAwb0h0eDlSdkFOaTlTUVd2Yi1DSU9QLWJrUW16enA2aGlwUENIWnNrd2lMemVpcldwUnBCalFqYUpERTU1ZDFTQVlMeEV2ODJHWFdLYmR5Ymx1UTVILWx3Z0JsSU10aG5mWXZ1YXdwLVhLLTltaG5MN0ZjeWRJbEJQX3FMZ0F3ZGh0eF9BY096aVFXWHlXOHhDQVRmN0ZBcHVrX19JNHM0NFFxbnY5TDhkXzF2NU80ZTYwdGpKdzdmcDBSaA?oc=5": {
-      "title": "Energisa deixa de autorizar novos projetos de mini GD em áreas com rede saturada - MegaWhat",
-      "summary": "A **Energisa** suspendeu a autorização de novos projetos de minigeração distribuída em áreas com rede saturada, como em Mato Grosso, Acre e Rondônia, para evitar o agravamento de restrições. Fernando Maia, vice-presidente da companhia, afirmou que a medida respeita contratos existentes e que o setor precisa de ações corajosas para lidar com a 'curva do pato'.",
-      "source": "",
-      "added_at": "2026-06-11T15:32:35.083426"
-    },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVRSTVVhWVZPQmdrVEVSVWQ1ei16Y19ObFp2ZVZFWE5weXdVM2xydWJmeEJBanpTZnJGZFdBT0RhdHNOY3lrSjNkNVBNM3l2MHpIZGk5MmtFcXkwODdBMjE5b0JDLTZfQVVEdkV0NE5scExfdDNsN1VObzdmMVF1dWlLTkZQNDlRdHU0dmpPa3N5UC01UFRsY0N6M09pWG9YT0gtaVg4MEduTXVoVjNSNEFqSXcxQ1RyZ1RpMGJSX3BEZw?oc=5": {
       "title": "Brasil terá esquema especial de energia durante jogos da seleção na Copa - Folha de S.Paulo",
       "summary": "O **ONS** implementará um esquema especial de energia durante os jogos do Brasil na Copa do Mundo, suspendendo intervenções em equipamentos e monitorando a demanda entre **duas horas antes e duas horas depois** das partidas consideradas estratégicas para evitar interrupções no fornecimento.",
@@ -4013,7 +3383,7 @@
       "source": "",
       "added_at": "2026-06-24T09:08:28.274363",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjFqdUs2OERjUTZnX1hsb2Z0d1RyQ1BfNWZhQlRmRHY4VHVVQmpYcFM1ZFpUVGl2WFlLSXVqTm9IYTRacVIxZlQxYnB6UTZyUnRnWHRmd0JyQVhaRTRmTnRscFBmU2hFZFk2TzVWY21TZDd0WG1QbHR5T1ZfWVVvaHVhX0NSMG5Yd3NteXBWdGtzUzNLYW1KZmpiSVh2cVhiSEk5Y2ZJd3N5ZXNpeTk5QmM1WXRuSjU0NDBPVklNRkk5LUE?oc=5": {
       "title": "Empresa chinesa de energia renovável se prepara para IPO de US$ 3,6 bilhões - Folha de S.Paulo",
@@ -4077,7 +3447,7 @@
       "source": "",
       "added_at": "2026-06-24T15:22:58.934776",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2kxdmtvNmpicHZzSmpGbURZbzdvbU5PTnBsd01iQW53VzN2akN1S3lLUzJycnNwOFU5WDllWmE3OElWeGZRTnY0OXRXZDB6THU3cU1Cd0lTSkZDVVVVU3Z4U3dhcWxxNlVoU3MtNF9QRGREU1JhTTVuR0dqZWhFVU00VmRyeEUxNlJ4N3pDVmd4aTI2OC1FZS1aVDdJVEtwSnNsakk0Z0ZvMlBPNXg5ck5la1ZuTGVnMEN5OXFWX0hmV2hRemFKRVlURnZuQQ?oc=5": {
       "title": "Aneel deve reformular Fator X para reconhecer impacto estrutural da MMGD nas distribuidoras - MegaWhat",
@@ -4085,7 +3455,7 @@
       "source": "",
       "added_at": "2026-06-24T15:23:32.196338",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZkE1a0cwZWFUUm42SjlGQlNKVEZQQVRFd1NkQjcwbUhwSjdJSzZNLUlQS1ctZVRtV0J0bWhZZVhJQmRKR1ZibVZCRHQzMGd3Q2xzYm1SZWQ5dUlBS3g0MmVzcTlGRHhzMjJqeTdidFRDY3UtaUJYQWZuZ1BkVkNYWmtPUXBqUUQwQUE5V2ZBVTlQanl0SGFOWXRhZFFnZWF0OXByTDFiWEN5eWZ2VFhHTmE0SXRleE9tS091V3pUVFU3U0x1cHBN?oc=5": {
       "title": "EDP amplia atuação no varejo e firma contrato de energia com a Fiocruz - MegaWhat",
@@ -4093,7 +3463,7 @@
       "source": "",
       "added_at": "2026-06-24T15:23:32.196485",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFlIQWhPdV9Lc09lMnp4eThEOEhKSUREMFphNF93T3dxaTBQVHd0Xy1SYVI5aHNEQW1KeEhHd214NGJnYlNqVldKZ0Uwb3g2THYyTURYYWZzemVleTQ2cEVCNHZNeVhNVVQ5VkRXT3lSZFZLYnhPVXlHUFlOVmtpX2tRZ2RDV2lEcmcyeVpzQXRyS1RlWGdXVFh6amxsM3piakxESFZaaUl3TWpCNE13alRtVEF5VGJ2?oc=5": {
       "title": "Edge, do grupo Cosan, lança projeto de logística off-grid com caminhões a GNL - MegaWhat",
@@ -4101,7 +3471,7 @@
       "source": "",
       "added_at": "2026-06-24T15:23:32.196604",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2dKWTRyMWRkQTg2Z3NHUElYRWxCZkNBd0R5cHREU19BdkdBWjBrbHRraXkwUUxKZnplNzJ0ZUstTXAzbi1CejBfaG9ZRVN0Tk1nUEZfUTR5ZUFhQXplc2RRTmtxLVgxUE9QaVRRRFpoTE1LblFUd0lvY1NQU2lFVUVvNjcydERkM1ZVNTNHVEliN0EtRDRSSXluQjgtMUdVZHZ4MmVuaml4T0Z2TmVEUHNlUXQ2NktRZDNUMGJLOGpMQQ?oc=5": {
       "title": "Aneel abrirá consulta para revisão do Programa de Eficiência Energética - CanalEnergia",
@@ -4109,7 +3479,7 @@
       "source": "",
       "added_at": "2026-06-24T17:30:46.925010",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFdSMlNJYjNxRnM4NmVJejRFM0tQUWhsVlpnekV2MmNUeUJ4NXBqX3FhRkx5NmtKcmQ5Z2xmeG95WGNpeHRkNENfUDlMblhjWFlSUFJMbWprYlhFWVMxZXJnbDdDWEV4WGszS3pLUmNiQXJfRWhrMkc1ZEoxVlRwTk85am52ZDV5czdQbS1rdnRYVGxwV0FMa3ZIbGRDTVZqeWtxTWlfT0M4R2J5?oc=5": {
       "title": "Reservatórios do Sudeste/Centro-Oeste ficam estáveis a 65,5% - CanalEnergia",
@@ -4117,7 +3487,7 @@
       "source": "",
       "added_at": "2026-06-24T17:30:48.747876",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnRDLWVkZjBkd2hibFhINVU1d3ZCUm1SQzY2SXJwd0NRcDFPSkN6aUllVVpwUWVTTzhtSWVNSjBRQkJNYUR6WEJGcGhXdkREVVJCbXI5M0JwaFdVczdCenZuSWpSUlYxTkYyMGxLbWdtNUFrOXBPQ2lJN2Z3Q1gzUC1UTWJxQ0l2eDVaODFybTZqaXczLWE0eTdsX2VPdng0TVhsRldqYlBRWVhsT3dHUE9SUm15eDBsOWlKWDVST0ViQUF5Tnlha2N5ZHlwSkU?oc=5": {
       "title": "Petrobras amplia meta de baixo carbono e avança em estudos de captura de CO₂ - CanalEnergia",
@@ -4125,7 +3495,7 @@
       "source": "",
       "added_at": "2026-06-24T17:30:50.568563",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnAtTTNNVVBBaGk0cmp0SHFfMS1jVFkxQTg0a09XYjlEQ012RDQ5bGh6SFNEQjBvQ2RVanNYQmxwT3llZzBQRHBhUGN6eUZtWm5fLTJtN3FpUFBxVXREY1ZWZEtET3RPdVVWM195VzdQR1Y2MVBVbFZPOHY4WkFfbFVHV0NUNlZwOXZpbm5ZT0hibjBzZHRJUm1ELUZhVDZmOGF0MQ?oc=5": {
       "title": "Chevrolet começa a montar Captiva elétrico no Ceará - CanalEnergia",
@@ -4149,7 +3519,7 @@
       "source": "",
       "added_at": "2026-06-24T17:30:56.163242",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR004a01fZTRvVFhLSmZaUHc1eUtGQ3ZiVy1nTEkwTFdlTzAwcXQ4Q1NUeUp3OWd2cERhZXNSWUdJWlZ2aFoydzlZRVM1dWEybndCdXA0NTZPOWh0ZV9qZGNhRHJrNjlwSTlNc2wweFdFZVZHcFdTTmJ6aDcxZFZlT2thNTY5dTZnRHA0U2lVYUktODBQbTVWRzVMMXhGRDJJYzZ2dmhKdEpFWHA0b3ktcmlnWQ?oc=5": {
       "title": "Data Centers no Nordeste ajudariam a reduzir cortes, aponta Axia - CanalEnergia",
@@ -4157,7 +3527,7 @@
       "source": "",
       "added_at": "2026-06-24T17:30:58.042092",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb0FIYmNzSXhWQ2EyT1BteGNmbllXMWtGRkQtUEF4YzFlbnYxV0ZCNlBpNVQ0Ylczcm45RmZMMXdiajAwbm5BczVZWWFQcFRxSUx3bnBxZGJXUXliajFNbG1RTlIxT2JaM2xpUVBEUWNIYk1fTllKekczN2hxZUxOX0JGQ1EzTkJwY2Z3eU4zeEk4bTM2QU4zZm5kMEpZeXNVaFpkWFRqWlNoazltQzlISzRfQWFoN0JUZHhzOUg1VzlZNlBmbU15d21yZTNqeU8tVVZsZ1IyTHpuZFnSAeoBQVVfeXFMTUNQVkRZeF9jM3VaTnd2R3VpRFpEZmtWZkl3Rm5zcC1VRUE1NjhSa3dnQTcxeXFoNjQ3QUJFckJ5WnlqczF3Ml96MzhmbWV2S3F2VDFsaXRFVThEV2tmZDJHMkVHVmdmTTF2Q296bEhfNEZyMEVUUWFvcmZmWVZrSTV5ZUVoNEZVcWFfNGV1RnFnbm1tbWF1amZBRFJNcUQ2T2lFLUcySzRxcktwNUVkUW50aGJGWVk4M0tXb3lQQjZQdFFrTi1nSlBlXzNYdVgyS2NTTjFpZzJaU2FyS2t4X1FhVzdKX0V4dDRn?oc=5": {
       "title": "Aneel aprova aumento de 9,41% nas receitas de transmissoras de energia - Valor Econômico",
@@ -4189,7 +3559,7 @@
       "source": "",
       "added_at": "2026-06-24T19:17:05.215458",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd09IaWtYZmVaUzZVa1pwZWVFUWhHbEdoNnZjdFNPUl9SX0E2eE5wWUtzN3FmblVxN2Eya3J0bWl3OElwZjlWMF9tZHZSOE1FenBjVFZiQWJ2cnQ3UTlHZHlHNklUT3RpOXZfaXI0anBBSXFEdlMwdzhpamJ4OVVlUTVJRkhORUVMMXJNNkEzV0Z6eGpVa2dPYUNnUE01MDBkY1M0TQ?oc=5": {
       "title": "Receita de transmissão aumenta 9,4% no ciclo 2026-2027 - CanalEnergia",
@@ -4197,7 +3567,7 @@
       "source": "",
       "added_at": "2026-06-24T19:17:06.897793",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkptRVB1U2tKaXV0S19oY2o5djNSdnI2ZWFsdjF2Rk5uWmpvd1lEdzROVkVNWS15SWpBcFFKQklkdG9MdjItTlVkYm1QOVJlVEEzM3lEalI4c3lWVEx5OFlhUENlTHYySGozN2NBaTlXem85el8zSWxWVUIxR0gyZjgxQm41aTNNRUotb3NFUkU2WnBFX1Q5YTl4VXgzVDVjaXc?oc=5": {
       "title": "Aneel abre processo para discutir mudanças no Fator X - CanalEnergia",
@@ -4205,7 +3575,7 @@
       "source": "",
       "added_at": "2026-06-24T19:17:08.584161",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNms2RUxPTGJybU9CWWZ2bXdOZmJOYW1Uc3B1NHRmald5bjQwOExVZFNmMUpZTDRnN09WYnF1REJJbGhIcWtPUEhEc1dnV3lNNFpYejZXc1VfX0w0TnlOYmVDWm9PV1FDRF9OUEhGV1MzZTRiRGpEa1hiVVpDOVR1ZDJkRFE3TFgyVzVnWHlUbWxNVUhKdVV3RTJBTHJFeGRGOVE?oc=5": {
       "title": "Regras dos sistemas de armazenamento são publicadas pela Aneel - CanalEnergia",
@@ -4213,7 +3583,7 @@
       "source": "",
       "added_at": "2026-06-24T19:17:10.238584",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1BWRFl4X2MzdVpOd3ZHdWlEWkRma1ZmSXdGbnNwLVVFQTU2OFJrd2dBNzF5cWg2NDdBQkVyQnlaeWpzMXcyX3ozOGZtZXZLcXZUMWxpdEVVOERXa2ZkMkcyRUdWZ2ZNMXZDb3psSF80RnIwRVRRYW9yZmZZVmtJNXllRWg0RlVxYV80ZXVGcWdubW1tYXVqZkFEUk1xRDZPaUUtRzJLNHFyS3A1RWRRbnRoYkZZWTgzS1dveVBCNlB0UWtOLWdKUGVfM1h1WDJLY1NOMWlnMlpTYXJLa3hfUWFXN0pfRXh0NGfSAeoBQVVfeXFMTUNQVkRZeF9jM3VaTnd2R3VpRFpEZmtWZkl3Rm5zcC1VRUE1NjhSa3dnQTcxeXFoNjQ3QUJFckJ5WnlqczF3Ml96MzhmbWV2S3F2VDFsaXRFVThEV2tmZDJHMkVHVmdmTTF2Q296bEhfNEZyMEVUUWFvcmZmWVZrSTV5ZUVoNEZVcWFfNGV1RnFnbm1tbWF1amZBRFJNcUQ2T2lFLUcySzRxcktwNUVkUW50aGJGWVk4M0tXb3lQQjZQdFFrTi1nSlBlXzNYdVgyS2NTTjFpZzJaU2FyS2t4X1FhVzdKX0V4dDRn?oc=5": {
       "title": "Aneel aprova aumento de 9,41% nas receitas de transmissoras de energia - Valor Econômico",
@@ -4255,7 +3625,7 @@
       "source": "",
       "added_at": "2026-06-24T21:12:41.161806",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDhBYjRVZGhuLW9MZ1FpQ1NvUGJzWGVKUEJoMHZyX3BhTWhNX2tERjRsbVJ2TjZtVF9jb3BnYUxyclU1TjJ3eVFmQm5SbV9LMExyaGFFZThvbDg4d2JnNEduWlhRX01yWW9uWGlVaTcyTmJIQjhrcVdkdzFLMTV4TV9ta0RVUk9OMzRn?oc=5": {
       "title": "Valor RI | VALE DO SERTÃO TRANSMISSORA DE ENERGIA S.A. - Valor Econômico",
@@ -4313,7 +3683,7 @@
       "source": "",
       "added_at": "2026-06-25T12:33:24.873507",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY244b1N4dlRfbnc2VEdKSVBIUzN4ejFtaEpoVElyVG5wX21jZHhxY3V1bi1YejJKYm1nZDZJbXRXZDRpT3FQMWUybXpiQWthc3Z4Rm1vN01tTWNoalJ3MFFsZFlFamRUQXRlcl9lZks1REJ3Q2lmNnZtS0JFeTZESjBwWklXc0FaQmJteENzYXZtajdQbFJDTEQ5WFByRjhyUlQyUXlDc3hBa0V0aFh0RlZZbFg4LUJZbTlpWGV6SlfSAc8BQVVfeXFMUHFLdncxSHhWNlRlRUtPV29IdGJFSUhOUWRhZnp2bHFMazhxb2hIQlg3c1B0VGxzNV9LU2tzdkZmR2ZhbnJDUjl5VWpGZnFUQXZTUUs0MkR0aTBhak5JdzQzVk9EbjVua1FmZ3ktU3I1QWxOSkw3LXJUSGpjejdIcktOQVVBUkY1RUd4U19OWlJCcy1Fd3g2WG1XbkcyWGJKYXVBNU4zTi1HN1pmb2t5S1g3cXl0bGlISU9JcE5IVW0wWDZTMG40R2dHOWtDc25j?oc=5": {
       "title": "Cresce busca por assinaturas de energia solar no Brasil - Valor Econômico",
@@ -4321,7 +3691,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.359489",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEVTZFR0S0NSTEp4WmhtSG1McjBJNm9iNVR5ZmRkUTlLZzE1TklXZG1MUWZIZWxqRmhKY1pzWmlYR2ZtLTNtNG8wUmF2X2dobXZOR0tDR1Nma1pxTlhXR0VNNXM0TmpfV2JyQVN1Nkt6Y2ZJR2lXS2gyQTdPSVNjOFdValJBNUpPY2k2b3J3bjM1RXcwRFFqbXV5NGVUUUR3eEE?oc=5": {
       "title": "Carvão resiste na matriz elétrica brasileira - Valor Econômico",
@@ -4337,7 +3707,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.359969",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcENZUXJJLWpUNTlBd281dTlLYmowemV6WUF5RklJem1oYlpKNU11U1JvbDBSZExXdnRBYzlXQjltcWh1YUZ6TmlsaUllTFQ2M0Njd0w3MlhPZ1NYSExUVDZERWtIajV3b0YtZ0p3VVBoUlk4NDI3RWZxbHdSZERuZThmYU00cFRVWlVTaXVKNTBiVm1FdWZjbFhfdXFTQ1JiR1ZXNDlNSHkxM3JPVk1xbjZPNWpQdFdBZUYwdkVSVWZuRmdjTU01aEdtbk5mek02TkNnTzZ3?oc=5": {
       "title": "TCU questiona base de cálculo de encargos na autoprodução e pede mudança na regra - MegaWhat",
@@ -4345,7 +3715,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.360235",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUpNSVE5TlZuRFZVc2xoRy1ubFc2TmVJekVXM0NXMjg1bUZ1WVVXSWVSWnpVQ0lxeTJMbmpHMjVmSzhzYlFkQVhJYm1fZzliX3NlOEJRelYyUFBmMTQ2OFBac2lXVzYwU3VQQkg5dGROVnpHQ1o0Y21KLVpiRjlwSmJ1dTF6bXpZNkQ0TTcwdzJYVkxGZERmQVFCR3M1SnRneGZTaWVGQ0NXbE8wcXN5cXVBeXhtMVpsQ3ZUcUpNQXlhRktjSFhpV3JOdw?oc=5": {
       "title": "Após acordo, TCU valida inclusão de quatro lotes da MEZ em leilão de julho - MegaWhat",
@@ -4353,7 +3723,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.360382",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFNVNGZmdGN1a2FtbnByM2JlazBrUlBNVEJIT18zS01JZ3h5M21WbkhQZjNCREJBNDIzMzhHNXNlVlhsU2k5eHRmU0RHbmFFMmo1alZnMlVHdl8yYTRkQTVDYTh2QVloRHozdzdadV9PX3pPSEkydGwtbGRmSmlQSjRBazhsQVkxNkphMlpycTFFVFlFZ2NKaW1FVkhQdTd4VWRoTm9HdG84NGFtQVhjWlBaV1p6QnozX1NEbGlMaFBFWTU1R0E?oc=5": {
       "title": "Iberdrola aposta em BESS nos EUA para apoiar integração de renováveis - MegaWhat",
@@ -4361,7 +3731,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.369122",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YRkp6ZDdTR3I3VHBhOEhIR19wWDZLTDVFM3FGREFsZ0VyLUNhYkVmY05UdTVSVzdiZzRsWmFDOHFiaVMtalNNa2pGWFh5WkRyMlFfM1pWUVA?oc=5": {
       "title": "Geração - MegaWhat",
@@ -4369,7 +3739,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.369165",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhWk45TGg4SmsyQTl2aUtURVNfcFJIU2ZjWERzc29FOF84V0l5MGtCdlVnTnE1eVNlS2NNbjRKVTZWS0tMbng2QUtaOEswWHRqSS1sMDJZWTF5SjNfLVZZdlZSV3ZDTURH?oc=5": {
       "title": "Destaques do Diário - MegaWhat",
@@ -4377,7 +3747,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.369210",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ITEY2NUhIWGkwbGxrMHZCVVVKXzgzZHdjZDFMdFFvc29YbDVFdmxaTDUwc0VEcm5KT20yeDVzeGt6YWI2RklLZWREVmRIaVJ6QzJIRkhTY3VZZw?oc=5": {
       "title": "Regulação - MegaWhat",
@@ -4385,7 +3755,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.369251",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkM1bjB4MktUSVRfN0YzUlpXX3pGRklueU1xZEJpS2FpeUI2U0liTkpSUi00YXpsWDlRYUVDcGs2V1JwZ0dMLXMtUW8ycmRMZVE5WG5FbWtkeTVZejZKcmlsbTMxdGRwYklPMXN3TlhNUjJ4TjRsVFpmX3NNWFV3YzJDMEpzc19QYnRocnc3SFZWU0Q0cjlQTjRLTVkyS2RHSE10REVIZE56WmJVZmc?oc=5": {
       "title": "Consulta pública discute mudanças no Programa de Eficiência Energética - MegaWhat",
@@ -4393,7 +3763,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.369380",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlNXUzRHQVV2N0t0Rmg5SnVIWFF5dUFHZm5vUFNsRjhiZXltOERVRmhLakl6QkdIRm9kMEppTHJacWRJV0lMWUdPX0Jva1NLZGZTcUZCd2dRajR0VWJBSDB6NG1QNW9WMVVaOFNHcXVtSjB6b3VnV3VMa3VfbGVwZ1o4czNNd19Pb0ZhbkFHc29IenVjLWIxa0phZkNyNDRCaUNiQ3hUdDdfYnhMZTNJR0JSSGtDdjJ3OV9z?oc=5": {
       "title": "Receita de transmissão cresce 9,4%, mas impacto na conta de luz é de 1,1%, diz Aneel - MegaWhat",
@@ -4401,7 +3771,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.377285",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHFkeVNsd01yMVo5aDBOOHZIVjAyOW9wbEg3TVRVZklNdW4yRVdFMXFjcGEwb3pXc19kd0ZUaEhCWnpLYTJxSkRON21JV05OZ1hLanZtczBjQmQ4T3g4X09naXVQX0xRX0R4OHlCZUVCZDdfd2t4Uks3ZW85Y0h2WGNmMl9USm1FQlFjVjhMNWxERkU3ai11MFVhUEg2UWxTZjhVUFEwdWpsdFAzaUpHUktodmwxSEVxb2xYUkFHRVVqTDZk?oc=5": {
       "title": "MP do imposto de exportação de petróleo deve caducar, diz presidente da Shell no Brasil - MegaWhat",
@@ -4409,7 +3779,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.377439",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR0E1V002RVhFb3FwZ0FKUVlNR3FkS0hsbDlRQTNqbmdzOHI0TUo4dWZCMXdJalg5Y2kxcTJpOUp0YmNfVm1EMUU3MUtKdjNTTWVZX3k2bXFpVWxWZDYyZENWNjVxNThqZHR3eUtuS2ZIam5kUEpMR3U5NmJWTUVkTUNOQnp2X2VxU3FzYklYT3Y?oc=5": {
       "title": "Cade aprova incorporação da Subsea7 pela Saipem - MegaWhat",
@@ -4417,7 +3787,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.377553",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGhaektTQkUwVVFjQ1NwanRJQ191X0FsVHUtdGtQQnp0THNmZjlJeF9EcEg5d0NIVHBLYWFXUmJRZndxOVd5QTZJdmE1T0dDV3JzVnhUV1pMdUlKbVVNX2Q4RTF2VWpfYzR1anprSEk1NEJyMTNOQ2pXZGg4Z3I1cWNZNkNpZ3V1ZWE2SWdTWmw5aW9sXzc4NFJEZDdSbTZ6U2RzTg?oc=5": {
       "title": "Diferimento de R$ 1,3 bilhão reduz reajuste da Copel para 20,51% - MegaWhat",
@@ -4425,7 +3795,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.377704",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wQnVNY0pFc3VoQVF6QUFJbWp0WlBLY3ZwVjl4YkZCZ0pBX2RDUEE5Vk95ZDBNQnNUZkdDTG41N04wN09aTUxacmRvemRjU2ZseVBvZWJR?oc=5": {
       "title": "Tag JAC Motors - MegaWhat",
@@ -4433,7 +3803,7 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.385411",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0pLYklVT1F2SklDRXZzRk1TbXk1Y3lUX1kwYjNWd1c2Q0JtMmNGMmVRZXA2UHZSdkRNZS1rOXdUV3JiaTZNMUZsS1NxWGR0Yk5jdTBwVVZ2dDg3ODJuVV9lNl9HMjdQT0RTS3RVU28yWmV4RXRhM2pxQkVwZHQ0ZFJzaTdsREFSZHh2QnVGWWFrWTlDQ09xVjZoczBLZ1h1cm9lWXc0ZjVUZw?oc=5": {
       "title": "🎙️MMGD fora do controle e Angra 3 travada no CNPE - MegaWhat",
@@ -4441,7 +3811,85 @@
       "source": "",
       "added_at": "2026-06-25T12:35:26.385972",
       "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXNFcGRUMnFsenFscEI5MGxlbXltQWJJUlU3MUdYa1RmMDFTRVBSVGJxenNCOGZ6SWlwdlF3NWQtbXVVX1lFMHUtdnlLVGkyTnZ6b2pSOWVfUkczS0xsODZsMlpEVzUzMk0xZGJwdFBJUFhOb3NBMDlPX0ZmV0tBeEk0b0hLWEVHcnRrTGFKMTNJakh6NXlsdWpKY2Y?oc=5": {
+      "title": "Aneel revoga autorizações de comercializadoras - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-25T15:33:36.586993",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnc1SzM3STR1Njk2VjF5T3dmZUFlZHJpTkg5WHBEWElKc3VGSzFvWUdhRGRJanhpa0Y1UGVYWG1mWDAwbTlacjh0bnpsZjZIek1ZTV8wSENIcFVXQUVpcUZoSG9nX21tV2h1bS1reER6OVFuTUJSTFJNeW9Qc0ZhWGpETEZZRnV5T0o3dTFnUnhHSU5qc2p1czlFT3FRQVM0RHFfU3pLR1FsMXprLXk0aEFRNzBYajFGSTM1TVB3?oc=5": {
+      "title": "Mário Menel é reconduzido à presidência do FASE para o biênio 2026-2027 - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-06-25T15:33:38.658827",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmNpbklPbm0xV0FYMXA0bUFwdDBtVWxNZFZ5R3NqYjhYdG1OUng4RVl3d21wTmxZN0pIVV9GUzBIVTNoV29RekpRLWQ3ZEZaeVFhd2R2VW0zNTFxd3c5SXN6aUdSWlRHcUtRSE9wQXBsdTNQbFg5djNSa2h1UnZHdzRuZC1CdUFWVmZNVkJIeGg5UFJPSWQ0REVjY2Q3dGdMN0pUbWtueURlOW1PbGhrTC1NMVJGSWVGUUUzN1FYR3Ruek83WnRUYzhSdlZlVWN2Y3JaWkpHWXo5dVpPTHpxalUxN3FnV3JNRHfSAfgBQVVfeXFMT3ppcVZRdTZldjBvOXNjeHlQVUFFajc4TVhacjYxbE9NS05FSEFGSDVvZ1dKeGVlaWlLRWFBclIxcllTUEFVOXF5dFVDQXFCNlR2NjdRS2x0T001em5IUkppNk5iWHk1ZkhxNk1lVURUWUZpNFV4R1Y2b2FMYnZ0bnl5ZnpvcjVQaXJTU0JJeDJBTWdiQ09NaUZpcWN3a2xVWkJKejQ2N3hpY1VtMy1ycFNNdDBWNk4xTmt5MkI2bFFuZlRPbnc0RHg2NXVKajBzNTY0RGMxRkpSNGFTNkdpeU9iSVFqWHl5cmZCc3NhdzdiNlU3dnhnODI?oc=5": {
+      "title": "Queda no consumo de energia durante jogo do Brasil equivale quase ao gerado por uma Itaipu, diz ONS - Valor Econômico",
+      "summary": "Queda no consumo de energia durante jogo do Brasil equivale quase ao gerado por uma Itaipu, diz ONS Menor consumo de energia no país ocorreu três minutos antes do fim do jogo, às 20h59, quando chegou a 78.236 MW; ao apito do juiz para encerrar o jogo, a carga era ligeiramente maior, de 78.311 MW A carga de energia na quarta-feira (25), dia do jogo entre Brasil e Escócia pela Copa do Mundo, teve…",
+      "source": "",
+      "added_at": "2026-06-25T15:35:30.086300",
+      "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXNkSnFpV29rVTJaV1lhdkY4OEc1dXdRUmFwcHYtc0F5WUlDT1dBalByMV9LblFQQ2hRUFJjS3lrVk9GRHpoVExGU3FRWXRVazRPcEdaX1NFTzJtWjJVMXhfQ0dHRFBCbmNDYzc2ZzNLX1oxX0Y2TVpTTi02Mkp1bUUybi15Z2FNTEZtODNHUzQwWXBaZnVfT3I0dDhQLWE5NmpsdHE1NDQyOFQ2S0JjWlhEc2J2YWNKVTlSX2xXQjFIRi1IUjFuZDM2MW1TeXF5WlRzY3NYdkbSAecBQVVfeXFMTUNvcjZGTDZMTWlCNld4VkMyX3lHRFFYV2tkNGVXaEFuOFF1LXN2Tm9OcGIxQnlxTXVIM2hDUVRtWFlkV1p6QVVrc1c4M2J6djE3NXlhZU5DWlVzNUZXdUQ5NmpJQW5FLUpLb0dIQTBMaU1nc24wN2Zpd3Vlb0JRQXZ0QzhiYTRqX3I3SE5QaG1UYzhETTVqOGFHdkh0SnpQVm9mdUlBZnVQYXVOTGNCRWZJM2h5S3VNTk9VZnlZNFlncElxZ2tUcmNXZHVpOEZYQ3NIaDQ3bGRudEdtWmJHcl9lM1NVSURr?oc=5": {
+      "title": "Energia elétrica sobe 2,04% em junho e é principal impacto individual no IPCA-15 - Valor Econômico",
+      "summary": "Energia elétrica sobe 2,04% em junho e é principal impacto individual no IPCA-15 IBGE informou que o resultado reflete tanto a vigência da bandeira tarifária amarela quanto os reajustes em quatro locais pesquisados no país O preço da energia elétrica subiu 2,04% em junho pelo Índice Nacional de Preços ao Consumidor Amplo -15 (IPCA-15), do Instituto Brasileiro de Geografia e Estatística (IBGE). A…",
+      "source": "",
+      "added_at": "2026-06-25T15:35:30.086382",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEVTZFR0S0NSTEp4WmhtSG1McjBJNm9iNVR5ZmRkUTlLZzE1TklXZG1MUWZIZWxqRmhKY1pzWmlYR2ZtLTNtNG8wUmF2X2dobXZOR0tDR1Nma1pxTlhXR0VNNXM0TmpfV2JyQVN1Nkt6Y2ZJR2lXS2gyQTdPSVNjOFdValJBNUpPY2k2b3J3bjM1RXcwRFFqbXV5NGVUUUR3eEHSAbABQVVfeXFMTUl3Y01TRHQ0ckFJay1heWQxR3Y1RS1UbC1KeVFRMGJLU0dubG8tTmN2VGZvSUdMY2ctV1lVR180amtWRWl0M1pMVExMS2hqb2w4R0tWX0tUcE9KY3FxVlRaUzd3X2NWeDVnbk1wMW9acFFNX2RKYnNqZUhZOFBpR1NuMmxPeFJneC1IZGJOM1Vidmpsb0RDZkVxd19zenFoZTZTUno0MDIwaC03WWdoMTc?oc=5": {
+      "title": "Carvão resiste na matriz elétrica brasileira - Valor Econômico",
+      "summary": "Carvão resiste na matriz elétrica brasileira Usina térmica defende uso do combustível fóssil para segurança do sistema Atualizado O Brasil busca ser uma referência mundial na transição energética, mas ainda mantém incentivos para a geração elétrica a carvão mineral, uma das fontes mais poluentes da matriz. As usinas respondem por parcela pequena da eletricidade produzida no país - 1,4% da geração…",
+      "source": "",
+      "added_at": "2026-06-25T15:35:30.086606",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2V0MzNSck9tTzlRZk1uYTBzU0RjYnhhLUFDSFZWWG9rQnZvamxoUGhCel91eUtHdzEtSFBQTWhnaU1RSFg2eGhHbkZVelJLbFJRUnhkRHNqdmcyM0pQUzRCdFF3Z1piQUNkRHYtWWNfSW9mdkY1T1p1dVlSVVc1U3k4Y09RNkpvZUlNNDFMcENDa2pfTmx2aHZlVklEUFZZemRVdjBfd0djaHE4MFU4TFhydTNBMDBvZnBoUGRn0gG-AUFVX3lxTE9HZXQzM1JyT21POVFmTW5hMHNTRGNieGEtQUNIVlZYb2tCdm9qbGhQaEJ6X3V5S0d3MS1IUFBNaGdpTVFIWDZ4aEduRlV6UktsUlFSeGREc2p2ZzIzSlBTNEJ0UXdnWmJBQ2REdi1ZY19Jb2Z2RjVPWnV1WVJVVzVTeThjT1E2Sm9lSU00MUxwQ0Nral9ObHZodmVWSURQVll6ZFV2MF93R2NocTgwVThMWHJ1M0EwMG9mcGhQZGc?oc=5": {
+      "title": "Com BlackRock e Siemens, Brasol busca R$ 1 bi em FII solar - pipelinevalor",
+      "summary": "Com BlackRock e Siemens, Brasol busca R$ 1 bi em FII solar Gestora negocia distribuição após levantar mais de R$ 500 mi para aluguel de fazendas fotovoltaicas Depois de levantar R$ 550 milhões em seu primeiro ano de operação, a Brasol Invest, gestora da empresa de transição energética Brasol, quer levantar mais até R$ 1 bilhão com dois novos fundos imobiliários que, no lugar de galpões…",
+      "source": "",
+      "added_at": "2026-06-25T15:35:30.086806",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjE1TGZTaHUxODNsdVZaNDFJX3ZLQ0NFR0pxYlkwbEc1NnNVYjdXempURXVPU3BJUTE3WG92bU1UNTktOGt2VEY1cVJWWlc0RXZyU3BZTWVPTXZPazFCZkd3N0R6TDF5MzREZ09Xc3ZoYXUwcnJuLTNacDRxLUVyeWM4VXRNTXVSOVhiQktDRVZrd1drTHRmWm5RcG16WVU1MVVtcnZR?oc=5": {
+      "title": "Fusão da Auren Operações com Cesp é aprovada em fase 2 de reestruturação - Agência iNFRA",
+      "summary": "A **Auren Energia**, **Auren Operações** e **Cesp** aprovaram a Fase 2 de sua reorganização societária, com a incorporação da Auren Operações pela Cesp para concentrar ativos hidrelétricos. A operação, com custos estimados em **R$ 10,5 milhões**, depende da aprovação da **ANEEL** e dos debenturistas.",
+      "source": "",
+      "added_at": "2026-06-25T15:36:15.194923"
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1obEZTM0lTUjd3T2tmQzFvNEwxY3pFYmx5U3h1ODBXUmc2TFZBNVk4X0FvS0FLekdwemdEVGd6STZKZ1NqTWxLajBrSnlxdUxTSlQ3WWxtclk4T1dmSTczVVdxYnVocmhIYXhQMHlRbFFZakxSWWFFUG9JT0w?oc=5": {
+      "title": "Poliana Souto, Autor em MegaWhat - MegaWhat",
+      "summary": "A **EPE** iniciou estudos para implantação de **8 GW** de térmicas a gás natural, conforme previsto na lei da privatização da **Eletrobras**. O foco principal do Plano Indicativo de Gasodutos (PIG 2022) é o fornecimento de gás natural para essas usinas.",
+      "source": "",
+      "added_at": "2026-06-25T15:36:15.194979"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTl9ac2Y2eDhCeGtFbkVXVHVWcFF3TWdpU1FZbm15d2JZUHl4ZC1kUHFCaVJYdDJiazhZZlFSekhXSy1hM1VQTzBLOG9RSHVhMzRLdHV6d0tGWUYtbzh4andXbnRSUDNYaFhTZGpWTTdiQ3NJdDVLM3RHMldwWE54Mi1GdHUyN3FndGJxY2VZWV9Zbjk2VkdyRzlXbUxta1J1UENkV2VR?oc=5": {
+      "title": "Brasil x Escócia derruba carga em 14,4%, com rampa pós-jogo de 8,5 GW - MegaWhat",
+      "summary": "O jogo do Brasil contra a Escócia causou uma queda de **14,4%** na carga do Sistema Interligado Nacional (**SIN**), atingindo **78.236 MW**. Após a partida, houve uma rampa de **8.546 MW** em 18 minutos, a maior registrada nos jogos da seleção.",
+      "source": "",
+      "added_at": "2026-06-25T15:36:15.194995"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUcGY4NEtsdEY3aV8xdloxUHJBa00zOEZTZXFDSWM5LThqc1d1cXFvRHJBX2ZOLUt5UFJ1QjNibGVvdll3amxjZEFlYmFEdnIzVWZacVNWTmlETGpUYm83NjZ3?oc=5": {
+      "title": "Tag Autoprodução - MegaWhat",
+      "summary": "A **Shell Brasil** e a **Gerdau** assinaram um termo de cooperação para desenvolver um parque solar fotovoltaico de **190 MW** em Brasilândia de Minas (MG). As empresas planejam formar uma joint venture com participação de **50%** cada.",
+      "source": "",
+      "added_at": "2026-06-25T15:36:15.195004"
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcXVxeEhwUlpXUmU4bTZVUVJuMlRVRU9zU3FpV19KZjB3MVg1aGZWSzFPcDJsZjVsXzhVTG5LOXZzTjdqRklFWF83azlPR3pvWWJ1alBkSFQ1ZEl0QjRFUE5ZMFN4Z0xuSFRDSEgyci1lMVdoenRTaUhHclFyNUV1bjZyTlNsVU15TlVfaV9fNjFEMTg2cVJfVkxyTm12Z0RSZWdyeGhTRGZrYTU1TWdHdGVvTFRTM21XTVZXWlpzbFJ0QW41TmNiRG1uek9MQkRja21halp2cnhNbk0?oc=5": {
+      "title": "Ada Infrastructure inicia construção de data center em SP com investimento de R$ 2,7 bi - MegaWhat",
+      "summary": "A **Ada Infrastructure** iniciou a construção de seu primeiro campus de data centers no Brasil, em Franco da Rocha (SP), com investimento de **R$ 2,7 bilhões** até 2030. O projeto GRU10 terá capacidade de **300 MW** e visa atender clientes de hiperescala com infraestrutura digital para nuvem e IA.",
+      "source": "",
+      "added_at": "2026-06-25T15:36:15.195011"
     }
   }
 }
