@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T12:30:09.173075",
+  "last_updated": "2026-06-25T15:44:56.742895",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1049,6 +1049,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-conclui-calculo-das-tarifas-de-transmissao-para-o-ciclo-2026-2027-com-maior-estabilidade-e-sinal-economico-mais-eficiente",
       "summary": "A **ANEEL** concluiu o cálculo das tarifas de transmissão para o ciclo **2026/2027**, com Receitas Anuais Permitidas (RAP) de **R$ 54,95 bilhões** e TUST de **R$ 56,5 bilhões**. O novo cálculo, que envolve **258 empresas transmissoras**, busca maior estabilidade e um sinal econômico mais eficiente, com impacto médio de **1,1%** para os consumidores.",
       "added_at": "2026-06-24T18:04:07.679050"
+    },
+    "noticia_2026_assinatura-de-termos-aditivos-marcara-a-adesao-dos-agentes-a-quitacao-antecipada-do-saldo-devedor-de-ubp": {
+      "type": "noticia",
+      "title": "Assinatura de termos aditivos marcará a adesão dos agentes à quitação antecipada do saldo devedor de UBP",
+      "date": "25/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/assinatura-de-termos-aditivos-marcara-a-adesao-dos-agentes-a-quitacao-antecipada-do-saldo-devedor-de-ubp",
+      "summary": "A **ANEEL** formalizou a adesão de agentes à quitação antecipada do saldo devedor de UBP, com recursos direcionados à **CDE** para modicidade tarifária em **2025 e 2026**. A **Rio Verde Energia S.A.** já assinou um termo aditivo referente à UHE Salto.",
+      "added_at": "2026-06-25T15:44:56.242662"
     }
   }
 }
