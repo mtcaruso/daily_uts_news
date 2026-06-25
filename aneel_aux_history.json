@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T15:44:56.742895",
+  "last_updated": "2026-06-25T18:22:39.614837",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1057,6 +1057,24 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/assinatura-de-termos-aditivos-marcara-a-adesao-dos-agentes-a-quitacao-antecipada-do-saldo-devedor-de-ubp",
       "summary": "A **ANEEL** formalizou a adesão de agentes à quitação antecipada do saldo devedor de UBP, com recursos direcionados à **CDE** para modicidade tarifária em **2025 e 2026**. A **Rio Verde Energia S.A.** já assinou um termo aditivo referente à UHE Salto.",
       "added_at": "2026-06-25T15:44:56.242662"
+    },
+    "noticia_2026_aneel-celebra-convenio-com-adasa-para-descentralizacao-de-atividades": {
+      "type": "noticia",
+      "title": "ANEEL celebra convênio com Adasa para descentralização de atividades",
+      "date": "25/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-celebra-convenio-com-adasa-para-descentralizacao-de-atividades",
+      "summary": "A **ANEEL** firmou um convênio com a **ADASA** para descentralizar atividades de regulação de serviços públicos no Distrito Federal. O acordo, assinado em **26 de maio**, visa otimizar o acompanhamento dos serviços prestados à população.",
+      "added_at": "2026-06-25T18:21:53.475255"
+    },
+    "noticia_2026_associacoes-de-consumidores-participam-de-reuniao-na-agencia-sobre-proposta-de-aperfeicoamento-do-fator-x": {
+      "type": "noticia",
+      "title": "Associações de Consumidores participam de reunião na Agência sobre proposta de aperfeiçoamento do Fator X",
+      "date": "25/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/associacoes-de-consumidores-participam-de-reuniao-na-agencia-sobre-proposta-de-aperfeicoamento-do-fator-x",
+      "summary": "Notícias TARIFAS Associações de Consumidores participam de reunião na Agência sobre proposta de aperfeiçoamento do Fator X O Diretor-Geral da Agência Nacional de Energia Elétrica (ANEEL), Sandoval Feitosa, realizou reunião hoje (25) com as áreas técnicas da Agência, Conselho Nacional de Consumidores de Energia Elétrica (Conacen), Associação Brasileira de Grandes Consumidores Industriais de…",
+      "added_at": "2026-06-25T18:22:39.114579",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
