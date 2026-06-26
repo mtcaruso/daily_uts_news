@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-26T14:06:31.161582-03:00",
+  "last_updated": "2026-06-26T16:01:33.498882-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "ADITAMENTO E RENOVAÇÃO DO PROGRAMA DE RECOMPRA DE AÇÕES; AVALIAÇÃO ANUAL DOS EXECUTIVOS E PLANO DE SUCESSÃO; FORMULÁRIO DE REFERÊNCIA 2025Ata",
+      "data_referencia": "20260521 21/05/2026 15:00",
+      "data_entrega": "20260626 26/06/2026 14:52",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "ADITAMENTO E RENOVAÇÃO DO PROGRAMA DE RECOMPRA DE AÇÕES; AVALIAÇÃO ANUAL DOS EXECUTIVOS E PLANO DE SUCESSÃO; FORMULÁRIO DE REFERÊNCIA 2025",
+      "protocolo": "1538805",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538805",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-06-26T19:01:19.435414"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
