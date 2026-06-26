@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T21:03:15.161169",
+  "last_updated": "2026-06-26T12:27:28.478630",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3124,6 +3124,19 @@
       "summary": "Designa **SAMIRA SANA FERNANDES DE SOUSA CARMO** para substituir o Diretor do Departamento de Informações, Estudos e Eficiência Energética. O encargo é para afastamentos, impedimentos ou vacância do cargo.",
       "added_at": "2026-06-23T08:25:29.244800",
       "summarized_at": "2026-06-23T08:26:06.671668"
+    },
+    "portarias_portaria-mme-n-87-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-87-2026",
+      "title": "Portaria MME nº 87/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-87-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-87-2026.pdf",
+      "date_modified": "26/06/2026",
+      "ementa": "Nomeia TATIANE CRUZ SOUSA, CPF: ***.786.691-**, para exercer o Cargo Comissionado Executivo de Chefe de Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral, código CCE 1.13.",
+      "summary": "Nomeia **TATIANE CRUZ SOUSA** para o Cargo Comissionado Executivo de Chefe de Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral.",
+      "added_at": "2026-06-26T12:27:11.247166",
+      "summarized_at": "2026-06-26T12:27:27.978287"
     }
   },
   "first_run_done": true
