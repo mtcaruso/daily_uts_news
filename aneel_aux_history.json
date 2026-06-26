@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:37:55.766607",
+  "last_updated": "2026-06-26T23:17:08.848251",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1097,6 +1097,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-assina-convenio-com-adasa-para-fortalecimento-da-atuacao-regulatoria-no-df",
       "summary": "A **ANEEL** assinou um convênio com a **Adasa** para fortalecer a regulação no Distrito Federal, permitindo a delegação de competências para atividades descentralizadas. O acordo visa aproximar a regulação do cidadão e ampliar a fiscalização local.",
       "added_at": "2026-06-26T21:37:55.266406"
+    },
+    "noticia_2026_aneel-formaliza-adesao-a-quitacao-antecipada-do-saldo-devedor-da-ubp": {
+      "type": "noticia",
+      "title": "ANEEL formaliza adesão à quitação antecipada do saldo devedor da UBP",
+      "date": "26/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-formaliza-adesao-a-quitacao-antecipada-do-saldo-devedor-da-ubp",
+      "summary": "A **ANEEL** formalizou a adesão de **22 distribuidoras** do Norte, Nordeste, Mato Grosso e partes de MG/ES à quitação antecipada do saldo devedor do Uso do Bem Público (UBP). Essa medida beneficiará consumidores com uma redução tarifária de **R$ 5,6 bilhões** até o início de **2026**, através de um desconto de 50% para as geradoras que quitarem o valor à vista.",
+      "added_at": "2026-06-26T23:17:08.347944"
     }
   }
 }
