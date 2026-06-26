@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T20:02:58.678646",
+  "last_updated": "2026-06-26T21:37:55.766607",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1081,6 +1081,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/nomeacao-de-22-especialistas-em-regulacao-e-publicada-no-dou",
       "summary": "A **ANEEL** nomeou **22 novos Especialistas em Regulação** de Serviços Públicos de Energia, aprovados no Concurso Público Nacional Unificado. Os nomeados têm **45 dias** para tomar posse, reforçando a capacidade técnica da Agência.",
       "added_at": "2026-06-26T18:00:14.268072"
+    },
+    "noticia_2026_bandeira-tarifaria-em-julho-permanece-amarela-conta-de-luz-dos-consumidores-continua-tendo-acrescimo-de-r-1-885-a-cada-100-kwh": {
+      "type": "noticia",
+      "title": "Bandeira tarifária em julho permanece amarela",
+      "date": "26/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bandeira-tarifaria-em-julho-permanece-amarela-conta-de-luz-dos-consumidores-continua-tendo-acrescimo-de-r-1-885-a-cada-100-kwh",
+      "summary": "A **ANEEL** manteve a bandeira tarifária amarela para julho de 2026, impactando todos os consumidores com um acréscimo de **R$ 1,885** a cada 100 kWh. Essa decisão reflete as condições de geração menos favoráveis, com maior uso de termelétricas.",
+      "added_at": "2026-06-26T21:37:47.854877"
+    },
+    "noticia_2026_aneel-assina-convenio-com-adasa-para-fortalecimento-da-atuacao-regulatoria-no-df": {
+      "type": "noticia",
+      "title": "ANEEL assina convênio com Adasa para fortalecimento da atuação regulatória no DF",
+      "date": "26/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-assina-convenio-com-adasa-para-fortalecimento-da-atuacao-regulatoria-no-df",
+      "summary": "A **ANEEL** assinou um convênio com a **Adasa** para fortalecer a regulação no Distrito Federal, permitindo a delegação de competências para atividades descentralizadas. O acordo visa aproximar a regulação do cidadão e ampliar a fiscalização local.",
+      "added_at": "2026-06-26T21:37:55.266406"
     }
   }
 }
