@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T15:29:57.765512",
+  "last_updated": "2026-06-26T18:00:14.768324",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1073,6 +1073,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/associacoes-de-consumidores-participam-de-reuniao-na-agencia-sobre-proposta-de-aperfeicoamento-do-fator-x",
       "summary": "A **ANEEL** propôs aprimorar o Fator X, mudando a metodologia de cálculo para incluir produtividade do setor e da distribuidora (50% cada) com atualização anual. A **Conacen**, **Abrace** e **FNCE** participaram da reunião, e uma Consulta Pública deve ser aberta em breve.",
       "added_at": "2026-06-25T21:02:03.194834"
+    },
+    "noticia_2026_nomeacao-de-22-especialistas-em-regulacao-e-publicada-no-dou": {
+      "type": "noticia",
+      "title": "Nomeação de 22 Especialistas em Regulação é publicada no DOU",
+      "date": "26/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/nomeacao-de-22-especialistas-em-regulacao-e-publicada-no-dou",
+      "summary": "A **ANEEL** nomeou **22 novos Especialistas em Regulação** de Serviços Públicos de Energia, aprovados no Concurso Público Nacional Unificado. Os nomeados têm **45 dias** para tomar posse, reforçando a capacidade técnica da Agência.",
+      "added_at": "2026-06-26T18:00:14.268072"
     }
   }
 }
