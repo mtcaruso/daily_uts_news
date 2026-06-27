@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T18:50:45.306942",
+  "last_updated": "2026-06-27T20:18:25.908694",
   "items": {
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1FsUzZZX182MUNVN2VTRXBHTm9KWXh4dnNoSkQ4RkpaTjFYcVd6ZXIzUFZ4RWstd0Y2YU5TVU9pMWgzUWpjdy1HWlMxTF9wU2dwWTZEV19NTHI2QWlZSlY0emxad1d5MDR5ZU5jY2pCa0oxR05YNFpnc1A0WWdVNm1zVG1zeEhBWnU2SVdNRzJMQ0ZWUllhU3BLX3ZKZGVyeUZGOXRJSUhxQ1ZlRms0dGQtaElyS0VlcTg0d0JIV3bSAcYBQVVfeXFMTzRFQUF3X3VEbEpGM2Q5SDdUZ0JFdE4xQWxvLWE5Q0hsYnpyclZRRDBLS25NX0ZqTXVVLVM2U2o1eF95enhVVHg0eU5rMlM2UnBMR3JnNE1yTHNXTXFoZnpDd0l1YW5wYUJ0TzRPM3Z3MzNZWUczQ1VKa2FwRzhGdmJyVktZWC02S2xaLVlZUV9ieVEtOVp6WDdRWUVXWGFxZGJtVl83TXJ2SlUybklQWG9tZS1pTVhqTDVYYnZXTW80NkNhRzh3?oc=5": {
       "title": "Dividendos da semana: Alupar, Taurus e CPFL lideram pagamentos entre 15 e 19 de junho - Estadão",
@@ -3723,7 +3723,7 @@
       "source": "",
       "added_at": "2026-06-26T22:48:58.491080",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUgzNG5CdkJCbmFPQ3kyY0tPMjR6cV9ocTlGaThfVzVsekZKZkxYZklIbTdtQzNoOC1DRXBNc3hrSjNMd1VFTUdzdy14OHRjYUJLSmVEUEdKeWJ3b1hNdzBQS3QweE1NWGt2ZW5OWjVTSEh0RTZfa2dQNEtka2JsS0s4V01LTW5HVlVnYnpwdElrMFFOZzZJWWQxclV6bkVhcERQYjV1RS02VngyUnFhbi02SUNkSGhYNjZnd28zWUp2YzdiVk5xOWY4WQ?oc=5": {
       "title": "Repactuação do UBP pode reduzir tarifa em até 5% para distribuidoras de 19 estados - CanalEnergia",
@@ -3731,7 +3731,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:00.406866",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjhsd2I1NVkyNmlveE5BczFVUm02ZHlFRW9YVGZjcE5naW9YZGNfXy1GOTUyaHMzbHlmZnltT2JSbG0tNS03ZWxiVzAya2Z5LTBEa1c2OVFBWDNGR29EZnV3SENHdFJUdWx2S0ZPd1pDVl9oR1Ziay1fQjNnT3BaRHh6Zl9QVkl5aTRWWjA3TnFCSnRMMUppT0tKdw?oc=5": {
       "title": "Bandeira tarifária amarela permanece em julho - CanalEnergia",
@@ -3739,7 +3739,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:02.341952",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJhUHlSQThMMXh2WDQ1YjZwRExfdnp2bXI3SXBRZzQ3SlJhT1R1WG16Z3R5VXFjejhxVGUxMVVuNHVfb1E1T3UtTmZOVFhaVHotR2VNNEFsNWtnVVJBN2trbEdNbkFkYWNFRThRdWR6bWQ1M2xDWk1Oc3cwX2sxa201QXp3LUR5Q1dONC1SeXo3MnB1RDF1Um40M3VPaTZzVVpWUlFlZmxCVmkwbXhnMmZES1dwWlVvUjY0YmdiaGljNFhuTWhIT1NkUEI3RTcySW1J0gHiAUFVX3lxTE1Pa2tuOUdsanhpTlJHbklSZm91ZGF1SVFjSmZyMl83RnVzaVFhRlVfZ3BRQVpLMFdjVTM4NTY2dnlkeDFsdjB2bldsUURfbGh2NzNiWnVsUS05YnQ5dmNfSFZhYy0xSjV4TTB4VFdzM3duUkdfWG9OU1NpUFdtdTRITWVtblRBVG95cVZLdDY5WWNidlZaU2RSdEMzZHpYQlBNalEtR1dUVUw4aU9fZ2NUazdNelVxb0ZRT253M0k1ZWZNOUxjcFpFeXV2WU9TWFpWNW52c3FFajVLWDBuVWJBOWc?oc=5": {
       "title": "Aneel formaliza destinação de R$ 5,6 bi para aliviar contas de luz dos consumidores - Valor Econômico",
@@ -3908,6 +3908,12 @@
       "added_at": "2026-06-27T15:40:12.402160",
       "summary_source": "extractive",
       "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWlxWFF1aHQzMVNja3Y5V1dIYVV4MjRRcmVSeXBSNjllS0poaVUxNEhwSF84bndjb1ZQWGktWHBTREdtYzNEZVlnWlhYcjZLbHVyOGE4LWlNYndiNEQ4eEc5bS1rNGtnMFBqRjlxcUUxVTVaYmJxQ3FlOVctYXlUM2p1U2V0dEZLaHk5MWVPTW1RNVpOUERhZlo5V09ISjF4STFYMFZVR0ZuV0hwNFBqZXR5OWFMMkdO0gG-AUFVX3lxTE93c3JvbEh4YnZSTG94ejRwcEJlbU1zQTB3T3NHV2tBZWVnMmxGMGhCbF9BZWYwYlhqNE1vVEhYRUJhUlhUVHpFMVlHc2VFT0ppdHVUcjkxRFBjaDhDNnpZbHEyOTljZEN0ZzRfcVY4N1lJUkJDU0RyT2pLcm1VZ3BqVTYzWGJSeW92ZHMzcGYtaXoyeG1wR1gxY3V5MzlGYXd5VER0N2R0dUlqWDVHUl9rVFJIZ0lxVkExaVdzbWc?oc=5": {
+      "title": "Novas fabricantes de carros elétricos continuam surgindo na China - Folha de S.Paulo",
+      "summary": "O mercado chinês de veículos elétricos vê o surgimento de novas fabricantes, como a **Dreame** e a **Rox Motor**, expandindo de eletrodomésticos. Apesar de **143 marcas** terem vendido carros em 2023, muitas vendem pouco, e a consolidação esperada ainda não ocorreu. A queda nas vendas internas e a guerra de preços pressionam as empresas, que buscam maior dependência das vendas no exterior.",
+      "source": "",
+      "added_at": "2026-06-27T20:18:25.901338"
     }
   }
 }
