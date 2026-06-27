@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T15:59:53.446240-03:00",
+  "last_updated": "2026-06-27T17:07:45.501067-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5418,60 +5418,6 @@
       "empresa_label": "Aegea",
       "codigo_cvm": "23396",
       "first_seen": "2026-05-29T11:31:33.831974"
-    },
-    {
-      "cnpj_short": "02747-2",
-      "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Arquivamento FRE -",
-      "data_referencia": "20260528 28/05/2026",
-      "data_entrega": "20260528 28/05/2026 19:49",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Arquivamento FRE",
-      "protocolo": "1528206",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528206",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "27472",
-      "first_seen": "2026-05-28T20:00:22.440508"
-    },
-    {
-      "cnpj_short": "00332-8",
-      "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Arquivamento FRE -",
-      "data_referencia": "20260528 28/05/2026",
-      "data_entrega": "20260528 28/05/2026 19:47",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Arquivamento FRE",
-      "protocolo": "1528205",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528205",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "3328",
-      "first_seen": "2026-05-28T20:00:23.154387"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Arquivamento FRE -",
-      "data_referencia": "20260528 28/05/2026",
-      "data_entrega": "20260528 28/05/2026 19:43",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Arquivamento FRE",
-      "protocolo": "1528204",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528204",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-05-28T20:00:21.754138"
     }
   ]
 }
