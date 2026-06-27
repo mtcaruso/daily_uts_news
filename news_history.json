@@ -1,76 +1,6 @@
 {
-  "last_updated": "2026-06-27T04:15:45.921807",
+  "last_updated": "2026-06-27T11:46:51.858799",
   "items": {
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE52T3N2U0dtc2h3ci1kSWdSSDNwTFFTeDVuR1lyZDFXUW0wTk9CeERVc3EzYmpYNy1IYVkzSjg1ejI0cS1OMEZUWWtXOXFBazlLNE5yZjFOZWNKclgxZW84NVg4WWtOdHRZUDYxWmZVQWU2czVwbXJmVEVNSkE1dw?oc=5": {
-      "title": "EQUATORIAL S.A. – 1534080 - estadaori.estadao.com.br",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-13T08:31:49.102130",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVljTy1pcGpBMTR5SnlOQnBqTS1wM2F1LU5TbE5jTENTTEptR0htRWRhTFdtUktWUGtZZ2t2d0JjODRUVS03alRtWi1LRFhYNEhreEFUR1J4cm11aUw3Wm0tZVlHZDZaQXBnUF9BeHRJQjJBalZ0QW9CX2ZHd1U2V0M5VUozTnFmeUpvQ0tWU1o3LWZmV1BEejRROEQxOElS?oc=5": {
-      "title": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG – 1533944 - estadaori.estadao.com.br",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-13T08:31:51.704252",
-      "error": "no_article",
-      "attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJBdllIN2RSUW9IeFhUdE93b0d1ckdMWlJjazlFNUZlTVJYVjNTQTFxQl9Iamgyb0dDMkRqeXp1bkhsclJiWXdJSXlielZYQVo5SGNOQ0hSeTQ2UENUWUNhS0hPcDE1VEN6MXBPVzdHZ2ZETG4tSngtXzIwMzVxY1pIRVpFUjF6TmJ1WTQyNWoxR3NIMHBJb2Jpc0lBNnBn?oc=5": {
-      "title": "ONS mantém projeção de alta de 0,9% na carga do SIN em junho - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-13T08:32:00.756803",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3c1UnFVejBVR3hIQnU0RWN4OGxJd3RYSWtyX0FDUFU4Rnpaa19xUHFSbVhyYnJ3VjdNdUx4M296Mk5TU3RKbWRLQnZXclhXQk9rcGtydUxVVk9mb1ZORngxUFZ6X2Z3NFJCcTNiejR3N3phVVcxcG1Xa25kQ052eE5fY2ZmcFRCOEEwWTM4RlU2SnFmbFFaX1hiOS1KdEdFTHV5Qw?oc=5": {
-      "title": "El Niño + planeta mais quente: O Brasil está preparado? - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-13T08:32:02.432101",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGFKcUhxZDJHWV9zMEtHNkhpZjM2QmZvUmhudUlYWW5uTkJhc1JreTdpbGZsS2xLRUFvNnplaTdnbW0zTG5NLXJTaGh5WTVna1BNU2RzM1prYVp3cnRxdDVVcDV5WnBDNlZObG1ydHNGUnpZUkhneDZNcnIxTGliRHFDNXdXMFNzYWotT29ENWZqNmYyX3IwMWYwdzJSZUgwWGc2X0Y4MFh4V1Nwc0hoM3MzaDQ4SmNQ?oc=5": {
-      "title": "Transição energética ganha novo instrumento de planejamento no país - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-13T08:32:04.114904",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDBMVHlzRXo2SVpoSUYySGgtTEpiandNM3R2MVNzc3V3RGwyNXBFSW1iV1VqY0ItM05yLV92dzg5YUJsa0xIS3I5a2M3VEVteEVxRGg2dlFVVl8wWnZFOWZJNW92czlEMHRIQVF0QjNvYjlabTc1SjFRbFU5QXZSZTBCUzd6ZUtGTFpHVXlSMG1TdkM4SDdTMER3QUJERkxCQ3VGYko1eE1wQUY4U1VRTlhMTFFrOFdQa0ZXeGZva9IBzgFBVV95cUxPbXNkcDJHZEZ5N09iSlI1eGQ2U1ZjWWxXeDBnQmx1TFRvWUNzY2p4cUR0eW9IOWU2RFdObXp3ckJaQ01hY2VSMlVaS2pjaEFsNGc5UG5DZWJKZ3Q2VmQ3aGppSi02VmdfLS00S1dqUG5YeDJZZk1LT3dPcElCbV9OTHROSHAxYUh6cE1JVVFDcV90WV9MUFJBNDNTUXpTa2hEZ2t1b08tT1B1cXpYMGl5Zm42T1VIS0d6YlBKaTBuQkxRM2VSNUVzODdjUVFVZw?oc=5": {
-      "title": "Alimentação e energia puxaram alta do IPCA em maio; combustíveis ajudaram a segurar a inflação - Valor Econômico",
-      "summary": "Alimentação e energia puxaram alta do IPCA em maio; combustíveis ajudaram a segurar a inflação Grupo respondeu por 0,29 ponto percentual da alta de 0,58% do IPCA do período, ou metade do aumento A inflação de maio foi marcada por pressão vinda da alimentação e da energia elétrica, mas com efeitos mitigados pela queda nos preços de combustíveis, mostrou o Índice de Preços ao Consumidor Amplo…",
-      "source": "",
-      "added_at": "2026-06-13T08:32:20.024596",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3FWMVBybjl3MEpXdENLZnhrbjNBMzZBQXhCRkxRQ2hwNVNReDVvWUdZZHBTNnZHV1hMbzkzZHRlUGpUdTgyOFVldzI4c3ZVcV9pc2thbmVUUnNnRFBteUhfazlOanF4VEZkTWJoU3RfeVpLTG9tV0NQbHNqT0NCalZRTjdySU1KajFGN29TT0FxUW4tTTRDc3ZLaEo5dU5kQlRab3dqbjdRek95WnJjRHdyWnRPT0NvY25zWkYzU0IzcjdudzZoX0NVOHlIUDA?oc=5": {
-      "title": "Novo em Folha: Petrobras distribui R$ 300 mil em bolsas para reportagens sobre energia - Folha de S.Paulo",
-      "summary": "Jornalistas de todo o Brasil já podem se inscrever na segunda edição da Seleção Petrobras de Jornalismo, que vai distribuir R$ 300 mil em bolsas para a produção de reportagens sobre ciência e energias do futuro. Ao todo, serão concedidas 15 bolsas de R$ 20 mil.",
-      "source": "",
-      "added_at": "2026-06-13T08:32:20.024671",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0pqcURKZmJwdXctUTNCRlY5cnJNRFJ3UURvR21odXV3S1RYMXR4OTl2QmpITFplYXMzQnJ0M3VvV3pYRHVpVlpENVdNV0hnZXo1aHBzQVI1NjBOeUpaSWlSeHpjVE0wVEdUbHAtTms0d1FRZ0U4aDdPQ3VNUk1fS3JR?oc=5": {
-      "title": "TCU pauta LRCAP para próxima sessão plenária - Agência iNFRA",
-      "summary": "Marisa Wanzeller, da Agência iNFRA O processo de acompanhamento do LRCAP (Leilão de Reserva de Capacidade em forma de Potência) de 2026 entrou na pauta da sessão plenária do TCU (Tribunal de Contas da União) da próxima quarta-feira (17), marcada para 14h30. O tema é relatado pelo ministro Jorge Oliveira e, segundo fontes, mesmo após a homologação dos resultados realizada pela ANEEL (Agência…",
-      "source": "",
-      "added_at": "2026-06-13T08:32:20.024711",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjctR3hmUDhBdGJsNHZpYmlucFY1dGJYaFRfakwtaFdkM1BPaXU3YmdyVWVvM1J3S0duZGxLcEVMbTdmallLTGh5SnREQzdxMm0waTM4Wm1ET1RvbXE0d2RDT29qQlc1NVVnbUhvZ0FRU3VmT2lnOU83dG1wOGhzV3NYWnFEdTJrUUxUYzhOMTNsQWsxcVFsSQ?oc=5": {
-      "title": "ONS eleva previsão de afluências no Sul e Sudeste/Centro Oeste - Agência iNFRA",
-      "summary": "O **ONS** elevou as previsões de afluências para os subsistemas **Sul** (para **94%** da MLT) e **Sudeste/Centro-Oeste** (para **83%** da MLT) para a semana de 13 a 19 de junho. As projeções de carga para junho indicam crescimento de **0,9%** no SIN, com destaque para o Norte e Nordeste.",
-      "source": "",
-      "added_at": "2026-06-13T08:32:20.024763"
-    },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTdGSFhFaGhLQmY1eTVrRFR2bTJjUlhNZWw1b21LNHpZRExrNTR2SXVKXzJGUUFyc0pHU1ZsZmN6RWFUQ3ZhU2Z3alc2dG5HdlFLbVlvOUIxci00QWhONTBnczZUbjZQNWJtSG1MSkd5VVVzOERXXy15Zkl0MnRHOG9WU1ZTUFdFME9DbHpvMjJTdWtibkdkczRUTXdrbzE5Z3k4aXZQQU56ZHZ5dno4M01WOGcyWnB4WkxFMS1aS1RTQ1JfVFN2NzRJREZhNEoyc2tV0gHiAUFVX3lxTE8xLVhvUlhEbGlkVlYwdHNqbFppRUxnSWlRNVAxdUNoSXN5TktYTTUwWGRhU21hSHU3c2xsUFE0NnZocWNxdkd1SkhkdDRzLW9VY05jNU9kbnRWUlY0NlRickxXVGdNa05VTWdQRk5qMUo0azgyOTJDWklxYVRuVy15eE1qSmQ5Um15Z0hyLXo0T3AxZDdsLXZoVUVMOG40MGNfV0hIWmd6elcxbTFaWUZmanRVZ1dLTG1zZWVpaTZXNWtmUmR0N2xMRVIzLUVOeWF2TnVSZDJDelNVVUF6N21qeXc?oc=5": {
       "title": "STJ definirá incidência de IRPJ e CSLL para transmissoras de energia elétrica - Valor Econômico",
       "summary": "O **STJ** iniciou análise sobre a incidência de **IRPJ** e **CSLL** sobre receitas de transmissoras de energia elétrica referentes à construção de linhas. O julgamento, em recurso repetitivo (Tema 1415), terá aplicação obrigatória e pode impactar o preço para os consumidores.",
@@ -3633,7 +3563,7 @@
       "source": "",
       "added_at": "2026-06-26T15:15:39.268190",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd0RBU1ZVQ1NRR2p5SDE5VURLMlZZOFJwZEN2eTJRSndGQjYyNzQ0NTBhNjJzc1Z6dmh1REtqZHZIVUVpeTRCLTBaY3JZcU02VS12LTJnbkMybUJBZTFPNWppa2FFTE1KMUl2dUtnd2tURnYwbkZRRWoteUp6TG9NdDJqUndfMUFNX29odmx5cmhMWkJiMWRqc1dBajR0VEJTMVE?oc=5": {
       "title": "Aneel libera para início de operação em teste 2 MW - CanalEnergia",
@@ -3641,7 +3571,7 @@
       "source": "",
       "added_at": "2026-06-26T15:15:40.963233",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNngxWU1YaEJTTXQzZWdTQlZaZkQ4cTNIQWszMUZ0SG16Z0RXRDZ6YzU2R3NqRUVYdE4xV0VnRS13Q3JwVTB4YXhEd2ptVmpBOHNmcnpad3U5X3FiOEhiXzRZMG93Nm1kdFNMZ0tFaG9ibW5jNjZ2ZUFxS3dqeXVhSTFLMFdUZ0FFVW9IR0dZRl9BdTM3VFdVYnVZakN0bUw4WTNVdmZVc2owNkk?oc=5": {
       "title": "Segurança energética exige diversificação e renovabilidade - CanalEnergia",
@@ -3649,7 +3579,7 @@
       "source": "",
       "added_at": "2026-06-26T15:15:42.632610",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW4yR3lLSUFrU3pkSktSNDN6MmdxQnpucFlWbWl1ZXZjYXJ3ZlpTNVVFNks4bVFFVmNrVTJGbmFUaUlNcnpyOVdsWGFvRGM3LUZVQW9WSnBiMzRyUXpwUDQtdWlqMi1XTUFNN3lCZWNSOVBXWkFnS05YX3NuQWI4dWIyU2JRbERZRC1tbml0dGQyX1FxMDFIaWpHeWswa1dHX1dkTDNEa3k3QjA4?oc=5": {
       "title": "CESP incorpora Auren Operações em reorganização societária - CanalEnergia",
@@ -3657,7 +3587,7 @@
       "source": "",
       "added_at": "2026-06-26T15:15:44.351371",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT1VfT3VsTE1IVV9neVZvZUtRR2dwVk1jdHctSnMweXFuSWhqRm9lQndkQk9pSlY1dnJRc3czOXc0NTR6OWFNS3RtR1MzNGotWHc3WUFlcG53WEp3Sk5aZm9Jck4ySER4cnJjbjhVWUxDeVJqRG1oem5rSlBMS0NraEI2LUNjZ0hMa2g3MHQ3WVlFZWRTb0YydmV4TXF2NHVfOUQ3c0RkZWIyRUpvTDYxVXE0WHRMSjDSAbwBQVVfeXFMTTNpWExkRWJucnRzM054R3E0UEZrSGU5S0dpSXQ3N1JiZVlIckdlTlV1TWZFbDlEUk1JaTgyTjhmUGI4X3VHV1JqTktRcGRMUmtRa2RyM2Z4UktVRmRNT3NfNkRISDhVVUVjY0plWmRWaHhUdnYxUDVhTjV5Skllbnc5ekFSVlpZaFIwUk0tODQ0Wjd2YldjV2JrQUdVdGNwSXlUWHY5RXZLZWtnSW5kSzZjTm5icjhQSVl6d2w?oc=5": {
       "title": "Como as empresas estão se reinventando para o mercado livre de energia - Estadão",
@@ -3689,7 +3619,7 @@
       "source": "",
       "added_at": "2026-06-26T17:21:01.937830",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnhPQVpxWThBU2EtMzRHUkp1d3FnUVl6TlBZcmprYTMwNFNZTVV5TFRUSG5ieWJ2T0N0Wm9Na0dqZ0FEQlY3OFd2akVMY3BySWFDTmZ1WmNMNWtvOVBXY2x6Xy1rQmlhOUpodlNtWmR5S01SUEZMVWlleFRqMXVwNm1tc3BFMlhQV0thR2NXN1VQQQ?oc=5": {
       "title": "Região Sul opera com 56,7% da capacidade - CanalEnergia",
@@ -3697,7 +3627,7 @@
       "source": "",
       "added_at": "2026-06-26T17:21:03.754887",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNS1J4MVRfbmdvbTloSnctTG0yMTNhVFpfTU43NWFsSWhXUzljZ09EWnBfWTAzeE4zWXl5YzNZNkNUbkdsT01HNlFfOERkd2NGd2E3emxiemtENHlfMlI0MnZlbDBFVVNKbkdGZHl6QVd5cWwtTVJmNUpyRjZLLWk1Vmc5NUFMRmhfQVJ0WkVmWFYwbGJuVUNiTl9wZWpiczRiR2FBeVFEZllEY1AwN2w1Y2tMbFNNMmRESUl1Qm9CZWZ0SFNLZjhuOHc0cF9KTE9XQS1mZ2F2M0t4VzVScF9xYTdrM2Zfam9hR0FhS25faVAxQkJFTEdkeUo0emJralpNTnpiYmhmTWJ3bnFseU5mdGVRXzNfX0xQUTlVTWtZcXVmUjBwRmpZcGlueDgxUGJRWmlMUHR1ci0wYWV4Q3c1Uk84aTZiTzQxb0tUY0ZrX0ozQy1XTFhWTDd2Zk5jVEpXSm1B0gHyAkFVX3lxTE5ZcHJPWHVtdnV6WFZOLVljTmY5MmRKUDdVS1Naa3ZDU3lJb3BaWmdVTTRtZWxUZWROXzlMYXhsX3l4RWJuS2pPMFE5cE9sdExLdWF3Z2tQVVlzOC1RbDBMbEJJcXBJcGpObmhtbHpkcTBuSFpNalNTVG9FNHNFWFhhYkZFb3BsaTA2MkZGa3RoZk5yVVd4bG5id25qVkR4dm5NTk5hSlFjUnVpM2U3enZFaVhYbjlIVERmRWVXTnNRVUxDbHV0WmN3OFBzbDI0UFk4VWJqSDJ1dU1SU21DS1l0OWlqWkpIWWlpVVZ1VXZuaktjNWlQMnlaRTZMd3MtOFE1OWxiaVZ4bXlXLVZzY0U2T3BCNmhDTkhHZE5SQUIwdkNuTGxVcGdOQkZBMl9ESlhFWGtyVGJnSTFvLWtWWUNFX19ZeFR4VmlOT2hnRWNCN1FvQWswcXdDdGRzd3pLMlNJU0ZCRzkxT0xpNklrRUhsZEE?oc=5": {
       "title": "Gestor e consultor técnico em resíduos sólidos, Márcio Velho da Silva mostra por que a eficiência na gestão de resíduos define o sucesso financeiro das concessões de saneamento - Valor Econômico",
@@ -3729,7 +3659,7 @@
       "source": "",
       "added_at": "2026-06-26T19:22:36.870923",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmRZelVNYVFDZDBhUDlDUS1neDNzWWdRQnZ2dVZXQjUxaGlweWxuUGNiQm5qUFMzSGcyVW9RYXJsTUZSdWdvOHBqbV82bEZvaVpmRnFBdGRJTUJpdWJvdlF5SDg0UktZVjU2Qi1qVjZjWkdOVHgzaEhRME01Z2daaVZJSFJUUDdFVUdfVnhoV19qclc1b2lHWW1KM25PWERWNlJGdko0S2V3ckpBVE44MjJCa2oxdmJjOTJPSVJreUM?oc=5": {
       "title": "Geradores querem alterações no ordenamento e rateio dos cortes de geração - CanalEnergia",
@@ -3737,7 +3667,7 @@
       "source": "",
       "added_at": "2026-06-26T19:22:38.544372",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTBIM3JOeEtmWVJ0QS1CeVlMNlV4QWJnbC1oODZpek9ZV09rQTBHZl9DcGVNam10a0RrR0pDOVNDM1ZGeGhjdEN4ek1vQi1FTERCMHR2RkgzcTJZbG05a0xKV0xWN0NVeEhNN2ZXS21tNVlJYUVzOExuTUpwOGVzdllzYWZvWC1TUkRNTHN1QzN2Xy1wTS16RkZ0NXVGN2gxQjF0YUdZeHVHQk9DeHFPTUNB?oc=5": {
       "title": "Julho inicia com nível de afluência próximo à média no Sudeste - CanalEnergia",
@@ -3745,7 +3675,7 @@
       "source": "",
       "added_at": "2026-06-26T21:09:22.132552",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOFdpV3JnRFkzTVhjbnBSMW5kaWZQUnQzZk5iVThoSDFVTDdGQko2emhXRnFURjFfcy1Vc0dOeGlaR1p4U2F6a29RZjFCT0xGMnhoRzdBN0d0VjBRMWQtVGZDQzBBbUIwX3VzVmllaWM1akpSVmtOa0tpUGFzMWZfeGkwQnUzb2x1U1FsZmswUUp1Q2VNcGtmaG1NcGtrM3hyMW56NUdNeGxjbERKZVlGOQ?oc=5": {
       "title": "Enase 2026: Diagnóstico está pronto, agora é necessária a ação - CanalEnergia",
@@ -3753,7 +3683,7 @@
       "source": "",
       "added_at": "2026-06-26T21:09:23.842666",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2MyRXQ2dFc1WENSYzF6dTJpMFVWRDBqdkhFZThISEZnQXFtNlk1U3d2WnNWLXNaQUdFY0hiLUEtT2VsWlo4cmJRUEI2dGJPR2hVYUVTMHBWaXUzMlIxLTFBbTVKNEJ0VEkyY1hUT3BCVDdWaV9qV21MS3BCWVdhTHhub2xlZW5HSmszdHVVZUdQTGJxNHktODhxNTE0RVRQMDJmb2hYN3Q4RDR3cndONUp1SVFYTWVaUVdVYjhlbw?oc=5": {
       "title": "Engie Brasil convoca AGE para decidir aquisição de participação em Jirau - CanalEnergia",
@@ -3761,7 +3691,7 @@
       "source": "",
       "added_at": "2026-06-26T21:09:25.630038",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdl9xZ0hJamQyajk2c1g1OUNqY1p2cTYzNFZ4ZVZpUWJYMjJScVptaWdfX2hzTVVoRnVqM1owQVctTkcydXdNYnZqUEdpYk9lVUNlWGNraDZzS0wyQ080NHBlS0xyQVc5b083bVc1c1NPa21WdU9vMzZzYm1KT3JHdWV4M1JDSjh1NFlTaTVzOEIyN2hlZllwYzNDNGJmODBYTDA3UG9R?oc=5": {
       "title": "Elea e Axia vão instalar data center para IA em Belém - CanalEnergia",
@@ -3769,7 +3699,7 @@
       "source": "",
       "added_at": "2026-06-26T21:09:27.343429",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2VNXzJVOTByMWpKcmd4OU9mWFhiZDNyQzhwNGpQMVdDbUFCVldCb25iZk0xVFBKQzQ2VHpkNEFYb05QUDVMUkJUSWRQOVR6TmFFbXU5RXVQSjgtc205UGVkNnVqVFJOOTdPbWhGVWhONnBtY3Z6NmNNcl9rZTJPVFVabHJnT2Z2VWg0Nk4xMzBYSHpBVEZMVFpjUzU0ZTFxUlpEN2cxbHVMYnFicEY2a9IBvwFBVV95cUxQa0hfUDYwTDE2LTBqQlZJVEQtTWVrUG5ZTnJuQ3RiQ3c3dXVmZUNyTDZJUXpBVHpUU0dkQ3ljQjh3eG1oMkxtbVZOeEZnRjd2LXhDbGdQcHV1dDVIWmFsN3FaejdtT1BGWmJoWDNEWm5zODhpTVZsRURIdjVzS0M0cGJ4aWhhVkxRZVZoUDJBV3VQNjVXLTkxZUhDYmlwQWFxcVNjTkdOdExqYzdaRi1yNDU5X3ROUC1vNEktaUJMTQ?oc=5": {
       "title": "Aneel mantém bandeira amarela nas contas de luz em julho - Valor Econômico",
@@ -3811,7 +3741,7 @@
       "source": "",
       "added_at": "2026-06-26T22:48:58.491080",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUgzNG5CdkJCbmFPQ3kyY0tPMjR6cV9ocTlGaThfVzVsekZKZkxYZklIbTdtQzNoOC1DRXBNc3hrSjNMd1VFTUdzdy14OHRjYUJLSmVEUEdKeWJ3b1hNdzBQS3QweE1NWGt2ZW5OWjVTSEh0RTZfa2dQNEtka2JsS0s4V01LTW5HVlVnYnpwdElrMFFOZzZJWWQxclV6bkVhcERQYjV1RS02VngyUnFhbi02SUNkSGhYNjZnd28zWUp2YzdiVk5xOWY4WQ?oc=5": {
       "title": "Repactuação do UBP pode reduzir tarifa em até 5% para distribuidoras de 19 estados - CanalEnergia",
@@ -3819,7 +3749,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:00.406866",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjhsd2I1NVkyNmlveE5BczFVUm02ZHlFRW9YVGZjcE5naW9YZGNfXy1GOTUyaHMzbHlmZnltT2JSbG0tNS03ZWxiVzAya2Z5LTBEa1c2OVFBWDNGR29EZnV3SENHdFJUdWx2S0ZPd1pDVl9oR1Ziay1fQjNnT3BaRHh6Zl9QVkl5aTRWWjA3TnFCSnRMMUppT0tKdw?oc=5": {
       "title": "Bandeira tarifária amarela permanece em julho - CanalEnergia",
@@ -3827,7 +3757,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:02.341952",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJhUHlSQThMMXh2WDQ1YjZwRExfdnp2bXI3SXBRZzQ3SlJhT1R1WG16Z3R5VXFjejhxVGUxMVVuNHVfb1E1T3UtTmZOVFhaVHotR2VNNEFsNWtnVVJBN2trbEdNbkFkYWNFRThRdWR6bWQ1M2xDWk1Oc3cwX2sxa201QXp3LUR5Q1dONC1SeXo3MnB1RDF1Um40M3VPaTZzVVpWUlFlZmxCVmkwbXhnMmZES1dwWlVvUjY0YmdiaGljNFhuTWhIT1NkUEI3RTcySW1J0gHiAUFVX3lxTE1Pa2tuOUdsanhpTlJHbklSZm91ZGF1SVFjSmZyMl83RnVzaVFhRlVfZ3BRQVpLMFdjVTM4NTY2dnlkeDFsdjB2bldsUURfbGh2NzNiWnVsUS05YnQ5dmNfSFZhYy0xSjV4TTB4VFdzM3duUkdfWG9OU1NpUFdtdTRITWVtblRBVG95cVZLdDY5WWNidlZaU2RSdEMzZHpYQlBNalEtR1dUVUw4aU9fZ2NUazdNelVxb0ZRT253M0k1ZWZNOUxjcFpFeXV2WU9TWFpWNW52c3FFajVLWDBuVWJBOWc?oc=5": {
       "title": "Aneel formaliza destinação de R$ 5,6 bi para aliviar contas de luz dos consumidores - Valor Econômico",
@@ -3835,7 +3765,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:42.837250",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb3duMXFScmRHNnhXR0VxaHJPbXN5czNKTlhkY3FlYUkxaWlWckVWWHlsVGt4bks3Xzh3V0hYU1IxaEZKdlRIQTJHS2ZBeXdKbm84VDVRUGdvTDBNV0toalFXWUFOZTVfMTB3S0h0amFUQnRhS2QwR0Q2M1c0ZE9GRFZVWFkxU2FZaW40blB6ZXg5QVBUMWlYblJlbUl2WEFlOTF4VXhBNFJVbHlVYUs0Ym9hT2JieVRnNXU4T19Xdmp5ano3OVBTb1ViUmQzTERORW1acW5LRFVkYUkwTWJSWXhaSFZLTHhqYXVIRFdFSdIB9AFBVV95cUxNalhza0UwanIyNFg1NUswWlJESVp6RTZGVnd0aE5hT3kzb1BZaXZxMFRBNmNMaHJXS2k1bGtOQmYxWFhxT3p1c2ZwR3hQejdjUWZTTVBlWHl6eklFMXMzLTVQeGZ0cFc1Yjc0SUpaNk1xWkFMVTRFMGFZRTBVa1dnU1hnMXk5SnlfeElPQnBsR2lXR09NUHBSWDJtdUZSSzY3ZFcwWENfcU55Q3piUF9lV1dfZnFZNWpFektUM19qSU84aHNRUTFSUzE0VTFxek9wUkpTR1dvTC1nYjZBbkdDVHhKQUFOWXVVdmk4SXdLUTF3dVRE?oc=5": {
       "title": "Bandeira tarifária continua amarela em julho, e conta de luz terá custo extra pelo terceiro mês consecutivo - Folha de S.Paulo",
@@ -3843,7 +3773,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:42.837453",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWC03N3ZBUTRyVVhoekx2V0M2UmZRMzdRejNjdHpoa25TT204RGFpdXp1b2JBTUctdGJSRWd1UWJUbDR2aGtOTklIWlhKeW4ySGhaLWdKUDhNbjZvSk1VZmxmYXhUWlJJQ3NETFNSdGcydTF4MkFHS3d2b1lPbGFwd094QlM1WGtpZ1JxV1FkNW5UaFYwVzdid1RoeUVJMzR4Qmh3UmZHeVM1a0xDS0k5b1pNU1VNS1RYQktNeVNzcUpWQjlTYXF1UkVPcjZERWhEY3o40gHYAUFVX3lxTE5BdlIxVDNXY2N3NjV0M21CM29nLUlzV1F3RTNMaEJLWS10NjRuTFNCazlKSkFjSXQ1MS1Rd3hzWFpOYVNYSGpmU19EanVoeEYyVWlqZjVFT0FLOUtXRUJDcDlJZDFxQzhrUW9oMnhVcXZyU2FuN05LNGc5MXhEWnhKRU9nZVJ4emE3eTliU0hVZTI1T0p2b2JGeHIzazlYaE1pUG1pUUE5eTBQV0hpUGY1RXRobkVwazJyU0lRWkRvVWFzVmkxN01EdVB0RWpyZzdxZWtEQnZ5UA?oc=5": {
       "title": "Copasa (CSMG3): rali leva papel a firmar R$ 60 e puxar ganhos do Ibovespa em junho - Estadão",
@@ -3851,7 +3781,7 @@
       "source": "",
       "added_at": "2026-06-26T22:49:42.837512",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckZxV2lLRVFtZWE2WWROZnl3S3d6SWlfRXBkYkItUDZFTTVvRV9ka00zbFZTQjlaSWZJNmozQUZIcXI0ZkpIczNjRUJkdW1WNTd0N1A0alR4SG9Kc3dYUjhpZngwelVFZ0J3U29wd19uX3FwZWVmeDc0clJ3VmQ2blZUVDV5U044TGVxaTlJRURkMFpLb3o1SXlaZjRKR1B6MDFQRkRvb3d5Snho?oc=5": {
       "title": "Mariana Espécie será secretária de Transição Energética e Planejamento do MME - Agência iNFRA",
@@ -3865,7 +3795,7 @@
       "source": "",
       "added_at": "2026-06-27T04:14:49.062290",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU0tS1FEZU9RUDNLSWtqTG50RzgwZDZlNngxdWo4WjNEYVVEcFJMQkhtS2g1N2RIYVV1WDJSeWRXYW1QaXppZEpVY1Nac0Y5bW1kdFNCQTFOaTlkMUg0NktlRlVRc0xhbWo5YU9TQ2hJWkJ2SkVqZzBLV0hQcEdVZ3UtYjJEYkhwcXVxczlQMWpHOFJKWElDOVlWRV9Kb0ZZdnlGNnd1aWx1cnk5eDdUU2ln0gG3AUFVX3lxTE9RbmljNU0tazBGelJYYjZteENwcEo5eXJadnUtcmk4elFGMkhsMkpEOEllQkNoZ2JGeHBCWG5XUWVvZC1VVVpLbFhFa0N0cnQ0d1JDZGlBSks2ZFluY0pEV2F2akJ5LWlmSkV2VU1UZUdkUzZyd0VXT0JhOFpvWUU5WDZYcjlwdFoyUENsTl9yc2ptaldIYk5MSXl5Vmh6UVJDR01FRkx3bGNfclpaMURvQlJTM0NLNA?oc=5": {
       "title": "Setor energético precisa avaliar cenários mais extremos, afirma especialista - Estadão",
@@ -3873,15 +3803,13 @@
       "source": "",
       "added_at": "2026-06-27T04:15:45.914858",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWmI2UjFBM1U4ZWRBT3JIUWo3QmRpMGJwcU50WDhKSks0VW9UUk5qYnpBQmQwbGtnc1BPMFhwMUVkYjdYaDZhZDB6c2NVU1k5VmhwaVFxa0pId21ZRlBJUVJPeTVJTWpMQUJVcjF6endyOU5YLTl3VUJRbElYb09XM3AtYk9LR2luWTVlMXJfZExLWjFVa0xlT21fSGszaHppc19SdFV6aHhfcEIzcldHSkdQZ0FFbWJONGJueklkLVJNSi1xM1RDcDF2MGVVZmlicEU4NE5KSkU?oc=5": {
       "title": "XP reduz preço-alvo da Light (LIGT3) mas mantém compra com foco em revisão tarifária - Estadão",
-      "summary": "Gerando resumo A XP revisou as estimativas para a Light (LIGT3) e reduziu o preço-alvo para o fim de 2027 para R$ 5,50 por ação, ante o preço anterior de R$ 6,30 para o fim de 2026, após a maior demanda de investidores pelo papel em meio ao aumento de capital em andamento. A corretora manteve a recomendação de compra e calcula que a ação é negociada com uma taxa interna de retorno (TIR) real de…",
+      "summary": "A **XP** reduziu o preço-alvo da **Light (LIGT3)** para **R$ 5,50** em 2027, mantendo a recomendação de compra. A corretora projeta um Ebitda de até **R$ 2,3 bilhões** após revisão tarifária, com potencial adicional de **R$ 400 milhões** dependendo de discussões regulatórias com a **Aneel**.",
       "source": "",
-      "added_at": "2026-06-27T04:15:45.915037",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-06-27T04:15:45.915037"
     }
   }
 }
