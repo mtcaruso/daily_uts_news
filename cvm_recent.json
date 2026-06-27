@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T09:48:47.047585-03:00",
+  "last_updated": "2026-06-27T11:21:34.177636-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5616,24 +5616,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-05-28T17:36:02.019170"
-    },
-    {
-      "cnpj_short": "02149-0",
-      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação Corporativa 1T26 -",
-      "data_referencia": "20260528 28/05/2026",
-      "data_entrega": "20260528 28/05/2026 12:14",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação Corporativa 1T26",
-      "protocolo": "1527792",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1527792",
-      "empresa_label": "Alupar",
-      "codigo_cvm": "21490",
-      "first_seen": "2026-05-28T13:35:22.406642"
     }
   ]
 }
