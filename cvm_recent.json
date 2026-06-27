@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T14:53:59.467123-03:00",
+  "last_updated": "2026-06-27T15:59:53.446240-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5472,42 +5472,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-05-28T20:00:21.754138"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Esclarecimentos sobre questionamentos da CVM/B3",
-      "especie": "Esclarecimentos sobre questionamentos da CVM -",
-      "data_referencia": "20260528 28/05/2026",
-      "data_entrega": "20260528 28/05/2026 18:13",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Esclarecimentos sobre questionamentos da CVM",
-      "protocolo": "1528073",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528073",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-05-28T18:30:09.364473"
-    },
-    {
-      "cnpj_short": "02557-7",
-      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Eleição de Diretor(es); Renuncia de DiretorAta",
-      "data_referencia": "20260519 19/05/2026 10:30",
-      "data_entrega": "20260528 28/05/2026 17:42",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Diretor(es); Renuncia de Diretor",
-      "protocolo": "1528052",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528052",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "25577",
-      "first_seen": "2026-05-28T17:59:52.897765"
     }
   ]
 }
