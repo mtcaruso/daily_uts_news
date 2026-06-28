@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-06-28T11:58:11.197802",
+  "last_updated": "2026-06-28T14:13:16.797195",
   "items": {
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc1FsUzZZX182MUNVN2VTRXBHTm9KWXh4dnNoSkQ4RkpaTjFYcVd6ZXIzUFZ4RWstd0Y2YU5TVU9pMWgzUWpjdy1HWlMxTF9wU2dwWTZEV19NTHI2QWlZSlY0emxad1d5MDR5ZU5jY2pCa0oxR05YNFpnc1A0WWdVNm1zVG1zeEhBWnU2SVdNRzJMQ0ZWUllhU3BLX3ZKZGVyeUZGOXRJSUhxQ1ZlRms0dGQtaElyS0VlcTg0d0JIV3bSAcYBQVVfeXFMTzRFQUF3X3VEbEpGM2Q5SDdUZ0JFdE4xQWxvLWE5Q0hsYnpyclZRRDBLS25NX0ZqTXVVLVM2U2o1eF95enhVVHg0eU5rMlM2UnBMR3JnNE1yTHNXTXFoZnpDd0l1YW5wYUJ0TzRPM3Z3MzNZWUczQ1VKa2FwRzhGdmJyVktZWC02S2xaLVlZUV9ieVEtOVp6WDdRWUVXWGFxZGJtVl83TXJ2SlUybklQWG9tZS1pTVhqTDVYYnZXTW80NkNhRzh3?oc=5": {
-      "title": "Dividendos da semana: Alupar, Taurus e CPFL lideram pagamentos entre 15 e 19 de junho - Estadão",
-      "summary": "Entre 15 e 19 de junho, empresas como **Alupar**, **Taurus** e **CPFL Energia** distribuirão dividendos e JCP. O **Banco da Amazônia** se destaca com o maior pagamento, incluindo R$ **7,50** por ação em JCP e R$ **3,77** em dividendos.",
-      "source": "",
-      "added_at": "2026-06-14T12:13:13.493563"
-    },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGtybmEyRWl0T2RhLW9GYjNjLWNlZ0xPSDcxT2lKb3BSWS10MVA4dkw5blNuYmNhc1hvMUlINHFBb1habWtFNGhfZTdWWVVRMzNNMTFBcjZGekMyZ3FuWWtKYkJfajkyMjg5LUtLa3VNUWtaWlBDOXZ3YThYRm84YWFSWEVHMk1BdUN3T21kUFJoVkk2TUxhd2lyUXg3RTh6bjRVeWZ1NERqX0VrWk5kYkpPWEhHWHA0TlJhYl9HSFdGMkgtXy1lbXdDU1FSTlU?oc=5": {
       "title": "Cemig nomeia novos vice-presidentes de Finanças e RI, Geração e Transmissão e Distribuição - estadaori.estadao.com.br",
       "summary": "A **Cemig** elegeu novos vice-presidentes: Leonardo George Magalhães (Finanças e RI), Demétrio Alexandre Ferreira (Geração e Transmissão) e Ernando Antunes Braga (Distribuição). Os executivos possuem vasta experiência no setor elétrico e na própria companhia, com mandatos anteriores em cargos de liderança.",
@@ -3926,6 +3920,14 @@
       "summary": "Um defeito no sistema de energia da **CPTM** causou transtornos e filas na estação **Guaianazes**. A notícia não especifica a data exata do incidente nem o número de passageiros afetados, mas destaca o impacto no cotidiano dos usuários do transporte público.",
       "source": "",
       "added_at": "2026-06-28T11:58:11.190518"
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0pFdU1mRzdaX0dFWXp0ZkRmSWVWY3k0UEd3SW5GajFFNVJsWHM1YXZDU00yUmdvVHQxX0ZKd0UtZjVHMGZJMVZqUURlOUs1Y3B6bkh2ekdva2JqWXF5aUN5aHhWMnNjV1N5SWtlWGVUcEtDRjdCOUhiX0U3ZlBGQnI1N1ctNTdNYzJNaGFiRTctejVFSWxqbWY3WXRzN0JWZzlyMkVBcVc3WXlxMnEwOFJsSXBucW1yZmY0c2FmZW7SAcYBQVVfeXFMT3ZmdlZGeEt0bjMxbjZocnJmWkdSbExJZmF6ZmlhNUs3cThPTm5BMjZIT1N3RG56RUE2cC1yd01kSFFPMzZiRW9pRnJfcTZnUC13aTBYMTZWeERLczBvckNWdTZrZTZuU05WZFF3eW9MWUlvZzRxUU9WSm1oeFlzU2tJanNmRlNZeXJfN3lBUURBYkY4ajdZclRFcUFBelV6MDJGYmVnXzRDUGNoMEs0UWpvRkx3VENZQzc2MzdZeDVidEYyMHZR?oc=5": {
+      "title": "IA se parece mais com eletricidade ou redes sociais? - Folha de S.Paulo",
+      "summary": "Quando a eletricidade chegou às cidades, mudou tudo o que era possível fazer num dia, numa fábrica, numa noite. Cem anos depois, a rede social mudou o que era possível fazer com uma câmera, um pleito e uma multidão.",
+      "source": "",
+      "added_at": "2026-06-28T14:13:16.790939",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
