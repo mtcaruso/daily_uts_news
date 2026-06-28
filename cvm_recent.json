@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T08:20:36.401676-03:00",
+  "last_updated": "2026-06-28T09:50:45.160821-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5400,24 +5400,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-05-30T00:16:53.362089"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Relatório de Sustentabilidade",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20251231 31/12/2025",
-      "data_entrega": "20260529 29/05/2026 11:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1528351",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1528351",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-05-29T11:31:33.831974"
     }
   ]
 }
