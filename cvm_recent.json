@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-06-29T09:07:29.631354-03:00",
+  "last_updated": "2026-06-29T13:07:05.459379-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "INFORME DE GOVERNANÇA CORPORATIVA 2026Ata",
+      "data_referencia": "20260618 18/06/2026 15:30",
+      "data_entrega": "20260629 29/06/2026 09:15",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "INFORME DE GOVERNANÇA CORPORATIVA 2026",
+      "protocolo": "1539192",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539192",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-06-29T16:06:50.426634"
+    },
     {
       "cnpj_short": "02747-2",
       "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
