@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:41:20.333856",
+  "last_updated": "2026-06-29T14:20:41.582575",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3137,6 +3137,32 @@
       "summary": "Nomeia **TATIANE CRUZ SOUSA** para o Cargo Comissionado Executivo de Chefe de Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral.",
       "added_at": "2026-06-26T12:27:11.247166",
       "summarized_at": "2026-06-26T12:27:27.978287"
+    },
+    "portarias_portaria-mme-n-88-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-88-2026",
+      "title": "Portaria MME nº 88/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-88-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-88-2026.pdf",
+      "date_modified": "29/06/2026",
+      "ementa": "Designa MARIANA DE MELLO DUARTE, matrícula SIAPE nº 1501460, para exercer a Função Comissionada Executiva de Coordenadora-Geral de Estudos Integrados do Departamento de Informações, Estudos e Eficiência Energética, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.13.",
+      "summary": "Designa **MARIANA DE MELLO DUARTE** para exercer a Função Comissionada Executiva de Coordenadora-Geral de Estudos Integrados.",
+      "added_at": "2026-06-29T14:19:30.460272",
+      "summarized_at": "2026-06-29T14:20:16.786788"
+    },
+    "portarias_portaria-mme-n-89-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-89-2026",
+      "title": "Portaria MME nº 89/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-89-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-89-2026.pdf",
+      "date_modified": "29/06/2026",
+      "ementa": "Dispensa MARIANA DE MELLO DUARTE, matrícula SIAPE nº 1501460, do encargo de substituta eventual do Coordenador-Geral de Estudos Integrados do Departamento de Informações, Estudos e Eficiência Energética, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.13.",
+      "summary": "Dispensa **MARIANA DE MELLO DUARTE** do encargo de substituta eventual do Coordenador-Geral de Estudos Integrados.",
+      "added_at": "2026-06-29T14:19:30.460272",
+      "summarized_at": "2026-06-29T14:20:41.082321"
     }
   },
   "first_run_done": true
