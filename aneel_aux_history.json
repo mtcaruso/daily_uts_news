@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T21:02:19.115216",
+  "last_updated": "2026-06-30T22:21:34.317119",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1145,6 +1145,30 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/blitz-onee-em-brasilia-promove-competicao-educacional-do-setor-eletrico-nas-escolas",
       "summary": "A **ANEEL**, em parceria com a **Abradee** e a **Neoenergia**, realizou a Blitz ONEE em Brasília para promover a eficiência energética entre cerca de 250 alunos do ensino fundamental. As inscrições para a ONEE 2026 estão abertas até **15 de setembro** para alunos do ensino médio e fundamental.",
       "added_at": "2026-06-30T18:08:02.894346"
+    },
+    "noticia_2026_aneel-aprova-bonus-de-itaipu-e-repasse-as-distribuidoras-em-2026": {
+      "type": "noticia",
+      "title": "ANEEL aprova bônus de Itaipu e repasse às distribuidoras em 2026",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-bonus-de-itaipu-e-repasse-as-distribuidoras-em-2026",
+      "summary": "A **ANEEL** aprovou **R$ 872 milhões** em bônus de **Itaipu** para repasse às distribuidoras em **agosto de 2026**. O valor beneficiará cerca de 83,8 milhões de consumidores residenciais e rurais com consumo abaixo de 350 kWh em 2025.",
+      "added_at": "2026-06-30T22:21:21.063590"
+    },
+    "noticia_2026_aneel-aprova-reajuste-tarifario-anual-da-enel-sao-paulo": {
+      "type": "noticia",
+      "title": "ANEEL aprova reajuste tarifário anual da Enel São Paulo",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-reajuste-tarifario-anual-da-enel-sao-paulo",
+      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **Enel SP**, com efeito médio de **10,18%** para os consumidores. O novo valor entra em vigor a partir de **4 de julho de 2026**, impactando cerca de **8,9 milhões** de unidades em **24 municípios paulistas**.",
+      "added_at": "2026-06-30T22:21:26.157658"
+    },
+    "noticia_2026_medidores-de-energia-eletrica-aneel-abre-segunda-fase-da-consulta-publica": {
+      "type": "noticia",
+      "title": "Medidores de energia elétrica: ANEEL abre segunda fase da consulta pública",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/medidores-de-energia-eletrica-aneel-abre-segunda-fase-da-consulta-publica",
+      "summary": "A **ANEEL** abriu a segunda fase da Consulta Pública n° 1/2026, de **1º de julho a 14 de agosto**, para definir requisitos mínimos de sistemas de medição inteligente para consumidores de baixa tensão. A proposta visa modernizar o setor elétrico, com decisão prevista para o **segundo semestre de 2026**.",
+      "added_at": "2026-06-30T22:21:33.816782"
     }
   }
 }
