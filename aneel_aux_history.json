@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T12:19:25.764299",
+  "last_updated": "2026-06-30T15:39:10.699115",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1105,6 +1105,36 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-formaliza-adesao-a-quitacao-antecipada-do-saldo-devedor-da-ubp",
       "summary": "A **ANEEL** formalizou a adesão de **22 distribuidoras** do Norte, Nordeste, Mato Grosso e partes de MG/ES à quitação antecipada do saldo devedor do Uso do Bem Público (UBP). Essa medida beneficiará consumidores com uma redução tarifária de **R$ 5,6 bilhões** até o início de **2026**, através de um desconto de 50% para as geradoras que quitarem o valor à vista.",
       "added_at": "2026-06-26T23:17:08.347944"
+    },
+    "noticia_2026_aneel-aprova-revisao-tarifaria-periodica-da-companhia-campolarguense-de-energia": {
+      "type": "noticia",
+      "title": "ANEEL aprova revisão tarifária periódica da Companhia Campolarguense de Energia",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-revisao-tarifaria-periodica-da-companhia-campolarguense-de-energia",
+      "summary": "Notícias TARIFAS ANEEL aprova revisão tarifária periódica da Companhia Campolarguense de Energia A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (30/6), a Revisão Tarifária Periódica da Companhia Campolarguense de Energia (Cocel), que passa a vigorar a partir de 29 de junho de 2026. A distribuidora atende cerca de 60,9 mil unidades consumidoras na região do município de…",
+      "added_at": "2026-06-30T15:39:07.661580",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_energisa-tocantins-tem-novas-tarifas-aprovadas-pela-aneel": {
+      "type": "noticia",
+      "title": "Energisa Tocantins tem novas tarifas aprovadas pela ANEEL",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/energisa-tocantins-tem-novas-tarifas-aprovadas-pela-aneel",
+      "summary": "Notícias TARIFAS Energisa Tocantins tem novas tarifas aprovadas pela ANEEL Durante Reunião Pública Ordinária realizada nesta terça-feira (30/6), a diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou o Reajuste Tarifário Anual da Energisa Tocantins Distribuidora de Energia S.A. (ETO), que passa a vigorar a partir de 4 de julho de 2026.",
+      "added_at": "2026-06-30T15:39:08.945010",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_aneel-inicia-campanha-educativa-para-evitar-incendios-proximos-a-linhas-de-transmissao-inicia-nesta-terca-feira-30-6": {
+      "type": "noticia",
+      "title": "ANEEL inicia campanha educativa para evitar incêndios próximos a linhas de transmissão nesta terça-feira (30/6)",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-inicia-campanha-educativa-para-evitar-incendios-proximos-a-linhas-de-transmissao-inicia-nesta-terca-feira-30-6",
+      "summary": "Notícias CAMPANHA EDUCATIVA ANEEL inicia campanha educativa para evitar incêndios próximos a linhas de transmissão nesta terça-feira (30/6) “O clima mudou. Nossa responsabilidade também.",
+      "added_at": "2026-06-30T15:39:10.198878",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
