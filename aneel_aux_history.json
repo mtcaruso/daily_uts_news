@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T15:39:10.699115",
+  "last_updated": "2026-06-30T18:08:55.093954",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1111,30 +1111,40 @@
       "title": "ANEEL aprova revisão tarifária periódica da Companhia Campolarguense de Energia",
       "date": "30/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-revisao-tarifaria-periodica-da-companhia-campolarguense-de-energia",
-      "summary": "Notícias TARIFAS ANEEL aprova revisão tarifária periódica da Companhia Campolarguense de Energia A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (30/6), a Revisão Tarifária Periódica da Companhia Campolarguense de Energia (Cocel), que passa a vigorar a partir de 29 de junho de 2026. A distribuidora atende cerca de 60,9 mil unidades consumidoras na região do município de…",
-      "added_at": "2026-06-30T15:39:07.661580",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A **ANEEL** aprovou a revisão tarifária da **Cocel**, com aumento médio de **14,97%** para os consumidores. A decisão, publicada em 30/6, entra em vigor em **29 de junho de 2026** e afeta cerca de 60,9 mil unidades em Campo Largo (PR).",
+      "added_at": "2026-06-30T18:08:29.444189"
     },
     "noticia_2026_energisa-tocantins-tem-novas-tarifas-aprovadas-pela-aneel": {
       "type": "noticia",
       "title": "Energisa Tocantins tem novas tarifas aprovadas pela ANEEL",
       "date": "30/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/energisa-tocantins-tem-novas-tarifas-aprovadas-pela-aneel",
-      "summary": "Notícias TARIFAS Energisa Tocantins tem novas tarifas aprovadas pela ANEEL Durante Reunião Pública Ordinária realizada nesta terça-feira (30/6), a diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou o Reajuste Tarifário Anual da Energisa Tocantins Distribuidora de Energia S.A. (ETO), que passa a vigorar a partir de 4 de julho de 2026.",
-      "added_at": "2026-06-30T15:39:08.945010",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **Energisa Tocantins**, com efeito médio de **7,92%** para os consumidores. As novas tarifas entram em vigor a partir de **4 de julho de 2026**, impactando cerca de **707 mil unidades consumidoras** no Tocantins.",
+      "added_at": "2026-06-30T18:08:38.639138"
     },
     "noticia_2026_aneel-inicia-campanha-educativa-para-evitar-incendios-proximos-a-linhas-de-transmissao-inicia-nesta-terca-feira-30-6": {
       "type": "noticia",
       "title": "ANEEL inicia campanha educativa para evitar incêndios próximos a linhas de transmissão nesta terça-feira (30/6)",
       "date": "30/06/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-inicia-campanha-educativa-para-evitar-incendios-proximos-a-linhas-de-transmissao-inicia-nesta-terca-feira-30-6",
-      "summary": "Notícias CAMPANHA EDUCATIVA ANEEL inicia campanha educativa para evitar incêndios próximos a linhas de transmissão nesta terça-feira (30/6) “O clima mudou. Nossa responsabilidade também.",
-      "added_at": "2026-06-30T15:39:10.198878",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A **ANEEL** lançou uma campanha educativa em **30/06** para alertar sobre os riscos de incêndios próximos a linhas de transmissão, especialmente em cenários de clima extremo. A iniciativa visa reforçar a responsabilidade coletiva na prevenção, com foco em **49.641 km** de linhas monitoradas em todo o Brasil.",
+      "added_at": "2026-06-30T18:08:54.593695"
+    },
+    "noticia_2026_agencia-define-rescisao-dos-contratos-entre-gold-comercializadora-e-distribuidoras-devido-a-inadimplencia-contratual": {
+      "type": "noticia",
+      "title": "Agência define rescisão dos contratos entre Gold Comercializadora e distribuidoras devido à inadimplência contratual",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/agencia-define-rescisao-dos-contratos-entre-gold-comercializadora-e-distribuidoras-devido-a-inadimplencia-contratual",
+      "summary": "A **ANEEL** decidiu pela rescisão de contratos entre a **Gold Comercializadora** e distribuidoras devido à inadimplência. A **Gold Comercializadora** foi multada em **R$ 5,8 milhões** e outras penalidades serão calculadas pela **CCEE**.",
+      "added_at": "2026-06-30T18:07:45.013305"
+    },
+    "noticia_2026_blitz-onee-em-brasilia-promove-competicao-educacional-do-setor-eletrico-nas-escolas": {
+      "type": "noticia",
+      "title": "Blitz ONEE em Brasília promove competição educacional do setor elétrico nas escolas",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/blitz-onee-em-brasilia-promove-competicao-educacional-do-setor-eletrico-nas-escolas",
+      "summary": "A **ANEEL**, em parceria com a **Abradee** e a **Neoenergia**, realizou a Blitz ONEE em Brasília para promover a eficiência energética entre cerca de 250 alunos do ensino fundamental. As inscrições para a ONEE 2026 estão abertas até **15 de setembro** para alunos do ensino médio e fundamental.",
+      "added_at": "2026-06-30T18:08:02.894346"
     }
   }
 }
