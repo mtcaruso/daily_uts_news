@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T12:41:14.707797",
+  "last_updated": "2026-07-01T15:48:46.277946",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1169,6 +1169,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/medidores-de-energia-eletrica-aneel-abre-segunda-fase-da-consulta-publica",
       "summary": "A **ANEEL** abriu a segunda fase da Consulta Pública n° 1/2026, de **1º de julho a 14 de agosto**, para definir requisitos mínimos de sistemas de medição inteligente para consumidores de baixa tensão. A proposta visa modernizar o setor elétrico, com decisão prevista para o **segundo semestre de 2026**.",
       "added_at": "2026-06-30T22:21:33.816782"
+    },
+    "noticia_2026_museu-aneel-de-eficiencia-energetica-e-inaugurado-em-brasilia": {
+      "type": "noticia",
+      "title": "Museu ANEEL de Eficiência Energética é inaugurado em Brasília",
+      "date": "01/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/museu-aneel-de-eficiencia-energetica-e-inaugurado-em-brasilia",
+      "summary": "A **ANEEL** inaugurou o Museu ANEEL de Eficiência Energética em Brasília, executado pela **Neoenergia Brasília** com recursos do PEE. O espaço educativo gratuito visa promover o consumo responsável de energia, com meta de replicar o modelo em todas as capitais brasileiras.",
+      "added_at": "2026-07-01T15:48:45.777716"
     }
   }
 }
