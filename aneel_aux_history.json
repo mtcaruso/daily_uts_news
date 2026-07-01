@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T18:06:32.548498",
+  "last_updated": "2026-07-01T20:52:23.677624",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1177,6 +1177,35 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/museu-aneel-de-eficiencia-energetica-e-inaugurado-em-brasilia",
       "summary": "A **ANEEL** inaugurou o Museu ANEEL de Eficiência Energética em Brasília, executado pela **Neoenergia Brasília** com recursos do PEE. O espaço educativo gratuito visa promover o consumo responsável de energia, com meta de replicar o modelo em todas as capitais brasileiras.",
       "added_at": "2026-07-01T15:48:45.777716"
+    },
+    "noticia_2026_segunda-sessao-publica-do-leilao-de-transmissao-no1-2026-sera-realizado-na-proxima-sexta-feira-3-7": {
+      "type": "noticia",
+      "title": "Segunda sessão pública do Leilão de Transmissão nº 1/2026 será realizado na próxima sexta-feira (3/7)",
+      "date": "01/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/segunda-sessao-publica-do-leilao-de-transmissao-no1-2026-sera-realizado-na-proxima-sexta-feira-3-7",
+      "summary": "A **ANEEL** realizará a segunda sessão pública do Leilão de Transmissão nº 1/2026 em **3/7**, ofertando quatro lotes em SP, MS e MT. O certame prevê investimentos de **R$ 1,8 bilhão** e a criação de mais de 4.000 empregos.",
+      "added_at": "2026-07-01T20:51:52.932402"
+    },
+    "noticia_2026_aneel-aperfeicoa-procedimentos-relativos-a-autoproducao-de-energia-eletrica": {
+      "type": "noticia",
+      "title": "ANEEL aperfeiçoa procedimentos relativos à autoprodução de energia elétrica",
+      "date": "30/06/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aperfeicoa-procedimentos-relativos-a-autoproducao-de-energia-eletrica",
+      "summary": "A **ANEEL** aprimorou regras de autoprodução de energia, exigindo outorga para novas usinas desde **25 de novembro de 2025**. A **CCEE** implementará procedimentos, e usinas sem outorga terão **três anos** para se adequar.",
+      "added_at": "2026-07-01T20:52:17.792990"
+    },
+    "partic_mme_cp_224": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 224",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/224",
+      "summary": "Fortalecimento do ecossistema nacional de dados energéticos, com foco em governança, padronização e acesso estratégico. Busca definir diretrizes para a gestão e uso de informações energéticas.",
+      "added_at": "2026-07-01T20:52:23.177335",
+      "objeto": "Instrumento orientativo e estratégico para o  fortalecimento do ecossistema nacional de dados energéticos, com foco na  governança, padronização, integração, interoperabilidade, qualidade,  segurança, transparência, acesso e uso estratégico das informações  energéticas.",
+      "deadline": "30/07/2026",
+      "start_date": "01/07/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000186/2026-81"
     }
   }
 }
