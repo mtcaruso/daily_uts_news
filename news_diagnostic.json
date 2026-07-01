@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-07-01T20:29:32.414504",
+  "last_run": "2026-07-01T22:08:15.231190",
   "source_counts": {
-    "Valor": 13,
+    "Valor": 12,
     "Pipeline": 0,
     "Brazil Journal": 0,
-    "Folha": 7,
+    "Folha": 6,
     "Estadão": 6,
-    "Agência Infra": 6,
-    "Canal Energia": 24,
-    "Megawhat": 33
+    "Agência Infra": 5,
+    "Canal Energia": 23,
+    "Megawhat": 30
   },
-  "all_items_total": 89,
-  "pending_count": 63,
-  "done": 5,
+  "all_items_total": 82,
+  "pending_count": 58,
+  "done": 4,
   "pruned": 0,
   "fetch_fail_reasons": {
     "no_meta_desc": 1,
