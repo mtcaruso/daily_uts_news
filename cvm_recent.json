@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-01T15:29:40.986387-03:00",
+  "last_updated": "2026-07-01T17:24:58.531844-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Manual para participação",
+      "data_referencia": "20260730 30/07/2026 11:00",
+      "data_entrega": "20260701 01/07/2026 17:00",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1540532",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1540532",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-01T20:24:53.828267"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
