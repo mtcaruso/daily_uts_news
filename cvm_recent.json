@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T11:01:10.715846-03:00",
+  "last_updated": "2026-07-01T13:38:02.248726-03:00",
   "items": [
     {
       "cnpj_short": "01732-9",
@@ -5778,42 +5778,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-06-01T21:24:57.566365"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Autorização para emissão de debêntures na Cemig GT.Ata",
-      "data_referencia": "20260529 29/05/2026 14:00",
-      "data_entrega": "20260601 01/06/2026 15:51",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Autorização para emissão de debêntures na Cemig GT.",
-      "protocolo": "1529214",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529214",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-06-01T16:01:49.903862"
-    },
-    {
-      "cnpj_short": "02032-0",
-      "empresa_nome": "CEMIG GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Emissão de Valores MobiliáriosAta",
-      "data_referencia": "20260529 29/05/2026 14:30",
-      "data_entrega": "20260601 01/06/2026 15:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Valores Mobiliários",
-      "protocolo": "1529212",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529212",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "20320",
-      "first_seen": "2026-06-01T16:01:51.093841"
     }
   ]
 }
