@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-02T18:56:23.997152-03:00",
+  "last_updated": "2026-07-02T19:56:44.812885-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Escrituras e aditamentos de debêntures",
+      "tipo": "-",
+      "especie": "Escritura e aditamentos de debêntures -",
+      "data_referencia": "20260702 02/07/2026",
+      "data_entrega": "20260702 02/07/2026 19:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Escritura e aditamentos de debêntures",
+      "protocolo": "1541414",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541414",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-02T22:56:23.967008"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Início de Distribuição Pública",
+      "especie": "Anúncio de Início -",
+      "data_referencia": "20260702 02/07/2026",
+      "data_entrega": "20260702 02/07/2026 19:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio de Início",
+      "protocolo": "1541413",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541413",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-02T22:56:23.966992"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
@@ -5670,42 +5706,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-06-03T16:03:22.375339"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Relatório de Agência de Rating",
-      "especie": "Rating S&P -",
-      "data_referencia": "20260602 02/06/2026",
-      "data_entrega": "20260602 02/06/2026 18:48",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Rating S&P",
-      "protocolo": "1530001",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530001",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-06-02T22:13:42.033103"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Rating S&P -",
-      "data_referencia": "20260602 02/06/2026",
-      "data_entrega": "20260602 02/06/2026 18:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Rating S&P",
-      "protocolo": "1529888",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529888",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-06-02T22:13:42.033084"
     }
   ]
 }
