@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T17:59:32.117010",
+  "last_updated": "2026-07-02T19:45:39.043365",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1206,6 +1206,38 @@
       "start_date": "01/07/2026",
       "fonte": "MME",
       "sei_processo": "48360.000186/2026-81"
+    },
+    "noticia_2026_blitz-da-onee-2026-agencia-realiza-acoes-em-duas-escolas-piauienses-para-divulgar-a-maior-competicao-educacional-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "Blitz da ONEE 2026: Agência realiza ações em duas escolas piauienses para divulgar a maior competição educacional do setor elétrico",
+      "date": "02/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/blitz-da-onee-2026-agencia-realiza-acoes-em-duas-escolas-piauienses-para-divulgar-a-maior-competicao-educacional-do-setor-eletrico",
+      "summary": "A **ANEEL** realizou ações em duas escolas de Teresina (PI) para divulgar a **ONEE 2026**, competição educacional sobre eficiência energética. A iniciativa, que conta com a participação do **Grupo Equatorial** e **48 distribuidoras**, busca engajar cerca de **480 alunos** e professores. As inscrições para a competição vão até **15 de setembro**.",
+      "added_at": "2026-07-02T19:44:55.583227"
+    },
+    "noticia_2026_aneel-divulga-relatorio-sobre-perdas-de-energia-eletrica-na-distribuicao": {
+      "type": "noticia",
+      "title": "ANEEL divulga relatório sobre perdas de energia elétrica na distribuição",
+      "date": "02/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-divulga-relatorio-sobre-perdas-de-energia-eletrica-na-distribuicao",
+      "summary": "A **ANEEL** divulgou relatório indicando que as perdas totais de energia na distribuição em **2025** foram de **14,3%**, com perdas não técnicas custando cerca de **R$ 11,5 bilhões** ao país.",
+      "added_at": "2026-07-02T19:45:23.190296"
+    },
+    "noticia_2026_aneel-e-defesa-civil-de-sp-discutem-projeto-para-enfrentar-eventos-climaticos-extremos": {
+      "type": "noticia",
+      "title": "ANEEL e Defesa Civil de SP discutem projeto para enfrentar eventos climáticos extremos",
+      "date": "02/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-e-defesa-civil-de-sp-discutem-projeto-para-enfrentar-eventos-climaticos-extremos",
+      "summary": "A **ANEEL** e a Defesa Civil de SP discutiram o projeto **SPIN**, com orçamento de **R$ 16 milhões**, para integrar dados climáticos e da rede elétrica. O objetivo é agilizar respostas a eventos climáticos extremos, com entrega da plataforma prevista para dezembro de 2026.",
+      "added_at": "2026-07-02T19:45:30.529003"
+    },
+    "noticia_2026_projeto-radar-da-aneel-fortalece-monitoramento-e-gestao-das-interrupcoes-de-energia-no-brasil": {
+      "type": "noticia",
+      "title": "Projeto Radar da ANEEL fortalece monitoramento e gestão das interrupções de energia no Brasil",
+      "date": "02/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/projeto-radar-da-aneel-fortalece-monitoramento-e-gestao-das-interrupcoes-de-energia-no-brasil",
+      "summary": "A **ANEEL** lançou o Projeto Radar para monitorar interrupções de energia em todo o Brasil, integrando dados climáticos. As distribuidoras têm até **janeiro de 2026** para se adaptar ao sistema.",
+      "added_at": "2026-07-02T19:45:38.543119"
     }
   }
 }
