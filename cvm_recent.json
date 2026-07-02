@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T04:55:16.385483-03:00",
+  "last_updated": "2026-07-02T07:26:14.859335-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5688,24 +5688,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-06-02T17:00:45.654691"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Relatório de Sustentabilidade",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20251231 31/12/2025",
-      "data_entrega": "20260602 02/06/2026 09:52",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1529626",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1529626",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-06-02T10:03:39.523972"
     }
   ]
 }
