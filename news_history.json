@@ -1,100 +1,6 @@
 {
-  "last_updated": "2026-07-03T20:03:49.714809",
+  "last_updated": "2026-07-03T21:23:46.252033",
   "items": {
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaldrZHQyaTVna3B4Sm1ILUdNQ0pIRkViU0o2c05Dci1aTERYQXdYNnFvd1Fjd3JTbU9nWm9OTnhOZVdLbXVaQ2c1VVVIRjZzZEo5Um9iV0xCUUxQeE5SX0NvSjBZLTFDOERyTUl1QUdLY2l2WDdvbEJaejEzRXF4OC05Z2tleHhWd241UmJsT2c2QUtOTlFsRXU5TmpRek1vbkRab3NyTmJyNGNRb0JVU2I3bWp6djJ2?oc=5": {
-      "title": "Aneel habilita UTE Monte Fuji M1 no leilão de reserva de capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:26.667504",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkdSamgxeVR2ZHluSjY3Mi01cU9QdW5BQW12eS04TEtuRE9GNlQ2UlBZOUMwR0F0NlVtcTN2a3ZIbXhUc2YwMzlMQmNqa3QzRjRCUVBFcDZXWVZlZktGVTJGeUF3UzNUVGNhbDhoWC05VlNVNTBNdk56eFQ2OVB2blZKQkpsM09EdHBVT0l3STN3Rnd2dnRhMUJiUnJpcTRPWFRhak9EbFBJQQ?oc=5": {
-      "title": "Thymos estima PLD entre R$ 150 e R$ 200 por MWh no inverno - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:28.360286",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVNQU09pZG05bmdlR0l3TlBUM01pbU00b2txbW8xNHVlckRrSDd2Rm9nd2laZjk4eWlGNEd6a3VFY3NqVGZ1cl80UUxZNTdlcTdzd0RxcnI0SS05SVdsWjBjVDdXdFZqRFZKTWlITGJ6cXF5V2lGVlVMWjlfOER5ai1ZTzBzbkx0WkhCODRfQnNJZEJDaE05WmItVWhUV3J2c2V6aXhmSzJuOFB3bkstS0x5ZUEzVDVOa0M4cmd3?oc=5": {
-      "title": "Aneel libera para início de operação comercial e em teste mais de 16 MW - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:30.051464",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUpDY21VbzJISEJEa19uS1FZRXQ2M2VXcGJ3TWItNi1vUVRkNElNMVpVRE9SZnVFNERUS3dXd2xoMk1ZV3BnT3NNTFlrMlVQZHdxMG14MDNtSmM1YXhPRDBMRWZxRE5fUjZ2aW5SYlNiZHFxY3IyVXZsbzVBZU5xaTREelYzaVFPbFdGamVzYW1zVWNadDZHZnFmclhwOGh4dFN0MWlSQmc1ckRUTTU3XzhQODZoSEotdzdMcENsQi1nejZDYkVDVk1DdVVCRXVhMFJZLXZB?oc=5": {
-      "title": "Inteligência artificial acelera transformação do setor elétrico - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:31.820293",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHM3QkgxN0dEMnZBZ2YtaVkySEtBZmc0elNJbGwtMFI4dzdKYlc3UDVqRzBIMkluMmtxR2YzMnQxdmxIMFZwU3ZtTmpNNWxoZ0p1ZVRxN0g0Uk50Z1RKcFVUWXNZMm1WdkJuWHQwcHVjNDFZelp2UzJqWk42MlhKMUFOTUc1YlR2X0RUdFZQS0xrYXhxUi1CV1J0YXExb0xkZ2djY0I2SVNsampGcVE?oc=5": {
-      "title": "Consumo de eletricidade cai 0,3%, com recuo de 1,4% na indústria no trimestre - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:33.536846",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR25KTnZXSm4zZUtNdURJSnVGU29MeVZ3TjE2M3dZRTFmYjlJVGZrOFlEczRJeG0xS21uVFk5YUUwckNqYjVaMmJqWkxfUWt4aE53SUNVeldmRTM1V3FxMHlwdXAzd2pySWxSYUMzQWExdGtVNXR4bXlLU3lrdkRoOHFfQVRqdzZWUEM3amc0cjVUUmdNZkdPb05QQi1LOEpnTTZiZm1mSmpXTnM?oc=5": {
-      "title": "ONS recebe 223 solicitações de adesão à resolução Aneel - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:35.229686",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGYtaG1CbklNRDBoVW94aUVOM3lsbGxwMF9YS0JtQ1Bac20xaGgxTFY5dkV3eGVEOHhqd0F1cmJJYm9jZDUwLWNjeWpvaXQxRDBlZjh4WHZvLU8tWldsMHVsQ3NsVzFTV2JmTk9CN2JHS1gtUlh1VFRtQXJTWWRxLU82aV9EMHlHSlVKamZmYjJXX3phWUstMWlCZHhpLXpHS1ZjLXZKdHFVMndJc2FMWg?oc=5": {
-      "title": "Reservatórios do Nordeste caem e contam com 90,7% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-19T20:54:37.029980",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTFRV0x0QnBWRGdMUGViT2JIbDIzS0JWdU91Q2UyVERsay1nSnptLUxvYjREM29LOWR3UGVPTE14WHBFR2FnbWtMaGQ3SnJEcTJMbzEwV25zSWNVaEljbjllOUlvYTZiNEpqdTVqLXZpY3dZVGNXZGI3NDZpdkxLNjFzY2tVTHdRSGJHUTVqOUNUaWRhaFJHbmxmQkxOZkM1U1hKT3FxS3k1N0hVSWVPSFZIMmpUSE1lMFRXcER0b2hYOG1yT1dvZTZJRzljWko5cDM1LUh2bnfSAecBQVVfeXFMUHA3bWVnRVRiVFMyMUhXMmczdmduYjcwMVNpSWU3UFhrVnVlcFVPSmFkZUEybWViOElUY2NIS3VKaHBFX1Qzc3dNUmoyVVRTaS1lYzRma1NJcWllSHhrc2RfSnkzbl93UmU0T2lBSGQzY0VacDlmdjdMMTkyTndXdzRyR0ZfMkpQQ1VUb1hRNzhIRXpoS0FnSDJpaVlXVndOVmVRUHZhYlNMYlFBUy1rOVl6V3NzdHBHMFBQY0hjMnBGcGRLckpTT1BkVHpMRGprcGRXZWRMUVZxY1M5MWxyclFLb0dMR2s0?oc=5": {
-      "title": "Brasil tem segunda maior reserva de terras raras do planeta, diz estudo do Cebri e MME - Valor Econômico",
-      "summary": "Brasil tem segunda maior reserva de terras raras do planeta, diz estudo do Cebri e MME Cerca de 23,1% dos recursos globais conhecidos de terras raras está no Brasil, aponta o levantamento O Brasil tem a oportunidade de se consolidar como ator estratégico nas cadeias globais de minerais críticos, na visão do Ministério de Minas e Energia (MME). Conforme um estudo técnico elaborado pelo Centro…",
-      "source": "",
-      "added_at": "2026-06-19T20:55:01.084832",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2Fsc0N0dDVGbkhoV2txcV9vSlFRcWJtSjF0Y21jTUs0X3ZIUldDbjZCUXlnXzRFNTNjbHRsMDM5RDlKUlh1V3BqdEl6MjA5aVdFSUZ2OHNYNThUdnRwYWJTVUw1ZVRpaC1wdmx3REFLVlRZcEhCdWZVb2lIMU5CMnJSdm4tXzdiOF9nNmMtYmFZYXFOU3BRUWNNb1g2TjZBQTBNWENQTnUtWnRMaVNYMDJhek5kQQ?oc=5": {
-      "title": "Aneel pede apoio da CCEE para regulamentação do ressarcimento do curtailment - MegaWhat",
-      "summary": "A **Aneel** solicitou apoio da **CCEE** para regulamentar o ressarcimento de geradores por corte de geração (curtailment), conforme a Lei 15.269/2025. O objetivo é garantir segurança jurídica aos agentes, cobrindo o período desde novembro de 2025 e analisando alterações nas Regras de Comercialização.",
-      "source": "",
-      "added_at": "2026-06-19T20:55:01.084952"
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTZWanhhWGFKdFJfSF9TX3BiU3RIN3ZOVHkwYkxHU3dZUGQ4MzdVMkJvSFZHUmRJWkFBajlwRnR5US05bWNObHNKQTlRS3RCUkFqblQ1SWtzbHFyLXItZW42c3JmOTJ1NVUzdVU1emRycnVKTThVbmJZbWpzei1BdjN4bmlkaU5kRnpNNjh4Z05RTHNjVlV0YUNCaUNpaTdRel9VYklERE5YejJCMlE?oc=5": {
-      "title": "O novo papel do consumidor de energia e o fim da \"surpresa\" no fim do mês - MegaWhat",
-      "summary": "O consumidor de energia está mudando seu papel, buscando mais controle e previsibilidade na conta de luz, que deve subir em média **8%** em 2026, segundo a **Aneel**. Ferramentas digitais e medidores inteligentes são essenciais para essa transição, transformando empresas de energia em parceiras de gestão.",
-      "source": "",
-      "added_at": "2026-06-19T20:55:01.085234"
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFdoYWRGWFZzd1hEOTdub2t3ME9wYm5VRDhPckdpaHBzTjM4WGpHc0hlb3ZTeldQcklWdXR1aVhsa3JmSVNOTXNfc2pXZWRDa1pnaXgzaWZmRDZVR2VMUk1WZXJIVjJCTXVQb3NzUGx5WURqRVFnSlZnUG1CeU5wNzFmZWtIZlNyQ3lQakFIWWI1YTRjaXczT2lINjBCXzcwelB3ODVKY3Y3cEkwd0hSTQ?oc=5": {
-      "title": "Spic inicia operação em teste de 105 MW no Rio Grande do Norte - MegaWhat",
-      "summary": "A **Spic Brasil** iniciou a operação em teste de unidades geradoras em parques eólicos no Rio Grande do Norte, totalizando **105,4 MW** de capacidade instalada. A **Aneel** autorizou os testes para os complexos Paraíso Farol e Pedra de Amolar, com investimentos de **R$ 755 milhões**.",
-      "source": "",
-      "added_at": "2026-06-19T20:55:01.085358"
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzVWR3Z3UEMwRnJVSF94Wld4dVJTQ3VvWTQ4U2lWVnRXT0NZQ1RMVm83aUJ1N0dMRXlkWjl1WGVQVm15R0dCR205eU5TanppazgxcWxkaHdfdFJLRmhxQ3NsSURROTZTWWhFeGtDeERNaVZZVV8zc01NVzc4aFl2TEZBMzZaOUZ2ODlwNExMeXJoOW1BcDFSSkJRMnFRdXRNNVpMdjQwLTVzaGFtdUY0bzBVZGU5OWFzOGU5UW9DcnV5eFJQM3pmU0dn?oc=5": {
-      "title": "Fitch avalia que curtailment e endividamento ainda pressionam Equatorial - MegaWhat",
-      "summary": "A **Fitch Ratings** avalia que curtailment e endividamento continuam pressionando a **Equatorial**, especialmente seus ativos renováveis, com geração efetiva esperada em **59%** para solar e **88%** para eólica (P-90). A agência projeta o Ebitda de geração em cerca de **R$ 670 milhões** anuais até 2027, e a alavancagem pode subir para **4,8 vezes** com a aquisição da **Copasa** por **R$ 5,6 bilhões**.",
-      "source": "",
-      "added_at": "2026-06-19T20:55:01.085551"
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NX0lFZ0NSZkY2ajVJMWVwSjA1MkZ2ak9MaEtXVGNEZVN3OEJRWGJGYWs1VVZqZTlaOEQwX29DLWc2Wmh4QURFclRpVkVDbnpybS1EaUx4d2tUaGxJVDBBbA?oc=5": {
-      "title": "Tag cotas transmissora - MegaWhat",
-      "summary": "A **Aneel** definiu em **R$ 98,6 milhões** a cota da Conta de Desenvolvimento Energético (CDE) para 18 concessionárias de transmissão. O valor é referente a abril de 2026 e se aplica a empresas que atendem consumidores livres e autoprodutores conectados à Rede Básica.",
-      "source": "",
-      "added_at": "2026-06-19T20:55:07.287781"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1hyMjlPMzA1ZVB4WDBwWEs2elc2THZHRWtzdGtpdU9kVU9VdVJfWURGaWVWZTg5cmw4cUc3TEhhSGFEemxNNkVjcFAxTWswdV9XMlJseS1QRnBSX2h6aWJzSXNtZWYzX0xlU3VjVWNnQmdpVWhKNEUxVGU2T29fQUI4T3NKVC1sM0ZRTk50QU1YVHlxSFoxaGM3dVVxUThTR0N4M2N3?oc=5": {
       "title": "PMO de junho mantém projeção de alta na carga em 0,9% - CanalEnergia",
       "summary": null,
@@ -4161,7 +4067,7 @@
       "source": "",
       "added_at": "2026-07-03T14:57:18.482286",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3cwdWp0dXVVY3VaOG5Pa1g1NUYwUS0zNmRQNk55OE5lX09uUGhQaURkc28zV3l1dG5oNmEwdW1uYk9MY0lGa3lhOERNOEdCTnVJX2J0U2xzM1FUa201cW9BYkdJSkFMOHV5SUFERjhUWV85clY5dG11MjNkRGtGSGNUXzJRQTIyZzVqOHNlcEdUU1JlVFczbmJNb2hsYXYxcVdhX3BvREJIalgxVVo3YW5wUE44dXI5VXkyRmt2ZDNTSjlCZ1FkRlliY18xbFJG?oc=5": {
       "title": "Plano de energia do governo prevê investimento de R$3,5 tri com 80% para petróleo e gás - CanalEnergia",
@@ -4169,7 +4075,7 @@
       "source": "",
       "added_at": "2026-07-03T14:57:20.114465",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1kxdnVCR3dEX01WRHVwbWFCYzJwRWdFMm96azlFUTZKYWg3T3U5Qnh5Ul9NbXNWaTVVSHo3akctNFZhdmppM21jNW82bUVRWDJvc3NuR2RRX3gxQW1oUERjNmF2Y3AtYTFIX0o4QzgyckRTbV9nUFUycndCaEpSTGVtZ19uMk5JYjBvcGFmTHkwT0E0NDVDSlIyZjF2c3NyWUpLaWhoQkh3U2lzOHRUVkd3RU9fcFNKdHdsYlFXZzF1Y1BuTWg0YjlXd252M2VK?oc=5": {
       "title": "ESG de desempenho: por que a engenharia se tornou peça-chave para sustentabilidade real - CanalEnergia",
@@ -4177,7 +4083,7 @@
       "source": "",
       "added_at": "2026-07-03T14:57:21.781550",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjE5VXhxWkxUQkcwQUVJS3EyM0ZQUUpKdlJ3WXEtWS1KcWdBZTRWd0c0cmlJMlZVYmZ3ajBUaE9JenJiYzFuUFJERG43YmtrWEl4emxaNXJjci1pLXlNX0RzME4tX1pLVlJNc1JCV1V4MkFGYkVRUEtxOFZMM1k5cVhPU2FiMDBaOHpNRVpZZmFqT25uMkp2TEVubHVLOHlfVVVMV2N6dlM?oc=5": {
       "title": "Aneel libera operação de usinas solares - CanalEnergia",
@@ -4233,7 +4139,7 @@
       "source": "",
       "added_at": "2026-07-03T14:58:19.623195",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmtQVHNuT3NfU2ZNNnc3U1pvMnF2bkhBZ0ZYd2NlNWU5S0RfTHlKaDBIeWVUR0E1VnJrUTVkcnB4V3pfMHdzQjVLSEdDT2NkT0N4Zll5MUJKektYdUx5VXRLWUloRzJjTFJxbHR6Y3NYZzg0eE81QmRKNXVXTVMxTTlWUDNQdHAtZUFVWlREcXMwTEl6WkdxOERtMURNMVlvU1HSAbABQVVfeXFMTnNYdVVNTG1MRWFzT3ZFOU5pX3czd2RYV0dzdkcxMVg2UUtCTVZxMkNPb1BOVVFiNGhwS05VTVUwWXZWdjd1M2lQcXpvRlRXdUtRcmUtUnlsTFgwMFlQdEVHeWVFVzVodWVRMVVzVWRrTi1ZSncwVzJnZWV1YWR3RXBjVWVqeTVIYlQ2bEtwekY3VGZodjBDWl9WSF9DbzFkbjR2LU1yZldBNm5yRUpLU2w?oc=5": {
       "title": "ISA Energia prepara follow-on de R$ 650 milhões - pipelinevalor",
@@ -4263,7 +4169,7 @@
       "source": "",
       "added_at": "2026-07-03T16:44:21.387857",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0N5Smc3UmhaS05XLVRXMkt0a2xPTXFHbl9DVi1lTHliQmhZbUlSSmx1emtZSlhueTBLbXBOQy1JOURHWVB3MmFtcTVxaWlYYnFjUDVhRXMxc09nRzMzZTQwSTVpRGJPTjVVb3RCZWJySXBKdEs3eUZVVHpqNUphcWVaLTMxaUhZbnA4Q1hlb09OREw0Y1R2VzRVTGRKUlhocnZzTk1zdHIxQmZCMXNSNmRUY2V0dDdMQ0pmV29BSnJrMzQyN05MRVVWNzY0Yk1H?oc=5": {
       "title": "Renováveis evitaram custos de US$ 480 bi com combustíveis fósseis em 2025, indica Irena - CanalEnergia",
@@ -4271,7 +4177,7 @@
       "source": "",
       "added_at": "2026-07-03T16:44:23.206679",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2FTcElIdGZNSERmbGFadElkaWJsREN4c2hjTmJlVWs5YVJJOUZqRjk2b3d2cGZhX1A0V051ZktjelBBb0Vmc3BHdVIzdUkwV29xeGJEWlFiM3U2S0c0UzZGN205SXNtMUozeEhSUmVvYUpoWGZ2RnpmcGpZdlhxUU9sQXNaYXJGTnZTZDdVSTBoLTJmQlB6NmNtSk1LTjlkalBUX3A1dG1GeGNLTlo1N1dzNmJ3LUdvVHc?oc=5": {
       "title": "Axia Energia Sul leva três dos quatro lotes do leilão de transmissão - CanalEnergia",
@@ -4279,7 +4185,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:45.952556",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDMzZ3RTNVRVZFlKSFRtbWdmNjB1b3hFaE1zSzJuSm5vTjZKOXdvNXdkSXBidEkwbnY4X2NwY2thNF9zNmNVTTlDZXRieEEwQXNZQ0lTbFN0MGMwdy1KYWJCUkN5cWpPYVl0WTV1b09lQ21OUnVkQ1E0UHpQMnQyS295VVIxQnRITFdONVJhMHdsVWVwcXdsM0FRZTRDdw?oc=5": {
       "title": "Axia arremata o lote 8 no leilão de transmissão - CanalEnergia",
@@ -4287,7 +4193,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:47.667023",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFNWY04wR1JyNm9EZlVpcjU5VUMxNGdiTno2dFFrTVJNd1JRLXgwMGQwV192SFB1NGlHbWpxeEt4Z2VyT2dsRHNCNGMxZWNqcjBzVGMzWHc5ZUJta1Z6SWZBMHZESWRmQm9nNHFrTVpTdi0zUG5DWjlsdDdicjhNbWFKMzNkRWJaaHJrUE4xXzhNV1JhaHRkbG9SNA?oc=5": {
       "title": "Lote 9 do leilão de transmissão fica com Axia Energia Sul - CanalEnergia",
@@ -4295,7 +4201,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:49.283408",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGJmU0tJZTNaRHZ0eHlFcGhBblQ4dnVNNHdCdHZlUU1PYVU5MEJvV1VyemFPdXppakFxSHRfODQwM0FuakJLR2xsa2tTQ09NeWtIandMX2stR0lpeVhSR3dldm03S3o0S3B0YUFSdE5IY00yTWl2MGVNcV9BVjVKZm82dTh3d3lxaG9hY2RGbUw4blhMRFdLcWp3?oc=5": {
       "title": "Leilão de transmissão: lote 7 fica com Alupar - CanalEnergia",
@@ -4303,7 +4209,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:50.919736",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNRE1wNTZUamptYlFOcFc5MUVjc1JEWk5JU1VzSlJpSHk2OVVPYVEwV0dJM0k5emxuZ0lqQzd4b3FyRk5ia1k4ajAwdzduQnktQnlnYUNjY1VLVHlkejRZREF1RWNzcFJDaWVYMnBZY1YwWGlacWxSV01CU0M0Q0YySjY4WU1CVVBuazRlbmZUWHJ6bW5aVUVYODdHdEVEdw?oc=5": {
       "title": "Começa o segundo leilão de transmissão do ano - CanalEnergia",
@@ -4311,7 +4217,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:52.546707",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDJ0bl9Cbzg1Z0lFUGxKRUJQNW9jd1IwX0ljZ2ZLWTNUeno1TFR1bFdGOUdJTFJKTjZhVjZCWXA0SVY4Ml9MLU5ONHBNQkFrWkY0LWU4Xy1YUk1IWlE4Qnpwcl9WZFJtQUUwR2IxRjh5Zk5MT2diTEhKN2daQ3B4Unktcmc2bDNta0thTE5NYnR6Mld2d0FxcTZQcmlmRUhrVFNtYnNrcmg3YUM1WFNVREg5d3ppZnp0MmVHc0ctOFZFZw?oc=5": {
       "title": "Piraquê amplia transmissão de renováveis e reduz restrições no Norte de MG - CanalEnergia",
@@ -4319,7 +4225,7 @@
       "source": "",
       "added_at": "2026-07-03T18:23:54.148101",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSk1hWWFqZEJhNk80dWF2UUphQ0tWdjBNaWd6WEtSNXRvOHdsVVZkMnYxU21YVmJEeEwzbkcwZmRSMFBKdFFNSGZBekN5QlFvUy1oWGZkMDkyREkyQS1xc1MwaDVZZlBzZ1haOUFkS1I5emlKQ25ySGxadWw1cDRhQ1BaTkd1NW8tdmNMSU4tMWwteC12RWlBR1c0NUVyM2V1Nm9pUk96TzdyT0JUek1zX0t1MllxQzJfdjNPbHFiTDNwQzhaTDhnbTFWTdIB2gFBVV95cUxNZDNveERNbVhKZnVsaGg0dWt4VFE1WUQxNEZwUS01Zk41LVZSSTBqc2NfeWxzdlFDY3ZnWTR2ZmFNYkRrWXVoZnZGeGNoOUkzb2NqZHdoeXNfODVQQXhGdHRsNURFU29pV1U4X3ZPbnh6ajRJLXotYWVWSWJONFhIdHFsOEpSTXRlOTE2NGY4WVlmV3k1WFh3d0pleUdwaC1kRFEyYU1vcGxlelB5ZVhDSjN2elJyN1BtdXgxNXFhMlhldEJ5c01MNTk3VmtqMDUtOWNUM0ZndF9qQQ?oc=5": {
       "title": "Crise de combustível na Rússia provoca corrida por carros elétricos da China - Valor Econômico",
@@ -4327,7 +4233,7 @@
       "source": "",
       "added_at": "2026-07-03T18:24:41.371694",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmcxbDRZTFUwSENUYnFOMmJQdjNabV9jVnhzdnRIQVAxMVBaZC1GVXc3X1dTTXlpcDJhVXFyV2VyUk5Ka3dnRVAzQjg3bGpGa2wwUEJyeDZ3R2pxSDdSd3pPM2hSa1VKZDV1d1p4bHF6SmNTdURMa3Q1NWI0ejc2eTZoMHVrbEVKV0ZoaVJtenRGV0I4YUFoUTJBbmdtaHhfeFNNY0dCUDJGSG16bFRPdDJNbDFQU0hJVV9HcTFkc1BYdG0yUUp0dDZ4cGNTZ9IBzgFBVV95cUxOZmcxbDRZTFUwSENUYnFOMmJQdjNabV9jVnhzdnRIQVAxMVBaZC1GVXc3X1dTTXlpcDJhVXFyV2VyUk5Ka3dnRVAzQjg3bGpGa2wwUEJyeDZ3R2pxSDdSd3pPM2hSa1VKZDV1d1p4bHF6SmNTdURMa3Q1NWI0ejc2eTZoMHVrbEVKV0ZoaVJtenRGV0I4YUFoUTJBbmdtaHhfeFNNY0dCUDJGSG16bFRPdDJNbDFQU0hJVV9HcTFkc1BYdG0yUUp0dDZ4cGNTZw?oc=5": {
       "title": "Ativos de transmissão de energia não construídos voltam a leilão - Valor Econômico",
@@ -4343,7 +4249,7 @@
       "source": "",
       "added_at": "2026-07-03T18:24:41.372218",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3JVaUxyVEl5NmF4VEwwODd5QXhUMU1xYWtfVHhZWUxSVm9PRzFTV1I1dnAxcEVYelNtUGJNZVJvQmJQdGF5bXN2UHBrZ3BJX2VuYzBzTkdhTjRyYWhhN3ktR3NsM29XNlM1dzRJQjlreUlMZmxTdlRtZ2d0Y2t6SDdKcnZNdHZ3dDhHQTZPdG9LbVNGUWJSVnYzTHl5bFhTZk1VYUxtNnlhZUJnOEE?oc=5": {
       "title": "Leilão de baterias já traz movimentações por conteúdo local - CanalEnergia",
@@ -4351,7 +4257,7 @@
       "source": "",
       "added_at": "2026-07-03T20:02:27.205727",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc19kZU5mOFZNUlZHdjR3bDhOLW96N3VVVXpOZEpReFYtNlQ5Sm9aYWtiZWR4ZTR1Yks4b2g0Qkl2VE1HUy1jeW9BQ1RkR2EwZl9xeFNWNDhrVVhfTjY0ZHM1RnZkbTl3c21ic2l5REhHaDdTWGRtR1pvZFFfYVNOQld6a1dHMXNFVU9iTzhNX2lrb0pDdTNmbUNTRFhXNEwxZ2c5VUZWUE0?oc=5": {
       "title": "Axia acredita que LRCAP de baterias pode ser aprimorado - CanalEnergia",
@@ -4359,7 +4265,7 @@
       "source": "",
       "added_at": "2026-07-03T20:02:28.855069",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkxMVlE2MmhOeE0zRnhzbzZvZUIxTUxJUGtLaktacDBDeXNXYzRPcURDTXZNVWtBUjZVbXFfUlNCUHJudUtOZUlMZl9KbmYxYmktMWdRZVdzNVJZTVc0X05BSVhFcEJ5ZDR6dUk4LVV2NDQ0V2NnODM2RW9Oa3hCaXBORk8xaXUyU1NibGxhZ19yeHd5anNlaDctcjRlY1dJLW40LUxFZmFjQQ?oc=5": {
       "title": "ONS: Níveis dos reservatórios no Sul sobem e chegam a 71,2% - CanalEnergia",
@@ -4367,7 +4273,7 @@
       "source": "",
       "added_at": "2026-07-03T20:02:30.487278",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOUtmVTFRamVQdlBaMzZMN2pDTFNyTmhmNEw2cUdSTFlFWVlGdmZaN3NfQjJsdTNWM194SE1TblFIVWNJMjJXTl9SRnAwWU5wYnJVVUx1Y2xkWjVBaFdIZmJXUUZFRmVrMGh6cEZ3QTl2MzNYWjloUmJvOXNMZU5ja282MHVMY2pCREYwS3BlUWluRXZ1ZnRPeW5vaVN5dzljOGMwOTdiMVpmcFp3Y1BQc2J4RjJnZndxcVNzamh1NUFCU1BaS2YzZWF3SFp5b3dMbW1rdU9uamdkVlZsRm9JNzBBNWQ4UFRGR1HSAfgBQVVfeXFMTlpZaHJWanFYRm5QMnV2WmFOZEZvanpDdjB6ZVR5UnhLY2plYUMwaE5yczI0bGRvaUgwUlQzaGVRUkE0S3BlLUxXNW11bkhPZ0lYR2NSb0NkUHN4SGs5bXB2OXVEUnRBR3BtQl80R3B2MUMzZGxOM0dfWnpRTEhjaGNEbUktUTBhaE1BTTlkOUhGeV9lNXloSXV1OHgtOHdPTG5ELVBLQ3pLd2ZSYVlVcjdIb3prQkg5dzQ2anBzaWhJMmtzbGxqUXlWSV9nT1hlSVBPbUNkcWRNSHE2WU5Qem9RRXd2NTdIZ1lIakFOeWJtRmxSOFJoQU4?oc=5": {
       "title": "Petrobras usa combustível com 30% de conteúdo renovável para abastecer navio da Transpetro - Valor Econômico",
@@ -4375,15 +4281,15 @@
       "source": "",
       "added_at": "2026-07-03T20:03:03.398736",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQekhrdDBJTWhGdlB3Q2p5N2h3Q19XQ05XOXpHNjN3MldWOUozal9qSjBGYnhtNGQ1TzMzek43RFhXclNLTUFkTnBSeEJXelUzd2w3V2JXQURyNzBSRGpoRHdPdDNKSEVrY1R5NTBicWpYVzMwbVhNTmxvcWdzbTR1WWk3YTFlQV90Qm5ES1ZkVjRsS2NBOENWOVl5bUhtQ0lUSl92TlBhRkVlTWd4d0hScm1CQTRNeENUa2RuclB3X0oxWGQ1Qlkzblp6SzlQQjF0Q0w2QkRQb0lUaUEzS3poQXRBSlEyc2PSAfYBQVVfeXFMUGtydVdEejU1eVNGQ3htMzB3aHk0WXlVRmMxQ1RWVDAwUkhYelQ5dml4TENKOHg3VjRneUN2ejNpMlY2SUM2Q1hpXzZYOUJ4SnhkUjVoS0tnRS11OXBPYlc2RUVuZkpVRmUxZmEwMktDRnYwLVprNWxKdFJ2cThGcnBiQUhmeUo5SE1TeGtWZ2NVOGV4OHB4b2Uyd05zTGdPd0lydVhLVXZ0d2kxbkFZYjIzd0ZwTzVIRnl0ejJ3UThBVFp3c01UaDJMVm9YUFZzckRrRzJqdzFha3dpaURLMXAweU5vZmY4dkZ5S181MnlhSGZOSHpn?oc=5": {
       "title": "Axia Energia e Alupar vencem leilão de transmissão, que tem deságio médio de 53,2% - Valor Econômico",
-      "summary": "Axia Energia e Alupar vencem leilão de transmissão, que tem deságio médio de 53,2% O maior ativo, no entanto, foi vencido pelo Consórcio Olympus XX, formado pela Alupar e pela Infra 2 Investment, da Perfin A Axia Energia, antiga Eletrobras, ficou com três dos quatro lotes do leilão de transmissão encerrado nesta sexta-feira na B3, em São Paulo. O maior ativo, no entanto, foi vencido pelo…",
+      "summary": "Axia Energia e Alupar vencem leilão de transmissão, que tem deságio médio de 53,2% Maior ativo foi vencido pelo Consórcio Olympus XX, formado pela Alupar e pela Infra 2 Investment, da Perfin A Axia Energia, antiga Eletrobras, ficou com três dos quatro lotes do leilão de transmissão realizado nesta sexta-feira na B3, em São Paulo. O maior ativo, no entanto, foi vencido pelo Consórcio Olympus XX…",
       "source": "",
       "added_at": "2026-07-03T20:03:03.398929",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1dRbXVGUDc1eWFQRGJCeHpaQTJCaWp1TG1iMXFkWkJPbDIyYzVnaGxqSFBYMTBZemcxZ0piaXVBaF9iT3gxeUF1U1JTc1pldXNKdGotZ0FNSGVFN0trVjdfbGZZMjRzb2lOaVdxQ3FrSHc4dEt4ZUxicjFaZVFKVG5lLWFsVS1PV0NyQ2E1VV9CeHo1c2RNSzlVanVrREp2X0c3bklRb294YUnSAbABQVVfeXFMUF91RXFvbTBTX0pQWUsteVNMUkdqVEoyLVAzVTBSeDRyV1N0S3JVOW9teXB5Q3VRODhKOGtFRFZOUFNXUEFvcVdaSjJfRHNOWmVQVm1sUjg5MGRsbmVqMVozNDBhd0h1cjgwOC1YN1RBMGJjTEloRFhfS3p5UVpUS0QxaEoxcGNvc3hsQmxoR3FJTU5LOHRaZWhnTjR0alJnUlJkRGZxRWZtRFZwZ2k4NFY?oc=5": {
       "title": "Três situações que podem provocar incêndios em carros elétricos - Estadão",
@@ -4391,13 +4297,37 @@
       "source": "",
       "added_at": "2026-07-03T20:03:03.399493",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdElwMk1VVWFzQWRMUDFyaEZVN2l4S1hOWjl1SExCMlR6bjU5RE5JaWxzTUE0MzF3R25jalRld3VVTEp1MklRalBORnMzU2otcm51N1duVDBmTFktSUV1MzNBa3hnNHNYN1VORkh4OHBiaEhSaUEwbHpxb1FJM3NmaE5pbjRIR1k1N1lpcy1aaVBleEpPb0tic0ZtN1NxRUpWRDc5eW1fRQ?oc=5": {
       "title": "Leilão de transmissão tem deságios de até 59% e Axia como grande vencedora - Agência iNFRA",
       "summary": "Geraldo Campos Jr., da Agência iNFRA A segunda etapa do leilão de transmissão de energia de 1/2026, realizada nesta sexta-feira (3) pela ANEEL (Agência Nacional de Energia Elétrica), teve a Axia Energia (antiga Eletrobras) como grande vencedora. A companhia arrematou três dos quatro lotes em disputa.",
       "source": "",
       "added_at": "2026-07-03T20:03:49.708077",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXlDSW1XczZWZlRtVnp2RnoyMmRBdFFZUHBRaG1NVUItUVE5SUNPbW1TTEpXazZfNG16aG51bVF6aW43WEpYcEFBV0M0TjhISHZ3dUtnV1U1YUNteGpPd0lHQXByRjcySzZjYmxEd29jbU1Bc1lLREstaFBFVWtoWFRDdzBjaV9Jd3VZaVM3TW1hZjN6WnN5UDhSWGU3MVVOR0lPR0wydjBhZw?oc=5": {
+      "title": "Carga no SIN terá crescimento de 1,7% em julho, segundo ONS - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T21:21:36.803056",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0FtbFcyZHNMSjh4QmNfSkhVdEcwZ2FVRnZ5YjdkLWotdC1BZ1lfbFh1NTVlTFU3RWpoVlJFNDhpNFZEVXUyNldMalVXajJHMFl0dEdDZG5JcE5hOVdURWtqMWR4VnoyZlE5WENqa2I1MnlvZ0RIeVNhanRLRXlFaXZDMVJtWm5iOFZFWEF5c1hXVjlySmc3ZXc5NXYtcHdDZ0hnaFRSRW5nYlY5Q0hWbGNVN2RaZ1BCdExwS2wzQWpzclNxQkhtQV9LWE1WakpxN1hHQnNkNHk3bTBQeTFNTXBHNA?oc=5": {
+      "title": "Axia (ex-Eletrobras) e consórcio da Alupar vencem relicitação de projetos de transmissão de energia - Folha de S.Paulo",
+      "summary": "O consórcio Olympus, da Alupar, e a Axia Energia (ex-Eletrobras) foram os vencedores dos quatro projetos de transmissão de energia elétrica relicitados pelo governo em leilão nesta sexta-feira (3). Os projetos totalizam R$ 1,8 bilhão em investimentos totais para obras de reforço da rede elétrica em São Paulo, Mato Grosso e Mato Grosso do Sul.",
+      "source": "",
+      "added_at": "2026-07-03T21:22:47.464091",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTElISXN3UmdwSzZRUzBGS3RkZWEwNXNwOG1XMVdlMzdsZ1FxNjQ5YUdacEtOSF9MU1JXWW9FTVoxS1ZGOVVVbjFmcXdKbTZhYXFsbjNIdng3U0pfU2o3dmlNWFE5S0d0YmdGSGpWZFN6LUR4TklPdXV4aW5idG93V3FxNkpGcVFrVEJOWmw0by1iQQ?oc=5": {
+      "title": "MME destina R$ 20,3 mi à PF para combate à mineração ilegal - Agência iNFRA",
+      "summary": "da Agência iNFRA O MME (Ministério de Minas e Energia) e a Polícia Federal assinaram um acordo de cooperação técnica que viabiliza investimentos de R$ 20,3 milhões no combate à mineração ilegal na Bacia do Rio Doce. Os recursos são provenientes do Novo Acordo do Rio Doce, firmado para reparar os danos causados pelo rompimento da barragem de Fundão, em Mariana (MG).",
+      "source": "",
+      "added_at": "2026-07-03T21:23:46.245843",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
