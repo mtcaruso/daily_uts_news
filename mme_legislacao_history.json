@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T23:31:03.017130",
+  "last_updated": "2026-07-03T15:26:40.032046",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3228,6 +3228,45 @@
       "summary": "Aprova o **Plano Decenal de Expansão de Energia 2035 (PDE 2035)**.",
       "added_at": "2026-07-02T15:31:11.175555",
       "summarized_at": "2026-07-02T23:31:02.516852"
+    },
+    "portarias_portaria-gm-mme-n-61-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-61-2026",
+      "title": "Portaria GM/MME nº 61/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-61-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-61-2026.pdf",
+      "date_modified": "03/07/2026",
+      "ementa": "Designa HUDSON SOUZA GOMIDES, matrícula SIAPE nº 1534977, para exercer o encargo de substituto do Coordenador de Projeto do Gabinete da Secretaria Nacional de Transição Energética e Planejamento, código CCE 3.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo.",
+      "summary": "Designa **HUDSON SOUZA GOMIDES** para substituir o Coordenador de Projeto da Secretaria Nacional de Transição Energética e Planejamento.",
+      "added_at": "2026-07-03T15:26:02.240179",
+      "summarized_at": "2026-07-03T15:26:27.484921"
+    },
+    "portarias_portaria-mme-n-93-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-93-2026",
+      "title": "Portaria MME nº 93/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-93-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-93-2026.pdf",
+      "date_modified": "03/07/2026",
+      "ementa": "Dispensa LORENA MELO SILVA PERIM, matrícula SIAPE nº 4974664, do encargo de substituta eventual do Secretário Nacional de Transição Energética e Planejamento, código CCE 1.17.",
+      "summary": "Dispensa **LORENA MELO SILVA PERIM** do encargo de substituta eventual do Secretário Nacional de Transição Energética e Planejamento.",
+      "added_at": "2026-07-03T15:26:02.240179",
+      "summarized_at": "2026-07-03T15:26:34.338641"
+    },
+    "portarias_portaria-mme-n-94-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-94-2026",
+      "title": "Portaria MME nº 94/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-94-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-94-2026.pdf",
+      "date_modified": "03/07/2026",
+      "ementa": "Designa GUILHERME ZANETTI ROSA, matrícula SIAPE nº 1799234, para exercer o encargo de substituto do Secretário Nacional de Transição Energética e Planejamento, código CCE 1.17, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo.",
+      "summary": "Designa **GUILHERME ZANETTI ROSA** (matrícula **1799234**) como substituto do Secretário Nacional de Transição Energética e Planejamento.",
+      "added_at": "2026-07-03T15:26:02.240179",
+      "summarized_at": "2026-07-03T15:26:39.531710"
     }
   },
   "first_run_done": true
