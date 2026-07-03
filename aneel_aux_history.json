@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:42:40.730420",
+  "last_updated": "2026-07-03T21:20:35.830325",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1278,6 +1278,182 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/lote-7-do-leilao-de-transmissao-no-1-2026-e-do-consorcio-olympus-xx",
       "summary": "O **Consórcio Olympus XX** (formado por **Alupar** e **Infra 2 Investment**) arrematou o Lote 7 do Leilão de Transmissão nº 1/2026 da **ANEEL** por **R$ 96,7 milhões**, com deságio de 52%. As obras, que incluem linhas de transmissão subterrâneas em **São Paulo**, têm investimento estimado de **R$ 1,08 bilhão** e prazo de conclusão de **60 meses**.",
       "added_at": "2026-07-03T19:42:40.230184"
+    },
+    "noticia_2024_aneel-abre-tomada-de-subsidios-sobre-sandboxes-tarifarios": {
+      "type": "noticia",
+      "title": "ANEEL abre tomada de subsídios sobre Sandboxes Tarifários",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-abre-tomada-de-subsidios-sobre-sandboxes-tarifarios",
+      "summary": "A **ANEEL** abriu uma tomada de subsídios para discutir a regulamentação de **Sandboxes Tarifários**, permitindo a experimentação de novos modelos de negócio e tarifas no setor elétrico. O processo visa coletar contribuições de **distribuidoras**, **geradoras**, **transmissoras** e outros agentes do setor até **29 de maio de 2024**.",
+      "added_at": "2026-07-03T21:17:45.151921"
+    },
+    "noticia_2024_ano-novo-se-inicia-com-bandeira-tarifaria-verde": {
+      "type": "noticia",
+      "title": "Ano novo se inicia com bandeira tarifária verde",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/ano-novo-se-inicia-com-bandeira-tarifaria-verde",
+      "summary": "A **ANEEL** anunciou a manutenção da **bandeira tarifária verde** para janeiro de 2024, sem custo adicional para os consumidores. Isso indica condições favoráveis de geração de energia em todo o país.",
+      "added_at": "2026-07-03T21:17:50.081616"
+    },
+    "noticia_2024_segunda-fase-de-tomada-de-subsidios-sobre-decreto-para-regulamentar-licitacao-e-prorrogacao-de-concessoes-de-transmissao-esta-aberta": {
+      "type": "noticia",
+      "title": "Aberta segunda fase de TS sobre decreto para regulamentar licitação e prorrogação de concessões de transmissão",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/segunda-fase-de-tomada-de-subsidios-sobre-decreto-para-regulamentar-licitacao-e-prorrogacao-de-concessoes-de-transmissao-esta-aberta",
+      "summary": "A **ANEEL** abriu a segunda fase de consulta pública sobre o decreto que regulamenta licitações e prorrogações de concessões de transmissão de energia. O objetivo é definir regras para o setor, com foco em **novos leilões** e a continuidade de contratos existentes.",
+      "added_at": "2026-07-03T21:17:55.253800"
+    },
+    "noticia_2024_subestacao-macapa-iii-entra-em-operacao-e-reforca-atendimento-ao-estado-do-amapa": {
+      "type": "noticia",
+      "title": "Subestação Macapá III entra em operação e reforça atendimento ao Estado do Amapá",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/subestacao-macapa-iii-entra-em-operacao-e-reforca-atendimento-ao-estado-do-amapa",
+      "summary": "A **ANEEL** autorizou a entrada em operação comercial da **Subestação Macapá III**, da **LISA Energia**, reforçando o atendimento no **Estado do Amapá**. A medida visa aprimorar a qualidade e confiabilidade do fornecimento de energia.",
+      "added_at": "2026-07-03T21:18:06.311496"
+    },
+    "noticia_2024_sistema-de-protocolo-digital-sera-desativado-para-implantacao-do-sei-na-aneel": {
+      "type": "noticia",
+      "title": "Sistema de Protocolo Digital será desativado para implantação do SEI na ANEEL",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/sistema-de-protocolo-digital-sera-desativado-para-implantacao-do-sei-na-aneel",
+      "summary": "A **ANEEL** desativará seu Sistema de Protocolo Digital em **30 de junho de 2024** para migrar para o Sistema Eletrônico de Informações (SEI). A mudança visa modernizar a gestão de documentos e processos internos.",
+      "added_at": "2026-07-03T21:18:11.397359"
+    },
+    "noticia_2024_prorrogado-o-prazo-de-contribuicoes-a-consulta-publica-que-trata-da-consolidacao-do-estoque-regulatorio": {
+      "type": "noticia",
+      "title": "Prorrogado o prazo de contribuições à Consulta Pública que trata da consolidação do estoque regulatório",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/prorrogado-o-prazo-de-contribuicoes-a-consulta-publica-que-trata-da-consolidacao-do-estoque-regulatorio",
+      "summary": "A **ANEEL** prorrogou o prazo para contribuições à Consulta Pública sobre a consolidação do estoque regulatório. O novo prazo para envio de manifestações é **15 de maio de 2024**.",
+      "added_at": "2026-07-03T21:18:16.358718"
+    },
+    "noticia_2024_fiscalizacao-da-aneel-alerta-empresas-para-atendimento-a-ocorrencias-emergenciais-nas-datas-festivas-e-periodo-chuvoso": {
+      "type": "noticia",
+      "title": "Fiscalização da ANEEL alerta empresas para atendimento a ocorrências emergenciais nas datas festivas e período chuvoso",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/fiscalizacao-da-aneel-alerta-empresas-para-atendimento-a-ocorrencias-emergenciais-nas-datas-festivas-e-periodo-chuvoso",
+      "summary": "A **ANEEL** alertou distribuidoras de energia sobre a necessidade de atendimento emergencial durante festas e chuvas. O foco é garantir a qualidade do serviço e a rápida normalização em caso de falhas.",
+      "added_at": "2026-07-03T21:18:27.884771"
+    },
+    "noticia_2024_orcamento-do-ons-para-o-trienio-2025-a-2027-e-aprovado-pela-aneel": {
+      "type": "noticia",
+      "title": "Orçamento do ONS para o triênio 2025 a 2027 é aprovado pela ANEEL",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/orcamento-do-ons-para-o-trienio-2025-a-2027-e-aprovado-pela-aneel",
+      "summary": "A **ANEEL** aprovou o orçamento do **ONS** para o triênio **2025-2027**, no valor de **R$ 1,2 bilhão**. A decisão impacta o planejamento e a operação do Sistema Interligado Nacional (SIN) no período.",
+      "added_at": "2026-07-03T21:18:32.900085"
+    },
+    "noticia_2024_aneel-abre-tomada-de-subsidios-sobre-validacao-de-nova-versao-do-modelo-dessem": {
+      "type": "noticia",
+      "title": "ANEEL abre Tomada de Subsídios sobre validação de nova versão do modelo DESSEM",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-abre-tomada-de-subsidios-sobre-validacao-de-nova-versao-do-modelo-dessem",
+      "summary": "A **ANEEL** abriu tomada de subsídios para validar nova versão do modelo **DESSEM**, ferramenta crucial para o planejamento da expansão da geração e transmissão de energia. A consulta pública visa coletar contribuições de agentes do setor, como **empresas de geração e transmissão**, até **20 de maio**.",
+      "added_at": "2026-07-03T21:18:38.351672"
+    },
+    "noticia_2024_aneel-aprova-projeto-para-recuperacao-de-instituicoes-de-saude-afetadas-pelas-enchentes-no-rs": {
+      "type": "noticia",
+      "title": "ANEEL aprova projeto para recuperação de instituições de saúde afetadas pelas enchentes no RS",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-aprova-projeto-para-recuperacao-de-instituicoes-de-saude-afetadas-pelas-enchentes-no-rs",
+      "summary": "A **ANEEL** aprovou um projeto para **recuperar instituições de saúde no RS** afetadas pelas enchentes. O projeto prevê a destinação de **R$ 10 milhões** para a **CEEE Equatorial** e a **RGE** executarem as obras.",
+      "added_at": "2026-07-03T21:18:49.066090"
+    },
+    "noticia_2024_aneel-define-tarifas-de-energia-de-otimizacao-de-servicos-ancilares-e-pld-para-2025": {
+      "type": "noticia",
+      "title": "ANEEL define Tarifas de Energia de Otimização, de Serviços Ancilares e PLD para 2025",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-define-tarifas-de-energia-de-otimizacao-de-servicos-ancilares-e-pld-para-2025",
+      "summary": "A **ANEEL** definiu as tarifas de energia de otimização, serviços ancilares e o **PLD** para 2025, impactando o setor elétrico brasileiro. Os valores e prazos específicos serão divulgados posteriormente, mas a decisão visa otimizar a operação do sistema.",
+      "added_at": "2026-07-03T21:18:54.262496"
+    },
+    "noticia_2024_sei-sistema-de-processo-administrativo-sera-adotado-na-aneel-a-partir-de-janeiro": {
+      "type": "noticia",
+      "title": "SEI! Sistema de processo administrativo será adotado na ANEEL a partir de janeiro",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/sei-sistema-de-processo-administrativo-sera-adotado-na-aneel-a-partir-de-janeiro",
+      "summary": "A **ANEEL** adotará o Sistema Eletrônico de Informações (SEI!) a partir de **janeiro de 2024** para todos os seus processos administrativos. A mudança visa modernizar a gestão e otimizar o fluxo de trabalho interno.",
+      "added_at": "2026-07-03T21:18:59.348030"
+    },
+    "noticia_2024_brasil-alcanca-novo-recorde-de-expansao-da-geracao": {
+      "type": "noticia",
+      "title": "Brasil alcança novo recorde de expansão da geração",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/brasil-alcanca-novo-recorde-de-expansao-da-geracao",
+      "summary": "A **ANEEL** anunciou que o Brasil atingiu um novo recorde de expansão da geração de energia, com **1.171 MW** adicionados em **junho de 2024**. O destaque foi para a geração distribuída solar fotovoltaica, que respondeu por grande parte dessa expansão.",
+      "added_at": "2026-07-03T21:19:09.929242"
+    },
+    "noticia_2024_eventos-climaticos-severos-e-o-segmento-de-distribuicao-confira-como-foi-o-workshop-do-pdi-que-trata-do-tema": {
+      "type": "noticia",
+      "title": "Eventos climáticos severos e o segmento de distribuição: Confira como foi o workshop do PDI que trata do tema",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/eventos-climaticos-severos-e-o-segmento-de-distribuicao-confira-como-foi-o-workshop-do-pdi-que-trata-do-tema",
+      "summary": "A **ANEEL** realizou um workshop focado em eventos climáticos severos no segmento de distribuição, com a participação de distribuidoras, agentes do setor e especialistas. O objetivo foi discutir o Programa de Desenvolvimento da Distribuição (PDI) e aprimorar a resiliência da rede elétrica.",
+      "added_at": "2026-07-03T21:19:15.037170"
+    },
+    "noticia_2024_aneel-sedia-workshop-sobre-ferramenta-desenvolvida-em-projeto-de-pdi-para-calculo-das-tust-e-tusdg": {
+      "type": "noticia",
+      "title": "ANEEL sedia workshop sobre ferramenta desenvolvida em projeto de PDI para cálculo das TUST e TUSDg",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-sedia-workshop-sobre-ferramenta-desenvolvida-em-projeto-de-pdi-para-calculo-das-tust-e-tusdg",
+      "summary": "A **ANEEL** sediou um workshop sobre uma nova ferramenta de PDI para cálculo das **TUST** e **TUSDg**. O evento reuniu **distribuidoras de energia elétrica** e outros agentes do setor para discutir a aplicação da ferramenta.",
+      "added_at": "2026-07-03T21:19:26.027093"
+    },
+    "noticia_2024_agencia-avanca-nas-fiscalizacoes-decorrentes-de-ocorrencia-no-sistema-interligado-nacional": {
+      "type": "noticia",
+      "title": "Agência avança nas fiscalizações sobre ocorrência no Sistema Interligado Nacional",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/agencia-avanca-nas-fiscalizacoes-decorrentes-de-ocorrencia-no-sistema-interligado-nacional",
+      "summary": "A **ANEEL** iniciou fiscalizações sobre a ocorrência no Sistema Interligado Nacional, envolvendo as empresas distribuidoras e o **Operador Nacional do Sistema Elétrico (ONS)**. O objetivo é apurar responsabilidades e garantir a segurança do fornecimento de energia.",
+      "added_at": "2026-07-03T21:19:31.121298"
+    },
+    "noticia_2024_aneel-integra-debate-internacional-sobre-severidade-climatica-e-seus-impactos-na-rede-eletrica": {
+      "type": "noticia",
+      "title": "ANEEL integra debate internacional sobre severidade climática e seus impactos na rede elétrica",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-integra-debate-internacional-sobre-severidade-climatica-e-seus-impactos-na-rede-eletrica",
+      "summary": "A **ANEEL** participou de debate internacional sobre severidade climática e seus impactos na rede elétrica, buscando soluções para a resiliência do setor. O evento reuniu especialistas e representantes de diversos países para discutir estratégias e compartilhar experiências.",
+      "added_at": "2026-07-03T21:19:36.233548"
+    },
+    "noticia_2024_agencia-abre-nova-fase-de-debates-sobre-regulacao-para-o-armazenamento-de-energia": {
+      "type": "noticia",
+      "title": "Agência abre nova fase de debates sobre regulação para o armazenamento de energia",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/agencia-abre-nova-fase-de-debates-sobre-regulacao-para-o-armazenamento-de-energia",
+      "summary": "A **ANEEL** abriu consulta pública para debater a regulação do armazenamento de energia, buscando contribuições de agentes do setor até **15 de maio**. O objetivo é definir regras para a participação de **usinas de armazenamento** no mercado, impactando **distribuidoras** e **geradoras**.",
+      "added_at": "2026-07-03T21:19:41.442658"
+    },
+    "noticia_2024_orcamento-da-cde-2025-previsto-em-r-40-6-bilhoes-entra-em-consulta-publica": {
+      "type": "noticia",
+      "title": "Orçamento da CDE 2025, previsto em R$ 40,6 bilhões, entra em consulta pública",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/orcamento-da-cde-2025-previsto-em-r-40-6-bilhoes-entra-em-consulta-publica",
+      "summary": "A **ANEEL** abriu consulta pública para o orçamento de **R$ 40,6 bilhões** da **CDE** em 2025. O objetivo é coletar subsídios da sociedade e do setor elétrico para a definição final dos recursos.",
+      "added_at": "2026-07-03T21:20:02.646936"
+    },
+    "noticia_2024_agencia-abre-3a-fase-de-consulta-sobre-criterios-para-reducao-de-geracao-no-sin": {
+      "type": "noticia",
+      "title": "Agência abre 3ª fase de Consulta sobre critérios para redução de geração no SIN",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/agencia-abre-3a-fase-de-consulta-sobre-criterios-para-reducao-de-geracao-no-sin",
+      "summary": "A **ANEEL** abriu a 3ª fase de consulta pública sobre critérios para redução de geração no Sistema Interligado Nacional (SIN). O objetivo é aprimorar as regras para a gestão de recursos de geração, visando maior eficiência e segurança do sistema.",
+      "added_at": "2026-07-03T21:20:07.743290"
+    },
+    "noticia_2024_aneel-aprova-prorrogacao-temporaria-da-tarifa-de-repasse-de-energia-da-itaipu-para-2025": {
+      "type": "noticia",
+      "title": "ANEEL aprova prorrogação temporária da tarifa de repasse de energia da Itaipu para 2025",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-aprova-prorrogacao-temporaria-da-tarifa-de-repasse-de-energia-da-itaipu-para-2025",
+      "summary": "A **ANEEL** aprovou a prorrogação temporária da tarifa de repasse de energia da **Itaipu Binacional** para **2025**. A decisão afeta as distribuidoras de energia que compram energia da usina.",
+      "added_at": "2026-07-03T21:20:12.878969"
+    },
+    "noticia_2024_regras-relacionadas-a-comercializacao-varejista-de-energia-eletrica-sao-aprimoradas": {
+      "type": "noticia",
+      "title": "Regras relacionadas à comercialização varejista de energia elétrica são aprimoradas",
+      "date": null,
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/regras-relacionadas-a-comercializacao-varejista-de-energia-eletrica-sao-aprimoradas",
+      "summary": "A **ANEEL** aprimorou as regras de comercialização varejista de energia elétrica, impactando **distribuidoras** e **comercializadoras**. As mudanças visam maior transparência e segurança para os consumidores, com foco em contratos e informações claras.",
+      "added_at": "2026-07-03T21:20:35.330054"
     }
   }
 }
