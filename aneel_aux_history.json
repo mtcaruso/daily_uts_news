@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T17:42:13.582107",
+  "last_updated": "2026-07-03T19:42:40.730420",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1238,6 +1238,46 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/projeto-radar-da-aneel-fortalece-monitoramento-e-gestao-das-interrupcoes-de-energia-no-brasil",
       "summary": "A **ANEEL** lançou o Projeto Radar para monitorar interrupções de energia em todo o Brasil, integrando dados climáticos. As distribuidoras têm até **janeiro de 2026** para se adaptar ao sistema.",
       "added_at": "2026-07-02T19:45:38.543119"
+    },
+    "noticia_2026_leilao-de-transmissao-no1-2026-os-quatros-ultimos-lotes-sao-arrematados-com-economia-de-r-4-2-bilhoes-para-os-consumidores": {
+      "type": "noticia",
+      "title": "Leilão de Transmissão nº 1/2026: os quatros últimos lotes são arrematados com economia de R$ 4,2 bilhões para os consumidores",
+      "date": "03/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no1-2026-os-quatros-ultimos-lotes-sao-arrematados-com-economia-de-r-4-2-bilhoes-para-os-consumidores",
+      "summary": "A **ANEEL** anunciou o leilão de transmissão nº 1/2026, onde os últimos quatro lotes foram arrematados com um deságio de **53,20%**, gerando uma economia de **R$ 4,2 bilhões** para os consumidores. Os empreendimentos, com investimento estimado de **R$ 1,8 bilhão**, estão localizados em **São Paulo, Mato Grosso e Mato Grosso do Sul** e terão contratos de **30 anos**.",
+      "added_at": "2026-07-03T19:42:12.421706"
+    },
+    "noticia_2026_axia-energia-sul-s-a-arremata-lote-8-do-leilao-de-transmissao": {
+      "type": "noticia",
+      "title": "Axia Energia Sul S.A arremata lote 8 do leilão de transmissão",
+      "date": "03/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/axia-energia-sul-s-a-arremata-lote-8-do-leilao-de-transmissao",
+      "summary": "A **Axia Energia Sul S.A** arrematou o lote 8 do leilão de transmissão da **ANEEL** por **R$ 10,8 milhões**, com deságio de 59,04%. O projeto, que visa atender o **Mato Grosso do Sul**, tem investimento estimado de **R$ 150,7 milhões** e prazo de conclusão de **42 meses**.",
+      "added_at": "2026-07-03T19:42:17.930434"
+    },
+    "noticia_2026_axia-energia-sul-s-a-arremata-o-lote-9-do-leilao-de-transmissao-no-1-2026": {
+      "type": "noticia",
+      "title": "Axia Energia Sul S.A arremata o lote 9 do Leilão de Transmissão nº 1/2026",
+      "date": "03/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/axia-energia-sul-s-a-arremata-o-lote-9-do-leilao-de-transmissao-no-1-2026",
+      "summary": "A **Axia Energia Sul S.A** arrematou o lote 9 do Leilão de Transmissão nº 1/2026, com investimento estimado de **R$ 224,5 milhões**. A obra, localizada em São Paulo, tem prazo de construção de 42 meses e visa atender a região industrial de Mairiporã, Jaguari e São José dos Campos.",
+      "added_at": "2026-07-03T19:42:29.731465"
+    },
+    "noticia_2026_axia-energia-sul-s-a-e-a-vencedora-do-lote-10-do-leilao-de-transmissao": {
+      "type": "noticia",
+      "title": "Axia Energia Sul S.A é a vencedora do Lote 10 do Leilão de Transmissão",
+      "date": "03/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/axia-energia-sul-s-a-e-a-vencedora-do-lote-10-do-leilao-de-transmissao",
+      "summary": "A **Axia Energia Sul S.A.** venceu o Lote 10 do Leilão de Transmissão, que atende a região metropolitana de Cuiabá, Mato Grosso. A empresa ofertou um deságio de **51,84%** sobre a RAP, com investimento estimado de **R$ 292,7 milhões** e prazo de construção de **42 meses**.",
+      "added_at": "2026-07-03T19:42:34.939322"
+    },
+    "noticia_2026_lote-7-do-leilao-de-transmissao-no-1-2026-e-do-consorcio-olympus-xx": {
+      "type": "noticia",
+      "title": "Lote 7 do Leilão de Transmissão nº 1/2026 é do Consórcio Olympus XX",
+      "date": "03/07/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/lote-7-do-leilao-de-transmissao-no-1-2026-e-do-consorcio-olympus-xx",
+      "summary": "O **Consórcio Olympus XX** (formado por **Alupar** e **Infra 2 Investment**) arrematou o Lote 7 do Leilão de Transmissão nº 1/2026 da **ANEEL** por **R$ 96,7 milhões**, com deságio de 52%. As obras, que incluem linhas de transmissão subterrâneas em **São Paulo**, têm investimento estimado de **R$ 1,08 bilhão** e prazo de conclusão de **60 meses**.",
+      "added_at": "2026-07-03T19:42:40.230184"
     }
   }
 }
