@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-02T23:21:29.270072",
+  "last_updated": "2026-07-03T04:13:09.434917",
   "items": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Sak1UTGpQdUVUZ3dydlBraVpVMmU2Z0dNSFpxQTlWLTJvWUdRWFlyVnZ5d2xjaVFRalFWcjd3NU94aXdvZTZwUzQtS2Vya2RZSXd0U0ZTWXA?oc=5": {
-      "title": "Notícias - MegaWhat",
-      "summary": "Agentes do setor elétrico e de gás natural defendem maior diálogo e flexibilidade entre os mercados, especialmente com o crescimento das renováveis. A discussão ocorreu em **19 de junho** no Enase, no Rio de Janeiro, onde a **Equinor** destacou a importância contínua das usinas térmicas e a necessidade de recursos como estocagem de gás.",
-      "source": "",
-      "added_at": "2026-06-19T00:14:05.220171"
-    },
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUkZTWE1NNTQ1LWRkamRXQ3BjY01kQnZuTElFTVg4NzhlY3UyNkZoVEs4eHY2VEswc2xPeXJ0Vm5MdWJKRUdTbEZwY2FMaGY2aDJ0U1dHZFYyX2I5VzhJ?oc=5": {
-      "title": "Mercado Livre - MegaWhat",
-      "summary": "A energia eólica no Brasil tem potencial para gerar **200 mil empregos**, impulsionada por uma matriz energética já com mais de **80%** de fontes renováveis. O país se destaca globalmente nesse setor, segundo estudo da International Energy Agency.",
-      "source": "",
-      "added_at": "2026-06-19T00:14:05.220206"
-    },
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YNW1PQTBOclZSODFaV3lNWHc5NlhSMmJSVmlxOUsxRE14U1V3Q29ZaWVVTENtZnVnS082ajRkMGtFT3RVc2Z1ZUVqM20yRk5WMDBLbkx0TWRnYzNfdWlVbWZVNHpCUQ?oc=5": {
       "title": "Últimas Notícias - MegaWhat",
       "summary": "O príncipe herdeiro da Arábia Saudita, Mohammed bin Salman, afirmou que o reino está cumprindo promessas de compensar a perda de oferta de petróleo do Irã devido a sanções dos EUA. A Arábia Saudita está produzindo cerca de **10,7 milhões** de barris por dia.",
@@ -3759,7 +3747,7 @@
       "source": "",
       "added_at": "2026-07-02T12:20:55.584993",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHVTUEcwNngyWGNGclhheGg4VURRRUswdmprdTNtejBydmg1bW40VlNzV194OHowZG9Gb2NuZG5wcUlhZjE5R0lhb1VCN1RTSDNkNEtUdmE3eTdwdi1BalJESHVObDVLemRza3ZDS1BaLU1fLW9mc3hSYVRvcTFNSDJfVlZaYXdjdHlKY0EzRWtnR2tsQ25oNF83b0s3Y1V4c1Y3eE5McUEtU2stOThFQ3NxSm1nd29wcTFJX0I2b0E?oc=5": {
       "title": "Mineração no Brasil pode atrair até R$ 390 bi em investimentos, diz Aggreko - CanalEnergia",
@@ -3811,11 +3799,11 @@
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHJSUU1lY243QjlqclZfdGVtQ0J0b0xUOXBUWXNORS1jU0UtUl8xS0RzTllBLVhfazAyV0IybEFRNEJHUFlocWtiSVdiX3lDMWJSSkc2QU50WUNzQW1rc0tmdEhwUVJNZG5YUDNWUjJ5dTJ1RFZBdzI5ck5BVGFSY3otcHpaOGpKanh4WEF6SUZFWVNjV3lsbEtrSUpnOFdRTnJEWWtucmRFWWJjbF9mdWFhYmVzeUl0MUNpZnR3?oc=5": {
       "title": "CMSE prevê térmicas e Itaipu como reforço para potência em cenários de maior demanda - MegaWhat",
-      "summary": "O Comitê de Monitoramento do Setor Elétrico (CMSE) avaliou que as condições de operação do sistema elétrico melhoraram no início do período seco, com recuperação dos reservatórios após chuvas em bacias relevantes para o Sistema Interligado Nacional (SIN), especialmente no Sul. Apesar do quadro mais favorável para o atendimento eletroenergético em 2026, o Operador Nacional do Sistema Elétrico…",
+      "summary": null,
       "source": "",
       "added_at": "2026-07-02T12:23:14.118657",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NeGRaR1A3NjZRSWZHcWFQUFp1ZmJTUFNRWjRFUE4zaTdFOHhEbEVtcVhZVFZxSXQ3bXd1TXBMZ25tSHV3MlNSQ2ZuYkpZSEpZV1FMYklYMUZMUQ?oc=5": {
       "title": "Regulação - MegaWhat",
@@ -4166,6 +4154,110 @@
       "summary": "O **BNB** afirma que há fundos disponíveis para expansão de renováveis no Ceará, mas gargalos técnicos de transmissão e armazenamento limitam o avanço. O banco já financia projetos de transmissão e oferece linhas de crédito para sistemas de baterias (BESS), com forte demanda de mercado, como demonstrado pela 'Chamada Nordeste' que captou **R$ 13 bilhões** contra **R$ 2 bilhões** previstos.",
       "source": "",
       "added_at": "2026-07-02T23:21:29.262319"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QaW5DcE0zeGRYS28zZDB1VGJzb1h2R21Ob0pscUNLWmJ5aE1oOGlQTDZZdHg1cEEtQ3lkYjdoSGhTLUo3Q1pZVWpWaXlOVWlEbWI2SE1lMXBfb3BmZFE?oc=5": {
+      "title": "Tag UHE Volta Grande - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:05:38.466479",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UNmxzbFVNdW9NRUVmVnIzV0VuNGV5ZDZTNExkTjZYZnlWQld2dE9fOXdPZ1NoQk4zVFh5WkVsOXZEcm51M2NEdHBhRDZRVWk5MnFfeEtaNlVrc0c0bjlYeEhDZmNSZVRxZUcxWGoyREpVbjBFXzNJ?oc=5": {
+      "title": "Redação, Autor em MegaWhat - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:06:13.073014",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcS05TEF5QUxjbUpITEFxY0dBenlna1NaUDNjVEg4M3kxOVJpZlZld09fQ0lQQ2NxcUtNenh3WVZCU2x3SXNsZEpyTjJSYU96Z2s5VG5VckhSMkZXeHZaM1NqekJuTk1zODFldGxRTnJzUTJmcUZrTW5SdDJvYVQ3RkI2MkZXR2pwVHZzT2I3UDJtZWdyVU5SX3EwRmMteGFfOGlabjR0NGw5bDBE?oc=5": {
+      "title": "Gasmig nomeia Marise Grinstein como diretora Administrativa - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:06:47.839772",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2FSSHZVbXJjOHB5TWJWYlMxU0JPMmg4RHItUkpuWU12Q09mVl95V3VfUUxwYjVkdXdZMWhIYnBnc1czMFAzYlRWMVBPZXo0VVdKaHllRXRFMkFyUUFsSWF4NTF4Q0FnNnViRFBOOVZoR2ZBMjkweXBaNkZaR0pHVUJSNHdCdHV2WDlCdU9GVjNIbWE5UFpVY2dVd2hzUQ?oc=5": {
+      "title": "Sete usinas do LRCap comprovam transporte de gás - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:07:22.464251",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1I0cEw0THljYzJfTGR3WjlwcS1PVGU4TFl0OHVaWE1mRUR6dUVuOXVBMU82MzVoeE9Nc2VrNHVXTGlsMWxhRUZLVHlhVmk5bGZrZmNiY2tlNGlGVkZ4eHA1WHprMGlYUzlPVDRkbjVhTFc0ak9RSFA3NlducXpaMHFqV09IZ2VNd1JULU1IVW0tRkhUSlNFWTh2OTM2c3ZvdjdDazdPMUlFTndkQkE?oc=5": {
+      "title": "Inadimplência do MCP deve cair para R$ 424 milhões, estima CCEE - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:07:57.216602",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95LUo4R184czUyTTFmNER1NENIMlB4d1FrMnhVSTJ5U3NhZ0ZacEVDS3NKdXEzZnNHNmdWaGpTQlhJSGtYQlVQQkZvT0pyNkZkckM0?oc=5": {
+      "title": "Tag Danglass - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:08:31.802360",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemtNV0U3bEZsZlVmUTd3TnF3STh4X1JQZnFXNUJvenNBbWxnUWZvZm1tY0ZTRHRtMWRSLUhaMkw1SXh3NWF6bm1Ic2NDVEY5NnRxMDExRWpnQ0hpbUs0VG9OZTFoRE4wV0w5MldKTy1GWlR3Y0RwckFiaTJ2X01xQzRxekpyOEhEWVFBSHEzVkpjY1F3VFlOLWNHZC1rTUVPUnNn?oc=5": {
+      "title": "MME consolida PDE 2035 com R$ 3,5 tri em investimentos - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:09:06.571761",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGttT0RhTHpmaFpfbzBZaG5BalpHcm9ZZHhrZEhJS2FMUGZWNUk1R0FqMlMzNTc2WTUyNVpFOHY3czdYUEFnam1US2dxVlRpbkMyTjEtTlQyNUdFaXUxQXlSa0R0dXdITjJpMnpzM2hvUURDdHFPeThoeE52OGp2Tm51MG1zV0E1Ukw4dzR3a19tcGZYZ29EY2VYVXp2blpPMHV6VTB5ZmFKaUpncmRRQVZMUFpodw?oc=5": {
+      "title": "Aneel libera 100 MW de solares da Engie e Scatec e suspende hidrelétrica em MG - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:09:41.199568",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2poV3dhbC03alF1b25XWEJsQ0NkSEFqUl9LdnJGNkw1RnRaSkJoem01S3dFOUtRaEJPNEdyMF9ObHZJTzQyaVhfck9CeDlXMzJJSHpodmJPdEI4YWdzMXZvbFZ0UUEyZUJjUnBidG56RU1YY1JmdXdSaFZSOW8zX1p2bmpvMlRMQm4tTHl4bnFabjhBcGVvSW9IVFQyLXRyVkN2TFBBQ2d5ZmgtOWlXWHpBNTdhVEk3NjhHRWRaZzVyRXBn?oc=5": {
+      "title": "Cade dá sinal verde para Petrobras comprar fatia da Equinor em bloco offshore - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:10:15.956182",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3NBbmg3MUdsX2s2M0NpNzF6cjRVc1dlQlNnNGhLME1LZHo1c29SVWZoakc3TWY0SzFuT3B3ZWdPckdTcGIxUHFuUUp0MVVWeXh1b2xDenJMSUhOTlpIMFRoSk1FcHNVelFUQXdiVjBvLU1Ba0FDcFllWExpUHNaRHlOYUhxQ0ZsNXVaR0dOSGhMcDNhQWEzLTFOeXV5WFFlZmhEdUJ3?oc=5": {
+      "title": "Governo avança com estratégias para exploração mineral - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:10:50.623050",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDM5aXNkcmNKMGNTb3RsWVR6X0tRbDl0MUZkNnpnNVY2QW1MdlpLMjRYYi15NmlaWnNsNWtULWRkX3JiOTNjY01UV3FkN2dGU1pQYy1qUTZwclJIaURpMXRibk8yWEVOQ0xpNmt0dVVpdHZxSmZSbmpONW5ZSlgzWW43QkV1ZEROMUZEWFJaQkowb1F2TnBmVVprLUgxd21CM3FsUWtwWVJrcnZueVdGTkI5bFA?oc=5": {
+      "title": "Data centers em SP podem chegar antes de obras de transmissão, aponta EPE - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:11:25.395586",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2NwYXUxbjVURS1GUklIcVVZNmgtbFlnTzU3VlF3M3ZfWFRPc3BfbU9OUjFka0pucEpjMVh2cHBQQ2VKTmg4YUxJd3ZncFJleDE2MkJTUjJDRmVWdHVtbWtiSnFRcTFXNURXUi01Ymk2YmtMcEZUVHVtRzJ0VVlTLW10cUpGclBCUUVWRmp0NkZaYi1tSmE0cFU2bG9ncE9kV2hUWGlWajRDMmpWLUJBYXZ4Z3loME0?oc=5": {
+      "title": "TJPR e STJ freiam decisão que permitiu zerar contratos da Electra na CCEE - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:12:00.031032",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWDcxam9VbmJEODZ4MUd1LXE2akQzajBDRUVoc0hMWTBLb0lWUFJmcUxObDN2blRpQ2UwLWpNYlRMeVRmSm4wdEt6YXFCV3N4eEs4cVVkaTIweTQ5Mjd0TnQ3bzZwRWQwSGxOcjk4YXQwRzR0cmFrVWRhOUxwTzdjUDc5ODBTQWxRZmZWRmh3dFZJQU4zcU5Od0taeGFXV19aNkJPU0VJOXFuOHpScXF1YmY3cno0T3hqSFNoSUZ2NWlpNlI3azQ1ZHFpRXNobDJCZWIza3k2OGRTVlpCenRyU2V1bWdkVF9faXZvRnFicFV1YWRCcDVjaEo3V0NUZw?oc=5": {
+      "title": "CMSE sinaliza possibilidade de acionar termelétricas em cenários de maior demanda e condições climáticas adversas – Edição do dia - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-03T04:12:34.811188",
+      "error": "no_article",
+      "attempts": 1
     }
   }
 }
