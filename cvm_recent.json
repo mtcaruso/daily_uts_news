@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T06:49:41.722653-03:00",
+  "last_updated": "2026-07-04T08:15:28.800873-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -6084,60 +6084,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-06-05T11:40:39.503645"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "participação, pela Companhia, por meio de sua subsidiária Gerais Saneamento na oferta pública de distribuição secundária de ações ordinárias de emissão da CopasaAta",
-      "data_referencia": "20260525 25/05/2026 08:30",
-      "data_entrega": "20260603 03/06/2026 21:04",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "participação, pela Companhia, por meio de sua subsidiária Gerais Saneamento na oferta pública de distribuição secundária de ações ordinárias de emissão da Copasa",
-      "protocolo": "1530630",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530630",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-06-04T10:51:58.192540"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "reapresentação de pedido de investimento pela Companhia para Oferta de Copasa; termos e condições dessa participação, incluindo o preço por ação a ser pago pela Companhia, por meio da Gerais Saneamento, pelas Ações de Alocação Prioritária, bem como pelas eventuais Demais Ações d; retificação das deliberações tomadas no item 5.1 da reunião do Conselho de Administração da Companhia realizada no dia 21 de maio de 2026; ratificação de todas as demais deliberações da ata da RCA 21.05.2026 que não tenham sido objeto de retificação pela presente reunião do Conselho de AdministraçãoAta",
-      "data_referencia": "20260602 02/06/2026 11:00",
-      "data_entrega": "20260603 03/06/2026 21:04",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "reapresentação de pedido de investimento pela Companhia para Oferta de Copasa; termos e condições dessa participação, incluindo o preço por ação a ser pago pela Companhia, por meio da Gerais Saneamento, pelas Ações de Alocação Prioritária, bem como pelas eventuais Demais Ações d; retificação das deliberações tomadas no item 5.1 da reunião do Conselho de Administração da Companhia realizada no dia 21 de maio de 2026; ratificação de todas as demais deliberações da ata da RCA 21.05.2026 que não tenham sido objeto de retificação pela presente reunião do Conselho de Administração",
-      "protocolo": "1530631",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530631",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-06-04T10:51:58.192543"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Definição do Investidor de Referência Finalista da Oferta de Copasa -",
-      "data_referencia": "20260603 03/06/2026",
-      "data_entrega": "20260603 03/06/2026 20:45",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Definição do Investidor de Referência Finalista da Oferta de Copasa",
-      "protocolo": "1530620",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530620",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-06-04T10:51:58.192527"
     }
   ]
 }
