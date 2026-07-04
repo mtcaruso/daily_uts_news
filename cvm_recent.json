@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-03T20:39:50.721268-03:00",
+  "last_updated": "2026-07-03T22:13:50.092418-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado - Liquidação 9ª emissão de debêntures da AXIA Energia -",
+      "data_referencia": "20260703 03/07/2026",
+      "data_entrega": "20260703 03/07/2026 21:20",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Liquidação 9ª emissão de debêntures da AXIA Energia",
+      "protocolo": "1541872",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541872",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-04T01:13:28.784468"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado - Leilão de Transmissão -",
+      "data_referencia": "20260703 03/07/2026",
+      "data_entrega": "20260703 03/07/2026 21:17",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Leilão de Transmissão",
+      "protocolo": "1541871",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541871",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-04T01:13:28.784455"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
