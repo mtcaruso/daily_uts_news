@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T07:32:58.284671-03:00",
+  "last_updated": "2026-07-05T09:02:16.807410-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -6066,24 +6066,6 @@
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
       "first_seen": "2026-06-08T11:53:09.544106"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "Aviso ao Mercado da Oferta Pública de Distribuição Secundária de Ações -",
-      "data_referencia": "20260605 05/06/2026",
-      "data_entrega": "20260605 05/06/2026 08:30",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aviso ao Mercado da Oferta Pública de Distribuição Secundária de Ações",
-      "protocolo": "1530986",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1530986",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-05T11:40:39.503645"
     }
   ]
 }
