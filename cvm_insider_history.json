@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T13:21:28.470487",
+  "last_updated": "2026-07-05T12:50:50.517573",
   "years_covered": [
     2024,
     2025,
@@ -786,6 +786,27 @@
             "buy_brl": 58800.0,
             "sell_brl": 0.0,
             "net_brl": 58800.0
+          }
+        }
+      },
+      "2026-06": {
+        "buy_brl": 124608.0,
+        "sell_brl": 298016.0,
+        "net_brl": -173408.0,
+        "buy_qty": 2400,
+        "sell_qty": 5800,
+        "n_trades_buy": 8,
+        "n_trades_sell": 3,
+        "by_cargo": {
+          "Conselho de Administração ou Vinculado": {
+            "buy_brl": 50930.0,
+            "sell_brl": 0.0,
+            "net_brl": 50930.0
+          },
+          "Diretor ou Vinculado": {
+            "buy_brl": 73678.0,
+            "sell_brl": 298016.0,
+            "net_brl": -224338.0
           }
         }
       }
