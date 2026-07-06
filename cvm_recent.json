@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-06T16:12:03.815673-03:00",
+  "last_updated": "2026-07-06T17:59:37.138269-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Calendário de Eventos Corporativos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261231 31/12/2026",
+      "data_entrega": "20260706 06/07/2026 17:21",
+      "status": "Ativo",
+      "versao": "4",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1542085",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542085",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-06T20:59:34.884222"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
