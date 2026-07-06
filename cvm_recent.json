@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-06T17:59:37.138269-03:00",
+  "last_updated": "2026-07-06T19:13:29.708838-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Encerramento de Distribuição Pública",
+      "especie": "Anúncio de Encerramento -",
+      "data_referencia": "20260706 06/07/2026",
+      "data_entrega": "20260706 06/07/2026 18:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio de Encerramento",
+      "protocolo": "1542183",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542183",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-06T22:13:07.849063"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
