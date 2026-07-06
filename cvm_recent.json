@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-06T03:15:28.951417-03:00",
+  "last_updated": "2026-07-06T08:03:50.626439-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "POTENCIAL OFERTA PÚBLICA -",
+      "data_referencia": "20260706 06/07/2026",
+      "data_entrega": "20260706 06/07/2026 07:44",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "POTENCIAL OFERTA PÚBLICA",
+      "protocolo": "1541896",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541896",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-06T11:03:34.348682"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
