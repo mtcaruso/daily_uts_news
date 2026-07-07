@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-07T18:49:02.679550-03:00",
+  "last_updated": "2026-07-07T19:49:23.422139-03:00",
   "items": [
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Resultado do Exercício da Subscrição de Sobras -",
+      "data_referencia": "20260707 07/07/2026",
+      "data_entrega": "20260707 07/07/2026 19:27",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resultado do Exercício da Subscrição de Sobras",
+      "protocolo": "1542692",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542692",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-07-07T22:49:11.652870"
+    },
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Liquidação e Dissolução da Subsidiária InfranextAta",
+      "data_referencia": "20260626 26/06/2026 09:00",
+      "data_entrega": "20260707 07/07/2026 18:51",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Liquidação e Dissolução da Subsidiária Infranext",
+      "protocolo": "1542666",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542666",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-07T22:49:21.232881"
+    },
     {
       "cnpj_short": "00320-4",
       "empresa_nome": "CPFL TRANSMISSÃO S.A.",
