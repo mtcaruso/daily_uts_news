@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T00:20:30.812828",
+  "last_updated": "2026-07-07T15:51:04.638401",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3267,6 +3267,45 @@
       "summary": "Designa **GUILHERME ZANETTI ROSA** (matrícula **1799234**) como substituto do Secretário Nacional de Transição Energética e Planejamento.",
       "added_at": "2026-07-03T15:26:02.240179",
       "summarized_at": "2026-07-03T15:26:39.531710"
+    },
+    "portarias_portaria-gm-mme-n-62-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-62-2026",
+      "title": "Portaria GM/MME nº 62/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-62-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-62-2026.pdf",
+      "date_modified": "07/07/2026",
+      "ementa": "Designa JOSÉ MATEUS GUIMARÃES MOREIRA, matrícula SIAPE nº 1426790, para exercer o encargo de substituto do Coordenador de Apoio Técnico e Administrativo do Gabinete da Secretaria Nacional de Energia Elétrica, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função, ficando dispensado do encargo de substituto eventual que atualmente ocupa.",
+      "summary": "Designa **JOSÉ MATEUS GUIMARÃES MOREIRA** para substituto do Coordenador de Apoio Técnico e Administrativo da Secretaria Nacional de Energia Elétrica. Dispensa-o do encargo de substituto eventual que ocupa.",
+      "added_at": "2026-07-07T15:50:48.344443",
+      "summarized_at": "2026-07-07T15:50:54.138428"
+    },
+    "portarias_portaria-gm-mme-n-63-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-63-2026",
+      "title": "Portaria GM/MME nº 63/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-63-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-63-2026.pdf",
+      "date_modified": "07/07/2026",
+      "ementa": "Dispensa GIOVANNI SANTOS DE LEMOS, matrícula SIAPE nº 1502810, do encargo de substituto eventual do Coordenador de Distribuição de Energia Elétrica da Coordenação-Geral de Distribuição de Energia Elétrica, do Departamento de Políticas Setoriais, da Secretaria Nacional de Energia Elétrica, código FCE 1.10.",
+      "summary": "Dispensa **GIOVANNI SANTOS DE LEMOS** do encargo de substituto eventual do Coordenador de Distribuição de Energia Elétrica.",
+      "added_at": "2026-07-07T15:50:48.344443",
+      "summarized_at": "2026-07-07T15:50:59.120741"
+    },
+    "portarias_portaria-gm-mme-n-64-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-64-2026",
+      "title": "Portaria GM/MME nº 64/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-64-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-64-2026.pdf",
+      "date_modified": "07/07/2026",
+      "ementa": "Designa LUÍS EDUARDO CARNEIRO DE OLIVEIRA, matrícula SIAPE nº 3501763, para exercer o encargo de substituto do Coordenador de Distribuição de Energia Elétrica da Coordenação-Geral de Distribuição de Energia Elétrica, do Departamento de Políticas Setoriais, da Secretaria Nacional de Energia Elétrica, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **LUÍS EDUARDO CARNEIRO DE OLIVEIRA** como substituto do Coordenador de Distribuição de Energia Elétrica.",
+      "added_at": "2026-07-07T15:50:48.344443",
+      "summarized_at": "2026-07-07T15:51:04.138101"
     }
   },
   "first_run_done": true
