@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-07T08:28:23.820804-03:00",
+  "last_updated": "2026-07-07T10:32:45.704224-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260601 06/2026",
+      "data_entrega": "20260707 07/07/2026 10:23",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1542292",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542292",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-07-07T13:32:44.843627"
+    },
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Calendário de Eventos Corporativos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261231 31/12/2026",
+      "data_entrega": "20260707 07/07/2026 10:18",
+      "status": "Ativo",
+      "versao": "7",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1542291",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542291",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-07T13:32:28.408000"
+    },
     {
       "cnpj_short": "02339-6",
       "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
