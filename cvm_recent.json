@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-07T05:40:38.719940-03:00",
+  "last_updated": "2026-07-07T08:28:23.820804-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "AGE para capitalização na Aegea -",
+      "data_referencia": "20260707 07/07/2026",
+      "data_entrega": "20260707 07/07/2026 08:05",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "AGE para capitalização na Aegea",
+      "protocolo": "1542257",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542257",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-07-07T11:28:23.520417"
+    },
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Edital de Convocação - AGE 28/07/2026 às 10:00hEdital de Convocação",
+      "data_referencia": "20260728 28/07/2026 10:00",
+      "data_entrega": "20260707 07/07/2026 07:56",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Edital de Convocação - AGE 28/07/2026 às 10:00h",
+      "protocolo": "1542256",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542256",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-07-07T11:28:23.520405"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
