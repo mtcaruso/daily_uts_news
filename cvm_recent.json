@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-07T15:16:32.843683-03:00",
+  "last_updated": "2026-07-07T17:21:06.106171-03:00",
   "items": [
+    {
+      "cnpj_short": "00320-4",
+      "empresa_nome": "CPFL TRANSMISSÃO S.A.",
+      "categoria": "Comunicação sobre Transação entre Partes Relacionadas",
+      "tipo": "-",
+      "especie": "Comunicação sobre Contratação de mútuo -",
+      "data_referencia": "20260707 07/07/2026",
+      "data_entrega": "20260707 07/07/2026 15:56",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicação sobre Contratação de mútuo",
+      "protocolo": "1542375",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542375",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "3204",
+      "first_seen": "2026-07-07T20:20:55.816402"
+    },
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Comunicação sobre Transação entre Partes Relacionadas",
+      "tipo": "-",
+      "especie": "Comunicação sobre Contratação de mútuo -",
+      "data_referencia": "20260707 07/07/2026",
+      "data_entrega": "20260707 07/07/2026 15:45",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicação sobre Contratação de mútuo",
+      "protocolo": "1542373",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542373",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-07-07T20:20:50.330212"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
