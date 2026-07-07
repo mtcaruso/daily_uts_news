@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-07T10:32:45.704224-03:00",
+  "last_updated": "2026-07-07T13:09:09.562936-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "DONA FRANCISCA ENERGÉTICA S.A. - DFESAAta",
+      "data_referencia": "20260615 15/06/2026 08:00",
+      "data_entrega": "20260707 07/07/2026 10:34",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "DONA FRANCISCA ENERGÉTICA S.A. - DFESA",
+      "protocolo": "1542293",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542293",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-07-07T16:08:54.441546"
+    },
     {
       "cnpj_short": "01862-7",
       "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
