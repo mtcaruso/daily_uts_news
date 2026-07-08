@@ -1,86 +1,6 @@
 {
-  "last_updated": "2026-07-08T16:23:20.816729",
+  "last_updated": "2026-07-08T18:06:34.180385",
   "items": {
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM2dKWTRyMWRkQTg2Z3NHUElYRWxCZkNBd0R5cHREU19BdkdBWjBrbHRraXkwUUxKZnplNzJ0ZUstTXAzbi1CejBfaG9ZRVN0Tk1nUEZfUTR5ZUFhQXplc2RRTmtxLVgxUE9QaVRRRFpoTE1LblFUd0lvY1NQU2lFVUVvNjcydERkM1ZVNTNHVEliN0EtRDRSSXluQjgtMUdVZHZ4MmVuaml4T0Z2TmVEUHNlUXQ2NktRZDNUMGJLOGpMQQ?oc=5": {
-      "title": "Aneel abrirá consulta para revisão do Programa de Eficiência Energética - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:46.925010",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFdSMlNJYjNxRnM4NmVJejRFM0tQUWhsVlpnekV2MmNUeUJ4NXBqX3FhRkx5NmtKcmQ5Z2xmeG95WGNpeHRkNENfUDlMblhjWFlSUFJMbWprYlhFWVMxZXJnbDdDWEV4WGszS3pLUmNiQXJfRWhrMkc1ZEoxVlRwTk85am52ZDV5czdQbS1rdnRYVGxwV0FMa3ZIbGRDTVZqeWtxTWlfT0M4R2J5?oc=5": {
-      "title": "Reservatórios do Sudeste/Centro-Oeste ficam estáveis a 65,5% - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:48.747876",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnRDLWVkZjBkd2hibFhINVU1d3ZCUm1SQzY2SXJwd0NRcDFPSkN6aUllVVpwUWVTTzhtSWVNSjBRQkJNYUR6WEJGcGhXdkREVVJCbXI5M0JwaFdVczdCenZuSWpSUlYxTkYyMGxLbWdtNUFrOXBPQ2lJN2Z3Q1gzUC1UTWJxQ0l2eDVaODFybTZqaXczLWE0eTdsX2VPdng0TVhsRldqYlBRWVhsT3dHUE9SUm15eDBsOWlKWDVST0ViQUF5Tnlha2N5ZHlwSkU?oc=5": {
-      "title": "Petrobras amplia meta de baixo carbono e avança em estudos de captura de CO₂ - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:50.568563",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnAtTTNNVVBBaGk0cmp0SHFfMS1jVFkxQTg0a09XYjlEQ012RDQ5bGh6SFNEQjBvQ2RVanNYQmxwT3llZzBQRHBhUGN6eUZtWm5fLTJtN3FpUFBxVXREY1ZWZEtET3RPdVVWM195VzdQR1Y2MVBVbFZPOHY4WkFfbFVHV0NUNlZwOXZpbm5ZT0hibjBzZHRJUm1ELUZhVDZmOGF0MQ?oc=5": {
-      "title": "Chevrolet começa a montar Captiva elétrico no Ceará - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:52.536046",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUcwNk9GQ3RnTXE1MXE3R05PS2hYd3BTcEFmcUF1dHdGZ0d0LXZ1elpIRG1fSFpMVWM3NzB3SktoMmVfYnJNYkpYVTdYMTRBNkJ3V1dIWUVKOUU2T0xheU01dEd0UWxYeG95eW1PUzVEOUlSeXp2dzJqM0VKMW9pdkhuRmoyc0dkMDMxUVJaM2xlQmFWS1dUbVF0V21GWjFLT1E?oc=5": {
-      "title": "Governo renova cotas de importação para elétricos - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:54.319123",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUJibUxoRFlzS3NTX2lnanhOTkZkZG5LU3d2VWtPWUN6ZVpEQ2Y3bW5iSnpoSndRbjUzdzNSX2RKOVBqUTkxbzFOajdtSVlKNXlWRV9OOHotQzFkV3BISDNVS05PQ19iamw3TTlSRnBYRGdFd3cwX0V5d25ERFluamNOMV9kTTlSMzRDWXBfSDNycnRqZ25FOGFwdGxISEstWUFmN1VkTXhSSDJUeFBzVVAxOTYtLTBZcFE?oc=5": {
-      "title": "Risco de contraparte no mercado livre de energia: o que falta proteger - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:56.163242",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR004a01fZTRvVFhLSmZaUHc1eUtGQ3ZiVy1nTEkwTFdlTzAwcXQ4Q1NUeUp3OWd2cERhZXNSWUdJWlZ2aFoydzlZRVM1dWEybndCdXA0NTZPOWh0ZV9qZGNhRHJrNjlwSTlNc2wweFdFZVZHcFdTTmJ6aDcxZFZlT2thNTY5dTZnRHA0U2lVYUktODBQbTVWRzVMMXhGRDJJYzZ2dmhKdEpFWHA0b3ktcmlnWQ?oc=5": {
-      "title": "Data Centers no Nordeste ajudariam a reduzir cortes, aponta Axia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-24T17:30:58.042092",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb0FIYmNzSXhWQ2EyT1BteGNmbllXMWtGRkQtUEF4YzFlbnYxV0ZCNlBpNVQ0Ylczcm45RmZMMXdiajAwbm5BczVZWWFQcFRxSUx3bnBxZGJXUXliajFNbG1RTlIxT2JaM2xpUVBEUWNIYk1fTllKekczN2hxZUxOX0JGQ1EzTkJwY2Z3eU4zeEk4bTM2QU4zZm5kMEpZeXNVaFpkWFRqWlNoazltQzlISzRfQWFoN0JUZHhzOUg1VzlZNlBmbU15d21yZTNqeU8tVVZsZ1IyTHpuZFnSAeoBQVVfeXFMTUNQVkRZeF9jM3VaTnd2R3VpRFpEZmtWZkl3Rm5zcC1VRUE1NjhSa3dnQTcxeXFoNjQ3QUJFckJ5WnlqczF3Ml96MzhmbWV2S3F2VDFsaXRFVThEV2tmZDJHMkVHVmdmTTF2Q296bEhfNEZyMEVUUWFvcmZmWVZrSTV5ZUVoNEZVcWFfNGV1RnFnbm1tbWF1amZBRFJNcUQ2T2lFLUcySzRxcktwNUVkUW50aGJGWVk4M0tXb3lQQjZQdFFrTi1nSlBlXzNYdVgyS2NTTjFpZzJaU2FyS2t4X1FhVzdKX0V4dDRn?oc=5": {
-      "title": "Aneel aprova aumento de 9,41% nas receitas de transmissoras de energia - Valor Econômico",
-      "summary": "Aneel aprova aumento de 9,41% nas receitas de transmissoras de energia Agência calcula um efeito médio de alta de 1,1% para os consumidores atendidos pelas distribuidoras de energia, como os residenciais A Agência Nacional de Energia Elétrica (Aneel) aprovou aumento de 9,41% nas Receitas Anuais Permitidas (RAP) das transmissoras de energia elétrica em operação comercial, que totalizarão R$ 54,95…",
-      "source": "",
-      "added_at": "2026-06-24T17:32:07.556235",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2RmRjBCLVJ5RC1lRFBZUHd3X1NnN2RETWJGY3hyMEFPdTctazVQMWRST1dDUnBXQThFQUVjZUpwNUphX0Rla1k3Ui1uR1V6S0Ffak1PVmlRZ0hhODdVNkFZNnRTbGp0Zm45YmlSWm52NzNQcE1SOG9VYjJfTlczTEVCN3NaaTRkU3hZWnRaTDhOelMxLU5jZWhDdjdpMG53dW9qVEt1YURaalJDTC11amVJX1VXdWhXQmZrUDExMXdMOGczUlBscTBEdC02aGVHbExBYVpxaXc1b1dhVHhCZ20za1l5cThvbGJVTlBwWWc?oc=5": {
-      "title": "Tratativas de Vorcaro com Ciro Nogueira e Jaques Wagner envolveram leis sobre bancos e transição energética, diz PF - Folha de S.Paulo",
-      "summary": "As tratativas dos ex-sócios do Banco Master Daniel Vorcaro e Augusto Lima com senadores como Ciro Nogueira (PP-PI) e Jaques Wagner (PT-BA) envolveram projetos para alterar leis relacionadas à teia de negócios do grupo, como energias renováveis, mercado de carbono, crédito consignado e o FGC (Fundo Garantidor de Créditos). A relação dos políticos com os então sócios do Master, banco acusado de uma…",
-      "source": "",
-      "added_at": "2026-06-24T17:32:07.556387",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3ZRLV9nUG5fWkJBclJqVEthdmtvcVUtNGQwZ3Yxa283djVfNjd2eDhiNkpRWnhmaGU3Nmp4cEZ4R3JlbGlhSjA2UlNKeGxEVi1URHF1b0dFUDVtN1lkbEpqS2RXRFNtX3kyQ3dEN3MySzNKRklOUnNxbVJlZTNUaGYtbWM0UU1tYmJoQ3FDaGF0ZGduTFRQbFQzeDBTcGRzWHMxLU5Wc2dLNE1zS2xrX0hOa0FfcFFwWnIxVWlLYndyNi0wODBMUl9OZERidw?oc=5": {
-      "title": "Governo tem reuniões semanais com autoridades dos EUA sobre tarifaço, diz ministro - 24/06/2026 - Economia - Folha de S.Paulo",
-      "summary": "O ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Rosa, afirmou nesta quarta-feira (24) que o governo do presidente Luiz Inácio Lula da Silva tem tido reuniões semanais com autoridades do governo dos EUA para tratar da proposta feita pelo USTR (Escritório do Representante Comercial dos EUA) de impor tarifas comerciais adicionais de 25% aos produtos brasileiros e da…",
-      "source": "",
-      "added_at": "2026-06-24T17:32:07.556453",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHktYWwtYVdLTW9Nb2dhMGtfa21sRmxtQ3A1MDI3dkV1WklhN21CTDZ5eHF3eEkwa25ZVWpuRWJIMU5lNmxtQlE5WTgxd3NQREtZMlRsRnVnd2M2R29NUE9iVVBvT1c0ejJrNU5nbjBvU0IyLUdFTjFhN3NmbFJ2REQwQk45SHZsaUx4QlZ4UWpmeWMzSlV4aXJ3N21XOWMwLUZ4WmxtbVJCa1c3QlU2QmhkTlNlZlpHZFhkZDJObGxUQ2gwb09zMg?oc=5": {
       "title": "Biometano pode chegar a 8 milhões m³/dia no Brasil até 2030, aponta Abiogás - CanalEnergia",
       "summary": null,
@@ -4371,7 +4291,7 @@
       "source": "",
       "added_at": "2026-07-07T20:31:18.168973",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV214aWpEY0d1WktTb2VhSzBnWlZfc3JPcVQwak5iYVBZY3h1TVhzcEx4eEdCeFNMVWdCRXNYZmJZYk4zLTFjR1JWd3dEZEM4aUl1OG5NMW1GbEZZQmVISVk3ZTNIWjB1aWl5YnF2blhBZEhrZmRfcEw1LXNicWxQblRWQUtnU1ZDLU9CVklrOE1xLXJZdFNHNDktOC05dzFOYTVOMGF2N0JIdEJhNHc?oc=5": {
       "title": "Scatec inicia operação comercial da usina solar Rio Urucuia - CanalEnergia",
@@ -4379,7 +4299,7 @@
       "source": "",
       "added_at": "2026-07-07T20:31:20.155393",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEx5WGZ2b2pjaDdqLWpTY0RZM2pYTkVTSTk4UjZtTklyRC1oY3E3dS1KTktzd1k5VGFnUGxSaDFGTzhBZmdzWGl6S3V4V3AwNjhMLWhBSGdKcTBFSUczRkdmRzFYaW1JY2t1WHFUVEVtM0ZlMVdMX2R4X0NYaWlOTkx5aEV0dVNFZkJJWjdQVlNVRnNfbHk1cGdqSDV2UW13UXJDb3JmU2hEMXBuYmc?oc=5": {
       "title": "Preço da energia limpa nos EUA deve disparar sem subsídios - CanalEnergia",
@@ -4437,7 +4357,7 @@
       "source": "",
       "added_at": "2026-07-07T22:00:06.499532",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXBJbVBvcnNqZFdXSDBiX3VLY3loeVEycXA2WDFfVXVKY01MTUlRSlZmcENyX01NZEdzWkh6elROWm00WDNUS1c1NzVhMkRtd2Uta2NLa2VONlRBcDRGVlhMWnlTbnlOd05yMDBSX0dOb09fSVBQZ0ZvbjhSUXdYaVlDaFhGZHZuNUJGdWZIbUxMTng1am9mc3gxeUZmS3E5NUpaTEl1dFZLNkdOUGphQ0tMWGZWY0k?oc=5": {
       "title": "Senador defende alterar Redata e incluir térmicas no atendimento a data centers - CanalEnergia",
@@ -4445,7 +4365,7 @@
       "source": "",
       "added_at": "2026-07-07T22:00:08.611410",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BLb3ExZVBUTTlXUkhYVmtFaGRkc1pwZnZySm9MNHo0QnRtQm15a0dzYjlWcF9tbFA2dksxcE96UEJXT1l2dEx2eWM0bVRaemZTbUlPUVZDSU4tMDlrOEpCbF9yS1FHYTJacEFyb2dqTVlsTXNqdTJaYmRIaklaU0IzdWRoOUJsMlNoSUFuUGZpSHZCcjI5dW1MZFphNC1pOWpPUWtERFJzR1RMVmR4Z216Q3NOZw?oc=5": {
       "title": "N5X escolhe empresa para desenvolver infraestrutura para clearing - CanalEnergia",
@@ -4453,7 +4373,7 @@
       "source": "",
       "added_at": "2026-07-07T22:00:10.593889",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXBiTDdWeTVTQVRybkhSOEtUZWpybUV3VlkxUFFUUWFMUFJDYmVwdEkya2ljRE1HY285cTB4cXg0UnJXVW44d25uc0hvVWNyN0N6V3JZMVJlakZWTFBSUmIweUV6MDdJR0ZUSWVYeWhBSVZad2NZYURzaFZobU1GZkhmMFpfdENRanJjWThMTHo5WDAzYmlJenFtYnNHQ0duS1p4UlN3aXVVWWdxQ2ZoS1cxU2Z2Zw?oc=5": {
       "title": "Liquidação semanal do MCP ainda deverá levar dois anos, pelo menos - CanalEnergia",
@@ -4461,7 +4381,7 @@
       "source": "",
       "added_at": "2026-07-07T22:00:12.505166",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1NCTzZBYXFHQS14WV9yUHZZOWIweEVXV3hpYkFzdWhoXzRxWlpZUUcySkZHZUR0Q2ZsUmIzdS1MbW82ZUJjdmJldDRqMTVreHQwRDh3ZS1fT3lQSjZZMjVvV1lTRV9hZ1ZlXzRNODJfa3RweVZYLVhObDJzXzZqbEZSXzExVDBQcUVCQUc5UW5zMDNmMVVEZUVVM093VnNsWUE?oc=5": {
       "title": "MPF pede sanção de PL que fixa distância mínima de eólicas na Paraíba - Agência iNFRA",
@@ -4497,7 +4417,7 @@
       "source": "",
       "added_at": "2026-07-08T03:39:54.497291",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2ZGNnlXSDgxczRrZTRJb0RUTDZCM0pObFFMU2hwZTluTTFwV0ZSckZSQ0pLR0JoN283RENGbTBQS3dMR3I0UWc5WnY0RnRUTVA4SWlLSmtGZ2FrZDdtLTFTNGxwblFXYVplZm1aenBwM0FELWdHMlo4aXR3RlVXUlJ1SngzUzNqWFZVekMxX2ZwckdCeUZrcGVfV1hvdDQ0bWlYYnJIa3lIYmoxWDhWZm45dnd4ejhXeUV6Nl8xRlpRWWNoYndTLUJWNVE?oc=5": {
       "title": "Data centers: estudo mostra potencial de 13,7GW até 2035 - CanalEnergia",
@@ -4505,7 +4425,7 @@
       "source": "",
       "added_at": "2026-07-08T03:39:56.620888",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcDlJbGo1dTNoVjdKTXNYQnAzeFNING85TlhzNlctQ2pCMUZJc2h6ZWpXaWZ4anU3ZmFmRFhTb3R2aGh5RFp1XzRIQnlCZDNPOS1YR0Z3TzloSU1fMEo5SHA4dGVsamIxWm9KVnd5d2lkbGptMENKbUdoVzE2YXlJUFViMlRHRVpJMGJYYlZFSjA2a0FaRUNBVjJnLVYyRElwS3hSMm44cWkxVExCbmR1NjNWUUw3TWZGenFNczR6a2VsQlAycFE2c3k2OEo2S29oTkdPaTJfRUxoVUxuS2otR0VIUnVwaWRjcFhiYThB0gH8AUFVX3lxTE0zdDhjZjdJOGR1Y3hrZS1NcUdhX0NzVFZJNzIzaXJrUzlKTTFIQjVUT3ZrQU5xdGI4emprTGlwYjdXMFFBbVgwZWViNlcwbnJod2w5eVlBRlU2aXhGX3hTcHpMenpLY3l0V0JITDJmSDMtSE10UlF6QkZPVXNYT3B5WkhlRGVpOUQ0YUViSDNlZm56X0VFc0tKcGtIbi14Wk1ZQ3l4OE1SNXNKYk9mYzNLRWxheFFmZ1VUZ196TXl4WjBjS25ONE1lTURCZUVkQm5WdkswVHVCTk1HSUdMeXNGcmVILXp0eUJyNlVmcjlSODlNLWpIeXlNUURWYQ?oc=5": {
       "title": "Em resposta aos EUA sobre recomendação de tarifa de 12,5%, Brasil rejeita medida punitiva - Valor Econômico",
@@ -4545,7 +4465,7 @@
       "source": "",
       "added_at": "2026-07-08T14:37:37.899312",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEhqVktMUmpJU2NLTGh6QWJ4M0dRR2oyYWRoSzM2dXg0aHBISTZsTk9mRi01cVNGTDIxaXd6WjBPVUs2akRIVjlqdVlnQTBaU0VaRmZrdTM1ZjB1bHZjS05WVFFTclZLVzFfTnFMR1QyTWh5eXFudVdZWHpRS2NNdjlIUkNscl9ZRVo5bmhDdWlhV3JSTXBMWjc5RGZneTJaYVpsejF5SjZSaG5TcUtIbWY4dnlCWVR0?oc=5": {
       "title": "A arquitetura do mercado livre de energia: padronização dos contratos - CanalEnergia",
@@ -4553,7 +4473,7 @@
       "source": "",
       "added_at": "2026-07-08T14:37:39.588008",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzFnRWJoTEphbkJ2QkFQT3RhY3Jkc0NjV0NzY0xZcVJOd0U0RUR4U2VWUHV0RXdzWnM0S2wzeHRwanV6SUh3WV9aZ01mNXQ5TzZtMnZhRXExbFdsOUx5anRYSWxRXzhBeVBVcTZTV3oyb3Q0MWlfMnEtZzVTbDk2UElCRnkxMmFHR2EyME1fdlVhQWNHQUs2bWZBbw?oc=5": {
       "title": "ONS projeta reservatórios mais cheios em 2026 - CanalEnergia",
@@ -4561,7 +4481,7 @@
       "source": "",
       "added_at": "2026-07-08T14:37:41.256738",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWDRqTkFGSU1ud0lkWHdBS0RFVWNISzR1cTJzSENMZkVwVEFrZnhCbFNDN2Z6N21OeDh2NFBPdzdBOWUzOFg1MW1fMDQzZjVvS3VkZ1BTSFNwcnRsSjJ4ZS03b0xiLTBUZE9PMnlnZjJJYlR4WmdkaHhvcTJzcXpzYkRJUXFGUmxSYklUa0pQRVAyTVdNMXg3bjNhTkFOazBvOU80MTFjSmYxcVdTYXNjeUVGWmxZdXktUUNEeHloNENtcGpxbXd0UkFiVjNyRy1TTGNqWWR0ZVIyakhFQmVwZTJ4NNIB8gFBVV95cUxPUi1GbWZwOUl5NmVnRS1TUnNtcW10LUN5QWk1V3JGdV9FLUgtcDlld2hlNXgxSmFYUEs4dXFaLWxkTDNYa1g4ZjgtejBsbzFSTFRjQy1FMEpET1MtZy1wWnRvYlpCS0ktNW5JYlRIZzUxX1VqNmZNOEFiamJRMUsyZ0VUVEdOTk1QdmIyenJ2SFA5MjJmbWhkMVJCdjlIVGpMWl9vNl9NVGNGaHlCbEFNY3lGcGRSd3ZTSHZOSHVGMzNkNS1fczZJcnB0NS14UlBJNXZRdlR2cFU1ZDlnMXZUdFBZRmN6WEpJYkpIRjZDVzJsZw?oc=5": {
       "title": "S&P reitera nota de crédito nacional da Eneva mesmo com perspectiva de aumento na alavancagem - Valor Econômico",
@@ -4569,7 +4489,7 @@
       "source": "",
       "added_at": "2026-07-08T14:38:36.806498",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXpxbnRpNGY4UjNTXzE3NnRtcWNaUHVNUHZIenZaY3h0V3V3YXdVM1NpWFBqTXlObUgxT0hZbFBQZEhDWl9jM25URFpwVTFzZkNidHJFM0w4WHFJQ1ktbFZNTGxEcXJDRXhUWjdMQWl5MG9vVGlLVXYyQXhiWlQ5VDlSVksyRHdOYXAyTWNTRHRSNTZKT3hfSTJFaWdpRWFGbnh4ZlZGcGt3cGpXcS03THg0QQ?oc=5": {
       "title": "Região SE/CO teve queda de 0,1 p.p e opera com 65,1% da capacidade - CanalEnergia",
@@ -4577,7 +4497,7 @@
       "source": "",
       "added_at": "2026-07-08T16:21:51.027693",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSm9idXc0Vk5kUFc1Zkx1UlpJT1JzNUY4SXI1YzRidXA1WU10LVN4RkROSWtTak5KVnN1dnJwUFVYWWxTQVJXMkNaNmtGQWRYYUNXa1NWSXBSUEZoQ1U1VGpXb1VZQ0Z4ZHFpalNRbnQtd2YwcjBOWkxlU2FFd3gwUXVFaEM0ZF9CdUJSclVRQUNtQQ?oc=5": {
       "title": "Elera centraliza operação em São Paulo - CanalEnergia",
@@ -4585,7 +4505,7 @@
       "source": "",
       "added_at": "2026-07-08T16:21:53.015953",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVm9zT2l2QjlFM2lSYm9rMy1MT1lKQ0xFVTlTWWZlNWNaZXhhVnhDaUo0TE0zV0YtdlRwbmVUb1lPWkQ3WFViZk1OLU5sYTVhSElOdUlOQkVQM0Q3czhlN1lxVERVb0ZhYThGalRxLVNWRDVlb1BsUUhwRnJ4a0VFSFZUVXNsNU9mMGRiS3UwMUYwemNYcEVDSzNmVUpVZll1eVlKXzJ3SEVYem9Ed1R5b2I5RjlYX2pCd2JsOUNnaTZRV0k5a3hFTDctRDJYNDJm0gHfAUFVX3lxTFB1ZjJCd1otMGR3bENVTTRnNS1pVmJpdGp1YS12V3l4dkpmRmFFbzFSS0ZhSHRpQUFWTmJiMGthckhmeFRsYjItVlJSd3U0OWRmSWI0OFZzaXo3V0U2MkY5WWhUYThkUGlaQzlyNkpMZmcwR2JvU3ZobE0wWG5feFRLSV9icTY1MmozVWh2eFhJWVJyNlc2VjRISHQtTFRNQlJmYXZNUGpmZWVDTUV6UGp1Nk1Pd3BudjczOEZyVm5iZEhmMmtqU05fYlY5WjhObmY0MThiRkNfQ25nY0k4NXM?oc=5": {
       "title": "CMSE estabelece novas regras para despacho por garantia de suprimento energético - Valor Econômico",
@@ -4593,7 +4513,7 @@
       "source": "",
       "added_at": "2026-07-08T16:22:37.657564",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSElZRVdKa1ZxTEMyTGhvdjBiVzljcXFGWjdiYkcyYnNQS283bWJsbVc2ZVZGQ05rb05RSWNQeDhKNG15NkVSQWN5N0hQc185S05LUDFXaEpxaThUTTdpdnk0RTRVZXd4Ti1rVWNhRVowcWdtVVZhSkxhWF9QSlBiX1RCTmdNNFlEYXlSOFdlZDZmeFhUb0FWclJxaUFjbFVrTUJnT2Q4bUd0dXhsM1hnWUpMONIBuAFBVV95cUxQaWNJQkZacXlZOWRFLVZqR1ZMbjBGWFZzdHQ5Yk9ubDk2RHl2SkE2bHZoNWVUZjJBQ0FKZW9MRWdrMEVqcng5U3N6cmEzRExjbngtS0ZNNTNCN25IMXI3QUNYeWphX19pV0Zmem80R2w3NzR0emdJcFBNeUZ0UWN1QWhPdjJCZFNXSzQyVWZTNGFBR3lZWmJRLVpzUkRUQmFmZXJWLWZCRENFNXJwR3p5WjBvZmxsekRF?oc=5": {
       "title": "Após protestos, Cuba restabelece rede elétrica, mas apagões continuam - Estadão",
@@ -4601,13 +4521,61 @@
       "source": "",
       "added_at": "2026-07-08T16:22:37.657859",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNXZ5RW1BSUhlbVpwSmFydWFjaGlwSWhuSUszLXlUNW90UTRTVFZRem42T2dNWEdpSTNGODNsbm1Od1Z1MXBOV1VoQ2Rvckd0bFM0ZzNrSzJVaUpHUktEVC1fcFJCNk1fT3phUGZCTm5XdUdETWxUa0xYSUFOQ28xQzRHZmpyMDlyQTFjUi1RNDNQT1N4ZjVWeUNQMC05VkZkaGNTSUlhSXJJZElvdnI1WHBMSC0zVXpRY0kzZDhhRWhVRmZ0MHlhOXdfS1JEZTFqejVxcU80MXpvTG1ZcDBwYzZIMmFtdUR4dFFPLTlvdkJEZ2FGeXJlODlsdGoyUlpnS3BVc1M4X2c5NVByOVhtM2hHcVdJMmxSUlFieXZKWmNhRTFWSHpN?oc=5": {
       "title": "Memória da Eletricidade lança exposição virtual sobre a usina flutuante que percorreu o Brasil levando energia - Estadão Blue Studio",
       "summary": "A **Memória da Eletricidade** lançou uma exposição virtual gratuita no **Google Arts & Culture** sobre a Usina Flutuante Poraquê. A mostra detalha a trajetória da embarcação, que levou energia a diversas cidades brasileiras entre **1950 e 1991**, utilizando fotos históricas e entrevistas.",
       "source": "",
       "added_at": "2026-07-08T16:23:20.809695"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWXdJWF9RTy1IekR0dG1pM3UzUEpYYkVrWGViRkIzbmJRdC1NcmNvZTRsQzY3TjhtRkllaVVscVZ6c2lrTkFZXy10ejVkVjV5YjFfNHZEZ0xVY0xPQ3k2enFNOURQQWEyZlpfS2puU2NONlJQLXVNakpkVFF4VUs4RzRMamFnejcxR3dCNExLLXViLWtjZnNHRTNXV0diQl9KZ2ZoSjhwNGFraWxKeTJuLWFsbVJZNUdDOS1qNTdLbHgtNEZIZGtN?oc=5": {
+      "title": "Frustração de 1,7 GW do LRCAP de março pode reforçar leilão de baterias, diz PSR - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-08T18:05:14.707946",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNElUS3hzczFtby1WUExLd21sNmZPYVd5MjRuMlpSdmFSaTRBRVQtekJINk1DbXVYMF9feWt2a19SOV9QdnV2RHhtdGhPYU1hbVhUNnc4Sy1ZX29WOGJOYUlISEJKeGpiLTZXTzJSeGwwR09LR01lODJEMFprZWRsVEVIMnloS1NTWjgyN3BMUTd3MktYVk41ZXZpRk5zbkppaGlxUlN6U3ZUSG5pSUE?oc=5": {
+      "title": "Falha em subestação interrompe 365 MW no Ceará e na Paraíba - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-08T18:05:16.413053",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeExhWGVrblJORE8wQUxBRzI5M3ZNLUZlRkJlNEdjSGxybDgzNkF2QWdWbkRFUWVUSjRBSlY3d283SVpkaTQ1bm1aYmdabVhyWjFMeUFwUkRvS2dVSl9wbE4zNzlXUGllYmxXNGJEMGR2QnB6UXdUaXpLa3dXYWpLQXFpamlfMC1YamFPUGFLMWZfa2VhZkRXUjdWZGM1RFk?oc=5": {
+      "title": "Indicadores de Desempenho do SIN Junho de 2026 - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-08T18:05:26.573113",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTBwY2pSN0lPeFFOcFZUeTBVT1JIUjBKb2RrT0d5Z3QtXzMyWHBNdkt3R1RWaE1KS2ZUN3d4STRBNVNaZ2NzMU5WcXpPaDU3bW5rOTRid3dlSERvTVJhXzdmbHNBelVrMXJkQ3hKYk91X28wZ1pWRXVQTDFLek8tbS1wWHR6bWk3d0ZFUllxRkFRRjE1eDN3YkpRTWoyNW5hMjh6bmVDOGY3bjEtUWd3RDVja21qUWsxanlyZTJWQjY1a1p3UWlKY3FvTdIB2gFBVV95cUxQZDlKSEZBbXF5TTA4a0U1cnp2VGhhajRESEx1UHJOMW4tUXRoTzNBUEs4cEZTVXZieFpnU1JYdzNJbkRVV1NCQVNrUE45YjJOUUFKNDBkVm05ank2MG5WeXVmRFQxZlU4c2ZOYkhoSmlhNjI4WnM1Yzd4RG5SeGJHanVoWjVTZkZnWmlBdnFuckhKQTZWV05Bd3pWSVBjWkNsWlpHbGREQ3FTRmRjTjcxY2YzcURveGpXWmhTY0k3dExkT0k3WWlGUUgyWThnSmpPVG1Ibk96SERhQQ?oc=5": {
+      "title": "Bradesco BBI vê espaço para ‘follow-ons’ e ‘block trades’ em janelas pontuais - Valor Econômico",
+      "summary": "Bradesco BBI vê espaço para ‘follow-ons’ e ‘block trades’ em janelas pontuais É possível aproveitar momentos de valorização de ações em meio ao cenário ainda restritivo para novas emissões, diz executivo Apesar de o mercado de capitais ainda enfrentar um cenário restritivo para novas emissões de ações, há espaço para ofertas subsequentes (\"follow-ons\") e vendas de blocos de ações (\"block trades\")…",
+      "source": "",
+      "added_at": "2026-07-08T18:06:34.165711",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSHhLbF9RNW1lMHNnQ0JMNTBScUlkT2lwSFNQazJWVXBWQUNRVUJaWUNvX1A5S3h4ekc1SFdDcGw3WDlKOTJuTWhWb0pIYlg2UDl4QWd4RDVXRnJLMmlTb0pEaGdieFJhVnVPTGFaUWtUaVk0VDVCU2Yydm45eDRSeEVfTE56RVRtQjhpR3pEM2tsR1Z6OWVCOFY2Zjd3TWd4em9RZnkzb1RFemJ4ZlVidzVLYmpnU1lTTlFIY3RpTkQ1SHV5WTlFT2E4YW5GWnJENzN5cU1YX0p3YVpUZXVmSTlfdFVfR0ZEcGg3NW9FRDXSAf8BQVVfeXFMT1I1dm5nQmdMRUF4VGZrQzVTYzNUaHNLenpaeXhySUtWOFc2YlQ5d2R0Z2FSR09sWnVqT3doQkxDWUNyX3hsVHlscDVYQTFCSjR4WVpuTG1uZlUyWEFfMXpyLVVGVFZLRFFFcm4taVM0b0pYeUNMMVhKOWwteUQ3RXRLQ2tfejBjelBqTUJnZ1oteXRaNG5PMUVnYzNWakkyWnB5NWlHaWQtZDlQejdyNEpVY3YxaVVTMEZFRS1KeXJrTHk2ZTQwd0c2WUFDWkIxaU1LMDJBdXJNcEQ0VWJ5Q1h2LXZkS2FqMXFBOHctczk3VkN3WjVUbmlxR2lXS3J3?oc=5": {
+      "title": "Indústria de calçados brasileira diz na USTR que tarifaço afeta EUA, que não contam com produção significativa - Valor Econômico",
+      "summary": "Indústria de calçados brasileira diz na USTR que tarifaço afeta EUA, que não contam com produção significativa Setor foi representado em audiência pública do Escritório do Representante Comercial dos Estados Unidos por Letícia Sperb Masselli, gerente de relacionamento e negócios da Abicalçados Em discurso na audiência pública do Escritório do Representante Comercial dos Estados Unidos (USTR, na…",
+      "source": "",
+      "added_at": "2026-07-08T18:06:34.166095",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdsNUlnMENGeXQ3R3BhNVRkVmV0OGQxdlRiSENXTlo0eVBOZzJEcEh2S3AzMklycHFDOVdWTzM3RWN5R011ek1GZkRmSWt3eGZmV2M1QnNJSF93T0VxVHhjOG1Ga0dvS0hiVmFnMnRKZnd6Szk1Y2M3MkNoTlNUX21qeDBNdTVGbHVkQ3l5TEIxZjRrd1dJbDBJNA?oc=5": {
+      "title": "Neoenergia Brasília anuncia André Santos como diretor-presidente - Agência iNFRA",
+      "summary": "da Agência iNFRA A Neoenergia anunciou André Santos como novo diretor-presidente da Neoenergia Brasília, marcando o início de uma nova fase da concessionária voltada à expansão da infraestrutura elétrica e à melhoria da qualidade do fornecimento no Distrito Federal. A companhia informou que um novo ciclo de investimentos até 2030 será apresentado em breve.",
+      "source": "",
+      "added_at": "2026-07-08T18:06:34.173609",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
