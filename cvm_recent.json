@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T08:27:57.107691-03:00",
+  "last_updated": "2026-07-08T09:59:11.065524-03:00",
   "items": [
     {
       "cnpj_short": "01987-9",
@@ -6408,42 +6408,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "26808",
       "first_seen": "2026-06-08T15:49:12.933493"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Calendário de Eventos Corporativos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20261231 31/12/2026",
-      "data_entrega": "20260608 08/06/2026 09:28",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1531534",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531534",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-06-08T11:48:58.759740"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260501 05/2026",
-      "data_entrega": "20260608 08/06/2026 09:09",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1531518",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1531518",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-06-08T11:53:09.544106"
     }
   ]
 }
