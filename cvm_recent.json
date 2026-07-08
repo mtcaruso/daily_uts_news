@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-08T18:56:18.380995-03:00",
+  "last_updated": "2026-07-08T19:55:38.214039-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Aviso ao Mercado",
+      "especie": "23ª Emissão - Alteração de cronograma e divulgação do resultado da coleta de intenções de investimento -",
+      "data_referencia": "20260708 08/07/2026",
+      "data_entrega": "20260708 08/07/2026 19:40",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "23ª Emissão - Alteração de cronograma e divulgação do resultado da coleta de intenções de investimento",
+      "protocolo": "1543263",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543263",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-08T22:55:17.561689"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
