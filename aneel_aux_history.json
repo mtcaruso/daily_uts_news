@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T04:06:11.068612",
+  "last_updated": "2026-07-09T16:07:33.864741",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1454,6 +1454,19 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/regras-relacionadas-a-comercializacao-varejista-de-energia-eletrica-sao-aprimoradas",
       "summary": "A **ANEEL** aprimorou as regras de comercialização varejista de energia elétrica, impactando **distribuidoras** e **comercializadoras**. As mudanças visam maior transparência e segurança para os consumidores, com foco em contratos e informações claras.",
       "added_at": "2026-07-03T21:20:35.330054"
+    },
+    "partic_mme_cp_225": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 225",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/225",
+      "summary": "Implementação de estratégias da Convenção de Minamata para eliminar mercúrio na Mineração Artesanal e em Pequena Escala de ouro no Brasil. Ação visa proteger saúde humana e meio ambiente.",
+      "added_at": "2026-07-09T16:07:33.364485",
+      "objeto": "O objetivo do PAN  MAPE de ouro é implementar as estratégias previstas na Convenção de Minamata voltadas à eliminação do uso de mercúrio na Mineração Artesanal e em Pequena Escala de ouro no Brasil, visando à proteção da saúde humana e do meio ambiente.",
+      "deadline": "07/08/2026",
+      "start_date": "09/07/2026",
+      "fonte": "MME",
+      "sei_processo": "48390.000078/2026-51"
     }
   }
 }
