@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T13:18:33.835458-03:00",
+  "last_updated": "2026-07-09T15:11:28.864600-03:00",
   "items": [
     {
       "id": "resolucao-autorizativa-n-16.705-de-7-de-julho-de-2026-717849918",
@@ -155,7 +155,8 @@
       "orgao": "Agência Nacional de Energia Elétrica",
       "hierarchy": "Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Concessões,  Permissões e Autorizações dos Serviços de Energia Elétrica/Gerência de Outorgas de Geração de Energia Elétrica",
       "content": "PERMISSÕES E AUTORIZAÇÕES DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEELÉTRICA DA SUPERINTENDÊNCIA DE CONCESSÕES, PERMISSÕES E AUTORIZAÇÕES DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL,conforme as atribuições estipuladas no art. 1º, inciso XV, da Portaria nº 6.827, de 4 de ...",
-      "link": "https://www.in.gov.br/web/dou/-/despacho-n-2.452-de-7-de-julho-de-2026-717820749"
+      "link": "https://www.in.gov.br/web/dou/-/despacho-n-2.452-de-7-de-julho-de-2026-717820749",
+      "summary": "A ANEEL concedeu à Nascente Renováveis Ltda. registro para elaborar a revisão dos estudos de inventário hidrelétrico no trecho do rio Sorocaba (SP), com prazo de 780 dias. Foi suspenso o aproveitamento da PCH São João, conforme Despacho nº 823/2003."
     },
     {
       "id": "despacho-n-2.460-de-7-de-julho-de-2026-717817722",
@@ -166,7 +167,8 @@
       "orgao": "Agência Nacional de Energia Elétrica",
       "hierarchy": "Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração",
       "content": "DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEELDESPACHO Nº 2.460, DE 7 DE JULHO DE 2026 O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº...",
-      "link": "https://www.in.gov.br/web/dou/-/despacho-n-2.460-de-7-de-julho-de-2026-717817722"
+      "link": "https://www.in.gov.br/web/dou/-/despacho-n-2.460-de-7-de-julho-de-2026-717817722",
+      "summary": "A ANEEL autorizou o início da operação comercial das unidades geradoras UG01 a UG05 da UFV Perim Marataizes, totalizando 500 kW de capacidade instalada. A usina, de titularidade da Osvaldo Perim Supermercados Ltda, localizada em Marataízes/ES, poderá contabilizar sua energia a partir de 08 de julho de 2026."
     },
     {
       "id": "despacho-n-2.440-de-6-de-julho-de-2026-717844355",
@@ -178,9 +180,19 @@
       "hierarchy": "Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica",
       "content": "Legislacao.aneel.gov.br ANA CLAUDIA CIRINO DOS SANTOS Superintendente Adjunta de Fiscalização Técnica dos Serviços de Energia ... THAIS BARBOSA COELHO Superintendente Adjunta de Concessões, Permissõese Autorizações dos Serviços de EnergiaDESPACHO Nº 2.440, DE 6 DE JULHO DE 2026 Processo ...",
       "link": "https://www.in.gov.br/web/dou/-/despacho-n-2.440-de-6-de-julho-de-2026-717844355",
-      "summary": "Legislacao.aneel.gov.br ANA CLAUDIA CIRINO DOS SANTOS Superintendente Adjunta de Fiscalização Técnica dos Serviços de Energia ... THAIS BARBOSA COELHO Superintendente Adjunta de Concessões, Permissõese Autorizações dos Serviços de EnergiaDESPACHO Nº 2.440, DE 6 DE JULHO DE 2026 Processo ...",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A Aneel, por meio do Despacho nº 2.440/2026, indeferiu o pedido da Rincão São Miguel Energética S.A. para não reconhecer o descumprimento do cronograma de implantação da PCH Rincão São Miguel como excludente de responsabilidade. A decisão, datada de 6 de julho de 2026, nega a justificativa apresentada pela empresa para o atraso."
+    },
+    {
+      "id": "portaria-mme-n-926-de-8-de-julho-de-2026-717837750",
+      "title": "PORTARIA MME Nº 926, DE 8 DE JULHO DE 2026",
+      "pubDate": "09/07/2026",
+      "displayDate": "20260709000000",
+      "artType": "Portaria",
+      "orgao": "Gabinete do Ministro",
+      "hierarchy": "Ministério de Minas e Energia/Gabinete do Ministro",
+      "content": "O MINISTRO DE ESTADO DE MINAS E ENERGIA, no uso das atribuições que lhe confere o art. 87, parágrafo ... informações pertinentes estarão disponíveis no Portal de Consultas Públicas do Ministério de Minas e Energia ... interessados para o aprimoramento da minuta de que trata o art. 1º serão recebidas pelo Ministério de Minas e Energia",
+      "link": "https://www.in.gov.br/web/dou/-/portaria-mme-n-926-de-8-de-julho-de-2026-717837750",
+      "summary": "O MME abriu consulta pública para a minuta do Plano de Ação Nacional para Mineração Artesanal e em Pequena Escala (PAN-MAPE) de Ouro. O objetivo é coletar subsídios para aprimorar o plano, que visa eliminar o uso de mercúrio em garimpos de ouro, em conformidade com a Convenção de Minamata. As contribuições podem ser enviadas pelos portais do MME e do Brasil Participativo por 30 dias."
     },
     {
       "id": "despacho-n-2.436-de-3-de-julho-de-2026-717485138",
