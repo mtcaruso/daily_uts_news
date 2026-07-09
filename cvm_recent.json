@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T12:45:33.230057-03:00",
+  "last_updated": "2026-07-09T14:44:58.791148-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -6426,60 +6426,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-06-09T18:10:55.640491"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260501 05/2026",
-      "data_entrega": "20260609 09/06/2026 17:19",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1532470",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532470",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-06-09T17:41:19.686454"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260501 05/2026",
-      "data_entrega": "20260609 09/06/2026 17:16",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1532436",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532436",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-06-09T17:41:19.686430"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Documento de Atribuições da Diretoria Executiva -",
-      "data_referencia": "20260325 25/03/2026",
-      "data_entrega": "20260609 09/06/2026 16:07",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Documento de Atribuições da Diretoria Executiva",
-      "protocolo": "1532325",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1532325",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-06-09T16:10:20.223876"
     }
   ]
 }
