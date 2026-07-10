@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-10T16:22:48.124614-03:00",
+  "last_updated": "2026-07-10T17:47:17.656233-03:00",
   "items": [
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260401 04/2026",
+      "data_entrega": "20260710 10/07/2026 17:46",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1543994",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543994",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-07-10T20:47:03.356448"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260601 06/2026",
+      "data_entrega": "20260710 10/07/2026 17:41",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1543990",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543990",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-10T20:46:54.090457"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
