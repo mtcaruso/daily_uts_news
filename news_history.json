@@ -1,46 +1,6 @@
 {
-  "last_updated": "2026-07-10T15:20:36.321266",
+  "last_updated": "2026-07-10T17:25:06.983976",
   "items": {
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXpvb195SFViNXNGZTEtNkhnd3JmeUE2djdjdnFGWDRJdEhUQXkyVVZWNXljbllRcEJqalZYR08zRENpdnBicTcyRXJnd0JOYnNjSlF4TXVHbURic0xNemlsbllZNk9aYzdmd1h2T1dEY2VnaGV6U3lvQ3locHlQY3dLMHkxMGdCN0tCUHA1Vm82TndGd3VWTVJtMDZYVThNbGJJYkp2Z3Zjam9jVWtr?oc=5": {
-      "title": "Consumo total de energia do Grupo Energisa cresce 2,7% em maio - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T17:21:01.937830",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnhPQVpxWThBU2EtMzRHUkp1d3FnUVl6TlBZcmprYTMwNFNZTVV5TFRUSG5ieWJ2T0N0Wm9Na0dqZ0FEQlY3OFd2akVMY3BySWFDTmZ1WmNMNWtvOVBXY2x6Xy1rQmlhOUpodlNtWmR5S01SUEZMVWlleFRqMXVwNm1tc3BFMlhQV0thR2NXN1VQQQ?oc=5": {
-      "title": "Região Sul opera com 56,7% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T17:21:03.754887",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNS1J4MVRfbmdvbTloSnctTG0yMTNhVFpfTU43NWFsSWhXUzljZ09EWnBfWTAzeE4zWXl5YzNZNkNUbkdsT01HNlFfOERkd2NGd2E3emxiemtENHlfMlI0MnZlbDBFVVNKbkdGZHl6QVd5cWwtTVJmNUpyRjZLLWk1Vmc5NUFMRmhfQVJ0WkVmWFYwbGJuVUNiTl9wZWpiczRiR2FBeVFEZllEY1AwN2w1Y2tMbFNNMmRESUl1Qm9CZWZ0SFNLZjhuOHc0cF9KTE9XQS1mZ2F2M0t4VzVScF9xYTdrM2Zfam9hR0FhS25faVAxQkJFTEdkeUo0emJralpNTnpiYmhmTWJ3bnFseU5mdGVRXzNfX0xQUTlVTWtZcXVmUjBwRmpZcGlueDgxUGJRWmlMUHR1ci0wYWV4Q3c1Uk84aTZiTzQxb0tUY0ZrX0ozQy1XTFhWTDd2Zk5jVEpXSm1B0gHyAkFVX3lxTE5ZcHJPWHVtdnV6WFZOLVljTmY5MmRKUDdVS1Naa3ZDU3lJb3BaWmdVTTRtZWxUZWROXzlMYXhsX3l4RWJuS2pPMFE5cE9sdExLdWF3Z2tQVVlzOC1RbDBMbEJJcXBJcGpObmhtbHpkcTBuSFpNalNTVG9FNHNFWFhhYkZFb3BsaTA2MkZGa3RoZk5yVVd4bG5id25qVkR4dm5NTk5hSlFjUnVpM2U3enZFaVhYbjlIVERmRWVXTnNRVUxDbHV0WmN3OFBzbDI0UFk4VWJqSDJ1dU1SU21DS1l0OWlqWkpIWWlpVVZ1VXZuaktjNWlQMnlaRTZMd3MtOFE1OWxiaVZ4bXlXLVZzY0U2T3BCNmhDTkhHZE5SQUIwdkNuTGxVcGdOQkZBMl9ESlhFWGtyVGJnSTFvLWtWWUNFX19ZeFR4VmlOT2hnRWNCN1FvQWswcXdDdGRzd3pLMlNJU0ZCRzkxT0xpNklrRUhsZEE?oc=5": {
-      "title": "Gestor e consultor técnico em resíduos sólidos, Márcio Velho da Silva mostra por que a eficiência na gestão de resíduos define o sucesso financeiro das concessões de saneamento - Valor Econômico",
-      "summary": "Gestor e consultor técnico em resíduos sólidos, Márcio Velho da Silva mostra por que a eficiência na gestão de resíduos define o sucesso financeiro das concessões de saneamento Ignorada nos modelos de valuation, a operação de resíduos dentro das concessões pode ser o fator que separa contratos lucrativos dos que acumulam passivos. O debate sobre concessões de saneamento no Brasil costuma girar em…",
-      "source": "",
-      "added_at": "2026-06-26T17:22:03.688125",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZjFtQlQ3SDJxYldpaWk4Yng5anFJT2xDNmFNdkp4Z21fU2FYQnlZWmkyT2xJb01wZ3FIYTUzREU0amFNR19haGtXblJpajlWR1o1aV91NHNDNGdoSmZzd0I1T3RydENMay14bEhoT3JicjJDbXdqZ0pyWkJ2UFRBX0hPanJ1Tnp1QWpueEhrUWVldW9PSkpGQzQ0c3ZOdzBFdDFJTjJCUzNqMnU3OGs5cXhHaGt5dnhockJaV2QtOVJFR21vcDhiTVZyQ2loVHRp0gHWAUFVX3lxTE1ya0hUQlZTalhPeVJ1WF82dFhiaGZxWERwdjZ6aUwwN2d1Ujd5NUNXNUlLTmppZC1RNTZtR2RMbVFpSHI0NFNvSW5FTzR6el9ZTWpYM2pTUzdJSEV6MXEyREQ3TEpENVZzc1l6SmY5bl9Yc2FjWUFGMkY5N0E3V0ZnRmRhQnhub0kzbzRPemlTZ2E1MFAtdnRDWFNWXzd2TGU4ZXk4X1Z0WHFvdFdGV1pIV0V6M0tfdk1FQURseWczWVNuY2JoT0NSbjUyYmlvT2FtakFUamc?oc=5": {
-      "title": "Axia Energia (AXIA3) fará sua 10° emissão de debêntures, no valor de R$ 1,6 bilhão - Estadão",
-      "summary": "Gerando resumo A Axia Energia (AXIA3) anunciou a décima emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em até duas séries, no montante de R$ 1,6 bilhão, com possibilidade de lote adicional de até 25% do volume da emissão, o que pode elevar o volume total da operação a R$ 2 bilhões. De acordo com o fato relevante divulgado há pouco, o pagamento de juros…",
-      "source": "",
-      "added_at": "2026-06-26T17:22:03.693277",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW00QzRfZUd1aHFaV0hFTlpSS2lHQ1VhQ3pITllDZmNLcEpMY24xSm9Ma2JVNnQzSWtlVTMzQ0JtSE9uUmVCNEM3bzhGeXlVcXA3LWdyNFFkR09zNS1GNG9WQUlIMEUzMjRGeWEzT0xRZ3VIbXlyVlRnb1k5YlZacWhYcXVLcV9TNDBGVDh2NXBuS0dpQ1RWcmd6RDRDQUVWeXF4bmRZR01OcUlqVWNrbU16dldlNWRZUFZMTVN6X1RXd05mTHfSAcYBQVVfeXFMUDVtNEM0X2VHdWhxWldIRU5aUktpR0NVYUN6SE5ZQ2ZjS3BKTGNuMUpvTGtiVTZ0M0lrZVUzM0NCbUhPblJlQjRDN284Rnl5VXFwNy1ncjRRZEdPczUtRjRvVkFJSDBFMzI0RnlhM09MUWd1SG15clZUZ29ZOWJWWnFoWHF1S3FfUzQwRlQ4djVwbktHaUNUVnJnekQ0Q0FFVnlxeG5kWUdNTnFJalVja21NenZXZTVkWVBWTE1Tel9UV3dOZkx3?oc=5": {
-      "title": "Do apagão à saúde: como a energia nuclear pode trazer segurança elétrica e salvar vidas - Estadão",
-      "summary": "RIO - Demonizado por muitos, desconhecido por boa parte da população, o setor de energia nuclear luta para seguir sua agenda de expansão. Nesse pacote entram a conclusão de Angra 3, o começo dos pequenos reatores modulares (SMRs, na sigla em inglês) e ainda a busca pela autossuficiência na produção de radioisótopos.",
-      "source": "",
-      "added_at": "2026-06-26T17:22:03.693579",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDYxVVNQZnROd0JueUdDWmI2LVpVS3Q1clN1ckdGMDhsdC1vVjFFRkNNVGh5YzhlRmtqT2NxTDZHMkt5VmRBRTVqVmI1cjVfcmdHYmZCVU14MUZXR21VOVo0a3Y3VGlWOEd6WG9sWnQ0S2U0NGtzSnBBTkJuOGMyMmcxcDZOQ1k3cDhuc21KNEpLbXZSd1VoT3VVNA?oc=5": {
       "title": "Falha em subestação interrompe 137 MW no Pará - CanalEnergia",
       "summary": null,
@@ -4255,7 +4215,7 @@
       "source": "",
       "added_at": "2026-07-09T18:24:29.859553",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmR5S2g1NVhCdzUwd3REOTctbko0clNQRUtPeHdycXBJMmJWSHFTTHBkdk5pQWdWV0dBRFFFT2Q0YlF4blZucVhvSHdEMVZURDRleVc1cjJjd3VwLVZreWtwbTVRQjBWRHlwLUY4OHBaMVRhLU95dGFBeTN1bW9XS1JKdzFtSW9zeXhvZGhRSE5TczFtWXREbGlvZEpLV1kzdHc?oc=5": {
       "title": "Boletim do PEN Avaliação Conjuntural – Mai26-Out27 - CanalEnergia",
@@ -4271,7 +4231,7 @@
       "source": "",
       "added_at": "2026-07-09T22:07:02.897109",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWVFdEFpY0dOMzA5SzdWSXN3Uzl5QXl4OVBkMERybFNuMVB4X3lHb0dsWWJVYXBqZllxekFocmlqNXV2U3RSZVh1X2hCRF9VWHZURFRMZFdkbTE3VzZrWWRlbHFxc2RCTE82LVVaX0JKX1FuTkMwUmxSejVUTnhNdGdlZWhfZi01WXpoNmtqU2Y3SmJqN2pGT1ppZEtBdENmWUNFU2FEVXJ0eU50Yl9zMXUwSEFjckt2TnVnRHpWNVdEYzRxbEdVQS1GUWtEWEhHNDBINThKUVlhUQ?oc=5": {
       "title": "Wartsila: descompasso entre construção de Data Centers e infraestrutura de energia na América - CanalEnergia",
@@ -4279,7 +4239,7 @@
       "source": "",
       "added_at": "2026-07-09T22:07:04.602638",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMElaMkZzNXZiZHJIUTZ6c050VnMwY19KY3hRcTVIcFZhQUdoY2pXZkVPNXV5NTlzREZTb2xMc1pGcUVYd1RZSmd3dHhuQkpTV2E0bUVPS2NESTctbzNzTmV6TG1jNHB2S090M29XY25YZGZiZ2x1V2QtTU5lM1JRcDZGbGhNcllKSE53TjJ0RzBGdFJTZW9RTGpDOGV6WVpWQmFiaHVCLXRSTEtwSEE2TWpRckNBUTlBbFFFcjJtd2l3RU5XbXc?oc=5": {
       "title": "Entidades do Brasil e EUA propõem acordo para evitar novo tarifaço de Trump - Folha de S.Paulo",
@@ -4293,7 +4253,7 @@
       "source": "",
       "added_at": "2026-07-10T12:36:51.803248",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjVBNEJIMmJXRzFCcUhXWGFaVTN0cjVzRUsxd1BZMDJkc0xIZ2EtajJlaGhGOHRXckoxWW5NSm5OZUNiaDRMb05oVEx3RDhPak5qaFMyTXNlNnVEWFVMUnpLNjBtMk1CZElFVkh2REZpa3dYOEpUdi16Q2ZMdEpVVlJmS2lKTHFlZXhpRXBNMmlxbkljREtVVXFwSGREZnYtY3BQVWpLQ2VnelhxYThiYkM5Sl9EVk1LeHfSAcgBQVVfeXFMT093NTNHdmdLdzctaGxYY0hkY19UYTN0bmlrbnYxVFRpZ3J1VXIxdGtUTHBtMlhrQVBMa3dSa2dlbnM2QmlPVmhSNThBUm1OUElMNmZhXzhTNml5VHBmcXJHSm9YUEdsS25DdVBiSU52d1hoZF9feW1hVzBrT2xiR2JhQURXVDQxMjMyRVZXRklWQmR3LXVhZ1pmWmhvTXJKVW5qVlVKNzZGVzJ3ZUZlcDBnLWNlajhhMUpMazhGS0ZLSFpFQXFIcHA?oc=5": {
       "title": "Cidades são palco da transição energética - Valor Econômico",
@@ -4309,7 +4269,7 @@
       "source": "",
       "added_at": "2026-07-10T12:36:51.803381",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVdxd3ZTLWJRRkVWTFdVVjFneHdkUnhsSHV5S2s3VEhVTnhxNmVFOWxXNmRDX25ZSXBxU0NBNmtyaENNR3R4VHF5ellCdmxkUjBCckQxRWI4SE9NYkQtRzdfWS13MG90QWNSQnR1NTBFVXJsdl9lRzlTRkxJUXN6bThGNm5ra2FTRElIVEtPOWpfLWxNMTJTemp3aTNMSHpGRGh0MUlGZFJhMW8?oc=5": {
       "title": "Sabesp aprova liquidação da Infranext Soluções em Pavimentação - estadaori.estadao.com.br",
@@ -4317,7 +4277,7 @@
       "source": "",
       "added_at": "2026-07-10T12:36:51.803432",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWJIb0NkSHN5dlU5aWhyLTVscFhMeFJ2MDJJWWNWYnYxTDZOTF9jbTRoQWsydnlrVUJ4Zzk1QW9Ub19BSFR2bzJJZmU4Ykw3X0E3WVlfSWEwaW8wSXdfNkZLOUh6ZF81Vnc0Z0NnT2t2YmxRUWR6Wkl4Ym5tTGhuUVdYLUYyellPcEIzZjZRZm42d2ZBOWlGM1NKcHgzVlQ1bWRENlVR?oc=5": {
       "title": "Energia elétrica lidera pressão sobre o IPCA em junho - CanalEnergia",
@@ -4325,7 +4285,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:27.357337",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUlXdVBRZFJYQ05sX0o5RkZvZGRZT1psLUxyQkhsQUJWblRUVW1GMGhsWFJodllkRk5PMzMxZFk1YjUzQ25FVGx1SmdnV1NWUVM0cldlaWF2dDVvQ2ZGSFg3RGJiWVotR0U4VUt5RDROZWpIX0NHREdjQjNYMENucklSNGxjVDhldU1rS1haVGw3TGlrR01RLXc0VEN0dw?oc=5": {
       "title": "Usina flutuante Poraquê ganha exposição virtual - CanalEnergia",
@@ -4333,7 +4293,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:29.003066",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmlYZE0zOE9JeFpKNmZNejdKeUhhUi05ZlNFUmNETVFCMjhBaFJpVXJuOWdFQUVhbGRnM0tFSVJhTFBPdDFYVXZTamVHRDBlN3pWZFhOb0xjbU1JWEY4b0Z3THgtWW9GbWFIOUF3N09EQVJxY0RnMUhPOEV0dEFhSjNnaVVKZmUyVXM4ZlFMQWxMSFpuVmVTLVZNSmQxNGpOLUpyaGVzVVBVN3pqRTVpMmVuc3lFVHpjSzRGdFBNRTAzRmdYQzhj?oc=5": {
       "title": "Biodiesel, segurança energética e a nova fase da transição energética brasileira - CanalEnergia",
@@ -4341,7 +4301,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:30.636994",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1FkNzJnWEVLVUs4VXQ4ZjlRcDJOV0VSSkVueHpFZHlFcmFSWVNRMmJ6Y2c1RFZyVjNxR3I1N0JZSGlqRlpBT0FMa3p1UnZESFVpNmNlV3Y2dGp4OE41ZDk0aVl3NFo3dkwtWHYxNWkwS0Nvc2t3NjUxSWNka0JtV0dfdUg1WFRUYXNZeDlKcWFpSFYtX0FJV1V6MmlrcC1HMG8zX0p6UVZBRWpkaFE?oc=5": {
       "title": "Coluna Giro Energia: Neoenergia mobiliza escolas para a ONEE - CanalEnergia",
@@ -4349,7 +4309,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:32.295829",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEhsU0FsTHB5dXd6b0hxTU11Y2Qyd0RZMVU4cnZqRFAxUjdEOHJqLUctX1BIa2p4ZllMN0syT2N5MUM1bzZRN0RnZGxGSjhPcHpscmNiUzczZkQ3bk0wQTJMOWVSQWgwSFRXQU4wYXlVTFpKVjJRZXFKRUh4eFZ1Y2d0bnVIV3FVdkJqS25nSnE2YTYyaEd2Tl9wY3NPbUtvRG0wTXdUYldHRFYzdkxqeA?oc=5": {
       "title": "Após incêndio em inversor, EDF poderá retomar operação de solar - MegaWhat",
@@ -4388,6 +4348,62 @@
       "summary": "A Comissão de Fiscalização e Controle (CTFC) do Senado Federal aprovou o projeto de lei complementar (PLP) nº 109/2025, que possibilita que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) tenha acesso a notas fiscais eletrônicas de empresas e agentes regulados, como forma de coibir fraudes no setor de combustíveis. Pela proposta, a concessão ou autorização para que uma empresa…",
       "source": "",
       "added_at": "2026-07-10T15:20:36.314572",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3NheFM1cjRET0h5X3ptajctcmMzOWY3dExiWHJwY1dkSTVhZFVkVmpGU3dBQTNhV1BfNUtsNzB5VW9vRHNXa1FjcWRpMzZCcEJmaDdTSVNSR1BEcTRoTmx5U2wxWmR4bkpHbElGMzF0amxKUVpkRW5TREc5YlNxVHJmZjA5UDdKOEpRT05PdHlzN0wtWHhBdG9jWXFzdlE2NUt6aW1XUE9Hc0d1aU10N3NRQk56SzI0TDFF?oc=5": {
+      "title": "Aneel suspende operação de unidade de Belo Monte por falha no estator - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-10T17:24:18.006032",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGVkVmloOGt1OXluVEJERjI0MlprTHF5cllVYjlwTURFZ0xfdzd6bDVINFRmZEpEaXZNak1mSF9aZ1JweC11d24wUVFDaklyQTZHQXA0blZpc0hjeFoyTFU4RkM2RHhDazJScDdTSDhIY1F5X0pNN2xfQ0xGODVhU25iem9uc2ExakcxMTBPSGhVdw?oc=5": {
+      "title": "Região Sul opera com 81,1% da capacidade - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-10T17:24:19.826504",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNWxOcV82QVlDS3pLY1FzcnFlWGRtdVJHQTY4NkN2T3VpYnpES19oNU8ydnlVM3NPV2RJOENvMGJvekJqZDBQSGYzMEpIajI1VWZQa1hBTF80cmRodEdyc0NMSS14RVFFWWYyM0Zpb1JuMWZlLTRUd1JNV3JhTE55bzQ1MU1PLVBTSVRmTG9UMDhjSmhNS29aZFMtT2xyMmY4QjdaMVE1Z1NDU1l0NWFQSFFsRHdMMUp6MUw5UG9HWnQ1N1F3WVFYalI5dkc4SXFXR2xGREtlejB4d2JKeUptR1M4U3NYWkJ4ak41MUln?oc=5": {
+      "title": "Acelen Renováveis assina acordo com Bunge para óleo de soja em projeto de SAF e diesel renovável na Bahia - Folha de S.Paulo",
+      "summary": "A Acelen Renováveis, empresa de energia do Mubadala Capital, assinou um acordo de cinco anos com a Bunge para o fornecimento de 1,5 milhão de toneladas de óleo de soja certificado, matéria-prima que será utilizada na produção de combustível sustentável de aviação (SAF) e diesel renovável (HVO) em sua futura biorrefinaria na Bahia. Conforme o acordo, a Bunge fornecerá 300 mil toneladas do insumo…",
+      "source": "",
+      "added_at": "2026-07-10T17:24:44.783910",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlZIb2liR3NyUVRmY3ZJOWVDTHlEU2FubUd2NmNKSDNIMGZnWVEyOXhwYXpLeHRpd0VHbWdVUjJJWjRtVmQxVzFHajBZYnBxUUx4MEVrcUhHUWdxb0l5WDJPUVVqZFJvT2lfb0gtZGtZRldBS3VQck9pXzlzMVJ4cWFURE1oQQ?oc=5": {
+      "title": "Crise de energia – Engrenagens do Crescimento - especiais.estadao.com.br",
+      "summary": "O peso invisível: como o déficit de infraestrutura eleva o custo de vida e limita o crescimento Ouça o episódio 2 do podcast de macroeconomia do Patria Em um País de dimensões continentais e com uma demanda crescente por modernização, os investimentos privados têm papel decisivo para financiar projetos de infraestrutura e impulsionar o desenvolvimento. Hoje existem diferentes mecanismos para…",
+      "source": "",
+      "added_at": "2026-07-10T17:24:44.784079",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFZlRW1OWVNYVWx6VjkxdlNNRE9WZXpFNjZMVFdKX05Ha1FaM3pRYjRFXzExb2RQT0dZYU1NX1pzekV2Ym13el83LUc2c0NqZ2pNcDNCMVJMWW13dHJnbjlfNWJYSlNILXFGVjNHeUxyWEpNeTNQNkx5emxELWNCMmhmWkxmaEZyc1h4TWpqMlZIcTFSb09aOHBsTUxhVE5o?oc=5": {
+      "title": "Área técnica da ANEEL descarta obrigatoriedade de redes subterrâneas - Agência iNFRA",
+      "summary": "Geraldo Campos Jr., da Agência iNFRA* Uma análise da área técnica da ANEEL (Agência Nacional de Energia Elétrica) recomenda que não sejam criadas obrigações de enterramento dos fios de energia pelas distribuidoras. A justificativa é que a adoção das redes subterrâneas teria um custo elevado, de quatro a dez vezes superior ao das redes convencionais, o que impactaria significativamente as tarifas…",
+      "source": "",
+      "added_at": "2026-07-10T17:25:06.975309",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX09BelVlbi0wbDZENmNPOGJNbGhRTmV1TC1EaTB3WXNkRWJ1cGN5b21tbWotUGdBMS1TaTJiYy1hYmczVEduOGNJR2NEQ3pWVzlsVm93cDdhalIzcURmSlBua0E5dm9iM2xCT0dDVUpRcF9mU3pvTk41Q1owMnhxc21KMVJnelRwNlRieFcxVTZ4MkhzdEVTWUpKV2FwRHpTRWdfMTV1OA?oc=5": {
+      "title": "ANP: MME viu piora em negociação entre PPSA e Petrobras sobre gás da União - Agência iNFRA",
+      "summary": "da Agência iNFRA O diretor da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) Pietro Mendes afirmou na reunião desta sexta-feira (10) que o MME (Ministério de Minas e Energia) identificou piora dos termos da negociação entre PPSA (Pré-Sal Petróleo S.A.) e Petrobras sobre o escoamento e tratamento dos volumes de gás da União. A proposta da Petrobras feita nesta semana seria pior…",
+      "source": "",
+      "added_at": "2026-07-10T17:25:06.975429",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk9hTTZSLUlMQjZ0N2VGMUVkNHh0X3lWQnJjZEpBdXdSTWZjVi00anpZUkF2UTVRcTcySFlsZFI0ZFgzNDBDOWh2R3RQUFVtT2RmZFdxcnZPWVFTN2U1WHlxTnljTmNmd3YtWmhKUW9uc3EtSGNuUVQ3M08zbFdOOGR4emUzYnljNmVRV1p4MVBiUFdIMHQ5MVd0bVM?oc=5": {
+      "title": "MME define plano para regularizar garimpo e banir uso de mercúrio - Agência iNFRA",
+      "summary": "Rafael Bitencourt, da Agência iNFRA O MME (Ministério de Minas e Energia) concluiu o Plano de Ação Nacional para regularizar a atividade do garimpo de ouro no Brasil e banir o uso irregular de mercúrio – o plano é de 12 anos, com ações prioritárias para até três anos. O documento foi elaborado para atender ao tratado internacional da Convenção de Minamata sobre Mercúrio, do qual o Brasil é…",
+      "source": "",
+      "added_at": "2026-07-10T17:25:06.975626",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
