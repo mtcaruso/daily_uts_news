@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-07-10T19:08:32.243100",
+  "last_updated": "2026-07-10T20:53:35.117720",
   "items": {
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDYxVVNQZnROd0JueUdDWmI2LVpVS3Q1clN1ckdGMDhsdC1vVjFFRkNNVGh5YzhlRmtqT2NxTDZHMkt5VmRBRTVqVmI1cjVfcmdHYmZCVU14MUZXR21VOVo0a3Y3VGlWOEd6WG9sWnQ0S2U0NGtzSnBBTkJuOGMyMmcxcDZOQ1k3cDhuc21KNEpLbXZSd1VoT3VVNA?oc=5": {
-      "title": "Falha em subestação interrompe 137 MW no Pará - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T19:22:36.870923",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmRZelVNYVFDZDBhUDlDUS1neDNzWWdRQnZ2dVZXQjUxaGlweWxuUGNiQm5qUFMzSGcyVW9RYXJsTUZSdWdvOHBqbV82bEZvaVpmRnFBdGRJTUJpdWJvdlF5SDg0UktZVjU2Qi1qVjZjWkdOVHgzaEhRME01Z2daaVZJSFJUUDdFVUdfVnhoV19qclc1b2lHWW1KM25PWERWNlJGdko0S2V3ckpBVE44MjJCa2oxdmJjOTJPSVJreUM?oc=5": {
-      "title": "Geradores querem alterações no ordenamento e rateio dos cortes de geração - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T19:22:38.544372",
-      "error": "no_article",
-      "attempts": 8
-    },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTBIM3JOeEtmWVJ0QS1CeVlMNlV4QWJnbC1oODZpek9ZV09rQTBHZl9DcGVNam10a0RrR0pDOVNDM1ZGeGhjdEN4ek1vQi1FTERCMHR2RkgzcTJZbG05a0xKV0xWN0NVeEhNN2ZXS21tNVlJYUVzOExuTUpwOGVzdllzYWZvWC1TUkRNTHN1QzN2Xy1wTS16RkZ0NXVGN2gxQjF0YUdZeHVHQk9DeHFPTUNB?oc=5": {
       "title": "Julho inicia com nível de afluência próximo à média no Sudeste - CanalEnergia",
       "summary": null,
@@ -4231,7 +4215,7 @@
       "source": "",
       "added_at": "2026-07-09T22:07:02.897109",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWVFdEFpY0dOMzA5SzdWSXN3Uzl5QXl4OVBkMERybFNuMVB4X3lHb0dsWWJVYXBqZllxekFocmlqNXV2U3RSZVh1X2hCRF9VWHZURFRMZFdkbTE3VzZrWWRlbHFxc2RCTE82LVVaX0JKX1FuTkMwUmxSejVUTnhNdGdlZWhfZi01WXpoNmtqU2Y3SmJqN2pGT1ppZEtBdENmWUNFU2FEVXJ0eU50Yl9zMXUwSEFjckt2TnVnRHpWNVdEYzRxbEdVQS1GUWtEWEhHNDBINThKUVlhUQ?oc=5": {
       "title": "Wartsila: descompasso entre construção de Data Centers e infraestrutura de energia na América - CanalEnergia",
@@ -4239,7 +4223,7 @@
       "source": "",
       "added_at": "2026-07-09T22:07:04.602638",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMElaMkZzNXZiZHJIUTZ6c050VnMwY19KY3hRcTVIcFZhQUdoY2pXZkVPNXV5NTlzREZTb2xMc1pGcUVYd1RZSmd3dHhuQkpTV2E0bUVPS2NESTctbzNzTmV6TG1jNHB2S090M29XY25YZGZiZ2x1V2QtTU5lM1JRcDZGbGhNcllKSE53TjJ0RzBGdFJTZW9RTGpDOGV6WVpWQmFiaHVCLXRSTEtwSEE2TWpRckNBUTlBbFFFcjJtd2l3RU5XbXc?oc=5": {
       "title": "Entidades do Brasil e EUA propõem acordo para evitar novo tarifaço de Trump - Folha de S.Paulo",
@@ -4285,7 +4269,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:27.357337",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUlXdVBRZFJYQ05sX0o5RkZvZGRZT1psLUxyQkhsQUJWblRUVW1GMGhsWFJodllkRk5PMzMxZFk1YjUzQ25FVGx1SmdnV1NWUVM0cldlaWF2dDVvQ2ZGSFg3RGJiWVotR0U4VUt5RDROZWpIX0NHREdjQjNYMENucklSNGxjVDhldU1rS1haVGw3TGlrR01RLXc0VEN0dw?oc=5": {
       "title": "Usina flutuante Poraquê ganha exposição virtual - CanalEnergia",
@@ -4293,7 +4277,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:29.003066",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmlYZE0zOE9JeFpKNmZNejdKeUhhUi05ZlNFUmNETVFCMjhBaFJpVXJuOWdFQUVhbGRnM0tFSVJhTFBPdDFYVXZTamVHRDBlN3pWZFhOb0xjbU1JWEY4b0Z3THgtWW9GbWFIOUF3N09EQVJxY0RnMUhPOEV0dEFhSjNnaVVKZmUyVXM4ZlFMQWxMSFpuVmVTLVZNSmQxNGpOLUpyaGVzVVBVN3pqRTVpMmVuc3lFVHpjSzRGdFBNRTAzRmdYQzhj?oc=5": {
       "title": "Biodiesel, segurança energética e a nova fase da transição energética brasileira - CanalEnergia",
@@ -4301,7 +4285,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:30.636994",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1FkNzJnWEVLVUs4VXQ4ZjlRcDJOV0VSSkVueHpFZHlFcmFSWVNRMmJ6Y2c1RFZyVjNxR3I1N0JZSGlqRlpBT0FMa3p1UnZESFVpNmNlV3Y2dGp4OE41ZDk0aVl3NFo3dkwtWHYxNWkwS0Nvc2t3NjUxSWNka0JtV0dfdUg1WFRUYXNZeDlKcWFpSFYtX0FJV1V6MmlrcC1HMG8zX0p6UVZBRWpkaFE?oc=5": {
       "title": "Coluna Giro Energia: Neoenergia mobiliza escolas para a ONEE - CanalEnergia",
@@ -4309,7 +4293,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:32.295829",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEhsU0FsTHB5dXd6b0hxTU11Y2Qyd0RZMVU4cnZqRFAxUjdEOHJqLUctX1BIa2p4ZllMN0syT2N5MUM1bzZRN0RnZGxGSjhPcHpscmNiUzczZkQ3bk0wQTJMOWVSQWgwSFRXQU4wYXlVTFpKVjJRZXFKRUh4eFZ1Y2d0bnVIV3FVdkJqS25nSnE2YTYyaEd2Tl9wY3NPbUtvRG0wTXdUYldHRFYzdkxqeA?oc=5": {
       "title": "Após incêndio em inversor, EDF poderá retomar operação de solar - MegaWhat",
@@ -4317,7 +4301,7 @@
       "source": "",
       "added_at": "2026-07-10T15:20:36.306927",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0FkNEt0UUxYS0dTcVM1YVkxenIxYnRsVnR2dm1Pcmw2MlZsQWg5amFsYzd3bUZaQWZZUm9zWWNNLUNUaEdlQWp1V3RsczJTM1F4Q2s0bXllRTY5VnZLT3NreEhGU3RaYnBDNTZxbE9CaGFuMHF4RXM4bS1Uc282M1VsTmNhZWU4MEc4TVpTYXpLREY5VndtR1JvRmRJN1pQS1ptUWVjY2RrRmV1OUxBTlBja19xdHlqNDIwVw?oc=5": {
       "title": "BBF não inicia geração por retenção de receita e Aneel suspende térmica - MegaWhat",
@@ -4325,7 +4309,7 @@
       "source": "",
       "added_at": "2026-07-10T15:20:36.307088",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTlGemFicFdwbnFtdzZJc1JFNURLZ0RMTExtODdNbll4ZDlXUXJ5VGZydGN3dENiTVNtRVlkNUdrMXdLRzBTamdiQm56anZJU3lHNHFmRWNEbHpyM0Y4YkVvQzlJbkZqV0lUZHVpUl9Mems1OUptNnZCSmhjZkFpQjd5amUxZXBOMC1tUjBZamdPUklHSlFnbXJOS1F4d2RNdWI4dTZlTm5jQW5pemNIU2NjTQ?oc=5": {
       "title": "Falha em turbina tira 611 MW de Belo Monte de operação comercial - MegaWhat",
@@ -4333,7 +4317,7 @@
       "source": "",
       "added_at": "2026-07-10T15:20:36.314312",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhraGMzR244dDBEOG0zdHVaOWpmaW9pVlNXRndBV0VUR1pWRkdFRHhoMnJyWVJTQkpncmhFdVRsMUpVaDJsQnJid1JiVU5XR3pzRnYyeVozeFFONVU4YVlUbDdsWjNjTVEwQ3pIellSaXFSR3p0N2w2cl96aVRGY2JJdkc3MThRMVZxX0lzaUx4QVQ1a2tUVVp2WkQzNjVZa2hRenlKUUszbTBWM2wyVVFn?oc=5": {
       "title": "Raízen avança na venda da operação na Argentina para a Mercuria - MegaWhat",
@@ -4341,15 +4325,13 @@
       "source": "",
       "added_at": "2026-07-10T15:20:36.314499",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanViV2c4S1lrd2hNY2M5QzUxVTZycmR2Mlg1UXQ2ZmR2OEhTZENGWU5TLThTaWxiajhCZ0trS1pvaG5ZSVZscVpkWE9vQjY1RkkwNThDSHNDdW16T25XOUxXZF92V1E2QVhhdTNCWGhlR0hsUFdTUU5sRUN4aGxOaVJrVk5NQUtiQVU0UjFYWG13blhYX0hXbFBBNVo1Z21mbnkwX2NtT1h5UXF5YUszRnk2Ny1zNlN0RFF6ZnRn?oc=5": {
       "title": "Para evitar fraudes, projeto prevê que ANP tenha acesso a notas fiscais de agentes - MegaWhat",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) do Senado Federal aprovou o projeto de lei complementar (PLP) nº 109/2025, que possibilita que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) tenha acesso a notas fiscais eletrônicas de empresas e agentes regulados, como forma de coibir fraudes no setor de combustíveis. Pela proposta, a concessão ou autorização para que uma empresa…",
+      "summary": "A Comissão de Fiscalização e Controle (CTFC) do Senado Federal aprovou projeto de lei que permite à **ANP** acessar notas fiscais eletrônicas de agentes regulados para coibir fraudes no setor de combustíveis. A proposta, vinda da Câmara, exige autorização de acesso a dados fiscais como condição para atuação no mercado, com custos de implantação a cargo da agência.",
       "source": "",
-      "added_at": "2026-07-10T15:20:36.314572",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-07-10T15:20:36.314572"
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3NheFM1cjRET0h5X3ptajctcmMzOWY3dExiWHJwY1dkSTVhZFVkVmpGU3dBQTNhV1BfNUtsNzB5VW9vRHNXa1FjcWRpMzZCcEJmaDdTSVNSR1BEcTRoTmx5U2wxWmR4bkpHbElGMzF0amxKUVpkRW5TREc5YlNxVHJmZjA5UDdKOEpRT05PdHlzN0wtWHhBdG9jWXFzdlE2NUt6aW1XUE9Hc0d1aU10N3NRQk56SzI0TDFF?oc=5": {
       "title": "Aneel suspende operação de unidade de Belo Monte por falha no estator - CanalEnergia",
@@ -4357,7 +4339,7 @@
       "source": "",
       "added_at": "2026-07-10T17:24:18.006032",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGVkVmloOGt1OXluVEJERjI0MlprTHF5cllVYjlwTURFZ0xfdzd6bDVINFRmZEpEaXZNak1mSF9aZ1JweC11d24wUVFDaklyQTZHQXA0blZpc0hjeFoyTFU4RkM2RHhDazJScDdTSDhIY1F5X0pNN2xfQ0xGODVhU25iem9uc2ExakcxMTBPSGhVdw?oc=5": {
       "title": "Região Sul opera com 81,1% da capacidade - CanalEnergia",
@@ -4365,7 +4347,7 @@
       "source": "",
       "added_at": "2026-07-10T17:24:19.826504",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNWxOcV82QVlDS3pLY1FzcnFlWGRtdVJHQTY4NkN2T3VpYnpES19oNU8ydnlVM3NPV2RJOENvMGJvekJqZDBQSGYzMEpIajI1VWZQa1hBTF80cmRodEdyc0NMSS14RVFFWWYyM0Zpb1JuMWZlLTRUd1JNV3JhTE55bzQ1MU1PLVBTSVRmTG9UMDhjSmhNS29aZFMtT2xyMmY4QjdaMVE1Z1NDU1l0NWFQSFFsRHdMMUp6MUw5UG9HWnQ1N1F3WVFYalI5dkc4SXFXR2xGREtlejB4d2JKeUptR1M4U3NYWkJ4ak41MUln?oc=5": {
       "title": "Acelen Renováveis assina acordo com Bunge para óleo de soja em projeto de SAF e diesel renovável na Bahia - Folha de S.Paulo",
@@ -4373,7 +4355,7 @@
       "source": "",
       "added_at": "2026-07-10T17:24:44.783910",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlZIb2liR3NyUVRmY3ZJOWVDTHlEU2FubUd2NmNKSDNIMGZnWVEyOXhwYXpLeHRpd0VHbWdVUjJJWjRtVmQxVzFHajBZYnBxUUx4MEVrcUhHUWdxb0l5WDJPUVVqZFJvT2lfb0gtZGtZRldBS3VQck9pXzlzMVJ4cWFURE1oQQ?oc=5": {
       "title": "Crise de energia – Engrenagens do Crescimento - especiais.estadao.com.br",
@@ -4389,7 +4371,7 @@
       "source": "",
       "added_at": "2026-07-10T17:25:06.975309",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX09BelVlbi0wbDZENmNPOGJNbGhRTmV1TC1EaTB3WXNkRWJ1cGN5b21tbWotUGdBMS1TaTJiYy1hYmczVEduOGNJR2NEQ3pWVzlsVm93cDdhalIzcURmSlBua0E5dm9iM2xCT0dDVUpRcF9mU3pvTk41Q1owMnhxc21KMVJnelRwNlRieFcxVTZ4MkhzdEVTWUpKV2FwRHpTRWdfMTV1OA?oc=5": {
       "title": "ANP: MME viu piora em negociação entre PPSA e Petrobras sobre gás da União - Agência iNFRA",
@@ -4397,13 +4379,53 @@
       "source": "",
       "added_at": "2026-07-10T17:25:06.975429",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk9hTTZSLUlMQjZ0N2VGMUVkNHh0X3lWQnJjZEpBdXdSTWZjVi00anpZUkF2UTVRcTcySFlsZFI0ZFgzNDBDOWh2R3RQUFVtT2RmZFdxcnZPWVFTN2U1WHlxTnljTmNmd3YtWmhKUW9uc3EtSGNuUVQ3M08zbFdOOGR4emUzYnljNmVRV1p4MVBiUFdIMHQ5MVd0bVM?oc=5": {
       "title": "MME define plano para regularizar garimpo e banir uso de mercúrio - Agência iNFRA",
       "summary": "Rafael Bitencourt, da Agência iNFRA O MME (Ministério de Minas e Energia) concluiu o Plano de Ação Nacional para regularizar a atividade do garimpo de ouro no Brasil e banir o uso irregular de mercúrio – o plano é de 12 anos, com ações prioritárias para até três anos. O documento foi elaborado para atender ao tratado internacional da Convenção de Minamata sobre Mercúrio, do qual o Brasil é…",
       "source": "",
       "added_at": "2026-07-10T17:25:06.975626",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0liMUVCVGJqSHR4VXJqREowU2tSZ2hSWEhtU01GWG5KNE1JbHhMQjJLX1NPeC1VYUpnQzF3U2JSVlNOTXRVeDh4aC0tbktzNUdwV3lwcWtvMlZ3MEtFWVl0YlZHYkN1UnNvV28wZUFXLTBsUFdGUFY2d2xBajZmdW9JTXdaQjBaUlBNRnFSb3BqVEZwUFcyMlVQQVFHZkNET01tT2ZQbkZ0aFpFdnpVbDVMeTk?oc=5": {
+      "title": "ANP aprova consulta sobre acesso não discriminatório a gasodutos - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-10T20:52:23.529352",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS09oM18zTmNxd01PcnE2dkFydjZaWFlTZG5wNjNQOXBOWjg2dkNSMXhabWQ2YVFDaHpLYWotWDJEOEYwQUN3OUs5YV9vRjhGQ1A2eGlITVRJX0c5SFVIdjBteTlldDhkRnluMmswbWZwR3k5cnFlejlmQUV4NnJjOEZmZ0o0bmt6akN3aE5GOWVTWEVSUGFWUUpheTA4NFd6NHd2RUlrM055bk9RSW5fZy1xTG5iUQ?oc=5": {
+      "title": "Projeção do ONS indica carga em elevação e reservatórios em queda - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-10T20:52:25.453348",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdHZnazJubml5WWNieVlNMTljbVY2UXBFTTVvNHpqc3ZPRFRSdHZpblNkWF9qdDZSRGpPQzlEUHkyWlRwNXdLdHZBN0M1TFZCSm5FdS13TjBJT0FUZHdfZTZhU2dPT1NPQmZxYmU2TXdFWkFtZk1TYTRJUWcyNEp4MHFJTjJxVXRtUXNldlJ1aFBBdWpFZFUyT0ExaFREUUwzRDI1WlJobXVodmEzaTZRTHdvSmNtVnNfb01kRmVlbFFuLU5td2RzRFdxR0tBVk40QmxHa2JhcTd6TkgybDFtYXJqbmtZWWE3VGQxQ1B2UHZNU24wRC12TjkxdE9xeUpzbVdVQXA5bXjSAZcCQVVfeXFMTXBMN1c5djhENF91bVlsZkFpaHpEdXBjNi1mQy1ua29yYWNOeTRoTTdfaHJGbEQtRmRnaVlSWnBmNUlVYjQzelZtc3pyYVdXLW1mVVNmRjhxc0ZtNGhxUVZXM0UzaktjNGdrMGxfN0lQdWN6RDF3S2IwekFyUE1QVlFBWXpTVFV0YndtdjdXZVhJbmJrY291VHNCT3YyTVAxWjhHYlAzUkdqWlE0VDdKYXBaN1Vnc09WdGxZTGZrdGw0RklrRjFqR2pPVld3RGx4NjRVLVhqcGwwVVBKMUdESmk2WmRrNEo0dUt2WHRlSXVIZEd1Y2owcVhXa3BpczdqR3pEOUJwOU5tMDN3RGpzVnExOFhibmZJ?oc=5": {
+      "title": "Belo Monte fecha primeiro semestre com geração equivalente a 6,56% da demanda nacional, diz Norte Energia - Valor Econômico",
+      "summary": "Belo Monte fecha primeiro semestre com geração equivalente a 6,56% da demanda nacional, diz Norte Energia Volume coloca a usina como a que mais gerou energia elétrica na primeira metade do ano, comportamento verificado pela sexta vez consecutiva, destacou a companhia A hidrelétrica Belo Monte gerou nos primeiros seis meses do ano um total de 23.068.227,6 megawatts-hora (MWh), volume suficiente…",
+      "source": "",
+      "added_at": "2026-07-10T20:53:07.601462",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGY4ME94X0xlTUJHblcwLTNYU21BN0x6V2NtVWJJa3d0Vk02eGtQa2p4TmNrZlc5b01iTXBYQ2RvT1FFOUJYWFV1b1pnMzl6RXVkbnh2U2F2ZEJINW5IcFQ4S3IzWXM2ZG9JdW5oY1BfQlBMRDg5elhXNWVFZDRtLXVLQXpxaFNucE9pZHh2M2M3S1llQVhTLXVEZ2M5dzQ?oc=5": {
+      "title": "Estatal de Santa Catarina vence concessão de saneamento em Timbó (SC) - Agência iNFRA",
+      "summary": "Beatriz Kawai, da Agência iNFRA A Casan (Companhia Catarinense de Águas e Saneamento), empresa pública do estado, venceu, nesta sexta-feira (10), o leilão de concessão de serviços de abastecimento de água e esgotamento sanitário do município de Timbó (SC) ao propor outorga de R$ 60 milhões e desconto tarifário de 15% sobre o valor de referência. O certame foi dado por uma combinação de maior…",
+      "source": "",
+      "added_at": "2026-07-10T20:53:07.601772",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmROMWp3d2syWGNST3NuT1FXa3E1MXFtd29LYzZRb3lQOVQzbzZtb01QTzRhSU5iZU5HWGh3RWdvMTA3ZUpnWVFZVk9jcFgxT2htcklyS0lMdHgycDJCTzQ2WEpTUEZPVEF2c3lBbnVTMVpqbnBBTE5XSWVFN2dTOWRKSzlHLXptRS1uOWVkcXBVaDNDVG9zRGxsQkNyV0dtNGZ3MlF6RUJnd2tUZy0tNkl1bkZwUFFVYWFxSQ?oc=5": {
+      "title": "O papel estratégico da transmissão na transição energética brasileira - MegaWhat",
+      "summary": "Por: Talita Porto* A transição energética se consolidou como uma das principais agendas econômicas e estruturais do mundo. No Brasil, o avanço das fontes renováveis posiciona o país de forma privilegiada nesse processo, especialmente diante do crescimento da geração solar e eólica e da busca global por matrizes energéticas mais limpas e sustentáveis.",
+      "source": "",
+      "added_at": "2026-07-10T20:53:21.751762",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
