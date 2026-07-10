@@ -1,60 +1,6 @@
 {
-  "last_updated": "2026-07-10T22:15:31.867973",
+  "last_updated": "2026-07-10T23:36:11.924172",
   "items": {
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2ZjRzRCREUxTFZHOC1Ca1VQNlV2UUI1aGFJWTQwWHlTMTEyb2cxRXJvSndrRTYzZHhRY293SVlIaGwtQ3NueTdIU1lPZ2FoakVlWkwtbzJ3czJOMDA0ZlAyMnBOSlBqTkxJNms0WG9XclEyeEUzS0RDQ2VSN2NTZlZ4MjRYYjVPR2FuTEpicHgzZzJ3UGE2NHAxWElnVXF0R3RGSQ?oc=5": {
-      "title": "ANP aprova resolução sobre acesso a terminais de GNL - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T22:48:58.491080",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUgzNG5CdkJCbmFPQ3kyY0tPMjR6cV9ocTlGaThfVzVsekZKZkxYZklIbTdtQzNoOC1DRXBNc3hrSjNMd1VFTUdzdy14OHRjYUJLSmVEUEdKeWJ3b1hNdzBQS3QweE1NWGt2ZW5OWjVTSEh0RTZfa2dQNEtka2JsS0s4V01LTW5HVlVnYnpwdElrMFFOZzZJWWQxclV6bkVhcERQYjV1RS02VngyUnFhbi02SUNkSGhYNjZnd28zWUp2YzdiVk5xOWY4WQ?oc=5": {
-      "title": "Repactuação do UBP pode reduzir tarifa em até 5% para distribuidoras de 19 estados - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T22:49:00.406866",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjhsd2I1NVkyNmlveE5BczFVUm02ZHlFRW9YVGZjcE5naW9YZGNfXy1GOTUyaHMzbHlmZnltT2JSbG0tNS03ZWxiVzAya2Z5LTBEa1c2OVFBWDNGR29EZnV3SENHdFJUdWx2S0ZPd1pDVl9oR1Ziay1fQjNnT3BaRHh6Zl9QVkl5aTRWWjA3TnFCSnRMMUppT0tKdw?oc=5": {
-      "title": "Bandeira tarifária amarela permanece em julho - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-26T22:49:02.341952",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVJhUHlSQThMMXh2WDQ1YjZwRExfdnp2bXI3SXBRZzQ3SlJhT1R1WG16Z3R5VXFjejhxVGUxMVVuNHVfb1E1T3UtTmZOVFhaVHotR2VNNEFsNWtnVVJBN2trbEdNbkFkYWNFRThRdWR6bWQ1M2xDWk1Oc3cwX2sxa201QXp3LUR5Q1dONC1SeXo3MnB1RDF1Um40M3VPaTZzVVpWUlFlZmxCVmkwbXhnMmZES1dwWlVvUjY0YmdiaGljNFhuTWhIT1NkUEI3RTcySW1J0gHiAUFVX3lxTE1Pa2tuOUdsanhpTlJHbklSZm91ZGF1SVFjSmZyMl83RnVzaVFhRlVfZ3BRQVpLMFdjVTM4NTY2dnlkeDFsdjB2bldsUURfbGh2NzNiWnVsUS05YnQ5dmNfSFZhYy0xSjV4TTB4VFdzM3duUkdfWG9OU1NpUFdtdTRITWVtblRBVG95cVZLdDY5WWNidlZaU2RSdEMzZHpYQlBNalEtR1dUVUw4aU9fZ2NUazdNelVxb0ZRT253M0k1ZWZNOUxjcFpFeXV2WU9TWFpWNW52c3FFajVLWDBuVWJBOWc?oc=5": {
-      "title": "Aneel formaliza destinação de R$ 5,6 bi para aliviar contas de luz dos consumidores - Valor Econômico",
-      "summary": "Aneel formaliza destinação de R$ 5,6 bi para aliviar contas de luz dos consumidores Recursos serão usados para atenuar reajustes de 21 distribuidoras de energia nas regiões Norte, Nordeste, Mato Grosso e em partes de MG e do ES A Agência Nacional de Energia Elétrica (Aneel) assinou, nesta sexta-feira (26), os termos aditivos aos contratos de concessão com geradoras de energia para a repactuação…",
-      "source": "",
-      "added_at": "2026-06-26T22:49:42.837250",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb3duMXFScmRHNnhXR0VxaHJPbXN5czNKTlhkY3FlYUkxaWlWckVWWHlsVGt4bks3Xzh3V0hYU1IxaEZKdlRIQTJHS2ZBeXdKbm84VDVRUGdvTDBNV0toalFXWUFOZTVfMTB3S0h0amFUQnRhS2QwR0Q2M1c0ZE9GRFZVWFkxU2FZaW40blB6ZXg5QVBUMWlYblJlbUl2WEFlOTF4VXhBNFJVbHlVYUs0Ym9hT2JieVRnNXU4T19Xdmp5ano3OVBTb1ViUmQzTERORW1acW5LRFVkYUkwTWJSWXhaSFZLTHhqYXVIRFdFSdIB9AFBVV95cUxNalhza0UwanIyNFg1NUswWlJESVp6RTZGVnd0aE5hT3kzb1BZaXZxMFRBNmNMaHJXS2k1bGtOQmYxWFhxT3p1c2ZwR3hQejdjUWZTTVBlWHl6eklFMXMzLTVQeGZ0cFc1Yjc0SUpaNk1xWkFMVTRFMGFZRTBVa1dnU1hnMXk5SnlfeElPQnBsR2lXR09NUHBSWDJtdUZSSzY3ZFcwWENfcU55Q3piUF9lV1dfZnFZNWpFektUM19qSU84aHNRUTFSUzE0VTFxek9wUkpTR1dvTC1nYjZBbkdDVHhKQUFOWXVVdmk4SXdLUTF3dVRE?oc=5": {
-      "title": "Bandeira tarifária continua amarela em julho, e conta de luz terá custo extra pelo terceiro mês consecutivo - Folha de S.Paulo",
-      "summary": "A Aneel (Agência Nacional de Energia Elétrica) informou, nesta sexta-feira (26), que a bandeira tarifária continuará amarela no mês de julho. Portanto, a conta de luz terá acréscimo de R$ 1,885 a cada 100 kWh consumidos pelo terceiro mês consecutivo.",
-      "source": "",
-      "added_at": "2026-06-26T22:49:42.837453",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWC03N3ZBUTRyVVhoekx2V0M2UmZRMzdRejNjdHpoa25TT204RGFpdXp1b2JBTUctdGJSRWd1UWJUbDR2aGtOTklIWlhKeW4ySGhaLWdKUDhNbjZvSk1VZmxmYXhUWlJJQ3NETFNSdGcydTF4MkFHS3d2b1lPbGFwd094QlM1WGtpZ1JxV1FkNW5UaFYwVzdid1RoeUVJMzR4Qmh3UmZHeVM1a0xDS0k5b1pNU1VNS1RYQktNeVNzcUpWQjlTYXF1UkVPcjZERWhEY3o40gHYAUFVX3lxTE5BdlIxVDNXY2N3NjV0M21CM29nLUlzV1F3RTNMaEJLWS10NjRuTFNCazlKSkFjSXQ1MS1Rd3hzWFpOYVNYSGpmU19EanVoeEYyVWlqZjVFT0FLOUtXRUJDcDlJZDFxQzhrUW9oMnhVcXZyU2FuN05LNGc5MXhEWnhKRU9nZVJ4emE3eTliU0hVZTI1T0p2b2JGeHIzazlYaE1pUG1pUUE5eTBQV0hpUGY1RXRobkVwazJyU0lRWkRvVWFzVmkxN01EdVB0RWpyZzdxZWtEQnZ5UA?oc=5": {
-      "title": "Copasa (CSMG3): rali leva papel a firmar R$ 60 e puxar ganhos do Ibovespa em junho - Estadão",
-      "summary": "Gerando resumo A dois pregões do fim do mês, as ações da Copasa (CSMG3) já despontam, com folga, como o melhor desempenho do Ibovespa em junho. Os papéis acumulam valorização superior a 14% no período, incluindo a alta de 0,37% registrada no fechamento desta sexta-feira (26), o que leva a cotação a R$ 60,16.",
-      "source": "",
-      "added_at": "2026-06-26T22:49:42.837512",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckZxV2lLRVFtZWE2WWROZnl3S3d6SWlfRXBkYkItUDZFTTVvRV9ka00zbFZTQjlaSWZJNmozQUZIcXI0ZkpIczNjRUJkdW1WNTd0N1A0alR4SG9Kc3dYUjhpZngwelVFZ0J3U29wd19uX3FwZWVmeDc0clJ3VmQ2blZUVDV5U044TGVxaTlJRURkMFpLb3o1SXlaZjRKR1B6MDFQRkRvb3d5Snho?oc=5": {
-      "title": "Mariana Espécie será secretária de Transição Energética e Planejamento do MME - Agência iNFRA",
-      "summary": "Mariana Espécie foi nomeada nova secretária de Transição Energética e Planejamento do **Ministério de Minas e Energia (MME)**. Ela é funcionária de carreira da **EPE** e já ocupou outros cargos na pasta, incluindo assessora especial do ministro.",
-      "source": "",
-      "added_at": "2026-06-26T22:50:01.907300"
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYkV0Q1VwZlVIdjRBMElPQWNRWlhhZ1FCT1AzcmNNcE9LeFNrYU5aMVRLejk4M2RyRnV2emFxeTlES2NGZ2g0Y3h3MUlDZzhpN2ZfOE5GNENiaUxESFBBNll1b0F4ZzJkN3pQRTNQYkJObW5pQzJXVGxoUW52UDA?oc=5": {
       "title": "Banco Central liquida Sefer, distribuidora de títulos envolvida no caso Master - UOL",
       "summary": "O Banco Central liquidou a **Sefer**, distribuidora de títulos, por seu envolvimento no caso Master. A decisão visa a estabilidade do sistema financeiro brasileiro.",
@@ -4203,7 +4149,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:27.357337",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUlXdVBRZFJYQ05sX0o5RkZvZGRZT1psLUxyQkhsQUJWblRUVW1GMGhsWFJodllkRk5PMzMxZFk1YjUzQ25FVGx1SmdnV1NWUVM0cldlaWF2dDVvQ2ZGSFg3RGJiWVotR0U4VUt5RDROZWpIX0NHREdjQjNYMENucklSNGxjVDhldU1rS1haVGw3TGlrR01RLXc0VEN0dw?oc=5": {
       "title": "Usina flutuante Poraquê ganha exposição virtual - CanalEnergia",
@@ -4211,7 +4157,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:29.003066",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmlYZE0zOE9JeFpKNmZNejdKeUhhUi05ZlNFUmNETVFCMjhBaFJpVXJuOWdFQUVhbGRnM0tFSVJhTFBPdDFYVXZTamVHRDBlN3pWZFhOb0xjbU1JWEY4b0Z3THgtWW9GbWFIOUF3N09EQVJxY0RnMUhPOEV0dEFhSjNnaVVKZmUyVXM4ZlFMQWxMSFpuVmVTLVZNSmQxNGpOLUpyaGVzVVBVN3pqRTVpMmVuc3lFVHpjSzRGdFBNRTAzRmdYQzhj?oc=5": {
       "title": "Biodiesel, segurança energética e a nova fase da transição energética brasileira - CanalEnergia",
@@ -4219,7 +4165,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:30.636994",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1FkNzJnWEVLVUs4VXQ4ZjlRcDJOV0VSSkVueHpFZHlFcmFSWVNRMmJ6Y2c1RFZyVjNxR3I1N0JZSGlqRlpBT0FMa3p1UnZESFVpNmNlV3Y2dGp4OE41ZDk0aVl3NFo3dkwtWHYxNWkwS0Nvc2t3NjUxSWNka0JtV0dfdUg1WFRUYXNZeDlKcWFpSFYtX0FJV1V6MmlrcC1HMG8zX0p6UVZBRWpkaFE?oc=5": {
       "title": "Coluna Giro Energia: Neoenergia mobiliza escolas para a ONEE - CanalEnergia",
@@ -4227,7 +4173,7 @@
       "source": "",
       "added_at": "2026-07-10T15:19:32.295829",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEhsU0FsTHB5dXd6b0hxTU11Y2Qyd0RZMVU4cnZqRFAxUjdEOHJqLUctX1BIa2p4ZllMN0syT2N5MUM1bzZRN0RnZGxGSjhPcHpscmNiUzczZkQ3bk0wQTJMOWVSQWgwSFRXQU4wYXlVTFpKVjJRZXFKRUh4eFZ1Y2d0bnVIV3FVdkJqS25nSnE2YTYyaEd2Tl9wY3NPbUtvRG0wTXdUYldHRFYzdkxqeA?oc=5": {
       "title": "Após incêndio em inversor, EDF poderá retomar operação de solar - MegaWhat",
@@ -4273,7 +4219,7 @@
       "source": "",
       "added_at": "2026-07-10T17:24:18.006032",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGVkVmloOGt1OXluVEJERjI0MlprTHF5cllVYjlwTURFZ0xfdzd6bDVINFRmZEpEaXZNak1mSF9aZ1JweC11d24wUVFDaklyQTZHQXA0blZpc0hjeFoyTFU4RkM2RHhDazJScDdTSDhIY1F5X0pNN2xfQ0xGODVhU25iem9uc2ExakcxMTBPSGhVdw?oc=5": {
       "title": "Região Sul opera com 81,1% da capacidade - CanalEnergia",
@@ -4281,7 +4227,7 @@
       "source": "",
       "added_at": "2026-07-10T17:24:19.826504",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNWxOcV82QVlDS3pLY1FzcnFlWGRtdVJHQTY4NkN2T3VpYnpES19oNU8ydnlVM3NPV2RJOENvMGJvekJqZDBQSGYzMEpIajI1VWZQa1hBTF80cmRodEdyc0NMSS14RVFFWWYyM0Zpb1JuMWZlLTRUd1JNV3JhTE55bzQ1MU1PLVBTSVRmTG9UMDhjSmhNS29aZFMtT2xyMmY4QjdaMVE1Z1NDU1l0NWFQSFFsRHdMMUp6MUw5UG9HWnQ1N1F3WVFYalI5dkc4SXFXR2xGREtlejB4d2JKeUptR1M4U3NYWkJ4ak41MUln?oc=5": {
       "title": "Acelen Renováveis assina acordo com Bunge para óleo de soja em projeto de SAF e diesel renovável na Bahia - Folha de S.Paulo",
@@ -4329,7 +4275,7 @@
       "source": "",
       "added_at": "2026-07-10T20:52:23.529352",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS09oM18zTmNxd01PcnE2dkFydjZaWFlTZG5wNjNQOXBOWjg2dkNSMXhabWQ2YVFDaHpLYWotWDJEOEYwQUN3OUs5YV9vRjhGQ1A2eGlITVRJX0c5SFVIdjBteTlldDhkRnluMmswbWZwR3k5cnFlejlmQUV4NnJjOEZmZ0o0bmt6akN3aE5GOWVTWEVSUGFWUUpheTA4NFd6NHd2RUlrM055bk9RSW5fZy1xTG5iUQ?oc=5": {
       "title": "Projeção do ONS indica carga em elevação e reservatórios em queda - CanalEnergia",
@@ -4337,7 +4283,7 @@
       "source": "",
       "added_at": "2026-07-10T20:52:25.453348",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdHZnazJubml5WWNieVlNMTljbVY2UXBFTTVvNHpqc3ZPRFRSdHZpblNkWF9qdDZSRGpPQzlEUHkyWlRwNXdLdHZBN0M1TFZCSm5FdS13TjBJT0FUZHdfZTZhU2dPT1NPQmZxYmU2TXdFWkFtZk1TYTRJUWcyNEp4MHFJTjJxVXRtUXNldlJ1aFBBdWpFZFUyT0ExaFREUUwzRDI1WlJobXVodmEzaTZRTHdvSmNtVnNfb01kRmVlbFFuLU5td2RzRFdxR0tBVk40QmxHa2JhcTd6TkgybDFtYXJqbmtZWWE3VGQxQ1B2UHZNU24wRC12TjkxdE9xeUpzbVdVQXA5bXjSAZcCQVVfeXFMTXBMN1c5djhENF91bVlsZkFpaHpEdXBjNi1mQy1ua29yYWNOeTRoTTdfaHJGbEQtRmRnaVlSWnBmNUlVYjQzelZtc3pyYVdXLW1mVVNmRjhxc0ZtNGhxUVZXM0UzaktjNGdrMGxfN0lQdWN6RDF3S2IwekFyUE1QVlFBWXpTVFV0YndtdjdXZVhJbmJrY291VHNCT3YyTVAxWjhHYlAzUkdqWlE0VDdKYXBaN1Vnc09WdGxZTGZrdGw0RklrRjFqR2pPVld3RGx4NjRVLVhqcGwwVVBKMUdESmk2WmRrNEo0dUt2WHRlSXVIZEd1Y2owcVhXa3BpczdqR3pEOUJwOU5tMDN3RGpzVnExOFhibmZJ?oc=5": {
       "title": "Belo Monte fecha primeiro semestre com geração equivalente a 6,56% da demanda nacional, diz Norte Energia - Valor Econômico",
@@ -4345,7 +4291,7 @@
       "source": "",
       "added_at": "2026-07-10T20:53:07.601462",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGY4ME94X0xlTUJHblcwLTNYU21BN0x6V2NtVWJJa3d0Vk02eGtQa2p4TmNrZlc5b01iTXBYQ2RvT1FFOUJYWFV1b1pnMzl6RXVkbnh2U2F2ZEJINW5IcFQ4S3IzWXM2ZG9JdW5oY1BfQlBMRDg5elhXNWVFZDRtLXVLQXpxaFNucE9pZHh2M2M3S1llQVhTLXVEZ2M5dzQ?oc=5": {
       "title": "Estatal de Santa Catarina vence concessão de saneamento em Timbó (SC) - Agência iNFRA",
@@ -4353,7 +4299,7 @@
       "source": "",
       "added_at": "2026-07-10T20:53:07.601772",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmROMWp3d2syWGNST3NuT1FXa3E1MXFtd29LYzZRb3lQOVQzbzZtb01QTzRhSU5iZU5HWGh3RWdvMTA3ZUpnWVFZVk9jcFgxT2htcklyS0lMdHgycDJCTzQ2WEpTUEZPVEF2c3lBbnVTMVpqbnBBTE5XSWVFN2dTOWRKSzlHLXptRS1uOWVkcXBVaDNDVG9zRGxsQkNyV0dtNGZ3MlF6RUJnd2tUZy0tNkl1bkZwUFFVYWFxSQ?oc=5": {
       "title": "O papel estratégico da transmissão na transição energética brasileira - MegaWhat",
@@ -4361,7 +4307,7 @@
       "source": "",
       "added_at": "2026-07-10T20:53:21.751762",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0JTREVOXzFIOFctLTdxaG9hX2w1ajlDZkhYVUNwX0pMQ3U4WXUyWXV2N093S0JaYk9NZFpWSWZlWjJGNE1fZkZJWm5TcXJFRVZtTFVRdWh0aXJ3aGxrN2dPNktuclFDdWUzTEZmbl9mNHE0LW9Cc1RaeWhRNTRoQnhDVmNFd0djWWhJeXAxTGlGYk5IdnZyQ3EtOFVxM3NIM2RGbFllTFRYTUpCeGRObg?oc=5": {
       "title": "PUCRS amplia estrutura para certificação de baterias de lítio - CanalEnergia",
@@ -4369,7 +4315,7 @@
       "source": "",
       "added_at": "2026-07-10T22:14:21.359702",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDUwdnJnS1VzNW9lajc5Q1g0Zk5vS1IxTjZxNzV4WmkzODQ1cjQzQWxUa1Z0eHYzdFoyeGpXVVQ0RVBCVE1kaFN0TTdZQldnWlRlQzVPRGpNTnhvYkNweEJtYkowTWV5aTV6dVRPbzJkNkFwUks3VkdxS1VLQkxtQkI3Zw?oc=5": {
       "title": "Créditos de GD na berlinda - CanalEnergia",
@@ -4377,7 +4323,7 @@
       "source": "",
       "added_at": "2026-07-10T22:14:23.028290",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdDlUUzRtNzFMaHFQcmFqaTJKRXduTm1kZEN2YmNTUnYzakdwdnFlYUxwalJaVDRIemJGOG5RS3lTM1lSOGlTUnFuZi02WHc1YzE3Y0I3MEtvSGcxcS1FV29wMW9aaVl2RnhTNkZwblNyUmRJY3p5bkQ2czJPakZQVHYtaXJXeE15QzRLSWhxVEI0RzBTMDRMQnBCSGRHclNaTGJ2N2xLQ1hhWC1PSWJQd19wWmhPMXNpc19SUUpKb2k0WHNPR0dWMjZNZGNmREl5dmc?oc=5": {
       "title": "Governo deve esperar aplicação de nova fase do tarifaço dos EUA para calibrar reação - Folha de S.Paulo",
@@ -4385,7 +4331,7 @@
       "source": "",
       "added_at": "2026-07-10T22:15:31.843602",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     }
   }
 }
