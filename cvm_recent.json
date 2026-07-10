@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-10T14:58:54.804299-03:00",
+  "last_updated": "2026-07-10T16:22:48.124614-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260601 06/2026",
+      "data_entrega": "20260710 10/07/2026 15:25",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1543855",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543855",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-07-10T19:22:32.480445"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",
