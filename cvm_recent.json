@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T15:05:50.449531-03:00",
+  "last_updated": "2026-07-11T16:23:06.750432-03:00",
   "items": [
     {
       "cnpj_short": "02617-4",
@@ -5922,42 +5922,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-06-12T09:00:22.280687"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "Comunicado ao Mercado - Liquidação das Debêntures - 12ª Emissão (Cemig GT) -",
-      "data_referencia": "20260611 11/06/2026",
-      "data_entrega": "20260611 11/06/2026 18:16",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicado ao Mercado - Liquidação das Debêntures - 12ª Emissão (Cemig GT)",
-      "protocolo": "1533757",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533757",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-06-11T18:30:10.478487"
-    },
-    {
-      "cnpj_short": "02032-0",
-      "empresa_nome": "CEMIG GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "Comunicado ao Mercado - Liquidação das Debêntures - 12ª Emissão (Cemig GT) -",
-      "data_referencia": "20260611 11/06/2026",
-      "data_entrega": "20260611 11/06/2026 18:11",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicado ao Mercado - Liquidação das Debêntures - 12ª Emissão (Cemig GT)",
-      "protocolo": "1533753",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1533753",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "20320",
-      "first_seen": "2026-06-11T18:30:11.949567"
     }
   ]
 }
