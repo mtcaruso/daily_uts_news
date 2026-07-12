@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-07-12T14:12:23.274616",
+  "last_updated": "2026-07-12T15:39:58.435687",
   "items": {
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0pFdU1mRzdaX0dFWXp0ZkRmSWVWY3k0UEd3SW5GajFFNVJsWHM1YXZDU00yUmdvVHQxX0ZKd0UtZjVHMGZJMVZqUURlOUs1Y3B6bkh2ekdva2JqWXF5aUN5aHhWMnNjV1N5SWtlWGVUcEtDRjdCOUhiX0U3ZlBGQnI1N1ctNTdNYzJNaGFiRTctejVFSWxqbWY3WXRzN0JWZzlyMkVBcVc3WXlxMnEwOFJsSXBucW1yZmY0c2FmZW7SAcYBQVVfeXFMT3ZmdlZGeEt0bjMxbjZocnJmWkdSbExJZmF6ZmlhNUs3cThPTm5BMjZIT1N3RG56RUE2cC1yd01kSFFPMzZiRW9pRnJfcTZnUC13aTBYMTZWeERLczBvckNWdTZrZTZuU05WZFF3eW9MWUlvZzRxUU9WSm1oeFlzU2tJanNmRlNZeXJfN3lBUURBYkY4ajdZclRFcUFBelV6MDJGYmVnXzRDUGNoMEs0UWpvRkx3VENZQzc2MzdZeDVidEYyMHZR?oc=5": {
-      "title": "IA se parece mais com eletricidade ou redes sociais? - Folha de S.Paulo",
-      "summary": "A inteligência artificial (IA) é comparada à eletricidade e redes sociais, com a IA se tornando um recurso ordinário. O \"momento DeepSeek\" indica uma transição para modelos híbridos de IA, onde versões abertas são lançadas com atraso por concorrentes asiáticos, permitindo ao Brasil estratégias de participação na economia da IA em vez de desenvolvimento nacional. A expansão da IA não necessariamente reduz custos de processamento, e a competição entre EUA e China distribui LLMs a valor zero, visando o controle futuro através de máquinas inteligentes em residências e empresas.",
-      "source": "",
-      "added_at": "2026-06-28T14:13:16.790939"
-    },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTlLTHlyWHcxLXV5Q1FuQnltU3lVLUIta1NITXl4aE1yTUthdGpQM0Z3R3ktazB1NEdRRjdJa0tzSG5uXzZCSm45TFN6Sl9BTWJPQy16U1RwM1dqWnlkdjNWNmlXVDhGS0JvSDNuSF9mT2xOYVNPZDBsYmdzVkFUZEhCTElUdkpjX3NXQlJ2SEJIVGh5dnUzeXpvQnJlRW0zVkNzY3Q0ZGNmdEViMDFFSE43eVpFaUVFT2gwZGZuWVNnb3ZjaDJVN2txa2hmOE03VjBSbHYxb1B6RGxKc2c0anhOTnB2VHfSAfYBQVVfeXFMUFZLWWI5MGNzMl9SeGdjYVVNaU5UUVVqMlEyMk9oT0txaGUxbDE3ZkFCQ3hYR2RLSXlfNlJubEZjNEFlcnZTZGZlcTRRRFVzLVZZTUY1bWdlMnpkQWJTRW16WklSenBkMjFyVmJNYmlqamlJeVJvSndZUmRsQnVqUWlZT3hYdG9McWFtYjFvZlNhS1VVVXAtN2U4enhmZmpSa0FyNlNudmhjblFhZ3JKS3RKc1F6R2NrcmYya1YwUGtlZmM2SndZMndxdmJGVUgzc0JtYzRBN0o3LXREVFFaZ3didXgxa3A4WFluTXBlNGhFR1ZCdnR3?oc=5": {
       "title": "Consumo elétrico no Brasil mais que duplicará até 2050 puxado por eletrificação e data centers - Valor Econômico",
       "summary": "O consumo de energia elétrica no Brasil deve mais que duplicar até 2050, saltando de **764 TWh** para **1.754 TWh**. A **consultoria Envol** estima um aumento de **129%**, impulsionado pela eletrificação da economia e pelo crescimento dos data centers.",
@@ -4230,6 +4224,14 @@
       "summary": "A **China** está instalando placas solares em seu deserto como parte do projeto **Grande Muralha Solar**, com conclusão prevista para **2030**. O objetivo é gerar energia limpa para abastecer cidades do país.",
       "source": "",
       "added_at": "2026-07-12T11:23:12.959254"
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT2dWdjZEUm9LLXpYSlBTNkRhTFBzT2ZCVlhJNG9CVlNGZ1E1ajRZaFVfMU1UTkxBckRjZDdDVDUySmhjV2U1d1ZTeGJON3FiNTdBZWd0ejY2MVgzcXJvV21lN2V4YkNOZzBDcF9CNV9XeXBoU0NsZUJtZUJvaFlKaEc2ejUwUFRhbGduYTJMdnQ5akV5WXB6RVhQcVVtSUVhV3dxeDFSREw1bFFMM2g4?oc=5": {
+      "title": "Cuba reconecta a rede elétrica após novo apagão generalizado - Folha de S.Paulo",
+      "summary": "Cuba conseguiu reconectar sua rede elétrica neste domingo (12) após outro apagão generalizado. É o segundo em menos de uma semana na ilha, que está submetida a um bloqueio de combustível imposto pelos Estados Unidos que já dura seis meses.",
+      "source": "",
+      "added_at": "2026-07-12T15:39:58.428551",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
