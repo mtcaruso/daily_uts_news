@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-12T10:54:54.864627-03:00",
+  "last_updated": "2026-07-12T11:45:37.284081-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Mapa Sintético Consolidado TAESAMapa Sintético Consolidado",
+      "data_referencia": "20260714 14/07/2026 10:00",
+      "data_entrega": "20260712 12/07/2026 11:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mapa Sintético Consolidado TAESA",
+      "protocolo": "1544198",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544198",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-07-12T14:45:26.556196"
+    },
     {
       "cnpj_short": "02617-4",
       "empresa_nome": "AUREN OPERAÇÕES S.A.",
