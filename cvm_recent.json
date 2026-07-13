@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-13T15:53:56.354995-03:00",
+  "last_updated": "2026-07-13T17:05:51.034741-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260601 06/2026",
+      "data_entrega": "20260713 13/07/2026 16:53",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1544367",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544367",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-13T20:05:31.780503"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
