@@ -1,20 +1,6 @@
 {
-  "last_updated": "2026-07-13T03:54:02.496973",
+  "last_updated": "2026-07-13T12:42:09.897499",
   "items": {
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBc3pjcHIzbzk1OTBRU3B4ekFwd2Vtbk85REtxR0dmMXdOd3g2NF83ZlVFbnFfa01OV2x0eFM5S09yV1QycFJmandOU2l5QWQxbUQzNllkaXIxZw?oc=5": {
-      "title": "Tag Eneva - MegaWhat",
-      "summary": "**Eneva** propôs uma fusão de **R$ 6,6 bilhões** com a **AES Tietê**. A proposta foi enviada ao conselho de administração da AES Tietê e confirmada pela Eneva, controlada pelo **BTG Pactual** e **Cambuhy Investimentos**.",
-      "source": "",
-      "added_at": "2026-06-29T04:57:30.403703"
-    },
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjVDRSd0VZMXBxUVhYM05EbVRnTTFkSEkwd3JTR2wtcVRXWnhpenlEaTVxaEI0Y1RDemdzZHI3WmxWcDl0VVNpektWU3NvUThGX0IxaUFTWQ?oc=5": {
-      "title": "Tag CMSE - MegaWhat",
-      "summary": "Política Energética CMSE deve manter despacho fora da ordem de mérito na primeira reunião de 2021 O Comitê de Monitoramento do Setor Elétrico (CMSE) fará nesta quarta-feira, 6 de janeiro, sua primeira reunião ordinária de 2021. O encontro, que reúne as principais autoridades do setor, será realizado em Brasília, com a participação de alguns integrantes presencialmente e outros por…",
-      "source": "",
-      "added_at": "2026-06-29T04:57:30.403802",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0hHTDNtbHNSbEh0LWlrcFZfUFJkVzlsRDRGWFRDTXhBUjQyU3FjcFMyQ3ItSUFXZEZJeW5CUnFsYzJmMDdGTzIydjRyWlQzSUpSdWdRdXZTN1J4eUVmbnRwemh3WDZVN0hqb2dSVGt4Y1BjYm42NklpdlF5TXNBOHIzcXRWTjc2UVdOT2VValVJOU5tdWxyeEQyNlRrTTMtNkhnX3B6TTEybDN1Wk1XdkhHcFJpY0d1UGc?oc=5": {
       "title": "Gênese da criação de um \"não-direito\" pela CCEE, um “não-agente” normativo - CanalEnergia",
       "summary": null,
@@ -4242,6 +4228,70 @@
       "summary": "O **Conselho Nacional de Política Energética (CNPE)** aprovou a resolução 15 de 2020, em 24 de novembro, estabelecendo diretrizes nacionais para políticas públicas voltadas à microgeração e minigeração distribuída (GD). O despacho, assinado pelo então presidente Jair Bolsonaro, foi publicado no Diário Oficial da União em 28 de dezembro.",
       "source": "",
       "added_at": "2026-07-13T03:54:02.489467"
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0pnb0FiSHlTd0plQkJuTkpySDllcFNoTGt4U0t2TGZZVlh0MVFWX0dlRWJ2c0tsU3NwY1laZnlNTlY1ZldZRE9PRmdtRWlabFJrNnJOV0FCSFdUT3hFVEhqcFJrRVVCcVFVTTQ1NUx4WWZuY1JrTkFOVDBlMEp1c1VoNlZZQ0dUTW5GNklXb0J2ajhkUjFUa3dqNGp2ZFlUa0FWWWEtUWw?oc=5": {
+      "title": "EDP destina R$ 2,1 milhões a projetos de eficiência no ES - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-13T12:41:10.195909",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnZnUEQ0dXYwNmRXV0JMemVVSFJEajkwNS1sYUE1bkJjcy1Vemt5clUtek04RUFwMmJTV2NGMVhPajF2SVhSSElKaFpQanZqemRHQl9zc2c4VWVPWFpIZC1iSExvQ3l4QVh5R0cySHpFY01LSzZZbEsyZnkxWS1qYWxhVVVGdUQ5ZjRNOE1PT2N5eEY2U1hKR014NDBGYXhuMkpnWA?oc=5": {
+      "title": "Forte aposta na China se voltou contra a Volkswagen - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-13T12:41:11.850892",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJsRWhpR25GcloxWVV0V2V3eGVhdXE0bzYwRVhEeWVNYTF4Sks3VkViTGs3M2RSUDgycmxWVFFZYURKSzRrMDdvS3F6OXhqaGZ2V0JIc1JtYWtZWk9ESEpXZXVMMWMxek5TQ1pSbk0xUnpqOTFrM3JCTFU3bEF0UFlINHRFRnRqUmd5S0ZRXzItaVo1d195blJOM25GalpUZWN2eDFXc2wySlloRE8zSFBjck5WZHlCSmtIQUsxTmo0ZEJLbW8zZlRSeWhSYVnSAd4BQVVfeXFMTjRzRXpGWW9ZaDczTWJvLUtzMEJxaHkxamM3dUFmTzByLUFJd00tbmR4OExRVEF5aWJkNnRxUmszV291dTlsRXMwZHJOWTZRTXZoYjBjMWs0S0pIMkREelhwSmlnYjZoMjNQa0xoamUwblhSS25maXhyWUhQSHFrUkxaRVZVNlZhcUJBNm1OZXc4SUxkVlB6VVhiLXBvc01YbFMzMnVuaHNxc3F4YkxnUUVlSm95OHJmeG5RUm02RHNfWk4xOElLdTBscm0zWDRKOEdqX3BOcW9VMlYtbnJn?oc=5": {
+      "title": "Mercado de gás prevê que revisão de tarifas de dutos seja concluída este ano - Valor Econômico",
+      "summary": "Mercado de gás prevê que revisão de tarifas de dutos seja concluída este ano ANP concluiu na semana passada consulta pública sobre metodologia para avaliação de base de ativos dos gasodutos da TAG e da NTS O mercado de gás natural espera que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) conclua até o fim do ano a revisão tarifária envolvendo o transporte do insumo por…",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.883534",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUJqbmgydlhyM21KVVgxdkZUYnFfZ2VQNk0xdWdCTFJEbDZXR3d3UnlCc3o3TnRyMHkzZWY1cjBZT2I0NUZpTDcwMzFLWGdUTlloRFdtckhSR194Y1JPek1nTTdZeWxUNDZWcExzdFB4OTI2UmVmaDJ4eFlrYVBHU2RjUmJvUUJWYkNncmFVcC0xTmVGQS1ZRmptVGc1WWtKVHR6X2hTWQ?oc=5": {
+      "title": "Mosna propõe reduzir multas a usinas da Essentia por apagão de 2023 - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) deve discutir nesta terça-feira, 14 de julho, uma proposta para reduzir de R$ 4,16 milhões para R$ 1,45 milhão as multas aplicadas a 11 usinas eólicas e solares da Essentia Energia, controlada do Pátria, após o apagão de 15 de agosto de 2023. Este é um dos primeiros recursos de geradores a ser analisado pela diretoria da agência, e poderá gerar…",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.883810",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOenAwOHZubVpad28zeUhxS2dUODlidVBVVkE0d1pzVVdfci1BR1lRMlBSR1h6RHlpdkNsSU12elF1VnB0cE9FT2JvN0hLSkF5Z01Ibjk3MDVwWk5qWGFRbUFHeTJiaXhFdmhsa2ZjVFRqV3pPMU92VnhJbmhMZUt0TWRrUWRQbmxKcHV4VWNMYVl0NUdOY1ltY1p4Ty1RTldZSUk1N2dKcWotOWhSZ1pIX3JMb09iSk03cmc?oc=5": {
+      "title": "Contratos de curto prazo impulsionam alta dos preços da energia na BBCE - MegaWhat",
+      "summary": "*Conteúdo oferecido pela BBCE Os preços da energia negociados no pregão do EHUB, plataforma de negócios da BBCE, voltaram a subir na semana de 6 a 10 de julho, com destaque para os contratos com vencimento em 2026. A alta reverte o movimento de queda observado nos mesmos contratos na edição anterior da Coluna BBCE.",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.883933",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hEQU1vNFVrdTN1d0g4cE5DeV83MzR2RHVtRDFiMnh1SXhBODFsTmktWHcxZ05rTElkdF9GX2hXZnVudy03RGQzVGppR09ZNDVJeE5XdWl5d25IdzJ4eUJSMVZUdHM2NjdTNENIYzh4emRxY1pQTXB5OVd2SnN5bTl0RlZ0M1FIb0cxRThFbFFLbm5ueTBQNUxQQnNER3RoM2ZiTmIzNFlRQ0J2d3JxVEtsVEpLTmtRb1RkZjNNRXVEeVNObGFJZg?oc=5": {
+      "title": "Argumentos da Enel não barram processo de perda de contrato em SP, diz AGU – Edição do dia - MegaWhat",
+      "summary": "A Advocacia-Geral da União (AGU) concluiu que os argumentos apresentados pela Enel São Paulo não são suficientes para invalidar a decisão da Agência Nacional de Energia Elétrica (Aneel), que instaurou o processo administrativo para avaliar a caducidade da concessão da distribuidora em São Paulo. Em parecer assinado pela Procuradoria Federal junto à Aneel, a AGU afirma que a empresa apresenta…",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.884279",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkdycE5TVU1Ka0VveFA1bFg3YU1XVWNjQVJtQVVEZnJQbW9rbFFMV0RFVkRmRmRuM2xLN0lKZTVWWVBrdkNNeDlhd0ptV21KV2cxbmF2MHFaNi1mS0ZoNzJrZHFCYV9uX3B5am9WSmw4aVJ3T29janRvTnRKNjFWTUJJUGFSM2xuVzVpaGhRTll6czRibVF2azZ6LV9wWW5yQWxkZlZpOFB3Z2VfQlhKYzF6Y0Y?oc=5": {
+      "title": "MacLean, da Blackstone, compra brasileira de equipamentos elétricos - MegaWhat",
+      "summary": "A MacLean Power, empresa controlada pela gestora norte-americana Blackstone, recebeu aval do Conselho Administrativo de Defesa Econômica (Cade) para comprar 100% da Indel Bauru, fabricante brasileira de equipamentos usados em redes de distribuição de energia elétrica. O valor do negócio não foi informado.",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.884423",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYm5tVG1mWWRuSGlzelhwZ0NqdGI2UlRBeWh3NlBrX2o2M2hycERMdk9YVjhCWFpLOXd3ZnJJRWh2X3A2TEtKLUVrX0tRcURBd29fcDVrSU1teEFuWl9tdFczU3V1MjhNbnZaOFMwQlI0QTd3UjE0V1h6OVdSaWp6cEZwVzhrR2haNkF6SFBWOFdWaERxLVhHTXpEUWxua0pwZEZHZzNBNUdOdnNFNWc?oc=5": {
+      "title": "Verene Energia concentrará ativos de transmissão do Grupo Energía Bogotá e CDPQ no Brasil - MegaWhat",
+      "summary": "A Verene Energia passará a concentrar os ativos brasileiros de transmissão de energia do Grupo Energía Bogotá (GEB) e da gestora canadense CDPQ, após uma operação de aporte de capital que cria uma plataforma conjunta de investimentos no país. A transação foi aprovada pelo Conselho Administrativo de Defesa Econômica (Cade) e resultará no controle compartilhado da companhia pelas duas empresas.",
+      "source": "",
+      "added_at": "2026-07-13T12:42:09.891289",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
