@@ -1,166 +1,6 @@
 {
-  "last_updated": "2026-07-13T12:42:09.897499",
+  "last_updated": "2026-07-13T15:51:57.722830",
   "items": {
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0hHTDNtbHNSbEh0LWlrcFZfUFJkVzlsRDRGWFRDTXhBUjQyU3FjcFMyQ3ItSUFXZEZJeW5CUnFsYzJmMDdGTzIydjRyWlQzSUpSdWdRdXZTN1J4eUVmbnRwemh3WDZVN0hqb2dSVGt4Y1BjYm42NklpdlF5TXNBOHIzcXRWTjc2UVdOT2VValVJOU5tdWxyeEQyNlRrTTMtNkhnX3B6TTEybDN1Wk1XdkhHcFJpY0d1UGc?oc=5": {
-      "title": "Gênese da criação de um \"não-direito\" pela CCEE, um “não-agente” normativo - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-29T14:18:44.500811",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOckRGckVYNjhVNnYxQ05fVzg2Wl9TNGN6eEw4akdqWjJXVXNxQldFTGR5QmdObW9GQW80M0lDdzU3NU1yQVhlQlZ6R2xpR0Mzc2lWMVdxUlBibXdHYXRTdEVEQmx5bjlyQWpQdjRaRWVZYVJjY3ZDbjJwV3FNb1NCRmJTMW04ekU1Vm9CX2p3MGpSXzVTUDNSb2h2R1RvZw?oc=5": {
-      "title": "Eneva aprova novo programa de recompra de ações - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-29T14:18:46.141277",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkpLaGw1NnVBbGpaWHp4ODB1ejEwZlMtUERkZG5TWUNPQ05ab21ENU9kZzFYeVJvMDN3Y3lVQm5pX2lEbk9rZVNDQjAtSmQ1b1REVFl6YVdMcFlDVC0xQnRMVmlpSkI0OWsxemhGS01NZFdWTkxJNkQyck14Ml9NZnlNUGJkX1RPby1pSzVld3p4TEVYZmc?oc=5": {
-      "title": "EDP nomeia novo diretor no Espírito Santo - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-29T14:18:47.754520",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa19qSEpIVVE1N0kzVnA1VWttNDJuRF9WTWgzYldFcHdOUjRRQ3VTY01FYW5RaXp1VXo5cjZ2SHhVeUVySFJTWUpEYy1qeExTSlZ3VXdOUjZ5MW5rZW8zSWEwQ0hqQy03Z0NuT3NCRTNJQVFYWVFPLUJOc0Iybl9EcDU1dmR5REE?oc=5": {
-      "title": "O Japão e a escolha do Brasil - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-29T14:18:49.394757",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DalpTdFlGYWhnckxkRUpSQ1Q3dUp6SjJLS3dfcl94M290YS1KOUZMVUxmMFdBa0tDQlRBYkp5ZzJRbVoyLUN1QmRnanFoZ2ho?oc=5": {
-      "title": "Tag blocos - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-29T14:19:09.119395",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPTzVTYWJ6Yk5NWTZ1NldMVlVWbE5heFdEdGthSmRZSmZXQjdlcWllUHdQQWNnamh5YzVUS3BDVWNZLVVRUzdFVVY2UTFUczh3dl9KTF9kX1o3UjRiTXBhcmRhQnFyU1VSb3RYOEtON2dEMHYzblFLX241QkE0djNvT3V2ZUgzelZfWDV3SkFXeGN5MmhCdm96N2tVb0o5eU9DR1RFS1poZ1dLZDd5VjhTai1lVmdyQmNUWGVmUW5aejk0RG9EaTZ6TVhOQnZaQ1BUT3JoNlVmbkJlNVZVb3dVYS1LM1B2eXo1YjBVelJFYldCOFI4WF9wQ045eWZoSUVZT0czZzRlekpfRTVJWmpKdklLS21XTEFSOEd0dm5nU3hDd1NvOG5SX0czaVUyNFFTY0xkRGxSRXg3dXfSAcoCQVVfeXFMTkwzb2JBOVJnMXZZZnU4R0xCZHN0MDBOa2hIRW84cDNPV0NYZnNDWDhub1Mwc0x3Y0Y5WEIzSmczYkdnZVhoVDFOVWpaekZ1T2UwRjVaLXRkUmJpZEQxdkEzMEUzM0pKbndtRVF1ajdIczJBOXBaUXVHYk1LQ0lYX3I4cnN0VXM4bEVfRWNlTDR1WldiTDJNNGhwcGZsSkxNbTJpMWNTWWNJWHhBeUZuR2JrSm15OHQ2NF9iazZXa3BIZ2VacDVubEhvODJjcXl5U2UwU3hTN3hiRU5lY2ExTTFPY1J3UW96ZWZQZkdDWmpaRGVWUmF3NXBQTnpMY3ZmVHFZa3BleWJfUFlHQnpGOE10V1dETkxuUTJWRzB5azQ3WkM0akxwQ2txTFNnbE4zUWVPRWcyLTAtZmJ6RjRIMFN6d2owM1UyTTNB?oc=5": {
-      "title": "Engenheiro especializado em infraestrutura e saneamento, Diego Borges examina o custo econômico do déficit hídrico para a produtividade brasileira - Valor Econômico",
-      "summary": "Engenheiro especializado em infraestrutura e saneamento, Diego Borges examina o custo econômico do déficit hídrico para a produtividade brasileira Além do impacto sanitário, a falta de saneamento básico compromete indicadores econômicos concretos e freia o desenvolvimento de regiões inteiras do país. O Brasil é a sétima maior economia do mundo e ainda convive com um déficit de saneamento básico…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.091159",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTd6N1BZWHVySjVyMkZCNE5xcm01Zk5LcjFjY2JNakJQa0JXYlVJTHl0YV9RZ3RPOFE3cmNHOXJUTHR2UFdZdVZZYXBybG1ONjlod0hROFR4X0VhUzBxcmxzdlpvTmk2dl9TS0tPVG81cmVJcGl2VzhJZW9EQlBab051ZlUtYUdyZGJBWWJEcURoZXc2R2d0dEtnaHZsUTVGLWdudzZYcVNKRTlfWXM4a0lVSkxfTFVPWGUtTnVGbThvS0VzY0FRSm9abnZQZ9IB3AFBVV95cUxQdlZIXzNTLVo2Z3RHTG5aY1JPRVRZcXFma1JmZmpBOW85VXJIWUthdl92MGV5VDV1ekhkVnhOMUp1UnlHc3dCb1VyQk41VHhWc01sM0hXX1VZRUhpR21UZnpCS0g2eEVUalJHUVZkdmVERlEzM3ozdmpqTlBwZ1ZkOV9ValNxTi1wa002VzVuUUFmOWhiUV9FWEs1amt5NDlBXzVuVW82cjkyU1hQTGplUjZFMl8wdFVFVE1BenpOSjBRU0xsYVI5d1BRSGJSc3NzQ2RpVlAtWnd1c0xv?oc=5": {
-      "title": "Projetos de geração solar e eólica no Nordeste enfrentam gargalos - Valor Econômico",
-      "summary": "Projetos de geração solar e eólica no Nordeste enfrentam gargalos Cortes de eletricidade por excesso de oferta ameaçam novos investimentos na região O Nordeste consolidou-se como um dos centros da transição energética global. Os ventos alísios que sopram no litoral fazem com que a eficiência da geração eólica na região chegue a superar em até 50% a média internacional, o que se soma a um dos…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.091429",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVQ2N2Nyc1FnRnp2bjFVajBVTWcxRklqX3JjeDl3eTRaRUtsSE84OW9VWW9TSTNzclprXzBTTDduYUFENkxxREJhdWI4VjVWQ2RGNENqZXB3czlFaVJCbGRnMDFuSFpJMXNmSkUtMG4xQ2E2UzM4emxZMk5JYy0xdXM0UkFKeWkzV1RTU1ZxaUJmRWw4b0RrU0xOb2Y4VFMtTEdOTW9Fb2Vnb0lqb3VOOS1ZbzZHd2VPaGpyRVN2dTdzdlBfbEHSAdQBQVVfeXFMTkdLdGQ0WWc2Q1ZBMHhXYS1LZ2dzMVNyek9fM3BSMVhFUW5UQWhFSHdUZG1rTjBTZnJSRTBWUUc0NlQwTGRidmUwMzdPMkZFc0VtVk9DVWdoN3dHZ3V1dWNlcm5uMlllT3Q3MVEzLTN1Q3BLVkprZW5VZUw0THoxdW9qblRNX09MM19ZUHpGbnBUdHYxeUlPWWxNRFpObGt6MXJnblBBN3R4cm56NElxdFhzdDVQclRuSTVmUllBaDhVOHRVelJycGpuMHZfN2lYam4yMno?oc=5": {
-      "title": "Saneamento exige investimentos de R$ 274 bilhões - Valor Econômico",
-      "summary": "Saneamento no Nordeste exige investimentos de R$ 274 bilhões Apenas um terço das residências nordestinas tem acesso à rede coletora e 47% da água potável é perdida nos sistemas de distribuição Atualizado Mais da metade dos R$ 525 bilhões estimados pelo Ministério das Cidades para universalizar o saneamento no Brasil até 2033 devem ser investidos no Nordeste: a região tem uma demanda de R$ 274…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.091686",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbmhQdTdTZmtVQ0Y4T3pWSG96czdHeGQxcWRWNXBjRDgzMHJNWXRaLXNvSXI1YWlKZVRyRjhuM2lXNVBRdUF1WUtJdXVjcWc1ZE9rdjA5MnJYanNyZFh0cUYyX0tIamFHOHQ0ZGtOTk5mSG1GUnljMlJDX2xWcndTZHlSODBQQ2R3TWt3Nl9jZkVMbTg2eTZ1TlNZY1piM256M1N3blp1eGxhN3QxV1NLLTR5akdaYVRZbjVSVGZxTmpDeW00V1g3S2RuanRHY3pBQWtoS1ZuLWZJQkNkU1JVeXVLOTEwS0JFaF9UWm1VOGhUN2lLeWY2MQ?oc=5": {
-      "title": "O licenciamento ambiental como risco financeiro em concessões de saneamento, por Diego Borges - Estadão Blue Studio",
-      "summary": "O licenciamento ambiental como risco financeiro em concessões de saneamento, por Diego Borges AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 29 de junho de 2026 Atrasos na obtenção de licenças comprometem cronogramas, elevam custos e impactam o retorno projetado de investidores no setor de infraestrutura hídrica. Quando fundos de infraestrutura e analistas de mercado modelam o…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.091921",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDNrSE5yMTBXYXYyVnRTcl8tNVItOVB2SUcxeWg5ZU5oOGVsRFZBYVJZekVCUDBvcVFpVUlPWWVKb0ktNkhGRHFNQUp2aFhyUzlESHV6UHVueU1ubFVCQnBzamxha3pWUzlyWm1hOVEtM0E5STNMb2NSbTNFNmo3c3lhTUNpZzhmZjkwa2NIVVBKNHBXUFNtRzVR?oc=5": {
-      "title": "Agentes relatam \"caminho longo\" para corte automático de GD solar - Agência iNFRA",
-      "summary": "Lais Carregosa e Geraldo Campos Jr., da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) planeja começar a cortar usinas de GD solar (Geração Distribuída) de forma automática a partir do último bimestre deste ano. Os estudos técnicos para criação do sistema estão em andamento na entidade, mas agentes já relatam que um avanço efetivo do mecanismo pode demorar a acontecer e dependerá de…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.092102",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGt5TGRLTlluamd1Y1BtM2Q3RzU3eE91eWtvaVk1Z2liRFByekZBdnVPbk9VRUNRbTdBWnpodDd0VnFQbEdrNkd2RnJVQ3FhQldPbHJMTjAtMXc5N3EzQlBreDd5eTFDT3ZpdEpIbmhxeWZNZ2NVenF5Y19tcmtUUW93ODJiMTR6MmZiUUhyS0dMcU9vdXNFZHFfLUFEQ2FoVjRUZlpB?oc=5": {
-      "title": "Copasa: Venda reduz custos e equilibra impacto do Capex na tarifa, diz CEO - Agência iNFRA",
-      "summary": "Amanda Pupo e Beatriz Kawai, da Agência iNFRA A Copasa (Companhia de Saneamento de Minas Gerais) privatizada terá instrumentos para que o custo da universalização dos serviços até 2033 não cause impactos relevantes na tarifa de água e esgoto da população. A avaliação é feita pela presidente da companhia, Marília Carvalho de Melo, na empresa desde o final do ano passado e responsável por conduzir…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.097878",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTk1BUWF4bUdWSElUSUJCemI0U1NzZVJ3Rm5vdWdiMS12Y1RnbkxyRDNWZEx6R243ejdObWl1MVh1cF9LRlNpRERHenRCbG5wR3NZYXJ5WmxYdmt5UnN5OC1mQktrRWJSMFhQRUxDUTU4UVhMOF9OX1VMcTRrNUtETGdnNGhyOHJZVi02TjMwb3oxcGEzQ0s5andtS1AyV2dJWWxPN2FFU0VkQmhrRHVfWngzYm1fam5NRHlmR0lHSFMwLU1zSU82SnVHZw?oc=5": {
-      "title": "Emae encerra OPA da Sabesp sem venda de ações por acionistas minoritários - MegaWhat",
-      "summary": "A Emae encerrou na última semana o período de aquisição de ações remanescentes da oferta pública de aquisição de ações (OPA) realizada pela Sabesp para a compra de até a totalidade das ações ordinárias da companhia. Segundo comunicado, nenhum acionista exerceu o direito de vender suas ações durante os 30 dias subsequentes ao prazo final de adesão à oferta, encerrado em 27 de maio de 2026.",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.097969",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjZQVGhOZmFTS0p4WTg1ZmpsNEc3MHMzNk5DSVFTbHpMTHRVRDlTRkRvcDBJTkNZVDZROEV1d0FxS253TWxrcGdlZ3B2UHd5NmZJZEtkMmxzZmxKWmFjSGZRQ3RUVEY0bUV5VmtyZDNjV1hlWk9US2NOenZuWkZfU3VfZDZPNXd1UHZyd0VqQm9UWmNkZUVtb043em5ub0FhOFVycHBuaU4ycXktNzkxMXZMNm9EcjQ1Y2c?oc=5": {
-      "title": "Brasol Invest capta de R$ 550 milhões em fundos de transição energética - MegaWhat",
-      "summary": "A Brasol Invest, gestora de investimentos especializada em ativos de transição energética, encerrou seu primeiro ano de operação com uma captação de R$ 550 milhões em dois fundos imobiliários. Após a consolidação do ciclo inicial, a Brasol Invest já prepara dois novos fundos, com potencial de captação de até R$ 1 bilhão adicional até o final de 2027.",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.098093",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdkZmNmV2MHBsbFkya3dQUE9JN0tBOERCYS0wY3hqbEQ3WnVoTnBBN0NiVXRaNmRubE94Smd3SHR4ZllkczBjSDVTUE9qUVZRSnlGM1NOVGxuU0NjYUpGS0g0TmptcXhkdHJvOXQ0Y0haN2VNUlBDM2VWVlZ5cGJtaWxGZEhaMTV0U19YWXh4bUlIdw?oc=5": {
-      "title": "🎙️O que deve mudar na remuneração das distribuidoras - MegaWhat",
-      "summary": "No MinutoMega desta segunda-feira, 29 de junho, a jornalista da MegaWhat Camila Maia explica a proposta da Aneel de revisão do Fator X, mecanismo que define quanto da produtividade das distribuidoras é repassado ao consumidor, e por que o setor recebeu a mudança com decepção. O episódio também contextualiza as pressões e os alívios pontuais na tarifa de energia em 2026, e fala sobre o…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.098164",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3BhcHVXSVR0blM4VjhzdVdmdXFtTFlGNTZmM2NIcHAydU5sdEg2YmNLb3ZHdGhqOHBGZkZjZnlmeGNjMDItLTZLQ3J6eTN3enJiZTk2VzVXQ1pSSTFidnJQNFJ6eHQxR1I0U2hUWTlwWFJ4MXgzUzJLaThUM1o5S0dXdEtORXJYLVlTaW84R0tUWVBMMlliUGlrR0tGUTBUWUFRR1Rxa3k3MndMTUNVOE1TTQ?oc=5": {
-      "title": "Tarifa continuará sob pressão sem reforma de custos, diz Sandoval - MegaWhat",
-      "summary": "O diretor-geral da Agência Nacional de Energia Elétrica (Aneel), Sandoval Feitosa, afirmou que a tarifa de energia elétrica continuará sob pressão de alta nos próximos anos se não houver uma reestruturação dos custos que compõem a conta de luz. A avaliação foi feita ao comentar os efeitos da quitação antecipada do Uso do Bem Público (UBP), que dará alívio temporário às tarifas, e o esgotamento de…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.098375",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTJfMzNLcUsyaFVvVmRaeW1LYVdpTnRodHlhbi1ReVN0YWtsME9Ick1DWDVHNU1mMTQ2eGZUbU5PX1pTOFlhNlF0eThOLW83OE95RjVnZ3psUnBNT25GVlNhZWYyOWJPS2xTeXVONkVLVDBweU1SS3NEWUFRX1RjUUUtNExiUWgwT3pia1hNdWdHNkdSdU1SemN5UklwbHF5MlpSYjZ5b2hwQ0lBWmZkYTZObkxvTjB4?oc=5": {
-      "title": "MP abre crédito de R$ 550 milhões para viabilizar subsídio ao diesel importado - MegaWhat",
-      "summary": "O governo federal publicou nesta segunda-feira, 29 de junho, a Medida Provisória nº 1.372/2026 que abre crédito extraordinário de R$ 550 milhões em favor do Ministério de Minas e Energia (MME). Os recursos serão destinados à ação da subvenção econômica à importação de óleo diesel de uso rodoviário, executada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.103822",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEV4ZDgyNkgtQWYzSzJxbGEyYmhCUnRkYnJZangtQ0lYMHo4cmdmdnVocFViSnRNaHB5MmVvNGZhQ0xnYk1NUUhQUnJrTHAySlhXejlSdW1PRFNUN0c4R3U5SXphNUwwYVU0M2MycVVudzZUdjk5UkxOZ2VPQUhQeUdPcUlPelhtZFVCWmNZZ1hLTGY3aXM2UlU5MEg4dWx3dG1hTTFkWW5HM3RsWTl4VnQ5c1dSems?oc=5": {
-      "title": "Térmica da Eneva é liberada para atender contrato do LRCap - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) aprovou o restabelecimento da operação comercial da usina termelétrica Luiz Oscar Rodrigues de Melo (Lorm), de responsabilidade da Eneva e localizada na cidade de Linhares, no Espírito Santo. A liberação será válida a partir de 1° de julho e compreende as unidades geradoras UG1 a UG24, num total de 204 MW.",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.103914",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0JxWkswQWhfcHJpOERLUmdBTVIyX1hZMDBsUzJGRG11SFY2VXo2cDN2YXZ0SS1LSC0zWlZ1VTBoc2pPSjNxODdUQi1uM3hfRWg4ZS1haVdidUo5Nmg1OTg1bHhlVS1wQnN4YUl3ankwRUFCcXVQRmdVLWpCeFJWWHZyWXVGYmd3eTltOEJmWnBqVU1ZU3o4T3BsQjRLRWoyaVNpYzczLTlJUQ?oc=5": {
-      "title": "Mariana Espécie é nomeada secretária de Transição Energética do MME - MegaWhat",
-      "summary": "O governo federal nomeou Mariana de Assis Espécie para assumir a Secretaria de Transição Energética e Planejamento do Ministério de Minas e Energia (MME). A nomeação foi publicada na edição desta segunda-feira (29) do Diário Oficial da União.",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.104000",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMVpRODc0RW94dDNXMURaR1otOFFtMWxWWWhQYk1MUG9tU0NGcXA1R1ctUXlydFlMd3JVSTZaYV9aakl1bm9mYWFHSEV3WmYyOUNDeDNjMlhlUTFnQVBvaWY5RnA0ajVDZXJpNk9HU3VFNnFGeGVQUHo5RGlCbUVVdlBoZmQ5TkoyM1N3NVJubG1nOWpkSVhWbHZvS2NEVEQ5NThFNlZHTFJ3V1ZXTVZRa3JvUWNnaGRKM28xZlhyZkVjbThMaUFnU3ZhdXBZSmFEejd1Z0xIXzQya2R2NHdva0FKcTk?oc=5": {
-      "title": "Preços dos contratos futuros de energia caem na BBCE após PMO indicar melhora na hidrologia - MegaWhat",
-      "summary": "*Conteúdo oferecido pela BBCE A última semana foi marcada pela queda nos preços dos contratos futuros de energia elétrica negociados na BBCE, movimento impulsionado pela divulgação do primeiro Programa Mensal da Operação (PMO) de julho, que indicou condições hidrológicas mais favoráveis para o Sistema Interligado Nacional (SIN). Segundo o PMO, a expectativa é de afluências equivalentes a 102% da…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.104171",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1Rlb3JOeURidHRTcFhnb0lDRmtnVWdSZHQyTGVZRUlQOVhIbDV2UlRscFltbGlZVi1aUXhSejNER0V0LV9wbGxLRFJxM0wzd2JBa3k3Z2NHcmxPd3JndDVZVk9mYnRWVkQ4OHNJOXJJX093bnk0SlhoSVNNRFAzM2luaWV3Q19ZOHJyNVV0OEotM3dYeUctd2NreXhhTnpoZkFsS3pZcllJWlZlWkplbjhGY01VMGRGZkxabU9BSHc?oc=5": {
-      "title": "ANP volta a indicar blocos na Bacia da Foz do Amazonas para leilões – Edição do dia - MegaWhat",
-      "summary": "A Agência Infra informa que após não ter incluído blocos da Bacia da Foz do Amazonas na prateleira do sexto ciclo da oferta permanente de concessão, cujo leilão acontece em 7 de outubro, a ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) sinalizou que deve voltar a fazê-lo nos leilões de 2027. O colegiado da agência aprovou, na sexta-feira (26), a indicação de 36 blocos na…",
-      "source": "",
-      "added_at": "2026-06-29T14:20:00.104426",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUxzSGZkYm1PMzRKU0cwNGlQUE9uS240bEhIZ1ZkcFFKSF9pZVBpZHFFWVNGYm01RTlkcWJCVjVuV3BXVzZveEg5bDNDNndjdl9CMDV1ZXFoS0t4WWJ1YzVQTDFhMUI2LTc1QTktQmJIcnZ5VHl1a0hNc2pUQ2I1ckc4RU1jdloweFcyVDBkc1lZSV8ydlZMeC1XUzZRLUQ1YVJtWTgyUWV2UQ?oc=5": {
       "title": "Região Norte baixou 0,1 p.p e opera com 94,2% da capacidade - CanalEnergia",
       "summary": null,
@@ -4235,7 +4075,7 @@
       "source": "",
       "added_at": "2026-07-13T12:41:10.195909",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnZnUEQ0dXYwNmRXV0JMemVVSFJEajkwNS1sYUE1bkJjcy1Vemt5clUtek04RUFwMmJTV2NGMVhPajF2SVhSSElKaFpQanZqemRHQl9zc2c4VWVPWFpIZC1iSExvQ3l4QVh5R0cySHpFY01LSzZZbEsyZnkxWS1qYWxhVVVGdUQ5ZjRNOE1PT2N5eEY2U1hKR014NDBGYXhuMkpnWA?oc=5": {
       "title": "Forte aposta na China se voltou contra a Volkswagen - CanalEnergia",
@@ -4243,7 +4083,7 @@
       "source": "",
       "added_at": "2026-07-13T12:41:11.850892",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTJsRWhpR25GcloxWVV0V2V3eGVhdXE0bzYwRVhEeWVNYTF4Sks3VkViTGs3M2RSUDgycmxWVFFZYURKSzRrMDdvS3F6OXhqaGZ2V0JIc1JtYWtZWk9ESEpXZXVMMWMxek5TQ1pSbk0xUnpqOTFrM3JCTFU3bEF0UFlINHRFRnRqUmd5S0ZRXzItaVo1d195blJOM25GalpUZWN2eDFXc2wySlloRE8zSFBjck5WZHlCSmtIQUsxTmo0ZEJLbW8zZlRSeWhSYVnSAd4BQVVfeXFMTjRzRXpGWW9ZaDczTWJvLUtzMEJxaHkxamM3dUFmTzByLUFJd00tbmR4OExRVEF5aWJkNnRxUmszV291dTlsRXMwZHJOWTZRTXZoYjBjMWs0S0pIMkREelhwSmlnYjZoMjNQa0xoamUwblhSS25maXhyWUhQSHFrUkxaRVZVNlZhcUJBNm1OZXc4SUxkVlB6VVhiLXBvc01YbFMzMnVuaHNxc3F4YkxnUUVlSm95OHJmeG5RUm02RHNfWk4xOElLdTBscm0zWDRKOEdqX3BOcW9VMlYtbnJn?oc=5": {
       "title": "Mercado de gás prevê que revisão de tarifas de dutos seja concluída este ano - Valor Econômico",
@@ -4251,7 +4091,7 @@
       "source": "",
       "added_at": "2026-07-13T12:42:09.883534",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUJqbmgydlhyM21KVVgxdkZUYnFfZ2VQNk0xdWdCTFJEbDZXR3d3UnlCc3o3TnRyMHkzZWY1cjBZT2I0NUZpTDcwMzFLWGdUTlloRFdtckhSR194Y1JPek1nTTdZeWxUNDZWcExzdFB4OTI2UmVmaDJ4eFlrYVBHU2RjUmJvUUJWYkNncmFVcC0xTmVGQS1ZRmptVGc1WWtKVHR6X2hTWQ?oc=5": {
       "title": "Mosna propõe reduzir multas a usinas da Essentia por apagão de 2023 - MegaWhat",
@@ -4259,7 +4099,7 @@
       "source": "",
       "added_at": "2026-07-13T12:42:09.883810",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOenAwOHZubVpad28zeUhxS2dUODlidVBVVkE0d1pzVVdfci1BR1lRMlBSR1h6RHlpdkNsSU12elF1VnB0cE9FT2JvN0hLSkF5Z01Ibjk3MDVwWk5qWGFRbUFHeTJiaXhFdmhsa2ZjVFRqV3pPMU92VnhJbmhMZUt0TWRrUWRQbmxKcHV4VWNMYVl0NUdOY1ltY1p4Ty1RTldZSUk1N2dKcWotOWhSZ1pIX3JMb09iSk03cmc?oc=5": {
       "title": "Contratos de curto prazo impulsionam alta dos preços da energia na BBCE - MegaWhat",
@@ -4267,7 +4107,7 @@
       "source": "",
       "added_at": "2026-07-13T12:42:09.883933",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hEQU1vNFVrdTN1d0g4cE5DeV83MzR2RHVtRDFiMnh1SXhBODFsTmktWHcxZ05rTElkdF9GX2hXZnVudy03RGQzVGppR09ZNDVJeE5XdWl5d25IdzJ4eUJSMVZUdHM2NjdTNENIYzh4emRxY1pQTXB5OVd2SnN5bTl0RlZ0M1FIb0cxRThFbFFLbm5ueTBQNUxQQnNER3RoM2ZiTmIzNFlRQ0J2d3JxVEtsVEpLTmtRb1RkZjNNRXVEeVNObGFJZg?oc=5": {
       "title": "Argumentos da Enel não barram processo de perda de contrato em SP, diz AGU – Edição do dia - MegaWhat",
@@ -4275,7 +4115,7 @@
       "source": "",
       "added_at": "2026-07-13T12:42:09.884279",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkdycE5TVU1Ka0VveFA1bFg3YU1XVWNjQVJtQVVEZnJQbW9rbFFMV0RFVkRmRmRuM2xLN0lKZTVWWVBrdkNNeDlhd0ptV21KV2cxbmF2MHFaNi1mS0ZoNzJrZHFCYV9uX3B5am9WSmw4aVJ3T29janRvTnRKNjFWTUJJUGFSM2xuVzVpaGhRTll6czRibVF2azZ6LV9wWW5yQWxkZlZpOFB3Z2VfQlhKYzF6Y0Y?oc=5": {
       "title": "MacLean, da Blackstone, compra brasileira de equipamentos elétricos - MegaWhat",
@@ -4283,13 +4123,125 @@
       "source": "",
       "added_at": "2026-07-13T12:42:09.884423",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYm5tVG1mWWRuSGlzelhwZ0NqdGI2UlRBeWh3NlBrX2o2M2hycERMdk9YVjhCWFpLOXd3ZnJJRWh2X3A2TEtKLUVrX0tRcURBd29fcDVrSU1teEFuWl9tdFczU3V1MjhNbnZaOFMwQlI0QTd3UjE0V1h6OVdSaWp6cEZwVzhrR2haNkF6SFBWOFdWaERxLVhHTXpEUWxua0pwZEZHZzNBNUdOdnNFNWc?oc=5": {
       "title": "Verene Energia concentrará ativos de transmissão do Grupo Energía Bogotá e CDPQ no Brasil - MegaWhat",
       "summary": "A Verene Energia passará a concentrar os ativos brasileiros de transmissão de energia do Grupo Energía Bogotá (GEB) e da gestora canadense CDPQ, após uma operação de aporte de capital que cria uma plataforma conjunta de investimentos no país. A transação foi aprovada pelo Conselho Administrativo de Defesa Econômica (Cade) e resultará no controle compartilhado da companhia pelas duas empresas.",
       "source": "",
       "added_at": "2026-07-13T12:42:09.891289",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFJoRXQ0bWptWWZZcFBYcWxUa2JRdXUzR1d3SFFhREFCS3hPcWRlbFZabmJTZEkxYkIyNFo2bEpqbDVOUkhiOUFoN3M4RTFMa1FvM3U0Sm9FUGJVeUUtel9YdlkwYk5nR0RqSS1ocVoxU19WbHRmbWRRRVg2WXN2M29NbnB4NlVydFJrYmswejNSRC1LQkE5dExNaHJSX3drNHNndjZ2NFpXQQ?oc=5": {
+      "title": "Copel anuncia oferta pública de R$ 1,3 bilhão em debêntures - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-13T15:50:28.130931",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2J4Y2FmZ2JFV05IQi1CeFo1NkFlS0FaSHQweVV5dmY3eFZHNmduaUdiZXlxUzhkRWlsOWhZbmZieU5OYjNxTjRXNGgzUGphQU1zdy1jaW8zV2FOWUlxcm5tYjB0bEZRVXFkdW1YR3ZNNGVhTlJjQWQ5ZDBjdzJpeTl2Y2EtZG04QndzcXV5Mk94TUkyblhyWW84TEpWdXBrVW9YZmduMzVsRU5vRjN3VGVpcXJkdFBR?oc=5": {
+      "title": "Uma barragem do século passado para os desafios climáticos do futuro - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-13T15:50:29.813966",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaXdXblBqaHJ0RnBsN1N4Ylh0bXQtd2g2ekl2SDhpV05DdDJzaDdqdmlWci02QjBhV1ljRTQ2djlvYWJRczJiaGkzcDN5UDdvaWV6ZEJhVnVmdjhfVGc?oc=5": {
+      "title": "Tag demanda nacional - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-13T15:50:53.492564",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT0xsWlZGeFRoRG42cDA5OWFIcFozcTBuTG9LcURIZzVhSEw1bGhkNGtoTTY2VHhDd25fNWZiZmRjZ01KVTFFRFJicnBiSTFrb0ZDT0VQalBxTDdIdkFtdGYyd0ljVUNCaVpPcEg5NkRCNEJqU2RVUkFzenlYcVZzbFVucDhRYWc2TzU5X3VMTG52QWRuR2VEZmV2T1pDZU5HN0hHWEF4aDc3dUh1ZGpSUTd6UVVDMTBWNWllX2ZNMTBYUWxoRHo2OWVlbG45ejFRbkdnZWlNVGd1eWJ2MW4xYzVmU1BBdUhr0gH3AUFVX3lxTE9pUFJwNlptQjVfWklma0FVT1NYamhsRUpGaUNudlp5Y3pTanE1TVNVUEpKU2hYZTRvaDJoT29NckhUMHVkMHJIUnJPSXp3OEF3SlRVZHhwSktYcEpTLTNXTHlvR0lqRW9IQlo2VVYteVJpX0I0cU9tNnRWUFJNbUFBQ3YyVW5KSEl2RTJheE12dDdHNm1mMl90aExYWHhTZ05DTlIxZFh0eGx2X2tVUVlWWXJUdDFXWENOczktSGJQMzFXSVRJQXdEc2l5Sk1xay1FQk5FZDVKYmZSTlZ4cVlYY1pUMVlVR1liajR2SW9EUVItbjdDZTA?oc=5": {
+      "title": "Blackstone lidera investimento de US$ 5,34 bi em projetos de infraestrutura energética da Williams - Valor Econômico",
+      "summary": "Blackstone lidera investimento de US$ 5,34 bi em projetos de infraestrutura energética da Williams Fundos são geridos pela Blackstone Credit & Insurance, em parceria com a Apollo e com veículos de seguro e contas geridas pela KKR A empresa de infraestrutura energética Williams receberá um investimento de US$ 5,34 bilhões de um grupo liderado pela Blackstone para financiar cinco grandes projetos.…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.696348",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcklDX21IRnptSTZrZXpLOFdPQzIteDE3bWY2eUVyT0c0Nkp3U2stcGlrS1dDU2t1RkdCSExxS2tHd25tNXlac1pTc21jR2RGai1xXzE1czhsTDk0RmpqOTJicG12eW1PbEJfQVpGRjNlUFR2d2NhRmt3YmpDZGZROFNEcTNZTXpBSWhBZEFSN1dKYWNJdWdzRVM4UW1LVDVTNXVBc3BtODhPV1dOX0NRcjZ1eU9NN2hHbUtvNHpKRWJBb1I5SHZ0X3hsNTlnOWPSAd4BQVVfeXFMT3hGVmVaTVFObzluekJSekcwS2g5aGJpRWVfVGJhUndUcUl6dVdqVkw4U1QyRWE4emFjTjk5cFM1aUxzMUgyN294ek85aTJlaVpPTTJaVXlFQ1hnNGFYa2JwQ3lZYnVwUnFlSm5GRlJaX2syeWZUbklJOXk2ZXRBaGYySmR3UzVXTHNzZWh6OWJvRUNDMGNLeEZIalZPeFg3NjBXSXE3amZ4LWlBNU1rc1JLM3JkSHVVOWVHbnhkUXU2Wmc5blBRcy1hRkpZRUF2NG80TTkyb1JxWEpmM2tB?oc=5": {
+      "title": "Fitch reduz perspectiva das notas de crédito da Auren de estável para negativa - Valor Econômico",
+      "summary": "Fitch reduz perspectiva de crédito da Auren de estável para negativa Apesar do cenário desafiador, os ratings da Auren foram mantidos graças a importantes fatores mitigadores, sendo o principal a expectativa de suporte por parte da controladora Votorantim A Fitch Ratings reduziu a perspectiva das notas de crédito em moeda estrangeira “BB+”, local “BBB-” e nacional “AAA(bra)” da Auren Energia de…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.696486",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVUV6c3c1TmtFRXA4NE8zTlpERjlwaWxKWVRQTFVtVnZQZlpsakxKbzJqRmdIRG5tMDRSOU5qczNabUVDZWNIMFkzT2V0TUdhZGo0M1hlaVZEZ0l1azNXbVdfTE50V29ET1QxdGtVMm5VT3kyaTZsOV8xVDZMbG1hZ25MSWVyZl9VS1dMbi1OM0VRN1pFMVMyOUhqWW0tUnM1Vk9JLXNWTXpOcV82elhVNGNJbElnZGJRdE1wQVhDNTdNa0FpZWlsOHdDRkLSAdsBQVVfeXFMUEVVMVZwVS1YWGVjUVFzWEJPOFpsVnlYajNKNkxvZS12alFLQzJwWXFDVjJsUEFVa2FKNENkMV9IbFM0a0ZNS01LVWlPOUlQR3RxelBCSlcwWkYyZDVzTVFEQUV1XzdUSUNmNjRqaGNYekYxVGh2VkVPZE5zWlVRSkVwNzZubmhaaXhqUTNMQWRycENjLWFGWjdxdlVuT0hLemdFeDA3cUFFY1ViN2JmczROc0M0NDMybFE5WWxDRFg2akJTaVU0eVFONUtBWEtHZnZzQ3VVRUVnLUR3?oc=5": {
+      "title": "Copasa tem crescimento nos volumes de água e esgoto durante o 2º trimestre - Valor Econômico",
+      "summary": "Copasa tem crescimento nos volumes de água e esgoto durante o 2º trimestre A empresa movimentou 173 milhões de metros cúbicos de água entre abril e junho, alta de 1% na comparação anual, enquanto os volumes de esgoto aumentaram 3,6%, chegando a 123,5 milhões de metros cúbicos A Companhia de Saneamento de Minas Gerais (Copasa) registrou crescimento nos volumes de água e esgoto durante o segundo…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.696597",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWt4Qm5qQjRXTFN0a3hTTVBleGJtbngzbG5qbjM4cXR1ZjFtcjlHMnExdjhkZ2QyQWx0ejdldDZSSHZ5bkNoSHVrbWRoWHRXblBXUFFySVZIakVBencyVC1ac0FXRERtcE9mRnBVOHRyM1ZTSzFxel9yVmJreWZSZVZXUnZfa2ZYN0ZmcHFtdF9XU00wOHF0WUx5TURnbUV2eEtQMGFtX3N4TWRqQXRCS3hZdGFaTElITnhSMW0tMjQwQQ?oc=5": {
+      "title": "Comercializadoras de energia entram em crise com rombo de mais de R$ 6 bi - Folha de S.Paulo",
+      "summary": "Empresas que atuam no setor de revenda de energia para grandes clientes vivem uma crise financeira sem precedentes, com dívidas e recuperações judiciais que já ultrapassam R$ 6 bilhões, o que compromete pelo menos 11 companhias do setor elétrico. A crise se alastra entre empresas que atuam no chamado \"mercado livre\", um ambiente em que médios e grandes consumidores podem escolher de qual empresa…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.696964",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQelVHU0F4SVJLdDZwYVAxTzF2SGExY2I3N18zb3V3UEN0MEdPUDloWUxOeGRsc1JGcUl3RjN3d09mc2hWVkV1MXZZcC1WMkN4VzN6M0hBSC11M2pvRGZtLVR6QlVBRmgzY2Ezem0wNHQ3dnhaWDJ5QmQzT3FrXzRiMHA5bm45a3hPMjJtQVc0SjVPVUxKeUZEcU1aRGJrVDM3WXZxTi1od1gxcEVNeS1YWTJranpZS0ZFbnN5cWU2X3VocWZUZkxiXzBkakJuYVZPRVgyM3dDOGJiRXI4SWJ0YTRB?oc=5": {
+      "title": "Distribuidoras cortam quase 2 GW em usinas Tipo III, mas relatam dificuldades com plano de gestão de excedentes - MegaWhat",
+      "summary": "O primeiro acionamento do Plano de Gestão de Excedentes de Energia na Rede de Distribuição reduziu em até 1.955 MW médios a geração de usinas Tipo III no dia 7 de junho. A queda foi registrada entre o patamar anterior ao acionamento e o período de maior criticidade, entre 12h e 13h, e equivaleu a quase o dobro dos 1.000 MW adicionais que o Operador Nacional do Sistema Elétrico (ONS) havia…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.703509",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1PNzdqaW9yYVAwakxwNjRoc0taYnZBRklZWkhsSzdXV1FFS3hjdmVyTmtTWjgwUnpZT0Q4azJJY2pxNE04akJiaUVoX3RzaXlCUmRBR3o1aVlnTGtteUFFSnUydXYzT25hakRoQXZtOHpnc2xkZF91OFBLU1VXNEZ4MWFMZ2ZUbTZNdXRoQm1Nc3BhVUhXdUZZVzVYNTYycTQwVmN6anFUYmszT1R3TVJJQnM?oc=5": {
+      "title": "Imposto de exportação sobre petróleo volta a valer após fim da MP - MegaWhat",
+      "summary": "O Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex) restabeleceu a cobrança de 12% do imposto de exportação sobre óleos brutos de petróleo e de minerais betuminosos por um período de 60 dias. A medida foi oficializada por meio da Resolução nº 938/2026, publicada no Diário Oficial da União, e entrou em vigor em 10 de julho, um dia após o fim da vigência da Medida Provisória…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.703699",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmxsVG14S3U4SDVBVVkzR2o1RHMyQ1dxdDJqZXoxZHNUTUdhTTdMcThXUE5ubnNFZWtfTTg1Q0F2R1U5WUpvTzdYWjAwWExfYlo3RlJPR3FFRFZOMFFjLU4yYjdmLUJtbmJTeFFvcVF2WG1PMGVIdjNVQllLekNJYzkxYjdnS3hubXZ5QmNISG5oSjlSQXkxZlVn?oc=5": {
+      "title": "Aneel avança na outorga de 52 usinas contratadas no LRCap - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) encaminhou ao Ministério de Minas e Energia (MME) os processos administrativos de 52 empreendimentos vencedores do leilão de reserva de capacidade (LRCap) que ainda dependem de ato autorizativo de outorga. Os projetos fazem parte do grupo de 65 empreendimentos vencedores que ainda não possuem autorização, dentro do total de 100 usinas contratadas no…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.703918",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nTGVOUEJISG5uR05TMi1aeUZYSjAwUXpGN1FHb1JpZGJaeVJER3V4ZGpuNmdNUVRTS095cV9FUjYta2xnaXVrZUVmOFNBdw?oc=5": {
+      "title": "Tag DITs - MegaWhat",
+      "summary": "DITs Gentil defende licitação de grandes reforços em redes de transmissão O diretor da Agência Nacional de Energia Elétrica (Aneel) Gentil Nogueira propôs que a agência encaminhe ao Ministério de Minas e Energia (MME) uma solicitação para avaliar a possibilidade de licitar obras de maior porte em Demais Instalações de Transmissão (DIT) compartilhadas, quando o investimento estimado e a natureza…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.703954",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3RzbDJUd2xBRTRHRFpjU2lWM29oUUJKX1FtLWtuZFVfVlBuSmRobjJLbnVLY3gyemUxX2phZEVGMnBXbkk4TFFyXzJRbHd5S3JMU0k2QTFrblRiSUs4M1Jkdi1BUDh5MGdaaU9yM0VaRHZaZlRMZnpkR01VU0pvTGpaNlc1S3QxaS16cl9BTmFxVWo4WDZBa3FYd08xRzVUWEllUnR5bkdteGJFTHc?oc=5": {
+      "title": "Gentil defende licitação de grandes reforços em redes de transmissão - MegaWhat",
+      "summary": "O diretor da Agência Nacional de Energia Elétrica (Aneel) Gentil Nogueira propôs que a agência encaminhe ao Ministério de Minas e Energia (MME) uma solicitação para avaliar a possibilidade de licitar obras de maior porte em Demais Instalações de Transmissão (DIT) compartilhadas, quando o investimento estimado e a natureza do empreendimento forem compatíveis técnica e economicamente com um…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.704234",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzlXclA2TGpVcHl4SXZCMUtNUjM4TkJLd1FyTlAzUkNKWi01Y092UXdlanh6dklOR3IxQzVVTVNkTUNoRUlSelpSQW40RFIxR3RLT3FqbThxSzR1dk9KNUt3V1FMNXJOZ0JJY1VURzVEUnAzTkRNOVcwNWtZVDFfU3BaZGpZZjM3a1dpYi1MbWlCaXBFMUpWNnM3aFdLVXVuOV9WV3d3ZG5VckRoRXc1bmxaaEQ?oc=5": {
+      "title": "🎙️Como o teto da CDE e o fim da vantagem da incentivada afetam o mercado livre - MegaWhat",
+      "summary": "No MinutoMega desta segunda-feira, 13 de julho, a jornalista da MegaWhat Maria Clara Machado conversa com Helder Sousa, diretor de Regulação da TR Soluções, sobre as mudanças nos encargos e nas tarifas trazidas pelo novo marco regulatório do setor elétrico, que devem ter como resultado uma fatura mais salgada para consumidores livres. Com isso tudo acontecendo às vésperas da abertura do mercado…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.710116",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeWwtckNuZWo1UFIxVHZVVjAxRG1qSE1VWVBleWlyRWVrVXIzSFhQdlhUVUNKWmFzZkJ4WGlOY2RsRlY1RkVBQUU5YmEtVThDaWFGSVc2STRReEVoU2Y5bE1mSmtDUTd5UFdFQ3N4TUNVY2hPS21tc1pQUXQybndEaFhyb0luOWtza051amdHQjE4WGlFSkRWQmVfVXo5X20zNDJrelFPcVhqcXdIN1E4NzBkd0NqUEtqOE11emdXdHVDZ3pmNlNQZE8tOVVIZlJ1b0lwYVU5R2ZDcWl3SUNiVDV3S2kxVmpmS214OVBkaw?oc=5": {
+      "title": "Belo Monte fecha primeiro semestre com geração equivalente a 6,56% da demanda nacional, diz Norte Energia – Edição do dia - MegaWhat",
+      "summary": "A Advocacia-Geral da União (AGU) concluiu que os argumentos apresentados pela Enel São Paulo não são suficientes para invalidar a decisão da Agência Nacional de Energia Elétrica (Aneel), que instaurou o processo administrativo para avaliar a caducidade da concessão da distribuidora em São Paulo. Em parecer assinado pela Procuradoria Federal junto à Aneel, a AGU afirma que a empresa apresenta…",
+      "source": "",
+      "added_at": "2026-07-13T15:51:57.710944",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
