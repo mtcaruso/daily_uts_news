@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-13T18:11:14.692683-03:00",
+  "last_updated": "2026-07-13T19:07:05.411300-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Aviso aos Debenturistas da 3ª Série da 28ª Emissão de Debêntures -",
+      "data_referencia": "20260713 13/07/2026",
+      "data_entrega": "20260713 13/07/2026 18:24",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aviso aos Debenturistas da 3ª Série da 28ª Emissão de Debêntures",
+      "protocolo": "1544477",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544477",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-13T22:07:03.052389"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
