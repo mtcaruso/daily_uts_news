@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-13T06:58:04.028547-03:00",
+  "last_updated": "2026-07-13T09:28:08.087964-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Release Operacional - 2T26 -",
+      "data_referencia": "20260713 13/07/2026",
+      "data_entrega": "20260713 13/07/2026 09:12",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Release Operacional - 2T26",
+      "protocolo": "1544233",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544233",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-07-13T12:28:06.569374"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
