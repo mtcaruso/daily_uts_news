@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-14T08:06:28.111083-03:00",
+  "last_updated": "2026-07-14T09:22:04.738016-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Contratação de operação de mercado de capitais - 23ª Emissão de DebênturesAta",
+      "data_referencia": "20260708 08/07/2026 17:00",
+      "data_entrega": "20260714 14/07/2026 09:18",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Contratação de operação de mercado de capitais - 23ª Emissão de Debêntures",
+      "protocolo": "1544572",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544572",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-07-14T12:22:03.131055"
+    },
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "1 - Apresentar os resultados econômicos e financeiros do período de janeiro a maio de 2026.; 2 - Evolução das ações adotadas pela Companhia relativas à Proteção de Dados Pessoais e Privacidade, Segurança da Informação e Transparência.; 3 - Dar conhecimento sobre a atualização das ações adotadas e tratativas com auditoria externa referente às provisões e passivo contingente dos processos judiciais em trâmite (cíveis, amb., trab.).Ata",
+      "data_referencia": "20260709 09/07/2026 08:30",
+      "data_entrega": "20260714 14/07/2026 09:03",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1 - Apresentar os resultados econômicos e financeiros do período de janeiro a maio de 2026.; 2 - Evolução das ações adotadas pela Companhia relativas à Proteção de Dados Pessoais e Privacidade, Segurança da Informação e Transparência.; 3 - Dar conhecimento sobre a atualização das ações adotadas e tratativas com auditoria externa referente às provisões e passivo contingente dos processos judiciais em trâmite (cíveis, amb., trab.).",
+      "protocolo": "1544565",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544565",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-07-14T12:22:03.784273"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
