@@ -1,62 +1,6 @@
 {
-  "last_updated": "2026-07-14T20:21:43.050040",
+  "last_updated": "2026-07-14T21:35:13.066296",
   "items": {
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3RGR0dTaUlidWRXQXd3MnZoaTZ5TGVTUWhocmlGSXNxVGV6emFUeGQyeWZlQ0YtdkQ4aExvZW9GWHVnRVVCRDlLNFMwR295dHNHcVhMbmxDS184ZnZUTUtiWllKb1ZMRzJSYU5Wc2JIVVBJUE9QVlQ1MFJWbFJLZVlaT1A4WXd6eWJGVXhodl95VDF4N0sxT2M1SHBkbXVFSkoxNndXc2JSOEtiUktCTw?oc=5": {
-      "title": "Eficiência em motores pode economizar até US$ 12 bi, indica ABB - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-30T21:19:12.148974",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkpnLTN6bnNDdnRBRFdjMnRrbUdQZDB1azVrcWJsU09iNExlR1BSYUVpUXA1bV9iU0pEWVVJMlRPV01lZkZFUkp4X3o0czFoRFdlLUxoYVpSNEJSQVJTVzJ5SThBNmdSVGNTbFl3MGV3ZjZMVjViRVZSM2VSU3VWbUtHaWFNUFQyVGNYYXRYWkR6T1B2MElGSW9MQkRHRHJ2Nk9maA?oc=5": {
-      "title": "Casa dos Ventos fornecerá energia renovável à Sabesp - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-30T21:19:13.758365",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMXRMYkxZdmJtejY3Nmk0NUhpVU01RWMyUWNyNk5tTWV3TzVuZXh3STBTUTlNYldHR05XcDN6Si1ZVWZLb0Z1VDNYUjlqdTR5eVdvSzJmTjJQa1Y0d3pqRGhBNzh5MDcwMXY2Q0FxVmhsckhoTGlZR2g0NE9xTVJXd1Y5M2paVzdfOXRYcVBzRk42elJhdDFGaVRYNER6OUp2U29YaHg0VnVUYzY3bjloaXcwRnN5OWdhV2hPZzd4M3Y0Mll5RS1uVW05V1BJdV9WQnZiYWYxMU1ZZlU2VjdrT3NNdmjSAfMBQVVfeXFMT3NsWWFRbW5kYkE3bzRQUVlRSmFIMFVrUlBBTGJTXzlTSFRkbzd6cFpfR0dZR2RVZWxnbUpBUlctdHoyc2haRjkzdWM0TmlydURWV3pDMEZ6YUFIVUh3Mkk0TEczMzE5Q1UtYnBNdWRzTURZaHB3SFlxSDdGeW1FRi1OemF6cWNjUlRqcjdQb0ZlTXNfbWoyT3otaEV6eVJZbk5xSXp1MGdyVFRGYTIyaDVqQ3FOWTZDVzN3SnppVE1oNGE5Z21zR0pTNEhhT2F6SXNid3NrUXppRk5IQUJDdW5LQ0FiVHVaaDFFdUg0M1hNN0M4?oc=5": {
-      "title": "Aneel aprova aumento médio de 10,18% nas tarifas de energia da Enel SP - Valor Econômico",
-      "summary": "Aneel aprova aumento médio de 10,18% nas tarifas de energia da Enel SP As novas tarifas passam a valer a partir do próximo sábado, 4 de julho A diretoria da Agência Nacional de Energia Elétrica (Aneel) aprovou, nesta terça-feira (30), um aumento médio de 10,18% nas tarifas dos consumidores atendidos pela Enel São Paulo. As novas tarifas passam a valer a partir do próximo sábado, 4 de julho.",
-      "source": "",
-      "added_at": "2026-06-30T21:20:25.265985",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX1A1R25ORnhSVkYwdGNxT3lzYUtGVTZPaGlBTVc1em1XS0NadzJzTzRjRGdGS3RJUXVpLXJHN1NTdU1LUzdFTF9md09lNERmR2pXVXJnbWZ6cS1aSWNLYnM2dHZZMVY5VDRtaFpHTUJhYTY0ZlhRRjRBeEVKOWMwVV80aE1TbEtkUUkzdC1XcS04Tzl1R1F2czQyZUMtRzlMZXZoQV9yQ1NiZ1B1ZVNLUzZKeFZvVFN0eElSbnoyanM4UzA1QzJRQmctY9IB0AFBVV95cUxNQmhGVkF2aGhNaHptc01sRW9VX2VMM0FwSWVTXy1Ja0N4RmxnQlhiS0tiQlktOXlrQ1RLYU5oOFdDYWhXUk5mNzNpZk10cXpyTVBtT1pMMG9MSnhSQ2NObGxVdFBHeVVNd2lRU2ZZeUZ6b1lSUEU1bDJtaHpFejQ5cmxOdW11UTZFQUJUNzRoc0pMR0I2YnpiblAtWFJQR0dBcjlOalZoaFBVbzJhV3M1emVSQUFhRXdOMkJsVTg1RTVDN1M0Q1JQYndaSlhzMVJF?oc=5": {
-      "title": "Leilão de saneamento: sem concorrentes, consórcio arremata o Bloco 1 de esgoto do Ceará - Estadão",
-      "summary": "P3C: Novo ciclo de concessões exige estruturação Gabriel Ribeiro Fajardo, diretor de Concessões e Parcerias da CODEMGE, fala sobre os desafios para consolidar a nova fase da infraestrutura. Crédito: Imagens: Léo Souza e Deividi Correa/Edição: Laís Nagayama Gerando resumo O Consórcio Ceará Saneamento arrematou, nesta terça-feira, 30, o Bloco 1 (Norte-Litorâneo) da parceria público-privada (PPP) de…",
-      "source": "",
-      "added_at": "2026-06-30T21:20:25.276238",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0JsNGU2MzA1TjA1NWdPMWNUY1J6aEtDNUpnV3paQXNiSFpjdDBlQjlUUHlsZEhRUEVpNlZVN1NvYWl1S3VVejFtVjhmQVdwSTFiekw5T015dE12MVZnSUV5aWhYTE40NFA3RmtxZkVkYlpnRTZobGpFTWJEQVZubWhFcjM0WlNfZTBSdV9xU2c4VUZmeEJvaQ?oc=5": {
-      "title": "Consumo de energia cai 21% na partida do Brasil na Copa, diz ONS - Agência iNFRA",
-      "summary": "da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) coordenou a operação do SIN (Sistema Interligado Nacional) durante a partida do Brasil pela fase decisiva da Copa do Mundo, realizada na tarde desta segunda-feira (29). O consumo nacional de energia caiu 21%, chegando a 66.515 MW (megawatts) médios perto do intervalo.",
-      "source": "",
-      "added_at": "2026-06-30T21:20:25.283511",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXpjakJpZ1VvSXNDX3BoeFBWNElKUF9zWkF6NXdNRXBhd3piSDNkdFdCTVNEOUhsLTVjWFltTF9oWHBuVWFjNzRadDFrWFQxTlV4V1hVc0lJZDVXdVRrYTFhUk9kcDhpc1VISGY0c0VPc0tET1ZSRzBwb1hFVzBrbVUtVUhUSUM2bDJYRjlycUVDeUlsYXc3OGRQM3pzams?oc=5": {
-      "title": "Abcon: Decisão do STJ sobre Tema 565 garante segurança no saneamento - Agência iNFRA",
-      "summary": "da Agência iNFRA O STJ (Superior Tribunal de Justiça) manteve o entendimento do Tema 565, ao rejeitar pedido de revisão da tese que considera legítima a cobrança da tarifa de esgoto mesmo quando nem todas as etapas do tratamento são executadas, desde que haja prestação de serviços que integrem o sistema de esgotamento sanitário. A decisão preserva a segurança jurídica dos contratos e garante…",
-      "source": "",
-      "added_at": "2026-06-30T21:20:25.283571",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkNrQ0w5S0xUWG1Cb0o3RkphT2JGNkxxbThQLTBMelNhZnRBaHNGS3dNaFFtS1Y4M0RfWkxBc0JRNWJabmc0U0dQQU9USlFzb2xRUVdiSzB1ZEhKTkRkcFEtbGdZLTF5Y1QyQ29lRWlwS3l0SlhHRmVJaENKanFQckVUR29UdnNacXRDTXNiclVDOGpaZTluZ1R3NEJCMEtUNnhiOQ?oc=5": {
-      "title": "ANEEL aprova bônus de Itaipu de R$ 872,1 mi para abater tarifas em agosto - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA A diretoria da ANEEL (Agência Nacional de Energia Elétrica) aprovou nesta terça-feira (30), por quatro votos a um, a distribuição aos consumidores de R$ 872,1 milhões referentes ao bônus de Itaipu de 2026. O valor é 13,6% maior (cerca de R$ 104 milhões) que o montante de R$ 767,2 milhões que constava para distribuição no voto da relatora, diretora Agnes Costa…",
-      "source": "",
-      "added_at": "2026-06-30T21:20:25.283653",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGp0b1pUZ0FGUVphRkEyNXdJTk1DZVZxb281TWkxUndfUVZJRk8wVFdtTGFzN3RLdV90dGlnaWk1OUYxT1ZuZTNINmdjd1BzeUp1VUFkTTBIR3hKQkpVUTNpMkl1MmpUekRSSzdzMVEzZlZHWFpoc2V5WUhmNC1CSjIyNEkyRmx1SmFhdkZDWDJidEN4T1JBLVJmWFYwUTF1aFcyM255d2xCTHYwZDQ2Uw?oc=5": {
       "title": "Amazonas Energia deve entregar plano de ação à Aneel em julho - CanalEnergia",
       "summary": null,
@@ -3905,7 +3849,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:36.121263",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaFd3bzNhaUZKdGJpOXpMak1DYlNiaXdDZ2N6cWwyOExTamFOZE4xTmYzZUYxaXlnQWZlUm52bC1nbEd4TnJ2c2tCWEZsSEI5OFRmZkpMeHRxUXJ2a2pyTFlSd2xacThZNEF3dWRGNlVsU2RDNzF3ZmpOXzZUMTZNOUVNY1RyU2dDMFZERkgyNGtnLVlh?oc=5": {
       "title": "A GD é ‘hipoteca’ energética superonerosa - CanalEnergia",
@@ -3913,7 +3857,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:37.789736",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0VOUmdTOXVrVjh5YTdsc25YajMzWHVzV0Z0UmFZTG00S3JLektNbER2eUxtNEVDZk9KVDlaUHdrVldneXpPTGpiWWFwemRzMV9rUlNzekwxTmxnd2VjNGE4UlhQamNsMU9pQjk4SmpIa1BkVW9XdWNRY3B1ZVc3ckFIcjZhLWVzT3RaQWFn?oc=5": {
       "title": "Descarbonização além do hidrogênio - CanalEnergia",
@@ -3921,7 +3865,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:39.482686",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3MyOFQtNW1VQlBkcnpkRVBHNFR4SUxxUmFabmdMeUJuRG43ZnVZSS1vWE9nanNkVHpLcUwwMENQTk9UTDF0WlZ5WlRUTkhPS21MMVB3UTdpVml0elN0MmlINHAxS2xsMzdnMUhJbGlCX2VaWXItM3hZWF80UEszYjhpbXpfOVE0X3loTlVFVmU2enZRVG9lNk8zSUtGM1RONkk3eXAycU5MVDJaenlYRlpEYzI2c0JTakE?oc=5": {
       "title": "Shell vende empresa de energia eólica e solar na Índia por US$ 1,8 bi - CanalEnergia",
@@ -3929,7 +3873,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:41.168688",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTNMc3dFWlZmWnM4S21zanNjZEFEUDgxZm5qUWlWRFFJbUxhSmMwaEZzRWV6Zk94YV9FcGc5UnprMVN6VG9kUkktMG5sTm9UeXNMVnl6Yk1nNW8wXy10ZWxQc0FER0wwVUp4SlhNQ1U4SDBfVkVocHh4SGdwbElBQg?oc=5": {
       "title": "IPO da YPF Energía em NY - CanalEnergia",
@@ -3937,7 +3881,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:42.839050",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZU04VDU4MDBwdTc3Vk5STGpPT2N5d0FaOHpodU1BUV9CRnBiaHo2OUgtUWFZWVlRdkFpRUR1Z0E3RVdTRmJnd3pxRlVHNURtZl9oQktKcVlxU2xoTHdCTzhtUnh4bnBmR1Y5VHctY3hFblJteU1IUk9pc094NkFUa0RrR3g2aTRndzlIYUYzTFRHbjhHZjBkOVhJYlhZTktjSlUyZkQtLU8ycG5Nb1E?oc=5": {
       "title": "Evento debate descarbonização sem perda de competitividade - CanalEnergia",
@@ -3945,7 +3889,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:44.464015",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0xTb0VKVUtBVnFRbEFjQlY3cjRqanpUenFXdTFsRG5UZUJKNnkzRG80dlZmYXZlRGUtUnN6bTFycmNVNlZCVXB2eTRLaUN6azJLMTVPc3VndWI3NV9feVpPdi1HVXFnOGZHZmxLc0xlbzlINlo4QkZUbFpYd29NMUNzaHlyQnhtMUZoSUczWmlUX3hpelE?oc=5": {
       "title": "MME coloca POTEE 2026 em consulta pública - CanalEnergia",
@@ -3961,7 +3905,7 @@
       "source": "",
       "added_at": "2026-07-14T14:09:47.831041",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3FLdVB2ZVdhS3JDTk90X0J0Zl9DQTRxekxiLVA5blZOQUpKV3k4N0s4SlhpRW5henlTX0hCaEZZTnlLenljTWRvS2lkd1ZxTmdWNFBjMVh5RjktUEU0cklsVDYxeW02eTlqMFFvcEIzWmNfWjF4QzNWUU1OcVN5cUNLb09WLVY3cFRvU3dqZ2syMmFuaV9XQXJDTjVocXNETnBtdlB4TXpyWFZ0Z1BQeHpHNXZwNUNEQ1hZOGRxRzdHN3Q2UXZNTnNVd0h1aHctYWxv0gHYAUFVX3lxTE9iaGZ4blh1OW0zMjlQbHRCRXFGbE5CQ2VvWUZYTzdraHM1aUI4M1J2cElyN25MSS14SlN1VXZ4NUJWV0hueEY2NHFHeVQ2dUx3dGNETXlSRWxPSWotR0J5aTNnQzdkbUNwckRMWnJxUWpZUm9SODZxYVpGUlJlUkt0ZkYyLTZjaGdBekNzV3JySGRDS3pfODZyc243anpaeW1UTklGdDdULTZibjVVMmFBMEQ3N0JGa3pINGpKWFA5UmpieVNjY0dQVFJ2ZWlyNTZyMkc2V3NNSA?oc=5": {
       "title": "XP reforça compra de Copasa (CSMG3) e Equatorial (EQTL3); veja os novos preços-alvo - Estadão",
@@ -4041,7 +3985,7 @@
       "source": "",
       "added_at": "2026-07-14T16:02:39.406971",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWFEWGJDcV9GdTduWGdaLXl4MEhOVXBaTGdQeU9OeHc5RzFWc01SWUs4cHFYcnd2SjZpbUdrTU94eUFYWGtOUWUzMnR6ZzVubm4xaGkxYVZlSDByX0RxR1hGZDB1OG1EeFBJYW5KdW8wcnNGM3RCODdBRmYxN1o1czhrZHRPSjNQTXAxNkJFQmhPRm51a21MblIyN254V09CaDhaV2g3V1Y1Sk11OW4tcTNvOVE?oc=5": {
       "title": "Aneel aprova rescisão de contratos da Electra com distribuidoras - CanalEnergia",
@@ -4049,7 +3993,7 @@
       "source": "",
       "added_at": "2026-07-14T16:02:41.298582",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmdsa0llRkhJQVlzdUtlNUFVWFg3RFlhZGVJNjBVSnA1cVVTTGNvNS1BVk1CSEpSSjNCMFp6WHAyVlhwSzZHbVNOTFVEcmVDcEFMUFdhaHpieElMUkhqUW85al9SMHhJc2lJVnc2UE43bkhuOHAyNXRoWkdNLVBBZW1xS1k1OWQ3ZDlfSjA3Ri1wa0NaZGNtRTRGRlFjUlp1ZktxNkVwLV92SUU0LU9GRFFNYnp4SFo1Y3NuQTJYd2RZQUVJUFB0aEs2c0JLMHBjaHpxZ09FVDY?oc=5": {
       "title": "Déficit orçamentário dos EUA chega a US$ 120 bi com reembolsos de tarifas ilegais - Folha de S.Paulo",
@@ -4119,7 +4063,7 @@
       "source": "",
       "added_at": "2026-07-14T17:33:24.295901",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnpleEJhTmVhZVNrWmV4NzdjNXpoeTUtbU96Ym1PZXEySWcxMzNmb1QtMTZ3WEVIU2hwcVAzVnlWTml2RUdNbEtHMU1aS1NwQk0xdnZUR05QODlaWmk2M2ZTT0liTG1Jc3I0dXhsdEIzUWFsbmc0aGNzMkF3em9hVldjQUtyN0hWWDhIVmE0N0tYRGo2ZFJPLTItVTFlNDBlNWhrbVo5MDh3dmFuNWs0Yzln?oc=5": {
       "title": "CNPE autoriza suspensão das dívidas de Angra 3 com CEF e BNDES - CanalEnergia",
@@ -4127,7 +4071,7 @@
       "source": "",
       "added_at": "2026-07-14T17:33:25.965301",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0REbFFxdjhQNW9OZ3h2MWRBa1N6RmlfMERlaWRnT1hxNjVBVUIxdTFNTW9URTNSbVhZYjFiV1VWLUlXNHRPd0ZFQk0xVUxEaHpYMkNxYjFBQTM0SmlOMU5DS0QtTHQ4MmNWRld4Sm9XNmZOY3c2SWdLWkx3cG5jLUVjMjNTb1NHdjdDNzV3TklaNDQzQVB5LXA1ekVRa3ZvZ0o3OUkyM21kOGFEMmxfQzNGZnFQY2FmU1FtcThYc3JuNWtjTUxqdThhNlJseUdtMmhfazZSSk10dWlpY05GTtIB7wFBVV95cUxOV3BYdVZ2cEdWT1ZDMjdsZUhTajVSQlVXOV94cll4M0VuQ0xKN1BUdjR6bk1NSWZBQzJlRk51b0o3REtxZ3A4bkZJNDRUMGNid1loVy1vZ19jZ2FzMEF1SjMtaGdOSEZDSXdDaU1Pc3lkWnFJZ0hJaGp0S19idl9ORWhqWkV3cGN1MGFuZHBQQXJlalFHWFVlZEpaRmExSUNaNjVmdGQ0aTNjejRlSXdBX1lIRHBrZmRPVXN6ZlI3clIzWEdDSi1ZbWVQSjEyZkVzQTYtRGlUanJacXpNOERZMVVYQTd3OFVkbVVqamhFTQ?oc=5": {
       "title": "Aumentos na energia por conta do El Niño favorecem geradoras descontratadas, diz Scotiabank - Valor Econômico",
@@ -4179,7 +4123,7 @@
       "source": "",
       "added_at": "2026-07-14T18:46:47.320347",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkN0V0dBYWtrai1HVThDc0hWYk5Nb01pQms1dzNrTDVRSURxNlhpYUdFdDdNOVZ5aVR5RlFsd3JxeXVjOTlZM2YxMWttcXEzRGl2dHFrbGp1MUdrY3VzblhmampSWktBclhKd1lmQkpBdEVwcGpBQ1V1RGR1WVpPNG5hR1lxQ1BKT1pXeE1Jaks1bmRiX1R4bzBEYmsxNkxCNkJ1UW0zUmF0aTNGM1BnbDB4UFN4YXk0WEpCSWZlRTliYncwWVdTaTlSalNMVEtpbEo1SlV3?oc=5": {
       "title": "Sucesso do LRCAP de baterias pode representar o final dos fósseis no país, avalia Silveira - CanalEnergia",
@@ -4187,7 +4131,7 @@
       "source": "",
       "added_at": "2026-07-14T20:20:56.591043",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDBqUXUtdXdXWG5oaE5PdkxCYmN2LTY2aFJwaVdRWjBTOGtTLUhKVU1faGJxR0kzOHBQZUNSd1F1VjJVRnp2QkJhbG9QR1ZqN2Vka3ZnNVVMOVAyV3BSUGR1eXd4czkwanpqdDg4NkVJN3ViNTMxRXh6U0VaMjAybDRVRnBRQXVqeEMyQjNmcHNSMjFBZDhoTnlDcmZXbndENF8zRURCS3M5V1k?oc=5": {
       "title": "Abdan quer atualizar marco legal e pressionar por Angra 3 - CanalEnergia",
@@ -4195,7 +4139,7 @@
       "source": "",
       "added_at": "2026-07-14T20:20:58.343152",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVVotemtlOU9JSjQyS3dyYnd6NDlKbTBKakh1S0tsOU5Pa3Z4eHY1enA3VlhqajZnb2lHMW9rckVSd25mUkdkVm1CNkNfQ2tIUDg2S0VkSktiaVFGdkc3aWFQRklKaHlDejdoeEhVZ2NrbVhucF9LSmQwbnVKUXhIM2NoT1ZQdUo2Zm1xa0x1dGNxUUxVaGtpUi1Xd3c1Z1BDc0tqaHRpRDVuMWh3a3VDcURndkdOblhDZlRvR0hfdnlENXN5eDd4RlpfaEI5MmthOEhteEgtY9IB5gFBVV95cUxPRnJlZk05OEJqOGtzRm5mX01ReF9VQXI1RDZwMzBxUTBLYTNyZ2V4dU9xV0hNc0txUVhGR0xiX1EyWktQc19FemIwRzFJTHVkcEJDSm55WXBxY1VRcktfaGJYaG1QTjJBSWFuNHBFZTBLUktKcUh6WTI2eGZySGZZMnczRkZNbDNLOGFNcnhtU1puWklYWU9CM2VITUhwSGh0eGlLckdzcXBlWnRtR3Jscmp4eURTUnhjcmYtcExnYUNtODNHWm9sa2xGZU5Xb1lMUC1tWE5JYl9meGgzSWxraTlhdThKUQ?oc=5": {
       "title": "Aneel abre consulta pública para discutir mudanças na remuneração das distribuidoras - Valor Econômico",
@@ -4203,7 +4147,7 @@
       "source": "",
       "added_at": "2026-07-14T20:21:32.424386",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxNckJmWTFDSm9yVENmbGM2cGNrTTYwb2l5a0pWMldLTHl4am04eFA4ekJSckVJQXJEMklOeUxQZFZvN2Nua2dIZkREQjA5aW4wbXpHaEp2ZTBFWUJYczJnSU45eEpYRDU2LTZrQl9Vb29GbTd1RkJSSmlVUllsMldpUzhuX3pXOEdWdGZZNmdrQVpEUUhhLTY3ekU1TVRIa0dDRTVuNHppdW5abUE2clBleERScGhuUU84eXVhRXY5TnoyTE5HWUhQVktOZ2dLdldwTlJzbEdINS1sMHNNWk9wMk9IUzVvT0VDTmN4Wk1OZGh2OG01UllHdGZKdDlEdzVlV0Zz0gGSAkFVX3lxTE1EYUZLM25QbEx6ZjJCSkRkTXhRWDlHM1NvTGdJNVpPanBzT29qaDZqbjVIMThfSXdFMEdaRVZTZ05GSkJsTnZFcFVldW52SHJPRVVocmRBSEd2X2pyZml6OVhJYlB1WDBkczU2YldyUHZpV016U0tHRGFkd0o5TnhpejZOU2trR1VnUEpBRWpFeklyUDZSRlJuUFNOZno1MlRMV1Z2ZHR4VDBaM1NYY19RaTc4SmswVUhpd2xUZlJGYzAzWmVlRXlhX3JIMThPWDk3Si13UHpBdVdoYmJWc3RvRl9UNjdLcTNmRk8yeGdiUl9fU0dHT0MtMEZIdU5IUF9ndDlta0dGTXk4WmVYR000OGc?oc=5": {
       "title": "Transição energética na indústria demanda 'cardápio' variado de fontes de energia, dizem executivos - Valor Econômico",
@@ -4211,7 +4155,7 @@
       "source": "",
       "added_at": "2026-07-14T20:21:32.424739",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcl91Wm83MUxjdzN6QzNOOE1qaVhkU19xZHBPMU1hd080bnozcVRodUdqbUd6Q09WQk9OMGxER3JrQ0VuNDVqRTc5YXloU2tObmh4QkpuX20xMlc5Sk1rbUE4M2NNcUg4SHhkdDZUbE1zWWNiS3JCSW5OT2k4dzNVMjdBd0hwOTlWcHdFN0hkdG5KVHNta2prMG04NTZnYnpkWnlv?oc=5": {
       "title": "ANAC reajusta tetos das tarifas aeroportuárias de Guarulhos e Viracopos - Agência iNFRA",
@@ -4230,6 +4174,22 @@
       "summary": "A concessionária **Águas do Imperador** anunciou investimentos de mais de **R$ 160 milhões** em saneamento em Petrópolis até 2033, totalizando mais de **R$ 300 milhões**. O plano inclui expansão de sistemas, aumento da Tarifa Social para 20 mil beneficiários e descontos para comércios e filantrópicas.",
       "source": "",
       "added_at": "2026-07-14T20:21:43.043849"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3BnVUxqbWdqYVdyRG1LLVJ6U24yQUNxS0w0QjQ5ejE0SE16THlBZGJmRnJ2R2RucExwQWQ5WXpJdXdhRGFVcXJxakg5dkJoTkpuQy00MElHZ2dSbGxfemE1dnkwN04yeENRMUozRzBOa05wSGFwbjd3anYyTjR4WEIwc2ljVE5FbDV0X2FHaUlmUWZaZmdqNWVEa01fajhGcnJOa2xzMUc5dUJYQmp3bmhfNA?oc=5": {
+      "title": "Multa a Equatorial por atentado à concorrência cai para R$ 2,8 mi - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-14T21:34:37.696558",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTNCdjJ3WVZRbHdMczB6bHRiaXlsVmV3MFZ2WVp2aEVXSnI2ZmlqaG5QakVvQXpoMExlZ1RhcDVBT0QzRjcyT2JsbV9LaDBSUWo2anpuaDFaZU14a3U4aHhzU3F6SUQtWjJ4ai13NjZINVRpd2FBaXByVnRaN0NFUDA4NFNGdG9RaGdDZi12UEtJaExzSlAtWUJMOHZaWXFhZEdlbU94T1V6dUdfbGc?oc=5": {
+      "title": "Aneel aprova aumento médio de 9,63% para Energisa Sul Sudeste - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-14T21:34:39.322971",
+      "error": "no_article",
+      "attempts": 1
     }
   }
 }
