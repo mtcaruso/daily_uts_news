@@ -1,78 +1,6 @@
 {
-  "last_updated": "2026-07-14T03:29:29.124147",
+  "last_updated": "2026-07-14T11:43:34.503470",
   "items": {
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVlhueWNxS284UjRSZVVmYVgxdUFQWV9EZGYwNXFHRzB5bWpOTnE2U2xWbVgzTWtwZzJmZVpRZjJuVkZVLU8zR3Y0aWtlWXpxeEFKWFFWTTJ0U0xMd2Z3QkxYRzVOalNQejFJcDB1MDNxaUI4UkVPc2FVY3B3YXZieGFhYmdSWllBM3Q2dHY1MHJHa2NoVng0X0JudHl1SFk1SkdPd0lPMklRVy1Ea0RzSzlpb213ZjA?oc=5": {
-      "title": "MME nomeia Mariana Espécie como secretária de Transição Energética - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-30T04:22:51.098422",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFFka0EwMVJma2tFY1hMdG9JWUFCVm1aeHVkVUZsZWcwWmRtVDRPUEJPSUoxWW1IODFiRUp6VzZRY1Vid3RFY0dOR3BRZ2JKamVsTGNyMFVhSkVxUERuVTRQSFZ4VldXRDFwak1TZkFMeWdXTUw0RFJhZHVhcUppZzdqNEtTaGVaVFRHbnU5YUpjMWNOTGFrT09KZmw4bHRuVjdMVGJuTW5zaTg?oc=5": {
-      "title": "P&D da Echoenergia desenvolve solução para pás danificadas - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-06-30T04:22:56.338272",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFlNcGVKdVc5N1FYWDcwRnJMMjR4Sl9pNGFpRlFGaVIwZTNYRjJxQ0gxbHhpSEszQ2VQbUZyREk2YW9UM0txOExIUnZ0SmZ6Wmd4YzhWVmdKeGxUUWhUWC1aZktFMzBxTFdjdHprRVJ5OC1zdDJTUDJnXzZiT0Q2NGpJYmtycEJPNGRfUHBpLWpuQ3lmSXhyV2hWR3Q3U21jb3NjMnV1N2l6M0taYkQ5OG5GTXRfdHpHVmhERjZQYnhkZkk4SENEbURWdURxXy01OG1PaUVzZVM0aVZQNTl0LTZxVWnSAeQBQVVfeXFMTnhZTXBlSnVXOTdRWFg3MEZyTDI0eEpfaTRhaUZRRmlSMGUzWEYycUNIMWx4aUhLM0NlUG1GckRJNmFvVDNLcThMSFJ2dEpmelpneGM4VlZnSnhsVFFoVFgtWmZLRTMwcUxXY3R6a0VSeTgtc3QyU1AyZ182Yk9ENjRqSWJrcnBCTzRkX1BwaS1qbkN5Zkl4cldoVkd0N1NtY29zYzJ1dTdpejNLWmJEOThuRk10X3R6R1ZoREY2UGJ4ZGZJOEhDRG1EVnVEcV8tNThtT2lFc2VTNGlWUDU5dC02cVVp?oc=5": {
-      "title": "Sabesp obtém aval para captar mais água de sistema do RJ para reforçar Cantareira - Valor Econômico",
-      "summary": "Sabesp obtém aval para captar mais água de sistema do RJ para reforçar Cantareira Solicitada diante da persistência das condições de estiagem durante o período de seca, a permissão foi concedida em caráter temporário e excepcional, segundo a Agência Nacional de Águas e Saneamento Básico Por Folhapress — São Paulo Atualizado A Sabesp, empresa de saneamento paulista, obteve autorização para captar…",
-      "source": "",
-      "added_at": "2026-06-30T04:23:48.743403",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlNTelVxZ2VjYkRsSDlxLWxiVGVaQi1PcFpPWVNvZVFFN3d1ZGk0aFR2akdtOE1XeGsxRVBTZzNPWEloMFBWUzZlZS1fX2VHRWk2Mm14bVV2V0RjeE9BT2RtV0RGbDBWUVJLOTFNRXlIYTZtd0lVblp2TGN6aVI1TkxDMmNqbXVkZWRDOUZkMXlPUEpxVU5BMHUtVG9kN29LS3BUWG5vZ1N2ejJqRjFld1NpN3p6WVdCVzVwZWxTOFk2eU5FTTM0cjZ1TE5ya3VO0gHfAUFVX3lxTFB6T1J2WUkxTWpvWFIwSE5qdnQ2eGQzN0NHSExWNmV3RXRILXRDdVozOFdaZ3BPcHN1eHJhVlhFMkpPZVlJNWd1ejhyT2JuT2xPNHFtd2dBVl93RVJSV3dRRW5DN0x0WDhyV2J2ZU9FRUh2OHZyT3p0RDIwUlo3bWVadF9TRHJvaGtpUGV3VGlsODJ0LWhic2VQLWYzdjhPOWZmZ2xTcFQ0Q3BuMTFBYUhKaU5kLVU5LU9JMUMwUkFzUW5feUhTWkQxQWhmdDhoMXd5UjA3RERYSDZtVjFlekU?oc=5": {
-      "title": "Energisa fecha acordo para entrada do Itaú na Denerge com aporte de R$ 1,4 bilhão - Valor Econômico",
-      "summary": "Energisa fecha acordo para entrada do Itaú na Denerge com aporte de R$ 1,4 bilhão Com o investimento, o Itaú passa a deter cerca de 9,98% do capital social da Denerge A Energisa anunciou a assinatura de um acordo para a entrada do Itaú Unibanco como investidor na Denerge Desenvolvimento Energético, holding que concentra participações em empresas do setor elétrico. A operação envolve um aporte de…",
-      "source": "",
-      "added_at": "2026-06-30T04:23:48.743482",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGJuQ1RCZ2JzcjVoN1JfazBpM19EZG0zWjAxblZfX3d1ZVNDcFc5NHI1d1NjdFJyeEZtVmRORGFPMFoyd1NLdWdQdmdSc1JpbTZlTFQ2V3BKU3NHSzdCSW1BTllwZDhtNld0eU5VSmVBVUNxMVEtVy15TFE3U01fbTYzcl9iNmhlN0ExMzgxOXFmNWpFNW1DSGd6V3R1aFp2XzZGSzFJOXRSZnc4c1VxUjNBTlBZSjR0UTRtMmtIMkw0eXdVTUoxS0tUUVbSAdIBQVVfeXFMTS1mOGo3UlU4ZDBwVF9hZ2NVNm84QmpWV0t2Ri1iVnVHY2t3UFZoVktrbzE3b1pGdDdZSlotX2hjbTFuN2poVnRTR2VHMk1hS2FMNmJhY2ZRdlFpZlJCYk9TUjRmd3pkeVZpYVp2eTVJUTBGSGI5Vm5JNkhlTk5UQzdKZzFFWE1uRXRLMzJMWU9CV3VRMGhSSGdLVEhUcjM1c2tZMmllYk12U3NtV1V3RUw1RVZOVHM2MGFzbXFWb1JkdzJDNXB5TDZRdTNVeTBfdzVn?oc=5": {
-      "title": "Picapes e furgões elétricos focam o essencial para ganhar espaço entre frotistas - Folha de S.Paulo",
-      "summary": "Se no segmento de automóveis eletrificados o apelo dos modelos asiáticos importados é impulsionado pelo amplo pacote de equipamentos, entre os veículos comerciais eletrificados a proposta é outra. O preço baixo de picapes, furgões e pequenos caminhões mais espartanos se mostra crucial para que sejam atrativos no Brasil.",
-      "source": "",
-      "added_at": "2026-06-30T04:23:48.743839",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNODFGdXctZmhJTGFJWFJIa3pRdTRoVnk0VHEzVG5YUFVmWlRIb21XX0JvXzlYM2NsT3BhUFdXOWRtdUR1VlV2a0pQU2pKOUNFM3VDUnF4cUlEa2I4NGhmU1NMY0xoZjFyT0dFZzJfNnZoNHhET0F3Ync0QmZIdzZrTHZNUkxJUENHM0RocmhBWFdnR3RLUmpVTkZGUE5qMXRYYlJxdUhxZW5DQjJtZzIweXdxeVRfTlBpSDVIUW9td3hMYTEzNFFmN1R3?oc=5": {
-      "title": "Com nome complicado, BZ4X é primeiro carro elétrico da Toyota à venda no Brasil - Folha de S.Paulo",
-      "summary": "Timidamente, a Toyota inicia sua saga elétrica no Brasil. O primeiro modelo a chegar é o SUV médio BZ4X, e até o nome complicado mostra que a marca japonesa não tem muito interesse nesse mercado.",
-      "source": "",
-      "added_at": "2026-06-30T04:23:48.744032",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSl94elVUUTFpdjBscmlEVjNMQWJkUnpsb3hyaC12TkZJa0FtQkpVX2Y1cDdCaGYxMmdmRnEyUVVCOVQwMHQtNTlndUlHektHbnQ3aGhNQm40cHMwWXhWZXhteFQ2U0ZBQ1cxbjNvU0ctQ1d3RWU1SlBieDRQTlRmSEJXZ2RYdnBvTHhCbFlpeTJaaks5NXF2dFJHTEdvd1hzOTJJRW1kdW5wWjZKOHVzVnlMQ3FmUXV3RjBSVkdaUHZTUW1YZ0hPUndVdHMwaEJ5Yjh5TThUVUlCSWpqQjFnT9IB5gFBVV95cUxPS0NySGJSV0Y1dWhzbzhWYVBMNVcyZ01GR2pLVVVrZzJ0cnhMQjdBZ09CTFRORTA5VENlWUtLYlI1bW5BXzZvVWw1dmliNGY1anlhcHljbU45aGFndE82MWlPLVFKaUlULUFLazEyUkdfbUp5R0NmTUxuenFnWFdnWkJYeFp3Rk9NTmZCS1dpeG1tUnZqZUZwMm5lTGN2dko0WF9SUnJDQWRNVDFVR0VfUlBidWE2ZElTMElpZWV4Rk9SeURXc19UVDBNT0piakMxZVVGdmRWUEJ4QzkwY0x3UmVfcExidw?oc=5": {
-      "title": "Sabesp obtém aval para ampliar captação de sistema que abastece o RJ para reforçar Cantareira - Folha de S.Paulo",
-      "summary": "A Sabesp, empresa de saneamento paulista, obteve autorização para captar mais água do sistema que abastece parte do estado do Rio de Janeiro para reforçar o reservatório do Cantareira, uma das principais fontes de abastecimento da capital e de sua região metropolitana. Solicitada diante da persistência das condições de estiagem durante o período de seca, a permissão foi concedida em caráter…",
-      "source": "",
-      "added_at": "2026-06-30T04:24:37.959545",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOHd4clpjZ3QyNGw0SUptd2dyZ0ZwNlF2RnJ6bGF2MEFOOUlRWm82UTBNNEdVeXBrbUxYZHVKVTJ0LTJPRXFzSHFJMElaZE1yUjQzM2llMW5OUElEOS1IY3poRDQ4UHNQLWV2dkFWOFh0LVdmUVUwVmJqb2ExLXVPaHFtYzZpNmxMd2RnU3piR2Z3V09VbFlrQmFya1JtRVlwV0RpcktTYkJ0QXFsNmg3c0d5b3N2NXI2SFUxX29NcVhydnBpdTZER2xaSkJfVm_SAdQBQVVfeXFMUEp2SDJpSEh6ZzhITmoxbzhWdE1nVmlERk1wTmFWMFN1NjdtZGRjVnF6enUwVlU1TXZVbTB0NUxDNWozTHZpZEJxNVJOaDNlOTI2WXhpRTdPYnJocjQzdVo0dU1PZTJpcm5QTVhXemM1djdFWXlQOGgyTjQ3bU1QMTRkbVRSVWE1c09sRmtRbXp0VW9Kel91X2lhZG04R3VQTUpNbTZpRU5WN3JzSldKak9La0xCbjZuLVFVWXRQNjEzUnEweFFuT0NjUFV5SEZ2dE1DYkg?oc=5": {
-      "title": "Corte de energia: menor consumo durante partida com o Japão e alta na energia solar fazem ONS agir - Estadão",
-      "summary": "Copa do Mundo 2026: Brasil 2 x 1 Japão, confira os melhores momentos! Martinelli salva aos 50 do 2º tempo, Brasil escapa de vexame contra o Japão e vai às oitavas da Copa.",
-      "source": "",
-      "added_at": "2026-06-30T04:24:37.959796",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnBPN000WDZaanZVZ3ZsSDZpNHpRajhVbE1LUjh1WDdoMG9vRmYyWThycWJBRUFMaU1XV3pINWVzM21vUWdSNXNsQl9DTHhpQ1FjWUdRc2pfc2tJWkxBYWQ1azZ5SzdELXgwSURsZkM5cUYtVHQyNzVFQmhrbUdZN3JSRnhKVVFnNGhZ?oc=5": {
-      "title": "Energisa recebe aporte de R$ 1,4 bi do Itaú na Denerge - Agência iNFRA",
-      "summary": "da Agência iNFRA A Energisa informou que concluiu uma operação de aumento de capital na holding Denerge, com a entrada do Itaú Unibanco como acionista minoritário. O banco subscreveu a totalidade das ações preferenciais emitidas pela Denerge, aportando R$ 1,4 bilhão, equivalente a uma participação de aproximadamente 9,98% no capital da holding.",
-      "source": "",
-      "added_at": "2026-06-30T04:24:37.959877",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFpLTWR2U1NWUlkxY05mbDJxaXhlb3VCWUpjRHBfTjdHZGJ3dEh2Ul9Ubk53VjlDaU1ZYXk4bEVzMXp6NmFRb0VhemtIcTd4RnV4emFBdmRjalc0V0ZucTFjYkhqX2FMMXRFdWVXWUdJSWJTLTlPeXFFZmU0d0FxN2Z3cVRuN0h5aVI0?oc=5": {
       "title": "Sendas Distribuidora S.A. - estadaori.estadao.com.br",
       "summary": null,
@@ -3969,7 +3897,7 @@
       "source": "",
       "added_at": "2026-07-13T15:50:28.130931",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2J4Y2FmZ2JFV05IQi1CeFo1NkFlS0FaSHQweVV5dmY3eFZHNmduaUdiZXlxUzhkRWlsOWhZbmZieU5OYjNxTjRXNGgzUGphQU1zdy1jaW8zV2FOWUlxcm5tYjB0bEZRVXFkdW1YR3ZNNGVhTlJjQWQ5ZDBjdzJpeTl2Y2EtZG04QndzcXV5Mk94TUkyblhyWW84TEpWdXBrVW9YZmduMzVsRU5vRjN3VGVpcXJkdFBR?oc=5": {
       "title": "Uma barragem do século passado para os desafios climáticos do futuro - CanalEnergia",
@@ -3977,7 +3905,7 @@
       "source": "",
       "added_at": "2026-07-13T15:50:29.813966",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaXdXblBqaHJ0RnBsN1N4Ylh0bXQtd2g2ekl2SDhpV05DdDJzaDdqdmlWci02QjBhV1ljRTQ2djlvYWJRczJiaGkzcDN5UDdvaWV6ZEJhVnVmdjhfVGc?oc=5": {
       "title": "Tag demanda nacional - MegaWhat",
@@ -4075,7 +4003,7 @@
       "source": "",
       "added_at": "2026-07-13T18:05:10.700258",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWI0eFgtOXExc0NaM01RWmh3UUZhR1pXY21sUTc2OXNSVExtemEtQTFueE93Ni1FdTIzZ0k0b2F1U1pGUUlSbmVsMTZRa3NTUVZxZlduT185NFFnSWZSWFo5QnpZRksxdVpiOEphdVg4X1BHV3lMcFgzVWhxLWsyNGFiLXBWMVp0Y0hQU2ZJd2dwN3NOWnFZQ2hZbFdyd0NPS29MeTBuWVk?oc=5": {
       "title": "Aneel estende outorga de Jirau em 615 dias - CanalEnergia",
@@ -4083,7 +4011,7 @@
       "source": "",
       "added_at": "2026-07-13T18:05:12.505075",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQODRuUkxjdlJOb1FCa3psMW0zeDJRSjdocHNoeFFXZlF0NExkRkVlUlJHWGRwc3BCN1k3SHQ2WjJBTURpczFfaENKWDNmcGpUWlZVTUxXNW15UnRKWWh6Z25nTTEwT0dNaTVkRmVQZGtwRlJzalRQZE5uRVlxU3U1SE5kbTZNTFFMV3Q4ZlpaQko4TXpmbXB2c0J0NXZoc1FmX1ZfVmIzY184bUJHeWt4ak5ZQ2tqRUdwcGUzaFF4NldjbzVzLWl3LUZ6RTE3MVY1QUtybjVxTFhrczU1T240WXlyUG5oX0nSAfYBQVVfeXFMT29oeG93SEtpMElmT2FsYXo2cC03SjZQT0FyeHVoaHRWcHNOYWhlM2JPWDBPMXRQR3RLbWFFMk5LbVN4NXpaZjk1QlQ4cXJnRkhCUXNCMElld2hRaUpDYkRIY2Ftb0R3U0JCQ2J5RnYtampkNmpLNEJBMGVOM1dibGEtX0ZqLVBzcjJjaTBmeTNJWmd2SXV4dFRVd09CVTYwQlUtWEtMQTRVa3RKd0Q5M2lBUTBtYjVhWjVMNUh4Qmx5M0xLZUNYUVBTbGd1ODQxbGxSeVdrZFNZRmRzdDVEdnpXNTRBdm1uQk12TE45X2pUUWVaQ2hR?oc=5": {
       "title": "Saneamento corre contra 2033 e expõe gargalo de mão de obra na infraestrutura - Valor Econômico",
@@ -4143,7 +4071,7 @@
       "source": "",
       "added_at": "2026-07-13T19:46:59.125785",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1NydzVFT2Z3ZGJVeGEwdktqa0RVRV93VmpHQjZYeFBfSXJ3dW5qSDF5Q3ZrekR5NG5DTHdQUE5QSUYwMFZYS285SllVMjZFSmNrS0xLdWo4Tmo2U1dXM2VDRGlQRWZFaC15UEVTdE5icnE5S1lZcHJxQkhZOWhQV09kOUpTdmZMUHpiZTZYdnRCOVg2S0JBemRFSVVSWlExa0pUTE9ZaTNJNkIxdWxfS1p3U1c?oc=5": {
       "title": "Norte Energia projeta terminar manutenção de UG 13 em setembro - CanalEnergia",
@@ -4151,7 +4079,7 @@
       "source": "",
       "added_at": "2026-07-13T19:47:01.275571",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmVvRjJnalZoOWNDcW55aHFRaFFqdVY4Y3BValhndjJrU3NiQ0pmelR1aWxxWUs2NUJhV0YyUnhOSmVidHpmZ2ZiWlJWSVZaTDJZYXJmS1hMU211X2dLTENaMHhZVmt5QWU1NVg4NFJSWks0bFZobnZWVlU4TzFPN2dYMlllbV9ic05RMVFVaTlfTGJnSUFiZFQtdW5yQngzaXN5WGlsVks5blNoa3ZDZjQ4dm5SZm8xaUpOd281Qk1JUdIBxwFBVV95cUxNZlJ6ZHV6VGJKaXlac3VHZVRtSE11anI0eVhvU3pIWE1BcXY1Q0RtVkdnVy1Ld2pGNjB2bEJzZ1BpMjBiWlY1aHlTU0NMb00zbkRCMDhIRllCS1FHZ2pwSW9PVU1JbUJzeXIxQTJKajlIck9yZUJ5cWhLN2tZUlVYZFVYNEdfTnpuYzU3U0VERVdkUFV1VEE0TjczeC1uMXU5MW1icHZnNl9kT2NXS0NnbE8wZFpHXzRZazhjM3g0MmRZdFdHZXZr?oc=5": {
       "title": "Copasa (CSMG3) amplia volumes no 2º tri com alta da base de clientes - Estadão",
@@ -4199,7 +4127,7 @@
       "source": "",
       "added_at": "2026-07-13T21:10:55.741199",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2lTVVBRc2JGX3lOVzc1VnpSamx6a05lcng0S3pIa2F6WUdHcnVLd01YdFpDTzFXYVpMVVBQUC14N3paTGtJWVgwN1NhcG9sTnRvRVRORi1OVFFJaEVBVGFHbDdDSWU4OFEtclNQbU9pcTJsTEszZ0Qwd3VTNEVXODNNZjBXLXVQcW9QVU9aZU5BSkw3MzViZWVLcjR5UlktYnBDaFJldXFEaTNLbnY5MVdBMA?oc=5": {
       "title": "PCH no Rio Grande do Sul recebe multa de R$ 3,8 milhões por atraso - MegaWhat",
@@ -4265,7 +4193,7 @@
       "source": "",
       "added_at": "2026-07-14T03:28:41.378484",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzk4eEZkdUhtcm5XOFRGM0JnY2U0Qk1LYTJrTFJaRjB1M1c1S0NhbGVkRUpsRjRhWDFQNTliNEU4dlJ0SUdYblVYMUNuNXpJcHliRjg4Y05zRU14YTcyUUc1ZC1FX1FKNGxUNTRLYU5ld1FvUFhoYjUtRXhNMklFeDhPSWVWVjlyRjRwWW53TFVKUnVUN1hHbkhScjhKZ2VGWFhHRFpEY1E2T2JkNHFLWEFacEdHMkc3LWhtSmh3d3ZCZjBJdmt5aWZTbGlrNHBfU0d2bjMzZHhGcklzRHJBMmFoUFM?oc=5": {
       "title": "Sem regras claras, bicicletas elétricas e autopropelidos acirram disputa por espaço nas ciclovias - Folha de S.Paulo",
@@ -4273,7 +4201,7 @@
       "source": "",
       "added_at": "2026-07-14T03:29:15.918706",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1k2RTJUa0tWa3BFdnZBaXh0WlpyWUNHNGNGaXh6UzhUTVFxZjB4azU5OWIxS0h1Y3N4cGwtS3Frazk4eUVpcnBIaEpEazE1dFotVFhkWlBLWHZTZVBlLUl3QjhPNGpuZW5GMXRqb1kzVTk2MEIxUFY3SkduU05iUWYtMkI5U1Ez?oc=5": {
       "title": "Cratera se abre durante obra da Sabesp em Osasco e deixa nove desabrigados - Estadão",
@@ -4281,7 +4209,7 @@
       "source": "",
       "added_at": "2026-07-14T03:29:15.918920",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oQmNpQlZram1ESXNqakFJanJBTllsc2d0MktNU0xMY2RBblBRenJaOUtsOG82Q0IzdHp5aXl3M1g5UnowRmN1OGc2U2t3U0x0NEdJZ3ZWVzQ4Zw?oc=5": {
       "title": "Regulação - MegaWhat",
@@ -4294,6 +4222,42 @@
       "summary": "A **Aneel** multou a **PCH Rincão São Miguel** em **R$ 3,8 milhões** por atraso de **586 dias** na implantação, o limite máximo de **5%** do investimento declarado de **R$ 75,6 milhões**.",
       "source": "",
       "added_at": "2026-07-14T03:29:29.116895"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXVwTkpaeEJBWVBFNGFsWkU4SW51cm5ZS2pSZmVOMXgyRlQ2QmlRT1k5bWlEVkROVUg4UGQxa2Fhc2xNd1NrWnh0MDJ5MFRWVUhXMDhhYkFvZnQ4MUtqbHZUbUtIc3BpblppQzhiamM5S29fWWt3S0RmTGZaU0gxTTNFT09oal9YanlzbURINm1ocVJPdGw3UzJPWFFCUDk4Y0pDVmVB0gG0AUFVX3lxTE5xWWJfdndQNUtKWGJVRmpkX0UxSmZ2c09OUktRbHhQcjQ1UWRXZGU5TTZUbUFJeFktTUMwdm8yaGpJZ1NXc09vVmJIVnlqLXRfaGpZY0Q5cXM4TUgwcmNab2RwNEtZVFBQLVViZU0zcmdOM3BpT2t3aFltMVVoaUZIYWwteElyMXNJSEdwcjJaelBza1N2WGhuLXMwUE9rcUZTbEFCVGdHZjg2dzhfNmNBNFRXNw?oc=5": {
+      "title": "Transição energética e política industrial verde no Brasil - Valor Econômico",
+      "summary": "Transição energética e política industrial verde no Brasil É preciso fazer a passagem das vantagens potenciais para as capacidades produtivas efetivas Atualizado A transição energética deixou de ser compreendida somente como uma agenda ambiental, mas passou a ser vista também como uma questão de segurança energética. A convergência desses dois vetores abre disputas econômicas, tecnológicas e…",
+      "source": "",
+      "added_at": "2026-07-14T11:43:25.369161",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXk5YzF2ejZaNE13ZGxKTW1ldFFnbXRBaUgyTFNWTjd3ZXRsU2YtUnc1OFhnQ0lNc0Vtc3pfRWJ6OG9IV3BkTjNtZ3VCcE9rTndqZExXeHlhWU5kNS05YjJFR2hVYnItVmZnbGhwXy1yT25EdXpOeVB0ekdFdVJNelFFUUVFejVpWTVyaNIBmwFBVV95cUxPN1pZUW1mSFRxOFg5N3YtUWViaFJOdlZsVk1WSUd6bWNNaUZXUVdyM0JPdUNvMm9nd05VeDM3XzQ0SG5QSGRiTmhiTGhlVENCdU5SWlF3MHRJTmtxSGNwVm9Cb1VNZnlndkpCcXBjYkE0M0dtVnFfSk9hRnVuT0FubnZfWkdjMV9Uc2dUWkltS3pMV0FpOFJqU0hWRQ?oc=5": {
+      "title": "A GD é ‘hipoteca’ energética superonerosa - Valor Econômico",
+      "summary": "Doutor em engenharia de produção e ex-diretor da Aneel A GD é ‘hipoteca’ energética superonerosa Trazer a GD para o âmbito da economia de coordenação é o caminho indicado Dias 17 e 18 de junho foi realizado 23º Encontro Nacional dos Agentes do Setor Elétrico. Nas palestras e rodas de conversas, o tema, com tintas de desilusão, era a inflexibilidade da oferta.",
+      "source": "",
+      "added_at": "2026-07-14T11:43:25.369235",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPam5IZDA4T05CQVAyTE80Vmo2Qnk4SkFya0h5WjlKbmc4TmVpa0pmeTc5dEFZa0NhOHRra004Q1hSRnlsUmo2eS11bWxjUXI5RzF2Ynd3ZTlvM1hNdDhZYlpDRTRuLTFFUXljQVdxRm55WTJ1LWxBRHlvU3dxYnE3S1JwVnpPcG1jR0k2TFVKOG9rSHZTOFNRZ1VHZGRjVVZyVGZSUjZ0dlI3NmNGZW02aVpnR2dnWl9oT3E4enJBWHo5b0lLWUpVbl9qTDA3aHNFZ3R2SUk5ZHFjenVTMFRkd0ZBb3lkSi1Ic0NjNHlFeVdUT0Z3VFBpNUs0VHQ?oc=5": {
+      "title": "Yilu Liu, Yushan Yan, Johann W. Kolar foram escolhidos como laureados do Prêmio Global de Energia 2026 - Estadão Blue Studio",
+      "summary": "Yilu Liu, Yushan Yan, Johann W. Kolar foram escolhidos como laureados do Prêmio Global de Energia 2026 AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 14 de julho de 2026 Na indicação “Energia Tradicional”, o prêmio foi concedido a Yilu Liu, professor de Engenharia Elétrica e Ciência da Computação da Universidade do Tennessee, pela criação de sistemas de grande escala para…",
+      "source": "",
+      "added_at": "2026-07-14T11:43:25.369679",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREFJRWtDTHdWcFpMcHRfTDBidFVGRl9NTXl1R3ZjUmxiSGd3MEtRUGV1U3piZHBQVDV0U0ZjSElMTWVuZnVVcWdOb085OTBKV2h6UGdyeWdoeXBIcmM2R0ozM09VT2JkMWdRTmdMOG9HLUV2cm5Gb2xHWGVOeXkwSzU3d25xUS0ydFpibzdqOXI3LUU?oc=5": {
+      "title": "Leilões de baterias melhoram crédito para renováveis - MegaWhat",
+      "summary": "Leilões de reserva de capacidade para sistemas de armazenamento em baterias, previstos para dezembro, devem melhorar o crédito de geradoras renováveis, segundo a **Fitch Ratings**. Os efeitos nos fluxos de caixa são esperados a partir de **agosto de 2028**, e o curtailment deve pressionar o desempenho financeiro até pelo menos **2030**, com a entrada da linha de transmissão Graça Aranha.",
+      "source": "",
+      "added_at": "2026-07-14T11:43:34.495600"
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXlHcXVyUHlqaThLb0gxRVczTkRVZXAtOUxaM2RpQ3R3eEtWUDdsaTF2b2syb2tLUXdOblBSMWx5ZjdWUXB0c0V5eDFDVGZPVGVTMmlWc1FZd2V3UThUM1JGRkRyQTYteGdVWUNvME5uRXhmWExzdS01R3A4NmpZeHo2Z1FUenVpM2MxbkhELVBvNmowUGlFTUQwYWtYMnNDSmo3LVFoZXFUSmdZbnRRMlFWVXFuSWwtTnNUc1A2WVFJODA?oc=5": {
+      "title": "Auren pode perder R$ 520 milhões ao ano com curtailment, estima Fitch - MegaWhat",
+      "summary": "A **Auren Energia** pode ter sua receita anual reduzida em **R$ 520 milhões** entre **2026 e 2028** devido ao curtailment, estima a **Fitch Ratings**. A agência revisou a perspectiva da empresa de estável para negativa, citando o aumento dos impactos do curtailment e da hidrologia desfavorável, mas manteve o rating em **AAA(bra)**.",
+      "source": "",
+      "added_at": "2026-07-14T11:43:34.495637"
     }
   }
 }
