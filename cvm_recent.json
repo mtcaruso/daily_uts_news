@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-14T14:59:42.538274-03:00",
+  "last_updated": "2026-07-14T16:17:47.948058-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260601 06/2026",
+      "data_entrega": "20260714 14/07/2026 15:49",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1544689",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544689",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-07-14T19:17:43.452078"
+    },
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Pagamento de amortização, juros e variação monetária -",
+      "data_referencia": "20260714 14/07/2026",
+      "data_entrega": "20260714 14/07/2026 15:27",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Pagamento de amortização, juros e variação monetária",
+      "protocolo": "1544685",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544685",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-07-14T19:17:35.776886"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
