@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T03:21:09.492523",
+  "last_updated": "2026-07-14T11:39:18.192827",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1467,6 +1467,19 @@
       "start_date": "09/07/2026",
       "fonte": "MME",
       "sei_processo": "48390.000078/2026-51"
+    },
+    "partic_mme_cp_226": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 226",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/226",
+      "summary": "Divulga, para Consulta Pública, proposta do **Plano de Outorgas de Transmissão de Energia Elétrica - POTEE 2026**. O documento abrange Ampliações e Reforços na Rede Básica e Demais Instalações de Transmissão.",
+      "added_at": "2026-07-14T11:39:17.692559",
+      "objeto": "Divulga, para Consulta Pública, proposta do Plano de Outorgas de Transmissão de Energia Elétrica - POTEE 2026 - Ampliações e Reforços - Rede Básica e Demais Instalações de Transmissão (1ª Emissão).",
+      "deadline": "13/08/2026",
+      "start_date": "14/07/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000126/2026-69"
     }
   }
 }
