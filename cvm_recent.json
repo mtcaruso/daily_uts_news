@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-14T20:30:33.750192-03:00",
+  "last_updated": "2026-07-14T21:57:42.608910-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Início de Distribuição Pública",
+      "especie": "23ª Emissão -",
+      "data_referencia": "20260714 14/07/2026",
+      "data_entrega": "20260714 14/07/2026 20:31",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "23ª Emissão",
+      "protocolo": "1544854",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544854",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-15T00:57:25.880109"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
