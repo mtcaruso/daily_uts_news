@@ -1,28 +1,6 @@
 {
-  "last_updated": "2026-07-15T20:18:57.825913",
+  "last_updated": "2026-07-15T21:37:18.040168",
   "items": {
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUYwSGxzZ1E0SUxWTUdDSk9ZcHZidk8zeUxZbkc1UGhHWG9ySUMzZm5zRTVMbGUxWE1CTHhHN1pIb3RKV09FRzJxanFoc0Z4aVRnOWdKVlhNM3A1dXpmR1JjUmhBUG1kTWtsZExLMFRHUWd3RXM1THVvTjVUc3ByZGg0NkJiQW9US1pOZVJPbDAyWmZBb3ZiXzBB?oc=5": {
-      "title": "ANP: produção de gás natural sobe 19,6% em maio - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-01T20:28:45.830997",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN1E0cU5CbHdYb3luZnpiQUp6WjBVemxPSURkMmdaTDM0SUl0eHNuZXBITjdwQWt4a2V0RUNjMGt6OFdPZFRPWm10Rm1WLVFlbnVIbnJ0czgwNUdNMVVMRzFCZkNicGFvQnc0UGpBaHhIU3Zub3Bic0lUX3hDSGlySDBzMzBydVA1WFVBSXk3enp0ZG43V0l5TEVyUnJjTXVyYzhraDBURVotMmZ1VktIbXgtaGc?oc=5": {
-      "title": "Mercurio Partners investe € 100 mi em motogeradores para térmica - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-01T20:28:47.682185",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUWVVa2pLYThHOXRVa0czekxJdEJ6U0ppVENNNFdaa3lPR01MRFdqdGZKejRvOFAteVMyRjczM05Ob0ExSXZqdERuUXlqcnRGaVc5bDBnUWF0X0t0aFg3enBGYUdGTW80cmJQaDA4NkpkZmRlbzhjeVlRcm01cW1wZmY0aF9FaWZ4Wmp1clRiTjZQSl9hVFdaMkVtXzVkekNpb2lhS2tNNUttTHZjSUdJSzJMWGZWYTFGZ0V0R1VKdE1IOWFrcUVXOTNBblBzT1hYTVN2Rm1uN2dCbHNfQ3doZHJhbWpfM1HSAewBQVVfeXFMTXF5QTh2UEtLUkwzTlVrbnZvdWJBR0M3VTRRNm90Y2NQYkRJRWZmclNNdXNCMnBFdDRtUUVvenMyaTRuRnZ4ODhtNGEzTmFUUzhTMU90NWRIZ05vQm43RmRXWFVYM2FiRDlzNW1hUnl6VmtESjBWU0Q5RUNoMHR1cXJHV213aTdPS3RkQ1NJYmpJMnFUQl83LW1XTHBoWThjaDdmVlBoZVA3Mkh1S2RXSTBySG0tQUY1U2N3OVBZM0hBVHB6YU9LZzNaX1NuX1FUZndDSFBURmluTU00dWtVOG1KazhtSkFTZEpMMnI?oc=5": {
-      "title": "Move Brasil aumenta procura por carros, mas aprovação de crédito dificulta vendas nas concessionárias - Folha de S.Paulo",
-      "summary": "O programa **Move Brasil**, lançado em 19 de junho, aumentou a procura por carros em concessionárias, especialmente por motoristas de aplicativo e taxistas interessados em financiamento com juros reduzidos. No entanto, a aprovação de crédito pelos bancos tem sido um obstáculo, com muitas propostas sendo barradas, frustrando clientes e vendedores. Em uma rede de concessionárias **Nissan** na Grande São Paulo, apenas 6 de 91 propostas foram aprovadas em um dia, contrastando com a taxa de aprovação usual de 50%.",
-      "source": "",
-      "added_at": "2026-07-01T20:29:32.399695"
-    },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1laVkV1MWZYdl9QU0xCOWJqWkxXWTE5QmFMV1dIWTZJSFVKX252QmhDYURXdFRKX01SNzUxV1F0YUlKaUMzeC1fRzQzaFN2aVhseWtkMWlNSThaXzNaeUxuUGxRcmxLNllvYmVFYXB3WEJJWTQxeklCX2VwZWZtRG9LckM2a1dkV25Jd25uSTh5QUFvNDc0amJFaUlsM2xFd1FYNnhQWWRFVW9tX3RLU3REZzhYTmJGLUxr?oc=5": {
       "title": "MME abre consulta pública da estratégia nacional de dados energéticos - CanalEnergia",
       "summary": null,
@@ -3861,7 +3839,7 @@
       "source": "",
       "added_at": "2026-07-15T11:47:15.937662",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52c2x4VlpFX3V0WnRCdE9fc3NxcHFKbGpCQk41YkFEZmtlX0hYWVR1N0VDcjlzVkRsWkRXRWh1OHZPdGo0bFRCQktBaG41RjRobkl6TmpmZGplbFcycGJVQg?oc=5": {
       "title": "Tag Coluna VG Advisory - MegaWhat",
@@ -3877,7 +3855,7 @@
       "source": "",
       "added_at": "2026-07-15T11:47:41.732667",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjdNdDZ0UTZHU0JLSXE2UzVmOHZ3dk9heklmT3JKMzBMUXplWmZ3SEZSaFRoVXZxaGF4MmM3YzN3MXdXRUpxUjhwS1QxNXppbWw1NGJ3c1hJVlRVXy1rYU1XWC1tWm94eGstejJDczI2d2lYOW5lT011Zl9MYTRiVTZjOEpCR25SRFdLNjNsVjRuYjN3SW9fTUhZVEVuN1V1YmgxMUhjTDNNc1BVbE1uSNIBvwFBVV95cUxPamU3ZXhGVWVlam93MzI2U2UxbVJJS1R1Ul9IWEl2eW1DdTFUWTFuY2lBQVRMOWhSdUFXOHMzQWxlc1lzaGU1cFlkVU9tS1R4SjRFdlFybHlhNUpVVUU0TzFtcmhhZlRjc1JvWXMzS25aWG94bi1yY3pwYm1QR3FfUkVrVHh2SWtUZlhvc0VDOFBrRW5obDBkdlZEYlZOeE8wTF8tNFIzVHFoWTQ0UU0yY2tEM3YxN1prMi1CVnVtZw?oc=5": {
       "title": "Saneamento privado chega à metade das cidades do país - Valor Econômico",
@@ -3997,7 +3975,7 @@
       "source": "",
       "added_at": "2026-07-15T14:06:34.948146",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWdNbzgzWndVQlprNzFhRWRCY1d0YzhTN1JSZ2F4Q2dOaXl3U0Q3WTFrN2h6aGJPRVFJYXFVSi1fdXNxbjJPOFl5RUM2U3dUdmRzMlhrYXNkVVRNNEFJeEV4emtJVmxOSkoweXByVzVkNUpqZERJaWdNM0FDQjZDQ0N5Y0ZmWnRDSXBmVm5HZ1BGQXhZa3hJa3lDRGJoOWUyczg1ckJ3eTVDdGxJLS1Cc1BR?oc=5": {
       "title": "Hidrogênio de baixo carbono: o mercado precisa de um sinal claro - CanalEnergia",
@@ -4005,7 +3983,7 @@
       "source": "",
       "added_at": "2026-07-15T14:06:36.659279",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFF4N2w3d1RnR0ppWU5OQmJtcGVNM0owandyVXhUclNlRWw1UFNQUzRaalg2LVVHR3ZWR20wUUxDTURVS3Vqdk0tTlVXcWNFZ182a1hMZ3Jtekx5clpPNXRtZ3V4dXY5QUF4ZXk4WVlUWmRKWFN0NUlvaUQxc0hQbzhfa0Y5aDlad0RSWkVoSWVobkE3MHluc1Z0cldRZw?oc=5": {
       "title": "Auren lança o portal Claris para comercialização de energia - CanalEnergia",
@@ -4013,7 +3991,7 @@
       "source": "",
       "added_at": "2026-07-15T14:06:38.403357",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkZCa3dLM2dSeTBXNWFKNDRtYmFOd0FOLXlOSjMwRVpteVRLejZ1dWdDMjczZk5ZZmtsQUp5eU00dHp4anYyOERWaEtzYW5IbGlnc1VBRENDeldLbWF6MW5DalFIRndJNWN0RE1kNER2QU9vWHJYaTZ5RlBpclNNbldJaDdnak5BYk1OWHVJQzhHNHpkVncxeGRlclNLbFFiWHMzak9HM3diWE5zRkpxcC1CbTkwdExFdERUMVZ3?oc=5": {
       "title": "Há vagas: EQT Lab abre seleção para pesquisadores de projeto de inovação - CanalEnergia",
@@ -4021,7 +3999,7 @@
       "source": "",
       "added_at": "2026-07-15T14:06:40.076275",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGY2UXQwTGk2NGcxSmxiWEMzaUhaS2c1RVpQeXUxNXFkaXhobVh3NDZZbklpTUlqTURnUzEyN05JdGdpR1hmSzRXT1JuMW1yZkFIamFTOThDSS1WcjljWDB1QjZCNF9UanJqYkNUVkEzWU41RHNfRXIta0dvTl9aRkxQMkE5UlQzU0JBWVc0Q0pUSnVyUTJJTzVFQmJhU29uMnpyQ0h1WS01MTVzaVM2LU90Y2YyN2FzczgtZGdjOFhmYWdf0gHTAUFVX3lxTE0zdEVBS2pkalVoQk1pWHRpOFpWdUNIU3plWk40cl9vWjBneFdJRER4cTN6ZkwxNm9VUUxrR2JPX0ZRWU9RdGIzbzg1Y2RDRDB0bmR5b1pTd2V3dS1LanlidEZOVGppcUMzQmhLcnNuSG5aQlZJMU5SUXdxcThqbkhYejY5Z09QWUp6Nk9NQmlRRnNDb0JvRjlTSFFNN3hFdXhHbnpMOGRYdVd3UnQtbVlBOFB5SktPcWxvYnMzOUVJdXpNN3BPZjF5a3pYdlhUTzcwb0U?oc=5": {
       "title": "Engie fixa preço por ação em R$ 30,50 em ‘follow-on’ e levanta R$ 8,36 bilhões - Valor Econômico",
@@ -4117,7 +4095,7 @@
       "source": "",
       "added_at": "2026-07-15T15:48:58.955602",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlh2U0tXeXU3U0xNRS1ZanFFNHR5RmhJY0lacUw1enRJNHR5eFN1a1RsNzVncWZhV1NZVmxmQ0RhYm9ncmYwbjc4SnVBU2RmX1BSY2JXSGhCcGI4eDVuMWJLRlV2RF94Ylc5WDhuT2tvclA4Tkc5Q2hHSEx3bmloQWstR3NINXVmUUlydW5ObzlfZw?oc=5": {
       "title": "Aneel define quotas da CDE e Proinfa - CanalEnergia",
@@ -4125,7 +4103,7 @@
       "source": "",
       "added_at": "2026-07-15T15:49:00.728760",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNblNQdU5vblZaVUN0Vk9ISlVldWpyMHBsS0NZTnRWS1ZtZWZtQlJSTlJ2V1VCZm41d3p0Y0xOT05xdzZGcVduNVFvbnlOb0JEMUZ4Ny1NVWFUTkxBWmlvVm03cjZRaWhVMVUtSFBhRjQ5UTVXaUJ2amtRTUVvUlA5ZFU3NlVOd1Fnd3duOTBKQXRPR3M0enZxUDBESy1CclpnQV9BS1kzSVNrZzBWUk90NllJaF9pTUc2VnIzY0dQMVlITGVaaW9kSUZKc2lENGk5eEHSAeABQVVfeXFMTllMbzc4ZFIzNHFxVmxfbjZxdVV2M2RXRTMxeWVPN0h1bjlGVmNabERXREJQVTlMd1lRck9yMkt2ZUVmSFBLMGs3NkhzeGE3Z1dRWG5mWHdfRExWNHU3VHNZSjBGU25wbWxVWXpKb2o2a2dWTEhxa05NQW12UGtPUEdNUG41a29OWFp4dFota3ItbFA0dURwY3NNdXZTaEdPb2w2eFR4N0JhNkVKOFJqcndjSDFJa1EydFlaWTFkelJSc2lCOGQ4WUQ0Q05SeXNnOEwweWtEbEU1cFY2OUxIdHc?oc=5": {
       "title": "Alemanha planeja pacote de 13,3 bi de euros para aliviar custos de energia em 2027 - Valor Econômico",
@@ -4177,11 +4155,11 @@
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3dRTWZhczBpOTZTcThlVlllUmVjX242di01eGo2Q0lMYTlxYmg3SGMwWklyUnpyR20zVkVzZDBmc0kxWUZPc212UFpxdTJsaEtuOXhnckljSll2SE0xSG5rSDBFTXdDMnpfMHlGTFZQamt3VmRDZm9aTnlHR1VRMjhXMWNsYkhCUWNSWmZnWkIwbFkzUVhvRW1VX0NpZkwtYnFtTkRjSGR1ckNCcWxUNGdsem1VU3FYN25FXzZ0aG1FQ0xfcU54cVk5cHNSY29kZWFibw?oc=5": {
       "title": "Irã ameaça bloquear exportações de energia do Oriente Médio; EUA intensificam ataques - Estadão",
-      "summary": "Conteúdo Patrocinado InternacionalIrã ameaça bloquear exportações de energia do Oriente Médio; EUA intensificam ataques Conteúdo Patrocinado InternacionalGovernadora do Maine, nos EUA, afirma que ICE deve ser reformado ou abolido após morte no estado EconomiaFachin tem conversado com ministros do STF para pautar ação contra bets no 2º semestre, diz Durigan",
+      "summary": "Conteúdo Patrocinado InternacionalIrã ameaça bloquear exportações de energia do Oriente Médio; EUA intensificam ataques Hoje em 5’Seu resumo narrado do dia15/07/2026 | Edição das 18h30 00:0000:00 Conteúdo Patrocinado BrasilBrasileira é morta a golpes de facão na Bélgica; suspeito confessa ter cometido o crime",
       "source": "",
       "added_at": "2026-07-15T17:35:59.093570",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0V3UzllSUsxQXVIRkdtT0dwWk1zNXd5d2NGS2Q1R0tMbGVaZUNZZ2dhOG5vZmZoSzB3MnRGOGtNX3J0SFJrV1N1cnRDX3FXcElyZEpkMG9YVmNyTTBGTGdTclNHS2JFTUtzN3VKSklMTmZHeWlTX0FOUFNNN0dzbUQ5OUZFclZQbXd4S18teUhKTmI2U1JjLWVfbmNPRnVoU1h2RzJ3enFEUQ?oc=5": {
       "title": "Falha em subestações interrompe 499 MW de carga no Ceará - CanalEnergia",
@@ -4189,7 +4167,7 @@
       "source": "",
       "added_at": "2026-07-15T17:36:02.706528",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd21HQnE4MVJVTWlMbmhFX3RLTlp0STdSZDNaWmZhdWdBSlhYMDY5RHlpS1FFX2trdkVFcU93ZVNKWmk1d2Q0d0s1T05lY01Vb212b0l6QjhsX21DY25IclBDNjd0Z2RsTkFhbjgtYl9GNXZZZjd5dWlRdzRGTWxuZzBablNTUndxUnQ4Zi15aVVYMWljYWY1QmdoZ1FVQjhiV0ZMUkNBZW44amRqX2YxM1lRek1CSWI1eVEzdl9WQ05PRmlwZWc?oc=5": {
       "title": "EUA sinalizam novo tarifaço ao Brasil, e lista de exceções deve ser ampliada - Folha de S.Paulo",
@@ -4225,7 +4203,7 @@
       "source": "",
       "added_at": "2026-07-15T18:45:10.408057",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2NiZDNqb1A1emNxRUQ3bjRBZjVuMTBWelRlVUNIQ1RlRDB6dmRBN2RMMGZ3dno3Qm1KREhNZW02SWxRTDdmZm1WTklRUHZ1RUdKdUcxYVJZV0dJc2k1WVJHSE8tZVhLelRJZ2lNMVBXQlkwM2kyYjg5NnpkcnRQZ1lWUGczeTMzemgtR2ZDRG9iRFN3MWJsOFdjUVNadnR1aWNDcE14OG12VFJGNUdtRmVsbXJvT3cxZkNtelNOZGxaU3hDZzNGQXlGWmY3ZEY1bjV6Zm9EUnFfXzd0aVVVbFotTU04dU5TN2dTY0wzTVpFVVdUWlprVmFaVXh5TzDSAY4CQVVfeXFMT3BRMmRoaXloVDlTaHRscnU2c2x1VTBlNUs4MzBkQWdXU0JvQ2NibGhadTkxWW1ubGRoTG5tV3VtZGY0T0tlS0laMjcwbTdQMk5Bb3k1V09DSVgzMm5wc2kzdDZOejNHeUg5d0lWYXZNdFRYRHZaelpCdWh4R3NKZjdMVFBfM1dac0pMRTQ5LXhMcWpQY0F0b3RKUW9JMEtzTHRHZDUyOTZEUVFsYk5IVEZLQ0o1T2xCVEhiS2I2ZWkta0k0TjgwZWxtb21yV25HdFM3ZW9oUVN0dkRpVlJmbDZvNVJYV3Rna2dRWHdQUnkxVTktYVRSM0xXbnJxMFI4RW9mU2x0dV9mT2dHbDV3?oc=5": {
       "title": "Fazenda vê impacto limitado de novas tarifas dos EUA, mas alerta para risco inflacionário do conflito no Oriente Médio - Valor Econômico",
@@ -4233,7 +4211,7 @@
       "source": "",
       "added_at": "2026-07-15T18:46:19.273022",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUFfZGl4OWRsTk95b3ZqWkVRbkJnYkF1N0FHQ1FqR2lQLVpEWTBrc0NHWHVkVHBOY0QweG0yZklacHhKeURIbktkT2VuTTMzWXE2UE9PWHhoMHN1YVNCSGlPb0Q1elR3VTI1Y1NpRkZOWXI0WHllQlo2YUY2VG15aVo2dFhRMzV1bWMzMXotUV9qQlJ6QUNXQWJVbjZzU2ZnVWp4NExQZ01QY0NXa0xWdGJlaGkzbS1wajFnZ2NGTExGdWNBQ0phZGp3?oc=5": {
       "title": "Falta de energia elétrica atinge centro de SP na madrugada de quarta - 15/07/2026 - São Paulo - UOL",
@@ -4241,7 +4219,7 @@
       "source": "",
       "added_at": "2026-07-15T18:46:19.273204",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmtnOWxIYWxfT29ROVFYZjFnMmNFbVJRdG85UU5ta0o3TmcxSmdDN3E0bkRfTjVOaHBiOU1vTlB5aEg5X1RFZFZRajViRHQ0Zk9SMDBmNzFwT3pWUnBSVDZyY2czNjllRDBEamFkZzR0ODN6cngxcGNyenlsWDA4NzYySk9hUDRmQUROQWpVVmVibk92NjREaWRLTzFVTjUzVVJ1TjZld1RKcDl1QXNCYVVKbUdYU0hLYUs3OW04Tk11NUZZNzdCVmx5ckhyRE9z0gHWAUFVX3lxTE5yeXN3M1dDYXRNQnExcHR2YkRQTkYxRkIzUUl1QTRwNksyYkFWN0EyT1k4TnBSZ1ppczlZMXhmWHpKcDNEZVliZHlBWHR5MElDVEsyYlc0UElWVmxub0N3QTVVSVFSLU5TZUtvU2FSZlhyQlZkNTFtNnFDSTRrSm9FN0tzaGFHYXJZd1l1NExSQXdETjVFN0IxS2lJVllhN3YxMUtYdTNYRWJyME93bTFIUTVLcGZYZWViaFN3RE95czB0ZzB4cVZvMV9KQlU4REZBNnBZblE?oc=5": {
       "title": "Nike lança coleção para a SP City Marathon 2026 inspirada na energia urbana de São Paulo - Estadão",
@@ -4249,7 +4227,7 @@
       "source": "",
       "added_at": "2026-07-15T18:46:53.836583",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGRFMXBVMlRfWEctZ21wbFh1ODg2RzFWb1ZtMVJOYnhBUzFzZkpTWDJNdFBVR01kRTJsN2pFUlpNVnJBS0h5NmZIMnZhd3JkdlNtcmZ1WnhORHV1dnVSTzVzLTYtZ3dSS2hVSFNJWE9SZjYzcERGcGtYS1N0b3BjNWo1c19BODRxa2dBZmhIMTFaUEt2Yld5LVN5ZFpGWTR4akZOdlB2M3NxU0F3c0ZnMnVB?oc=5": {
       "title": "Transmissoras recolhem R$ 106 milhões em encargos da CDE de maio - MegaWhat",
@@ -4257,7 +4235,7 @@
       "source": "",
       "added_at": "2026-07-15T18:46:53.836793",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjBpUFlTSHhRVFBoUTk0eEdEbHd2SkQ1Nl9ZU0pqMFBDOFBnUXktYk5aNGNvcnhLclE4ZHJWUHNiYW1pX0hJMGxYT1BvYXFsTExCNjdVVmt3aEMwdWZJbEJDSV9pZkRINnB0S3Vxb0c5RHRQTTBhcFRuYnZxWTF4RTd1WV92SWp2WHhxVWJUdVIwUQ?oc=5": {
       "title": "CCEE: MCP de maio liquida R$ 2,63 bilhões - CanalEnergia",
@@ -4265,7 +4243,7 @@
       "source": "",
       "added_at": "2026-07-15T20:17:44.499754",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHNadXN4M2NKWGxWb3pYbnVPQjlVWFdHb2xwQTBLRDV3VFEzaU9BMmZMSzg2R1plQ1g3UFo2bW94VkYxMEctRS1uQ0R3V2JtNm1rTXJoNHU5ekRsblAzQklmT3dlVTM1TWZXZHlnQkFYWUVUYXJwb0N1ci1pWXZNcjlGMGlaUjdxenpJ?oc=5": {
       "title": "Isa Energia lança oferta de ações - CanalEnergia",
@@ -4273,7 +4251,7 @@
       "source": "",
       "added_at": "2026-07-15T20:17:46.204493",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE5GQzRyMklxSVpWZ1ZoejdSS3FDLW5VdU1zWThGZGpIVkxSc3ljQ1Y5V1o3aHY4bGdkSHBtRWtGdjYtY3puMVUyejByckZqVGhfQXFDSHB2UllLNDllUkNmNWdUNmpKWUVWTDlyekNlNm1UY3JzNkxWbFNsc0dnYnQtOFpqSXFqNk50LURUOUNSalVQX0hFZA?oc=5": {
       "title": "Auren lança Claris, portal para gestoras de energia - MegaWhat",
@@ -4281,7 +4259,7 @@
       "source": "",
       "added_at": "2026-07-15T20:18:48.876197",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2ZmbnpPOERoNnJLYUZRS0MxWXp0VVlsZW1HakI4d1pmdHEwRmZOQ0ZhX0UtRFZIY1k4TktXeDdxd0hMVmlOYUlSNjRwNXZ0N21pd292a2FpWUJ4dXB6RHJnb3FsLU14NmlNZGx6Yl9xWkZtRnBYSnozZEJ5T1FTVG5FZ1VTWWI2ZjlQcG1Jdl9qS0NUbUhJakhqenpobm5kTWtYY3ZZMWtWY3UzRjBUdWtZVQ?oc=5": {
       "title": "2W, Electra Varejista e Oi concentram inadimplência do MCP em maio - MegaWhat",
@@ -4289,13 +4267,43 @@
       "source": "",
       "added_at": "2026-07-15T20:18:48.876403",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RYUdiYWRzY0hXUW5DcU83aGV0bHd3ekRvUENscW1MX0pJSWlqZ2ZBdEtGbzJkek16UG0zWHp0SWkwRUplMmVMRFBVYkFEUQ?oc=5": {
       "title": "Tag Abep - MegaWhat",
-      "summary": "Óleo e gás Petrobras e Abep entram com recursos contra fusão de Subsea7 e Saipem A Petrobras e a Associação Brasileira de Empresas de Exploração e Produção de Petróleo e Gás (Abep) entraram com recursos junto ao Conselho Administrativo de Defesa Econômica (Cade) contra a incorporação da Subsea7 pela Saipem. A operação foi aprovada pelo órgão antitruste em junho, sem restrições.",
+      "summary": "**Petrobras** e **Abep** apresentaram recursos ao **Cade** contra a fusão entre **Subsea7** e **Saipem**. A operação, aprovada em junho sem restrições, agora enfrenta questionamentos das empresas brasileiras de óleo e gás.",
       "source": "",
-      "added_at": "2026-07-15T20:18:48.876719",
+      "added_at": "2026-07-15T20:18:48.876719"
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmZlUVMwUllmUFJ2MTNwSkRfTnh5UTZXSWtISzRuX2RpQndkWnoyVVdzWXg2MkNXcmd1Y21XSkdNaGRUYnVJS0plWDRrb0UyZzVXSEdHU2Ffd3d6SWM1LTd5TEo0SDZSVEFXX2pNRmU5LThSMUJtczF6UnNMVG9mNGNER3NLaUZxNmN4NUZ4Z2Zsbm5LbnlXX0pVdkRxcDZPVXRNVDdnemR5U1Jud2JyZFV6LWF2YXZlLXZtWnRn?oc=5": {
+      "title": "Fitch atribui rating ‘AA(bra) para emissão de R$ 420 milhões da Marlim Azul - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-15T21:35:38.888024",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTEVSN3JSRk5VSW50Tzd4YzBiRXRkSkN2Z2d0N0lJNHdDUk5BVFk3cDJQckNhLXRvSV93UEUxUXlieDN2LWVCOUZGTmxFRHVZY3g0WFYydzNaRmpiRVNHVnV3UXdwLWRySUc5TmdXU1hyZWRpTFhsYjVSQTlXb25VazFtR1dSeU1XU3ZOT0dicUswUzhKLUw4VTBlWUM4VTh0NjJYTzVmOVlSVFF3RFpFS2ZpYU9pSE5wcFJaVFRmZEUzckxSa09uTDZIVmlHcURIS0FlTXZMZEVRTGJOSUNOVVg3b0ljbHhNcmR2M0dZZUtxUEk5X3dHU1NB0gGIAkFVX3lxTE5zZUJfVFJ6X1VjUFl1VG1nNkFFQUlTVndrcE5TN2xHNXdxLWttcmZ2bG1OS2M3LXoybnp3a0RmUHVBZi1lZGd1OWdYM3RZT0xLVG1JenRUSmY0LU5JREhocml4OHo3aVVxT21vMEVBVkdlam4za2Q1MjRZeDMzS1J1SHlDWEVXMWlrZUpKTUEzSzdjVjZaQU05bXRja0licGNhYmx2anVCSGhjeFNnQklYVTc4X3RoNVV0UWRGXzg0S0xURFZuend4ZVpReGVJQ3FQRjhsaXNuNVlyOUxGR1VMbDhaU2ZqY0o5bE9UczJsZkpSX1N0QU9BamJnS3VmWjFaU09BdTV4Vw?oc=5": {
+      "title": "Combustíveis sustentáveis colocam o agro brasileiro no centro da transição energética - Valor Econômico",
+      "summary": "Combustíveis sustentáveis colocam o agro brasileiro no centro da transição energética Quarta edição do Agroenergia discute o avanço do SAF e do biobunker e reforça o potencial do país para liderar a produção de energia renovável destinada à aviação e ao transporte marítimo A corrida global para reduzir as emissões de carbono na aviação e no transporte marítimo está criando um novo mercado para…",
+      "source": "",
+      "added_at": "2026-07-15T21:36:34.431084",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTdxbnZ2TGprM3BGTkhzUFllRVhwU09aenA2a0tHTk1PNnFBYXRZSWVvc3loX21OVnowY09CR2czTlZ3ckdKSTRQS1lNcDNNa2VFUzU5RTRQWEtXYlhxU256MFRwd1dIZ01zNlFYRkdGOGtyVDZ2bnJYbmgzN0tJQVZ5THdLLVRsYTBiNlgtZHpsV3UyMEp3d2pIYlBTc21Hc1I1ZGlINTRMTVhaR2hXenI3WU1ZYTlTWEJoY2RiaG5pbWM1djl0OWtFNmctckQ2THI3SjdYazAzZVdya0lPQw?oc=5": {
+      "title": "Arnaldo Jardim propõe revogar regra de rateio de custos de baterias no setor elétrico - MegaWhat",
+      "summary": "O deputado Arnaldo Jardim apresentou nesta quarta-feira, 15 de julho, o Projeto de Lei 3.716/2026, que revoga um dispositivo da Lei 10.848/2004, incluído pela Lei 15.269/2025, que determina que os custos das contratações de reserva de capacidade com baterias sejam rateados apenas entre os geradores de energia, conforme regulamentação da Agência Nacional de Energia Elétrica (Aneel). A mesma…",
+      "source": "",
+      "added_at": "2026-07-15T21:37:12.175933",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3d3OGtoSlFncGNvYzlGRXJQcXhxN3Bqa0dOU2pEOGZGbUdUc001YjFYd0lUYWVuZFlUSEVGSDllcFFnbXh2MTF3SmRZMThfakR6RDVsS1hmaTVLb2NzNzhHZHlEazd2VzNpd21TZWxDRW11T0JwQ3pNcXo1UEd0cjV6VDctMF9jOXNxX0l0aHcyU2dQNjIyRXI3ejF3T25IMnVfYURBeDVBOFE?oc=5": {
+      "title": "Petrobras recebe autorização para operar usina solar no RJ - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) autorizou a Petrobras a operar a usina fotovoltaica Boaventura, localizada em Itaboraí, com potência instalada de 13,5 MW. A autorização foi publicada no Diário Oficial da União (DOU) desta terça-feira, 14 de julho.",
+      "source": "",
+      "added_at": "2026-07-15T21:37:12.175999",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
