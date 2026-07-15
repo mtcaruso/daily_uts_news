@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T00:54:18.515896-03:00",
+  "last_updated": "2026-07-15T03:04:42.546999-03:00",
   "items": [
     {
       "cnpj_short": "01732-9",
@@ -5868,24 +5868,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-06-15T12:04:51.188968"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Esclarecimento sobre comunicado de 11 de junho -",
-      "data_referencia": "20260614 14/06/2026",
-      "data_entrega": "20260614 14/06/2026 22:24",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Esclarecimento sobre comunicado de 11 de junho",
-      "protocolo": "1534353",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534353",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-06-15T03:57:40.358620"
     }
   ]
 }
