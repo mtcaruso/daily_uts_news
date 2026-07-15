@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T14:42:38.998120-03:00",
+  "last_updated": "2026-07-15T15:44:32.206755-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5796,24 +5796,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-06-15T20:19:10.201164"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Comunicado ao Mercado 11/26 - Alienação de Participação na Usina Hidrelétrica Dona Francisca -",
-      "data_referencia": "20260615 15/06/2026",
-      "data_entrega": "20260615 15/06/2026 18:00",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicado ao Mercado 11/26 - Alienação de Participação na Usina Hidrelétrica Dona Francisca",
-      "protocolo": "1534698",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534698",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-06-15T18:03:02.594924"
     }
   ]
 }
