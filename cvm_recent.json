@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T12:00:20.242559-03:00",
+  "last_updated": "2026-07-15T13:22:46.721545-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5814,24 +5814,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-06-15T18:03:02.594924"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Operação de suas SubsidiáriasAta",
-      "data_referencia": "20260608 08/06/2026 16:00",
-      "data_entrega": "20260615 15/06/2026 15:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Operação de suas Subsidiárias",
-      "protocolo": "1534544",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1534544",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-06-15T15:30:50.488427"
     }
   ]
 }
