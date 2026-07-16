@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-16T07:59:54.791381-03:00",
+  "last_updated": "2026-07-16T09:20:12.384497-03:00",
   "items": [
+    {
+      "cnpj_short": "02680-8",
+      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado 03/26 - Mercado Faturado da Copel DIS cresce 7,2% no 2T26 No acumulado do ano cresce 4,6% -",
+      "data_referencia": "20260716 16/07/2026",
+      "data_entrega": "20260716 16/07/2026 09:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado 03/26 - Mercado Faturado da Copel DIS cresce 7,2% no 2T26 No acumulado do ano cresce 4,6%",
+      "protocolo": "1545352",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545352",
+      "empresa_label": "Copel",
+      "codigo_cvm": "26808",
+      "first_seen": "2026-07-16T12:19:58.096438"
+    },
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado 12/26 - Mercado Faturado da Copel DIS cresce 7,2% no 2T26 No acumulado do ano cresce 4,6% -",
+      "data_referencia": "20260716 16/07/2026",
+      "data_entrega": "20260716 16/07/2026 08:59",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado 12/26 - Mercado Faturado da Copel DIS cresce 7,2% no 2T26 No acumulado do ano cresce 4,6%",
+      "protocolo": "1545351",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545351",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-07-16T12:19:57.439638"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
