@@ -1,70 +1,6 @@
 {
-  "last_updated": "2026-07-16T17:39:58.275085",
+  "last_updated": "2026-07-16T18:50:22.266453",
   "items": {
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbE1PNVp0cEszeTBvY1FKbElLcmFxRC1jWVdmR3J2Y0E5QW9Qc1FMRWY3Wm43TjNqd0VjekRSWm0yUkZXQmNMZ2xTeFpQUHF4MEV0UUtMOGRBY0FfSjhSY0daaU9FZmk0WHhlNl9ubGYwV1lfcVZhNWh6emM2WWJFbXBacTVrTlJOZmpB?oc=5": {
-      "title": "PDE 2035 Relatório Final Aprovado - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:06.156110",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2JxYXpyTjFKdGRVMTEyd2JmSUNVSTBNb2VRcC1zcnVwUzN2WjlxYldzdzhQcGdEeEJkZFhMaHVmX29yNU5obWd4dml5LTRGMF9pOXdVVW8zdllaLUJoNXRGa0dnRXhUVHdLMlk2b1RsUUc3MEZyZHZZdTlJMUhJWklDcy1yZmdqR1luMnRMOG9UR2ZWVG9fUlJrT1k?oc=5": {
-      "title": "BNDES analisa 56 projetos de minerais críticos - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:07.935438",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFUwVDRqdXhReXJpbkQ3LUtyWGwtY05CXzVBRHV1OHJOREs5Y3dIZ0dJNUFwODhIOUpza1ZGMHlxWkJ2TzZMU3FqRFFtVHgzN1R3cTBYWFF6aThyTmdBLU5wdTVzYkk1UExmYzRYT2Z4UldDdzhkNW5TVGkyLVAxVktMVDRBX3FVSHBaSW5kU2k0eU5IamJlQ2xVbDlNdw?oc=5": {
-      "title": "Indicadores de Desempenho do SIN Maio de 2026 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:09.680836",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXQ1RW9GSWl3NVBKeUp1MXlYc2RKb3FyUHVGblRRRGtncmZheE9FUVItRTR4WHpuOUM0MXRPWEpRbTNDSVoxdGVLQmQ0c09wSTZRYWdtUVNqMkZnWjZzTFVueDVJaDNlQjI0bll1cnMxOGd1SHd4cmNoVC1ldmVfN1RLWXMtOWhrbTVFcUlqaw?oc=5": {
-      "title": "BISE ONS 018-26 110626-09h04 Bahia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:11.444458",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmNsLS1saWxrOTRMQkgxNzVJYmtEemF4c0c0ekZVelZHdkZEV04ya2tvRlN3YlBGeXZTZjJCaU1mOTZHS1ctS01Xb3JTWWlXbU1FbE5rYXdxTk1oaXlaNVAtN3E5LUxnQUdsZUhCM090bGQ2VW04QzhhdWUxRmVSakJjamhnVjhEVDVhcXRRc2didw?oc=5": {
-      "title": "BISE ONS 017-26 07-06-26 08h26 – Ceará - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:13.159345",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHhRR25vVnFZNnFTY3ptS1F2UVZxSnd2b0VJSVVBcUkwb2lFeFRQMUtoejhnQUxmWFZsblRFZEZJS3l5aHlWQ1ZXNEZFcG5SclQzYTc3MHlxblp3ZURjT0VUSUhOdkM2Wi1jV0RTc1Y1Szdkck0yOFQ4X0RJUDhLWk5oVXdGY0g0YVdSY1gyd0NzRTJZdmhVd3Y2OTFrSUZtZFp1bzJFQQ?oc=5": {
-      "title": "MME aprova PDE 2035 com investimentos de R$ 3,5 trilhões - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:14.932912",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdXV5U2lkeWU4N002VlEtSDc3a2xlM0FxRWx0UVpqTlNJNWlZMHFCNjlLc3IwajJ6d2FReXV0ZU1kR1lmTmZ0Wm1fOXFfQ3NDU0FrUUZuZEdvdkZWTl94aXhjWUt5WGM1T3VwZDhKa1hzdzdzaGVhdVlzR0pwN2FnODFpU0xFcGt3REZkNHByMGJRZGY5OW05aDBxV29HSE43SjVLRXl5ZHlXMXJUOU9Gdm1WNUVWTDcxSlBDYndxVWdUVGw0LVA2NDhGS3dueDRXWXZ4ZTFTbmY4bHZ5cVozX002NkkyZU1Ub2IyM0ZHRDBuZnM?oc=5": {
-      "title": "Relatório de asseguração razoável sobre os dados de entrada para formação CMO em base semi-horária - Abril/2026 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:20.281387",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdjFwb1dtSEt0WWNhNHB6QTB0QUFQNWFTZWE5N1JHSk9VMjZRY3pHV2dLMEJRR2VoZ3VleXJSaXVYVXVjLUowekduclQ1dlBpTmRCNVVaS1dJbmUwT29TS016NlRST0MwVW5LckROU3FycFdyLUJCRC1kZ3BPM3kxZ19Cc3BOdGxrVG5pRXJoQVdEbTF3STJPLVo0NWlBNFAwTnpzM1RnWFNaRHVCM3hoRmpoSUJmOWZxYjJRbUVyaHozRjNFV1dwVUFBTzJkQUJrdEdreGNJZWFrUm9oNFJIMXlUb0t5MW1CYWhCZmU4TTZ6UHBEZHFHUkdVcW5kMm82dEl6cVFUVG9TdlRpaTlJNDFBVzdiamJn?oc=5": {
-      "title": "Relatório de Asseguração dos Dados Apurados pelo CNOS com Impacto no Planejamento Eletroenergético e na Contabilização da CCEE – Abril/2026 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-02T18:46:22.039469",
-      "error": "no_article",
-      "attempts": 5
-    },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONWw2NXRKTkJxSzBvVGs2RVhmX3h6NS1Lcng0Z0M1WWM1ZEV2VlJUS3E3YUVCRXp2NGRWa25aVUliUVVHVHNLdVFaZGU0cmcxZmF3QTJtc1NOQ2NrSURyeHYyMGZqMHA4Smkwc3ZNZmZtWWYyZUllSTY1eTlnd0dUU1RiTmJyUVExUHRHdFN4MnZRMnplMnNNSEYtenVhWFNaR0V1NHhveFNldw?oc=5": {
       "title": "Oferta de energia no país aumentou 1,7% em 2025, indica EPE - CanalEnergia",
       "summary": null,
@@ -3915,7 +3851,7 @@
       "source": "",
       "added_at": "2026-07-15T20:17:46.204493",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE5GQzRyMklxSVpWZ1ZoejdSS3FDLW5VdU1zWThGZGpIVkxSc3ljQ1Y5V1o3aHY4bGdkSHBtRWtGdjYtY3puMVUyejByckZqVGhfQXFDSHB2UllLNDllUkNmNWdUNmpKWUVWTDlyekNlNm1UY3JzNkxWbFNsc0dnYnQtOFpqSXFqNk50LURUOUNSalVQX0hFZA?oc=5": {
       "title": "Auren lança Claris, portal para gestoras de energia - MegaWhat",
@@ -3943,7 +3879,7 @@
       "source": "",
       "added_at": "2026-07-15T21:35:38.888024",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTEVSN3JSRk5VSW50Tzd4YzBiRXRkSkN2Z2d0N0lJNHdDUk5BVFk3cDJQckNhLXRvSV93UEUxUXlieDN2LWVCOUZGTmxFRHVZY3g0WFYydzNaRmpiRVNHVnV3UXdwLWRySUc5TmdXU1hyZWRpTFhsYjVSQTlXb25VazFtR1dSeU1XU3ZOT0dicUswUzhKLUw4VTBlWUM4VTh0NjJYTzVmOVlSVFF3RFpFS2ZpYU9pSE5wcFJaVFRmZEUzckxSa09uTDZIVmlHcURIS0FlTXZMZEVRTGJOSUNOVVg3b0ljbHhNcmR2M0dZZUtxUEk5X3dHU1NB0gGIAkFVX3lxTE5zZUJfVFJ6X1VjUFl1VG1nNkFFQUlTVndrcE5TN2xHNXdxLWttcmZ2bG1OS2M3LXoybnp3a0RmUHVBZi1lZGd1OWdYM3RZT0xLVG1JenRUSmY0LU5JREhocml4OHo3aVVxT21vMEVBVkdlam4za2Q1MjRZeDMzS1J1SHlDWEVXMWlrZUpKTUEzSzdjVjZaQU05bXRja0licGNhYmx2anVCSGhjeFNnQklYVTc4X3RoNVV0UWRGXzg0S0xURFZuend4ZVpReGVJQ3FQRjhsaXNuNVlyOUxGR1VMbDhaU2ZqY0o5bE9UczJsZkpSX1N0QU9BamJnS3VmWjFaU09BdTV4Vw?oc=5": {
       "title": "Combustíveis sustentáveis colocam o agro brasileiro no centro da transição energética - Valor Econômico",
@@ -4025,7 +3961,7 @@
       "source": "",
       "added_at": "2026-07-16T03:32:57.201704",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFlBWXV6cnpkODJwY0UtUXFfcjlxMC1zUmgxNXVFYWkzYVFJZ2E4SU5TekI3ZkpMUm5GRHlidGdDcFc5VFZVNVlnNF9HbXBBeGQxV1BadTd6T29ZdjVUeGJWdkpIemcxOVBVNW5ZbDhSNXFYQVh1Zm9YbG9WbEpTa0FRNEtuRGZkTGVsaGNHODJobjZFODNrSXhhX3VXdkI5dGlyNEhGY2EtQjNFZGJIV2FqQWFqdW42SUhoY0tvNDFIcXFWTFJ3?oc=5": {
       "title": "Governo Lula se preparou para cenário hostil após EUA anunciar novo tarifaço - Folha de S.Paulo",
@@ -4193,7 +4129,7 @@
       "source": "",
       "added_at": "2026-07-16T14:18:26.603996",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnlYRGt6Uzd4VFpmNDhTRVdvNEJtUEFyZ3BMaHZZbWk1RzA0d2h2YjZ2RV9zTWVoc29RYU1LRlFqLVI3SGl1RUFzellOZlptNFc0YThDU0xyVzlNcTFIaFMzWGNvNHdBdXVyRjBYSkd5aEJYNDhmNDFnNnlLZ2k4anF0eWxRdXgtUWtyUHhzQUQ2cmgtdllLSm1aZ2hxN0RCcmFVOFBkUTVLUG53NXVfUGZZZ0pWY2c?oc=5": {
       "title": "Taesa ratifica compra de transmissoras da Energisa por R$ 1,5 bilhão - CanalEnergia",
@@ -4201,7 +4137,7 @@
       "source": "",
       "added_at": "2026-07-16T14:18:28.544026",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMEVGVS1KUm11Z3JvdnV4Yk1kSHZCT1pUUzg2YjdVX1kwWmFiWWFUZU1LUWVtbmFsSVdKUV9fWUUxWVBHcGFISmZQaEttOTM3UWxRakwwVFNzMVAtVENEWF9LUS1EeHJMdm85dEdoR2dacl9BYU01QmFIRmpjTm9IZzN4a3Z0QlJOMFVvOFM1V1p4Z3hod2lEaHIwcVJGZVBtU1lyeTAwY3JrQzE3akpzQ1B4Vlo2cGhYcmc?oc=5": {
       "title": "Revisão tarifária de transporte de gás e a confiança nas instituições - CanalEnergia",
@@ -4209,7 +4145,7 @@
       "source": "",
       "added_at": "2026-07-16T14:18:30.460908",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVy1qSUNTa01ma08wQmItTmtNaVlfcFhDSnFjLTB5bVp1Q0lHa29VWXR0NnF2emZwVVNGbFAzb3lYVndBX0Zkc1h2WDRDT05DZnkwQTZmdjJ2T2gwNURwU1V6YU5uNXlLdFZPcFE5eEJFckY3QUtxcmRFc28waHpMcXVYUFVvVE5Fd3dERzl5ZDJ3RnBxYnZ2b29hMERRNS1jNTBURVBxX3FGUlItbnExc3plQQ?oc=5": {
       "title": "Sindienergia-CE mira investimentos em baterias após Intersolar - CanalEnergia",
@@ -4217,7 +4153,7 @@
       "source": "",
       "added_at": "2026-07-16T14:18:32.331383",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUTZYbTRGUDNEV2REUVFCNHFCMmwwSVJXRFNfR0pWcmZsdGFoUnVDbU9TamZrYzB3V2twamxXTGlpWk96OFVaQnpmNEdSZGlRSmF6S0VoeFl5LXNzUHdJdzhTejBSenFkanRiQmNYTTAwV3Vkd2g2ZHZuWmNqb2hTazlTOTBQWkZfNjJUQkNISUpHNElPMzdrYlhQcGttTVpzdDJEUzA5ODhYYmJuRWV3QUFIUTM1NmdWOWNTZlEzMFZ2cnVhSWxmbDFiV2NvZXp5cHfSAeABQVVfeXFMUHhsUy1zS3R4SjhOSlBSdWpEc2FDckpoT21fWVJaRWVPQmVrYWVMWnd1QUY2anZSRmlzR2xXMXR1blZHbmNiNEVkdnhhZFJCUm9yNXV3ZmRNT1QzZmFfWHJ4aU9qZ1RqTGRfNk1UNFhZWWFXaDZISDhaTW1lYWtRd3dmckl3QlVuUTgtMzRIY3JxMlpoN3BoakpsOXRBeWVrUWFTZFZuV1pjQW1IaWY5YTZwRDdsQkJ3UjlrQXFHWTQxcTVCckNvWGh0NlN1MjQ3NkczRVBQcVpRUXBRWlJwNzI?oc=5": {
       "title": "Copel tem alta de 7,3% nos volumes de energia distribuída no 2º trimestre - Valor Econômico",
@@ -4335,7 +4271,7 @@
       "source": "",
       "added_at": "2026-07-16T16:02:27.152435",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUhfaWV5RVA1UlRpVEkzM05GNHkwRWtiVmFBb0dQOTl6RFA2SnVZZlMxeUtiNnZKb0VSek9nQ2lUM3h2NWIxMlE3OHFZczAxU3RlVFI4M0MwR2p4SmRMdzZmaFZkRG8xMFM0ZEI5cmNOMW1ZOEt3VUxWNHdWekEyMmxEaDJvZ0hLMWdZdGY0d1hpVkFLNktlVVVTcw?oc=5": {
       "title": "Light protocola saída de recuperação judicial - CanalEnergia",
@@ -4343,7 +4279,7 @@
       "source": "",
       "added_at": "2026-07-16T16:02:48.006874",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTVhVV82eWp0WTZRYmQ3UUVzSzNvYnV1NXBueXU3MDhSQllCUmd2cnRUR0N4bVVlV1ZQZmNzTkRZRi1GOFliaEFBLTlPUHB6VkJPYmYycmRXaHoyM0dzV2ZULTBUaU5CTlhDd3BoX25VZWJlZHhfTDhpMDFFVDVoNDRpNVA?oc=5": {
       "title": "BBCE negocia 22 TWh em junho - CanalEnergia",
@@ -4351,7 +4287,7 @@
       "source": "",
       "added_at": "2026-07-16T16:02:50.009026",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWlidzhESWp3V0lmeEFNNXFLTTRBc2tLcEY5a0ZqWHhUZXgxelh0N2FodlJBYlROUEItZTFBdEl6cEFDWjZVYWdOMlR1cmVrem44QmcxaWNWSUZ0VVdPb05JZ0kxcjRIMUh6TWV0M21tT1BBX3BiMzhNVlFrYS02RmxpQnJiTUVUQ2pwRmZ2WlFENUdmbVNobV9FV09ibFl6Ul9KY1NPdjU1SGZISlFuZVVBZlVJT0t1bFpKVGc2SVpUNnRuaFV1SFpha1ItVEVxeFHSAeABQVVfeXFMTmZTc0FKUHM5dXJVZzVoaG9nRC02VXBIdEJQOVE2YnNZOEhpejZKQWpGUHlMZXMwdDM4Q3R0UHVUTUNQOEE5RC1tODJsMjhTZFB1cl9jOVlqQ0FyUUtnUDRiOUxfY2h2R3FkSVJKZ1JlVTZFN0doNTlDOU5DLUFaWEF4d0xSeGRGV0RLZEJVLTZOWTNheE1pbnhhc251YlE0b01MMVpOdG9JbzNNMUtuTHVkMnpQOGNYam1NTWhySnZUUGZNVkkyM0ZPczNkTVR5cnJMNHRpQl9LWmM5VUFwNHQ?oc=5": {
       "title": "Abinee avalia lista de exceções em novo tarifaço e reitera esforço por mais isenções - Valor Econômico",
@@ -4359,7 +4295,7 @@
       "source": "",
       "added_at": "2026-07-16T16:04:20.865795",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSzhmM2hJRll2NFRHOW16cEUxM09hcUZtd2NPbUdKaWoxRWtKNnBfZjd6elpQVUl2QTBkY29ia19fbU9COHB0cTh0cXJDblhMUTd6VEJIVzR5R0RlVWFQTGhaV0daUU9oSlFDczNWTTh0UElXcGxkNXF4WkF0UUFNMjBzdEZQaXU5dnBFNEpwWkVSNXp1d2xZdkRoQVZaMDVCUjYtQVI4bEVLNWsxVHdncDkwbjc4MmdsX1YwbzljdllUTmp0VzlRVW9jbTVZQXEyUTFZQTJDbldRN0U?oc=5": {
       "title": "Setores isentos citam alívio, mas temem novas tarifas dos EUA em caso sobre trabalho forçado - Folha de S.Paulo",
@@ -4375,7 +4311,7 @@
       "source": "",
       "added_at": "2026-07-16T16:04:20.872951",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlJWVHRSU2Fyd1V3RWJOTFc5Wm5HcmU2emllRHp6U1dGdnBwMWROREJFVWI3NTVPSmRsUHo1Q2pDYW5PS0V6T3hyR2JCQVN1bDE2MURLUDFSM3lCcGxTbEFCR3ZrcmZ3bWN0MTRHTDAzR1RNa3ZMUE43LUhYMGtiSTFoV1pjQnZyMG1wMWotOGpTcE1IbHlqdXZnYWxEdw?oc=5": {
       "title": "Governo tenta impedir avanço de ‘jabutis’ de energia aprovados na CI - Agência iNFRA",
@@ -4383,7 +4319,7 @@
       "source": "",
       "added_at": "2026-07-16T16:04:20.885941",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGlBYWFmdzhEQkF3TWh5eTNsRU96YWxfbzNoZFhMdXZzeWxRUHlMbERFTUhBVXhNaGJQNXA4dXFSTk9BM2wtbk5SRHRlUzhIUnF2RWVfOGxBaXVtRi03c0YwdE9DOTVwQkdRUExqdkZmazBqUGFBV0tBZF9BS0lzU3N4MkpIOGxhZ2c2dDJSRkRKOEVMaXFVR3BheVRzN0Nt?oc=5": {
       "title": "Conselho da Renova Energia elege Sandro Kyoshi Yamamoto como diretor - Agência iNFRA",
@@ -4391,7 +4327,7 @@
       "source": "",
       "added_at": "2026-07-16T16:04:20.885975",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamd4bmZ1V2kwODhiaE5kYzltNkZ6WEdQRjIybEE1T25JaTBWSFRpSmNfMDc2WDdDN2RqSGtqZmFJNHlfT283SmtKWnhWMmU2Wng0aURrd25HZzgtQmUyMlRfS1Z0WUFhS0J0U0N4VHU5WXhCODNHUmlib3dpSFJzQW44VDZtejQzeFk2a1RwZEQyZXZpckxUZW9PS1NhLTB5al9FSlBRcGdISFRORkd2eHA4Mzg3cEo5Zjh3R1RIT2ZtSlh6S0ZPc2JwaWJudXk5ZFVhcGl6YjRzRVow?oc=5": {
       "title": "ANA identifica divergências em níveis operativos de 13 hidrelétricas e pede alinhamento regulatório à Aneel - MegaWhat",
@@ -4399,7 +4335,7 @@
       "source": "",
       "added_at": "2026-07-16T16:04:20.886626",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkhuTXM0RDc2bUkzN2g0d1kwdTF0Z0ZSYzJRV2g4LWF2dkt1N1pPSllDN01acDgwT1hTZWNlTldNbkxjNFZJRzJaUlRqQXNXUDZCeTJ2VlA3MXpHbHl2X1JKRzJCYzBkeVBMSER4WWtWWXJ0cHZHa2FtWDVlZ2FwdHZ5VG1Ud1BhQlN3U05vanVlZVNiSkw2b1d6RFBBMkJSQU5rSHhMVQ?oc=5": {
       "title": "Reservatórios do Nordeste operam com 87,2% da capacidade - CanalEnergia",
@@ -4407,7 +4343,7 @@
       "source": "",
       "added_at": "2026-07-16T17:37:58.136960",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenZIa2c3ZFBhRTh2dDBnYWtZNC1VRGs1WnY3REZmQ3cwSzYwZEdac2NTcDM2c3BvU2dOUUFlRWdvbE91Y3h3SWk1bFFyeFVlYWRKWXZRV1l5TFNJVmpzeEFLZ1ZzNk9FSGc4RUhIdXpWcmFFMWpBX3JkcVliYm0ta2RCano1WG1zN2xTS1FSdzV3SUE1dkJkZGFYdmRGUVM5RENvNGlLTHgtblI3cE1Gb2dPZU5iVGRTdG9QaEJtbzF6b09seVhSV0ZyLU5XRFRVVG5R0gHiAUFVX3lxTE1LdWtONEJ4YWk4VGRoVTR5LUZEQmZLczRiUDNVbGhaMlBXM0pqb2lZRGFUbzd6U3FPTUpBXzRFZm85R2JPckgzVnJlWS1JMGZ0cklkVHAyLWNzWjlTTFhNNGltZU50WnFkNDdMcWpKZkNERWVndTdTWWhOdXNhRW1wYllDQmp2QS0tT01xM1dnZzJzZlR0SmdzbjJxSjd1N2tnX28tZUVmQnRMZjA4WlF2ampTS3ZrNnRDSFdhSmRTYThxOFZPdUVGU0wzRWJnemF6RERiNnFiZ2ZzR0pXelo0QkE?oc=5": {
       "title": "Governo Lula vê chance de ampliação de lista de exceções em novo tarifaço dos EUA - Valor Econômico",
@@ -4415,13 +4351,85 @@
       "source": "",
       "added_at": "2026-07-16T17:38:47.915949",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1lmb2F1LUVfazZVUkZfQnhQT1o4Q05UdGVVd2tNX0Yzc1VKeWlpaHAtU3pIcWdVZy16WVdUQU4za3pUUndlb2RvSmNkYlBRTTJZM0xqQWpqMURmejRXT242c29ReGNYVEJsREg5bGxPbjJua29TcXBhQ1pwQnd1NWZBbFE0V0RSVmQ1Y084TXpPM1FpaFNyMEN5cUtfM3ZIaGctRm02TFZZWXhnZEV1ay1JMHRiNnRpSHcxWmdORWkxUQ?oc=5": {
       "title": "Tarifas podem aumentar ou cair conforme resposta do Brasil, sinalizam EUA - Folha de S.Paulo",
       "summary": "O USTR (Escritório do Representante do Comércio dos Estados Unidos) sinalizou que as tarifas de 25% sobre produtos brasileiros podem ser reduzidas ou ampliadas, a depender da forma como o Brasil responder às práticas apontadas na investigação. \"Uma ação por parte do Brasil que reduza o ônus ou a restrição ao comércio dos Estados Unidos pode indicar que a medida adotada pelos EUA nesse nível já…",
       "source": "",
       "added_at": "2026-07-16T17:39:21.378140",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHc0N2twUl8tOGktZ2xGZllhSWpkWm5uSS1GczFESzBSY0VEZEM0YkdhUkh1c01JemxnR2tnVm9jSzhHUWtYRTdIYURmZlFzbWhLVE9MQVM3OGg2bTVsSGRhZ1l3MExPblF6TzlIMDlvM3FFWGROWmZwbVRqZzFPRl9zYTNBMWljZ0phNjVoVEFWSmNneTRGY2VDaU1vM0RJNml1TDJIQno5WmJXbF9yTF9VZTdlSG1UYTFYdktR?oc=5": {
+      "title": "TÂMARA ENERGIA E PARTICIPAÇÕES S.A. - estadaori.estadao.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-16T18:47:56.328835",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDdrZ3RfOFVGQ0VIaFUybFlUNUljbmx1eHdaSHBmVGJ2YzZEMEhVazVBSFo5OTVYWGlEMTRkdHdHMWlpcmtTMmljbEJtbXZRTGZDU2loVWRJa3BTbC1zdHN6dHI5WF9FVXFXamRxZ2RhdkszYWRGUzVtRHFOTWhGaEhKblZrVE5FTHdjaFFKR1JmSTByUm1xQjN5c3Z1cWxQRkFYS0dxYw?oc=5": {
+      "title": "Mercado faturado da Copel sobe 7,2% no segundo trimestre - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-16T18:48:05.187116",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVJucEo0SXFGNl9oWnJ4c0J1eENfM1JaS1NlME1HamlLUHNzTFBRTzhxZVJ4N180aGRpRVhla2JHbW04RGE4Z1F5cDFWRlRsYll3bmNic044UW1qbFd3UnlRbXZPWGxYNjVFQ2doTHBQQ0t5YmlDVlpQRmR0R3oydUpSS3c0c2llYVF0eDh0NVVkcGFYUGZsOGRLRkI3RFctM0VhV0FLR05aUjBJZ3gxTV9sZnU5Rmk4NlhQclI0dk9iQ0paYUU2Sg?oc=5": {
+      "title": "Nova rodada do tarifaço atinge 26% das exportações brasileiras aos EUA, diz CNI - Folha de S.Paulo",
+      "summary": "A nova rodada de tarifas anunciada pelos Estados Unidos na madrugada desta quinta-feira (16) atingirá 4.000 produtos brasileiros e colocará em risco US$ 11 bilhões (R$ 56 bilhões), o equivalente a 26% da pauta de exportações brasileiras aos EUA. Os cálculos são da CNI (Confederação Nacional da Indústria).",
+      "source": "",
+      "added_at": "2026-07-16T18:49:22.574577",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFJLcDl2LUtOS1lwXzlmNWFZVmNRd0M5ajgySWw2eEplVTBia2lBMTBzc2JYNUlUeGQtcjhDYzNfYXJSTV9mRXBSSkx2Y0MyUnMyUTUzUFVyVnhfTDFNQWJrUUFfRHhsN2o0bzdBNkJ0bWl3a1RQTGw3eG1jWm9BczlmWkhILXhreDc5dHRqUG1aSEg3dTNDQ1dKVktrZk83Zm80RFNyQkFKN2J3Ti1wUnRqZUNSU0Q1QVFuUTJQcElFZlhLUDRPYXJWZnBMUQ?oc=5": {
+      "title": "Rubio faz ataque grosseiro e arrogante contra Lula, diz Mauro Vieira após tarifaço - Folha de S.Paulo",
+      "summary": "O chanceler brasileiro, Mauro Vieira, rebateu nesta quinta-feira (16) as falas do secretário de Estado dos Estados Unidos, Marco Rubio, de que o presidente Luiz Inácio Lula da Silva (PT) teria faltado com boa-fé nas negociações em torno do tarifaço. \"As declarações do secretário de Estado Marco Rubio, veiculadas na madrugada de hoje nas redes sociais a respeito das tarifas adotadas contra o…",
+      "source": "",
+      "added_at": "2026-07-16T18:49:22.574828",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak9YOUlfaG05WGpRTUlkcjhqcXFlS0NmaVMtajV5NjFuZ1NJbG05V2xwM1VtMnhqMHhzVHpqeVptZ2RsRHZQSjJ6TkthREVLdE5QNFduTW0yY09iMmQwWUNqczhMSUpDWHQtYWtlRVBscWhzLUxoSzdxX1Y3RUdzM1B5OTBCMkxTZ1g4ZzJCb1EwT19hcVRHdjZVT1FvdWI5MFhfc3lmampzTjhXYUVlWUJScTNSTm5CdDl4TndKZkVjYnRUVk1LdlQzMkFsT3k1bW01VA?oc=5": {
+      "title": "Senador democrata critica tarifas contra o Brasil e diz que sanção pode prejudicar EUA - Folha de S.Paulo",
+      "summary": "Durante audiência no Senado nesta quinta-feira (16), o senador democrata Tim Kaine criticou o novo tarifaço contra o Brasil e relembrou as tarifas impostas no passado. Ele participa da sabatina ao indicado do presidente Donald Trump para atuar como embaixador no Brasil, o deputado Daniel Peréz.",
+      "source": "",
+      "added_at": "2026-07-16T18:49:22.574938",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbk00c2dKX3ZyWUFjSWFuSk1iVzhtNGZQT1JnY0FkSlRra3JmQTV2ZTVoTThVdGJjdGhYOUFQbk1JNmlWVGNzR2lkVWl5enJxZkFlZVJTMldzLXV1Tm5DSGc1QVM2TVcwT0owcnlNMzBhOFBnQnZtWHhoaXRxRFA3cUpiYm9hLXBIbXJWLWdMOW9qZVE?oc=5": {
+      "title": "Cratera se abre durante obra da Sabesp em Osasco e deixa nove desabrigados - Estadão",
+      "summary": "E-investidor Copa 2026 Pulsa Paladar Jornal do Carro Descubra Assine Assine 1 ano por R$ 1,90/mês • Assine 1 ano por R$ 1,90/mês • Entrar Em Alta São Paulo Conteúdo Patrocinado cratera obra sabesp osasco desabrigados npr Hoje em 5’ Seu resumo narrado do dia 16/07/2026 | Edição das 13h 00:00 00:00 1x Conteúdo gerado automaticamente com o uso de Inteligência Artificial. Veja nossa Política de IA…",
+      "source": "",
+      "added_at": "2026-07-16T18:49:44.705976",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2JkcmNmaXd4NFlsVC05T2N2UnZtNzRPcjZJSm9NU19pMk5uZURwcloyc2xnN1lDMXhzTFpkQnNlNF9PbE0tWjNfUGNNZ2ZDc3VoVlNoTkRFNXhQT3J4OWZPejMwSl9iTk5QS3RVQThLRF9XeWJlRVlRUDJZYUpReDR0TUlSQXVXZ1Nod2hoVkZOYjVSNUhEa2g4bDNaUVNJM2VjZXl3ZFQ5b1U?oc=5": {
+      "title": "Engeform recebe aval para conectar projeto eólico na Bahia - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) autorizou a PEC Energia, controlada pela Engeform, a estabelecer sistema de transmissão de interesse restrito da usina eólica Serra das Almas IX, com 18,6 MW de potência instalada, nos municípios de Urandi e Licínio de Almeida, na Bahia. Com isso, o agente fica autorizado a implementar as conexões do projeto à rede básica de transmissão.",
+      "source": "",
+      "added_at": "2026-07-16T18:50:22.259425",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWpBdFVTZlVEampKb05Zc0I4eXdNZ2xHQ05ZcF8tXzlWZGtqWTVVSGR3UHRVNVVodHctaDg3TmNKdFNBLV9wX1dYV1N6TExJQ1BBWmRISkdETDdiSktDbGVERUtScWIxcXAwU1Qtd1pKcy1TblB4Wi12b0xCMG9BSnZHT0tVV1g2SThXeEwzOGEybHhhX2wxN09ZbGlZajJnS25iWXJsNzdwcl9QajNSdFFnNzhwc28xSEZuU3oyeUVKdw?oc=5": {
+      "title": "Negociações de energia na BBCE crescem 47,6% em junho e somam 22 Twh - MegaWhat",
+      "summary": "As negociações de energia na BBCE somaram 22 TWh em junho, um crescimento de 47,6% em relação a maio. Na comparação com o mesmo mês de 2025, entretanto, o volume foi 26,7% menor.",
+      "source": "",
+      "added_at": "2026-07-16T18:50:22.259514",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUs1anhLcHVIajJ0bzdHczQzQkpCNkFwbXVNMlI3c0pEM1NVQzVVdUFsRXFZU240WUFyZXVXam1rYmN5bHV3UXB0MjgzRnlacUhhUV9lV2R0SlBqRGlBMGpVcFNSZVFyT05oRE9rZVJqTU1JZmZKUkZsXzJ0X1RESk5qdzY?oc=5": {
+      "title": "CVM libera OPA da Brava pela Ecopetrol - MegaWhat",
+      "summary": "A Comissão de Valores Mobiliários (CVM) tornou sem efeito a suspensão que havia determinado à oferta pública de ações (OPA) para aquisição do controle da Brava pela Ecopetrol. Com isso, a operação fica liberada para avançar, e a Ecopetrol deverá divulgar novo instrumento para a OPA, com uma nova data para o leilão das ações.",
+      "source": "",
+      "added_at": "2026-07-16T18:50:22.259591",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
