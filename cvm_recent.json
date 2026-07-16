@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-16T18:42:37.361860-03:00",
+  "last_updated": "2026-07-16T19:36:48.422875-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Encerramento de Distribuição Pública",
+      "especie": "23ª Emissão de Debêntures - Anúncio de Encerramento -",
+      "data_referencia": "20260716 16/07/2026",
+      "data_entrega": "20260716 16/07/2026 19:09",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "23ª Emissão de Debêntures - Anúncio de Encerramento",
+      "protocolo": "1545667",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545667",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-16T22:36:31.334504"
+    },
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Escrituras e aditamentos de debêntures",
+      "tipo": "-",
+      "especie": "1º Aditamento à Escritura da 17ª Emissão (Resultado do Bookbuilding) -",
+      "data_referencia": "20260716 16/07/2026",
+      "data_entrega": "20260716 16/07/2026 18:44",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1º Aditamento à Escritura da 17ª Emissão (Resultado do Bookbuilding)",
+      "protocolo": "1545665",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545665",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-07-16T22:36:38.160248"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
