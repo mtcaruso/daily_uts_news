@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T19:29:04.707799-03:00",
+  "last_updated": "2026-07-17T20:22:50.309513-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -6102,24 +6102,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-06-18T21:28:50.559585"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Renúncia Conselho de Administração -",
-      "data_referencia": "20260617 17/06/2026",
-      "data_entrega": "20260617 17/06/2026 19:48",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Renúncia Conselho de Administração",
-      "protocolo": "1535836",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535836",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-06-17T23:14:28.387187"
     }
   ]
 }
