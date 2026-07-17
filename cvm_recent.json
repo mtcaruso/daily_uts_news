@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-17T18:32:32.837390-03:00",
+  "last_updated": "2026-07-17T19:29:04.707799-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Laudo de Avaliação",
+      "especie": "Laudo com base no valor do patrimônio líquido a preços de mercado ou outro critério aceito pela CVM -",
+      "data_referencia": "20260717 17/07/2026",
+      "data_entrega": "20260717 17/07/2026 18:53",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Laudo com base no valor do patrimônio líquido a preços de mercado ou outro critério aceito pela CVM",
+      "protocolo": "1546042",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546042",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-17T22:29:02.378692"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
@@ -6102,24 +6120,6 @@
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
       "first_seen": "2026-06-17T23:14:28.387187"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Regimento Interno do Comitê de Auditoria Estatutário",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20191206 06/12/2019 12:30",
-      "data_entrega": "20260617 17/06/2026 17:21",
-      "status": "Ativo",
-      "versao": "4",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1535662",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1535662",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-06-17T21:50:57.246996"
     }
   ]
 }
