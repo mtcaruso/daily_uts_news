@@ -1,70 +1,6 @@
 {
-  "last_updated": "2026-07-17T11:40:51.703890",
+  "last_updated": "2026-07-17T14:01:50.815915",
   "items": {
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzlqVGdSbmdSRW1pdjhhSkFOLVhqOUdjTTNpSjdKZzR6OVh2TGlJanRoOXBSSnhmYUtjaHg2RHRrazQ2eUUyQ2pMRFhLVFRpdGlYcTRQenpZVzk0b0tWaXlaRHpicVRYWmpzbTd6eHpvRGFFZU1KRWE1UWdaRU5WR2lsdU9QNEo2ZktTckVDaG9xc0NDbjdiZw?oc=5": {
-      "title": "Estudos sobre SMRs avança e chegam à Fase 3 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-03T12:20:00.371594",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRC0xMDNHOGtFYlZJWm1PbnpUMnAtZ0RHNkVXekZaUUJZb0Q3VW9fVTAxNnVtanBxZG9oS2ZKSnM2dzVlUVdIZmdSVnIySl9FaFNpZFNjZE50by1IMUVxOThPNmRia0xHc3ZGMHloQkNQLTNWQmI4alJxNFItRW84VklyUkJqMUtwUWVCU3lRSVFVNTJ1SGJvZkRfTHJfelowYlpsam53UENiVmVxLXc00gG-AUFVX3lxTE9FN1hrY0dod2N1YmN1WUtOOVAyb2kyb1F2SXpVbV8xZU5Ucm5ZdFNVQTJLVHRndndZN1ZfQWVSMXZfYU5UTl9PQ3NXdjlXX1JxTl90UEYzMlZpYzQzYkZSMGZSTUw5Rm1yM1RhendGZ1dMZ21zeFVkXzdpRmFYWHVwdEFyVHVfWkF5Q3pvR2R1WXM3UF9CS3JHSXRrV0t4eUZ4WmNXX2hCbUF6RHk4QmZINjJNTV82Q1FCWFBQTnc?oc=5": {
-      "title": "ISA Energia avalia possível ‘follow-on’ de R$ 650 milhões - Valor Econômico",
-      "summary": "ISA Energia avalia possível ‘follow-on’ de R$ 650 milhões Potencial “follow-on” será realizado no Brasil e destinado exclusivamente a investidores profissionais, com esforços restritos de colocação no exterior A ISA Energia Brasil informou nesta sexta-feira (3) que avalia a possibilidade de realizar uma oferta pública subsequente (“follow-on”) de distribuição primária (novos papéis) de ações…",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.619557",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjBTZHVIR0xVWi1XWF9iaUpoc3VFSmJJS1pIaDZock9hdF9SUXdVa19fVkpfLUx4VW0zM245MWlxajdaei1vdHo5eE9sTEl4LTdpaGlOby1KN0VCbE9MV1VQcEJoMkNxcUFCeTFLTjVWMTUwZnlDc1k5blFralRUTjlvMURfaEdRcG5OUWIyWDZSVEpqbzBFZmUtY3BLTHFzQXRTOTFJYXQzR1dSSTBXMDdac0k1UVdITWZr0gHKAUFVX3lxTE5zMUQ0cDlRNFIxbHZqUTFIZlJMaHJqdE9sdzFkRUZiY1BzeUJId0ZPc2pHYm1MUDRGVndORzlldERGR0JYYVJyUEJZdWZwd2ZJWG05dEVESDBWZEhCdkNDb2RGR1JWYlpLcE5nT1VuRU85cHEzODk4SWV3RHBoNWY3cG9pVS1jNkZWenVFMHc5Wlk5WjA0RjFEbkZPWUJGbGplYnZCOUpIUzNMNFN5SVBIMXluVmlHN0hidmhRQ0NLcHBSRjhkZFVuYWc?oc=5": {
-      "title": "Brava Energia registra alta de 4,3% na produção em junho - Valor Econômico",
-      "summary": "Brava Energia registra alta de 4,3% na produção em junho Companhia produziu 84,45 mil barris de óleo equivalente por dia em média e, assim, o excedente médio do segundo trimestre foi de 81,7 mil barris de óleo equivalente diários A Brava Energia produziu 84,45 mil barris de óleo equivalente por dia, em média, em junho, o que representa um crescimento de 4,3% sobre a produção registrada em maio.…",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.619676",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTJXYk9sQ05ZZ2JhU3lQdzg4NFRLZF9tQWdTcEhfaXNrR2FsaFFkdURQa19JYnJ5c1RYdWVzdS1kX0ZjOE11UGJRUk8yd1BoeTd1Z0pZYnFfajh1cVZxZ0tMb25sZFdOUkFlM1dnbE5lblVYTW9yVnBUdkJndHZrZ0RoSGs5S2l2RjBWUW5tWk5RODVVQkQ4UHZpZmpLVmhhTmfSAbABQVVfeXFMUGNlS21NVDV5QWh5aTRZWjRqZl9zM1hzVWxzX1JJTHdZUTFoWlg4VEJic1NqQnJkX0d1M2hGY1c3ZUdadDdJS3h4ZVJaYVJsUjVIQ0ZzNEFzbHhONHUtSE5hRXNseUdnMmlVM3ZpLWgtam1veXVkNlQxQ2lXanNMeEtYTDlqVG9iZkE5cURXMVVYUmFrcEd4cmJVd1Z3djRaUnlqeFFwcFZQRTR3R3ZuLVQ?oc=5": {
-      "title": "Regulação moderna para lidar com a nova matriz elétrica - Valor Econômico",
-      "summary": "Regulação moderna para lidar com a nova matriz elétrica O desafio é administrar a intermitência e garantir flexibilidade operacional em tempo real Atualizado Clareza das regras sobre armazenamento de energia é essencial para induzir os investimentos que darão segurança e eficiência para o sistema elétrico.",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.619709",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUJpaE1OV0FlUzY3MlM3Y3VIMzA2NVZrRTFpd29Gc0lpSHFqdm9fWUNmTXBIMmMxYmN0MjJtQ3JnTUFXdUs2TloydG5GU2dvTmcwSDFhbUVXSm51cUlXZkd0QWxSZTVTMnU2MWRQY1Z3bXhmMkh2c1VITGdRYm9iU3kzS0lVaUtFQzk0SlB0X3lIMDRpdVNvWXN1U3JlbUdSYUFaTGZmWVpUbjjSAboBQVVfeXFMUERJemd0c2NEZ0ROM1VrMU9leDVuaWdQVlBwV2UxczJNazdDSHphY3pQS2ZEcHltM04zbXZTdE80aDNTcXFHZURSTV9fV1c1N05xcUc5aHUzZm5HVy0wRmtwWHJQWkkyLVlsZzZwWk40T0NTU1U2TEt6U2hNUmdxazQybXJsbmJPU09UenRJcjhvR1ZDTkJBaGp3TG9TRDdCU3N4eGJLNWdxaWszb3lpMHlZUU1VUFhCUXJR?oc=5": {
-      "title": "Amazônia reduz total de sistemas elétricos isolados - Valor Econômico",
-      "summary": "Amazônia reduz total de sistemas elétricos isolados Dados do MME mostram que mudança beneficiou 1 milhão de pessoas O número de sistemas isolados de energia na Amazônia Legal caiu de 212 para 160 nos últimos três anos, impactando mais de 1 milhão de pessoas que não tinham acesso ao serviço ou que viviam em regiões onde as condições de fornecimento precária. Os dados compõem relatório do…",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.619753",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2ZmZ1RycGR4Tjg5VGFhbi15ZEUxTld5eVZTTnNGNTdMOHN0ei1BVHBBa09xTEw2Y3EyOWdIeG1FSlZnOXZfamxBc0R4MnV3cU5qUkJPWnBUWDlqWURTLU9RbFFYYmg0dmNiMFNIU3F1QUd1UDJGTG5BUXM4a09tLUxYTVdldmNzbk1jcFhDNmNIazRueXNqOTRYalgzdFQ5WWdLb21fajdjM2dsOXpsQVJn0gHAAUFVX3lxTE5IaEVYZzFYU05nQ202RGhzWWZ2cFlJQVB1Rmg0a2F5Q1FTLUpfYTg2ZFdYWjF6d3FOdUVTRElRdXUwYTRQUjNsSkk2SUdHcllJTm9IZmRQNWRiT2JyeWJnYU9sZ0FXZHdES2FGaFpId3FMWTJUdUE2aTNwVWJwWWhZV2ZWaWphOG5XemRWOWdXVUtERU52TFl6bjF3Z1ZvbmpFS2pYVTBFRnJvRWY3azhyeU9VaGFIUW0ycFNnQ3Y3Sw?oc=5": {
-      "title": "Empresas do Japão apostam em motor de combustão a hidrogênio - Valor Econômico",
-      "summary": "Empresas do Japão apostam em motor de combustão a hidrogênio Atualizado Os motores de combustão movidos a hidrogênio estão ganhando força como uma alternativa de menor custo às células de combustível. O desenvolvimento em uma ampla gama de dispositivos de mobilidade é um potencial fator favorável para a adoção generalizada desse combustível ecologicamente correto.",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.620043",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlROOEdrTElMd2piYzNvZi1NdkRqSzRKcWhoZFZXalk1elpPRlFqdVJPYVdoZ2hqeGNGb05uenZTc2lXQ1RoVzV1VXRMa1BVVk1fb21RWEJ2YWVaUHJVTUpHaUZxbldHZVdtRzM0N0NUcmZGd2NzWm9rSi1uNURmdkdKNEdzUmhfb0xRT2g4eE5qb0pzTnVEUmlrVUw2N2gtcWwtRUh1eUVUZk5uazhBLWo0YjVCWDJfUmZNR0t5d2dDSVZUa0Z6dw?oc=5": {
-      "title": "Concessionária pressiona governo Lula contra plano de segundo aeroporto no RS - Folha de S.Paulo",
-      "summary": "A ideia de construir um segundo aeroporto em Porto Alegre defendida por um grupo de empresários e políticos gaúchos levou a concessionária alemã Fraport, que opera o aeroporto internacional Salgado Filho, a procurar o Ministério de Portos e Aeroportos para rechaçar qualquer chance de avanço da proposta. No mês passado, a concessionária enviou uma carta ao ministério e à SAC (Secretaria Nacional…",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.628805",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUR4ZXJIX1laUzNiSGlxSHVmcGhZcjhDeUVpUlZaV19UdjEtOWRBT1JIdWQ3RVNqOFlXY0JYbl9zQ2VRZ1F0Q3I3VnVQY3ZRRnFoVTRVT2tzZ0V0Y0F2NTJJRHU1N2x1YzVmaWF2dkxNdjZpVmUtSU96ZUlpdVIyeWE2UHVYLUpPb3NUdDF5alpsY0NSbDctWTVzT0U4ZU9PWXZpb0VmcU44YTVqZHc?oc=5": {
-      "title": "Opinião | Revisão das tarifas para uma geração distribuída mais justa - Estadão",
-      "summary": "A expansão exponencial da Mini e Microgeração Distribuída (MMGD) – de 1 GW em 2018 para mais de 40 GW em 2025, ou 15% da capacidade instalada da nossa matriz elétrica – ocorreu em grande parte devido ao subsídio embutido num mecanismo tarifário chamado de Sistema de Compensação de Energia Elétrica (SCEE). O mecanismo funciona assim: quem tem painéis solares abate de sua conta de luz não apenas o…",
-      "source": "",
-      "added_at": "2026-07-03T12:21:19.628957",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSk5YTUxINFJMc2t4cmdacThCTEJwbEFDZXVURnBaNkJaM085XzlpYWVwMkFGTklxZ0JNWlE4QjRPMHBqeGdNRUxqeVpYT0g5M1JJcWJ4QV9WcTE1b1prUmNXUDh6dFlWWk9LNzRiLXJVVW1oWVJnclo1VUo1a1BrQXVlWjFxOFV4cGVvZ1piakJGSnE0TC1FYWJYMFE0ZnprRkhselZpQnRscVRQZmJsbGEzV0NqY0p0?oc=5": {
       "title": "Aneel e Defesa Civil de SP discutem projeto para eventos climáticos - CanalEnergia",
       "summary": null,
@@ -4189,7 +4125,7 @@
       "source": "",
       "added_at": "2026-07-16T17:37:58.136960",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenZIa2c3ZFBhRTh2dDBnYWtZNC1VRGs1WnY3REZmQ3cwSzYwZEdac2NTcDM2c3BvU2dOUUFlRWdvbE91Y3h3SWk1bFFyeFVlYWRKWXZRV1l5TFNJVmpzeEFLZ1ZzNk9FSGc4RUhIdXpWcmFFMWpBX3JkcVliYm0ta2RCano1WG1zN2xTS1FSdzV3SUE1dkJkZGFYdmRGUVM5RENvNGlLTHgtblI3cE1Gb2dPZU5iVGRTdG9QaEJtbzF6b09seVhSV0ZyLU5XRFRVVG5R0gHiAUFVX3lxTE1LdWtONEJ4YWk4VGRoVTR5LUZEQmZLczRiUDNVbGhaMlBXM0pqb2lZRGFUbzd6U3FPTUpBXzRFZm85R2JPckgzVnJlWS1JMGZ0cklkVHAyLWNzWjlTTFhNNGltZU50WnFkNDdMcWpKZkNERWVndTdTWWhOdXNhRW1wYllDQmp2QS0tT01xM1dnZzJzZlR0SmdzbjJxSjd1N2tnX28tZUVmQnRMZjA4WlF2ampTS3ZrNnRDSFdhSmRTYThxOFZPdUVGU0wzRWJnemF6RERiNnFiZ2ZzR0pXelo0QkE?oc=5": {
       "title": "Governo Lula vê chance de ampliação de lista de exceções em novo tarifaço dos EUA - Valor Econômico",
@@ -4221,7 +4157,7 @@
       "source": "",
       "added_at": "2026-07-16T18:48:05.187116",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVJucEo0SXFGNl9oWnJ4c0J1eENfM1JaS1NlME1HamlLUHNzTFBRTzhxZVJ4N180aGRpRVhla2JHbW04RGE4Z1F5cDFWRlRsYll3bmNic044UW1qbFd3UnlRbXZPWGxYNjVFQ2doTHBQQ0t5YmlDVlpQRmR0R3oydUpSS3c0c2llYVF0eDh0NVVkcGFYUGZsOGRLRkI3RFctM0VhV0FLR05aUjBJZ3gxTV9sZnU5Rmk4NlhQclI0dk9iQ0paYUU2Sg?oc=5": {
       "title": "Nova rodada do tarifaço atinge 26% das exportações brasileiras aos EUA, diz CNI - Folha de S.Paulo",
@@ -4279,7 +4215,7 @@
       "source": "",
       "added_at": "2026-07-16T20:10:07.132015",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0dXbWpRdnRZaWNMeGRmSXRQMU1QVTVzSEdSZUt2VDF2VWk5UGFMVjIzdXFvc2xkQlJKWjZtZENyaEJGS28xazJBZkZtdkVwQTZ6dTZMQzJ6dEhNRlVyNkZtYlBIRko5ckNmaUYwTDRMU2V0RVp5bmVVcXZ6S3pkYV9MT1JWT09KSEtNdUR0VkJmWVQ5WHFNWFktQl9zbHVSUHlxbkh1WHdDeGtD?oc=5": {
       "title": "Resposta da demanda tem resultado recorde e negocia 344 MW - CanalEnergia",
@@ -4287,7 +4223,7 @@
       "source": "",
       "added_at": "2026-07-16T20:10:08.752009",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmIyYV9vbU84SWhHaGFpd0o3bFdCUEJYQ3NKMWsweGp2YklTeTB2bEJCYV9nMjlqUWw0TnRxWl9OLXhhekdMdFhCWFpZOGU2bWsyOVE1c2RFQU94Vk0wbW4teHFnSDgweFFLa2N2NE9vbFhTWUU2eF91Mlk0T3ZJXzVPazluRXBIa2dhMXE1b3ZTanl0TFZEUnhQTnhQYVl4YWdRY2RIUkJrWE1hRm5rRTNONNIBwgFBVV95cUxPSVZpT09qYXRkN0VPN3VuLWVyZW9xRTAxYUQ1UTBOdG1FQ19RenI2WlNKYVN5ODlaeWRJZU1IUXhjTVJpd1hzMDZoQ1ZKX1RVQWxHV016RG8yYWdESnZyckVzbTNTUWVkYVZXX254RGhBZzFCcVExa1hYTDlKNjRjVVBScFRXU1AweWsyXzBEODVFVUtHcGY0S0E4YUR1a2JYU2JLNkV2S01mZ0JTY2gtb3VEZVlGTjFpa1hlWXRxODVnZw?oc=5": {
       "title": "Fusão aposta em tecnologia para energia limpa - Valor Econômico",
@@ -4351,7 +4287,7 @@
       "source": "",
       "added_at": "2026-07-16T21:42:25.918148",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWUdhTDViVk5XaDhsYkdIY0ZLeXlqOGtlb0FtNm1IMXlJVjY2NWxGZHhQdWFQd25qRDZEaTU4YmRYZHNvZmRuaWZrTEc3TkFvQWU3cmdUZWJHbm42U0R6SnBJT1hwZkNINmxuYjF2UE1jejlZSkY4ZDJfN01mYXlhcFVlOXhyLXZwRmFjUUVSOTNnVjU3UUFPN3ZPei1Vb3d1bU5zaENTblZraTJIcGE1Z1RsT1ZQbnRJcl93ZnROdmxaY1EtdmtZUUVxREhsV3p4MVBUSHNXeGZqYzAwdDBHNmRHOERxUdIB9AFBVV95cUxOTldLeHNKNk5EdXQ3Q3BwbGt6MWZZTlFaQlhkeGtNbzdsTWp2dDc0RVdzX3ZSUjdBQnhDLTB6TTZ6bkhkd0RiMkdBNXdORmpVWnoxZEZHNnB5SUMtQTFHUlNFYjhVelZYbDNuZXcwTDU3UWVkS014V2ZNN2w3Q0FWdW9Ub29ZZ0JwTjUyZTNVQVNzZnNieC1SOTdEMXhNSGxiWGFPUVZEbmJjbGd4QUV6aEpwWUpsRFpJWkYxQktlSkZsbTZ1LXU4RWxXVTlISENfSFEtS3BOOEtla2tGaGRWcXJYVENnTl9acjgxckdnYWFBWU9C?oc=5": {
       "title": "Galípolo: Criticar o Pix é como dizer que o saneamento básico prejudicou a receita do caminhão-pipa - Valor Econômico",
@@ -4375,7 +4311,7 @@
       "source": "",
       "added_at": "2026-07-16T23:09:31.499981",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRWQyUnpSd2d1SWZoVzM5cjVlQ01jRjVEWHVBQklRenBWbmJpODJRekh4ODdjMnQ4TlZmM05ySXdTang2LXpPN0ZscTdmNzgtRVZlUW5NQURwVzdmUjFoV05YT3pGWEdsY254eUwzeXpxLV8tNHdNYWExWHM3M1hFLVJMWk9CbTVoNWJJOFVwQ2hObW9HOFBCUU9kWC1IVnkzOEQ2ZFBCcXFnXzktaGJrcE9aTkx4aFBVeHZlRmJSVTRBOFd1Tkt1dUtGMWZXMDRnakh6ODNZQTBxUEk4Z3dSQ0xreE9RYm8?oc=5": {
       "title": "Painel S.A.: Empresas de energia estimam que jabutis podem adicionar R$ 60 bilhões por ano à conta de luz - Folha de S.Paulo",
@@ -4413,7 +4349,7 @@
       "source": "",
       "added_at": "2026-07-17T03:33:50.275080",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjdKWjdKdEtjWEh1bVg1eVp3YVAtdGJrMnliSWsyVVhUVGNmM3Y4SjVzcWtlZHdmRE8tNjlNN2E3dVB1ZUNiWVlNMWRGelBuUzhkaWRORVB4LWZ1RWd1bEE2S1NjM0gzamJTTGI5REt5T3AzZDlqNzJDLTN6ZVpCZXNfU25xczBUUWZON1dFZG05UWtUQllBMENUTXE3eWNQSW5rLUhtWDd5aW12cTRXdEU4RUVHVDhqWlp0SzdLS3M3VHBzWFVQeHR2MWLSAdsBQVVfeXFMTlRHWnJWRmNfNlJaZFVGdnJDYVdQa2pOLXhVZjhZd0NEUnRwOUY1dmpZU0JYYURPWHpITmtxajlCSEhJem5ldnkzVGs3MWdCLW9EeHVDUjZPY1R6eGQ4dEtMNW1tQTBZdmFnMVhzMmh3TVRqREJ6MmJwZ1FoRVNlZ2dSZEI3UG9wRDJqa2w2cVR4TEIxVjRXaVFjaGtfWHk5S0tYRE9USy10ZW1hRExuMXJsd3d5MXdFa2N2cnFQZjNuMnpsVXRDcUhVVDJIREdLakh2eXdmYjBwSXVV?oc=5": {
       "title": "Novo tarifaço de 12,5% pode ser decidido nos próximos dias, diz ministro - Valor Econômico",
@@ -4449,7 +4385,7 @@
       "source": "",
       "added_at": "2026-07-17T11:39:20.595922",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjRsQ0g2V0ptSW90VVhDbTFXajRnU3BUS0pZUDBoanlXTmdGendQckMybk1rcnJUT0FPc1JfYWlsUzRwSnRQTUxyYWI3ek1zV1RJQ01ocDlBSGhnU1UtZFB3dUltMWtMaHhMU0RrQ01UNDY0Q3pGX2I3Y2YxYkhjYzc2aw?oc=5": {
       "title": "RENOVA ENERGIA S.A. – 1545371 - estadaori.estadao.com.br",
@@ -4457,7 +4393,7 @@
       "source": "",
       "added_at": "2026-07-17T11:39:23.666066",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMmxhRktvMFJ5UlFuWUF2c3ZibmZyT05KMUUza2NXTW9Hc0cybnJhQzVwQ3JFeE1LcDhZUjBSNW9PSXlObzBMNUxjOTdoenlYR0hHRGVxLU5Ic0xVQ1o2WFU2WHlnSnBuSlV5Vm1WdEFNeW45LU9PRG9TcWplU2lWTUppaUlQMmp6WGlzX2FRdngzdWZIcEp4ZWtwX3R1d3NUazZ4bWtEUGtVUXVFWGxJUGY5Ny1EaGFDT1JIVVByTUQ2Z0oxdVJnNWRtaGRlaFloZ3BDcmE4dnZ5U3J0cUxDcVl2TmZvdmxTWjBmZl9LTXdaUdIBgAJBVV95cUxNZU1UQ2s4QVVQd1V0ZGR1Zl9GNjhjbFlfdGN0VEhFMy1USGdQTWw2Wko0OEVRVmZoOUlPZ1Jwc0RhbmNoRFJ2ckZYZ0ZScjdNOUFrMVh4RHBldWpJSU82Q3J6NVhYeEVPN0FuTnVicEgxZnZOcFRlRG1Ic0FsVW5BYkVwbWZVSDk4elNjX1VUTmFPT2p2c01KVXYwWjNCWmRWWXJjczhUMHU3S1ZZMF9NS19hdXJiWWlUVXpWYnlYejN6ZDdoRzFVa0FvZGMxX1lKLUliRmpqTWJVLVRCSVVHQ05yQVRZN3ZRUVppQXhHVGlfUE9KTGlEcTRydWVvTllu?oc=5": {
       "title": "Eve e Hitachi Energy firmam acordo para desenvolver infraestrutura elétrica para postos de ‘carro voador’ - Valor Econômico",
@@ -4465,7 +4401,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:07.233582",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2JkXzBUUFY1RlRDU0NOSTA4RG5IX1pKMk9DYy1jM0hKZjl3M1RFLTNDTTVtck5PUl9RQk1OS2c4b21MbVc2cjhMZWQ1U3k3c1BuMndtR1EwUkZRdUtLUWI1WGFvZFBpeWNmc2RVdVVEVUNzQjR0MU1xUkRyck50eFg0WWpCQ3FJbVRzckRUQ3NZdVMzcjFYWGJlSnZGUE52M1FuQldlVVcwQjZERG53eEhVSVNxV2c2WFNEMnhqVGl3TXfSAdIBQVVfeXFMTWd5UEJYZXNELWh0TG9HdEVmbzJpTjQwX3BObnFVNlpXTTVQTHhpSnU2aThPQUZMRmJmNWwxWEl3alZIN2ZtV1dNN1ZYZmZfdUN4T28zWXcwdlRBSWpQcGNwVmd5MTdpQk5CMUN0MjlrLU9Kck5HNUdvYjdNU0U2LS1vZTFGaFJnY0pha2ZpMkdiRFZMS3lkSjhzT01HS19rSTJOTFoweGlLYTBkLWJaUmlTTjR2RmZWTHptdGpGNDkyemhteE9zUEZaT1BHSldfNjVB?oc=5": {
       "title": "‘Boom’ de inteligência artificial alimenta IPO de empresas de energia - Valor Econômico",
@@ -4473,7 +4409,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:07.233628",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWZ3YnFtSDdZSEFKSGFHRGJJUGZIcHkwZWU5Xy02b0lFN0RjemVDdmpNMWpsSGpKLXBBaHpNNFJyR0tyRHJ3UUd6OG8zOThjWmE3cVNXQXI5UlBHWDBSUkdfY0xsaFRxXzhoOVhSVjFVVTRQZld5VlVEOS1CNlIzMlhFWWN5Mkc1TFFPTjd5NHJvcWdLN3VrU1BDS21FWUdnM0FzWFRlYUVPR3pvS0ln0gG-AUFVX3lxTE82TU0yZmdxYk9TTG1GVEFSenJ6OUgyWTRsdVZrTG9VZk9mRVRTdFBEbTNXc1gzSVYwa2QzNGZqZXJEbGluc2YwUUVza1dDQjV5RDV0Qm1LMzFSdU42MmpjQ1gwU1Z2d0lJMEloUTkwVk1DX2dGZDRBbzVQc3FTMTBpcFgwRzNhXzVJVXAyMWp2SXRvQkpwTTVfdmdpeHNGRDBlRm5pZVpsaVhYY182TGRYNGlmeEkyeTQwa1h3YlE?oc=5": {
       "title": "Brasil testa redução paga de consumo de eletricidade - Valor Econômico",
@@ -4481,7 +4417,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:07.233653",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdFF6ems1dVZCc2VtNjl5TktmdmFzUEZteHNOa2FEVkFERDNhNEF2WXVQMVlrX1lYYlFocVNodE1EdDRqaTNlcWVhNVMtakdYZklPQTRVb1hNTDhqWV9DM2NzdFFmeXhMY2liZEE1ZkVyZml3MXNtQ3dwOTJQUzZHQmYxWE81a2Z2Ul9odW9ZVFU3V0N0cFlmWDRVZ1dJb0xBSlNqSmJnN3dFaVZpNUZuNEUxQ3BFSlhkV2xENV9McWJod2xCeEkwbk5Ca3A3Y0M1SDc3d3g3R2s0X19zOFRsVw?oc=5": {
       "title": "BNDES pede R$ 7,25 bilhões à Fazenda para reforçar socorro a setores afetados por tarifas dos EUA - Folha de S.Paulo",
@@ -4489,7 +4425,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:07.233822",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUdsVWlZVmxhSUVHWk96aUE0cWZFaFNDVUpWLUpwelRxSnQwVl9PMmhwWU5BeU4zcVZ3eWtLMUdhT1B0dDVjVmkyV1JrS2NZSjRfM09nc2x6aUFmMEtMeDM1Yy1UekdQTTVyd2NxZ2ZOUk5XNk5tbFIwMGYxZ3dRYWhJVFFBVU9fM1VBeGJuclRFX3o1RG04dmo1OW0xZTR0UFpRaEVvNFFTaUpGVVY2NEprMlpUWUJKZW0tOXFFTl84U2l4V2NWUjZPZldlZ28?oc=5": {
       "title": "Enel troca lâmpadas antigas por LED de graça na capital paulista; veja como acessar - Folha de S.Paulo",
@@ -4497,7 +4433,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:30.950115",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vVG5aTGFOTXRBVEgzS3dDXzdIT2dCUnkwR3N0R0ZsdHkxSGNYSEFLU0dOSGNNYUpLOHFGdW9nR2pyYXk5VE5zYjFoVk1JVW5aY2h2UkMwMVhMbnozVnlHY2JkWWxKaldsalFKNEIxLTN6a1dVVTZMWDhGZzBmXzQ?oc=5": {
       "title": "Empresas de energia estimam que jabutis podem adicionar R$ 60 bilhões por ano à conta de luz - UOL",
@@ -4505,7 +4441,7 @@
       "source": "",
       "added_at": "2026-07-17T11:40:30.950176",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlVYNTlFN3J6X0JCOUNpTy1WVlFDVndzQ0pERll6YV9ubFJUc1h2a2Vnek1SbTAxcE9vWDFhUjQwZXNySkdDRGNfNVpVQ1owaFRpLTM2eHFrVlhJRXlMbzJWeWNJNjZEV2I2eWxaVm53cGZNN0VnRm9NZm4tMlVXMGF5b3B6eXJCNDMwRW52ZlNKV04xZXBUdWNubDVDYktCTTZyeVB2aEtvVm5hMlMxZ1NiM0hYOUtXY1VvcmhLXzBGdnl3M2tv0gHMAUFVX3lxTE44UnR4V1o2QU1rQVpJbEY4WldlN2I5dzdDd3ZlZ2lYdEVrOTQ1MkFUcjVmTEFSYXlFQ05JR2F5anBvM0hXVEZ4eDFHT3QxQkZvSGpnQ3hzLUktUmNQcXZzWTRqVkFPYjkyMlBlY1AzSThQWlZEN2VUSUZWR1RSREtaNkNBZnZ3SUV4bWpSWGRKV1hwMVNiQy1uSWVPcENCaURhWTlPYjZTY2VuRW9YZ0tGVTJyUm95YllzVEtyVWJOWWRibFpLX1VXelQ4LQ?oc=5": {
       "title": "Ibovespa hoje: prévia do PIB entra no radar, com tarifaço ainda no foco - Estadão",
@@ -4518,6 +4454,90 @@
       "summary": "A **ANTAQ** propõe subsídio cruzado entre o Porto de Rio Grande e a Hidrovia da Lagoa Mirim no **Rio Grande do Sul**, com **R$ 134 milhões** em Capex. A tarifa no Porto de Rio Grande será **10%** menor que a atual, com consulta pública aberta até **15 de agosto**.",
       "source": "",
       "added_at": "2026-07-17T11:40:51.699613"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR0s3QW1vamoxekZ4bkdnQjFoZWpSYVZ2SmJGaF9ZX2hROTFJRVgyd05BRHFjbkJOeVpSUWt4VXYycGFFeXdkcC1kMFFPa3VCTzZOUW13SVFCcUlXdzkxYmJpRFlVX19VU2dLQmNkOER2RTRIcGIwbzlNY29EN1JsaWp6ZHRwOWlael96aDVYNW9XYkZ6bzhPXzJhcUFNSnZyaGNiOHFfTzdGRTNQU1BoMU91QV85WXVuTmNlZVNKaEZxMnpoUHVR?oc=5": {
+      "title": "As lições do ENASE 2026: quando o consenso não basta, a governança vira o gargalo - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-17T14:00:04.126660",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1VhTUlNTjVRNExjQXphY202cjN6WEhVcDdVeXJudlUxRGxRRUZXbmlGVzk2cjFXQTcyeEJVOG4wQlo5cVZReGNKdTZaU21CbjFURkx3OWhhNTlzMFBDZzJHdEx1bnlVWkpSSk5FdFcxV0hmU25iZ2lpNmF6RGI5RTdoWVAyXzlSbnRkWV84TDVCNW9GVWFvOWtVb0w1STNRTXRBWU9BbmhOUWw2SURVdjBPeGNJMGgyb0E?oc=5": {
+      "title": "Hitachi e EVE fecham parceria para eletrificação de transporte aéreo - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-17T14:00:05.854624",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSG9VLTd0bldmUmtyRGJTdC1ScUJWUnRVOGJwSXI2eXE1NEpQdkpfZjdkZ3pSZjUwZzI4MXc5RklOWGkwaHpZYkpOOHpSNkc5NmRpMWptOGk3TkJGLUhQSWR3NkJYaFk3S21VWXN6RFZtOVkxV3dsVXRkS25aUjVNczdKN3gtOWlIYU9WeXFWWkItM05pNUdiRE9zM2xBZUg5cTAzOG41eHBOb2VLVG5saHpFdDMtZEFveHAwc25IWHRZOFIzcTVBZG91S1VzdW5UcmxoMm9DSll2TEZtT3dTODN5RUxfd21iSkxpcjZaTlVkN2c0ekxFdlRfUGRmWWZ0V3JVWmlHWnoxOVNPa1BzM9IBnwJBVV95cUxPV3pUQWRsa0FRRjJtZ0drOUY3NDdOQ1dtZFlHSzMxY0dqZGU5T0p2NFQ2V3ItSGsxNm5neDQwNFR1V3ROTkJtOTNseTYwX1pYVlQ5bDZuYXIwTzlvZE9LMks2aHhIY1hydUdES3lGNmppM0hhTWVZTkRKVnc4UU55X2V4MHMxWG0xZy15cTU4WEd4UUVRaFAxMTMwclJwZ1ZqMjBEUnVOYWY1MWRabXliVkd2SHZsYXhyck5GTWFhUExtTVhTeDRraS16bWQ4bWRqTExzTUV3MloyTkRzMzBtbWpoT09PWm40bkJwSjg2ME9TZDd5VUlzdGdmT2NNRzNfSkxkM0VLZ05JNno3UXdmT3RSekgxY2l0eVh2MlhIbw?oc=5": {
+      "title": "EBS – Empresa Brasileira de Saneamento LTDA mapeia o avanço das concessões privadas no setor sob o Novo Marco Legal - Valor Econômico",
+      "summary": "EBS – Empresa Brasileira de Saneamento LTDA mapeia o avanço das concessões privadas no setor sob o Novo Marco Legal Empresa especializada em soluções completas para saneamento básico, acompanha de perto como a Lei 14.026/2020 redesenhou o mercado de água e esgoto no país, atraindo capital privado em escala inédita. O setor de saneamento básico brasileiro vive o momento de maior atração de capital…",
+      "source": "",
+      "added_at": "2026-07-17T14:00:54.450737",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWNlMGhHdUJTSm1heEhTUDR0NGxQbFlIdEFSYno2cVQtUlJFNlJhQ1g3ZFpFN052MXN2eUVuZVY0LWdZQ1hwRTRzVzBJeGs3N3QxanphdkhVUXpfRldwNktaeXJ0YnVOa3J6N2h6TWlOOUN4ZHVZb3ZuR1Rna09SQTFBWEZGSWMwWmkxUGRpdUJnT0ZKT0lfeEx2MnZRdjViTjdSRUh3aTRNck5LbE1MckQ4a0VKejNLdzdkcjN2WWVKcjlRWFJoZy1IY1czYjdYc0lGektvV1p4Mk1Zc2lRSlQ4LVBBaFI5MzBmdlYwSGFZZ0Nf0gGDAkFVX3lxTE1yZi1JeFdqeUtlaEpIM0xfcnFPa0ltU0RfNy02ZGpxNHVnYlU3VlRfWTJKYXBTc05VdWFVdHpEWkxwWmY5QjJkclNQNU9UWE8wN1JianE2T2x1dFk0Q3dYalRVVUhQMFJwQjZmNWhra2ZQd1FCbS1VTlZrVzIwcTJMOEJlUDYtbUF4X0JuaWYwMk82T2dSdGR2X25LWVVWZ0ZteVNxUmR4TlJTTDVwRDJhNFdBSEdDT0YwbmlWRkthc1hrOWpfTGF4VUI2WDhYWTA0T2MxTjlpSGUwT0JLcWJWZFkycVVVLWhSR0RMMDR1ZURmdmd2TDJmNFZ2cGJ0RXEzRFk?oc=5": {
+      "title": "Versa Engenharia Ambiental amplia atuação em geração de energia a partir de resíduos sólidos - Valor Econômico",
+      "summary": "Versa Engenharia Ambiental amplia atuação em geração de energia a partir de resíduos sólidos Especializada em soluções para coleta e destinação final de resíduos, a Versa Engenharia Ambiental já opera com aproveitamento de biogás em aterros sanitários e gaseificação, tecnologias que ganham espaço como alternativas de energia limpa no setor de saneamento. O setor de saneamento básico brasileiro…",
+      "source": "",
+      "added_at": "2026-07-17T14:00:54.450954",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVVNJbWgyb19BUWJZc1JVeHZ5S1J0NGlaWFN6MDRuTVkxTDUzcjA5ZjJJbDJ3MzMwdUQ3NG0xd0dDMXA1VnJGWVZWTXdCYjE4a2lPQ251S2hhR2NwaUk4VjN4UTZLU0xKYjhrY3pqWlJLM3BlcWR1WjZlUm5PWTdvSUptSmRweUZCcVNkb1hJTEU1VG5FXzZtSGp0TDFOVkRVMEgtSjJwV0E5VjFsdDMzbXBPdWJCM1AtMTF6VzFIUlNkcFNQOUVhOEwtZG5WY2pYSEgyYTBvMkN2a0ktcGI3UDljTF9CTjlNVm1jbjdrODhjZlhXWkthWnhuMzNUZUtVdHZjSlN4X1FuU3NKUVBB?oc=5": {
+      "title": "Huawei lança a mais recente estratégia de formação de rede para sistemas de energia futuros no The Smarter E 2026 - Estadão Blue Studio",
+      "summary": "Huawei lança a mais recente estratégia de formação de rede para sistemas de energia futuros no The Smarter E 2026 AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 17 de julho de 2026 Na Europa, a penetração de energia eólica e solar deve atingir 64% até 2030. Ao mesmo tempo, o sistema de energia enfrenta desafios – como a redução da resiliência da rede e o enfraquecimento da…",
+      "source": "",
+      "added_at": "2026-07-17T14:01:10.731192",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXlZZXQwal80R2pNd244ekFWdU5hS2FpMzlleUx5Wno1M2dJckw1NDhoNjFGSzRGVlJOSHpCRG1BbVRxVWFLa1ptUXdIN0Rqa21FRFZqSVhaem1SMjNUNzRnWDFjTkE0ZlhFSmlJNEx0Z1VLWWRYd2R3T0tCNjVRSlNvY1ZnNFBrOERwOVJiZFBQekJrQkJ0S2QxWGp5SEpweVE?oc=5": {
+      "title": "Geração térmica da Eneva cresce 46% com maior despacho no SIN - MegaWhat",
+      "summary": "A **Eneva** viu sua geração termelétrica crescer **46%** no 2T26, impulsionada pelo maior despacho no SIN. A geração bruta total atingiu **2.537 GWh**, um aumento de **35%** anual. O Complexo Parnaíba teve despacho médio de **47%**, gerando **1.288 GWh**.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:40.861814"
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0dXblNHdDg0Qzk3aGpMUEJqUS1jZFpWdG96aWlnQWVOUUw4RWVLV0xILWFTeS1qTWRnZ0phVG01SXh5OHJQTDhtLUdGSy1yUUJ1dWpPUS13ODYtNEFIU3M0QllKSmVqU2JtZUJOUDh4bU1ienVFMDNGdWxPUFZKc0dmM2ZBRHI0WXZPeVB6VGxVOXpyUFdLMmhFZkZhV3VxUFREM0JsVmpVRVM4SDg0Yk9lejcyTHpFX1RtQjByck12RG9QTzB6RUtxcWRkVGl5MXhKTQ?oc=5": {
+      "title": "Danilo Forte vai relatar PL sobre energia para data centers no Norte e Nordeste - MegaWhat",
+      "summary": "O deputado **Danilo Forte** relatará o PL **490/2026** na Comissão de Minas e Energia, que visa incentivar o fornecimento de energia limpa e competitiva para data centers no Norte e Nordeste. O projeto busca estimular contratos de longo prazo (PPAs) e priorizar fontes renováveis, com foco em usinas eólicas, solares, biomassa e PCHs.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:40.861851"
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2gtOHI5RTVHRUdNNzZSekpQY0hKU0o4bjBTaVFDUkk4emlqUFVWNWF5Qk5tb0xSVnpJM3lWbmJFZ21VaVJGUDE0UDNhcjIzX0FqVVVqaTBMeTIxQlotMTJWQmlKcXBBdlpMdzRHWmJnUFM2X3RTbzViWTVOdDg4UDU4VHlXZHp5Sm1WaFVWNDc1eV9nUmtrZTFFOS04cEQzaFkyeEY3eFZ5ZWg5ZWIxUk1ONHY0Y3AwQWNwQm9B?oc=5": {
+      "title": "Cobra fecha terceiro acordo para entrada de varejistas em solar no Piauí - MegaWhat",
+      "summary": "O grupo espanhol **Cobra IS** fechou seu quarto acordo de autoprodução com redes varejistas e uma mineradora para o Complexo Solar Lins, no Piauí. Quatro redes de atacado e supermercados (Atacadão Dia a Dia, Comercial Zaragoza, Dahana e Multi Formato Distribuidora) consumirão energia da usina solar Lins 05 (**100 MW**), com operação prevista para **2026**.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:40.861860"
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcWJya3R6Q0lXamg2QW1Cb0QtTnZKaUs4UFZBa0NGZm4zWUo0U2RwaUxKTjVFR1ZUbmU1QUVXUC05anpmMXRUTDR4UHdtVVlNaFhPNlhaYU54eWpiRnQ3OHo1ajlIWEJaSnprazJ6cFJfSFo1QTNKbUJTSHVHZ3VCM3V2dUZpWHV0Smp5ZUNvVFFmM3hMenhuazI2M01BZE5VU0ZxeHJGYWd3VGUzY1BvZURxTnZQSzIyQmE1SGx3?oc=5": {
+      "title": "Cobra fecha seu quarto acordo de autoprodução em Complexo Solar no Piauí - MegaWhat",
+      "summary": "O grupo espanhol Cobra IS fechou seu quarto acordo de autoprodução com redes varejistas e uma mineradora de 2026 para o Complexo Solar Lins, no Piauí. Veja as outras operações no final da matéria.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:40.862046",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmpYdER6UjJ1RHZueWppZE1RbXh2dkhSc1B2MkREdzd2SGdEemFyX3EtX004eTZQVXFsRjA1OUVIazRLOENLUldHdG0yc0RDdWp2cTIxRDhyaURINHY3TVh0VV91bl9NZ2tDNTlqXzdJVTNCNEs4WjhwekVrdmN4ZkVicHFHU2RSdGwwTWg3OHJaLVl3ZGswNWphOE9zRUkwS2N4YWdVbEMtYWZGYU9NeEs2SEYyZGhfT3o5N2hyeE8?oc=5": {
+      "title": "Engie destaca governança como marca do follow-on de R$ 8,36 bilhões - MegaWhat",
+      "summary": "A **Engie Brasil Energia** concluiu um follow-on de **R$ 8,36 bilhões**, o maior do setor elétrico privado, destacando sua governança corporativa. A operação envolveu a emissão de **274,08 milhões** de ações a **R$ 30,50** cada, com a **EBP** subscrevendo **R$ 5,74 bilhões** para integralizar sua participação na hidrelétrica de Jirau.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:40.862063"
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaEZYeDdLbHl5VktFU1dEbGlZTmVEWFE4RERiYXFPMXV3VG5hUlJRMHRYbkNVXy0zSGJLcE5Tdk5WRmpiRmROYzVYTVZYOFNpRnc2Z1lqNDRuS3JiV2VVZ0FxYmxzYjU0bG1ma0x3Y0Nqc1JjRGRHZ0JIbG1PN21zRVFPdjJzaTc0ck5XMGF2RjBoR09uTVdNZW1sQzR6ODZrS2JyamNNNC1oblJu?oc=5": {
+      "title": "Brasil testa redução paga de consumo de eletricidade – Edição do dia - MegaWhat",
+      "summary": "O Brasil está finalizando testes de um programa de redução remunerada de consumo de eletricidade para grandes consumidores, visando maior flexibilidade para o **ONS**. A iniciativa, chamada 'resposta da demanda', ainda precisa de ajustes regulatórios e de um sinal econômico mais forte. Paralelamente, empresas estimam que 'jabutis' aprovados no Senado podem adicionar **R$ 60 bilhões** anuais às contas de luz, totalizando **R$ 2 trilhões** em 30 anos, devido à inclusão de termelétricas e PCHs.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:50.808696"
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHJ5LVM3OGR4V0thOHdxTmp5WTk5NGgyTXNXVG5OdHBkRkNWM3Y4RzIyNm9mUXRSellXRDExajFHY19aeERzMlluX2dsYmNKVVloTUFOSzVfeXdLMS1iYmFwX0E5dXRud0hwc1dWTFFNQ3J3cDA4eVVVMHlYZ1gzaGQ5alg1VEpYWWMwVmg5U1BZckpPV0xHLW50aTdiVXlmZHBKcFl4ZUlZTDh1Vjd4ZTdUdHE3MVphbi1wSkQ0SXk2Y3Q3Z2lXLVl3?oc=5": {
+      "title": "Hitachi Energy e Eve Air Mobility desenvolvem infraestrutura para eVTOLs - MegaWhat",
+      "summary": "A **Hitachi Energy** e a **Eve Air Mobility** firmaram parceria para desenvolver a infraestrutura elétrica para vertiportos de eVTOLs, com foco inicial em São Paulo e Nova York. A **Hitachi** fornecerá soluções de eletrificação completas (grid to plug), enquanto a **Eve** integrará a infraestrutura ao seu ecossistema de mobilidade aérea urbana. O valor do investimento não foi divulgado, mas a expectativa é de mais de **300 eVTOLs** operando em São Paulo nas próximas duas décadas.",
+      "source": "",
+      "added_at": "2026-07-17T14:01:50.808733"
     }
   }
 }
