@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T17:19:44.418194",
+  "last_updated": "2026-07-17T19:22:58.956049",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1480,6 +1480,14 @@
       "start_date": "14/07/2026",
       "fonte": "MME",
       "sei_processo": "48360.000126/2026-69"
+    },
+    "noticia_2026_bandeira-tarifaria-aneel-divulga-calendario-de-acionamento-para-2026": {
+      "type": "noticia",
+      "title": "Bandeira Tarifária: ANEEL divulga calendário de acionamento para 2026",
+      "date": "07/01/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bandeira-tarifaria-aneel-divulga-calendario-de-acionamento-para-2026",
+      "summary": "A **ANEEL** divulgou o calendário de acionamento das bandeiras tarifárias para **2026**, com as cores sendo anunciadas mensalmente. O sistema visa informar os consumidores sobre os custos de geração de energia, com a **bandeira verde** indicando ausência de custo adicional.",
+      "added_at": "2026-07-17T19:22:58.455775"
     }
   }
 }
