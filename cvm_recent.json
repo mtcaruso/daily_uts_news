@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-17T16:57:09.423530-03:00",
+  "last_updated": "2026-07-17T17:43:56.304584-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Relatório de Agente Fiduciário",
+      "especie": "Relatório de rating 24ª emissão -",
+      "data_referencia": "20260717 17/07/2026",
+      "data_entrega": "20260717 17/07/2026 17:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Relatório de rating 24ª emissão",
+      "protocolo": "1545940",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545940",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-17T20:43:39.283016"
+    },
     {
       "cnpj_short": "00382-4",
       "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
