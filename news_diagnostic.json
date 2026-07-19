@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-19T16:33:50.493757",
+  "last_run": "2026-07-19T17:39:37.113458",
   "source_counts": {
     "Valor": 0,
     "Pipeline": 0,
@@ -13,6 +13,6 @@
   "all_items_total": 4,
   "pending_count": 0,
   "done": 0,
-  "pruned": 0,
+  "pruned": 1,
   "fetch_fail_reasons": {}
 }
