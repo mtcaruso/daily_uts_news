@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-20T17:02:13.158325-03:00",
+  "last_updated": "2026-07-20T18:21:29.153195-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Resultado do Leilão de Frações - Conversão de Ações -",
+      "data_referencia": "20260720 20/07/2026",
+      "data_entrega": "20260720 20/07/2026 17:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resultado do Leilão de Frações - Conversão de Ações",
+      "protocolo": "1546337",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546337",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-20T21:21:01.157590"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
