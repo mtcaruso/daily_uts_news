@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-20T09:38:16.417901-03:00",
+  "last_updated": "2026-07-20T11:54:17.268427-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Encerramento de Distribuição Pública",
+      "especie": "Anúncio de Encerramento da Oferta Pública de Distribuição Primária de Ações Ordinárias -",
+      "data_referencia": "20260720 20/07/2026",
+      "data_entrega": "20260720 20/07/2026 09:53",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Anúncio de Encerramento da Oferta Pública de Distribuição Primária de Ações Ordinárias",
+      "protocolo": "1546156",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546156",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-07-20T14:54:05.648861"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
