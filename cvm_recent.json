@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-20T18:21:29.153195-03:00",
+  "last_updated": "2026-07-20T19:27:48.599854-03:00",
   "items": [
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Boletim de Relações com Investidores, base Junho 2026 -",
+      "data_referencia": "20260720 20/07/2026",
+      "data_entrega": "20260720 20/07/2026 19:12",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Boletim de Relações com Investidores, base Junho 2026",
+      "protocolo": "1546398",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546398",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-07-20T22:27:38.900227"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
