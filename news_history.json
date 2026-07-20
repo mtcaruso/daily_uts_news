@@ -1,158 +1,6 @@
 {
-  "last_updated": "2026-07-20T12:26:48.602966",
+  "last_updated": "2026-07-20T14:55:27.669780",
   "items": {
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGY5ZEF1UVpabjgyUWc1d0pfNEhNMjFscllWOE5HMmtYcmNOeDczRG82YVJ6Ti1zNWpFX0RTMUNLd09nRjAwb3hJR0VFUXVnWkRRZm9BdEpxb2Zrc0c3RF9wNkVJTEhRZnlsSDFDOWVkQTJDSlRzVzZZcFhSR3ZoMWxGN1V1TWlEM0h4M1RlR0Z1djVCZUI3Z013?oc=5": {
-      "title": "NT-ONS DPL 00572026 EPE-DEE-RE-067-2026-R0 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T14:01:22.507134",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3YtOXh2UlZOb29jS1NvcV9GbEZtSnN0MWVzWHZlNzhnWXBLMksyTW9xbUlPZDREOHM5VGxsWE1qWk1ON3pUVGN3djVkU0tHLTdCZ2xfTWpaS1N1TWgyWUVETHF1Vk8wYmswQXR5em1yTTMtRGd0Tk9JaEZGNE4tTHZ1YW5tRFdoU0ZzZUJrNkNKOTV2MGxkOWNzU2hOaFNuZHQyWjgyVmE2YWZ1?oc=5": {
-      "title": "Exportar para aproveitar melhor nossos recursos energéticos - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T14:01:24.189409",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHU5Vm0zS3A1d0pUOHVtMG1MN0pkZFJrOTIzUFZzbjVvWTdlNjRLYVJuVklnZVBQQ1drbFFIZGk0OWJTVWN1anJ0c0lfR0ZmQjZqejBvN0Rva2t1LUVtRk1HRmljdjFyOEJCQWRCVkFIQmE4c3JJRXhlcDNMdzZfYnJlY2pkWUZudzZsYXNvMmRmZXlTemlsQzlvd3NHUmtnNzRGSXhocWV6dHVadlMyRW5XdGJKMDNKbE8ySk05ZThER3g3eUNxX2RyR0Y?oc=5": {
-      "title": "Parceria com Cemig SIM trará economia de mais de R$ 34 milhões para o governo de MG - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T14:01:25.897320",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY25SM09BbVRsTlpSRDZOeHR4b1p5LWt4amdOYjlGOTFNZWFZLWdwRzRTNHEyd29xUGpWd2NpNHA2cnpEcXVSZUd6TmJJQXV6Nl9LSTlkNFM1blN6NW5Wbjl5M1htYjI3bTcxaFJzU3E3MFNDc0pNcTJKZ0RnamtMcVY2WmJ1MlJOTXRnbXl3cUt4MDV2?oc=5": {
-      "title": "Na energia, um momento estratégico único - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T14:01:27.574822",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56TC1nZHZ5STBmZnJ4NzRQVUdNMTNlbnJxVXQyemJmOUd6VXVPSFh6OGNfaGlrc092NEJyWFFaWnVzQzlGbEl1dE9zYTZTRnpNZXRqaGdsR1lMSmFaU3pzdVZ4alo3YVpo?oc=5": {
-      "title": "Tag MME.Energias da Amazônia - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T14:01:42.699927",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbGRKLVhyRHVJekZ1V1QwcGlNLUdObE5HZUlQMWRWMjhDZVBZSjNnamFSVjN3TWFXME0xRDN2cDFrdzU2OERKcHdyX29FQXo5VGFxNGNPenNMMWZRSER5akZjdXBITUYwOE91TDlVSHZUcEwzNXVTQUQtS1UteHpVWS1FYkJtR1NaNVRlWlpFOW5od3pMWXJTem9lcWZqS3FwZF95UmRRbmp3VVJfZVI3ZG5VZ3kyU0dQZXZ1UTFxSW9FMF9RS0l6RDlLMlZEQXBaODBhS2cyQlBMbFJXdHh1TzM1Z09aemllWXfSAfgBQVVfeXFMTjNDc000NDV5Ym1SZjhrdFREVmlsVHRKcGxaSTUyNEdBNk96aXMteVRTdGNCdVFEZ3dVSGlTVnlWOWxaZ1FqYm55TDdOQUtRLU5odTN5dGpjMmVMRldyRF9obU9WaE5sLWxZLWxtTnpJdldjY0NHQTVVV3MwSWtya2tsakxxeWZ2NnlRUjZEVG1EQTQxTE93VlRfWTkyaU5qWkJSRFRxeHo0cVdQbHRXWlZ4QWI2bG53bnlVdmltTElSeW8zMnJRVGhqSnNTamZLMFVQLW9MaTMzWmppRF9BUlM0LWUtWWFIQTE4bEJ5ZkNqbjJuc2FNY1Q?oc=5": {
-      "title": "Engie fará oferta de ações de até R$ 10,5 bilhões e conselho aprova emissão de R$ 700 milhões em debêntures - Valor Econômico",
-      "summary": "Engie fará oferta de ações de até R$ 10,5 bilhões e conselho aprova emissão de R$ 700 milhões em debêntures Preço por ação da oferta deverá ser fixado no próximo dia 14 de julho A Engie Brasil Energia informou nesta segunda-feira (6) que protocolou junto à Comissão de Valores Mobiliários (CVM) pedido de regisltro de oferta primária (novos papéis) de 178.718.109 ações ordinárias (EGIE3). A oferta…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.866692",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMEFUTUF0MVlPcTJoZ0pGSWc4RktlN3JrV09fMTNNMUs5ZC1yVUMyRnVLUDZoQlJhRmdIRHdQby1seS0wYWgxSzluZGdEWHJjRkQzbTVOaW04WEFwRFdNRkZGLXZSbHZGN3k2YllVNXExeDVFWXdXdEMtZmlZeWFOVHBTY2w2dS1meDF0MzM2LXRKQVdTZURlcFpxUWMzOHZBSnhycWRBajFLYXZLQk56QmoxYU9kTWQ3UkpadElEMkJVZnh2TURkME5RZUxIR0HSAd4BQVVfeXFMTzdSSGh6bHVWYTNnYlFZU1IyWi1Xd1J2U3dqSjcya083bi01T2RBWDJkQWFWWThza19wU1BoQ21PTjQ0WVUzbDMydjZMN013aDh1cG1TRHNja1o2VFo4RTl4Q2hrN05yeWpWQjltOXhLQ1ViY0tsa1Z1NklTdFBrV00wbmFvWmM4a1ltNU1Rb254OTdJMnBmVjQ1YXI1WjlTQWpTYWNNLWxYVjQzOXVGMmdsenpLRzhnWmFfV1Z2a21rX3FWNEZFMV9vb2JSRUtPTmJWN3RKbzJrNExoUWZn?oc=5": {
-      "title": "El Niño preocupa governo com possível aumento de preços de alimentos e energia - Valor Econômico",
-      "summary": "El Niño preocupa governo com possível aumento de preços de alimentos e energia Para especialistas, fenômeno pode elevar necessidade de gasto público e frear queda do juro De intensidade e alcance ainda incertos, o El Niño entrou no radar do governo federal porque pode elevar os preços dos alimentos e da energia no segundo semestre, e pelos reflexos dos extremos climáticos que pode provocar: seca…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.866993",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3FBVGVWb3phT0hxczBZTnl1YW1fQkVMRkx5N1BwRzluTW0xejE1MkFMTk44elRkSFlHb3lZeE1TRVhQQXYtYnBReXUtVXhSQ2pJS2VLVUxGUkpibXFLczRrcFd6WnNUbVIxWEN6ZEV5amthWFNvS3poYzlFMHQ4M1Z1TVhzdnRSMEhUSWIyZnQ4M3ExTFExNmVIUHQyU05od1RHRldHa1hlS3ZGeE91YnYtdU5HQQ?oc=5": {
-      "title": "BP avalia deixar projeto de parque eólico offshore no Japão | Empresas - Valor Econômico",
-      "summary": "BP avalia deixar projeto de parque eólico offshore no Japão Atualizado A petroleira britânica BP avalia deixar um projeto de parque eólico offshore na costa do norte do Japão, que desenvolveria em parceria com empresas japonesas, apurou o \"Nikkei Asia\". Embora o consórcio liderado pela Marubeni deva manter o empreendimento, a saída de uma grande empresa estrangeira representa um revés para o…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.867176",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmpTV2JXRG1BWjBURlYwX2o5UWw5RVJFazFoU1lxM214X2xROXZPUVRqeVdKZ1FBVmV5dnZLbUtxbVZZcGxGSldZX0FodUNaWThvNzZ2VDNRd2J0SDEtbWZwSHdQcW11ekhJMHhwY2pEVllOb1NnSU1yWFg3bFNfSjdva0gxbFNDeEgyNWlObTc2MHVoQXdONE93LVE4UDBsRW1ncFRTa2JUdkFT?oc=5": {
-      "title": "Coutinho, da Origem: Trump e guerras aceleram demanda por “soberania energética” - Brazil Journal",
-      "summary": "6 de jul, 2026 Neste episódio do POWER, Adriano Pires conversa com Luiz Felipe Coutinho, CEO da Origem Energia, sobre o papel do gás natural na nova geopolítica da energia. A Origem venceu projetos no leilão de reserva de capacidade e vai construir 371 MW de geração termelétrica na região metropolitana de Maceió.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.867291",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeFRRblNJSWJzUUREZGQ2WjZoX0h1ei1vTWpjSTJqOVFMZkd0YUFZVTMyMFlOOWZYUWE0STZPWXFCUVExVUQ2Y25naHk0MEtTdUcyNlhuTV82VlRMVDB3bDFQdnE2ejN0czRtYzJJZGRnUHp1YzBoTG5maGVXTGM5VWdsWEU0ZHNNN0hOZ0lQUHh1YUJ2X2R5dDRMSjZ3QUFuV082QloyVFVtemtjOEJObTlCZGI4R2ZxZUZfWURPdVVMelZzU1k5aE41dmZDdXJta1k3TVRkX3lhcUZOcXB5a1E1Qlc0dzg?oc=5": {
-      "title": "Brasil deve argumentar que EUA ignoram evidência e são arbitrários em tarifa do trabalho forçado - Folha de S.Paulo",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) deve argumentar que o USTR (Escritório do Representante Comercial dos Estados Unidos) ignorou evidências e chegou a conclusões arbitrárias ao propor uma tarifa de 12,5% contra o Brasil por supostas falhas no combate ao trabalho forçado. A gestão Lula tem até esta segunda-feira (6) para enviar comentários por escrito ao USTR no âmbito da…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.867457",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXhXNGN0YmlYcHNuWHZ4SFR3SnNrczhfckwycDlrdnZIQkIzRE5rRDBieUQ0UTVFSUhMYWtyVjM1d2M4d2Y5bzcwd25lSWJVMmNqdmU4WDJUaEFoVlViSnNSTTlaa1JTS2RacWU5RmlPYWZXSEpTY1JpWDNTY3FDNWV6Z2ttWHptQzRVNXVILWMtMXlQVkFraUxBUWJ3SUlDUS00RVFzMXBlMWxBYkVpbEFxZjNmdDZXcWROTlBraE1McnVnT2NfaW95TU0zQUJv?oc=5": {
-      "title": "Preço da energia limpa nos EUA deve disparar com demanda de IA e corte de subsídios - Folha de S.Paulo",
-      "summary": "Contratos de compra de energia limpa, preferidos por empresas como Google e Meta, devem subir acentuadamente com o fim dos incentivos da era Biden. Empresas americanas enfrentam um forte aumento nos custos de energia verde devido à interrupção dos créditos fiscais para renováveis pelo governo Trump, ao mesmo tempo em que data centers capitalizados absorvem a oferta disponível.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.874835",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1Y2UTB1RjVNbkdER0FKZG42UUE1NW5pR2UwMllDWC1oU2RtbGlsYm9rdjVlYnVURjhmMWRFYmtGcTVmdV9FakpfYmZJVi1ncUkydGJBdlhpbUFqdm0tVmVvTWhIeUhWZk9BSHVzNHJJR0hKUVdSXzlmWWxIRk0zZjNsVU9iN05rQWktNlhDQUJjU2VaNDdsUS14bEFXXzdSeHRyVFBpVWtOOGdyR2RuSWxJTnNHaWdoQmJfTzBieVQ5RjZfYW1DSy05ZlHSAdIBQVVfeXFMUElVY3oybDU0NThCY2dKZWJLTXY5U3R5WGs4TndQUWRLYXRfR0J6SC04WG9NclVvLVlDTEszV3RSN29YaHhSLW05X2R4RFVNWFBtcWdmWnRZemluc1ZPeHhBN3RxUHlJc1Z6VWRYZmFpQWF6NXRqSVVZUk56c0l6V1dGbzczdjh3MUJEQXFrbXM3RzlnOTRUajdMQVlUNFctTGhJQ1J5OENrajRyaGRrVmpoVWpWY2ZiYTBVb25pYXRnb1BYZXUyUk5tcV9VVTJtVnlB?oc=5": {
-      "title": "Dividendos: B3 (B3SA3), Equatorial (EQTL3) e mais 7 empresas pagam proventos entre 6 e 10 de julho - Estadão",
-      "summary": "Gerando resumo Nesta semana, empresas dos setores de energia, utilities, saúde e de serviços farão os pagamentos dos proventos aos seus acionistas na forma de dividendos ou juros sobre capital próprio (JCP). Confira os destaques do período.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.875400",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOck1ZdHdWSy1MdnVCdjdlZlpmOExjQ05SRnZoOWprNHVHblZvaHk4OXhLMHBud1A0VzdlYlJrZ05vNnZMdTB1M21NZnRnV19PTEQzNG1nUkdFLVNWR0FQcFNfY1M3VVJyWTNUV2pHdkhlZ1VMTTlHaDZHX2dHMTI0MDloRk5lTUtUZF9EYjVRRVN1ekxQVmxYZVRZbHVHR1JKbDV3eDNR?oc=5": {
-      "title": "Eólicas perdem liderança para carros híbridos no consumo de terras raras - Agência iNFRA",
-      "summary": "Rafael Bitencourt, da Agência iNFRA A frota de veículos híbridos assumiu a liderança do consumo de terras raras no Brasil, ultrapassando a geração de energia eólica na demanda por esses insumos que são alvo de disputa geopolítica. A previsão é de que até 2050 os carros elétricos tomem a segunda posição, com o segmento eólico na terceira posição.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.882166",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQUNVdjlsTVdVbmE1b2JqVDNDTTVaNU8zdUdLd19oR01EbzZKSWJZMnFQWnEwcUxFekw1bDQ4ajZMNmp5SWtvLWlSbmtNTWpLQzU4ai1mMGs0Y2R4M3NielJSZ3lDd1JNbkVCNWx3QjMwRl9kdWZIS1N5YjFNWlFVTnRfVjFFR1c1N1ZzelgtUTBodTJNUDU2UVVjNERJU056M3lNdnl6Q19tZVZLMUZMcEstVHpWQkp5QnhpaWQwMHNjTEpjNW93amhZdmhWdWxWRFVEUkJnUTREUk1rcWhzLTBXUHowcjZ5OGRqUg?oc=5": {
-      "title": "Engie lança oferta de ações que pode movimentar até R$ 10,5 bi e leva Jirau para dentro da companhia - MegaWhat",
-      "summary": "A Engie Brasil Energia lançou nesta segunda-feira, 6 de julho, uma oferta pública primária de ações que pode movimentar até R$ 10,5 bilhões, considerando as ações adicionais e a cotação de fechamento dos papéis na B3 em 3 de julho. Sem as ações adicionais, a operação somaria R$ 5,744 bilhões na mesma referência.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.882330",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEpjRkNQUUs2WWp5aFhreTdmN0xPa2lBV1BWVEJPWE1aQmp5bTFpZGlQcWg0VTBiaEV0cGdGV1Y4WE5lRVhGN1hyZEI1d0ZWbE8zcDRmVTRyWjRZYmo1czdYLTZ2eHBZQlBPNm83QWtJaHZSVEZ5LUI4ZFd0dEl6MXZJdmM3emZwSzBJMWtXTzBkcUd2NnRrbVRrSlJwUGVUaVZxY2E0UXNkbnN0UFc5TVpxYw?oc=5": {
-      "title": "Restrição de recarga poderá reduzir margem para baterias no LRCap - MegaWhat",
-      "summary": "O Operador Nacional do Sistema Elétrico (ONS) e a Empresa de Pesquisa Energética (EPE) poderão reduzir ou anular a capacidade remanescente inicialmente calculada para a conexão de baterias nos leilões de reserva de capacidade de 2026 caso sejam identificadas restrições sistêmicas que limitem ou inviabilizem o carregamento dos sistemas de armazenamento. A metodologia foi detalhada em uma nota…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.882543",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0V6Z2ZsS0FoVFhrM1FNQkJBQWlmSGRtR1ZkYXlwdnNXcFZqQ0IzODB6U195Y0NGM2MxVElQMDBIUkRsZ2p0d21OZnBMX0JMUF91ZVpxWHluME9nQVBkT05NOVNVNjlYdHhjTlljX0NEdzFvNHNaLVNydFYwU1k3Qkc3SFRISDQ4cHpBMlZKUmd0aHl3WTI4VVdmYzhnRFFMb0J3ZEJzYUtZTVctZEM5ZUluejc?oc=5": {
-      "title": "Preços de energia caem até 15% na BBCE, puxados por contratos de 2026 - MegaWhat",
-      "summary": "*Conteúdo oferecido pela BBCE Os preços de energia negociados no pregão do EHUB, plataforma de negócios da BBCE, encerraram a semana de 29 de junho a 3 de julho em queda, com as maiores retrações concentradas nos contratos convencionais com vencimento em 2026. Entre os produtos com entrega no Sudeste, a maior queda foi registrada no contrato de agosto de 2026, que recuou 15,22%, de R$ 183,50/MWh…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.882670",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDVfRnpwYzg0SnRMSVZXQ3lqTnZCZzJOcHczX0hwbU1MQk94QTdpOFN5N252M2ZMbExSTVVYbXgtbFJmVDYwTWdZZHZ0c251aDBub21HSlh0U1pWbnJUNk4xSWF2Z2FMSHphcV9uOE5LcEtvaFlRbklaTEVDSHBBWVM4MDVpZ0RRR01vUEVZc2RzZkNRODBVeFEzMHBoUF9Hb2xac1RuSzM?oc=5": {
-      "title": "Supergasbras anuncia primeiro contrato de BioGL - MegaWhat",
-      "summary": "A Supergasbras anunciou que firmou em maio seu primeiro contrato de fornecimento de BioGL, molécula semelhante ao gás liquefeito de petróleo (GLP), mas produzido a partir de matérias-primas renováveis, como óleos vegetais e gorduras residuais. O contrato foi firmado com a Ortobras, empresa gaúcha de soluções de acessibilidade, mobilidade e elevadores residenciais e prediais.",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.882717",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjg4R3lEN3VKd1liVVFYMWVDQkh3ZEg1NEhjOGRRN0FzOEFWMk92WHlUb2dMYTJyYmJyNFJ4ZHA3cWtIRFQ2OEFzcGtRRHMtQzJWSUY3eGRRY2Z4c1lNWU5nazhnZzV2WlBON1ZKYUUtRnMxakFLa2VEUkwzRGxNVjh0RW45dVNybnl0bDducThjTUxxNFNBWGswYjhtNk5iZnFkZ1R6OVMwV1JiaGdKMQ?oc=5": {
-      "title": "Brasil x Noruega derruba carga a 66,3 GW e tem rampa de 7,1 GW no intervalo - MegaWhat",
-      "summary": "O jogo entre Brasil e Noruega pelas oitavas de final da Copa do Mundo voltou a provocar forte oscilação no consumo de energia no país, com destaque para a rápida recomposição da carga durante o intervalo da partida. Na derrota por 2 a 1, disputada neste domingo, 5 de julho, às 17h, o Sistema Interligado Nacional (SIN) registrou uma rampa de elevação de 7.128 MW em 11 minutos no intervalo, alta de…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.889679",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjQtTF8yMHhoZS0ydTVSWWpZM0dnUGtwWjJaaGtXTXIwYnNlcjlJckkxVzREakptb05qSWtiOFRTM3diTTA1N05RVUxHX3BSelNZQlNtWlp6MmZlNmtqeUZOb3lWYmRDY0gzWTMwQTFySGhzaXhqSnJxdFZGb3VOUzZQZ0dqS2lUMzhYRVVpVnhBdWFfYnBOcXZ4UFVjT2pudGh1Q0owRTlROFhIaVRqeXZIa3U?oc=5": {
-      "title": "Relatório aponta avanço da energia limpa na Amazônia Legal – Edição do dia - MegaWhat",
-      "summary": "O Ministério de Minas e Energia (MME) publicou, em parceria com a Global Energy Alliance, um relatório sobre o programa Energias da Amazônia, indicando que cerca de 1 milhão de pessoas passaram a ter acesso à energia limpa, renovável e conectada ao Sistema Interligado Nacional (SIN). Segundo o documento, o número de sistemas isolados na Amazônia Legal caiu de 212 para 160, após 15 interligações…",
-      "source": "",
-      "added_at": "2026-07-06T14:02:27.889981",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXQ0X3FUbjZUN0pZOEJTeDBvakhTUEdUS2VrbW8wU3dLazVyMm5OLUp1ME5iMzRSZUdWX0UyS1dhSGU5bVQ3amNLS1YyTG5Ja2drNnlhRnVzclZSbXloNGZGeGw5am5kTmxvUTA3Tms0Z3dzekE3OGpDaF9FRzk2bTFBNnVFelpLWXlDa0pHUUkzWkExalVWS0hEdlFueldNS1oxSU1fcjd4UmtrQjd0SXlaWkhtdWNLVTZhTHAwSUI?oc=5": {
       "title": "Eliminação do Brasil na Copa trouxe subida de rampa de 7 GW em 30 minutos - CanalEnergia",
       "summary": null,
@@ -4237,7 +4085,7 @@
       "source": "",
       "added_at": "2026-07-20T12:26:31.020971",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN2p5TVZISWZoQ181RDJRajlQZjhhTVUzOHgtWEJNMWN5YUhLRzBKSll2dWp6ZVZMZ05XQjdoTUJDR2k3ZHhDWTJhMVFTVFhVWW4ydzJHcTBrdVpNWTAzSjg3bXU4XzBmNFdhVWQ2TXpIcVQtRXdqdF9mcVZmUjc3RVI0alFEb3VOQkN0UmhwZUNmZUo1NVB6U0dUVFJUejNhTnJIeXdwc1RERXR4MEt3T0xPTjZobWVyc3F5Smdrd2lXcWdGTnNQWml0YkN0YTVncFE?oc=5": {
       "title": "Concessionária Trivia Trens começa a operar linhas 11, 12 e 13 nesta terça (21) em SP - Folha de S.Paulo",
@@ -4245,7 +4093,7 @@
       "source": "",
       "added_at": "2026-07-20T12:26:31.021196",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamVkMzFCYjdsZ0FGcFZuT2lRZkFSenB3R2RuRTZ5RlpBU0llSGpqLVpzWUlXQzV5V0pmZ0c3Ry1oUTVncXV6NlZrQ3E2b2VDelNXTE9NSFhJVUVoM3laUm13cFhfMUpkdUk5RXBoTVdiZHY2NzZTNXZFcDE2a01NSUhmbjhER0VJaU9tZGNWYVdPV0gtRi1vdC1HeXctdkRvdnM1SURHX3MzanJnMjdXeklnSQ?oc=5": {
       "title": "Engie avalia a participação nos leilões de transmissão e de baterias - estadaori.estadao.com.br",
@@ -4253,23 +4101,19 @@
       "source": "",
       "added_at": "2026-07-20T12:26:31.021317",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNWxYWUpHWW9iSmF6dUxlTUZKUE1pN2hnWXRTV2JCYnktRFE2Y1JNNFRUaGJhZ2c5MnhHazUwUWxlb2RrUENPSDJzMEI3V05Nelp2Q3pSRjRwNTFsQkQ2MjI4XzVZVFBOLTRvUmFKUGtvX3p5aEYzTHdwQnJEbi1OeFl6TmZsTmtPd0xTTmw3R1R0X1ZIVWlqQlRBTVNTZjVXa2gxeHNuRktsUmNsN00yUWFQckVKZWVzaEhaOUZ0LTlYRlNoNzhUREdn?oc=5": {
       "title": "Após fundo chinês, Aliança Energia atrai investidor ligado ao governo de Singapura - MegaWhat",
-      "summary": "A Aliança Energia voltou a atrair capital estrangeiro. Pouco mais de um mês após receber aprovação para receber um novo investidor ligado ao governo da China, a geradora obteve aval do Conselho Administrativo de Defesa Econômica (Cade) para a entrada indireta da Warrington Investment Pte.",
+      "summary": "A **Aliança Energia** atraiu um novo investidor, a **Warrington Investment Pte. Ltd.**, ligada ao fundo soberano de Singapura, com aprovação do Cade. O investimento é minoritário e visa ampliar a exposição do fundo ao setor de energia elétrica no Brasil, reforçando a capacidade de crescimento da Aliança.",
       "source": "",
-      "added_at": "2026-07-20T12:26:31.021540",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-07-20T12:26:31.021540"
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUF0QmFFRmptMnNGWmVwUVp6SkFneTEyTWVQRk1TOFZ6RDNUbnNheU9BSW9Eb2N0QUpTTlVUTllsUzRabnNUc0NkOEkzS2FLd3RSb09zcWc1TWxWZmVqNnpYWnltMFZTQWJya0M3cm1YZ05zaDlZaXBlcE1ZUktBT3ZtdlFsc0VlbE9UZ1BDVFRrRmNSbE8wMlI2MndEWlFpOWxvcFFQRFJTbUtVcGgxR2JPNENRdEZEOTZfa1RFbGNkN2Z6NlVpUw?oc=5": {
       "title": "Senador tenta impedir que PL com jabutis de energia vá direto ao plenário – Edição do dia - MegaWhat",
-      "summary": "O senador Eduardo Braga (MDB-AM) protocolou na sexta-feira (17) um requerimento para tentar impedir que o projeto de lei (PL) 5.017/2019, com jabutis do setor elétrico, vá direto ao plenário da casa, como está previsto. Para isso, requer que a matéria passe ainda pela Comissão de Assuntos Econômicos.",
+      "summary": "O senador **Eduardo Braga** (MDB-AM) protocolou requerimento para que o PL 5.017/2019, com inclusões no setor elétrico como contratações de térmicas a gás e PCHs, passe pela Comissão de Assuntos Econômicos antes de ir ao plenário. O governo apoia a manobra para evitar o avanço da matéria.",
       "source": "",
-      "added_at": "2026-07-20T12:26:31.021818",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-07-20T12:26:31.021818"
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0l1Y3ZWNEluQnVzck1obWp1WWh2UzMxTm13ay1uYnRHRTB4bTcxaE0xaGlZRzVkVFBIWmhVQlVENVc0YTVjOXVjcXVfWUNsLTltSG9DRzVrWnJUX3NhVDlxODlEcGQtRWg1U2k0ZkUxSkNxb1pGWTJVcTZYc1N0ang3b2VmNnFuMi1uYWhxLU1NVjlLa2d0Q0FGZThFNVczNGRQNUVraHhzOUJuRHU3VUVKc1h3ZkNlR2p1OQ?oc=5": {
       "title": "Curva de preços da BBCE fecha semana com queda no curto prazo - MegaWhat",
@@ -4282,6 +4126,76 @@
       "summary": "A **ISA Energia Brasil** recebeu licença prévia para o projeto de linha de transmissão Itatiaia, com investimento de **R$ 2,7 bilhões**. A obra, que reforçará a interligação entre MG e RJ e tem previsão de energização em março de **2029**, foi arrematada no lote 7 do leilão da **Aneel** e incluída no Novo PAC. A Receita Anual Permitida (RAP) prevista é de **R$ 248 milhões**.",
       "source": "",
       "added_at": "2026-07-20T12:26:48.595624"
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GRU5EZmI3LVNwU0JDMVpZSzE4UWJvNmUwTWFEcEtoRkR4U0lKZVhQcVQ4QTRNcHc5RjNudVBvUUthbXZQcEpHb1Fkb3B0Q184MUppZHdhQzBBY1ZYQVNsc19XdFBueHBZY0ZRbnR5a3pzT3MtdUE?oc=5": {
+      "title": "DISPUTA ELÉTRICA - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-20T14:53:35.754691",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWxGVDEtaXdpMDBzVzZURDE4bWJhYXVsMGtHbEZKV0dfQ2l6V1N6UmFuWGdzeHFPaUtRSy1fVGNJZjVDeFNCMFh4T3ZpUnJQMXI5Q1lHcFA5QlplbjRTUGNzY09Eb0FHUEdxZWU4eGNZZWJlaGxhc2w0aVNwTG5vekRlWUlrb3pPRjZzbTlqellVODhnRmUzUV9ONXpRMktHV2JNRHIxM085UjB3b1lBYzMwZEl4UEVJZUxTUS03T2VHWkNXNEE?oc=5": {
+      "title": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough - Valor Econômico",
+      "summary": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough Defensores da tecnologia afirmam que propulsão tradicional e elétrica juntas podem ajudar as aeronaves a atingir maiores altitudes mais rapidamente e reduzir o consumo de combustível A GE Aerospace realizou o primeiro voo em grande altitude do mundo assistido por propulsão híbrido-elétrica, informou a empresa nesta…",
+      "source": "",
+      "added_at": "2026-07-20T14:54:00.884508",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkVCNFRhRmV3a2NiMEdjSVFHT2ZSLUpMaUx3bEs0LTNVN3RURFpPQk0xQVhFWG92THJkNVRNYXVhMXdydTdTckVNMHYzVXBxeU9uTHVuSThGZlBvVmRWNC1tYTQ0TkszNm03elB2U2d3dEpzaUdTdVotRHdDSjlkbXA5TUM1VUFDcEVXZW5HUzBqVDZKOWJldjYzMEk1M3VLMzhhZjliaWZENHpoS0JJQ0NQQVlVc1M2TVMxWlRJLVluUVlYWDVLMkJkMmw1SkF3X3JFZ2Y2WlV3TDN50gHrAUFVX3lxTE1keWJSZWRYUXMzMXJhWEQ1VGtIa2g3cy1XUXBiamozZTlVTlFxTWt2bXRmbm85TlRrYVpPSHV5LXJMV0ZtSE95UFZValRKN2JiZnpOdWRjUU9Ubm16SkIwcE1ISmM0Q1JHa3dLMzdVTFZ3MnJnYkd2Tk9SUkozbFBQUno1d0Z2M3ptYW1qTFZfdjdNNzkxcGhIY2lfXzNhTGdIT1ZGa3pHNVR0OEFXNEtRaEp6ZTBzYlVVYktHUFZaM25ZM3BrVThqY0N2Vzl5UFZ4U28wU2NyVTVMdkh6Ukk5VFZRMDJIODN1RHM?oc=5": {
+      "title": "Entenda como um bloqueio dos houthis no Mar Vermelho afetaria o mercado global de energia - Valor Econômico",
+      "summary": "Entenda como um bloqueio dos houthis no Mar Vermelho afetaria o mercado global de energia Movimento aliado ao Irã anunciou um bloqueio marítimo à Arábia Saudita Os houthis do Iêmen, aliados do Irã, anunciaram um bloqueio marítimo à Arábia Saudita nesta segunda-feira, uma medida, se implementada, poderá ampliar as restrições ao mercado global de energia, já fortemente afetado pelo fechamento do…",
+      "source": "",
+      "added_at": "2026-07-20T14:54:00.884787",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnpRR0hvMzdCNElQV3lxLUZZUGVWZjlsR2tEMGRWTmVOOG9qdE9majluN0Nqb3czSVJVdjVBNXd0d01FQ3FzMlRsRVFXanNNQmtqVVdRQTFGbUh5Q0lSQVJyckJSdTFlVkk0UlJzUmp0XzhLOWFKREVsN1YzUlZkRjJ4ZjdoUnZUS3FsZFdKVHV3T2Y2OGNBUVcyUTlwbkJOS3Q0U1JqWXZCcVZ6ZG5xYkZIXzEwUdIBxAFBVV95cUxOSDhhZVJzeU9RRlhRWDRRbkZQZ3BGNkZqaVBULXNtYnd3LWR5VDgxYnRENFNfdzh5bE9KTm12bkdJOGFnNnRVTDhMQlBfQTJQb01QMFZGQVZuRUlYVTVONndRR3d3UDZ1X2hFQ2RxYzNlUmszQ0RkS1Uway1kU3dDY2xrV0RsUm9Xd0Y3aXdQemkwMXZ3Q0lDOXdpSGk0cERRZzZPZ0FJREs5Uk0tYVR6amtmQVBWS2haRzFwOVJObXZ1bHNZ?oc=5": {
+      "title": "Cade aprova compra da fatia da Copel na Dfesa pela Gerdau - Valor Econômico",
+      "summary": "Cade aprova compra da fatia da Copel na Dfesa pela Gerdau Em documento protocolado no órgão, a Gerdau afirmou que pretende se beneficiar da produção energética da Dfesa “para autoconsumo\", e a Copel informou que a “operação alinha-se à sua estratégia de otimizar o portfólio\" A Superintendência-Geral do Conselho Administrativo de Defesa Econômica (Cade) aprovou, sem restrição, a compra pela Gerdau…",
+      "source": "",
+      "added_at": "2026-07-20T14:54:00.884938",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQUhjdzJfZjgzT2ZiUXNRU05HVk5Yd0lsWWRQdGxDM29mcUlWYVhUaVgyUWVZaDNaclp0b1c2cVVUYzdnZlZjVUJRMlM3amhocS1INFpBNFpNRUdHRTRxQ3ZkSzcxY0REV3dnd3lXX2plTzQ0YXhCRXRRc3N0YnU1UGhRVXpKUnhfRnJWS0RjNjBzR3NWOWEtTnVkN1g0S2VDU0t3SnU3NG02akdDM3BiclAtblJDOHg3MmtIcDB3ZFN4VFlkREhnZ0lSemIxMERVVHllZWozX1pXVktndjl4RVhpaU5pZ0owTjZlNGdyVEcwOFU?oc=5": {
+      "title": "Axia Energia (AXIA3) emite R$ 500 milhões em títulos de dívida; veja os detalhes para o investidor - Estadão",
+      "summary": "E-investidor Copa 2026 Pulsa Paladar Jornal do Carro Descubra Assine Assine 1 ano por R$ 1,90/mês • Assine 1 ano por R$ 1,90/mês • Entrar Em Alta axia energia axia3 emite r 500 milhoes em titulos de divida veja os detalhes para o investidor Jornal-do-carro Conteúdo Patrocinado leilao de veiculos apreendidos passa a ser obrigatorio e 100 online em todo o brasil E+ Conteúdo Patrocinado tava tudo…",
+      "source": "",
+      "added_at": "2026-07-20T14:55:07.636653",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFpUZHVUcWNid3QzVWtvdTl4Z241U09IMGFPYTYyOV9rN3Y2RXhpQVNrQ3d3U08wT3cwYXdCMU4zNXRPdGpTMkVESXdELXVKdENQYVZKYnBEOXpNVWxOYWRDeTNWQU9wWjhqZWxaVTZRWHJ4Z1FqTmRiNExLdEVueHNvVk12SkNNblJ0SmdMd3AzT25ETWFCWFVZQVlSclRKWk94RHRoTE54THRsbXFTSFFaMWZWNFd0UkNqTmpuaVRiQzBtRmZXdnQ2dUFzeEJFRHpGekhET2NvYlJBbVZER1h1MDF1LXox0gHuAUFVX3lxTE5rcXJkUlJEeTctYzQ4ck1JT0xIZDVQMjdzOEZSSkxNc1pWVTAzbExFR3lJOEFQdTY3ejg5Qy1mRVdBeUZVbTc1VGRVVWV5cng0RURpTW94VjFjbXVLMGdRR2o2YmN3TGtodkVtS1V6UTJIWkkwZUowb3o0Z1ZxMWRsbTZFMnoxTU9jYnJXeFRwZEk3M29DXy16b005WXhHTF9YQ3lqT25MS0Jid0dkb0lLZnZfOFdFdG1jN2VGT1pIaVZDQTB2NTRPVmhGanNMRlg0N0dLMUdUZlFDdndJQjNSVUJvbXRiQ2NYaWRvNWc?oc=5": {
+      "title": "Axia Energia (AXIA3) emite R$ 500 milhões em títulos de dívida; veja os detalhes para o investidor - Estadão",
+      "summary": "A Axia Energia anunciou a 11ª emissão de debêntures simples, não conversíveis em ações, totalizando R$ 500 milhões. Serão 500 mil debêntures de R$ 1 mil cada, com vencimento em 15 de julho de 2036.",
+      "source": "",
+      "added_at": "2026-07-20T14:55:07.636732",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaEx3d0k4UnhDNHBaZkFfRVJ0YlFIeVdvU0d5dWRUZzVUTXNURTVUSE5RZHR2OHBOdHhSa0FVakV2ZTNZTEZzUHVEc2U1YVFKNlJub1ZHWlp0Mm96c25UaURaamk1Tm9Udkt5YUhNM1VWR1B3Sk90X3NpbV9pOGg3OEVzTURVSktTdVV1U3pIUEttcGxBNDFETjZKUzVqYTViRE1TZUNUVVFlWkZZOXZybnpHejBvdDJMd0lwX19xZTZfNlVhWG5Od3hmYjNkdzh0WEZnbUxfQXhvSTFnZWZTanpn?oc=5": {
+      "title": "UBS BB vê potencial de crescimento para Sabesp (SBSP3), com alta de 36% para as ações - Estadão",
+      "summary": "E-investidor Copa 2026 Pulsa Paladar Jornal do Carro Descubra Assine Assine 1 ano por R$ 1,90/mês • Assine 1 ano por R$ 1,90/mês • Entrar Em Alta ubs bb ve potencial de crescimento para sabesp sbsp3 com alta de 36 para as acoes Cultura Luiz Zanin Conteúdo Patrocinado vitoria 2026 virtuosas a esposa perfeita a politica e a violencia selecao espanhola sera recebida em madri com desfile shows e…",
+      "source": "",
+      "added_at": "2026-07-20T14:55:07.636897",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFRaa0VYaGVmTGdsV3FVU0ZtR09TcFIxMTZZZHcyQVl3MjB3c1Vpekkxa2NkUjdpemJEOE5ITTNjeGZjY19ELVoxalpkVVdKcUFnUDlYMDVQWGdFaXdicVREd0FPSU5PUExvZ0NEMFF6ZTQtRXR6WllXNGg4cVN5S1VQVU4wMkRLQ2F3QU9vZ2lkNW9QenB4REJWcmw2SGdRUUtn?oc=5": {
+      "title": "Neoenergia alerta para risco de empresas ‘aventureiras’ no mercado livre - Agência iNFRA",
+      "summary": "Marisa Wanzeller e Gabriel Vasconcelos, da Agência iNFRA A Neoenergia defende regras mais rígidas para as comercializadoras de energia, incluindo a exigência de garantias financeiras, diante da abertura do mercado. Em entrevista à Agência iNFRA, a diretora Comercial da companhia, Rita Knop, alerta para os riscos de uma regulação mais frouxa atrair o que chamou de “empresas aventureiras”, que…",
+      "source": "",
+      "added_at": "2026-07-20T14:55:07.637113",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXROWGU4WGY5YndIeXZFOTNrWGN0NU9aeGVYOGRfV3ZzNHlSVUQ0NzFHTTl1NVpjTmQwMUJhcXhMSURPelZJWnIxX1hiTjhodzhqbUxXbmpjMUYzcHJ5OWxWd21ZVElEMXRadXRlMF9KUElPUDlGSkJCSmNxT1RTcVRaSFYxbzFxa0tQSDRzRnk0RzYxRUxVNVNfNlBMUlRHM2VYZlQxS0doLUtmVkdSZTBOaW5RT0E4TXlKRQ?oc=5": {
+      "title": "Raízen fecha nova venda de usina à Adecoagro por R$ 760 milhões - MegaWhat",
+      "summary": "A **Raízen** anunciou a venda da usina Caarapó para a **Adecoagro** por **R$ 760 milhões**. A transação, que ainda depende da aprovação do Cade, faz parte da estratégia da Raízen de otimizar seu portfólio de ativos.",
+      "source": "",
+      "added_at": "2026-07-20T14:55:27.662933"
     }
   }
 }
