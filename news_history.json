@@ -1,94 +1,6 @@
 {
-  "last_updated": "2026-07-20T19:07:27.295235",
+  "last_updated": "2026-07-20T20:41:25.595183",
   "items": {
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2JGeXFNSEJXS0k5RlhmelNicHBiYkpzWWs2RnhJcmo5QUlmaERqVWRZWXBIU3g2V1BoWFJaSEFaMHJzV1VwZEJ3dlNmdEdpUWh4V0ZfS0pxUkJhN0tvRjI2dWdqdXMyOUN5ZmNiZy1MSmlhMDRfZV9aTXlTVTJaVkVUVnEwVG04eWt4Z2xvQm9EQUhvU0FVczlmOWRJRTYwanpDbm5DRFVuUjA?oc=5": {
-      "title": "Aneel publica exoneração a pedido de Alessandro Cantarino - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T19:22:32.253923",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFlHdjVuRjNvdE1KdXc4Mk5CLV9OSDFzdjlsY0JDWjFNSWV1X2tuSXo4cmVuQVlnVDBfR3BZSnlDY0dZU1NtMzhlSFZXelVwSGtCaDhDbkxLcHlTNWplbWdqVk9hLVVjS1gwaDdNN3p6Smc5QWhUUWZyVElZekhfeUVVLVhKU2pSZGlHZzV5Q3VqZjZmNHA3ekxqcFBMQnlEOFR0YmJkV3hZcldmUEdoUFNB?oc=5": {
-      "title": "Axia liquida emissão de R$ 1 bi e Taesa lança oferta de R$ 1,7 bi - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-06T19:22:33.972368",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUJTQi1XR1cxNDlfekw1c1pZUW5oUlNGV09kRnVncnpYWV82NXJmanBTOVB5ZnlaNW5BbW9fYWotbURIQU9JcmlWdjlhSnBEWER2cHBGZWlKbXpkM1RMZVNnN2s0SmJ3QTNjd3R2WVNWeVVRTGxxWklQUV8xbzgtdmZWM2xYSlR1MVU3eUR2dUpJVVNOUnREUE90VDRlTTk0VlFkV3hXeU52eXQ0WFJpZDVXcnNEclE2LURtTllmVnIxZnfSAdIBQVVfeXFMTWRKckNITzhtNEF6dE1rRlc2ZlNMQ0NhUDlPYXgwc1MwUUVBZm1QNm9Bck42WFdDZGloOVBhWENFODRtQ2EzWFhzcnhYSkNVN3VTOHRfa3M3WlFLM2g0akpUY1c0TTBZS2hwQlZHbTRELWFZR041aXhnQnBmMXo0cl9DZzUtZ1MySG1jaElKZW5iOFp1ZGlkTkRZNDlISjZVbGVwVGVPeUpGRXhlWXFmaTVid2lxQVVSTHpMZUZ1Qk5Kc2FoRzA1eGNrNlp5S3hwVDBB?oc=5": {
-      "title": "EPE e ONS definem requisitos para leilão de armazenamento - Valor Econômico",
-      "summary": "EPE e ONS definem requisitos para leilão de armazenamento Empresa de Pesquisa Energética (EPE) e Operador Nacional do Sistema Elétrico (ONS) publicaram Nota Técnica estabelecendo os requisitos mínimos para o Leilão de Reserva de Capacidade (LRCAP) de Armazenamento de 2026 de acordo com as diretrizes da Portaria Normativa no 136/2026 do Ministério de Minas e Energia A Empresa de Pesquisa…",
-      "source": "",
-      "added_at": "2026-07-06T19:23:54.644425",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVVNamxuWkNCeXFaWC1MV0JKdWRmU3Fud09SdFpZTGc4c2xlMUo3YXlwWWNyY19tUENIZGJ4MVBfMVhBQmNiR01BOFR1SlJkdFFSMU9VN1JoaWZxSmhaNzExWHdpLWkyU1lZSTZCOEZtY3ZoZHlnaFZTbjB1QzZYOHdkcWZiQlpkeFdKekJ2WWFWU2hTUW1Pakd3RFpXTGdiMUh3ZENQTmFwLVFoVC1lRTRDMjRVWmFReGRTVA?oc=5": {
-      "title": "Representantes de setores dos EUA e Brasil pedem em audiências exceções à tarifa de 25% - Folha de S.Paulo",
-      "summary": "Representantes de empresas e associações do Brasil e dos Estados Unidos pediram em audiências que a proposta do governo Donald Trump de aplicar uma tarifa adicional de 25% sobre produtos brasileiros não seja implementada. Os debates acontecem nesta segunda-feira (6) e terça-feira (7), promovida pelo USTR (Escritório do Representante Comercial dos EUA).",
-      "source": "",
-      "added_at": "2026-07-06T19:24:10.748331",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2VRTFlSeWxEMWpvWXB4OGVuNVJKc3BQLUZPT3RwQVZIZ09pTndwdzJxMjdlMnBVT25kcnhkOFB5MGJpLUNqTXNYV0RoczJvbi1zNGcxS0JuVlJIamJabklYa1dYQnlYTGc3dlhlVE5ZZjR0X2VXblpJLWxWdExFdGw4MHpTRUZoMEZjRmRZSkxYSzUtQzM5YjI5ZDFjWW43eHhzb1FwQmxTQjJnZnUtSTFmeEZlb255WmZ6ODdyS0lRX3h4R3NVSUROS1VfRzJYWkUxb0taV1FEUdIB3wFBVV95cUxPYUFGR1IzdkdNR093RXhMc09LYzA5MHc5b3FFcmdNOFA2VDFLdFR5ZDc2VVA0TzhsQThfRVNfUG5LOTkxaXk5blYwc0hvbUVpVkwyeVplcGxMUHd1YmIxS0lrM19uZ0JPUmtSSzcyUmtTNXJWMTJ6enB5VlBtMEExSzQzbld0OXVuOG9Jb2R2cTVPWVp6b2E5clR2bWFEcWlVdXhwaXFVNzVGNkluV0liSnhBeFpXX081aUVuN3djMEYtOHlBbHJqbDh3eXNtMmhJdmJ0bDZOR2hWc1BQSENB?oc=5": {
-      "title": "Engie Brasil (EGIE3) pede registro de follow-on que pode movimentar até R$ 10,5 bilhões - Estadão",
-      "summary": "Gerando resumo A Engie Brasil Energia (EGIE3) informou que protocolou na Comissão de Valores Mobiliários (CVM) pedido de registro automático de uma oferta pública de distribuição primária (follow-on) de, inicialmente, 178,718 milhões de ações ordinárias, conforme anúncio no mês passado. Considerando o preço da ação da empresa no último pregão, de R$ 32,14, a oferta pode movimentar R$ 5,7 bilhões…",
-      "source": "",
-      "added_at": "2026-07-06T19:24:41.936297",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2ltU0I3TnI5OE9fQ2FFemZQR1FkNnpuYTFQclhYMmY3NWI2T0tkZHUtOU5NcFVjYUItU0tWOHkyLXJCSnY5TVJwZWN5Ym9PVWFLQzNDQVpOdEhrYkp0am1QY19qNmRLeHprSTRESnVkRHZFbm9RU1Npam9ZZmdMZjNKQ09pSzdWaUFRQ1RwVjNPX0s0WjVhZjAyX2RGZ0FqVDRBOFdRUHlXVUp0U2duUHJn?oc=5": {
-      "title": "Eólica ficou mais cara e solar fotovoltaica mais barata no Brasil, diz Irena - MegaWhat",
-      "summary": "O custo nivelado da geração eólica onshore no Brasil subiu 3% em 2025, para US$ 31/MWh, enquanto o da solar fotovoltaica caiu 25%, para US$ 37/MWh, indica a Agência Internacional para as Energias Renováveis (Irena, na sigla em inglês) em relatório sobre o custo da energia renovável em 2025. Mesmo com a alta, a eólica segue mais barata que a solar no país e é a segunda geração onshore mais…",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.829860",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGo1MVVmb0loOXRGalE1MHVzbG16b1BUR3F3YWxhWWJiOVVIanA4emtZS0FCT3A5SzUyd3hGZXNKbEtGaUYwbXY2cFBLbjdrc19SU0xFaHhDQVlWLThXN2NjU092NFIzak5hTnJlQXU3UldHZ0R6YTNGSjU1RG1NWnJ0YWVneEZZSEQ4NElUOUd3azRMVGVpS0pyWHVPNlNxZEtVVUY2X0t5TlhRYkprbE9Xam1OaGZXODJiLWF2TXhULVRETFpjU2RyMA?oc=5": {
-      "title": "Abraceel anuncia Alessandro Cantarino como novo vice-presidente executivo - MegaWhat",
-      "summary": "A Associação Brasileira dos Comercializadores de Energia (Abraceel) informou que o Alessandro Cantarino assumiu nesta segunda-feira, 6 e julho, o cargo de vice-presidente executivo da entidade. Engenheiro civil formado pela Universidade de Brasília (UnB), ele possui especializações em liderança e gestão no serviço público, além de pós-graduação em Gestão de Empresas de Energia Elétrica pela…",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.829931",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQclR5LURRNFNOeWEwd1RTTXl6T0V0Z2E0WmJ3cGFveHlVQnpHVWVxcjZ5aWJ3Y1pFWS1BaUFIaWE3WVk0b1lTOFV5NVZGZHNUQ3Z0UXVoNGhVYjdzZm5WVDNOQ2pDUDVxSXZJVXlDeHhBTHQ4V1VDQ2ZlNlJNZVl2dEQ1WUxwVXl2cHdYV29IdkRrZUJWdEd4RkF0ajhPSWpaVHh5ZTZyYUR5OUpvb3EwbzgtX0NncFJ4Q2YxT0UwcUtpTVF0dHBkOFVKOHdVQQ?oc=5": {
-      "title": "TBG firma contrato de transporte de gás para abastecer a UTE Paulínia Verde - MegaWhat",
-      "summary": "A TBG e a usina termelétrica Paulínia Verde firmaram um termo de compromisso para contratação de transporte firme de gás natural. A usina, que contém 12 unidades geradoras, foi desenvolvida pelas empresas Orizon VR, Gera Energia, e Mercúrio Partners, cada uma com um terço de participação.",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.829971",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0NqSTJmRHhLS1NFSlpUTjRBMzRCckRXMjc0WkFJSW5XRXlYMWFiQ0FLRGYyclQyYWRyV1p1b1ZLT3ppajJBaVFaOHhnRzc0SUJZZWI3aTJubnZrT2dCdGNKWnZfWWtlZ2JQeTJXMDYyS24xMHlPT0JocTZ3cFh1ZFZjNUltQ3JPdnJLRy1VaG44MDFRWnhXd1B2YnUtT2F6YnZHem1wWUlpelNtVXFLNnh3b3pMT3BQdTFV?oc=5": {
-      "title": "Heloisa Borges deixa a EPE nesta semana e deve ir para a TotalEnergies - MegaWhat",
-      "summary": "Heloisa Borges, diretora da **EPE**, deixará o cargo em **9 de julho** para assumir a diretoria de Assuntos Externos na **TotalEnergies**. Ela precisará cumprir quarentena de seis meses após deixar a EPE.",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.830007"
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTdISU5reDQ1MW1Zbm9yVmo3UVUxVXpGbDFKVWZIek1pOEJhSUM0NjBfMXhRMGsybzlhNjZuQUFQX3B0dm9PWlp4ZjdFcWd5TlYwWVN1RjNxR1ZQZUlMNVI3T2VQaFlIT2RQd2w1MF9ITk9wRUdUZVZhNkVZdU1XdDdFSmg3NVNkTWthc2lCRFJ5VVV2MjYzQi1fdGdjcFJYN3BsNVh2SVNBOVhCLUtnNVpBUWEwSTNMWnlrYWxjMEFhWWJnbzR1QWd3NkFiZw?oc=5": {
-      "title": "Vast e Petrobras fecham contrato de longo prazo para transbordo de petróleo - MegaWhat",
-      "summary": "A **Vast Infraestrutura** e a **Petrobras** assinaram um contrato de longo prazo para transbordo de petróleo no Porto do Açu. O acordo, firmado em **6 de julho**, utiliza a modalidade take-or-pay e reforça a parceria iniciada em 2019.",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.836455"
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3JILUlCM3ltZ0RzVFZxYjZpWllTLW4zN0hfR3VyVzdqM09mcDVvRENuN1VhdXgzeFd0dUhjeG15SG1EbG51ZnB4cUFnc1daclg1UVdCNHYzU1JjYkRkZktiUTd4UFktbkxmVmFKM0dvaU1sUldwWEpROV9wQlZ4U1luc01pd284M2ppdjV2dVNQeFdpSGdpak5kTjQ0OGxuU21odl9pOFNhOUVXNkE?oc=5": {
-      "title": "MME faz nova consulta sobre antecipação de térmicas para agosto de 2027 - MegaWhat",
-      "summary": "O **MME** abriu nova consulta para antecipar contratos de reserva de capacidade de usinas termelétricas para **agosto de 2027**, visando reforçar o atendimento ao SIN. A decisão depende de estudos do **ONS** e **EPE**, com prazo até **17 de julho** para manifestação dos empreendedores, incluindo **Karpowership**, **Delta Energia**, **Âmbar Energia**, **Imetame** e **Termocabo Gás**.",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.836637"
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Oc3RxdG44S0ZiZmIyWFRsRC1IU1VaZUswNjlsanNNdXpnS2hRS3VtbUZzMWVRNjJqNTF0RnVUQlVtYWhZR0NrZ0JXS012SkJuaWM3SjMxVF9FQ2stOUY2UURDdnA0Qjg?oc=5": {
-      "title": "MinutoMega - MegaWhat",
-      "summary": "O #MinutoMW de **24 de junho** abordou a mudança no comando da **Petrobras**, com a apreciação do currículo de **Caio Paes de Andrade**, e o teto do ICMS dos combustíveis.",
-      "source": "",
-      "added_at": "2026-07-06T19:25:28.836683"
-    },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHRWVVJVeGZXTjBGekc5MWl2R1VCM1Z4T1NfS2dobTJkcXkzUTJhd0FTNmQtTnFYSkppT01ZRTZDYVVzMlUyeDlIVDBha1ZRX0llY05xVTFWUG5PTHVXRXBZcjE4OXNvclFiTEd4R1VIZUhtWVhuWVFGR2FrY25OZXg1allxcVdqN2REd2IyM1UxQXVTMEJ5d2VOc2VjVEtBckJCV0F0UlZSWWtEZzdLcUthaTVEMjRFYTlYaQ?oc=5": {
       "title": "Há vagas: Energia Feminina abre nova fase de seleção de empreendimentos - CanalEnergia",
       "summary": null,
@@ -4045,7 +3957,7 @@
       "source": "",
       "added_at": "2026-07-20T14:53:35.754691",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWxGVDEtaXdpMDBzVzZURDE4bWJhYXVsMGtHbEZKV0dfQ2l6V1N6UmFuWGdzeHFPaUtRSy1fVGNJZjVDeFNCMFh4T3ZpUnJQMXI5Q1lHcFA5QlplbjRTUGNzY09Eb0FHUEdxZWU4eGNZZWJlaGxhc2w0aVNwTG5vekRlWUlrb3pPRjZzbTlqellVODhnRmUzUV9ONXpRMktHV2JNRHIxM085UjB3b1lBYzMwZEl4UEVJZUxTUS03T2VHWkNXNEE?oc=5": {
       "title": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough - Valor Econômico",
@@ -4123,7 +4035,7 @@
       "source": "",
       "added_at": "2026-07-20T16:43:42.192052",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLU9MSGJHVVZpNEV2d0xnR3Ezd0RnZ2ZLMXVheGNvZUJ3bzRqRjRGd2RHZU13U3dYNjF2Y2V3Y1pFMnVBdTFwZ3NPaml4STczWGtRUjJSUk5feFpORG0zN3dBd3RkMmEzVXBzQ1JpNlNaNl80cklxRENGNGxyQS1NS2FWWlVfSWlkWVN1UldQa0NvaHRuZkVGeGdsNXlNdVV1X2p1Zl9CU3ZrWm1SS1JHb200Z25ia3ZzSl9YMkVDbmRMZ0ZndTlGejAxOVRFdDlZekdWMA?oc=5": {
       "title": "Sabesp faz feirão para renegociar dívidas com descontos de até 80%; veja como participar - Folha de S.Paulo",
@@ -4131,7 +4043,7 @@
       "source": "",
       "added_at": "2026-07-20T16:44:42.819409",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2NfbzYwcm9OUUlRd1JDNWNzLThtWEl0bENNRi0taWFTdDVkZmtDM3pkVGMySW0ya3BaVkJ1dnFyY3ZlRjdpQ0ZPTlE1Y25HMzlRX256YmpwaHUydU9Vb1hMdGlnYURZNlpLY0dHZEN0ZWtxMVZUQVRnSjR1R1BrR09KOVJkOUhvUTNnOXRHRm1zRHJBMUxLVWVtLXkxa1ZuaFMzYw?oc=5": {
       "title": "Engie avança na venda de ativos de iluminação pública - MegaWhat",
@@ -4139,7 +4051,7 @@
       "source": "",
       "added_at": "2026-07-20T16:45:09.345688",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb21CSG5idDVVNHZVeVBqWFMyRGFQekw3aFZqUUhjQ1g4Yk9rMmd0Qzh6eG5iY0FDSHYtcHB2Um1WZ2xCTEhaU0NxY01uLXl6U0NVSng5ajAzUXpDMDZHZWM0Z3Vtc0pKa3Fkc1ZtVkdLWXZtN3kzOEVwN2lQVm1LVF9xSm1FLW5nQnJuaEliQjJpR0IzMjJJSVRLVWxlYW1EdXlRQVl6WTljR0YzNEx1SDYwbXlYSjZ0SThyaFBZaG9EVnh6T3ZMSTVVZndLYk9qU0dvaV81S25VVUc5Mjdkcw?oc=5": {
       "title": "Electra prevê virar superavitária em 2027 e tenta evitar cassação de autorização na Aneel - MegaWhat",
@@ -4147,7 +4059,7 @@
       "source": "",
       "added_at": "2026-07-20T16:45:09.345995",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdENPcnloTC1pWDJlOVRfUGxGT2ZCdkxycGZ5SUQ3VDFreXYtWlY0X0JZelZVSmRsTHZGaEhsanZySTkwUUYtOUZ4MUZlNHc5cndraGNzbU9pbGF0VV82bUlGVWk4VkdUc3pVR0JWN0hEcm5TS1dFSkVXUVF2SWlEYW5VcnBTWjQ3M1BGQXdEQVJlM3hKckZTVTJIYWVXa29BbTdKOE50WUdhVHp1RnpzemtGWGM3UjUxWXJjeUlvb21EWEtlYkJwMEozUHF4d1BsZnNBM1g5cw?oc=5": {
       "title": "🎙️Hidrelétricas reversíveis, El Niño e o papel da ANA na gestão da água e da energia - MegaWhat",
@@ -4167,7 +4079,7 @@
       "source": "",
       "added_at": "2026-07-20T19:06:28.616873",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnNRRW1FaFJ5LV82d1pCdWNwdzJzVW9HdVViOGh1UzNZamJRZ21VcnIxTVFLbDBRN2dOa2NIWWVjNVNzeXhSRVg4Z1MzdFc1dVVaUzQwNzYzNWdaTU5HTTQwZFEyVHpzX1E2UFNIVzZZR0VmOURmZm1BNWJEdzRfR1pFZWRHeGNYTUlOeUFWRTg1blluX1QtN1ZaOWMxWm1rWjhxTDF3ZHNhdjA?oc=5": {
       "title": "Gerdau recebe nova aprovação para compra da Dona Francisca - MegaWhat",
@@ -4175,7 +4087,7 @@
       "source": "",
       "added_at": "2026-07-20T19:07:05.933978",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXhpUWdhak12OHl1SDE2cXQ0bGNPMmVYUWQtX3EwNDNWaG5wb2tBOWhrZ0dNcDZkX0xXSFllR2dGbzktaklSemlSOVFGOTZkOFoxWGlGODRrUXlaMHVhc1ZaVEVQdGZYYklZa29WRGd2dVcwODJlVU50MnpJNnZ4Z0t0Sk52NGtQbVY2cjE3dm9WT2YyQ1dpVlBpWVNXSEozTE9ReGx0Z2N4LXF1aW1Oa2FxUXFzb1QzVURQU2VwaTRzenFiZFRsVnh5OVU?oc=5": {
       "title": "PL das térmicas pode elevar custo do curtailment para R$ 3 bilhões em 2032 - MegaWhat",
@@ -4183,7 +4095,7 @@
       "source": "",
       "added_at": "2026-07-20T19:07:19.906156",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQW1FRE45ZE85MG1lQTBlYnpPekliTmFodmUzcUQtckZaa094OGZ5MVJScFFEaUxVVXBzZlU5b180TUw2YUZ5bGFhdFc3ZWR2MTZwVFQzVlRUd3FWSEl1eG56VXdHaXVkdXZSVTlaX2g5NHJjb00tY0hUWU5pMDQzWFZPejJnNDkza0oyeTRQWjMtb2pvTnZqdWpQdWtvaHpGNXR2V1diQVZYTFFz?oc=5": {
       "title": "Térmicas da Petrobras e da Âmbar comprovam transporte de gás para LRCap - MegaWhat",
@@ -4191,13 +4103,61 @@
       "source": "",
       "added_at": "2026-07-20T19:07:19.906255",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMDMxZUpqd2l6ZTdacjgzWHZfUnlPYk5sdTFLVWhEWjI1ang4MVFLVlVHdUNHQy1pdEdWSmN6VWN4U2ZSaF9WTnBadHczQ3hnRE53NHRVcDd1UHVveXNkbEdiTDZ3d0xZdkNXOVdIRmQydlByQ1EtNl9URlhWT1I1d25CZVZLUTlXUjl5TGVnbERhMkljM0R2TzVqQXZSdWRNbGpERHFPUE5tN0hESVpHTjRNN1Y?oc=5": {
       "title": "Indústria de alimentos negocia fatia em eólica da Casa dos Ventos - MegaWhat",
       "summary": "A fabricante de alimentos Tondo notificou ao Conselho Administrativo de Defesa Econômica (Cade) uma operação que prevê o futuro exercício de uma opção de compra de participação acionária da Casa dos Ventos na Ventos de São Galdino Energias Renováveis. A opção de compra está atrelada à sociedade que desenvolve o projeto eólico Santo Antônio 01, integrante do Complexo Umari, no Rio Grande do Norte.",
       "source": "",
       "added_at": "2026-07-20T19:07:19.906341",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXU0eE5wN2hFaGpYbEo3Nms1Uk94akRkTk5zNUpUSWtGZkdiVkZieE1Zb2d2SkxvT2ctNFVscDJUSmZnU2RMdVQ3MnV1akg2eWlpcUk1Tm5qd3A4V0V3MFdRVWkwNTV4NTVtY3dBdUhCbzVTV3otWlVGemFqQ1N5RUVBZWR5Zm9VZ19ybkNFNGpzWmUw?oc=5": {
+      "title": "Curtailment no Nordeste tem pico de 16,7 GW no domingo - MegaWhat",
+      "summary": "O Operador Nacional do Sistema Elétrico (ONS) manteve elevados os cortes de geração renovável ao longo do fim de semana, com restrições de até 16.670 MW no Nordeste no domingo, 19 de julho. As limitações para garantir a segurança do sistema permaneceram durante as 24 horas do dia e voltaram a atingir patamares superiores aos registrados em boa parte das últimas semanas.",
+      "source": "",
+      "added_at": "2026-07-20T20:40:56.568233",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFVKMVU3V243U3luU3kwbldpVWhGY0xsRF91b0FzNHBaek82dWVmZzBFZkdLV0l3eUlzdUdaS2wxd2N3b2oxT1JmbmFZS25GQU5JS3huQlpxTHRrY0plYXlsVmdJZ0h2cDdIWGQtODNSdnlWQjJXcjBpSHYxdFJvWTlkX2d0SDRXUFJpeFdsdWJFTjM0NkpFb3liazhnQQ?oc=5": {
+      "title": "PPSA oferece 2,9 milhões de barris da União em leilão spot - MegaWhat",
+      "summary": "A Pré-Sal Petróleo SA (PPSA), estatal que gerencia pela União os contratos no pré-sal, organiza novo leilão spot de cargas de óleo da União, previsto para o dia 29 de junho. Este será o sétimo leilão spot realizado pela PPSA, e deve oferecer uma carga de Atapu e duas de Bacalhau, totalizando 2,9 milhões de barris.",
+      "source": "",
+      "added_at": "2026-07-20T20:40:56.568327",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWprRHFRWlpkaThsOTdaclI0ZGpPeHZsUG5ady1UOUVjelFyOV81V3hxc1d5RkFCdHVsLWR1ZGEzZmNMN1F5WEtGSVpUcjF2X2tUMVVNQmxLUHVqUEczUkN1QmlBT2xfaF80YjdSdEpITkpjMFhEcG1OVTUxdDZnOXJMdkVDQi1FVGRxVW5Sb0N2dWcyY25ENHkzdC1iT3p1ZGFDZQ?oc=5": {
+      "title": "MME estabelece garantia física para 26 usinas solares - MegaWhat",
+      "summary": "A Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (MME) estabeleceu nesta segunda-feira, 20 de julho, o montante de garantia física de 26 usinas solares em diferentes estados. Na Bahia, a pasta definiu em 24,2 MW médios a garantia da UFV Solar Irecê e de 9,8 MW médios para UFV Solar Irecê 3.",
+      "source": "",
+      "added_at": "2026-07-20T20:41:11.487070",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOG9Hb2pWUGtrNEpjR2JBei1KeFVnVVZhdEhTandfcGRkQ2NSMDZuUW5ZQjdxa2JPT3p5elhVRk0zTHBIU0ZpWGVvV1pGd181NmVsUDdLZkJGRV92RVdRRGd4bnQ0M3VTUGdZdzBfQXMzTlJiN2JyQ0JHWUQtb2ZGQ0RJM3NOUjJMRmpqWTExUmRRX0ptZTlqdjkwNHlfYVpJVmJ2bE5XT2xJZU91YWY2VHhObjZzT2hScy01bXdrTG9oN1JYZnlzTTZSdG16T0w1eGhvYXZ3?oc=5": {
+      "title": "Comissão da Aneel rejeita adiar calendário de projeto de baterias do leilão Sisol - MegaWhat",
+      "summary": "A Comissão Permanente de Leilões (CPL) da Agência Nacional de Energia Elétrica (Aneel) rejeitou o pedido do consórcio IFX-You.On para adiar em um ano o cronograma de implantação do empreendimento que combina geração solar e armazenamento e garantiu um contrato para atender o município de Jacareacanga, no Pará, por meio do leilão de soluções de suprimento dos sistemas isolados de 2025. Em ofício…",
+      "source": "",
+      "added_at": "2026-07-20T20:41:11.487305",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQUhIUksxdDhfRzF3UmhEV3YzS1FYZ1g5dlNFYUNQTDV6c05uMFl0RExGdWFoMjdfMkR5SEFaRm1HcXhkcHZsbUMzdDZhdDBZMVZxZVktdE9pOUk?oc=5": {
+      "title": "Tag UTE Termomacaé - MegaWhat",
+      "summary": "Transporte firme de gás Térmicas da Petrobras e da Âmbar comprovam transporte de gás para LRCap Quatro termelétricas vencedoras do leilão de reserva de capacidade na forma de potência (LRCap) realizado em março deste ano comprovaram a contratação de transporte firme de gás na ordem de 70% da capacidade máxima e de modo contínuo das plantas. A comprovação observa norma do edital do certame…",
+      "source": "",
+      "added_at": "2026-07-20T20:41:11.487512",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaG81YnhfMTF0TWVCcVJYMEZzVVV4TWFvdVdhNklJSjJwbjVzRkZaQjl6eXp0SUNrVFRVaEttMmRsVG4tdU10d1FtMFVONGs?oc=5": {
+      "title": "Tag Tondo - MegaWhat",
+      "summary": "Autoprodução Indústria de alimentos negocia fatia em eólica da Casa dos Ventos A fabricante de alimentos Tondo notificou ao Conselho Administrativo de Defesa Econômica (Cade) uma operação que prevê o futuro exercício de uma opção de compra de participação acionária da Casa dos Ventos na Ventos de São Galdino Energias Renováveis. A opção de compra está atrelada à sociedade que desenvolve o projeto…",
+      "source": "",
+      "added_at": "2026-07-20T20:41:11.487540",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
