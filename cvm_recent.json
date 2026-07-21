@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-21T09:49:13.467401-03:00",
+  "last_updated": "2026-07-21T11:53:16.996776-03:00",
   "items": [
+    {
+      "cnpj_short": "02680-8",
+      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
+      "categoria": "Escrituras e aditamentos de debêntures",
+      "tipo": "-",
+      "especie": "Primeiro aditamento da escritura da 12ª emissão de debêntures simples da Copel DIS -",
+      "data_referencia": "20260720 20/07/2026",
+      "data_entrega": "20260721 21/07/2026 11:11",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Primeiro aditamento da escritura da 12ª emissão de debêntures simples da Copel DIS",
+      "protocolo": "1546506",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546506",
+      "empresa_label": "Copel",
+      "codigo_cvm": "26808",
+      "first_seen": "2026-07-21T14:53:03.892973"
+    },
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Cronograma de Divulgação de Resultados - 2T26 -",
+      "data_referencia": "20260721 21/07/2026",
+      "data_entrega": "20260721 21/07/2026 09:59",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Cronograma de Divulgação de Resultados - 2T26",
+      "protocolo": "1546482",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546482",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-07-21T14:53:15.474181"
+    },
     {
       "cnpj_short": "02680-8",
       "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
