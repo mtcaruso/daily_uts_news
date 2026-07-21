@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-21T15:54:45.969633-03:00",
+  "last_updated": "2026-07-21T17:10:41.549835-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "Rating ‘brAAA’ atribuído à 11ª emissão de debêntures da AXIA Energia S.A. -",
+      "data_referencia": "20260721 21/07/2026",
+      "data_entrega": "20260721 21/07/2026 17:08",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Rating ‘brAAA’ atribuído à 11ª emissão de debêntures da AXIA Energia S.A.",
+      "protocolo": "1546585",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546585",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-07-21T20:10:23.420062"
+    },
     {
       "cnpj_short": "00382-4",
       "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
