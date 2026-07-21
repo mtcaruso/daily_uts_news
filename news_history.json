@@ -1,44 +1,6 @@
 {
-  "last_updated": "2026-07-21T21:25:40.110602",
+  "last_updated": "2026-07-21T22:33:39.000631",
   "items": {
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWU1TlVMTC1aS3pDT2hwbl9XRTFMQ0NTNTdybkVKMjdvRkIxaURSXzNfZzhoSDBjbUx6aHZlNWh4UDBwbGZUMUJ6S3ZvM2RCU0FHc01oS3NFWXpnLUkwaWpJbFZwYzdWTnZOcWt2eEpPeHFQd0dVcWY5dU5vdVQwQjJIRlNXcDNzbFkyWE5Wekg4bjNKbFVXdkxEN1JxNVNKbHhfMkJhOFc4Mkw3d2tDbzdlWmhxejBySko0?oc=5": {
-      "title": "Comitê vai definir prioridades dos modelos computacionais - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T22:00:06.499532",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXBJbVBvcnNqZFdXSDBiX3VLY3loeVEycXA2WDFfVXVKY01MTUlRSlZmcENyX01NZEdzWkh6elROWm00WDNUS1c1NzVhMkRtd2Uta2NLa2VONlRBcDRGVlhMWnlTbnlOd05yMDBSX0dOb09fSVBQZ0ZvbjhSUXdYaVlDaFhGZHZuNUJGdWZIbUxMTng1am9mc3gxeUZmS3E5NUpaTEl1dFZLNkdOUGphQ0tMWGZWY0k?oc=5": {
-      "title": "Senador defende alterar Redata e incluir térmicas no atendimento a data centers - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T22:00:08.611410",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3BLb3ExZVBUTTlXUkhYVmtFaGRkc1pwZnZySm9MNHo0QnRtQm15a0dzYjlWcF9tbFA2dksxcE96UEJXT1l2dEx2eWM0bVRaemZTbUlPUVZDSU4tMDlrOEpCbF9yS1FHYTJacEFyb2dqTVlsTXNqdTJaYmRIaklaU0IzdWRoOUJsMlNoSUFuUGZpSHZCcjI5dW1MZFphNC1pOWpPUWtERFJzR1RMVmR4Z216Q3NOZw?oc=5": {
-      "title": "N5X escolhe empresa para desenvolver infraestrutura para clearing - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T22:00:10.593889",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXBiTDdWeTVTQVRybkhSOEtUZWpybUV3VlkxUFFUUWFMUFJDYmVwdEkya2ljRE1HY285cTB4cXg0UnJXVW44d25uc0hvVWNyN0N6V3JZMVJlakZWTFBSUmIweUV6MDdJR0ZUSWVYeWhBSVZad2NZYURzaFZobU1GZkhmMFpfdENRanJjWThMTHo5WDAzYmlJenFtYnNHQ0duS1p4UlN3aXVVWWdxQ2ZoS1cxU2Z2Zw?oc=5": {
-      "title": "Liquidação semanal do MCP ainda deverá levar dois anos, pelo menos - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T22:00:12.505166",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ1NCTzZBYXFHQS14WV9yUHZZOWIweEVXV3hpYkFzdWhoXzRxWlpZUUcySkZHZUR0Q2ZsUmIzdS1MbW82ZUJjdmJldDRqMTVreHQwRDh3ZS1fT3lQSjZZMjVvV1lTRV9hZ1ZlXzRNODJfa3RweVZYLVhObDJzXzZqbEZSXzExVDBQcUVCQUc5UW5zMDNmMVVEZUVVM093VnNsWUE?oc=5": {
-      "title": "MPF pede sanção de PL que fixa distância mínima de eólicas na Paraíba - Agência iNFRA",
-      "summary": "O **Ministério Público Federal (MPF)** recomendou ao governo da Paraíba a sanção integral do PL 2.061/2024, que fixa uma distância mínima de **1,5 km** entre aerogeradores e edificações. A medida visa reduzir conflitos e impactos à saúde e à criação de animais causados pela expansão da energia eólica.",
-      "source": "",
-      "added_at": "2026-07-07T22:01:35.606320"
-    },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUEyWGkzWFhnS2dIZmE5Q2IzbHlITmQ4UWJiRVk5Qm0tcGM5V3BjeTh5VmdJdkcxT0I4TmVyQ2o3enplaFA5TWlCRFEtVTUyam9USzJiNjBtdVp2c0JGZ2stdFR6bVVHdzZfMENBQ3JBbDBRbm1ORDhWTTVWU0dZd1hTeEVud0dJcklJdktwdVRwVzNWLUF2V0JnMWp2N0gwOTNZdzFWMFXSAbcBQVVfeXFMTmZHSUdtbDFGVElxNVd6SHo0Y2ZxQ0VTRk4yYjFqRlVDZkVsSTBNWjVpYjFlYVliNDlCS3Z5YXJvNHYyYXJ2N1R2TkM1MjN2UXYzZS16elEwLW1kNWpkUkVZTmYtaFBNZUtpbm9mMjR2UmRsZzJTRlU5SjVVMlQxRFZta1pTeWxkOTVFN1p1QmZNa0Y5RlJ6dE5EbkpVRmZIVXltYldjMTVyQ3JaUkJRd3l2dFhaOHpn?oc=5": {
       "title": "Conselho da Sabesp aprova dissolução da Infranext - Valor Econômico",
       "summary": "Conselho da Sabesp aprova dissolução da Infranext Segundo o último formulário de referência da Sabesp, a empresa detinha 45% da Infranext O conselho de administração da Sabesp aprovou a dissolução voluntária da sociedade ligada à Infranext Soluções em Pavimentos. Todo o ativo e passivo remanescentes serão atribuídos à sócia, DVS Locação de Equipamentos.",
@@ -3781,7 +3743,7 @@
       "source": "",
       "added_at": "2026-07-21T14:18:45.051575",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTlQMUVsTkxPbjhsY0xvWTJ4dnBfcXZ2U2taRUVrdTZMeXV5SmpaOWNMVkdodm5jNXcyS0xjS0lsWVpXVmktNnAtN1hvOXFXUVlGUDJBOEczUnZ1OXliY0NnS0g3dnotbHpnVUFFNFlmaE5FQnlWa29HVFlJNVpwWlViWDliSXRGbVpSU3ZRaDlEZ3FnX3Zj?oc=5": {
       "title": "PDE 2035 Relatório Final Aprovado Defeso - CanalEnergia",
@@ -3789,7 +3751,7 @@
       "source": "",
       "added_at": "2026-07-21T14:18:46.703506",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXh0V3Yxby1TbkF3OXBJcVRuR2dteFYzOXFwMF9FYjRFYkVzc3pBRS05Yzd6alZBUGEtSFdRWktpUVY1VnlOUERVM2hlbmZRZHJmYzIyUThyZDA4YkNmZThWNDlnUUZnX2Z1UFpWZ0RnRXVXdDdqZXVETTdtOVphM1lDNmJSeUY3c3NhSkdVQ2Jvay1HMmVoV05pcWVna0RyQTNKaEtPa19vV2J5Ykdqc25TN1o4OTlLQ1JlTFR0SHVrbFBhZF8wTW9abmNnZkJwaEHSAeABQVVfeXFMTXNrUGtQUHRwYkphb3p6bjFxT3hUZ1pDZm5ONjczaDkzamFYVXozNFlaa0tKMW1RZTVfNEh6VmZXZUxsQ2FJTnJXSHNUY21Ubk9XQlBFVUFmbXFLZnJWUkxaUjVjQTE5WnZUYkFEV25Kd2Yzd3ZPRS1sM040dWRaOGdBUWt1RGpTdFM1SHFoaEZPOEFnTXZGaU1Ob0UtbmpfbUdYT1c1TjNFT09OUUZqWGlnSkZZTVZSblpma3djSWpHd05KbGgzeWVDSk83XzlaSTY1X0JLWTFTaDZZSTBzM2M?oc=5": {
       "title": "Governo se reúne com entidades afetadas pelo tarifaço para formular plano de ajuda - Valor Econômico",
@@ -3915,7 +3877,7 @@
       "source": "",
       "added_at": "2026-07-21T17:44:24.579346",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHU3emRlNFpkUG1VSXpPMGJvQVNVUkg0dzJIb3pLeEx4Q0dUTHlrNVhqSnRSc1hDZVd2cW5SOVBHZVFPX2lBZ1RiWGc5Q2R4SV95cE81QURnX3Z5NmdnYXdndFdyNEVhLVdKRlhEWXkwcUdlejJBN0J4a21JVFdEVno3UE1DWGt2Q09sbkwwVkJ1V3lGNTRnQ3lxYkktX25yVjAyY1MxZmlBXzJWWkhyV3BFc2ctNUJTZ205SlJnSFJ2a2I0MG9RLWpPbmlsODVEYmtHVtIB4wFBVV95cUxOR21rRzZXNUlod1lGSFhFekFmWGxUSkc2dGtnM3pzWGRNeGVXSkRKV0N3a05IUEN0NFZ3b1Rldl82LXJUU0VyOGtjdXpMTEg2TXZIYVh4TnVCZkNvdUNtVFBOWFpCUXI5TG1fQUIzSDlHTnJvN004UmJFTjdMTllndDA3V0JTZTlhcFpvMGhTblhEOTZNdHlWSzZZUkdGUzA1eUgwcHlENi1JTzc2Ym90SGdETlJneEpaaGUyN25kT2xXMzBybkZ1WGlGckpFT1pvNnluN1RmOTNmRzE2QnNSY09BRQ?oc=5": {
       "title": "Segurança energética global corre risco se Estreito de Ormuz seguir fechado, diz AIE - Valor Econômico",
@@ -3975,15 +3937,15 @@
       "source": "",
       "added_at": "2026-07-21T19:49:22.029765",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTNBcEUtNG1uQld1bURjX01LNWpvVGVsa0ZvQ05BTWp6M0FvdUdlYVp3SE5zdkZGaGJXWlktNUpfR1p5eHIyc1k0dS05cmhvcndCX1NhMFBUVWlrR0RpYjg0M1hKUzBubmFNY1FPTnVzMGlOUkRXY1pUM25yZngzM09TNlJwOVVyRFlTOThsY3p1eXRXald0QmNGZFgzYTgtZlEydlNUX29MM25WbFBqYW1MUHVOUy1EU21tS1JxT0VEWjdGNnVJVmRB?oc=5": {
       "title": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas - Folha de S.Paulo",
-      "summary": "O governo federal recebe nesta terça-feira (21) alguns dos segmentos industriais afetados pela nova rodada de tarifas anunciadas pelos Estados Unidos contra o Brasil. Estão previstas reuniões com associações do setor de máquinas e equipamentos, calçados, e pneus.",
+      "summary": "O governo federal recebeu nesta terça-feira (21) alguns dos segmentos industriais afetados pela nova rodada de tarifas anunciadas pelos Estados Unidos contra o Brasil. De modo geral, as associações pedem que o governo erga barreiras à importação de produtos chineses, amplie programas de crédito e siga nas negociações diplomáticas com os EUA, sem acionar a Lei de Reciprocidade.",
       "source": "",
       "added_at": "2026-07-21T19:49:22.030189",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjBCNnlwT3VTOTdGaGpBbmhOUGFHZ3dLczBvb1gwNmhHSWplczl4dFd6Q2RUUHFZbTVod3ROdlJBMnJnaW96Qmhlc1owamJfV2liV2l4YUIwaW1RV00yMmlPeTFxTzhqTDJ0S0gtTjJobXZLT0RVMVFaRG1oQkNNMEM4VGZXcl9yMHZXREZkcFJJcTJJMFhaWmdkS2VwN1dNUzk3aDNDbVM?oc=5": {
       "title": "Associações pedem à ANEEL novas alterações em proposta de rateio de cortes - Agência iNFRA",
@@ -3991,7 +3953,7 @@
       "source": "",
       "added_at": "2026-07-21T19:49:37.796009",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzhiZmt6TlNzNDNkT1B4RFgxNmQ0SDI5Zk1aNEFaTlo4RmZ3UllWRmtWUXhWQ011cU5LY25RdUdMdmFIQVVTWUNXWENnT2ZqcHZlWk5OdGJvWEcweXJmb0J2RmxNdkI3dnkzbEZ4RjZnSkZBTlItV3B4Mmx0ZEdKWnRNRFhjeVBJRm1JanFLWk0tX2pPbnlEajY1bkJtLXRRWjZsTVVtSWlFcVNSbEVQS0RqUi1hZw?oc=5": {
       "title": "Associações pedem revisão de rateio, cortes elétricos e autoprodução na CP 45 - MegaWhat",
@@ -3999,7 +3961,7 @@
       "source": "",
       "added_at": "2026-07-21T19:49:37.796293",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmNjWUY1YnFRVy01X2dMNEFzYU5hLU9GOThfZUdidHZZdnpMMDJSOXE0cGlGWjRJby03bThVWU82dEpCdUp4VTlRa3IxbTM5bEVZT2VBNVBUdFpzT2FLc2JWOHlwSFp5TEg0T19qaVl4YkVlOVU3TkNzSnVSd3JRYnhOak10U2RqRmllT3o0cTJUSXZJMXdDT09JRVBjNFNVQ29hRzFfTXR1ellRTFk3bTdpTllVc1RHVVFVb0NFWm9nVU85MHNBNk9KbnM0VU9JemxF?oc=5": {
       "title": "Governo do Paraná solicita ao MME inclusão de hídricas reversíveis no leilão de baterias - MegaWhat",
@@ -4007,39 +3969,33 @@
       "source": "",
       "added_at": "2026-07-21T19:49:51.613501",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc00xbzhjYnppNENRMlFhLTNBc0owTGxCYlNEMVVNS1ktUE41aVkxOTZnYThjUUd4VVpzZDg0dzV1WUhRWTk4WTRUdkNhYVJFV3dCOU1ZVndQQTh2b1ZVbFNQYlFBRWhBTzI1WjYyNEpVWGVFREk5cTVvRVA1N0c0UmQ2dWd0aUVVMjJiak8yY1pobk5jMU1Ra3l1RHFkREM5Wm5OMklIZw?oc=5": {
       "title": "Schneider e Kraken fecham parceria para gestão da demanda por DSOs - MegaWhat",
-      "summary": "A empresa de tecnologia Schneider Electric e a Kraken, sistema operacional por trás da Octopus, anunciaram uma parceria para desenvolver soluções voltadas à gestão da demanda de eletricidade por distribuidoras e operadores de rede em distribuição (DSOs). A proposta é integrar as plataformas das duas empresas para ampliar o monitoramento das redes, antecipar congestionamentos e deslocar o consumo…",
+      "summary": "A **Schneider Electric** e a **Kraken** anunciaram uma parceria para desenvolver soluções de gestão da demanda de eletricidade por distribuidoras. A integração das plataformas visa ampliar o monitoramento de redes, antecipar congestionamentos e deslocar o consumo de energia em tempo real, com potencial para reduzir a necessidade de expansão de rede.",
       "source": "",
-      "added_at": "2026-07-21T19:49:51.613619",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T19:49:51.613619"
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQngzU2ZOR0IteG5Vcko1Tnl2QlA5VU5qZVFWZ3VJM2h0Qm85aTZVNU5PalZtTmhMdjFqeGpoLXBYTHBYdUNxT19OZW9Nd2JyWUFkUjFwTURZSlZVUFJqTURVdUpZcm1TR0tWN3NOX05XZ28zTnYyanVfTU1Yb0diTzB2TDV3UWVNLUV3dnBwdUZ2YkdPNGZINU1OcmdGcDRpTjBHUzVKV0UxUQ?oc=5": {
       "title": "Custo de baterias para armazenamento de energia deve cair 23% até 2030 - MegaWhat",
-      "summary": "O custo de implantação dos sistemas de armazenamento por baterias deve continuar em trajetória de queda nos próximos anos, embora em um ritmo menos intenso do que o observado na primeira metade da década. Entre 2020 e 2025, o investimento necessário caiu de R$ 3,97/Wh para R$ 1,88/Wh, uma redução de 53%.",
+      "summary": "O custo de implantação de sistemas de armazenamento por baterias deve cair **23%** até **2030**, chegando a **R$ 1,34/Wh**. A consultoria Greener apresentou as projeções, que consideram sistemas de **500 kWh a 1.000 kWh**, e destacou o crescimento do mercado no Brasil, impulsionado por comércio e indústria.",
       "source": "",
-      "added_at": "2026-07-21T19:49:51.613720",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T19:49:51.613720"
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaW03dEpuRkc4ZWhRZkhjcWhTanRhQ3l6Tko1bHZPV09YZTd3NlBSb2RCdnoxbzk5YzhfeXZ1N2QzWDZvSUxfbDB0aFlBTW85V2p0VGJreVdNQXBLSThmMEFJT05sQXVpbHpEYjB6cGJ6eHJoSllkakpsbGxCVWV3YlBaS1ZiZU1IRjQ5ZHdpWV9LMUdLMDlxdnRQV2kwVkExcUd2Yk42N0ZGNnNDMlU0RElFWEpUeUgxUWlYb2xCd1JsMzE0TXpBSFlSTQ?oc=5": {
       "title": "Dona da Odata, Aligned Data Centers muda de mãos, com US$ 5 bi para expansão - MegaWhat",
-      "summary": "O consórcio formado pelas entidades de investimento MGX, Artificial Intelligence Infrastructure Partnership (AIP) e Global Infrastructure Partners (GIP), da BlackRock, anunciou a conclusão da compra de 100% do capital da Aligned Data Centers, empresa que detém a Odata. A transação foi firmada em US$ 40 bilhões, e prevê mais US$ 5 bilhões em capital adicional de crescimento para financiar a…",
+      "summary": "Um consórcio liderado pela **MGX**, **AIP** e **GIP (BlackRock)** concluiu a compra da **Aligned Data Centers** (dona da **Odata**) por **US$ 40 bilhões**. O acordo prevê **US$ 5 bilhões** adicionais para expansão e aumento de capacidade para IA, totalizando mais de **6,4 GW** de capacidade operacional e planejada globalmente.",
       "source": "",
-      "added_at": "2026-07-21T19:49:51.613796",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T19:49:51.613796"
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOREo3ZHdOeGszVTJyTnlONUREOFZjQXhCc1R1MGNmUzhyODBPMmJiWkc0X19kYURhLW9qaFFVRW5kNXpzRHVMVWFWb0R6WEVXUEFuTkNoSGhNVk0wajJrM3Exb1c5ZnQtWU9UdkJsSXJ3VVozVkN3UkZNME8zTTdZRHlWX2h0S3R2T3dNYXdSVDFiWDhzTzlfVFMxcFB4ZUw3RW8yT0cwMGlBM0NtYUlJNTd2S0JQQWY5WllfM0J3Y0EycVdza3BhMXNsMHo1STQ?oc=5": {
       "title": "Ressarcimento a empresas por corte de geração de energia deve ficar faixa de R$ 3,3 bilhões - Estadão",
-      "summary": "EconomiaRessarcimento a empresas por corte de geração de energia deve ficar faixa de R$ 3,3 bilhões Psicólogo será trocado por IA? Veja o que diz reitor da faculdade com o curso mais caro do Brasil Conteúdo Patrocinado InternacionalSecretário de Defesa dos EUA calcula custo da guerra com Irã em US$ 37,5 bilhões",
+      "summary": "E-investidor Pulsa Paladar Jornal do Carro Descubra Assine Assine 1 ano por R$ 1,90/mês • Assine 1 ano por R$ 1,90/mês • Entrar Em Alta ressarcimento a empresas por corte de geracao de energia deve ficar faixa de r 33 bilhoes Hoje em 5’ Seu resumo narrado do dia 21/07/2026 | Edição das 18h30 00:00 00:00 1x Conteúdo gerado automaticamente com o uso de Inteligência Artificial. Veja nossa Política…",
       "source": "",
       "added_at": "2026-07-21T21:25:18.739497",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQndDa0JUR0RrSXRncEpyVG9PQXBwM24xelZ6UHpNQTlpVnktclNEeGpneExOOVJHRU5KYk95VVJjNHVZM0VTaUw5cjZPVFhLa1Zlek1CUW9xZndjOVdxSm1LSHlKQmd4bE5IZjd1OW5iU1NlR3lxTFlyQURXSUpXOUR6TjZURFNMd0xXcHY3bWJaZlVTcTk00gGcAUFVX3lxTE5sbTRhc1ozMlJCMURWOFUxbVB4OUJRVkpPcDRyWnpBbFUyeUVIamltS3ZMQl9TU2d1WHJ6bkhmTDQtV1JGYzhSNDQzYnNDS3hnVzVON09scmJpMlQzU0gwUkxqS1BfcVVzR2t1ZGxvNmZYNDNxVzV4N3YwYTUtSHJYNWRzNFV3ZzRGOENaVnlTU2daamc3STNfMk10Ng?oc=5": {
       "title": "Vazamento de gás é registrado em obra da Sabesp na zona oeste de SP - Estadão",
@@ -4047,21 +4003,29 @@
       "source": "",
       "added_at": "2026-07-21T21:25:18.739636",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb2xqcGJRMmViUE1wRDVqdlFLelNIUzJadWxKamd4STZORFZ1VEctaVpVQjJJTVZzRDBCNFZyRHoxT2prVjFvNUdOd01GUUlEb1BsTUJCS1RFeG9GNmlpMXBaRGFqMVl1cF9jT2Zab3o5Mk1nQ0VodkJXYmZieWJHY0txN2NaMVVrUWVrQU5pclVJV1ozaEFibk9aZ1lST0kwanJ5VDhnOU1hNm1TeW90ZzR2b0otQ2kwRzk5ZXR6Y3lpUUpU0gHKAUFVX3lxTE82S2lxVWVVNmphN0hVZzVuSHdWVV9fYlEyZ1VNWFhQRzd6VEpUeFNiOEJERjNLU3hPaWJnbTRuOVAteUo4RTMxNW4zYzZ5N0JwaDQ1QXhWdktMb0VCeUxlQ0lGMlRwQkYydkdWNXdnZV9lN3Q4NnZ3MURQa3pTVExuYk8wQ3R6RGs0Nmpab2RnLWNMT194Q1NuSU5LbUdkTTlKVDFxRENQRzV5QU9qNGhZWGwydlJuM0daVnBGWUludVVXN0wxRjVVUWc?oc=5": {
       "title": "Ressarcimento a empresas por corte de geração de energia deve ficar faixa de R$ 3,3 bilhões - Estadão",
-      "summary": "Gerando resumo BRASÍLIA E SÃO PAULO - A norma que vai viabilizar o ressarcimento a empresas por corte de geração de energia elétrica deve ser publicada nesta quarta-feira, 22, no Diário Oficial da União (DOU) ou ainda nesta terça-feira, 22, em edição extra. As estimativas de valores apontam para um montante próximo de R$ 3,3 bilhões para o conjunto dos agentes que poderão ser ressarcidos, apurou…",
+      "summary": "A norma para ressarcir empresas por cortes de geração de energia será publicada em 22 de julho de 2026. Estima-se R$ 3,3 bilhões para compensar geradores eólicos e solares afetados por interrupções no Sistema Interligado Nacional.",
       "source": "",
       "added_at": "2026-07-21T21:25:18.739754",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVFwQ2lkaEJtOVlIQWoxdVhxRmJKbTQwWDh0VUlSS1JaaW9PYWM5b1g5dzRaNVY5UDVDVTRUVGxKS1dFUEY1cExCeUZxang4RGh6YjdqTmR1bkF4RFJ3LW5tWjVoM0dmUS1WUXBTak52M0FuRVVsazlFUEhNUmJhbkxNcUs5QVBpSVpSOE8xNzRNQU1GQ2txaml1MnJwalgxbVNyTDRwbmF1T0Z4MGc3RVRLV0xwSDJCMVFVdDZfT0lhcDFQa0Z1OXJHWQ?oc=5": {
       "title": "Experiência da rede básica deve acelerar regulação de baterias na distribuição, diz Mosna - MegaWhat",
       "summary": "A regulação do armazenamento de energia na distribuição deve avançar de forma mais rápida do que a norma para baterias conectadas à rede básica, concluída após anos de discussão, segundo o diretor da Agência Nacional de Energia Elétrica (Aneel), Fernando Mosna. Entre os principais pontos do novo processo estará a definição de como remunerar a flexibilidade e os demais serviços prestados por esses…",
       "source": "",
       "added_at": "2026-07-21T21:25:18.739989",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2xGNTlOMGFnTW90dWNwVzJIWmZDOFZzSzhIOHpCaHdQVVhzUXhDaklCdFdUZnVFM25HWi14amRBNHItM2k3TUZ6Nm40QVd6Qmw5blowUEtUbVhCaFNPMUxGSi1nVUR5aDloS2tQdEdBd0E1SVBvaHBKOE56WFFjdlp1MjNsYllDSHZHalFB?oc=5": {
+      "title": "Leilão de saneamento em Rondônia testa o mercado (e a Aegea) - Brazil Journal",
+      "summary": "O próximo leilão de saneamento no País, agendado para 29 de setembro, está sendo visto no mercado como um importante termômetro para medir o apetite dos investidores em meio a um novo momento do setor. O Governo de Rondônia oferecerá a concessão por 35 anos dos serviços de água e esgoto em 40 municípios, incluindo a capital Porto Velho – num contrato avaliado em R$ 8,47 bilhões, com preço mínimo…",
+      "source": "",
+      "added_at": "2026-07-21T22:33:11.373781",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
