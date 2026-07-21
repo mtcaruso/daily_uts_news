@@ -1,110 +1,6 @@
 {
-  "last_updated": "2026-07-21T17:45:55.058577",
+  "last_updated": "2026-07-21T19:50:03.645021",
   "items": {
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM09OUjhvTGREV3V1b1NnZUtsSnpGSmhxNGZnMEN3bjdjUjJyZHdBNGxCQ05BRjc5bzZkcmkyWXBYXzYyV0pTYjN5TWxpbW05LWhEX2lGT2ZzMURyVGc5My1PbEZTQXZZT1dJdmtUcVIxMkdnbkdkRXk0V2FvZEpYcXJDcVlzR0hXTHpxS1IyVFVha1VYOXVTanBJcjhUSS1iTk9zdnJ4Rm53VktoMm12N3ZLY0ljWDFQYmo0aVhBUlg0MThGSktv?oc=5": {
-      "title": "Plano Safra 2026/2027 traz crédito para sistemas de armazenamento por baterias - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T18:16:46.459128",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkhoUl96dnlXU05RNm9rMXpleXNuenJrOTRCdWIwc1lENDU4SmtsQnVQT0pKbUc0eFRaajR2eVZCSG9vZlZnbUM4MzZqZTJkY3VjWFN4OGFvV21lUVRyd3RBWnZIMlNVYlRXWkdpN3dHQVJZSHdITndwME10OHlyblhEOFV1dFFMcVNBZm9TVVJHYTNRams3X0NRQ0Rfa09BaXJKbnQ4a3lIWUtXVFFTcU5mOUVpQQ?oc=5": {
-      "title": "Data centers pressionam expansão do sistema, alerta ONS - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T18:16:48.158843",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00QndBZHZtbWtqS3lIX3V1Q1R2ZmZzV0pLWXBUaHBPLUx6Y21QMXpNdkZzclBuUGYxZTdUNXh4OG9KdWg1WWR5TWpDV3htQjBjdmF0T1dOM2JtQ21BSm16a0JfOHlqNDg?oc=5": {
-      "title": "Tag atualização tecnológica - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-07T18:17:32.358805",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXVSR2poMzFsTjIzWVNRYWNfNFp6NFhXSDYzWHItbXNnRldoUlhHNnk3azlqT2ZJOFk0R3JKeDljemRUVHc2b0l0Z3JldnRKclJSd3hEcnI5UWt6Ulk5aVZ3SlBLZjFKOVVKQ0h0cXUzV0NjU2U3ZWNxa0lBZzdVdThGUi0teHhtTVFQLUxZSUdPZ0F1enp3OHVZcHRnTlZLZkdWX1VKQkhkdFA2V1Fuc1JZcjJYSHJhRDZJcHJDdEhKZGdyYUNxMnhvRnZTUUpFLWRnYnEyd9IB5gFBVV95cUxNZzlmWG1VcWIxblM3emFyVVB2SGY2b08yZU16am1CbW9SbWtUd0ZUV2taVEJIRGZ1Nno3akdYc1Z6NlQ0X291YzFPUTFrZlBuc2E5MVRaQlkxV3RBQ0cxVGVLblFxdTdMcUpKdWJzWEZ1Y1JrXzRtaVpadFRfTS1ZS3dKdGVWcU9SSW9USDM3OUVOUWNhOVFhRGpVVXJvZlZ2RHhoYTJIQ0JyZVVlX21FOE9GVUJsQ1hlRklVQlpSQ2ppWW5mRHZ2UmZyTHotM2FtMUJmdWpSbmVXOHlmQUJPZGNmZDBWdw?oc=5": {
-      "title": "Em dia de eliminação do Brasil na Copa do Mundo, consumo de energia foi baixo, diz ONS - Valor Econômico",
-      "summary": "Em dia de eliminação do Brasil na Copa do Mundo, consumo de energia foi baixo, diz ONS Redução percentual máxima de consumo chegou a 16% em comparação com a data de referência adotada pelo operador, dia 28 de junho, também um domingo, e também durante o campeonato mundial A eliminação do Brasil nas oitavas de final da Copa do Mundo para a Noruega, no domingo (7) se deu com baixo consumo de…",
-      "source": "",
-      "added_at": "2026-07-07T18:18:05.033208",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGxraHNZcV81WDBPUnJWbGhXUm51Sldqems5UjlycEJJM1VSd0NhOTlQNmVnNVlBY2JDanpkbXgtQVN2c0VEWXFDbHVNTHcyS2JkMDlNQl93TWV1dVdCU2NseVJpa1Vvbm9OOG05WF9Ldno2WXo2N0ZzS2lVWlE2a0RUdVNPWjRmeUNCbW5VeUd6NlNzcktWc0tMQ0lhaHk5SWZiSUc2eUFxMkVmQ0VmWXhESHJsS25IOVRSSHhYSDVuRGt1bDFaMFhUNGRHNTNHOFV1dzVhcUhDNWhKYXfSAewBQVVfeXFMTWhkbUZyMVU5dHMwbW5vcGR3RzJRRm1ETmRzZmVKVERldGZfNWlYM25jcnA3TVV1ajRJaG1kaTA0UEpxenBrZk41cHNIeFR1U3lRc1owZWlwRy1QWjFDZzlSeXBHenNZTGljaWk0UGRueWRtbjd5TVdHSGtCSU5aT1ozTjNYb0xiTGpSRnRDdExjSnI2bW50RnlZRGVfNk82akxnemlqcTI1TVkwdy1xNHIweS1WSmMwd1BRd3pubXgyQXA1RllzY2dUdk5aMnpvaHRoTnRBQTkzLVNGc1czRUdTYWI0V3JWWWo3TDc?oc=5": {
-      "title": "Anfavea não levará à Justiça a renovação de cotas de importação para veículos elétricos - Valor Econômico",
-      "summary": "Anfavea não levará à Justiça a renovação de cotas de importação para veículos elétricos O que a entidade fará é ingressar com representação no Tribunal de Contas da União (TCU) contra a Câmara de Comércio Exterior (Camex), de quem partiu a medida A Anfavea, entidade que representa os fabricantes de veículos no Brasil, disse que não irá judicializar a medida do governo federal que renovou por seis…",
-      "source": "",
-      "added_at": "2026-07-07T18:18:05.033330",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRjJyc1Z3V2VuUGlGc003cWhVVkYyQUxRNXdzNndZc0xTaHRVZTA5dHpIenVtVndJLUN5VVhlbVRmOFREQVBVcUlzZm9XV3ZkZWMzQXVLT1paYU1nRFdaQzFDS0lya0duQWZCcEw0TlZZZUZNN2lZZnk4SDNYdk1nWDB2WlhjeWI1TlpOUXN3NWNCZFd5ZGRZZWJJREJubVRaUGFXNmp1VG9OblktRGFfejFDWFBuQ2x5ZTBOUTlKUGNneDJ30gHKAUFVX3lxTFBVWVFUWlFhU3N3R3hiZE54Q2dWOVJuTURsdWNqZUxCNjM1cV9Kb1FNdlJZWWprMkIwYXZHMXNRcFVDUldBbXJYSENsVmVCRjFNVnp0SUdzMXNsUXBtMU1KYVR2VEtGc3Q5VU8ybjczUEhwYlNiR1VpR0NvNEdXYVFSRzNqLVRHeGcwQlBTSzFMV0JDenFpUnNCbURJQ0VjTmRDQy1vOEMxVmU0eWktTXczY3R5QklzTlRWZUItTnBKd25Uci1kbWZFa3c?oc=5": {
-      "title": "Cuba restabelece parcialmente a energia após terceiro apagão nacional em 6 meses - Estadão",
-      "summary": "Cuba restabeleceu parcialmente a energia em Havana, com mais de 30% do fornecimento voltando para cerca de 262 mil clientes, após o oitavo apagão nacional desde o fim de 2024. A **União Elétrica Cubana (UNE)** investiga as causas, enquanto a escassez de combustível e o embargo dos EUA são apontados como fatores agravantes.",
-      "source": "",
-      "added_at": "2026-07-07T18:18:49.036056"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSk81bHdHNnB3MzZqWVBZMEpiZG5LMXViSS1pMFVnM3dFampZRTZrNjZpN1NIc1lrSC1fZmJlNHhfSE1ETjdaQ1ZFV3lkZDRsMmlxREJpYVVCR1poR1c3TmprbzNvZEptMFVtTi1ISWRPV0FsdW9OU3ZiX0NhMzhjNTFxbFU3SF9xWEJjSEcwQXE?oc=5": {
-      "title": "ONS prevê curtailment menor, mas ainda \"expressivo” em 2030 - Agência iNFRA",
-      "summary": "O **ONS** projeta uma redução no curtailment (cortes de geração) de **19%** em 2027 para **14%** em 2030. Em termos de energia, os cortes cairão de **3 GW a 3,5 GW** para **2 GW a 2,3 GW** mensais, devido ao aumento da demanda e soluções de armazenamento.",
-      "source": "",
-      "added_at": "2026-07-07T18:18:49.036172"
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVotMTFmZW1KWGJrVjU4d3AzYUJCVk5yT01oNVB5Wjlzd0w3WHlsWk82Qm9JVW00TG9ZNzZnRXdPZ2J1cHJhMDJYem1JT1o4UjJ3ZlhXWTZSMWhyNFNMNXNnb0pyV3dhbFRvTm9hdW9OV0V5dEhzYlNzM3JhTzZvMTczeTE1cXhXam5hdjIxekxjcVlOMlVqY0tDUjZUYU9TWVVEVjNKYUppdTRsSXc?oc=5": {
-      "title": "Data centers querem planejamento energético conectado a investimentos - Agência iNFRA",
-      "summary": "O setor de data centers, com apoio da **FGV**, busca alinhar o planejamento energético, especialmente a expansão da transmissão, com seus ciclos de investimento. O estudo propõe um grupo coordenado pelo **MME** para garantir acesso previsível à rede para cargas ultraeletrointensivas, visando atrair investimentos que podem chegar a **R$ 3,7 trilhões** até 2035.",
-      "source": "",
-      "added_at": "2026-07-07T18:18:49.036396"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1M2cGVQT0ZURXdsdTVCbTF0dWI0d0JfN3dyQmg5SE8yNUJ5eXJyNjZmOWFuNnNJbzRzc0FPbVFkYmVkUFZFUEpidzlFdmQ4M2c3YWwyMTNZQzJma3NVTFFTU3VyWnJPWUVFVHBVUUJqaE9LdGRlLUR2c1FxS1hEOWtzUGszZmRHOWhlVGR4RFA2MTg5RG81QnR3RkxGWVNwZmxwUUtPcHpVbzE0ZFdHQTdtMVB0dnZfZWc?oc=5": {
-      "title": "A energia que o Brasil gera e o desenvolvimento que fica - MegaWhat",
-      "summary": "(Conteúdo oferecido pela Abragel) Por: Paula Lima* Em um país marcado por desigualdades regionais, discutir energia também é discutir oportunidades. Enquanto grandes centros concentram investimentos e desenvolvimento econômico, milhares de municípios do interior ainda enfrentam desafios históricos: manter empregos, fortalecer a economia local e criar condições para que as novas gerações possam…",
-      "source": "",
-      "added_at": "2026-07-07T18:18:49.036659",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajBYeFU3RlBNR3JmZHBhTWZhbWdCRmpOMjZ0ZmItSklQSDRhcFZobU0xQ2FlWW5QREdON3E1VUtRTVVoejM2VkF2dnNkU3Fwb2c0dVViX3g1ZDY0N29mU0U0ZnZsWEJPQmE5a0RfM2RZb0lVaXBrR2gxdnh0WTF2SURYRDFuMmFoZHRMcGJiV3dzT3U4ZkU0WHZ2U2dsV24zX0xyaQ?oc=5": {
-      "title": "ONS e CCEE abrem consulta sobre evolução de modelos do PMO e PLD - MegaWhat",
-      "summary": "O **ONS** e a **CCEE** abriram consulta pública até 7 de agosto para coletar subsídios sobre a evolução dos modelos computacionais do PMO e PLD, focando em dados de entrada, parâmetros e aprimoramentos para planejamento, operação e formação de preços.",
-      "source": "",
-      "added_at": "2026-07-07T18:18:49.036757"
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3pWY1R4Sl9GWWNiSmhiVHNzQktmNVZNWkJHb3ZkVVlMWk5YN2N4Rmdab1ZzMEt3NmNWLTRrei1vbno4U3ZhaFllRzByM1hZQ3BQTVZZZUc4Y18zQ0Y4eGc4MVM0cVFlZ1VRaHhFY2pQU2dfMU5XYnZoUjVmSmlFZzhPODRfWS1xZzV0RXUyUzh2RUxzSEVlQVRpdzVscGdMRE9mc2NEazlJZlE?oc=5": {
-      "title": "ONS mantém alerta para falta de potência até 2030 apesar do LRCap - MegaWhat",
-      "summary": "O **ONS** alerta que o Sistema Interligado Nacional (SIN) pode enfrentar falta de potência até 2030, mesmo com usinas contratadas em leilões de reserva de capacidade (**LRCap**). A probabilidade de déficit de potência pode ultrapassar limites regulatórios a partir de 2027, com a perda de oferta de potência equivalente (Lope) acima de 5% em todos os anos avaliados.",
-      "source": "",
-      "added_at": "2026-07-07T18:19:03.805969"
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGVLTzlveTRKSWlVWTk1U1BTMzVrNTJDazRjM1IzcElJYmlfUl9XU0dPXzNPUHNEQmVGemZiQ3FrcWZmWC14azRJRVNkWnIzbDhvcU1WQzdBSTJVX1BQRy1ReEtkQ0pIVWVsMjBMc3VEQWxLMWVYRXphTnZKWGVjeGVobC1jWjNYNDZ3V0RDak5qeGNBSlp2cjlacGh6bDRPWWdKOEVn?oc=5": {
-      "title": "N5X usará Vermiculus como plataforma de tecnologia no Brasil - MegaWhat",
-      "summary": "A **N5X** firmou parceria com a sueca **Vermiculus** para usar a plataforma **VeriClear** como tecnologia para sua clearing de mercado livre de energia no Brasil. A **Vermiculus** já desenvolveu projetos para a **B3** e **CERC** no país.",
-      "source": "",
-      "added_at": "2026-07-07T18:19:03.806065"
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQak9lM05fTlBybkp1V2pmX0tUc2FKZ1NJcU5HcUtVU2RUdGNuNEJHeDNOTE9ybG4tM2tfSUdvYjJxTW9fNHpMOG5qSjJFX0MzLS1fTGRpRnh4RHZobkFoMjFFWTRQX0p0WXNPX3IzWkNUcWFJRlVrbTNhaUJ2ODNKekVDRE1hWDlJTkdHajkwNllzT0xNTVVGU05lV2xvLXRPei1UNkRvdkJ5TmFsbDVubUcyWQ?oc=5": {
-      "title": "Brasil pode cortar até 40 GW de geração renovável por excesso de oferta - MegaWhat",
-      "summary": "O **ONS** projeta cortes de até **40 GW** em geração eólica e solar centralizada entre **2027 e 2030** devido a excesso de oferta. Os cortes energéticos devem ocorrer principalmente entre 7h e 15h, com maior incidência aos domingos e em anos de safra de ventos.",
-      "source": "",
-      "added_at": "2026-07-07T18:19:03.806272"
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnJfV3FkTENMLUdza243SkozcXFkMEtjN2NDZk40WTZkdDhTeWt0Z1hCcjJVc3dlWmVXclNNTkNOTmZ3cjZnOEFQSm9rVElmNi1KTVZzcDEzRFd0SDhsM3VHWVIxajJaNEQ1aTJRSzF6NnN1eGtnNGJyTWRhYzZzQUg2a0o4YXUyRGNsT2JGYWZwSHpLNGUzN2ZUcmF0QmdOdVIyTmt1bV9zZFZ5VU5yUg?oc=5": {
-      "title": "Aneel libera 146,1 MW em novos empreendimentos de energia no país - MegaWhat",
-      "summary": "A **Aneel** autorizou a operação comercial e em teste de **146,1 MW** em novos empreendimentos de energia. A **Auren Energia** teve **112,1 MW** liberados no complexo eólico Cajuína (RN), e a **Casa dos Ventos** teve **27 MW** liberados no parque Ventos de Santa Luzia (PB). Uma PCH da **São João II** (PR) com **7 MW** também foi autorizada.",
-      "source": "",
-      "added_at": "2026-07-07T18:19:03.806362"
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83U1o0R09iZExHTG84Tlp0SEJzZ0k2eXlXbHhuWlhsNU92ZUlvdkRfRmdQOGJFUEFkZFlNUzl5RHFvSkRCRnBCVjdzZkthSndw?oc=5": {
-      "title": "Tag Chamex - MegaWhat",
-      "summary": "Negócios Dona da Chamex compra fatia em eólicas da Engie na Bahia A Sylvamo do Brasil exerceu a opção de compra para adquirir 49,9% de participação em uma holding que reúne quatro sociedades de propósito específico (SPEs) da Engie Brasil, responsáveis por ativos eólicos na Bahia. Os empreendimentos pertencem ao complexo Umburanas, que possui 360 MW de capacidade instalada, dividida entre 144…",
-      "source": "",
-      "added_at": "2026-07-07T18:19:03.806420",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1l2eEU0RWFTb0dGdXNBU1pUajd6VElIa21NT3Q4ck9RMHA2LTFiMEFYNjRWeWk1RUNkUGVlck5td2FxeS1ZTjMtYnVOYU9vQmlHcm10M0gxM05FRU1LMTdKNFpTaDc0OFZNUXh6YTRSWmVuRUgzRjJnZDdmaE1QbDQ4XzcwQ3VXaEpyTHRBVU9lbWNjdWYxQnVaajZvdnlT?oc=5": {
       "title": "Reservatórios do Sul contam com 79,8% da capacidade - CanalEnergia",
       "summary": null,
@@ -3825,7 +3721,7 @@
       "source": "",
       "added_at": "2026-07-20T22:11:16.905583",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmhCRFRVQlFlLWhsd1pYMzA3SXAxdTJWa3M4R3pUVHpRSkNORzlscF93b3dpZW5NMHNIblVPakVsNkMyZTh5TVM4cFhqSkkwSTJ3RFdzM044QXRad1kyVTJWNmRKdEJFVmt0M3pPc0NrczdaejJvNkVaYkJYR2NFVmZCMWY2bmR3UlpTN0hyMHBESlVZcDg4QlJkd1dCTDNROTNJVGctMGwtRThDMEV5Qml1dndFQnRrQ2dvdDJkRzQ?oc=5": {
       "title": "Trump assina decreto para ajustar tarifas sobre importações de alumínio - Folha de S.Paulo",
@@ -3951,7 +3847,7 @@
       "source": "",
       "added_at": "2026-07-21T14:18:45.051575",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxORTlQMUVsTkxPbjhsY0xvWTJ4dnBfcXZ2U2taRUVrdTZMeXV5SmpaOWNMVkdodm5jNXcyS0xjS0lsWVpXVmktNnAtN1hvOXFXUVlGUDJBOEczUnZ1OXliY0NnS0g3dnotbHpnVUFFNFlmaE5FQnlWa29HVFlJNVpwWlViWDliSXRGbVpSU3ZRaDlEZ3FnX3Zj?oc=5": {
       "title": "PDE 2035 Relatório Final Aprovado Defeso - CanalEnergia",
@@ -3959,7 +3855,7 @@
       "source": "",
       "added_at": "2026-07-21T14:18:46.703506",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXh0V3Yxby1TbkF3OXBJcVRuR2dteFYzOXFwMF9FYjRFYkVzc3pBRS05Yzd6alZBUGEtSFdRWktpUVY1VnlOUERVM2hlbmZRZHJmYzIyUThyZDA4YkNmZThWNDlnUUZnX2Z1UFpWZ0RnRXVXdDdqZXVETTdtOVphM1lDNmJSeUY3c3NhSkdVQ2Jvay1HMmVoV05pcWVna0RyQTNKaEtPa19vV2J5Ykdqc25TN1o4OTlLQ1JlTFR0SHVrbFBhZF8wTW9abmNnZkJwaEHSAeABQVVfeXFMTXNrUGtQUHRwYkphb3p6bjFxT3hUZ1pDZm5ONjczaDkzamFYVXozNFlaa0tKMW1RZTVfNEh6VmZXZUxsQ2FJTnJXSHNUY21Ubk9XQlBFVUFmbXFLZnJWUkxaUjVjQTE5WnZUYkFEV25Kd2Yzd3ZPRS1sM040dWRaOGdBUWt1RGpTdFM1SHFoaEZPOEFnTXZGaU1Ob0UtbmpfbUdYT1c1TjNFT09OUUZqWGlnSkZZTVZSblpma3djSWpHd05KbGgzeWVDSk83XzlaSTY1X0JLWTFTaDZZSTBzM2M?oc=5": {
       "title": "Governo se reúne com entidades afetadas pelo tarifaço para formular plano de ajuda - Valor Econômico",
@@ -4051,7 +3947,7 @@
       "source": "",
       "added_at": "2026-07-21T16:07:16.347190",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmRkWXIzODlYdk5DVTBXNkVCUGdzcHA2SVZwUklEN2Q5QUhOQjBSOEZaLTdZM0FXSmZDRllCdzF3V29OOVVtY1RHRVNlZXJqM3ByWHhHbG8teTFaRmxGQTN4MF9kTk9wdnU1ZDJYNEFKZUd3Umh0aHhqREZONGpEeXVCTUU1RmlDdWhzRk5XZTRYRk14eTJpYnlfWDB6R3ZUV05vTW04dDd5NzYxN3E0RXJFRTFHNFhKYU95MVUxdWE5Q3M4UlVkUjZ0Yy1BTHpmVkJQSDNpV0J1cUJVREHSAeMBQVVfeXFMT2VGMXRNWkpNQndnUmVic005dW9aQWNQMWYzUTJ6NXoxV2ZmdjI0aXY3aC1KeHNUbU5aV2Y0MkZiM2FLQ3ZqdFpNQ2hRR2JwS2REQnpsS092clVLWTNEYTBPOVRhZnNSUDZ0Zl9aamtub080N2lsT2d6TWplTThjczRibVFReGd3TjVDSTBGTmZWcW93bWJ2SmpoMHRWT2RZZ2JRcnEzdnNxUHE0Uk1VdlpUUEVoUk15d3NZbnRoMzN2MmlwaHJnZTlRbDBNTlF0ZTFQLVZuTW52Z1pHb2NrTGFnLU0?oc=5": {
       "title": "Santander aponta alertas e destaques para os balanços do 2T26 em meio à tarifa dos EUA - Estadão",
@@ -4059,31 +3955,25 @@
       "source": "",
       "added_at": "2026-07-21T16:07:16.353743",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3VYYmtvRWl0Qm11Y09LcEgtNHJSTldOZkpFMUZlRU5uaHBYVFN5czdWVXpJZU9QNTZFNUNNb0ZPdjdONEdJSUphWGFvc1poeTBVNFNRczVRNzBFVTBkWWd0N3o5YktVMURDNUVGQTh6dWYzOXJkUS02SHE5YXhGR3d6QjR6ZlU3UDhaMUN2c21sZFhUMDJ3Y29zeGF1WU5rVVFOd1Rwd0w3dnZnZmp5U09MQVhRaFNHdFFqcVpyQTdmZVk?oc=5": {
       "title": "Geradores propõem usar créditos vencidos de MMGD para reduzir custos do curtailment - MegaWhat",
-      "summary": "Associações de geradores propuseram à Agência Nacional de Energia Elétrica (Aneel) que recursos provenientes de créditos vencidos de micro e minigeração distribuída (MMGD) sejam usados para reduzir os custos dos cortes de geração de usinas centralizadas. A sugestão foi apresentada em contribuições à consulta pública aberta para discutir o tratamento contábil e regulatório desses créditos, cujo…",
+      "summary": "Associações de geradores propuseram à **Aneel** usar créditos vencidos de micro e minigeração distribuída (**MMGD**) para reduzir custos de cortes de geração. A **Abeeólica** e a **Apine** apresentaram sugestões em consulta pública aberta até **15 de junho**, buscando direcionar os valores para mitigar efeitos de curtailment em contratos regulados e custos de instalações irregulares.",
       "source": "",
-      "added_at": "2026-07-21T16:07:16.354559",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T16:07:16.354559"
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFQ3N3RKWkVpN0Y1M2VvaVZyRFFIYWNqRXVlWXpIbG5zUWRaWk9WZWsybFVtNVB2Nml5Q2xZcFJDeEsyVEpGRERxOHhXODZXZnIzUFhVX1F1eDhJYUF2UHlyQjg1OC1UZWtDRE5CWFJyLWdxUzc1ZUVkY2VNWUxZM1JnbG8tMVZrRC1tSl90Nkk4X2wzSWotTFcxU29adU44bzZnTHdvanE?oc=5": {
       "title": "Energisa registra alta de 4,5% no consumo de energia no trimestre - MegaWhat",
-      "summary": "As distribuidoras da Energisa registraram alta de 4,5% no consumo de energia no segundo trimestre de 2026, em comparação com o mesmo período do ano anterior, com carga a 10.983 GWh. O cálculo considera tanto os clientes cativos, quanto o uso do fio no mercado Tusd por consumidores livres e de geração distribuída (GD).",
+      "summary": "A **Energisa** registrou alta de **4,5%** no consumo de energia no segundo trimestre de 2026, atingindo **10.983 GWh**, incluindo clientes cativos e mercado livre. O crescimento foi impulsionado por todas as distribuidoras, com destaque para **Mato Grosso (+6%)**, e as perdas totais aumentaram **1,99%**, chegando a **12,28 GWh**.",
       "source": "",
-      "added_at": "2026-07-21T16:07:16.354670",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T16:07:16.354670"
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDJiUEpsLTNqMTVFUE8xUG9hQTJLNzdDemRSejFjeXJFeDJGM3o5aTFCbGg2ZkZVcXdDOUota2dxTU91WDJNTW1JWUF2SXhMMnQxWWhuS0c5bFplR0FwRXF1OFktamwyV3NnSzJaelYwb3J0aUlxdXljaFBNN2U5Yl8zVlhHNGJmZUhNd2ZKRklLdkJpYXdjeWxvYw?oc=5": {
       "title": "EPE estuda modulação horária para PCHs contratadas por lei para flexibilizar sistema elétrico - MegaWhat",
-      "summary": "A Empresa de Pesquisa Energética (EPE) estuda permitir a modulação horária diária das pequenas centrais hidrelétricas (PCHs) contratadas por lei e vê o vencimento das concessões de transmissão e de cerca de 19 GW de hidrelétricas como uma oportunidade para aumentar a flexibilidade do Sistema Interligado Nacional (SIN). As medidas fazem parte de uma revisão mais ampla do planejamento, que busca…",
+      "summary": "A **EPE**, sob a liderança de **Thiago Prado**, estuda permitir a modulação horária diária para **PCHs** contratadas por lei e vê o vencimento de concessões de transmissão e **19 GW** de hidrelétricas como oportunidade para aumentar a flexibilidade do **SIN**. A estatal busca adaptar a operação da rede ao avanço das renováveis e novas cargas, com projeção de demanda de energia crescer entre **40% e 60%**.",
       "source": "",
-      "added_at": "2026-07-21T16:07:16.360827",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-21T16:07:16.360827"
     },
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kUDJjRVhyMENvNTBlOVdtbjRIbDZkSldWdndwdUk2VnhMRGdmNDNUOW54NnFEa1VRb1cyWWtrZzVfWlM2RmhlX2RZVFNJN1ZmLXc?oc=5": {
       "title": "Tag Adeagro - MegaWhat",
@@ -4099,7 +3989,7 @@
       "source": "",
       "added_at": "2026-07-21T17:44:50.023174",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHRiX0hUeEJTU1A2UzhsMGJnQm5nSFhGbmEtLWw0aDRlWEhSQ2ZuTU9ZYkwtaGF1UjlfR2c3VW5ONWw5UXJCQjJzSF9wQlliYnY2RVF1S25FUU0tR0R6VHdnckxCbTJ3OWVES24yYTR0aTU4eFdUTlZ2RnJwMFhfcFRkNGo3UnEyb19BSlE4U2QtRTZKV1lCdU5tTkcydTVhbXRjVWJSS29JUXQ0bHNTYUNZejFuVVFtUi12ejMyU3p2ZzF2WllMTXBBel96LVpoLTI5aTFyVExiQ3oyMjJBYVd5S29oZWRJVEJLdDIxWnVOYUNhSGhUQU1XelBnQdIBjAJBVV95cUxPak9pVl92ZWdNRlI3Y1ZMVXZZYkd0YVBSRmo3STFnM3BBRTY0VnB4Mk5XSEUxaTdJWVd1cmttR2Eya1hXVjFyeHNGY2JDTXpseVJ4S0NENW9fVVUyYVZYODBaSkJkN0tiMlkzdm1xb1hYSlVRd04zWHNsZ3ZLZk5MNWwtU3k1NFRYdkhDVlFkMmNKZHpNTFNRR3VvUXY4alAwVWtsYnZNUHhadUtyRm1HNl9oZFFlYXVuWDNGSkwxZmVJWElBejlFRnJwMktpNWkyOHY1ZGhvd25TV0FfRmJxRW9oZXNvZXJ6MkFTbjFPMU9ld0xFV0JzdW80aFpXMTQ4YnhVbXFZc2xnZVBv?oc=5": {
       "title": "Queda dos preços de sistemas de armazenamento de energia vai cair em menor intensidade até 2030, diz consultoria - Valor Econômico",
@@ -4107,7 +3997,7 @@
       "source": "",
       "added_at": "2026-07-21T17:44:50.023266",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRDZwV0paRGx0ZmlVZnFOU21OQXNTM3A1aENCcTdQWEtsclBCNjhvVGZhaGRYV3U0UTk1bkpRRDk2XzhramxiSk9BbW1kNkRyRWF3dzA4Y3JTMzF4cXMybHJWdTVYbWtGWEU0ZTY0WTlRRGZreFUta3J0NDg5cUs4R0dfQmEyVFFWLUgzRUNrUmtDR1VUd0h1T1ZDSXp5SkMyQ0pxZF9HMDJIWVBxTFNIYjdGTmR4M2FiS1dJVVN0QkpjVHpwQXpxeVVqSUQ3V2Z6Yjlr0gHiAUFVX3lxTFBzTDE4cmttc09WSUt4MU1oRzRjUnZIMDdvU1JTRnY5Q2pyZ0pJeVE4T1g4Y0V4ZWY1UEwxMnNKMDZIaDRnRG0wZVJGdFQtMmUwOUExRGJseURUS0pzTkFzblFHVmo2dGhFaXRBREgxMHlLaVJwTkNLaWlvemFHbUZycm5rZXdmSzFUSmZDZU0zeGRPUC05b3ZmWndLa2dFZ0lKTmdNemNVUmhUWUpKUnhIcWlYd3ctMERaUTh4UVF2YlJBVXpxd09ITXBpU1ZQSjNLOGtOUXVMeVBGM3N4UDZLMVE?oc=5": {
       "title": "Concessões vincendas de transmissão têm adaptações em estudo pela EPE, diz presidente - Valor Econômico",
@@ -4115,7 +4005,7 @@
       "source": "",
       "added_at": "2026-07-21T17:44:50.023307",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Vi1HVjZad09xdmxrelFlczM3aGQ3WGV5LXdXejdvWlA5c3VwLWZoUGJBZTNBbXM2WVhaVW9sZjJFemtwMEZoNHZsUHJIZGtkVVY4X3ZaSk8yQ2l5VWF1bkFyd3pPcWdnMExlX0tueFJCN3hUaG15WjFVQVlWdUk?oc=5": {
       "title": "Comercializadoras de energia entram em crise com rombo de mais de R$ 6 bi - UOL",
@@ -4123,7 +4013,7 @@
       "source": "",
       "added_at": "2026-07-21T17:45:30.239439",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlRSd0Y1Y2xIMFRpbDhSMGU2YVZUN2tuRWlrRjE1T3dEUWtiX3MyVkJ4ZjlmTG9qOTdXMl9fOHUwa2x5ZkRRVjRpYm41c00yTy1FTlpVak4tWC1YWnBSNy1lbDZ4bHBBOUdGR0tuZmNLQ3VPMnRYb3hHeXY4dGdiV3B0WWp6TXpjRU9mR0o2RWJHdHFfV1MyRHVfNERmSDBNaWJQSUdBSENETk5a?oc=5": {
       "title": "Arrendamento lidera nova fase da autoprodução, diz Echoenergia - MegaWhat",
@@ -4131,13 +4021,83 @@
       "source": "",
       "added_at": "2026-07-21T17:45:30.239860",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBNUZiVEZVaTlfY1NFSXBVQ3NYSE5iOVlWbjg5eVN6cVJ3NUJtMHllOWh1X21yVnhUbHJrcF9OT2x4N1lKV3l0WmFjVklJd0JDVXZ2NW9uSQ?oc=5": {
       "title": "Tag A-5 de PCHs - MegaWhat",
-      "summary": "Revisão EPE estuda modulação horária para PCHs contratadas por lei A Empresa de Pesquisa Energética (EPE) estuda permitir a modulação horária diária das pequenas centrais hidrelétricas (PCHs) contratadas por lei e vê o vencimento das concessões de transmissão e de cerca de 19 GW de hidrelétricas como uma oportunidade para aumentar a flexibilidade do Sistema Interligado Nacional (SIN). As medidas…",
+      "summary": "A **EPE** estuda a modulação horária diária para pequenas centrais hidrelétricas (**PCHs**) contratadas por lei. A iniciativa visa aumentar a flexibilidade do Sistema Interligado Nacional (**SIN**) diante do avanço das renováveis e do vencimento de concessões de transmissão e de cerca de **19 GW** de hidrelétricas.",
       "source": "",
-      "added_at": "2026-07-21T17:45:43.644515",
+      "added_at": "2026-07-21T17:45:43.644515"
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZ1lPb1ZwVGFOZXNXWnBaaW1FVmJEMzd4NWYyN29UcEUyVmxGa2IzMXJWekZ4TnBaVW5nb1doUFR5NmZLd1lzMDJCamFiYmJ0OFh5Q2xjMkw4NzRtemVvcXlR?oc=5": {
+      "title": "Tag expansão renováveis - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-21T19:48:52.280324",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEM4dGtCdFEwYS12MW5sT1ZvZjlrUll4YjRRT1RtNkc1NHdldnJKSFZBU3EweFUxbzdjNXRGaXBhbDhVaHFIWUYybTNDSlJCLUJFVzV4UXk1YXdTcDlMWEZscldqR0ctSEU3X1FkQ0JMcnJ3YUpGYU5Sa2dzMkJhclhLVkcwLWhnRFNHUFZVYkVtOVpOMmVSRVZGRDFUMVFtTTBDdG5oUlR3QXB1ZWtrMjdVX0VBVlc0VkhRTUZlR0pUbWp6TWtnd1dnVUM4SXRXUEd6TlZad2hkeDVLbjhWRW13WHpUQkZfSWc?oc=5": {
+      "title": "Iberdrola assumirá controle da distribuidora de eletricidade finlandesa Caruna por US$ 2,3 bilhões - Valor Econômico",
+      "summary": "Iberdrola assumirá controle da distribuidora de eletricidade finlandesa Caruna por US$ 2,3 bilhões Aquisição de 80% do capital social do grupo da Finlândia deverá ser concluída até o fim deste ano ou no início de 2027 A Iberdrola informou que chegou a um acordo para adquirir uma participação majoritária na principal distribuidora de eletricidade da Finlândia por 2,01 bilhões de euros (US$ 2,29…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:22.029765",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTNBcEUtNG1uQld1bURjX01LNWpvVGVsa0ZvQ05BTWp6M0FvdUdlYVp3SE5zdkZGaGJXWlktNUpfR1p5eHIyc1k0dS05cmhvcndCX1NhMFBUVWlrR0RpYjg0M1hKUzBubmFNY1FPTnVzMGlOUkRXY1pUM25yZngzM09TNlJwOVVyRFlTOThsY3p1eXRXald0QmNGZFgzYTgtZlEydlNUX29MM25WbFBqYW1MUHVOUy1EU21tS1JxT0VEWjdGNnVJVmRB?oc=5": {
+      "title": "Governo se reúne com setores afetados por tarifaço, que pedem reforço a medidas - Folha de S.Paulo",
+      "summary": "O governo federal recebe nesta terça-feira (21) alguns dos segmentos industriais afetados pela nova rodada de tarifas anunciadas pelos Estados Unidos contra o Brasil. Estão previstas reuniões com associações do setor de máquinas e equipamentos, calçados, e pneus.",
+      "source": "",
+      "added_at": "2026-07-21T19:49:22.030189",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjBCNnlwT3VTOTdGaGpBbmhOUGFHZ3dLczBvb1gwNmhHSWplczl4dFd6Q2RUUHFZbTVod3ROdlJBMnJnaW96Qmhlc1owamJfV2liV2l4YUIwaW1RV00yMmlPeTFxTzhqTDJ0S0gtTjJobXZLT0RVMVFaRG1oQkNNMEM4VGZXcl9yMHZXREZkcFJJcTJJMFhaWmdkS2VwN1dNUzk3aDNDbVM?oc=5": {
+      "title": "Associações pedem à ANEEL novas alterações em proposta de rateio de cortes - Agência iNFRA",
+      "summary": "Geraldo Campos Jr., da Agência iNFRA Um grupo de associações do setor elétrico pediu à ANEEL (Agência Nacional de Energia Elétrica) novos ajustes na proposta de regra para o ordenamento e rateio dos cortes de geração (curtailment), tratadas na CP (Consulta Pública) 45/2019. As entidades afirmam que a nova minuta de resolução formulada pela área técnica a pedido do diretor Fernando Mosna traz…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:37.796009",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzhiZmt6TlNzNDNkT1B4RFgxNmQ0SDI5Zk1aNEFaTlo4RmZ3UllWRmtWUXhWQ011cU5LY25RdUdMdmFIQVVTWUNXWENnT2ZqcHZlWk5OdGJvWEcweXJmb0J2RmxNdkI3dnkzbEZ4RjZnSkZBTlItV3B4Mmx0ZEdKWnRNRFhjeVBJRm1JanFLWk0tX2pPbnlEajY1bkJtLXRRWjZsTVVtSWlFcVNSbEVQS0RqUi1hZw?oc=5": {
+      "title": "Associações pedem revisão de rateio, cortes elétricos e autoprodução na CP 45 - MegaWhat",
+      "summary": "Associações de geradores pediram à Agência Nacional de Energia Elétrica (Aneel) uma revisão mais ampla da resolução que deve resultar da consulta pública 45/2019, além das mudanças sinalizadas pelo diretor Fernando Mosna em seu voto-vista. As entidades defendem a retirada de regras sobre reclassificação e rateio de cortes elétricos, rateio regionalizado e autoprodução, além da ampliação dos…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:37.796293",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmNjWUY1YnFRVy01X2dMNEFzYU5hLU9GOThfZUdidHZZdnpMMDJSOXE0cGlGWjRJby03bThVWU82dEpCdUp4VTlRa3IxbTM5bEVZT2VBNVBUdFpzT2FLc2JWOHlwSFp5TEg0T19qaVl4YkVlOVU3TkNzSnVSd3JRYnhOak10U2RqRmllT3o0cTJUSXZJMXdDT09JRVBjNFNVQ29hRzFfTXR1ellRTFk3bTdpTllVc1RHVVFVb0NFWm9nVU85MHNBNk9KbnM0VU9JemxF?oc=5": {
+      "title": "Governo do Paraná solicita ao MME inclusão de hídricas reversíveis no leilão de baterias - MegaWhat",
+      "summary": "O governo do Paraná protocolou ofício direcionado ao ministro de Minas e Energia, Alexandre Silveira, solicitando neutralidade tecnológica para armazenamento de energia no escopo do leilão de reserva de capacidade na forma de potência (LRCap) previsto para dezembro, cujas portarias normativas admitem apenas soluções em baterias. Com isso, o órgão paranaense pretende incluir as hidrelétricas…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:51.613501",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc00xbzhjYnppNENRMlFhLTNBc0owTGxCYlNEMVVNS1ktUE41aVkxOTZnYThjUUd4VVpzZDg0dzV1WUhRWTk4WTRUdkNhYVJFV3dCOU1ZVndQQTh2b1ZVbFNQYlFBRWhBTzI1WjYyNEpVWGVFREk5cTVvRVA1N0c0UmQ2dWd0aUVVMjJiak8yY1pobk5jMU1Ra3l1RHFkREM5Wm5OMklIZw?oc=5": {
+      "title": "Schneider e Kraken fecham parceria para gestão da demanda por DSOs - MegaWhat",
+      "summary": "A empresa de tecnologia Schneider Electric e a Kraken, sistema operacional por trás da Octopus, anunciaram uma parceria para desenvolver soluções voltadas à gestão da demanda de eletricidade por distribuidoras e operadores de rede em distribuição (DSOs). A proposta é integrar as plataformas das duas empresas para ampliar o monitoramento das redes, antecipar congestionamentos e deslocar o consumo…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:51.613619",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQngzU2ZOR0IteG5Vcko1Tnl2QlA5VU5qZVFWZ3VJM2h0Qm85aTZVNU5PalZtTmhMdjFqeGpoLXBYTHBYdUNxT19OZW9Nd2JyWUFkUjFwTURZSlZVUFJqTURVdUpZcm1TR0tWN3NOX05XZ28zTnYyanVfTU1Yb0diTzB2TDV3UWVNLUV3dnBwdUZ2YkdPNGZINU1OcmdGcDRpTjBHUzVKV0UxUQ?oc=5": {
+      "title": "Custo de baterias para armazenamento de energia deve cair 23% até 2030 - MegaWhat",
+      "summary": "O custo de implantação dos sistemas de armazenamento por baterias deve continuar em trajetória de queda nos próximos anos, embora em um ritmo menos intenso do que o observado na primeira metade da década. Entre 2020 e 2025, o investimento necessário caiu de R$ 3,97/Wh para R$ 1,88/Wh, uma redução de 53%.",
+      "source": "",
+      "added_at": "2026-07-21T19:49:51.613720",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaW03dEpuRkc4ZWhRZkhjcWhTanRhQ3l6Tko1bHZPV09YZTd3NlBSb2RCdnoxbzk5YzhfeXZ1N2QzWDZvSUxfbDB0aFlBTW85V2p0VGJreVdNQXBLSThmMEFJT05sQXVpbHpEYjB6cGJ6eHJoSllkakpsbGxCVWV3YlBaS1ZiZU1IRjQ5ZHdpWV9LMUdLMDlxdnRQV2kwVkExcUd2Yk42N0ZGNnNDMlU0RElFWEpUeUgxUWlYb2xCd1JsMzE0TXpBSFlSTQ?oc=5": {
+      "title": "Dona da Odata, Aligned Data Centers muda de mãos, com US$ 5 bi para expansão - MegaWhat",
+      "summary": "O consórcio formado pelas entidades de investimento MGX, Artificial Intelligence Infrastructure Partnership (AIP) e Global Infrastructure Partners (GIP), da BlackRock, anunciou a conclusão da compra de 100% do capital da Aligned Data Centers, empresa que detém a Odata. A transação foi firmada em US$ 40 bilhões, e prevê mais US$ 5 bilhões em capital adicional de crescimento para financiar a…",
+      "source": "",
+      "added_at": "2026-07-21T19:49:51.613796",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
