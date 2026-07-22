@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-07-22T17:43:03.488466",
+  "last_updated": "2026-07-22T19:42:14.540620",
   "items": {
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWXdJWF9RTy1IekR0dG1pM3UzUEpYYkVrWGViRkIzbmJRdC1NcmNvZTRsQzY3TjhtRkllaVVscVZ6c2lrTkFZXy10ejVkVjV5YjFfNHZEZ0xVY0xPQ3k2enFNOURQQWEyZlpfS2puU2NONlJQLXVNakpkVFF4VUs4RzRMamFnejcxR3dCNExLLXViLWtjZnNHRTNXV0diQl9KZ2ZoSjhwNGFraWxKeTJuLWFsbVJZNUdDOS1qNTdLbHgtNEZIZGtN?oc=5": {
-      "title": "Frustração de 1,7 GW do LRCAP de março pode reforçar leilão de baterias, diz PSR - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T18:05:14.707946",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNElUS3hzczFtby1WUExLd21sNmZPYVd5MjRuMlpSdmFSaTRBRVQtekJINk1DbXVYMF9feWt2a19SOV9QdnV2RHhtdGhPYU1hbVhUNnc4Sy1ZX29WOGJOYUlISEJKeGpiLTZXTzJSeGwwR09LR01lODJEMFprZWRsVEVIMnloS1NTWjgyN3BMUTd3MktYVk41ZXZpRk5zbkppaGlxUlN6U3ZUSG5pSUE?oc=5": {
-      "title": "Falha em subestação interrompe 365 MW no Ceará e na Paraíba - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T18:05:16.413053",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeExhWGVrblJORE8wQUxBRzI5M3ZNLUZlRkJlNEdjSGxybDgzNkF2QWdWbkRFUWVUSjRBSlY3d283SVpkaTQ1bm1aYmdabVhyWjFMeUFwUkRvS2dVSl9wbE4zNzlXUGllYmxXNGJEMGR2QnB6UXdUaXpLa3dXYWpLQXFpamlfMC1YamFPUGFLMWZfa2VhZkRXUjdWZGM1RFk?oc=5": {
-      "title": "Indicadores de Desempenho do SIN Junho de 2026 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T18:05:26.573113",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTBwY2pSN0lPeFFOcFZUeTBVT1JIUjBKb2RrT0d5Z3QtXzMyWHBNdkt3R1RWaE1KS2ZUN3d4STRBNVNaZ2NzMU5WcXpPaDU3bW5rOTRid3dlSERvTVJhXzdmbHNBelVrMXJkQ3hKYk91X28wZ1pWRXVQTDFLek8tbS1wWHR6bWk3d0ZFUllxRkFRRjE1eDN3YkpRTWoyNW5hMjh6bmVDOGY3bjEtUWd3RDVja21qUWsxanlyZTJWQjY1a1p3UWlKY3FvTdIB2gFBVV95cUxQZDlKSEZBbXF5TTA4a0U1cnp2VGhhajRESEx1UHJOMW4tUXRoTzNBUEs4cEZTVXZieFpnU1JYdzNJbkRVV1NCQVNrUE45YjJOUUFKNDBkVm05ank2MG5WeXVmRFQxZlU4c2ZOYkhoSmlhNjI4WnM1Yzd4RG5SeGJHanVoWjVTZkZnWmlBdnFuckhKQTZWV05Bd3pWSVBjWkNsWlpHbGREQ3FTRmRjTjcxY2YzcURveGpXWmhTY0k3dExkT0k3WWlGUUgyWThnSmpPVG1Ibk96SERhQQ?oc=5": {
-      "title": "Bradesco BBI vê espaço para ‘follow-ons’ e ‘block trades’ em janelas pontuais - Valor Econômico",
-      "summary": "Bradesco BBI vê espaço para ‘follow-ons’ e ‘block trades’ em janelas pontuais É possível aproveitar momentos de valorização de ações em meio ao cenário ainda restritivo para novas emissões, diz executivo Apesar de o mercado de capitais ainda enfrentar um cenário restritivo para novas emissões de ações, há espaço para ofertas subsequentes (\"follow-ons\") e vendas de blocos de ações (\"block trades\")…",
-      "source": "",
-      "added_at": "2026-07-08T18:06:34.165711",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSHhLbF9RNW1lMHNnQ0JMNTBScUlkT2lwSFNQazJWVXBWQUNRVUJaWUNvX1A5S3h4ekc1SFdDcGw3WDlKOTJuTWhWb0pIYlg2UDl4QWd4RDVXRnJLMmlTb0pEaGdieFJhVnVPTGFaUWtUaVk0VDVCU2Yydm45eDRSeEVfTE56RVRtQjhpR3pEM2tsR1Z6OWVCOFY2Zjd3TWd4em9RZnkzb1RFemJ4ZlVidzVLYmpnU1lTTlFIY3RpTkQ1SHV5WTlFT2E4YW5GWnJENzN5cU1YX0p3YVpUZXVmSTlfdFVfR0ZEcGg3NW9FRDXSAf8BQVVfeXFMT1I1dm5nQmdMRUF4VGZrQzVTYzNUaHNLenpaeXhySUtWOFc2YlQ5d2R0Z2FSR09sWnVqT3doQkxDWUNyX3hsVHlscDVYQTFCSjR4WVpuTG1uZlUyWEFfMXpyLVVGVFZLRFFFcm4taVM0b0pYeUNMMVhKOWwteUQ3RXRLQ2tfejBjelBqTUJnZ1oteXRaNG5PMUVnYzNWakkyWnB5NWlHaWQtZDlQejdyNEpVY3YxaVVTMEZFRS1KeXJrTHk2ZTQwd0c2WUFDWkIxaU1LMDJBdXJNcEQ0VWJ5Q1h2LXZkS2FqMXFBOHctczk3VkN3WjVUbmlxR2lXS3J3?oc=5": {
-      "title": "Indústria de calçados brasileira diz na USTR que tarifaço afeta EUA, que não contam com produção significativa - Valor Econômico",
-      "summary": "Indústria de calçados brasileira diz na USTR que tarifaço afeta EUA, que não contam com produção significativa Setor foi representado em audiência pública do Escritório do Representante Comercial dos Estados Unidos por Letícia Sperb Masselli, gerente de relacionamento e negócios da Abicalçados Em discurso na audiência pública do Escritório do Representante Comercial dos Estados Unidos (USTR, na…",
-      "source": "",
-      "added_at": "2026-07-08T18:06:34.166095",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdsNUlnMENGeXQ3R3BhNVRkVmV0OGQxdlRiSENXTlo0eVBOZzJEcEh2S3AzMklycHFDOVdWTzM3RWN5R011ek1GZkRmSWt3eGZmV2M1QnNJSF93T0VxVHhjOG1Ga0dvS0hiVmFnMnRKZnd6Szk1Y2M3MkNoTlNUX21qeDBNdTVGbHVkQ3l5TEIxZjRrd1dJbDBJNA?oc=5": {
-      "title": "Neoenergia Brasília anuncia André Santos como diretor-presidente - Agência iNFRA",
-      "summary": "da Agência iNFRA A Neoenergia anunciou André Santos como novo diretor-presidente da Neoenergia Brasília, marcando o início de uma nova fase da concessionária voltada à expansão da infraestrutura elétrica e à melhoria da qualidade do fornecimento no Distrito Federal. A companhia informou que um novo ciclo de investimentos até 2030 será apresentado em breve.",
-      "source": "",
-      "added_at": "2026-07-08T18:06:34.173609",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXR3MVJSeUhmSkhkMTBCQVcwNUhCbEVsMHR5M29BX0VRTjdOcXIwRDZLT1lmNlBNM1BFdGYycXVBT0hoU1J5WTI2Qzl6QzY0cTJpUTJDN0VQelVCZF9ZS1lPaVZTb2d3NzZhdzYzbU51aWFBZUxHVHE0RTJGN3ZNb2ZDaHM3OERseWJMbUN0bzZJV1NoSjFUVnozUlVzbE9DN0M0ZHZ6TmtGN3UtQXBmVU1jcw?oc=5": {
       "title": "Echoenergia aposta em qualidade para crescer na comercialização - CanalEnergia",
       "summary": null,
@@ -3949,7 +3901,7 @@
       "source": "",
       "added_at": "2026-07-22T12:01:34.665759",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0hqX2lSaFh2Y1ZkOFJaZ0hRbUR3dWp5RTl6clJZNWVoci1fZWw3bnJGVE05U1F4Tld2Y291OXl1VlR3Y1ptbzkxSkVXVFRWYXNrbE1wZlhTUXQ5UWFQMklWRVM5cTF1bUFoSjZEdUg5QTE2TEREUkZGUHRqMHQyM2ctVENHZTJQNkVsUXh4aERKYVB0TEhBdEF3R3NFaW04UC1HMGdyMjNJdW0wSU00dWVVdUl6ZHRESkczSGdsdEE4ekIx0gHTAUFVX3lxTE9CdHVabU0yelA3Nk1fRm5wMnpjWnZvdjgtSko1aExhVzVuQnVwMXZ4bGZVRV9jOXpGNzI3TTJuZlhYcnAzOWFSWFVQdUI5czU0aWdMWi0tTzZNVkUyNVY2VGEtM3NrWlBUYndvR1hZV2dzSUZoNWpXMTRHelJEMm9uV0dHemhiNWtUSDhlMXM4NDlaNkh0UGN4RlJqWXJBdEtVV2pKcDJTdVp2U2h6ai12LXdUSmV0S3hGMjZMOUkwbnVIZ2NTODhnOFU1VEpCcV9lSm8?oc=5": {
       "title": "Tempestades no Chile deixam mortos, desaparecidos e milhares sem energia - Valor Econômico",
@@ -4045,7 +3997,7 @@
       "source": "",
       "added_at": "2026-07-22T16:06:28.228708",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2eUVPYVJlSk5adlNkWG4xVEVHRklTdFRoa0M1QWFvWmt4YmhyMWFUOXdYSHJxYUtCdUZBM2c0SFN6RFlEMzJiNjN2MFc?oc=5": {
       "title": "Tag GRV - MegaWhat",
@@ -4053,7 +4005,7 @@
       "source": "",
       "added_at": "2026-07-22T16:06:48.076294",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLTZFbGtpdkh3SzRZNDBVWmNOZ3QzMnJvVVVoR0l3dmFyeThTN0Z2TWN5a01ORVdHVldZUnNtUmRYNEo1SXJUQnZ4cGItaWFHX2JhU1ZfTlFadEl2NEpQOFlkQ1pmTmoxM3NXQkdfeVVBMGlJUGl5Y2Y5Z0NnbzNOMlVjczQ1dnkzUFNhTDEzQVNEMGRmVHhKVDA5NkpvZ1M3WmN6OG9zWXhiblk3T3BTaS1OZmFjNFZhVDdEeTMwQjVJZmNPekJNRENaeVNvY29ucVhCY0M4eU90TGMwZ3FiOFlB0gHwAUFVX3lxTE5JaTVsVHlhSUVieUZwLVhiZkdHeEVYeTBpUnZhcEE3WnBRaFowZGJYTHpVZFJocjdWTnFmUDdJdEpIdnBpSndpeDNyd1hCSXphaGoyRW5sNm96ZlZ0Mlp2dE5IZGwyRGZNZEl3SlVsaU5reFBOSjJJcTVnRWJMaHNlTXh6UHBubmRRQ2FBR0ZVTlp2dXlJWjJyd0NWcE1hNWZlV0pjSG9qOG5raXE0bkxuRGhUdDJmU084VW5oTFFueGJBRWgyRDVSS250WmJmVEd4YVYwOWJBNW9wU0x4UjdDU3piVTVEME5temlvNkJNcQ?oc=5": {
       "title": "Trafigura compra contrato de R$ 750 milhões e comercializará energia da chinesa CGN no Brasil - Valor Econômico",
@@ -4061,7 +4013,7 @@
       "source": "",
       "added_at": "2026-07-22T16:07:03.667713",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkhYeVlORDJVdm1BT2lmTnpWcGcxTXhQOFFZZHpBLW5tRjNZLXI4TnlxSHBtR1B5OHZNeGZIeWFqM3ZNWWV6MXUzRG1uZW91UEpITXk4RlRuUXVVNlhDRkVVYnpOcExqQnQwbmRSbnFLLUk2NFlTVk9yRVVfYWw4d2tmY1V4Rk9ISm1rcUJiN3VOOEhrSGswcGJ0Z2ZPd3JnejdVVWhfSjZuWnZMek1Ic1FCVTc4eXVheU4tUkdPLW91WG5oZzBETm5XQ0o3Y3NoOFdxUjBuYktMVlE?oc=5": {
       "title": "Periferia de São Paulo sente racionamento diário de água com redução de pressão da Sabesp - Folha de S.Paulo",
@@ -4069,7 +4021,7 @@
       "source": "",
       "added_at": "2026-07-22T16:07:36.027072",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSVpzUnFleWl3TVNvQml4ZlQxVWxfVkpobll4N09UMHBCOEh3RnBGaWNWcjdGSTlHUUdxSnU4ZDNJam5sSXFfYTF6akhiZDd1bFFVZ1RTdFE4UEJPc3JVblhCZFZfdWlweHNseEJ3TXY4SVM0ZzRHRjZsU2llTFJVcVA1R3V0NEZ6b3RGSXdJWnBJSUJLMk1zVGdGSEVMNTNrNVJOY0lSdVpRcWw3aTNyLUNCV21EZmtuZGZzOUNOZTByUVZVQVpyNmdKN2ljNnJuSXF3U0V0Zm8temQ4UGJJVA?oc=5": {
       "title": "Governo divulga regras para ressarcimento retroativo por cortes de geração de energia renovável - Folha de S.Paulo",
@@ -4077,7 +4029,7 @@
       "source": "",
       "added_at": "2026-07-22T16:07:36.027242",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEZETi1SdHMwTlNhZDRhY242a000WEtxOHV4ckFVQ1BKTWpWWk83Q3NyMU5WamRVVlhMUzVxdnZ1bW9kRE1zWllib3owRmd4bmZMOWFQaG92UC0zTzhUMFlEMk1wcFhRZDZCR2tFVkVGMVEzM0h0NzJmNTYwcWFFZnpUbzZiUTM1QUhZLU5KcDZhQ2dScFNPaUhwaXo2SU4tT1hzSnFleXdka0M0V2JXVGhhYldNc2cxaTdpS1VtbUhEbXRhVnVSWF8zUXBSZFRzRmpwbkZR0gHbAUFVX3lxTE5PMDlkQ1FkZ2luYWJaaWhLdnNQTVZzY3lYSmJMc2pZSHRKRDdYMmFHMVFkY1dmbko1M0V2aTc3VlNCSjFuQXpWNkRfWW9laWw5ZlJlNGRQTkp1QXlMNzQ1RFJsZExZRzFYdVZ5OGlOX29vdzBqTmRWczZLcXo4aGhMZGgtWDVVV0hpNG1LUVpxTmtJX19fYTBIei13VmZ1aE5KaGg1aUpPNzRwN2VrOGNaYkJ0UFZQTlNfUGlfaVdtbFppSkVwQTNhSTduZ3RhMGlhckpyalZtY3JMWQ?oc=5": {
       "title": "Caminhões elétricos VW completam cinco anos e já viraram ônibus e carro-forte blindado - Estadão",
@@ -4085,7 +4037,7 @@
       "source": "",
       "added_at": "2026-07-22T16:07:36.027662",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmJqZUV1ZTNrcmlCSFJEZ3psNEkzQk5XZHlRTTJ4LW9VZ2NhTkZLbnNTUVk0OEw3MjRnd25ZdHgyUnkxcUdVNHBmYnVXemZwNlJ6WnloZHlEaEdlRGxLbkM3dUdIUURKUGVJdXlaT181VWtKM0txTkpYV0JZQm9QTm9PbU0teXpfV0hfUHpxbk9zS19CVTV5Q0xBNWttenViUU5EZVppMlA2Rmt6ck1BRHdraVd3dXBaOGtsZnhCcUo5RENGcW9sY3N4ekw2dnlOT2VpVkdTR2YtbzBOOWo4dGNB0gHnAUFVX3lxTFA4UjhuNDhZLXRZdWItdWljejFSVmRTcm5JeFpGQUpNS0lHSFFxVnpnQ2pvNjkyNS1HWm1QamFpMUcwMk5LM1M5bC1ISVJEbVRjbzNYVVJzS0V3M3NjN2tqUXROR1h2QUwtWVc0U2RRc0J0Z2NIQ25IZ3Z6SkF1cnk0RDRJUC1BN2dLZUR3NU8tLW45R1RQVm1mR1ptaDJJQzhKQ2M0YUdScjd4NDEteEh1anhNbjZRYWhHLTJscklMekZ0UndGSi1raF82TnhBUG1zZUhtRnBZWjdWMktRdE93elJfMktKRQ?oc=5": {
       "title": "WEG (WEGE3) tem queda no lucro e na receita, mas reforça confiança apesar de tarifas e dólar - Estadão",
@@ -4093,47 +4045,37 @@
       "source": "",
       "added_at": "2026-07-22T16:07:36.027876",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUl8tM2tVRzFrcFo2SkFuMFFCZnFReHZRcnhQQ1VnS1FJUkFCaTF5ZVJSSkpFd204Y0RVYVBzbW9paXVNdTVCVFNocEdCSk9zMzViV3huYVBMWkxUeDk3OHpwaEl0ZEo0ZVJvVm9haXBELXpSQkFGZ2lNZmcwZ2VpNW5Cbl95UHBGQUlYeFdKV0VyRzRrM19pSEw3dFF2a0dqWUF1eFhKNEp1cmI1cEs0?oc=5": {
       "title": "Energisa registra alta anual de 4,3% no consumo de energia em junho - estadaori.estadao.com.br",
-      "summary": "O Grupo Energisa registrou consumo consolidado de 3.498 GWh de energia elétrica em suas áreas de concessão em junho de 2026, o que representa alta de 4,3% em relação ao mesmo mês de 2025, segundo o boletim de mercado divulgado na segunda-feira, 20. De acordo com a empresa, o desempenho no mês foi impulsionado pelas classes residencial, comercial e industrial.",
+      "summary": "O Grupo **Energisa** registrou um aumento de **4,3%** no consumo de energia elétrica em junho de 2026, totalizando **3.498 GWh**. O crescimento foi impulsionado pelas classes residencial, comercial e industrial, com todas as distribuidoras apresentando alta.",
       "source": "",
-      "added_at": "2026-07-22T16:07:50.887792",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-22T16:07:50.887792"
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFF2cy1uM2FydzRDakhZZzdQRFRxWVBucUFtMXVwek1US2M1cWhoa0V0YlVsdlVmNkVJdHl5aGVQcGl1d0JUdWZEQ1pFeGp5aTRqaldaZENuSWRlT2pZSHozRjV3M1NVbFBObERsNUZIRmdoT3lQYS0xd0d0RHVOcHQtNmdsejBoX0s3YU1xYjZ3cFNmM2FwVUIyZFQwWWFkeUctQVRUdmlSZw?oc=5": {
       "title": "MME e geradores fecham acordo para ressarcimento de R$ 3,3 bi por curtailment - Agência iNFRA",
-      "summary": "Marisa Wanzeller e Geraldo Campos Jr., da Agência iNFRA O governo fechou o acordo com usinas renováveis para a assinatura do termo de compromisso que garante o ressarcimento em cerca de R$ 3,3 bilhões aos agentes por cortes de geração obrigatórios determinados pelo operador do sistema no passado. A portaria com o documento foi publicada em edição extra do DOU (Diário Oficial da União) nesta…",
+      "summary": "O **MME** e geradores de energia renovável fecharam acordo para ressarcimento de aproximadamente **R$ 3,3 bilhões** por cortes de geração (curtailment) entre setembro de 2023 e novembro de 2025. Os agentes devem abrir mão de ações judiciais para receber o valor, que não impactará diretamente a tarifa.",
       "source": "",
-      "added_at": "2026-07-22T16:07:50.887951",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-22T16:07:50.887951"
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQazR2MXE2Z2NfZzNxVjkxMm1lVUlaaUZhRU13ajZ0TWFweDVTXzVYajhBeXVaLW9EclBHaGRjUkNXOFVsd080bU9jMUw4d1k3N1VBRWhZWWlWUl9ES3VSS01vNW1Bc3REcXpXcWdWZ2swUk1lSVd0YzhIX0ZTQWt5Z2o1eW9EMENNYkIzazlrc1BLUm45d2ZHbk0xTFc0b2ROVXpDWGRMNjd2UUs0eUl4RFBoYVRGeWstTGFjdlBpal81WmRmXzZRYzBkVGE5dFY2?oc=5": {
       "title": "NFE renova aval para importar 10 milhões de m³ de GNL por ano para Celba - MegaWhat",
-      "summary": "A New Fortress Energy (NFE), que gerencia as Centrais Elétricas Barcarena (Celba), recebeu nova autorização da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) para importar 10 milhões de m³ de gás natural liquefeito (GNL) por ano para a usina. O gás deverá chegar pelo terminal de GNL de Barcarena, também da NFE.",
+      "summary": "A **NFE** recebeu autorização da **ANP** para importar **10 milhões de m³** de GNL anualmente para a usina **Celba** em Barcarena, com validade de dois anos. A usina **UTE Celba 2** tem **630 MW** de capacidade e está em fase de comissionamento.",
       "source": "",
-      "added_at": "2026-07-22T16:07:50.888036",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-22T16:07:50.888036"
     },
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iZUFnbWFyZDY3eU81UmI0T0dfMWhUc2pwdzUza2YwU1VoWHZIOHRYN3FLTXVBc0MtVDZiN0JROVlPTG1YMDJqdFlkUFc4QQ?oc=5": {
       "title": "Tag 2T26 - MegaWhat",
-      "summary": "Resultado WEG vê data centers e transmissão compensarem queda em solar A desaceleração dos projetos de geração solar centralizada no Brasil seguiu pressionando os resultados da WEG no segundo trimestre de 2026, mas foi compensada pelo avanço dos negócios ligados à expansão das redes elétricas e ao crescimento da demanda por infraestrutura para data centers, principalmente nos Estados Unidos. A…",
+      "summary": "A **WEG** viu seus resultados no **2T26** serem impactados pela desaceleração da geração solar centralizada no Brasil, mas compensados por data centers e transmissão. O lucro líquido foi de **R$ 1,56 bilhão**.",
       "source": "",
-      "added_at": "2026-07-22T16:07:50.888075",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-22T16:07:50.888075"
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1dPRnFfR0VmUi1JZ3dVbUVzZzdPQURHZmF3cWVYU0E4dm9ISXdvTkU4MjN1anpKRndTQ0t5WjI4eXppMW84bkh3ZEs1Y0R2RkFsdE5XWlZaMjd2eEVOOHA2aEFzSkRscV9oRTBETktJWkI1bzdGT21VS3A5cWp6NWpocVpNSzEyY3RCR2gycnVpeVJ2WTFPSUpUdDRrYy1aUFppNmVEdFhocDk3VC1SeVVscFpoSkZxR0trVw?oc=5": {
       "title": "WEG vê data centers e transmissão compensarem queda em solar - MegaWhat",
-      "summary": "A desaceleração dos projetos de geração solar centralizada no Brasil seguiu pressionando os resultados da WEG no segundo trimestre de 2026, mas foi compensada pelo avanço dos negócios ligados à expansão das redes elétricas e ao crescimento da demanda por infraestrutura para data centers, principalmente nos Estados Unidos. A companhia encerrou o trimestre com lucro líquido de R$ 1,56 bilhão, queda…",
+      "summary": "A **WEG** registrou lucro líquido de **R$ 1,56 bilhão** no **2T26**, queda de **2,1%** anual, com receita de **R$ 10,14 bilhões**. A empresa compensou a queda em solar com negócios em data centers e transmissão, e investiu **R$ 794,9 milhões** em expansão.",
       "source": "",
-      "added_at": "2026-07-22T16:07:50.888269",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-22T16:07:50.888269"
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHJhNkNYbUtyaWV1VVRMM3Rsc0tzS0dieFpENkJSc0trcS0ySWc3bjJnLU4zRkNWM0haZWo2ZEJ3MGRIdkN1S1FjU09CSDJ3dnE4ZW9HSkV3TzlfZDkyVDVSWTNkTmhPTjh2QWxlaGk4SXRSbDlRbVFLY0piS2N0S1M0ZVE2M2R0aXZrbmFHN2dpVFBxVVItRFhXb3VwRXh0Q3I5MFRSLURhM2N2ZWNhV0tmWUhOWDg4T1NKQXpWM2o?oc=5": {
       "title": "🎙️O termo do curtailment saiu: o que ele paga e o que deixa de fora - MegaWhat",
@@ -4147,7 +4089,7 @@
       "source": "",
       "added_at": "2026-07-22T17:42:06.290361",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSE82czdNelBrNXFvdmZhZmloWmpFNHRxaGV6eVByRjd4enN6UXczbGxXdWFLRlhVaGhtZFJLaHFrRXdXb1hqMkZVM0ZrNnhKZEFDbUFGSUxvWV9oaTQzeGNYbmVOMm94UDBjMjYyVzFwbElRR2ZRSFdWVE1WSkJFZWNmbEJHdURGbG9hal9RbXQ5NTBtVktGYzdheF9sak1Ec0gwQkNhQVhtN1dzdThvSkE5MkZZb1ltU2NIWWxsR3lnRnRkQVVnYXY4X0hZZ3VPbFBrYTR30gHkAUFVX3lxTE9iNW1iYjN0Q1RoeG5WeGNBbGdsclMySVdoY0M3UElKVk9sbE5ubElvQk5mNU5YcFZybEEtQlV6RmY2dGxNQUhqNnBHN0JZa1A3MHZfQmJjMFVIaHdBb0lmV3IzemdxMVNwOHNmTkNBd19qOHBrUEllOTQ1YUc0UFd2cFVrM2FESXJFVk9BcEs3YUl2Um9iWkc1XzNMZnhzR005QnVlYmwxU1c4cVNHZ0lnZkt3VGhTeEp4a2VaRlhUT1AwUlNkb3hFV2stN3l0RXgtZkVRcUJOdVBYMFdzdW01eE9XNA?oc=5": {
       "title": "UPS na era da IA: sem energia inteligente, não existe IA confiável - Valor Econômico",
@@ -4155,7 +4097,7 @@
       "source": "",
       "added_at": "2026-07-22T17:42:06.290624",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUdwdVFWWFF0MkxQQ1FFR2d2UE9HSTlxMVM2SVVGemV0RnFwWWJ5RC1fZ0p5WklDVGlDTGxsOW1yMllIR0FlSHJ4ZTNXbmFmTHlaX2dsX2NzeC15Vm5DYm0wUHJwd1g5SDg0NXFVUk9VdDBsUzlNaWo3dTRoeVhzMGlTdmhOcGt4WWpubGhSSjZOUGVtUEJaUFh5UFJpcUxObGx2dnVJZ084ekRNVEdndEw0YXZoMXZVZGQ4RmJzeXNyemh1SXJpeTZB?oc=5": {
       "title": "Lula anunciará mais R$ 13,5 bilhões em auxílio a empresas afetadas pelo tarifaço - Folha de S.Paulo",
@@ -4164,6 +4106,62 @@
       "added_at": "2026-07-22T17:42:06.290877",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNktyYk45QmR5dElzUFlmdWgxVndoV2cwY21fTUJxWjZmV21XeUNUdHV3Y2pLRlVDZndtUHRVMXlDOUttVHhZN3J2eWxTal9KWDlBNHJwajN5R0h3Rm5kY05BUXE1b1Y0VFNva3YwSFhXZVJEZDRBdWpBQTVIaEFNTG84a0Q2X0ItQnFDdE5veHg1aDRlb01RQWoyODFFRWNZcEphZTlOMHVnT0lRNEJhMkZkRXlOdFXSAcYBQVVfeXFMTUNPX2xRZ3dTdE5XazVaZ18wY3ZQc0NEZ2YtV3llcTVjcFcxM3piQmhHQVZHSkFibTFqOU1YQW03RzM2d2FPaktwN0ZtOGJxclBEaFlaRlFTRHY0NUQtZlkxZHNsYUsxcDNkZEc4ODJGdUF2bEMweHBJQTdycmdoUDJna2o1SUw4cWlTT3RicUwyN3BqZklmTDJyZjJxR2hUX21NTnhlNHlKTTRqTG9WX25kZUhxLWhzMHpCdmp6WUp2YnFwQWRB?oc=5": {
+      "title": "Conta de luz deve subir 8,6% em 2026, projeta Aneel - Valor Econômico",
+      "summary": "Conta de luz deve subir 8,6% em 2026, projeta Aneel Com reajuste médio previsto acima da inflação e bandeira tarifária amarela em vigor desde abril, amplia-se o interesse por alternativas para conter os gastos com eletricidade; Marcelo Freitas, CEO da Soul, explica como eficiência energética, geração distribuída e gestão inteligente do consumo podem reduzir a exposição de famílias e empresas aos…",
+      "source": "",
+      "added_at": "2026-07-22T19:41:26.281880",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS183am41VzcxSEdTOEtZTEpNcHRyT2dWbmN0eUE2Y3lFNUMyY2ZCY1pXbEoyNDYwRlQwcEliMkM5b1JCel9McDc5ZHVUZEZQeFJTNnRuRHFpcXk1SDRpNEN0UENJZlFYUDFTcVo2bnFITGo4UXZuSFg0aXZyTWdFejdIMDJYNWhpQ1RWN1ZxRjVQdVU1OWdUd0twYVpaSUZXVFZObmVqSmEzbGpZWEFrbkNCM0FOdW5rNVVGX0JOdFI4dFNPX01jVFU2SDZwZlVCMi1paGd30gHkAUFVX3lxTE1KWWxkS2k4NnIwOFZWYVIxSktqN2VhNmJqbldmaXpZVXMyMjl1V3pmSDMtOEpmZm0xcVEzY1pFTDRQcDRZcTc0YmJlRVE2ODdZQU1yRE93VTl4dDNoSDlFUC11bFFOQzY3ZWY2d3VPdFFkRXhvV25QM3F0LXRXTzJueklvcDl3eUJoYlExZUo1SW5KM1FCN09XNkZzbV9tYjRxbXRxc2pxRFlwM0FmMzVSZ3dDb19FdEg3Qnc4Vm1OSDhaNzdzQWE0YnNzV1lpbUwtd3pNY3R5RnU5YVFjNkpfN3g5ZQ?oc=5": {
+      "title": "Ressarcimento a geradores renováveis é avanço, mas falta clareza em regras, diz Absolar - Valor Econômico",
+      "summary": "Ressarcimento a geradores renováveis é avanço, mas falta clareza em regras, diz Absolar Entidade afirmou que a portaria publicada na terça-feira pode não ser suficiente para encerrar completamente a judicialização em torno do tema A Associação Brasileira de Energia Solar Fotovoltaica (Absolar) afirmou que a portaria publicada na noite de terça-feira (21), trazendo os ritos para ressarcimento a…",
+      "source": "",
+      "added_at": "2026-07-22T19:41:26.281947",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak9KR2lkWmxTdHU3MVpJZEdBaHo2aVEtMDZBejZTZEllem9ZM01DWThJem1ueWI1d3k5MFZndi1EY20zYnBkMF9KX3kwaVRCc210U18zcGJibGRmYmU3b1FTbVVDMWE4Q2hEdHRzcVZDLWZTYk12Y3VvZ0FNOU5qRjB6blVfLUpWTGxBbHE0OWpuLWJuR3BEV0hxdGo2MURKc3RDMi16MkRWN0ZuVGNzdC1mN2h0QkFkOG1Ceko0dGJuQkVKSkZTQk41WGR1dmNCTWVYQw?oc=5": {
+      "title": "Memorial Brumadinho discute como fazer transição energética e mineração sem destruição - Folha de S.Paulo",
+      "summary": "O Memorial Brumadinho, espaço dedicado às 272 vítimas do rompimento da barragem Mina Córrego do Feijão em 2019, realiza nos dias 13, 14 e 15 de agosto um seminário para discutir desafios, caminhos e paradoxos envolvendo a mineração e a transição energética. Intitulado \"Mande notícias do mundo de lá\", o evento é organizado pela fundação que administra o memorial, construído no local da tragédia de…",
+      "source": "",
+      "added_at": "2026-07-22T19:41:49.054176",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0xXUUpWMDc3TTJlMXRQb2MwREtwNDZ6UmtMSjhEQUo4LWgxYWd4Mkk3X0pyX0w5bTIyNDVBdFo4U0V1RzdVT0ZKN1VidDlvYVVFRmppa2YybjZkS0hhSWdXMkt3clV6eFhfYTFFWUNuek1uc3k2SXlfUkZqLVY5TnNGYzU2a0JZX0pXY2xMZkViQk9QVDEtLVNUQzhrTkdnZTh4UDV4dkEyTmJx?oc=5": {
+      "title": "ANP instaura comissão sobre impasses entre Petrobras e PPSA - MegaWhat",
+      "summary": "A **Abeeólica** não espera adesão total ao acordo de ressarcimento de **R$ 3,3 bilhões** por curtailment, pois a decisão será individual de cada empresa. A associação considera o acordo um avanço, mas ressalta que ele resolve apenas o passivo passado, com o futuro dependendo de nova regulamentação.",
+      "source": "",
+      "added_at": "2026-07-22T19:42:03.273227"
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVpUblhRVjFZdzdsdDdEalY4MF9Ga1NIMi1iSm5ZUzRmOTNucGV3bXhWUEpIVXROZ3dPRkc5Z1ltSXVtMXJGX3prNHFraG50S0RkRmRLdmdKUDYwZmdWMk1fMURHeVZNc3dkdlk2OU9RMGpLSUdkM09FUlJ1cjlBVHRMcDZjd2NsVzVZaXVaZUI4ZDBXMmF0RFdFbktJMGd0U3ZTa1hqUDhpS0psYVZZaUtiWEdhX0w4YnJnV19ORGNDZEhtSEZqMHktOGFINVk?oc=5": {
+      "title": "Abeeólica não espera adesão total ao acordo de ressarcimento por curtailment - MegaWhat",
+      "summary": "A adesão dos geradores ao termo de compromisso que viabiliza o ressarcimento dos cortes de geração ocorridos entre 1º de setembro de 2023 e 25 de novembro de 2025 ainda é uma incógnita para o setor. Segundo a presidente da Associação Brasileira de Energia Eólica e Novas Tecnologias (Abeeólica) Elbia Gannoum, cerca de 40 empresas participam atualmente da ação judicial sobre o tema, e a decisão de…",
+      "source": "",
+      "added_at": "2026-07-22T19:42:03.273526",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSVBQMXV3ZjB6eDV0WjhITGRJQ3JRbkpjdWo0bWNfWWxIbzVLWnJyZ3RjZHJlMzk5ZTY1YXdYU3VsYVR4TndoVmhXMy1FLWNiV3ZYelg3aWVWaTAtMWdEWVVfWWtYclU?oc=5": {
+      "title": "Mercado energético - MegaWhat",
+      "summary": "A **ANP** instaurou uma comissão especial para apurar impasses entre **Petrobras** e **PPSA** sobre o acesso da PPSA às infraestruturas de gás da Petrobras. A comissão terá **270 dias** para concluir os trabalhos e visa resolver controvérsias que afetam o leilão de gás da União.",
+      "source": "",
+      "added_at": "2026-07-22T19:42:03.273546"
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OUXdZZjY1cWFUVGVJeEtTLXR1eTdackhqOEppYlV3bzhfVzhIRUJkd1hPQWJHX1M0X3F3S2FOWEpVNVJ5SG1tYy1CdklaSmoyVXpucFJOcWdJd183dGFEUE5ycFBWNmot?oc=5": {
+      "title": "Política Energética - MegaWhat",
+      "summary": "O **ONS** alertou sobre a inflexibilidade operacional crítica do Sistema Interligado Nacional (SIN) nos próximos anos, devido ao aumento da geração eólica, solar e distribuída.",
+      "source": "",
+      "added_at": "2026-07-22T19:42:14.532476"
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aGg4ZUZER0JGbW9fUnp5eHVXZFNXMEozTks4cTNMZTloTl82NWJEX080MDdnT1JwaXlva295T1JSU28xTS02WW5xXzA4Tnl6Tm1aZ2lMQlROUQ?oc=5": {
+      "title": "Tag Scott Strazik - MegaWhat",
+      "summary": "A **GE Vernova** elevou sua projeção para **2026** após um aumento de **88%** nos pedidos no segundo trimestre, impulsionado por turbinas a gás e equipamentos para redes elétricas, mirando **125 GW** em contratos de geração.",
+      "source": "",
+      "added_at": "2026-07-22T19:42:14.532530"
     }
   }
 }
