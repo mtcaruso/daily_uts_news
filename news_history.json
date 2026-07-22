@@ -1,228 +1,6 @@
 {
-  "last_updated": "2026-07-22T19:42:14.540620",
+  "last_updated": "2026-07-22T21:20:46.608689",
   "items": {
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXR3MVJSeUhmSkhkMTBCQVcwNUhCbEVsMHR5M29BX0VRTjdOcXIwRDZLT1lmNlBNM1BFdGYycXVBT0hoU1J5WTI2Qzl6QzY0cTJpUTJDN0VQelVCZF9ZS1lPaVZTb2d3NzZhdzYzbU51aWFBZUxHVHE0RTJGN3ZNb2ZDaHM3OERseWJMbUN0bzZJV1NoSjFUVnozUlVzbE9DN0M0ZHZ6TmtGN3UtQXBmVU1jcw?oc=5": {
-      "title": "Echoenergia aposta em qualidade para crescer na comercialização - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T19:54:08.140417",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qY3dFNFNYbHVna0FyYmFia29jdGd5SEFWYUcxN2x2aV9TMUtGV2czVXJRT2I2eEJfTndTaTlHeTZxTnllMUZYU1BxSFhyTGV1YWZGZ2YxbndrY2tO?oc=5": {
-      "title": "Óleo e Gás - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T19:54:42.785871",
-      "error": "no_article",
-      "attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RLTRiRlJSdjdLTE5DdEQ5ZGJPN0NTaDI4eDM4ODFlc3pVUk5pOV9jRWRnN3dmZDZBdmk4ZTBWc25uS2lfWFRxRVNwdjA4V3BzNmpQR2RyYU9QbmM?oc=5": {
-      "title": "Tag Cynira Maveira - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-08T19:55:12.755633",
-      "error": "no_article",
-      "attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3JDSEx1UnkwT1lfQ0pLbTVzUU82eUUxbHVKbzl1M0ZEZzlfaVg1MUcxempoYUp1VTNybXpYdG40azlzc0hrdk9Ta0hUZkM0c2xEOVJGWlpOaGJmbFIxQXhWcTZkZ3NyZXQxN3N5SGlNNnZSMVRSdlJUTUVRaGxNV0xTVFRzUUVVYWpMRTczNHY4YkJ0SDNHdkVKd1Q2U3NYN2w5c1M1UlJ5NUl6UFNwbUJ5eWhZdVk0UkE?oc=5": {
-      "title": "Elera Renováveis transfere centro de operação para São Paulo - MegaWhat",
-      "summary": "A Elera Renováveis passa a operar, a partir do mês de julho, seu Centro de Operações Integrado (COI) na sede da companhia, em São Paulo. A estrutura é responsável pela operação remota, monitoramento em tempo real, gestão da segurança e coordenação de mais de 110 ativos de geração de energia distribuídos pelo país, que somam 3,5 GW de capacidade instalada nas fontes hídrica, solar e eólica.",
-      "source": "",
-      "added_at": "2026-07-08T19:56:56.093985",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFRrdmNkRDhJNm1MZjNpMnVJYTZCbzM3QUtBemt3UHJ3NzVZNk5yX0wwZzFfMjQyQU1ITkIwQ2pJUGxWZkN3Skx2TTdZcHlRckJtQUx6MGxxMkVSUEJTSUJnV3RSVF95di04VXBIVmxmWE9BSUJ0UkFOS3hYTUZVaUNRbGtlR1F2QnVKbkFfR3JSUXY0MmhlemZIZWcwV0NfVkFmQ202UmxZSlZXdzRHSk5B?oc=5": {
-      "title": "Falha em subestação da Axia provoca queda de energia no Ceará e Paraíba - MegaWhat",
-      "summary": "Um desligamento automático na barra de 230 kV da subestação Milagres, no Ceará, da Axia Energia, provocou interrupção no fornecimento de energia na noite desta terça-feira, 7 de julho, em municípios do sul cearense e do sertão da Paraíba. Segundo a Axia, a ocorrência foi registrada às 18h54 e resultou no desligamento da subestação Coremas 230 kV, na Paraíba.",
-      "source": "",
-      "added_at": "2026-07-08T19:57:12.532681",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnNwVno4VjdGdEN2dHp6UGhGRlpaOHpSaTVHU2RYd0VQOHlndEduOGdST092WjZnaTVPT3R2UGc4QUtHSGZia1BXb3Fsbzd0d1FNY2pwMzJXMmt4akxiQnZkdnVxSkN6VWhlLW9BMW9mSkRJN3ZWMmgxdWNyNnFVV1hybi0ycUdERWZHZUVKeXhqTndnalkxRDFkT2JTX0I1WFExZ3RQYjF5cGdEX1RuaHFZZDRVNGN5cmpWZUg5QkFwSmhjcTV1dlpYN2dHbXM?oc=5": {
-      "title": "ANP e Petrobras firmam acordo para adequação de 335 poços marítimos até 2030 - MegaWhat",
-      "summary": "A Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP) e a Petrobras assinaram nesta terça-feira, 7 de julho, um termo de conciliação que estabelece medidas para a adequação de 335 poços marítimos aos requisitos do Regulamento Técnico do Sistema de Gerenciamento da Integridade de Poços (RT-SGIP). Segundo a autarquia, o acordo encerra a controvérsia relacionada ao prazo regulamentar…",
-      "source": "",
-      "added_at": "2026-07-08T19:57:12.532920",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ050eWJTUFRyQi00LXFCX1FnNjdRUUJQUzFZWHBYdTM1ZkV3Sk13ZlV6aTE0RDN5RmpGZWpkSzVTbXJxdnNQbVhaT1lyam9vbURzM3ZUN0VKWGMzOWFrdDJvV0hEV25WbEZRZUk0QkZrNElybTV5c0hvUDJ4bjNsT0ZBdTJQNTNvTWRKaWp5QTNDdFcydkxUaHRhc3AwbjBYR204dTJ0R2hBSXN0ZXhJ?oc=5": {
-      "title": "Nova minuta da CP 45 adia rateio entre fontes e restringe recursos ao ONS - MegaWhat",
-      "summary": "O diretor Fernando Mosna, da Agência Nacional de Energia Elétrica (Aneel), pediu à área técnica uma minuta revisada de resolução normativa para a consulta pública nº 45/2019, que trata das regras de corte de geração no Sistema Interligado Nacional (SIN). A proposta em construção cria uma quarta fase de participação social para discutir pontos ainda controversos, como o rateio conjunto entre…",
-      "source": "",
-      "added_at": "2026-07-08T19:57:12.533183",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWNuZWx3VWZmU0g4M19Bb1hyN3p5aGxDaFlEUEdZZXVhXzdDN19nTkp0YXRneld1TWszbVg2SkNMVWhwUHByVkxZaFdRTzFWSmVYYXkxUV9zcEprOWM3d1JmSXp2MnU1TVUxX3RIUGZRZW80WlR3d25jcjdPU0dKbUdzd1V2YlRyQndRQUVFLTM5UGhWbERNekhpMHBFWWh4T1E?oc=5": {
-      "title": "Barril sobe 6,7% após retomada de hostilidades entre EUA e Irã - MegaWhat",
-      "summary": "O preço do barril de Brent futuro subiu **6,67%** em 8 de julho, atingindo **US$ 77,94**, devido à retomada das tensões entre **EUA** e **Irã**. O Irã condenou ataques dos EUA e a retomada de sanções, enquanto os EUA declararam o fim do acordo nuclear.",
-      "source": "",
-      "added_at": "2026-07-08T19:57:12.533271"
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTRS1JMDFGUGxkelFackxJMFZob3pVaWdBQzM2eGRQbUtrZmtSV29kSFBBQkhkYW9GbU1SVEk3WVJXdUVKUHk4Y0ZVblF3Um43VVo5ZjBZaFlQelJpUXFETQ?oc=5": {
-      "title": "Tag transparência CMSE - MegaWhat",
-      "summary": "O **CMSE** publicou novas diretrizes em 8 de julho para aumentar a transparência nas decisões de despacho térmico por garantia de suprimento. A resolução exige estudos técnicos e divulgação de impactos financeiros antes da autorização.",
-      "source": "",
-      "added_at": "2026-07-08T19:57:12.533321"
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSkJqU3pyRk82WVptZWdYR0lIT3ZoSTBoNzhpNW9UOTU5eFhnMFI5Z2I5SzI5cVZldGtfU19qbUUxOEF4bTJVa2NySzJrWDRIR1pwVjRmNXRoSXVUZDRCMG1uQmMyRHA2WC05dFRPQXV5QklnSlhFXzlNdENOcUsyQ0FlMk9rTGQ5ZHVQZ2NoeHloRUZQTjBadUJQRWJhSzhhWlZMU1dCOWU1SU9ubE5IYjhuYXVGSjJjU2N2TzZ4U09nM2hwWWdfZ2RuTQ?oc=5": {
-      "title": "Vibra investirá R$ 45 milhões para abastecer fábrica de celulose da Arauco - MegaWhat",
-      "summary": "A **Vibra** investirá **R$ 45 milhões** para abastecer a futura fábrica de celulose da **Arauco** em Inocência (MS) com um posto de combustível dentro da planta. O contrato de cinco anos prevê o fornecimento de diesel, etanol, gasolina e lubrificantes para as operações florestais e a frota do projeto, que tem investimento total de **US$ 4,6 bilhões**.",
-      "source": "",
-      "added_at": "2026-07-08T19:57:39.219578"
-    },
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MV3lod2EzMFduN0daVVJLaTAwOVh0MHRucGxfMWFFTG1ock54QXVqUjR1ZU5vS1hMclRnM2FmTzE1Y2dJTERGQ2ZPOURnUkVZODBGUTZRc0t0VHlmSVhWcjJOWXVWLWxpcEp2ZzVBa3doU28?oc=5": {
-      "title": "Tag Plano Nacional de Mineração 2050 - MegaWhat",
-      "summary": "O **Ministério de Minas e Energia (MME)** aprovou o **Plano Nacional de Mineração 2050 (PNM 2050)**, que guiará o setor mineral pelos próximos 25 anos. Paralelamente, foi instituído um referencial de boas práticas para mineração sustentável.",
-      "source": "",
-      "added_at": "2026-07-08T19:57:39.219646"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnlJTWVVdzBMNW9SR1kxaHk5RHI3YXlHMlpWN2xPbnVPbHdNLU5vRGRtQXZ5djhTOGJxVzRya0ppLTAybDhqazZzZG1kU0o4dk9wbEFfeENoamQzcVZXR0xxVS0yMkpxS0ZzdVA0UEd6eW5fYjc3Wm1LNEtDM05DX0hURGd0SXVHX0o1aDBacERXYWk1QkZnb0toNW9KRGlwWGxYR3FXc3I0NEFLQ2VJUTZsOEY?oc=5": {
-      "title": "CMSE exigirá estudos técnicos antes de autorizar despacho térmico - MegaWhat",
-      "summary": "O **CMSE** publicou novas diretrizes em 8 de julho para aumentar a transparência nas decisões de despacho térmico por garantia de suprimento. A resolução exige estudos técnicos do **ONS** e impactos financeiros da **CCEE** antes da autorização, além de formalizar o uso da Curva Referencial de Armazenamento (CRef).",
-      "source": "",
-      "added_at": "2026-07-08T19:57:39.219844"
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalBBTEEtX19PNUlCYW9BWmszNkNrZ05WUXZVTUxCNGhXb09Dal9XZ2lVTFhpYzdQRzB3Vi1ZRjRmU3ZqdlRQZExHT3dVX1AyV3lwWkJzcnRRWnRtNDFHZm1WMTlZbGlYYmRtUGJodjJVZ2dlMFMxb0tEenpLWFpiRk9uYzNYZ3ZvUFZiX0I1YldsXzZLOFFjbm8tZHFQdmxLOVVQamtUZHFMaXl3?oc=5": {
-      "title": "Mineração ganha plano de 25 anos e guia de sustentabilidade - MegaWhat",
-      "summary": "O Ministério de Minas e Energia (MME) aprovou o Plano Nacional de Mineração 2050 (PNM 2050), que passa a orientar o planejamento estratégico de longo prazo para o setor mineral brasileiro pelos próximos 25 anos. Em paralelo, a pasta instituiu um referencial de boas práticas para mineração sustentável, voltado à adoção de critérios ambientais, sociais e de governança (ESG), promoção do trabalho…",
-      "source": "",
-      "added_at": "2026-07-08T19:57:39.220006",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGo0SFIzMlNJYlVrd3F3RzNkZVJFM3liSFc4TWE3UlFVZ1Fhc3FIek5oanQ0MUVFUGtHVHJwZExWNzJXQmc2bEczTHB1TDdEajQxSklaSHVVUGt0Nzk1c29qN2ZZQmpfd1dyVG4wMzRVUDM4aWkzTWl4TkFMamViUEFXYnh2SVQ2T1VfUzhPVlY0Ri1neVlzOVJRdWlCM2M5eXZKWE9kV0lKZ2FkTzlkT0Z6eWhZdWhRT2xJbl9nNGo1MWlVTl9ST0h0TF9VWHhtcGc?oc=5": {
-      "title": "🎙️Contabilização mais rápida, leilões mais seguros e déficit de potência à vista - MegaWhat",
-      "summary": "No MinutoMega desta quarta-feira, 8 de julho, a jornalista da MegaWhat Camila Maia explica a proposta para encurtar os prazos da contabilização do mercado de energia, o que muda na prática e por que isso é peça central para abrir o mercado livre ao consumidor de baixa tensão com segurança. O episódio também traz as mudanças propostas nos leilões de energia existente para evitar a repetição de…",
-      "source": "",
-      "added_at": "2026-07-08T19:57:39.220061",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1lxczhMZmhJNmV2dk1OTUFPZWdQcFhUY2RLNzhLRGlEOGFQRC1MSUJLYkdkcFRNREtfNXViSVFjaXcxOHlONUhUNG1kcDhMS1U3b2R1a0JwT2h1Y2tSOHM0VTZOeGx3TE9fNklOSWYtQmVGUWx6c082aF9EXy1Ja3NLQVhXNW5FbnVKMHBIVVJLNUpjbjlDbERBUHZXNmVtZThJd1VTeE93bEZyemhVaGtJQQ?oc=5": {
-      "title": "Echoenergia aposta no cliente e vê abertura do mercado como desafio de escala - MegaWhat",
-      "summary": "*Conteúdo oferecido pela Echoenergia A Echoenergia, braço de comercialização e geração renovável do grupo Equatorial, afirma que está estruturando processos, tecnologia e atendimento regionalizado para disputar a abertura do mercado livre de energia, apostando em soluções personalizadas em vez de produtos padronizados. Segundo Hélio Rafael, diretor de Vendas da companhia, o principal desafio…",
-      "source": "",
-      "added_at": "2026-07-08T19:58:23.024469",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFloMzQ5bGI0UHdhd0gxQkx2YXNGb29ZVGxOS2hIMTFxVk9Yclg5SzdqQlhBM25PejVlY2pIbzc3X0o5M2FkSFlDLWlKYVEyNHRoTVlrbnBsaUtjMW9LeWQzN21qVzhtLXVGamU3VnJfVUZmZl9rNEFjbGRQUDl0WV9JeFVTZUczZE1IbDlRMnVNSnVmcUdtVXVGVGlNbWlodmxGMzJ3?oc=5": {
-      "title": "Data centers devem exigir 3,5 GW em 2030, diz ONS – Edição do dia - MegaWhat",
-      "summary": "Reportagem da Agência Infra indica que o Operador Nacional do Sistema Elétrico (ONS) estima que empreendimentos de data centers levarão a um aumento na carga de demanda (pico de potência solicitado) de 355 MW (megawatts) em 2026 para 3,55 GW em 2030. Já a carga global de energia, parâmetro que mede o volume de eletricidade consumido no tempo por essas unidades, deverá saltar de 304 MWmed…",
-      "source": "",
-      "added_at": "2026-07-08T19:58:23.024782",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCZk4tbTlfc2FacnhSaEdvMnFESGg4UzFKMHFUakhNXzZ2c2NhZGZCZlJZcVJmX1RXWHRFNzBseE1ncGxJV0VQZFRNOGZlMkdCS2tueUsyQQ?oc=5": {
-      "title": "Tag Norges Bank - MegaWhat",
-      "summary": "Empresas Banco central da Noruega diminui fatia na Raízen O Norges Bank, banco central da Noruega, diminuiu sua participação acionária na Raízen, que está em processo de recuperação extrajudicial. Em comunicado divulgado nesta terça-feira, 7 de julho, a companhia brasileira informou que a instituição passou a deter 60,68 milhões de ações preferenciais, o equivalente a 4,47% dessa classe de papéis.",
-      "source": "",
-      "added_at": "2026-07-08T19:58:23.024836",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXpwQ3pELUtUWk5DRWp2cm0wcWE1R2ZoTjVRbXZVLWdlcnJaQ3Zka3gxQW1TeXdMbkxRUVlzRGpRZFh0cmpVRzF4Z2RQOVZ5dk01ZUVaUUtTdDItN0FVTnI2TDFzSEtfellZckJVdlF0S0h3aVhTZWF6d0JaSzA2T2drRXVZQ3VWRGx1QTl0eXBpbDhpRmFzTXJMU1oxR29md0hDbW5QclBiQQ?oc=5": {
-      "title": "Banco central da Noruega diminui fatia na Raízen - MegaWhat",
-      "summary": "O Norges Bank, banco central da Noruega, diminuiu sua participação acionária na Raízen, que está em processo de recuperação extrajudicial. Em comunicado divulgado nesta terça-feira, 7 de julho, a companhia brasileira informou que a instituição passou a deter 60,68 milhões de ações preferenciais, o equivalente a 4,47% dessa classe de papéis.",
-      "source": "",
-      "added_at": "2026-07-08T19:58:23.024942",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlh3YVVtSUQyOFEzZ3dGQ21VZkpHLVpya2F3VVR4dDV4aVE5WjNsa2g5cWtNTFNFQVhvbnJwdG55SG8yMWd1c2kyc3pucjJyQVlYNGVkeHlpRHdPSUZOSWNTSDljSEhyMmhBMENzM0syU1hOVUhHZ1ZRcEktRmo4Z3NWTkJuVmJyWVpyOUFVY2xPa29qUlhSN25XNWYySUdDd3VQYkRkUG03SjFUYlhtYThFbVgwdmU0XzFQN3AtU2txckxOMHYzd25yOGFVZktCbjVTT0E3SQ?oc=5": {
-      "title": "Brasil pode atrair até US$ 700 bi com expansão da infraestrutura digital, aponta FGV - MegaWhat",
-      "summary": "O Brasil pode mobilizar entre US$ 431,8 bilhões e US$ 698,5 bilhões em investimentos totais caso consolide sua posição como um hub global de infraestrutura digital voltada à inteligência artificial (IA). A estimativa faz parte de um estudo elaborado pela Fundação Getulio Vargas (FGV), a pedido da Scala Data Centers e da Norgás, em que analisa os impactos econômicos associados à expansão da…",
-      "source": "",
-      "added_at": "2026-07-08T19:58:23.025185",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb3ZpVUNjWHZnN1Vxa1hBNHZUcnBQdl9ZVGMzVWFmNTd6czJyUlBzeGhRWlkyejNDa0hva0ptZmF0b1BQS2tsUk83NlIwVnFLeFpESXRITXVXTThOc0Q5aThDT0RXYUhHcFBnWEF6VFBlTU05a3FBLWhqWkVjcjc2X1RMZFo0NVNQWHE3cVZkdndaM19Oc1VIVTF0SjNoMmQ2MzN1c1pnSmk5TExJREdzYm93ekw?oc=5": {
-      "title": "MPF defende PL que impõe distância mínima de torres eólicas na Paraíba - MegaWhat",
-      "summary": "O Ministério Público Federal (MPF) enviou nota técnica ao governo do estado da Paraíba defendendo a sanção integral de projeto de lei (PL) que estabelece a distância mínima de 1.500 metros de aerogeradores em relação a edificações de uso público, coletivo e privado. O PL nº 2.061/2024 foi aprovado pela Assembleia Legislativa da Paraíba (ALPB) em 18 de junho e encaminhado ao governador do estado…",
-      "source": "",
-      "added_at": "2026-07-08T19:58:43.477951",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EQkFTb3FYYy1VZ083Q1FudFgwU2plUWdrTDYwYzRBbXd5eFZ5ZlhDVXZwOTRsOEIyR290S21TZzY3MUx2Um9SbFl0cU5sZw?oc=5": {
-      "title": "Tag CPRM - MegaWhat",
-      "summary": "O Conselho Nacional de Política Mineral (CNPM) aprovou resoluções para o avanço do setor mineral, incluindo a criação de grupos de trabalho para a exploração de urânio, visando programas estratégicos de defesa e transição energética. A resolução institui um grupo de trabalho focado em minerais essenciais para o Programa Nuclear.",
-      "source": "",
-      "added_at": "2026-07-08T19:58:43.478003"
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZVdxTms1TmkwRDlnQlBsRkdZTzQwemh0bE0zbVlNSXZyeHBpN3BpOExqM0FxQTI0LXNHZTRzTkoxVDUwdW1zaGQ1cTlRNW9GaGRVc01kazR1QXJfaVJXaGMtLTNfdmllVW1ZcUM2WjE2ZDdDMkJ2NzdmWXJjOWR6MUloSmY3OEV2NTY5RVNtU2RTVzBBRW1MTWtmQmFqLW5jVm14bjZfVXRuOEJOWFlQUGtzcUl5U19vRXUtMWlrZk00aTg?oc=5": {
-      "title": "Aneel propõe restringir submercados e aumentar garantias em leilões de energia existente - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) propôs endurecer as regras de venda de energia nos editais dos leilões de energia existente, depois de casos recentes de comercializadoras que não conseguiram honrar contratos no mercado regulado. A diretoria da agência aprovou ontem, 7 de julho, a abertura de uma consulta pública para discutir aprimoramentos nos editais dos leilões A-1, A-2 e A-3…",
-      "source": "",
-      "added_at": "2026-07-08T19:58:43.478324",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YWEthaGt0aFVaMmZ2UVY1bFdUU2dBdmtlUkppcjZKRC00ODlFSGtuXzEtdjZaZ2VLZWtzMjNycjF6X2VfWTlBMEJTU0w2RnlKcXR4cU9lNkhybkRfQ3o1LWlYZWFsZS1JVVBTR0FZdmJpeGFhUmlqMXFQRG4?oc=5": {
-      "title": "Poliana Souto, Autor em MegaWhat - MegaWhat",
-      "summary": "Combustíveis Senai e agência alemã vão desenvolver combustível sustentável de aviação no RN O Serviço Nacional de Aprendizagem Industrial (Senai) e a GIZ, agência do governo da Alemanha que fomenta o desenvolvimento sustentável, fecharam uma parceria para a produção de combustível sustentável de aviação no Rio Grande do Norte. Serão investidos R$ 4,5 milhões na iniciativa.",
-      "source": "",
-      "added_at": "2026-07-08T19:58:43.478364",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RLS1zUGRWcUljN1E1Wk1GM0oxTUhHYW12bEltUU5fMnpKc2txNklaSGkxYzZzTHFMcFNnc0ZaVHdwZkhHRmV0TUk0ZFVCVUkwdmc?oc=5": {
-      "title": "Tag Grupo B - MegaWhat",
-      "summary": "A **CPFL** alertou que distribuidoras podem não ter sobra de geração contratada para receber de volta consumidores do Grupo B que retornem do mercado livre, caso ocorram problemas com comercializadoras. Luiz Henrique Ferreira Pinto, diretor vice-presidente de Operações Reguladas da **CPFL**, ressaltou a necessidade de regras claras antes da abertura do mercado para este grupo.",
-      "source": "",
-      "added_at": "2026-07-08T19:58:43.478420"
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3JFdllXSXpBQ1VoaXlOek1oTHlES1NGNm1UVXZ6NmtPbUNDTWZ0aUE3RUw3dXFyWlI3Z1NURmYzek5NUjVEdnh3akdhOUFYcmxlLWV1R2lGUDFocFhwVzljN3FxVlBsaWxkUHJ6ZkFTYkFIR3FEVE12bU9BY3luUi1qcTV1WWdLRGFkekprOXZ1LXNBeUJZdU82czF0SXFsOFpod2JjeUlSaV9OaXM1U19WdlUyZXVMb3d4RGpUankxYm5UeUZhMk1zQ29OYnpoOE84Mg?oc=5": {
-      "title": "Distribuidoras podem não ter sobra para receber retorno de clientes do mercado livre, alerta CPFL - MegaWhat",
-      "summary": "A **CPFL** alerta que distribuidoras podem não ter capacidade de absorver clientes do Grupo B que retornem do mercado livre, devido à falta de sobra de geração contratada. O executivo Luiz Henrique Ferreira Pinto destacou a necessidade de regras claras antes da abertura total do mercado para baixa tensão, prevista para 2027, que pode impactar cerca de **90 milhões** de consumidores.",
-      "source": "",
-      "added_at": "2026-07-08T19:59:38.587551"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXUyX0MyYzhCVnZPWFQxWTRBU3Q5bGQyZ09hOVJQMThiOV84UnctTk1mY053dGxLczFGcGZoa1NYUUZWSHVCSjZYY2NfYUZoanpDUE9Valg2ZGtJOE40dTdXT09acUwwa3FqM0NRWDJxWTBEV0Z6LWlDZDJGeENiTXNhZU1CM0N6MGNjVUp4dEpTbk5pdmJ6U1hYSG1RLUVRN2twc0ZsTEh3NV9jVHoxQ0taNnc?oc=5": {
-      "title": "CCEE e Aneel discutem liquidação semanal do MCP com cálculo diário - MegaWhat",
-      "summary": "O encurtamento do calendário de contabilização e liquidação do mercado de curto prazo (MCP) de energia deve envolver a separação do processo em etapas, mantendo os ritos mensais para efeitos regulatórios e tributários, mas adicionando uma camada de contabilizações diárias e uma liquidação financeira semanal, com possíveis ajustes no fim do mês. A proposta está sendo desenhada pela Câmara de…",
-      "source": "",
-      "added_at": "2026-07-08T19:59:38.587953",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3MtcDhNN1FJdnM5RmZfb2ZYU1dkZXVlWXdsSy1BMDltNVd1QXcwUnJkMjU3Q2ZqekMwNm5oTGJvTjB6YkpCWFdydGtiaGlmVzhpSzQ3Wlo2b2tkUnc1b3dkdnRCbURuLUFaYjBHM09CcGJXRy16RHZpRGRoemZOd01qbFQ5RnllNFFLX25IYzctMExLdEVVVGR0Zy10cUsycW1yV3I2NXFLOWQ5?oc=5": {
-      "title": "Grupo que representa consumidores defende Enel SP em carta à Aneel - MegaWhat",
-      "summary": "O conselheiro titular de classe industrial do Conselho de Consumidores da Enel São Paulo, Ruy Bottesi, enviou carta à Agência Nacional de Energia Elétrica (Aneel) em que defende a distribuidora no processo que decide sobre caducidade da concessão. No documento, Bottesi solicita a reavaliação do parecer de caducidade emitido pela agência, e sugere a adoção de “instrumentos regulatórios menos…",
-      "source": "",
-      "added_at": "2026-07-08T19:59:38.588161",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUmpJTENaTUEwTlRZd0Y3M2ZtQ1M3ekZ2bmZtcm5aUkNrTk5Pa05VUHYzc2lQcVAtLVo2V01JRE05dnlCcEV2Z2VWbHdqektDeWlDblkxMkZRUTlnWE9rRGR1RzEwcjdwck01Mm40NnZmUXc5eExPYlVFTnFfZW93WHYtbnQ1R0RlNmRIU2Q3VHNJVFRjZy1IWjdvVlVVYnRiQTI2Q1U1MF9uTnNVeXRrX00yaUxsU3hfLWlLSWF3Zw?oc=5": {
-      "title": "Statkraft anuncia investimento de R$ 1 bi em projeto eólico no RS - MegaWhat",
-      "summary": "A Statkraft anunciou um investimento superior a R$ 1 bilhão na implantação do projeto eólico Gran Sul, na cidade de Santa Vitória do Palmar, no Rio Grande do Sul. As obras da primeira fase estão previstas para começar em janeiro de 2027 e acrescentarão 280 MW de capacidade instalada ao portfólio da empresa.",
-      "source": "",
-      "added_at": "2026-07-08T19:59:38.588296",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzgzbzI1dDlCY3U4VG9nOGU4N3plSzhFOWYtTXJOVm1GU3lIQUoxSGowTVgwb1FSeERSZDVLNHN2akgyUzVoWkxmcEZzeVMzT09YUGgxOExHRXFQb0xuZDlvUGVmX0hDendyd1YzQmhseGN5YWJDTi1STXJhVWlTRWZDN0xrMF9jQ1FUMHhacGlsRkZvNWtDTWZxdy1GYXI2a2p3ODgtT3djSDdoRUE?oc=5": {
-      "title": "Senado avança com programa nacional do Metano Zero - MegaWhat",
-      "summary": "A Comissão de Assuntos Econômicos do Senado Federal aprovou nesta terça-feira, 7 de julho, o projeto de lei (PL) nº 3.311/2025, que institui o Programa Nacional do Metano Zero. De autoria do senador Fernando Dueire (MDB/PE), o texto ainda será analisado pela Comissão de Meio Ambiente (CMA) do Senado em data a ser definida.",
-      "source": "",
-      "added_at": "2026-07-08T19:59:38.588569",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QU0dLbW5xUzlQRGVuVExUSWVqVXJZTUpRQ2laRnhtZWFhOEwxSVdZaFpSNGd0YllCWUJRZGN5Q0o3X0gySDI1blFRRzY3Xy1uWHRvbHRwa0tkZTJWb2gyVjd3NDlOVVg3?oc=5": {
-      "title": "Economia e Política - MegaWhat",
-      "summary": "A **Neoenergia** reportou lucro líquido de **R$ 814 milhões** no terceiro trimestre de 2020, um aumento de **36%** em relação ao mesmo período do ano anterior. A receita líquida da empresa cresceu **12%**, atingindo **R$ 7,8 bilhões**.",
-      "source": "",
-      "added_at": "2026-07-08T19:59:55.793767"
-    },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXNhVVNRQ3dWQXFlMUlfdUI5cUNCRXF2ZjBNdkxXdTBjT0x3ZFFxLUJfTktIMzlmT19KREhPS3Bqei1ScDJoY2U5dklyTk1UVC12S3RYMjZhZHB4bEZueklFSEZSbFgtWl9fbUV5STZEWUlTX2Zrb1NZdThsTWZ2LUpBU0lBcUQ4bGF5Y042OEFITVFyY1JVUmE2ZEZ1Zw?oc=5": {
       "title": "Light conclui aumento de capital de R$ 1,5 bilhão - CanalEnergia",
       "summary": null,
@@ -3901,7 +3679,7 @@
       "source": "",
       "added_at": "2026-07-22T12:01:34.665759",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc0hqX2lSaFh2Y1ZkOFJaZ0hRbUR3dWp5RTl6clJZNWVoci1fZWw3bnJGVE05U1F4Tld2Y291OXl1VlR3Y1ptbzkxSkVXVFRWYXNrbE1wZlhTUXQ5UWFQMklWRVM5cTF1bUFoSjZEdUg5QTE2TEREUkZGUHRqMHQyM2ctVENHZTJQNkVsUXh4aERKYVB0TEhBdEF3R3NFaW04UC1HMGdyMjNJdW0wSU00dWVVdUl6ZHRESkczSGdsdEE4ekIx0gHTAUFVX3lxTE9CdHVabU0yelA3Nk1fRm5wMnpjWnZvdjgtSko1aExhVzVuQnVwMXZ4bGZVRV9jOXpGNzI3TTJuZlhYcnAzOWFSWFVQdUI5czU0aWdMWi0tTzZNVkUyNVY2VGEtM3NrWlBUYndvR1hZV2dzSUZoNWpXMTRHelJEMm9uV0dHemhiNWtUSDhlMXM4NDlaNkh0UGN4RlJqWXJBdEtVV2pKcDJTdVp2U2h6ai12LXdUSmV0S3hGMjZMOUkwbnVIZ2NTODhnOFU1VEpCcV9lSm8?oc=5": {
       "title": "Tempestades no Chile deixam mortos, desaparecidos e milhares sem energia - Valor Econômico",
@@ -3997,7 +3775,7 @@
       "source": "",
       "added_at": "2026-07-22T16:06:28.228708",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2eUVPYVJlSk5adlNkWG4xVEVHRklTdFRoa0M1QWFvWmt4YmhyMWFUOXdYSHJxYUtCdUZBM2c0SFN6RFlEMzJiNjN2MFc?oc=5": {
       "title": "Tag GRV - MegaWhat",
@@ -4089,7 +3867,7 @@
       "source": "",
       "added_at": "2026-07-22T17:42:06.290361",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSE82czdNelBrNXFvdmZhZmloWmpFNHRxaGV6eVByRjd4enN6UXczbGxXdWFLRlhVaGhtZFJLaHFrRXdXb1hqMkZVM0ZrNnhKZEFDbUFGSUxvWV9oaTQzeGNYbmVOMm94UDBjMjYyVzFwbElRR2ZRSFdWVE1WSkJFZWNmbEJHdURGbG9hal9RbXQ5NTBtVktGYzdheF9sak1Ec0gwQkNhQVhtN1dzdThvSkE5MkZZb1ltU2NIWWxsR3lnRnRkQVVnYXY4X0hZZ3VPbFBrYTR30gHkAUFVX3lxTE9iNW1iYjN0Q1RoeG5WeGNBbGdsclMySVdoY0M3UElKVk9sbE5ubElvQk5mNU5YcFZybEEtQlV6RmY2dGxNQUhqNnBHN0JZa1A3MHZfQmJjMFVIaHdBb0lmV3IzemdxMVNwOHNmTkNBd19qOHBrUEllOTQ1YUc0UFd2cFVrM2FESXJFVk9BcEs3YUl2Um9iWkc1XzNMZnhzR005QnVlYmwxU1c4cVNHZ0lnZkt3VGhTeEp4a2VaRlhUT1AwUlNkb3hFV2stN3l0RXgtZkVRcUJOdVBYMFdzdW01eE9XNA?oc=5": {
       "title": "UPS na era da IA: sem energia inteligente, não existe IA confiável - Valor Econômico",
@@ -4097,7 +3875,7 @@
       "source": "",
       "added_at": "2026-07-22T17:42:06.290624",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUdwdVFWWFF0MkxQQ1FFR2d2UE9HSTlxMVM2SVVGemV0RnFwWWJ5RC1fZ0p5WklDVGlDTGxsOW1yMllIR0FlSHJ4ZTNXbmFmTHlaX2dsX2NzeC15Vm5DYm0wUHJwd1g5SDg0NXFVUk9VdDBsUzlNaWo3dTRoeVhzMGlTdmhOcGt4WWpubGhSSjZOUGVtUEJaUFh5UFJpcUxObGx2dnVJZ084ekRNVEdndEw0YXZoMXZVZGQ4RmJzeXNyemh1SXJpeTZB?oc=5": {
       "title": "Lula anunciará mais R$ 13,5 bilhões em auxílio a empresas afetadas pelo tarifaço - Folha de S.Paulo",
@@ -4113,7 +3891,7 @@
       "source": "",
       "added_at": "2026-07-22T19:41:26.281880",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS183am41VzcxSEdTOEtZTEpNcHRyT2dWbmN0eUE2Y3lFNUMyY2ZCY1pXbEoyNDYwRlQwcEliMkM5b1JCel9McDc5ZHVUZEZQeFJTNnRuRHFpcXk1SDRpNEN0UENJZlFYUDFTcVo2bnFITGo4UXZuSFg0aXZyTWdFejdIMDJYNWhpQ1RWN1ZxRjVQdVU1OWdUd0twYVpaSUZXVFZObmVqSmEzbGpZWEFrbkNCM0FOdW5rNVVGX0JOdFI4dFNPX01jVFU2SDZwZlVCMi1paGd30gHkAUFVX3lxTE1KWWxkS2k4NnIwOFZWYVIxSktqN2VhNmJqbldmaXpZVXMyMjl1V3pmSDMtOEpmZm0xcVEzY1pFTDRQcDRZcTc0YmJlRVE2ODdZQU1yRE93VTl4dDNoSDlFUC11bFFOQzY3ZWY2d3VPdFFkRXhvV25QM3F0LXRXTzJueklvcDl3eUJoYlExZUo1SW5KM1FCN09XNkZzbV9tYjRxbXRxc2pxRFlwM0FmMzVSZ3dDb19FdEg3Qnc4Vm1OSDhaNzdzQWE0YnNzV1lpbUwtd3pNY3R5RnU5YVFjNkpfN3g5ZQ?oc=5": {
       "title": "Ressarcimento a geradores renováveis é avanço, mas falta clareza em regras, diz Absolar - Valor Econômico",
@@ -4121,7 +3899,7 @@
       "source": "",
       "added_at": "2026-07-22T19:41:26.281947",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak9KR2lkWmxTdHU3MVpJZEdBaHo2aVEtMDZBejZTZEllem9ZM01DWThJem1ueWI1d3k5MFZndi1EY20zYnBkMF9KX3kwaVRCc210U18zcGJibGRmYmU3b1FTbVVDMWE4Q2hEdHRzcVZDLWZTYk12Y3VvZ0FNOU5qRjB6blVfLUpWTGxBbHE0OWpuLWJuR3BEV0hxdGo2MURKc3RDMi16MkRWN0ZuVGNzdC1mN2h0QkFkOG1Ceko0dGJuQkVKSkZTQk41WGR1dmNCTWVYQw?oc=5": {
       "title": "Memorial Brumadinho discute como fazer transição energética e mineração sem destruição - Folha de S.Paulo",
@@ -4129,7 +3907,7 @@
       "source": "",
       "added_at": "2026-07-22T19:41:49.054176",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0xXUUpWMDc3TTJlMXRQb2MwREtwNDZ6UmtMSjhEQUo4LWgxYWd4Mkk3X0pyX0w5bTIyNDVBdFo4U0V1RzdVT0ZKN1VidDlvYVVFRmppa2YybjZkS0hhSWdXMkt3clV6eFhfYTFFWUNuek1uc3k2SXlfUkZqLVY5TnNGYzU2a0JZX0pXY2xMZkViQk9QVDEtLVNUQzhrTkdnZTh4UDV4dkEyTmJx?oc=5": {
       "title": "ANP instaura comissão sobre impasses entre Petrobras e PPSA - MegaWhat",
@@ -4143,7 +3921,7 @@
       "source": "",
       "added_at": "2026-07-22T19:42:03.273526",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSVBQMXV3ZjB6eDV0WjhITGRJQ3JRbkpjdWo0bWNfWWxIbzVLWnJyZ3RjZHJlMzk5ZTY1YXdYU3VsYVR4TndoVmhXMy1FLWNiV3ZYelg3aWVWaTAtMWdEWVVfWWtYclU?oc=5": {
       "title": "Mercado energético - MegaWhat",
@@ -4162,6 +3940,38 @@
       "summary": "A **GE Vernova** elevou sua projeção para **2026** após um aumento de **88%** nos pedidos no segundo trimestre, impulsionado por turbinas a gás e equipamentos para redes elétricas, mirando **125 GW** em contratos de geração.",
       "source": "",
       "added_at": "2026-07-22T19:42:14.532530"
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE40ZWltVy1ORE9JcUtQRkQzZ0Y5dHpPZlpEclpLLXZsN0F5LWFmNFRaVEU2UC1yaTBRYTMwTUhnTDdTVG93cmkxQURNSDN0TE5mWUwtZHlpWHdXbzg3NllDbnN0d2JsNFhYdU1FWg?oc=5": {
+      "title": "Tag Concessões de hidrelétricas - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-22T21:20:17.450898",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcm1ZcUJqNGlheHNHTGpwVUhyMDZmSS1HRnFXT21ZTEx2aVZ6RVFGZ0JDUTFPVjR4cXp3RnpqejZQYmpWT1ZDMTBWdWx6ZGlVcmhZOUd4ZFpoMHg3OWdRTFBRRU9pWW41ajBfN2VQOHExT2xvNkRHc2ZTS2l3UDNCc2FYMjRvSnlNekVVZnZqTWxibUZhNkI4NERVak93RG1XT3pPTGowd3JtQ1JMem1OWXRIRHNURGQtQ0xhM3k3M3VmTXdHdV9FTGRxNlBOUE1mNUxKUlhPaEZpeXPSAeABQVVfeXFMTW1rSlI2cnpLX1lMalZHdkV1VGpvdU4yd09sUFQ5MGd5Si1BUU9wOTYtNUx3UDBXYXl6YXNDajBMSFhmN3E4NTc2Z3U5RENGbFctZWg1b1Y1NnlwVGFWMWxpaGI1Skl2eWRGVGEtRzlPLVlGcS1pU3dhcFFMTklOdlVxSm9SbjdWeVpacEFvVkQwRkx6d2hzWmxEeXBRZjFKYmZpN21PcDhLVHBadUtoZm1DWmN0ZUNPQWNINkFnc2IzX2F5TkZJNnQzV3IwcDBMUlV5WF9KVzdIcUtpbXR3OUk?oc=5": {
+      "title": "Brasil enfrenta mazelas internas além de incertezas globais, com a alta do petróleo e o tarifaço - Estadão",
+      "summary": "Vem aí nova tarifa em cima do tarifaço. Afora isso, o Brasil e o mundo enfrentam nova escalada dos preços do petróleo (e da energia), não só pelo fechamento do Estreito de Ormuz, mas também pelas ameaças do grupo dos Houthis do Iêmen (financiado pelo Irã) de fechar o Estreito de Bab el-Mandeb, que liga o Mar Vermelho (e o Canal de Suez) ao Oceano Índico, vital para o escoamento do petróleo da…",
+      "source": "",
+      "added_at": "2026-07-22T21:20:46.602074",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbllCZnptSVBVOG8xbXNYdlJYNzN3Z0g3Nmt1emVCcUhreGhhM3lXNmkyRVpXWml2MnUzRGVac2pJaE5Dc3BNUkhndjNiSm0wMkNtVi0zc3BKeXBOVDRNOXU0SVZuNnlHTFhYZEZvbVVUVERYWVUwN2pEOExSNjZuRFhhY3BCRHhKUzRuSFpxR1Z1X3FCSFphd0VPWjFBem40RHNKVTZZTDJpSDI4Q0lBcEt3dUN6amUzU2dLa2tJdldhdmFl0gHKAUFVX3lxTE1HaGM3V3V5d3NxQUFmaEk1YVFlTTNxNjdFUV9lVGtqc2dXMWRlYUt2T29IS251OVMzaHBNUWpiLWVLUG1YYUM1SVJsUlJhY3NMazZLRERUTXBjM0NEMkNCZU5hcWloemdNc3lXekdCT0VYTXlQYXJxcjZqclA5NEJQbWJRRWxnYXktU3BubDRLRl9lYktRQ2Rtcl9PbnlqSUlaQkl3VWpWYjZiY2ktTHVzbUNreFZNZXY2dTFDby1pTnFnb2t2Q09DeVE?oc=5": {
+      "title": "Usinas eólicas e solares devem viver onda de fusões e aquisições a partir de 2027; entenda - Estadão",
+      "summary": "Governo cria tarifa social de energia e joga conta nas costas da classe média, já sobrecarregada No ‘Fala, Duquesa!’ desta semana, colunista comenta sobre a MP que reforma o setor elétrico e reduz a conta de luz para 100 milhões de pessoas. Gerando resumo O setor elétrico deve passar por uma nova onda de fusões e aquisições (M&A, na sigla em inglês) a partir de 2027.",
+      "source": "",
+      "added_at": "2026-07-22T21:20:46.602330",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUppRnFDN3Zha2huWjRZR3l4NlQ1eUdDa3E5ckRTUjBVRGhOcG11Mlc0SnRWUDRndVEzY0RvMFVSOVdKZ1Y5cC1DRGdhb0hmeXJteERQVkw3Q1paa0o4ckV1T3BXQVNMQ2VRek82N01YVHFKNC0xZFRPLUItSVhPWk94dDJLR3RDU0RUWmJVLWxUMjRjQU53TTIwbmJaWHMyZDc1WHE3N2VNS3NWYjlISVc0cw?oc=5": {
+      "title": "Trafigura fecha sua primeira operação no mercado livre com a CGN - MegaWhat",
+      "summary": "A Trafigura, que em junho recebeu da Agência Nacional de Energia Elétrica (Aneel) a autorização para atuar como comercializadora de energia atacadista no Brasil, acaba de fechar sua primeira operação com a CGN, braço da China General Nuclear Power Group (CGN). A empresa adquiriu um contrato no valor de R$ 750 milhões para compra de energia da CGN, anteriormente detido pelo grupo Bolt.",
+      "source": "",
+      "added_at": "2026-07-22T21:20:46.602434",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
