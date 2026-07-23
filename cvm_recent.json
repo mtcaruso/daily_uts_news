@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T04:04:23.886843-03:00",
+  "last_updated": "2026-07-23T06:32:49.297453-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5760,60 +5760,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "18309",
       "first_seen": "2026-06-24T08:38:56.593027"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Edital de Convocação AGE 24/07/2026Edital de Convocação",
-      "data_referencia": "20260724 24/07/2026 11:00",
-      "data_entrega": "20260623 23/06/2026 08:44",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Edital de Convocação AGE 24/07/2026",
-      "protocolo": "1537277",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1537277",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-06-23T09:02:48.668893"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Proposta da Administração AGE 24/07/2026Proposta da Administração",
-      "data_referencia": "20260724 24/07/2026 13:00",
-      "data_entrega": "20260623 23/06/2026 08:36",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Proposta da Administração AGE 24/07/2026",
-      "protocolo": "1537275",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1537275",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-06-23T09:02:42.946940"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Edital de Convocação AGE 24/07/2026Edital de Convocação",
-      "data_referencia": "20260724 24/07/2026 13:00",
-      "data_entrega": "20260623 23/06/2026 08:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Edital de Convocação AGE 24/07/2026",
-      "protocolo": "1537273",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1537273",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-06-23T09:02:42.946912"
     }
   ]
 }
