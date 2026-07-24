@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-07-24T21:20:43.351595",
+  "last_updated": "2026-07-24T22:42:06.928113",
   "items": {
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0JTREVOXzFIOFctLTdxaG9hX2w1ajlDZkhYVUNwX0pMQ3U4WXUyWXV2N093S0JaYk9NZFpWSWZlWjJGNE1fZkZJWm5TcXJFRVZtTFVRdWh0aXJ3aGxrN2dPNktuclFDdWUzTEZmbl9mNHE0LW9Cc1RaeWhRNTRoQnhDVmNFd0djWWhJeXAxTGlGYk5IdnZyQ3EtOFVxM3NIM2RGbFllTFRYTUpCeGRObg?oc=5": {
-      "title": "PUCRS amplia estrutura para certificação de baterias de lítio - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T22:14:21.359702",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDUwdnJnS1VzNW9lajc5Q1g0Zk5vS1IxTjZxNzV4WmkzODQ1cjQzQWxUa1Z0eHYzdFoyeGpXVVQ0RVBCVE1kaFN0TTdZQldnWlRlQzVPRGpNTnhvYkNweEJtYkowTWV5aTV6dVRPbzJkNkFwUks3VkdxS1VLQkxtQkI3Zw?oc=5": {
-      "title": "Créditos de GD na berlinda - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T22:14:23.028290",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdDlUUzRtNzFMaHFQcmFqaTJKRXduTm1kZEN2YmNTUnYzakdwdnFlYUxwalJaVDRIemJGOG5RS3lTM1lSOGlTUnFuZi02WHc1YzE3Y0I3MEtvSGcxcS1FV29wMW9aaVl2RnhTNkZwblNyUmRJY3p5bkQ2czJPakZQVHYtaXJXeE15QzRLSWhxVEI0RzBTMDRMQnBCSGRHclNaTGJ2N2xLQ1hhWC1PSWJQd19wWmhPMXNpc19SUUpKb2k0WHNPR0dWMjZNZGNmREl5dmc?oc=5": {
-      "title": "Governo deve esperar aplicação de nova fase do tarifaço dos EUA para calibrar reação - Folha de S.Paulo",
-      "summary": "O governo brasileiro deve aguardar a aplicação da nova etapa do tarifaço dos Estados Unidos contra o país, previsto para o dia 15 de julho, para decidir a forma de reação. Segundo a Lei de Reciprocidade, é permitida a aplicação de retaliações equivalentes em situações como essa, na esfera econômica.",
-      "source": "",
-      "added_at": "2026-07-10T22:15:31.843602",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVOWhLMzNsMG1CR3BQdDVNSElIRzJPZk5YUXZUeC14bUlNdlVoQksyV2xDNXVtWW4zNUozYWJoMUZUSzZnVExEZ1FfMkgtenRqYjgtMkkwM2tKNjU0ekE?oc=5": {
       "title": "Tag falha em turbina - MegaWhat",
       "summary": "A **Aneel** determinou a suspensão da operação comercial da unidade geradora UG13 da hidrelétrica **Belo Monte**, de **611,1 MW**. A falha na turbina, que tirou a capacidade de geração de operação, teve efeitos retroativos a **20 de outubro de 2025**, data em que a máquina entrou em manutenção.",
@@ -4093,7 +4069,7 @@
       "source": "",
       "added_at": "2026-07-24T11:54:44.429312",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VzZWlvYXVRSjloLXhZMk9WU3ROb0JwNHVPblRzY2s4ZTlpbGNKbkx6VDdHVmtEbUhlZG4weF9Hb2kyUVUtSDlaVzNoTnBUTUd1SFR3M0dmOWtJekJUNkNfQ1VPOWZnTEdQSGlqTTBtbkZpNmR5TmQ0bWtFOWhZQWp5eEQtSFVTd1h4RUpqU3R6aXg5b3dtbzZubzc?oc=5": {
       "title": "Tributária: ANA avalia diretriz para padronizar reequilíbrio em saneamento - Agência iNFRA",
@@ -4143,7 +4119,7 @@
       "source": "",
       "added_at": "2026-07-24T14:07:57.135486",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWhIX01rU21JTWVPLTZ4T2IwUmZ1bDYxSWswTXRNanRPUGtBNnExZXliRmllVlRJQU5PYmg0dFV6VXFCamFrSTVOUmVqOEUtSEhFUERVUldsQmFRWldYWHRacUlsUllLSDdNS0hkSGowbzdESm9FbmJ0ZXdJV3hDOHF2cXZpWXpGcmFYckcwZWU?oc=5": {
       "title": "Lenovo atinge 90% de energia renovável - CanalEnergia",
@@ -4151,7 +4127,7 @@
       "source": "",
       "added_at": "2026-07-24T14:07:58.789288",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE82dXhISWgycGFfR2dhVDJ0S0hKT0N4V3BidXhodkxnSUdnb3luMU9EYjFOMXA3LTZBZGJtcEI4SjFWVnRCR080LXZaYmNvWWlFd1RWRUlGWXRad1F6N0FtRmwxMUx5TVdnbi1KZml6R2VObWVuNUx6UUx2d9IBgAFBVV95cUxOTk1ZYVNJbm9mRjlrWmxfWmxWUWdhVnNSQUdhQ0dCVUthYTYyeGdSTE1nd3NsVW02U1NRS0phV2l5RHpUZ1M3Q1VvYmhLRktmY0pVNnRpdFlZYzc1NEcyZ0l3WnBCNWUzdGFlS09pZlFKODVabWtiMjBrRUMteHJQaQ?oc=5": {
       "title": "Guerra e tarifas voltam a ameaçar a resiliente economia dos EUA; entenda - Estadão",
@@ -4287,7 +4263,7 @@
       "source": "",
       "added_at": "2026-07-24T19:44:45.198580",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjkzS29wN2hKQzU5NDlTREQtbVdGWEY3ejBwMUo3dnlsdWlEbmViMDhKTkU0TGNVVU4tQmRxVDBjaXE2WWlzY0Fxd0s0bnhpeGdBNF94bC1QNHNtbjdmYWNMMWxlbWFkRzNLcDduU3BUYjBsLWo3WFVCbV9vRG1vOGdpaUlQNHladDVFUDhGbzF0cnRST2JpckJVUjlLN3QtRUk2eTI0ZXVVZGZaTGNUUDNXRUVhaTQtRkp5bTUzXzNMcE9Y?oc=5": {
       "title": "Trump ameaça retaliar UE com novas tarifas por causa de multas a big techs - Folha de S.Paulo",
@@ -4306,12 +4282,12 @@
       "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWW00OEYyczFSS3FtWWhhcTB6RWpSY2JxZWJCQUZHNTlPQk9xQXVCYVJQdUZUUUpZT3BlWHVGcjlEcUNhX3BkYnBvWElIMllnRzNkNk9FZVlDZFhkRkR4aXdXdUJ5M3h0b0ZBWjRULW1mSTg4dUJhckFjMFJuUFRsTGduWENPTkNKUV8zV25fdVpDRFpMc2xISmdJc0hCVWpzQ3E3b3JFRGxNRGlWX2Fv0gG0AUFVX3lxTE9ETXo4V0Y4OS1FdWdCR29mSjdJVkhyMXh0Sk8zalRlZDJfc04zYjFUZTZmV3lqV1g2dG5jVVdXNnl0M29abzIyc3lIX1ROU1RramdHaURjVEVxU2RxcFdzYllyT3dIVkpNdlN1NWt3bE8xeFBac0p5STkydFpMSElqRkdxYmZoN2NyNEIyWnZLaVpGOXFzZVlDU2w2TFNSdTByR1d3VVptMVo1clRxYi1wZTFEaA?oc=5": {
-      "title": "Por que as ações da Isa Energia (ISAE4) caem 6% hoje na Bolsa? - Estadão",
+      "title": "Por que as ações da Isa Energia (ISAE4) caíram 7% hoje na Bolsa? - Estadão",
       "summary": "Gerando resumo As ações da Isa Energia (ISAE4) registraram a maior queda do Ibovespa nas negociações desta sexta-feira (24). Os papéis preferenciais da companhia recuaram 7,16%, a R$ 26,46.",
       "source": "",
       "added_at": "2026-07-24T19:45:25.349350",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTF6TzNYVmJscnZ6bnlSVXNkaldHTXlvcmlzdlYxVzduNXhOc011dXptaXJUZUdxQ2xZOHQyNjQzYmNRR2pDNE9wRDRmN1JJejlLRjVnaHc3LXFDZm4xS0l6SDFMdEZTZ0pTTGxpdWVaNlRtSE8zaUMzVWpPOHprNndZNnJJVFI2dmY2VVFGWTlzNXl6aF9HcHNkYVFiVDFDdDFOOXZkVkF6ZF82Y3M1MVBHc0lHRGtTc3c?oc=5": {
       "title": "Por que as ações da Isa Energia (ISAE4) caem mais de 5% hoje na Bolsa? - Estadão",
@@ -4323,35 +4299,27 @@
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnlicnc5Nl95Yk04eHlnUjBIMnY2aFVscURhaGZNcXZjd3ZuVVp5U0RkTS1POTFEUExiajh4Q3dKTmN2Z2lycGIwT0tDNEdKUnVUS3lyRUJlZExMa0Fia1JnTWQ4elZnWXdDTWdPaS1ObFJ5VDZacUNTQ0Y3Njg5MVJPNFZ0R09KYlRTYTRBQ0NkSjkySXRLcHVn?oc=5": {
       "title": "Aneel libera testes em usinas que somam 53 MW - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) autorizou nesta semana o início dos testes em empreendimentos, que somam 53,07 MW, e mudanças de titularidade e de regime de exploração em outros projetos de geração. O principal aval foi para a unidade geradora UG3, de 48,12 MW, da UTE Manaus I, situada no estado do Amazonas.",
+      "summary": "A **ANP** propõe consulta pública para equiparar o diesel verde ao fóssil no setor marítimo, alinhando-se a normas internacionais como a ISO 8217. A minuta revisa a Resolução **ANP nº 903/2022** e permite o uso de biodiesel em até **100%**.",
       "source": "",
-      "added_at": "2026-07-24T19:45:25.349732",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-24T19:45:25.349732"
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUJLeDBwRXREemg2dG5RWDhBN1Y0bUkyaURWLUJiZWk4SFFQVGg5ZEhmaXZkTVAxaXFYSmlCbkdSOGJVM3ZqZnNDX3RHQWFoUFJNZmJNV2tmcV9MNGhNakxjX0hIWG9JU3BrUXNjWkhXLUJzczBXSElHRlE4LVF0bmdIZzRaYzBJOVFDdDRiZGZsNDZKYXIyWEFBMWFKRm5UWUdZdi1mVHlCSGlGUWk0bDBoOTBMNjFKeTJWR0ZB?oc=5": {
       "title": "Aneel fixa novo CVU da UTE Três Lagoas até início dos contratos do LRCap - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) deu resposta favorável ao pedido de revisão do Custo Variável Unitário (CVU) da termlétrica Três Lagoas, da Petrobras. A planta tem potência instalada de 234,5 MW e está localizada no município de Três Lagoas, no Mato Grosso do Sul.",
+      "summary": "A **Aneel** aprovou a revisão do Custo Variável Unitário (CVU) da termelétrica **Três Lagoas**, da **Petrobras**, para **R$ 1.139,00/MWh** em julho de 2026. A medida, que também fixa a Parcela de Custo Fixo em R$ 109,48/MWh, vigorará por 12 meses ou até o início do suprimento contratado no leilão de reserva de capacidade de 2026.",
       "source": "",
-      "added_at": "2026-07-24T19:45:39.347703",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-24T19:45:39.347703"
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVFxZTF1V0h2VW52aF9TUnRxdUtlWnRRZkJmZ084aTVRUURicjV5VW0zT1VjMmY0bG5VVHl1NTA0Mk9QNVJEM1pEN1N4TXhaYXhXZlVHZ2R1WkYzQW1Ja1lzOWVDMFdpRmpLdHRtUGcyYnVlVFMtekhpRF80YmJtSDNtdVJkbS05RW8tRE9yMHJjSDNOSDRNb19tZVZZbWU4U21TQldmRF9UdXd4?oc=5": {
       "title": "ANP revisa regras de flaring e prepara norma para emissões de metano - MegaWhat",
-      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou a elaboração de minuta para revisão da Resolução ANP nº 806/2020, que trata de procedimentos para controle de queima (flaring) e perda de óleo e gás no segmento de upstream, como queima de gás por motivo de segurança e por necessidade operacional. A autarquia resolveu atualizar a resolução com foco em queima de gás…",
+      "summary": "A **ANP** iniciará consulta pública em novembro de **2026** para revisar a Resolução nº 806/2020 sobre flaring (queima de gás), com previsão de norma final até maio de **2027**. O objetivo é atender diretrizes do **CNPE** para descarbonização, minimizando a queima e tratando emissões fugitivas de metano em resolução separada.",
       "source": "",
-      "added_at": "2026-07-24T19:45:39.347893",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-24T19:45:39.347893"
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0tMS3FzUkU4SzVYY3FiZDBtNHhOVnFzaFZVZ3dTbVVrRGtyYkpTUHdPOHlQWnlGckNnWExzLThpUnJjbFFIS0h3cm53X3F6SkNqX2ZUUjQ1azBDTkYzRlRjWFR0c3JFZU5yaW5ZR0VsTXJxMFB4Q1NaZzhVTkpfR2FtVHB0UkF4OXJXaHV3TVVqRmlRR1dDMjdNSlJBZ0NZUXJQRm12dURqeE1EYXNrWlRCSDk5bWtMbFE?oc=5": {
       "title": "A transmissão de energia como vetor do crescimento dos data centers - MegaWhat",
-      "summary": "Por: Juan Collado* O Nordeste brasileiro tornou-se um dos destinos mais disputados do mundo para a instalação de data centers, e a infraestrutura de transmissão elétrica ainda corre para alcançar essa realidade. Em janeiro deste ano, o Google declarou publicamente que o maior gargalo para expandir sua infraestrutura de inteligência artificial não são os chips, nem os engenheiros, nem o capital…",
+      "summary": "A expansão de **data centers** no Nordeste esbarra na infraestrutura de transmissão elétrica, com solicitações de conexão atingindo **26,2 GW** (mais de 25% do consumo nacional). Enquanto data centers ficam prontos em 2-3 anos, linhas de transmissão levam em média 7 anos, criando um gargalo crítico, segundo a **EPE** e ex-secretário do **MME**.",
       "source": "",
-      "added_at": "2026-07-24T19:45:39.348245",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-24T19:45:39.348245"
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVZvS3lHNHlfX0tiUDlxa2VjdzVHYjRocTZ2b21sMUpGcjVqTnhURUtpR2hBd05FUXhjNmFINHg3cDlUcUJsVTh2NDJfWmo5aWlJUU9PblQ0UzNDVnotLW1zVHNwRm1jWEdpYXNYdEo2ckE4S0pWeHc3ZkNoM3YtOTJjcTAyUWJHUWxfcndEdEJERFJrT01CMGhxX3BnRkN2aGZiempGUFB4V2VWSy1ScWRPc2h6dG8?oc=5": {
       "title": "Aneel leva leilões de baterias à consulta pública sem definir rateio do encargo - MegaWhat",
@@ -4379,11 +4347,9 @@
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNMThwalRRZ1pwbVJNWmloODlPQVU4dXBkeGFHS0hzVUtSMTlmTm50RkNNOHh1eG1rQnF0cEVvYkJxWWc1eXl3Y0N2dnlCbjZkQXlDYmFMcmhkREFKcU94VGN1QW5nYVQyNDJtbFJGcXVnNUhGTUFBSTZfb2NlVkZ3Ql9GbF80d3FmZ2M5ZFRzcVFVZDdTcDYwYmV4YVJvZw?oc=5": {
       "title": "MP entra com ação contra Neoenergia Brasília por “falhas” no serviço - Agência iNFRA",
-      "summary": null,
+      "summary": "O **MPDFT** entrou com ação civil pública contra a **Neoenergia Brasília** por descumprimento de indicadores de qualidade, pedindo **R$ 86 milhões** por danos morais coletivos. A ação cita que em uma região os consumidores ficaram mais de **41 horas** sem energia em 2024.",
       "source": "",
-      "added_at": "2026-07-24T21:18:50.301587",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-07-24T21:18:50.301587"
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUtkUFBGUWpxS3NlX0ljaEVjaXZJcGZzdnc5c1pRQUFKZnJLcU53dTdqUDJpamRqcXNoSzlIRHdrMGtpRVZMbk9uOF9GSWNUcWN6VlBmU1FXUXJqU3d6ZktLZnRmRktydzR5cG5nVmh6XzN4YXpYR0V3T2FRTUNKajkzdHRtNTRoYjVqOVgtZkgwNHgydFdUdVFkRFNVNlpuZTBONmtSY1FhbkM3V0RBbDdSdw?oc=5": {
       "title": "Hidrogênio no Brasil segue o compasso do mercado internacional - CanalEnergia",
@@ -4391,7 +4357,7 @@
       "source": "",
       "added_at": "2026-07-24T21:18:54.852393",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjVrRm5UaGMxM29QcE5IaVE0R2lOWFYtY0FZNlpCYjZVdFhkTXRKMW9CWmRQUFEwR2lidVhlVFRLcnM2ZUpmMkZreDQ3bi1uY3dTNWJJQ3JoWkNpcndJWHZxaUNuSldfSnFDb2dOV29oOUVfMFZ5UGNoVlg5MWxIVHVWNHd5OU1Sdk9nMDJYYlh3QQ?oc=5": {
       "title": "Axia Energia investe R$ 1,8 milhão em IA - CanalEnergia",
@@ -4399,7 +4365,7 @@
       "source": "",
       "added_at": "2026-07-24T21:18:56.589294",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlIxcGlrd3JlZ3Q3SWY0U3NqczhDUWpCWEJkMHV4T3BoVFo4ZUwyVzNZa0FZSFBzRTl3UXlaZTBKTHVKNzJCcDlyREdNV3h2Q21pbUhNbThOX0dXb0VTb3gzXzlLUHNXcG1ZQVR2ZF84NWJPSW1LZmlIT1ROME5XQW5DOEl6dFdZc0hlMEVZMmVjc1VxZnBPaUNGeHgzVzNEeERPdEI3NGU4cmJiN04tQw?oc=5": {
       "title": "AIE: mesmo com guerra, demanda por energia deve crescer em 2026 - CanalEnergia",
@@ -4407,7 +4373,7 @@
       "source": "",
       "added_at": "2026-07-24T21:18:58.306956",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk1ZT2Y4dXVnOGdteEJiZ0JtMDFBZnVtbW5iejZpMDhxUUdidU1rem1lNG9ETjd0Y3RWaHZ0RHBPVFVwaHpwV2VuZHJKRDM3dV9DNlA1V1dieDlBdlZMQ081V05heTVGNS00T1NhZUZaNlNZSGJHVFk3V190MG4yM1VNNEFhLXJmVlVPb1BFSnVsdHFzQlVCT09Nb3R6NVROVGYtc0FONFd2NEF6ZzZtZ2Z4UWQ?oc=5": {
       "title": "Reservatórios do Norte caem 0,2 p.p. e operam com 91% da capacidade - CanalEnergia",
@@ -4415,7 +4381,7 @@
       "source": "",
       "added_at": "2026-07-24T21:18:59.999032",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LMEZSQjgtbHNHTjEwZEc3UkVYZVotMVNIYjZ0Z0trd3ZKSWtneGpqLWp2SWhBLTNUdjZjRWIxV0NXZlgtM2F1ZHRrY19SMTlHd3Q2RFBkbTNzT3A5ZHhOUXJhRzlRWG1NazRoMFVRRjlWelBBQjdaY2swaUxCNDQ?oc=5": {
       "title": "Natália Bezutti, Autor em MegaWhat - MegaWhat",
@@ -4423,7 +4389,7 @@
       "source": "",
       "added_at": "2026-07-24T21:19:30.950979",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1ZHSnZyYlFTUkREa001ckEwRkRsUGV5UTV6aWh4YjkxR19PQlZDZU9IQlVMbV83YUlJYkRnTDFzYmg5ZFNER2kza2xfY0htNHF3SFR1enM1QUdqVnA4cl9xX2JNN3ZWUkVsSzVNRjlMMkJjY1ZHXzk0MjRVUlFvRU5OU183UnZoWDhjNmdpOG95R2luRjVnLVB4cnBlbm5Wei1tOUs1elNsQjF4SkgzZFN6cHJpQWsxandFaG42UTl1S1R5cDNBbnVR0gHYAUFVX3lxTE5LRDBoa3hvQVhTOV9zYldYSTNRUDZTN3FRek5ES1BfZVItRGFxcFVSMTlCdzNCV2x3amttQVpiM3hFY2xTWURacjZRdHdhd1FDTlVhZENzWDU3UklrZktoaU0yMkJsOWlmVVFJSnEwMFl1UVlMMEpZV3ZsRDY1RFdqVkJZUEVzdVk0Nm5DcjktTUFaMEtiQlZpZUllWDlVLWIxWGN0ZWpHR2VzS0dYZ3hlbnFkeGNveVRKNGpidDl2bDdBZ2dwZVFHUHFaeUN2b0ZBRTduTjRkWg?oc=5": {
       "title": "ISA Energia precifica ‘follow-on’ em R$ 27 por ação e vai levantar R$ 1,2 bilhão - Valor Econômico",
@@ -4431,7 +4397,7 @@
       "source": "",
       "added_at": "2026-07-24T21:19:49.845189",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TeWJjNHNOVmZvNE5XbzdhX25TOFhvVWlkY25FNUphREdlcllkNURaeks4NDZDQnhSZ0dxeDZEX1ZoTlhZbTdremxjTm9EV2stTmdSU25kdlRWTTV4blAteGZWSWpPUFoyVVpSbXBDR0ZSY1RrWnozM1FKNnIwZDg?oc=5": {
       "title": "Flip fica sem luz na segunda noite de evento, e energia deve voltar até a madrugada - UOL",
@@ -4439,37 +4405,101 @@
       "source": "",
       "added_at": "2026-07-24T21:19:49.845896",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVG9MbUdZZlRfSUN1MDh2S0hYMTF0ZHFiYVNQTVpualFJc29kQWNDTUVFSGF1d19Zb2ZYTlhPTkd4T0daSjhwSXRLVnpkUTVGcWs5UFg0c3JCdkNQaVZtbnFYdmtVZ3ZJclFieFRBZEh1MS1qT1FaWnp0eHBodnNWTUhld29pcy1CYTRYYkQ0aktXaXgzOEtDYnJVRmNGRW5qbS1IYm5aTVdhSVJHcW8wRk5TQ2podXAwSnEw?oc=5": {
       "title": "Queda nos investimentos: saneamento perdeu o posto de ‘queridinho’ do mercado? - Estadão",
-      "summary": "EconomiaQueda nos investimentos: saneamento perdeu o posto de ‘queridinho’ do mercado? Conteúdo Patrocinado CulturaOpinião | Clássico de Golding e novo livro Paulliny Tort conduzem leitor à pré-história Conteúdo Patrocinado InternacionalModi é pego de surpresa enquanto fracassos econômicos da Índia revoltam os jovens",
+      "summary": "E-investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta queda nos investimentos saneamento perdeu o posto de queridinho do mercado Hoje em 5’ Seu resumo narrado do dia 24/07/2026 | Edição das 18h30 00:00 00:00 1x Conteúdo gerado automaticamente com o uso de Inteligência Artificial. Veja nossa Política de IA ibovespa na semana csn mineracao cmin3 e csn csna3 saltam hapvida hapv3…",
       "source": "",
       "added_at": "2026-07-24T21:20:05.658176",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXFnbGhBZlVaY2poYkh5Qk5HYVR3TnJsSDNKdlR3NXlLSDZiMzFJbk80UHh2X2w4NTNaUklka3pmNmFkYVFQQUhpZzZVZmNPZlNwMHZLY1NRUnpRbXpuUE5oLU83ZmItRU56UmtwUlBUUDVlRVRoRmgxRGN0VFYzMnBjNzQ3dGI4YWtvWG13T1kwcVZtaFY5QzlrVDZuWFdpMTRCYm9jQ3M3dmd3cXRiWEtIbGs1dTRtNFFIbjR5azc?oc=5": {
       "title": "Regulação pode equiparar diesel verde ao fóssil no setor marítimo - MegaWhat",
-      "summary": "A diretoria colegiada da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou a realização de consulta e audiência públicas sobre minuta de revisão da Resolução ANP nº 903/2022, que trata das especificações dos combustíveis aquaviários comercializados no território nacional (óleo diesel marítimo e óleo combustível marítimo). A proposta tem como objetivo alinhar as…",
+      "summary": "A **Aneel** liberou testes em usinas que somam **53,07 MW**, incluindo a UG3 da UTE Manaus I (**48,12 MW**). Também foram autorizadas mudanças de titularidade e regime de exploração em outros projetos de geração.",
       "source": "",
-      "added_at": "2026-07-24T21:20:05.658694",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-07-24T21:20:05.658694"
     },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yNTRrbzJnbXVza2tnVW0wR1F5RDJjQjlYb0ctdkxfQ2p5X2xUeHlXeDAwZUdHWmY2eVc3R0NrRllfbG05RTRhMEV4RmRyN2ZsdjNkQUpTV2liX01hZEpvaTZrdw?oc=5": {
       "title": "Tag gás natural off-grid - MegaWhat",
-      "summary": "Fim de acordo Eneva recebe R$ 340 milhões e encerra acordo de GNL com a Vale A Eneva receberá R$ 340 milhões, após encerrar de forma consensual acordo de fornecimento de gás natural liquefeito (GNL) off-grid com a Vale. A rescisão decorre da decisão da mineradora de suspender as atividades da planta industrial em São Luís, no Maranhão e libera para a comercialização de uma capacidade de…",
+      "summary": "A **Eneva** receberá **R$ 340 milhões** da **Vale** para encerrar amigavelmente o acordo de fornecimento de GNL off-grid. A rescisão ocorre devido à suspensão das atividades da planta da Vale em São Luís (MA), liberando capacidade de liquefação da Eneva.",
       "source": "",
-      "added_at": "2026-07-24T21:20:20.952221",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-07-24T21:20:20.952221"
     },
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rcnE5cnBDdDQwOXFuQlcya25LUHd1RnR2Uk1JTHdTbjhlb0dsS05VS201aXRFREMzclVCWmI4WEs5Y21rUUJyN0gxX0liOUtxaDN4ODRn?oc=5": {
       "title": "Tag Cerradinho - MegaWhat",
       "summary": "O **BNDES** aprovou **R$ 150 milhões** em crédito para o grupo **Cerradinho**, destinados à expansão da produção de biocombustíveis e modernização industrial em suas unidades em Goiás e Mato Grosso.",
       "source": "",
       "added_at": "2026-07-24T21:20:43.342516"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnV1NkRyYzlPZkg2aUc3MVI1Y1pMakIwSnVsR2prb1RDYTI3T1lKSGdyZENXTThfVWdvSkl1LV8tZDQ2YkxfTGFXTmRjY0pUcjA4RUVScjlWUDhGLUh6Rmw1VVVWZFNxWWFFZ25MUVlKM3oyM1l1Ml8xT3lfZFJHY1BUSkg0cEFGMERNTzZhU29nZ0NRODFDRlZwajBBd19qZjNKVldKN0UwQQ?oc=5": {
+      "title": "Carga volta a acelerar e deve fechar julho em alta de 2,4% - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-24T22:40:45.007278",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcS1MXzg5Rm44YlBwc3NaS19yX3oxdGcxandQOTBTUGFSN1hpaE9HMHhuSngyV0RORGg1MjFmU000SUc2bUtxRXdHUU9xNGdUakpmWnQ5Ull4UDZpQy1PSzJZbkJWWW5YcUFDdTN4Uzg0aUJRNkhISzZBbzd1WktvVUp0N2wxeXM5aE5sb1RlejRBSjhNbVhpckg0SXBYcHdkUXduSWxUMTBIZi1JU2RJX28yRHFja09SU0Y4Tg?oc=5": {
+      "title": "Isa Energia capta R$ 1,2 bilhão em oferta pública de ações preferenciais - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-24T22:40:50.120609",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHQzQzRwS0FoZFE1bi0zNzFQa3J3cW5fVWo4S2p5TFhVLVY2bDRvSy1SZUZXMnR1cV9nSXcyYmlBQXIzajM3YWJwa21VZ0cwUTNjUUN0MDM4T3ZIMDJpNzVoNGsxektEUHM5WUstQ25pYmRkaFczTFo0V0J6N1RhSUlfOUVUVTJBX2FLUnhCbnpZc0ZjcmtIYjlUZHBnSGhTZmd1N0RsVWExVElFdmJJZXFhM1lCaGl4YUxZU0JkVkJvWnVyTEpDU0ppdVhKVUE?oc=5": {
+      "title": "Ribeirão Preto ainda tem 40% das instalações sem energia após vendaval de 121 km/h - Folha de S.Paulo",
+      "summary": "Atingida no final da madrugada desta sexta-feira (24) pela maior tragédia climática nos últimos 32 anos, Ribeirão Preto (a 313 km de São Paulo) tem cerca de 130 mil instalações (40% do total) sem energia elétrica, que só deverá ser totalmente restabelecida durante o final de semana. Os ventos de até 121 km/h que chegaram à cidade às 5h30 causaram uma morte, deixou até outras 20 pessoas feridas…",
+      "source": "",
+      "added_at": "2026-07-24T22:41:27.615053",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbE5lRTg3Z1hpelVSd3VwaVRPaXV1TTBFdmxrMVVGc0Y3aGNZTDlpaTJ4SlNDdmNTeWJhMzc2aUVwc1h5amhjZ0Z4aEVrT3Y0TE5DVDV6aTFqdzJ4ejFTZU9YSHc3LWR5MFhlN3NEZ0ZQeXJUQjNIY1loM1RDd3RtY005VWdZODUzYzRQbHhRRVdKZVJ0VlpuNW03RUJtTkdfM1FvTHJ5clpoTnl4SDZmazdyZVlvX2o0ODh5cE9XVDNMbG1qUHZHYTZNYnlkRTF5WVRGWDhHZ9IB3AFBVV95cUxOMzY5V2EtV2JtU1NDdXEyUXE2Tk94dURnbElrUXhTYW5uN01VcEp3eGgycUd4R1JtZ0lpQ2xadWpTbExhZmFZOThUUFZxTHl6NkZDVlFoQnBoSmJFQkJqT1d0cTBlLXpsNE1xUU1xUlZaWjI1bldYTnlGLURNa0RMLVJqV2Z2NXhpZS1qLUNPUW9qekVIcWoxZEo0OU96RExwd0tycm5rdHNxTXdLYTZVUEhtVmFFS1RILW5uQ2swUDZ2elpxZ2c0bzNReGticnAzV1k4aFpyeGNSRUlk?oc=5": {
+      "title": "Conselho da Brava Energia (BRAV3) dá parecer favorável à OPA lançada pela Ecopetrol - Estadão",
+      "summary": "O conselho de administração da Brava Energia (BRAV3) aprovou a recomendação para que acionistas aceitem a oferta pública de aquisição feita pela Ecopetrol Investimentos do Brasil, subsidiária da Ecopetrol. A decisão final cabe aos acionistas.",
+      "source": "",
+      "added_at": "2026-07-24T22:41:27.615274",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWlI3dnQ4Z2dwdVFlWXlMenFDeUdMM0xqTTVZdlotbzZyTXhnVVVVTU9ncjVIdUZPWTdQTHJWR0l3T2prajZjZDllMHE0RzhnVTZkX0RJbU5fSk1NS2NpTkRfRGdJVHRKVGEtWTYzOFJYelJrWFFrdEQ2Yl9oLVVmeDlYQlZNazhBRzdQQjJfakJ3SDc5YkRqQzlkbWFXQ1hlclV6MTZsOUFhOXpES29qWnFsaU5UcWVFOUZ0azc5NEhpZDZHNUNGOUQ3alVsMXVwV2o2OHZUaE4xYVd5M25OMzU1UlVoblNwZkdXamJndHE?oc=5": {
+      "title": "Ibovespa hoje: Yduqs (YDUQ3) salta; ISA Energia (ISAE4) tomba após precificação de oferta de ações - Estadão",
+      "summary": "E-investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta ibovespa hoje yduqs yduq3 salta isa energia isae4 tomba apos precificacao de oferta de acoes Hoje em 5’ Seu resumo narrado do dia 24/07/2026 | Edição das 18h30 00:00 00:00 1x Conteúdo gerado automaticamente com o uso de Inteligência Artificial. Veja nossa Política de IA ibovespa na semana csn mineracao cmin3 e csn csna3…",
+      "source": "",
+      "added_at": "2026-07-24T22:41:42.005112",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTHhXbFhlTU5lVjNUNFg3OUN6WEF1SXAzNWhkWGY2akFpQ0ZzV1pna2RxZkdOcnpoNjVwX1J4ZzNZdklHaFFYUXY3UDRaNlFvRHo2X1NrVlNFdkVkaFhNUEFpWGNBMXBPclQxVUljUlh6NkROVC1hem1teHB3N2JyeXg3MnRlcDgzaFlaZ0wtQnp4cXdmQzFPdHZzc3AxVTU5VkVZUkZad3c0MTFvSXRMZ3MxaWVWUDVVYTR6ZDVBZXA0OHlMOThOS2ZNZE5wdFh0VEhacEtYUUlvT21kaUtKd2Q4TdIB6AFBVV95cUxPTVVSUmQydU9XOWVWUjRQZzRXb3ZwRGFjRlNSRk1PZW9mdndSLWxTcHRUNkNHMzFPS3dyVGpsTkpHcEoxaG1CbGpCdE43N3dUMUw2Vk5ENmcyQTlKbFMtakVwbGtXSC1MTGNlOWxYTVNjcjJXbXZYamlzQXc3M3IzOGpZeUJXV3lkRURJYy1Obk12aG5LT3AyRXBVME82SHhwZGg1TG1DUkZxYVh4ZHQ1U1lGREdJNTMtTjlVbDQxNl9MVFl4bHNLaG1lRTdPbGNGNFh3SnRNbHJXb3pNM3pfSUNrTktmaTVZ?oc=5": {
+      "title": "Santander projeta resultados neutros do setor elétrico no 2T26; CPFL (CPFE3) pode decepcionar - Estadão",
+      "summary": "Rui Chammas | CEO da ISA Energia CEO da ISA Energia. Crédito: TV Estadão O Santander projeta um segundo trimestre positivo para o setor elétrico no Brasil, com bom desempenho das distribuidoras devido a altas temperaturas e forte atividade econômica.",
+      "source": "",
+      "added_at": "2026-07-24T22:41:42.005310",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2lTYWt3X2s2eS02SmQwaGR0ZUZaYkhLOU5OQXhEdzNjZnI0MDBfajNMbFhyQkR0d1luaHUxT2FOaHRFM1ZEaDlLM1IzejFsdVRpR1F4Yl92Uy05SmhScEp4TUFRSmdGUW13NUxUV183VDFaNmR3SXNfSDRiSThFUWdDdXc4QjkyemlPRk9Uczc4QUhGM3BrcUxqQndHMDVIUW13Y3JvbzlBcEYyQ2Jod9IBtgFBVV95cUxNVlNkTHdUT0dYNUx1WUxyR19NcUdMT3NoTWxBbVVJZkFIMWhXS0Y0Q2dlYUw3QlFJY3FEOVBBbnVhcW9Tdm9PdVVWa3BqS05EUXRvczZwN1NzS3lrOWYtd1prQjdEMUxMOFJjSVpaQ21WUzhzY3FoREdqVXZGMmxLVE1CWVotN3h5dldhZ0RBbXgzU0FkTzBoUDNKUjQyUk96aFdieDR1aG91anBfcEVMTkR3eTRXUQ?oc=5": {
+      "title": "Queda nos investimentos: saneamento perdeu o posto de ‘queridinho’ do mercado? - Estadão",
+      "summary": "Sabesp busca água a 60 km de SP para evitar desabastecimento Obra levou uma década para sair do papel e tem o objetivo de reforçar o sistema Alto Tietê. Crédito: Estadão Gerando resumo As principais operações de mercado no setor de saneamento realizadas em 2026 registraram baixa concorrência, enquanto outros projetos foram adiados em meio a um ambiente macroeconômico desafiador.",
+      "source": "",
+      "added_at": "2026-07-24T22:41:42.005693",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDcyYXB3eVpzVkN5NUhldHhMNkV5YnlMYVFTaXhrTkozRm9zekVIVWxoMk9CYzFIZTJXVDlIV0FGWWJVQndtY0JHMzU0ZDNjZDJ6OS1PenBmY2FEWV9mV3dxc0VnR3Jla1VoVnIta0pGVlMwVGdjNk9UbmdqSnkzalpVeDEwMzZ6Mk5DX2w4WHUyZ0EwRmc?oc=5": {
+      "title": "ONS prevê reservatórios acima de 80% em três regiões em julho - Agência iNFRA",
+      "summary": "O **ONS** prevê que os reservatórios das regiões Norte, Sul e Nordeste fecharão julho acima de **80%** de energia armazenada. A carga do SIN deve crescer **2,4%** em julho comparado a 2025.",
+      "source": "",
+      "added_at": "2026-07-24T22:41:54.630920"
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWpyRGp6RUxlSEo1eXlLdVVGLXNoUk9CN1AxT1h2bW94aDVJYkpDWlBXMVl0M28wTGo5RXlrRU1xZEdrRkZ2QXhFVlB6T25TcDBBR0xkVU03OFF5ZEVBazBXUUdObjIxOWZMMDZacGhrZmdXcUQ0b1A0NEQtYjQwb19OcVRjR1lQWktNa3UzTzByVlRP?oc=5": {
+      "title": "BNDES e IBP firmam parceria para apoiar startups de energia - Agência iNFRA",
+      "summary": "O **BNDES** e o **IBP** firmaram parceria para apoiar startups de energia, com foco em petróleo, gás e biocombustíveis. O acordo, com vigência inicial de **24 meses**, visa fortalecer a inovação e aproximar startups da indústria.",
+      "source": "",
+      "added_at": "2026-07-24T22:41:54.630952"
     }
   }
 }
