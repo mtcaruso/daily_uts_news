@@ -1,76 +1,6 @@
 {
-  "last_updated": "2026-07-24T14:09:02.510105",
+  "last_updated": "2026-07-24T16:07:59.200002",
   "items": {
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLWJIb0NkSHN5dlU5aWhyLTVscFhMeFJ2MDJJWWNWYnYxTDZOTF9jbTRoQWsydnlrVUJ4Zzk1QW9Ub19BSFR2bzJJZmU4Ykw3X0E3WVlfSWEwaW8wSXdfNkZLOUh6ZF81Vnc0Z0NnT2t2YmxRUWR6Wkl4Ym5tTGhuUVdYLUYyellPcEIzZjZRZm42d2ZBOWlGM1NKcHgzVlQ1bWRENlVR?oc=5": {
-      "title": "Energia elétrica lidera pressão sobre o IPCA em junho - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T15:19:27.357337",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUlXdVBRZFJYQ05sX0o5RkZvZGRZT1psLUxyQkhsQUJWblRUVW1GMGhsWFJodllkRk5PMzMxZFk1YjUzQ25FVGx1SmdnV1NWUVM0cldlaWF2dDVvQ2ZGSFg3RGJiWVotR0U4VUt5RDROZWpIX0NHREdjQjNYMENucklSNGxjVDhldU1rS1haVGw3TGlrR01RLXc0VEN0dw?oc=5": {
-      "title": "Usina flutuante Poraquê ganha exposição virtual - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T15:19:29.003066",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUmlYZE0zOE9JeFpKNmZNejdKeUhhUi05ZlNFUmNETVFCMjhBaFJpVXJuOWdFQUVhbGRnM0tFSVJhTFBPdDFYVXZTamVHRDBlN3pWZFhOb0xjbU1JWEY4b0Z3THgtWW9GbWFIOUF3N09EQVJxY0RnMUhPOEV0dEFhSjNnaVVKZmUyVXM4ZlFMQWxMSFpuVmVTLVZNSmQxNGpOLUpyaGVzVVBVN3pqRTVpMmVuc3lFVHpjSzRGdFBNRTAzRmdYQzhj?oc=5": {
-      "title": "Biodiesel, segurança energética e a nova fase da transição energética brasileira - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T15:19:30.636994",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa1FkNzJnWEVLVUs4VXQ4ZjlRcDJOV0VSSkVueHpFZHlFcmFSWVNRMmJ6Y2c1RFZyVjNxR3I1N0JZSGlqRlpBT0FMa3p1UnZESFVpNmNlV3Y2dGp4OE41ZDk0aVl3NFo3dkwtWHYxNWkwS0Nvc2t3NjUxSWNka0JtV0dfdUg1WFRUYXNZeDlKcWFpSFYtX0FJV1V6MmlrcC1HMG8zX0p6UVZBRWpkaFE?oc=5": {
-      "title": "Coluna Giro Energia: Neoenergia mobiliza escolas para a ONEE - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-10T15:19:32.295829",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEhsU0FsTHB5dXd6b0hxTU11Y2Qyd0RZMVU4cnZqRFAxUjdEOHJqLUctX1BIa2p4ZllMN0syT2N5MUM1bzZRN0RnZGxGSjhPcHpscmNiUzczZkQ3bk0wQTJMOWVSQWgwSFRXQU4wYXlVTFpKVjJRZXFKRUh4eFZ1Y2d0bnVIV3FVdkJqS25nSnE2YTYyaEd2Tl9wY3NPbUtvRG0wTXdUYldHRFYzdkxqeA?oc=5": {
-      "title": "Após incêndio em inversor, EDF poderá retomar operação de solar - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) restabeleceu a operação comercial da unidade geradora UG1, da UFV Pirapora 3, controlada pela EDF Power Solutions, localizada em Pirapora, Minas Gerais. A decisão foi tomada após a comprovação de que a usina voltou a operar regularmente e retomou a geração de energia.",
-      "source": "",
-      "added_at": "2026-07-10T15:20:36.306927",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0FkNEt0UUxYS0dTcVM1YVkxenIxYnRsVnR2dm1Pcmw2MlZsQWg5amFsYzd3bUZaQWZZUm9zWWNNLUNUaEdlQWp1V3RsczJTM1F4Q2s0bXllRTY5VnZLT3NreEhGU3RaYnBDNTZxbE9CaGFuMHF4RXM4bS1Uc282M1VsTmNhZWU4MEc4TVpTYXpLREY5VndtR1JvRmRJN1pQS1ptUWVjY2RrRmV1OUxBTlBja19xdHlqNDIwVw?oc=5": {
-      "title": "BBF não inicia geração por retenção de receita e Aneel suspende térmica - MegaWhat",
-      "summary": "A Brasil Biofuels Pará II (BBF) teve a operação comercial da termelétrica BBF Água Branca, localizada em Itaituba, no Pará, suspensa pela Agência Nacional de Energia Elétrica (Aneel). A empresa admitiu que não iniciou a geração da usina porque a totalidade da receita do empreendimento estava sendo retida pela Equatorial Pará para compensar multas regulatórias aplicadas pela agência.",
-      "source": "",
-      "added_at": "2026-07-10T15:20:36.307088",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTlGemFicFdwbnFtdzZJc1JFNURLZ0RMTExtODdNbll4ZDlXUXJ5VGZydGN3dENiTVNtRVlkNUdrMXdLRzBTamdiQm56anZJU3lHNHFmRWNEbHpyM0Y4YkVvQzlJbkZqV0lUZHVpUl9Mems1OUptNnZCSmhjZkFpQjd5amUxZXBOMC1tUjBZamdPUklHSlFnbXJOS1F4d2RNdWI4dTZlTm5jQW5pemNIU2NjTQ?oc=5": {
-      "title": "Falha em turbina tira 611 MW de Belo Monte de operação comercial - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) determinou a suspensão da operação comercial da unidade geradora UG13 da hidrelétrica Belo Monte, de 611,1 MW, com efeitos retroativos a 20 de outubro de 2025, data em que a máquina entrou em manutenção e permaneceu indisponível.. A Aneel suspendeu a operação comercial da UG13 da hidrelétrica Belo Monte, de 611,1 MW, com efeitos retroativos a 20 de…",
-      "source": "",
-      "added_at": "2026-07-10T15:20:36.314312",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhraGMzR244dDBEOG0zdHVaOWpmaW9pVlNXRndBV0VUR1pWRkdFRHhoMnJyWVJTQkpncmhFdVRsMUpVaDJsQnJid1JiVU5XR3pzRnYyeVozeFFONVU4YVlUbDdsWjNjTVEwQ3pIellSaXFSR3p0N2w2cl96aVRGY2JJdkc3MThRMVZxX0lzaUx4QVQ1a2tUVVp2WkQzNjVZa2hRenlKUUszbTBWM2wyVVFn?oc=5": {
-      "title": "Raízen avança na venda da operação na Argentina para a Mercuria - MegaWhat",
-      "summary": "O Conselho Administrativo de Defesa Econômica (Cade) aprovou, sem restrições, a aquisição dos ativos da Raízen na Argentina pelo grupo Mercuria, por meio das empresas Latam Downstream Holdings e Silver Projects I. A operação envolve a transferência do controle da Raízen Argentina, Raízen Energina, Deheza e Estación Lima, empresas responsáveis pelas atividades de refino, distribuição e…",
-      "source": "",
-      "added_at": "2026-07-10T15:20:36.314499",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanViV2c4S1lrd2hNY2M5QzUxVTZycmR2Mlg1UXQ2ZmR2OEhTZENGWU5TLThTaWxiajhCZ0trS1pvaG5ZSVZscVpkWE9vQjY1RkkwNThDSHNDdW16T25XOUxXZF92V1E2QVhhdTNCWGhlR0hsUFdTUU5sRUN4aGxOaVJrVk5NQUtiQVU0UjFYWG13blhYX0hXbFBBNVo1Z21mbnkwX2NtT1h5UXF5YUszRnk2Ny1zNlN0RFF6ZnRn?oc=5": {
-      "title": "Para evitar fraudes, projeto prevê que ANP tenha acesso a notas fiscais de agentes - MegaWhat",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) do Senado Federal aprovou projeto de lei que permite à **ANP** acessar notas fiscais eletrônicas de agentes regulados para coibir fraudes no setor de combustíveis. A proposta, vinda da Câmara, exige autorização de acesso a dados fiscais como condição para atuação no mercado, com custos de implantação a cargo da agência.",
-      "source": "",
-      "added_at": "2026-07-10T15:20:36.314572"
-    },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3NheFM1cjRET0h5X3ptajctcmMzOWY3dExiWHJwY1dkSTVhZFVkVmpGU3dBQTNhV1BfNUtsNzB5VW9vRHNXa1FjcWRpMzZCcEJmaDdTSVNSR1BEcTRoTmx5U2wxWmR4bkpHbElGMzF0amxKUVpkRW5TREc5YlNxVHJmZjA5UDdKOEpRT05PdHlzN0wtWHhBdG9jWXFzdlE2NUt6aW1XUE9Hc0d1aU10N3NRQk56SzI0TDFF?oc=5": {
       "title": "Aneel suspende operação de unidade de Belo Monte por falha no estator - CanalEnergia",
       "summary": null,
@@ -4235,7 +4165,7 @@
       "source": "",
       "added_at": "2026-07-23T23:37:45.055609",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR21fcG9Na082VHl4TTBlV214MGxpWkRNVXhJcEIybXQxb3dhNEpzU0JMTm5qZ0VQMWZ1MGZrbU9JRmVfcnZ6V3d4eW5iNWF4Ujl1VTRuUzNoSVp6QmpCRlp1bnJjQ0lQOElReklyWnUyVllQQjg0dkNrcWJHcU9kNWFpc3ZSN004V2xiemVsLUhDLVJpWVBvSUFvZ0xvU1NMUXpJVFJPYXk4T0lDV2E0Q1Y1dXVIVG4wM2xsYXpZLWFFdjc5cWJDVlRlZTl5MHhwX3c?oc=5": {
       "title": "Flip fica sem luz na segunda noite de evento, e energia deve voltar até a madrugada - Folha de S.Paulo",
@@ -4259,7 +4189,7 @@
       "source": "",
       "added_at": "2026-07-24T11:54:44.429312",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1VzZWlvYXVRSjloLXhZMk9WU3ROb0JwNHVPblRzY2s4ZTlpbGNKbkx6VDdHVmtEbUhlZG4weF9Hb2kyUVUtSDlaVzNoTnBUTUd1SFR3M0dmOWtJekJUNkNfQ1VPOWZnTEdQSGlqTTBtbkZpNmR5TmQ0bWtFOWhZQWp5eEQtSFVTd1h4RUpqU3R6aXg5b3dtbzZubzc?oc=5": {
       "title": "Tributária: ANA avalia diretriz para padronizar reequilíbrio em saneamento - Agência iNFRA",
@@ -4267,7 +4197,7 @@
       "source": "",
       "added_at": "2026-07-24T11:55:06.980279",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXphZFMxRVhzQUJWZFcwNVhzX2l1VHNzNnlVQ3h3OUNtSEI2ZnJtNzlfcHZGU0lyTi1ITDhxQ25IMUlRUzF4eXpXaEdZNjN4eWtpbWY3dTVyQVBydm9RUkdrZElzc0FHMjFGT05LUlRPMmVUYmUxbWxaLVdtOUh6VVVHRnJYZDJSbmZSZVlR?oc=5": {
       "title": "Eneva recebe R$ 340 mi após acordo com a Vale sobre GNL - Agência iNFRA",
@@ -4275,7 +4205,7 @@
       "source": "",
       "added_at": "2026-07-24T11:55:06.980359",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUhfcFlJTm4zUjFEei02b3Znd2pBTW1ZYVl5S29WQ3VmOVAyTUgyX1RoYndhRFBJaW4tOW13aERCb1hxOWF1WU85QVFoQURaV3BvRVd0d3ZpNExiX2trZzA1VjJKRlNLY3VYTGEyLXYwWUVJaW1TNS1fVGVuTFF0WmQ3ZE03eWxqR2ZqVmFGRzFzbDRMR1lTQmQ0RU5uYzc0Rm5tMERnN0dsa3c3Wm1tclN5dERFeFE?oc=5": {
       "title": "Raízen nomeia Felix Faber como vice-presidente do conselho - MegaWhat",
@@ -4283,7 +4213,7 @@
       "source": "",
       "added_at": "2026-07-24T11:55:06.980428",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1kxd2VvbURfaThBZDNuOGh5OWlpczhKOU9BcWdEanl6Y1hJTXZxUGJSM2tOSng4OG0zSkZxMi1JTHB5M0RKVXd2amc4RGJUejdOQWpOcWx6cEFvdE9XQTNERXF0TVpZUFhpbHY0RS1VRzFsTmJxdDRpRVhyOEVZcjlMWlFJOHVHZzBiblEweW1oakpZQWp2MEMzbnY1RmNxUm5pTVJ0cWNiMkJEdXRYTHBKX2hOS3E3aVZJ?oc=5": {
       "title": "Eneva recebe R$ 340 milhões e encerra acordo de GNL com a Vale - MegaWhat",
@@ -4309,7 +4239,7 @@
       "source": "",
       "added_at": "2026-07-24T14:07:57.135486",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWhIX01rU21JTWVPLTZ4T2IwUmZ1bDYxSWswTXRNanRPUGtBNnExZXliRmllVlRJQU5PYmg0dFV6VXFCamFrSTVOUmVqOEUtSEhFUERVUldsQmFRWldYWHRacUlsUllLSDdNS0hkSGowbzdESm9FbmJ0ZXdJV3hDOHF2cXZpWXpGcmFYckcwZWU?oc=5": {
       "title": "Lenovo atinge 90% de energia renovável - CanalEnergia",
@@ -4317,7 +4247,7 @@
       "source": "",
       "added_at": "2026-07-24T14:07:58.789288",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE82dXhISWgycGFfR2dhVDJ0S0hKT0N4V3BidXhodkxnSUdnb3luMU9EYjFOMXA3LTZBZGJtcEI4SjFWVnRCR080LXZaYmNvWWlFd1RWRUlGWXRad1F6N0FtRmwxMUx5TVdnbi1KZml6R2VObWVuNUx6UUx2d9IBgAFBVV95cUxOTk1ZYVNJbm9mRjlrWmxfWmxWUWdhVnNSQUdhQ0dCVUthYTYyeGdSTE1nd3NsVW02U1NRS0phV2l5RHpUZ1M3Q1VvYmhLRktmY0pVNnRpdFlZYzc1NEcyZ0l3WnBCNWUzdGFlS09pZlFKODVabWtiMjBrRUMteHJQaQ?oc=5": {
       "title": "Guerra e tarifas voltam a ameaçar a resiliente economia dos EUA; entenda - Estadão",
@@ -4325,7 +4255,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:28.597469",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1RWVVFGQzBYNF9zMlpWcEN3VWpHMDlETWl2SnF4a2pURkV6UzNraXd1UEFyQXdRQWNFU2owQnpZblZmT2JoNHluSkM4QTk3X1BpSTV0cXJrZjBOVzk1TTdGMU0tbkJCYWM4U1UyXzljS1JVVFIzOHFGdThlejdQQnBJSFNZNnJJRjIyd19HcFpMcnY0WmNsaTljbE5hbDZnb0c2dk9McnMyUngyYXdDZ0lfd2hyZkVlZHBmdHk2bThrX0h1WldHaHE3eTVsX2Zqd3N2cHUtZUd4d9IB3wFBVV95cUxOZ3YxT3c2NzktSnRUNXFoZWY1bnl0ZXo1OG4yTjV0bVVzNXRqVmVVOE4wWWIwX2NlNmxxa0dOcmNiUEVLckdPSTBETEp0R2JaZlY5ZVJTYmlsWTFSMXFOV0JHekF5aWRsY2NRR0pydkQyUnp4OGJ0TU4xX0RkT3B6SDFkdWlmdUJaRzQxQmJxWHRMTllYNWxtOVRUdjZ3U3FqWUVMRllTUmZaNm9IcjBLcjNveDNfV215UnByQXdCT3VoV2NqdW5WanhpYm9rNTFUNk15T2pYVzFiQkpfUm9v?oc=5": {
       "title": "Isa Energia (ISAE4) confirma preço de R$ 27 por ação em oferta para captar R$ 1,2 bilhão - Estadão",
@@ -4333,7 +4263,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:28.597559",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjBRWVJFUUVoNjZaNUt4VGlGNXItYlhqZ01leF9jLTlRb1pabi1GYjMxeUtaMWt5TjlrUGlwTGkzQjhKVFUwNGVvakpfVnhxMDFxcnZrdi1zbmgtRUw5NHR5bFpkemJMZDdDMDY4cEFJYkJ0Nk1GcGdJS19YNWhabTlXazNvYU5BSHV6WUtlc0VTcUdMN1BwSkRIczVjR20yLTdTY3V6ZXNleGgtWExDOGpNdGtoVzZqS3pYOG5B?oc=5": {
       "title": "CPFL fecha contrato de R$ 60 milhões com TIM para rede de energia inteligente - estadaori.estadao.com.br",
@@ -4341,7 +4271,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:28.597799",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWxWMnpQNlVxUkVHQ2J6Y0NIekRwdm81clZwT05FTFA2bXQzUVJxVEIxYjFYVXpOQmJvZmFNNDRvYldDZEN2TV9yRkNRVmljUWtUb3F3ekJndVh2X1ZIU1VMVkhmRFZ1a1RUbWZINGF6N1pWYmNCdl95Wm5CZTAzRnVlTGx6ZVFYemh4MktOYlJxUzBfWTlONDEtMWcwUktM?oc=5": {
       "title": "Axia Energia coloca em operação unidade modernizada da hidrelétrica de Tucuruí - MegaWhat",
@@ -4349,7 +4279,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:47.387621",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWY5Z2lUT2xlWjZ3UVlRb280S0JoeDA0UUhJOFR5Rm12N3dteEFydXdhNUl2T3ZaLVdqMEVNV1VULUdyb0lwMGNmamdzZ3hMM2U5OWQwOHFGTF9CUTFRY1JUckFzRnh2MGthbWxtLTdHOWJqSkJJTkQteUh5LXllTWQtSDlVdlVSS243SjRhWGZKLXJjOUMtV2lZQVE5UUlqTng5YjVrZUZnb3RGTFNaT0U5MHd3UElOUVBTX24wMDZQZw?oc=5": {
       "title": "CPFL e TIM investem em rede inteligente de distribuição de energia - MegaWhat",
@@ -4357,7 +4287,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:47.387768",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTh5S19LSGw5ZEN4dTBLUHN1OFkyVmdOSXh0ckZoOUd3QnB0YlRqOHVkZUVYR2l0a1hwVEZfa3d6em54U3p5V2U0MWFra1B5YjBjSWExWllkRG5vTWhaVVA5OGdfa3hPbkx4bHVZblZtOFFqZi1MWkR2T0F5UUYtMUpJZ0l5YUpRYWN3cS1TSlBzRmliUzBiWWNEUzF5bEd4M1h1TW8wZnJUVzd4YU55VHBnOU0?oc=5": {
       "title": "Illian paga R$ 476 mil ao Cade por compra de solares antes de aval - MegaWhat",
@@ -4365,7 +4295,7 @@
       "source": "",
       "added_at": "2026-07-24T14:08:47.387803",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakR0UzlRRVRkYjZSYnNjZVdrTTg4aDVTTjdidHFoSnRFdW03NTVMRlFwX3loLWVZbnQwREtIRGVBSnBKbTNXTF9oZjZTVnpWTEV2RVFlVlgtQ25XMWxKaEExTXJKLVZrelU4YnIzWTdXdEZSTzd3cDlWTWk0WU84RW1RSEgyMm83bzE0YjBhTkt6dUVVNUE0ZEtINDdpdnM?oc=5": {
       "title": "🎙️O risco do gás importado e as incertezas sobre o curtailment - MegaWhat",
@@ -4373,13 +4303,45 @@
       "source": "",
       "added_at": "2026-07-24T14:09:02.501474",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWpVU21fNWFucnBjSGZjdFRGd04xWjRVTF9DdWRoaGlIT2txbHZCR0lkOE1FWGt5ZDhKRTB2ckhPeHhscDJ6MFZNR25KUmhQTGhDYkV3d25COGRxTFJjRXNweWVwZlpWaDZ5QTNyQ3EySzBITEpkcHZ6MFk0UVpfek9mWlFKUDVTSEF1bTFNSkpkeG5rU19HcGhlZlJueUluRXFSMjBZcnUybnNpNFl1MTZCR09ubU94MC0wTWYtNlZERTduZmlyazNuYWRfRGsw?oc=5": {
       "title": "Governo estende subsídio da gasolina e abre crédito de R$ 3,33 bilhões para combustíveis - MegaWhat",
       "summary": "O governo federal prorrogou por mais 30 dias o subsídio de R$ 0,44 por litro da gasolina, em meio à nova escalada dos preços do petróleo provocada pelo agravamento da guerra no Oriente Médio, e abriu um crédito extraordinário de R$ 3,33 bilhões em favor do Ministério de Minas e Energia (MME) para financiar as subvenções econômicas destinadas à gasolina e ao diesel. Crédito extraordinário Do total…",
       "source": "",
       "added_at": "2026-07-24T14:09:02.501618",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUthQzFKOXlFVGh5S1VsMXBJdDY2Y0RjMmtiTEVPR0RXVm5tYWQ4Q1NvdXF1S3g4SlhRY3U2ZEVPNFVTdURrZktEOHFpRlJ1YU43T2VkV19UbU9TRVk4QTIzYjA5Vlp3SUZXNGQtVGZsZ1hHZnZzOTlNa3BzcUJVdDB1eEV5OTliblhBMW1YM053V0lBOUo3emNQcVMzSzNsZHFkbVliSldTVy1fSC1GcDVjMl9naXlWY0NoY0haTdIBzgFBVV95cUxQaC11a21hTmpCOFBGY1RmSkJobklpai11aHN0UG1CZ1hRYTVzVjdwZnVEZG9yWDRjeWY2UjYxMFVZUlZhVndUZDdhWnVybUFfX1V4NHFCRDhoSWtGWVRfQ2llSFQtQ3ozclVfLXUtQ0hjcXZRN2JCcGl0WU85bmhKenNlcHRJcjZOLXVBM182Y2tqeTJJSzdLal93OHFRNU01SUs0NXRyRzEyaE14U3NFb3BSdWN3VUFqNjJjVVVMOVBGRktlUTdiTTVVb254Zw?oc=5": {
+      "title": "Fraude em energia solar no ES gera prejuízo milionário - Valor Econômico",
+      "summary": "Fraude em energia solar no ES gera prejuízo milionário Esquema de estelionato com energia solar no ES gera prejuízos de R$ 10 milhões para mais de 200 vítimas. Diante das fraudes, o CEO da EcoPower, Anderson Oliveira, orienta contratar fornecedores consolidados, alertando que preços muito baixos indicam riscos.",
+      "source": "",
+      "added_at": "2026-07-24T16:07:17.665922",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFVJRkdGcnp3U29KUW14QTJBRG83MEZCWTRzZ2JraHZqSXhCMEdqcm05UnVMX0tDMXVCWkNVZWlKUzVQVU5XZlRBSjlhR0V1RTFKbDNGWFp6cVBFV3BGd1Bsb3F2N2NyNjF2azlIa3hoUm5yaGxtbXBZZk1fVjJiRHUyS0R0enFqYnplUkxRUDc0Wk9FUm5BZFVTMlBNcG1wLXg2RGNkUktyaXVWZkhTemNVNDhIQ0dLTWxtMDUwbGU0c1ZHY2UzaXVJcUx2UDAteE5rSjluN0FoZ3c?oc=5": {
+      "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA - Folha de S.Paulo",
+      "summary": "A imposição dos Estados Unidos de tarifas entre 10% a 12,5% a 59 países e a União Europeia anunciada nessa quinta-feira (23) foi criticada pelas nações atingidas. O governo de Donald Trump justificou a aplicação da taxa pela falha dos países no combate ao trabalho escravo.",
+      "source": "",
+      "added_at": "2026-07-24T16:07:17.666087",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFMtNUZfUnBrRzZ3UW1rMzl0c19EYWRyTjZnOTY1Qy1ZNlhzS05NMHNobkF5a043dWVBWW1fTXhrVVNjMWtNWlFHek94cFBCZVp0QnlWMXNseUh4OEhWa2E1VmlTR3dQUkswbkxQd3J0TkFGTERLbGNDNkNfa1BOT0c3WXZ1NDZnVmxTSE1pc3dRcUIyZ2FXYUpRUllzenBEUFhjaE5hQ1FYWVhnbEkyZ1RtdEVTQ1VDNTh1aUJYWG1BQQ?oc=5": {
+      "title": "Dólar abre perto da estabilidade após novas tarifas dos EUA sobre Brasil - Folha de S.Paulo",
+      "summary": "A Bolsa registra forte queda nesta sexta-feira (24), pressionada pelo recuo dos preços do petróleo, que desvaloriza as ações das petrolíferas brasileiras em meio à guerra no Oriente Médio. Durante o pregão, investidores também avaliam o impacto das novas tarifas aplicadas sobre o Brasil de 12,5% por supostas falhas no combate à importação de produtos feitos com o uso de trabalho forçado.",
+      "source": "",
+      "added_at": "2026-07-24T16:07:17.666328",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWVWYktZOTM5Rlo4Q0ZnVlUxQ05DSGlWeTZrRHRIazJ3VDVTOG1vc1l4NktRd0RSRzBxbFU5Y2lrNnRFNmtjM3BxbXhadnl3Zzl3YmtWMXVLSFBjekNyd2FsNUpnakhEQ005Z0JKemtCWERSY0ktZjBzVVZ3ZHZIbHlPVlh6WlY2T0g3QWcybllEc1RtbVJaTl9Pd09aZmVEQ3ZZVEZmQVFVcXZPTXpyRC1VZ2NraWo4Tm12Q2Y5RQ?oc=5": {
+      "title": "ISA Energia dobra oferta de ações e amplia captação para R$ 1,2 bi - MegaWhat",
+      "summary": "A ISA Energia Brasil ampliou em 100% sua oferta pública de ações preferenciais e elevou a captação prevista de cerca de R$ 650 milhões para R$ 1,2 bilhão, após identificar demanda adicional durante a precificação da operação. Segundo comunicado divulgado ao mercado, a companhia exercerá integralmente o lote adicional previsto na oferta, aumentando de 22,2 milhões para 44,4 milhões o número de…",
+      "source": "",
+      "added_at": "2026-07-24T16:07:34.603506",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
