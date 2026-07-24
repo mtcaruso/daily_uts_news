@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T18:42:44.352645-03:00",
+  "last_updated": "2026-07-24T19:41:17.514742-03:00",
   "items": [
     {
       "cnpj_short": "01460-5",
@@ -6138,60 +6138,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-06-24T23:47:09.266519"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Comunicação Pagamento de Waiver Fee 18ª - 1ª Série -",
-      "data_referencia": "20260624 24/06/2026",
-      "data_entrega": "20260624 24/06/2026 19:36",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicação Pagamento de Waiver Fee 18ª - 1ª Série",
-      "protocolo": "1538139",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538139",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-24T22:38:36.294133"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Comunicação Pagamento de Waiver Fee 17ª - Série Única -",
-      "data_referencia": "20260624 24/06/2026",
-      "data_entrega": "20260624 24/06/2026 19:34",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicação Pagamento de Waiver Fee 17ª - Série Única",
-      "protocolo": "1538138",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538138",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-24T22:38:36.294136"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Comunicação Pagamento de Waiver Fee 16ª - 1ª Série -",
-      "data_referencia": "20260624 24/06/2026",
-      "data_entrega": "20260624 24/06/2026 19:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicação Pagamento de Waiver Fee 16ª - 1ª Série",
-      "protocolo": "1538137",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538137",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-24T22:38:36.294116"
     }
   ]
 }
