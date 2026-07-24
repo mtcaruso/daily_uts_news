@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-24T09:51:39.386598-03:00",
+  "last_updated": "2026-07-24T11:41:06.125066-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Alterar os artigos 4 e 5º do Estatuto Social da CompanhiaAta",
+      "data_referencia": "20260724 24/07/2026 11:00",
+      "data_entrega": "20260724 24/07/2026 11:27",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Alterar os artigos 4 e 5º do Estatuto Social da Companhia",
+      "protocolo": "1547720",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547720",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-24T14:40:46.602704"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
