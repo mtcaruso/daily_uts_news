@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T03:45:53.817320",
+  "last_updated": "2026-07-24T11:56:18.623423",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3306,6 +3306,19 @@
       "summary": "Designa **LUÍS EDUARDO CARNEIRO DE OLIVEIRA** como substituto do Coordenador de Distribuição de Energia Elétrica.",
       "added_at": "2026-07-07T15:50:48.344443",
       "summarized_at": "2026-07-07T15:51:04.138101"
+    },
+    "decretos_decreto-n-13-078-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-078-2026",
+      "title": "Decreto nº 13.078/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-078-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-078-2026.pdf",
+      "date_modified": "24/07/2026",
+      "ementa": "Altera o Decreto nº 12.362, de 17 de janeiro de 2025, que estabelece o procedimento para a redução do montante de royalties em contratos da Rodada Zero como incentivo a investimentos na realização de conteúdo local nas atividades de exploração e de produção desses contratos.",
+      "summary": "Altera procedimento para redução de royalties em contratos da Rodada Zero, incentivando investimentos em conteúdo local. O objetivo é estimular a exploração e produção de petróleo e gás.",
+      "added_at": "2026-07-24T11:56:10.043608",
+      "summarized_at": "2026-07-24T11:56:18.123109"
     }
   },
   "first_run_done": true
