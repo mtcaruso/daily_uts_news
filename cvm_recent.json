@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T17:38:41.433614-03:00",
+  "last_updated": "2026-07-25T18:32:45.477221-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5742,78 +5742,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "20010",
       "first_seen": "2026-06-25T22:42:58.324859"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Boletim de Relações com Investidores, base Maio 2026 -",
-      "data_referencia": "20260625 25/06/2026",
-      "data_entrega": "20260625 25/06/2026 17:57",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Boletim de Relações com Investidores, base Maio 2026",
-      "protocolo": "1538474",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538474",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-06-25T21:08:25.869532"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Carta da Administração sobre AGE 02.07.2026 -",
-      "data_referencia": "20260625 25/06/2026",
-      "data_entrega": "20260625 25/06/2026 17:39",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Carta da Administração sobre AGE 02.07.2026",
-      "protocolo": "1538468",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538468",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-06-25T21:08:24.065336"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20260625 25/06/2026",
-      "data_entrega": "20260625 25/06/2026 17:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1538467",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538467",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-06-25T21:08:32.466538"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho Fiscal",
-      "especie": "Declaração de remuneração aos acionistas referente ao 2T26Ata",
-      "data_referencia": "20260616 16/06/2026 17:00",
-      "data_entrega": "20260625 25/06/2026 17:08",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Declaração de remuneração aos acionistas referente ao 2T26",
-      "protocolo": "1538406",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538406",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-06-25T21:08:33.096503"
     }
   ]
 }
