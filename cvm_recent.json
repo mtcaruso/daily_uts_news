@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T22:12:09.116851-03:00",
+  "last_updated": "2026-07-26T01:38:20.004318-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5652,42 +5652,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-06-26T19:01:19.435414"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Aquisição de Ações de Emissão da Própria Companhia -",
-      "data_referencia": "20260625 25/06/2026",
-      "data_entrega": "20260625 25/06/2026 21:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aquisição de Ações de Emissão da Própria Companhia",
-      "protocolo": "1538640",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538640",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-06-26T02:46:36.868994"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Aquisição de Ações de Emissão da Própria Companhia; Autorizar a celebração, pela Diretoria Executiva, de contratos de derivativos com uma ou mais instituições financeiras, para fins da implementação do Programa de Recompra; Aprovar a celebração, pela sua subsidiária GNL Brasil Logística S.A., de aditamento ao Contrato de Abertura de Crédito junto ao Banco do Nordeste do Brasil S.A.; Rerratificar o valor aprovado para prestação de garantia corporativa, na modalidade de aval ou fiança corporativa, pela Companhia em favor de sua subsidiária GNL Brasil; Aprovar a contratação, pela Eneva, de financiamento de longo prazo junto ao BNB; Aprovar a contratação de instituição(ões) financeira(s) para prestação de fiança(s) bancária(s) no âmbito do Contrato de Financiamento com o BNB; Aprovar a eleição da Sra. Gabriela Sznifer como nova integrante do Comitê de Acompanhamento de Obras da Companhia; Autorizar a prática, pelos diretores e/ou representantes legais, de todo e qualquer ato necessário à efetivação e implementação das deliberações aprovadas por esta reuniãoAta",
-      "data_referencia": "20260624 24/06/2026 10:00",
-      "data_entrega": "20260625 25/06/2026 21:41",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aquisição de Ações de Emissão da Própria Companhia; Autorizar a celebração, pela Diretoria Executiva, de contratos de derivativos com uma ou mais instituições financeiras, para fins da implementação do Programa de Recompra; Aprovar a celebração, pela sua subsidiária GNL Brasil Logística S.A., de aditamento ao Contrato de Abertura de Crédito junto ao Banco do Nordeste do Brasil S.A.; Rerratificar o valor aprovado para prestação de garantia corporativa, na modalidade de aval ou fiança corporativa, pela Companhia em favor de sua subsidiária GNL Brasil; Aprovar a contratação, pela Eneva, de financiamento de longo prazo junto ao BNB; Aprovar a contratação de instituição(ões) financeira(s) para prestação de fiança(s) bancária(s) no âmbito do Contrato de Financiamento com o BNB; Aprovar a eleição da Sra. Gabriela Sznifer como nova integrante do Comitê de Acompanhamento de Obras da Companhia; Autorizar a prática, pelos diretores e/ou representantes legais, de todo e qualquer ato necessário à efetivação e implementação das deliberações aprovadas por esta reunião",
-      "protocolo": "1538639",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1538639",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-06-26T02:46:36.868983"
     }
   ]
 }
