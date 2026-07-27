@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T20:38:29.118711-03:00",
+  "last_updated": "2026-07-26T22:15:52.096292-03:00",
   "items": [
     {
       "cnpj_short": "01837-6",
@@ -5454,42 +5454,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-06-29T12:07:08.552728"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "INSTRUMENTO PARTICULAR DE ESCRITURA DA 10ª (DÉCIMA) EMISSÃO DE DEBÊNTURES -",
-      "data_referencia": "20260626 26/06/2026",
-      "data_entrega": "20260626 26/06/2026 20:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "INSTRUMENTO PARTICULAR DE ESCRITURA DA 10ª (DÉCIMA) EMISSÃO DE DEBÊNTURES",
-      "protocolo": "1539110",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539110",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-06-27T00:18:49.281281"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "AVISO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO, DA 10ª (DÉCIMA) EMISSÃO DE DEBÊNTURES -",
-      "data_referencia": "20260626 26/06/2026",
-      "data_entrega": "20260626 26/06/2026 20:05",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "AVISO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO, DA 10ª (DÉCIMA) EMISSÃO DE DEBÊNTURES",
-      "protocolo": "1539109",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539109",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-06-27T00:18:49.281269"
     }
   ]
 }
