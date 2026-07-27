@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-27T05:29:31.446034-03:00",
+  "last_updated": "2026-07-27T08:50:48.540211-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado em Conjunto com EMAE sobre a AGE de 30/07/2026 -",
+      "data_referencia": "20260727 27/07/2026",
+      "data_entrega": "20260727 27/07/2026 08:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado em Conjunto com EMAE sobre a AGE de 30/07/2026",
+      "protocolo": "1548065",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1548065",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-27T11:50:46.387269"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
