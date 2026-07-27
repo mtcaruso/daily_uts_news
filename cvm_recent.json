@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-27T17:59:01.040362-03:00",
+  "last_updated": "2026-07-27T19:04:18.152762-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "1. Atualização ao Conselho de Administração por parte do Comitê temporário - AGEPAR.; 2. Apresentar os resultados econômicos e financeiros do período de janeiro a maio de 2026.; 3. Dar conhecimento do andamento dos temas relacionados à Reforma Tributária.; 4. Deliberar sobre o Informe do Código Brasileiro de Governança Corporativa - CBGC 2026.; 5. Deliberar sobre os Planos de Ação elaborados para atendimento às recomendações do TCE-PR.; 6. Ratificar as medidas estratégicas em relação ao Contrato firmado com a empresa Wipro do Brasil Tecnologia Ltda.; 7. Dar conhecimento dos resultados alcançados pela implantação do projeto CSC Sanepar .; 8. Apresentação e letramento sobre o Plano de Descarbonização.; 9. Atualização sobre medidas e estratégias de enfrentamento da situação de emergência hídrica no Estado do Paraná.; 10. Dar conhecimento acerca das ações adotadas e tratativas com auditoria externa referente às provisões e passivo contingente dos processos judiciais em trâmite na Companhia.; 11. Apresentar informações complementares referente ao Programa Água em dia+ para Clientes Particulares.; 12. Atualização sobre as Parcerias Publico Privadas - PPPs.Ata",
+      "data_referencia": "20260717 17/07/2026 12:00",
+      "data_entrega": "20260727 27/07/2026 18:04",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1. Atualização ao Conselho de Administração por parte do Comitê temporário - AGEPAR.; 2. Apresentar os resultados econômicos e financeiros do período de janeiro a maio de 2026.; 3. Dar conhecimento do andamento dos temas relacionados à Reforma Tributária.; 4. Deliberar sobre o Informe do Código Brasileiro de Governança Corporativa - CBGC 2026.; 5. Deliberar sobre os Planos de Ação elaborados para atendimento às recomendações do TCE-PR.; 6. Ratificar as medidas estratégicas em relação ao Contrato firmado com a empresa Wipro do Brasil Tecnologia Ltda.; 7. Dar conhecimento dos resultados alcançados pela implantação do projeto CSC Sanepar .; 8. Apresentação e letramento sobre o Plano de Descarbonização.; 9. Atualização sobre medidas e estratégias de enfrentamento da situação de emergência hídrica no Estado do Paraná.; 10. Dar conhecimento acerca das ações adotadas e tratativas com auditoria externa referente às provisões e passivo contingente dos processos judiciais em trâmite na Companhia.; 11. Apresentar informações complementares referente ao Programa Água em dia+ para Clientes Particulares.; 12. Atualização sobre as Parcerias Publico Privadas - PPPs.",
+      "protocolo": "1548388",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1548388",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-07-27T22:04:17.183348"
+    },
     {
       "cnpj_short": "01866-0",
       "empresa_nome": "CPFL ENERGIA S.A.",
