@@ -1,58 +1,6 @@
 {
-  "last_updated": "2026-07-28T16:50:59.503646",
+  "last_updated": "2026-07-28T18:42:25.168202",
   "items": {
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmpBc0NVazZIUERrYktZSGt4NlBoX2V1S0lvQV9aRXBTZ2U5RDlyQmlTVmpHcjJWOTlOcDlYUEVaajBrYk5pMEhCbTFyd0ZkWHRZeGVXcklJZ19aV19YcWV3c2lqVmZrQ2ttakhvOEo0MDNEb1BybWR6MnNFNU5kOVBuYTJaWHI3VURDUUxRNF9hb2lndDhQQXk4bnlrY3pV?oc=5": {
-      "title": "Reservatórios do Sul contam com 84,5% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-14T17:33:24.295901",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTnpleEJhTmVhZVNrWmV4NzdjNXpoeTUtbU96Ym1PZXEySWcxMzNmb1QtMTZ3WEVIU2hwcVAzVnlWTml2RUdNbEtHMU1aS1NwQk0xdnZUR05QODlaWmk2M2ZTT0liTG1Jc3I0dXhsdEIzUWFsbmc0aGNzMkF3em9hVldjQUtyN0hWWDhIVmE0N0tYRGo2ZFJPLTItVTFlNDBlNWhrbVo5MDh3dmFuNWs0Yzln?oc=5": {
-      "title": "CNPE autoriza suspensão das dívidas de Angra 3 com CEF e BNDES - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-14T17:33:25.965301",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0REbFFxdjhQNW9OZ3h2MWRBa1N6RmlfMERlaWRnT1hxNjVBVUIxdTFNTW9URTNSbVhZYjFiV1VWLUlXNHRPd0ZFQk0xVUxEaHpYMkNxYjFBQTM0SmlOMU5DS0QtTHQ4MmNWRld4Sm9XNmZOY3c2SWdLWkx3cG5jLUVjMjNTb1NHdjdDNzV3TklaNDQzQVB5LXA1ekVRa3ZvZ0o3OUkyM21kOGFEMmxfQzNGZnFQY2FmU1FtcThYc3JuNWtjTUxqdThhNlJseUdtMmhfazZSSk10dWlpY05GTtIB7wFBVV95cUxOV3BYdVZ2cEdWT1ZDMjdsZUhTajVSQlVXOV94cll4M0VuQ0xKN1BUdjR6bk1NSWZBQzJlRk51b0o3REtxZ3A4bkZJNDRUMGNid1loVy1vZ19jZ2FzMEF1SjMtaGdOSEZDSXdDaU1Pc3lkWnFJZ0hJaGp0S19idl9ORWhqWkV3cGN1MGFuZHBQQXJlalFHWFVlZEpaRmExSUNaNjVmdGQ0aTNjejRlSXdBX1lIRHBrZmRPVXN6ZlI3clIzWEdDSi1ZbWVQSjEyZkVzQTYtRGlUanJacXpNOERZMVVYQTd3OFVkbVVqamhFTQ?oc=5": {
-      "title": "Aumentos na energia por conta do El Niño favorecem geradoras descontratadas, diz Scotiabank - Valor Econômico",
-      "summary": "Aumentos na energia por conta do El Niño favorecem geradoras descontratadas, diz Scotiabank Confirmação da alta probabilidade de um El Niño forte deve sustentar a perspectiva de preços mais altos de energia elétrica no Brasil, apontam analistas O Scotiabank elevou os preços-alvos de Auren Energia, de R$ 12 para R$ 15, potencial de alta de 21,7% sobre o fechamento de segunda-feira (13), mantendo…",
-      "source": "",
-      "added_at": "2026-07-14T17:34:26.982109",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFAxTnFmMlJJaG16eFRkYnRNTVdkaFVsN25XRmZteE9iY1psV3E1c1R6TlQzekFkZW41V3U5VFh3LVJhMl8yZDd6ZmFubnA1eXFvdFJHQThiMlRaeEFwWHI5cUNIOS1sazNtUEhKaEhLRGx2ekNBZ0IxV1VYcGpuRS1IeDZBbFpfTkJxS0NBa2JGSmp2Sms2eXpKOG54OVg1VFlfLXdjZzA0ZmZrd2RMTGpSbk5kYnZXbVlObUZLMHRnRXJTWmpQTVlrTXZ5RElRVXBzXzk3UVJackY2b1HSAewBQVVfeXFMT3o5VE5FMmVqWlptQ2pQWkNWS2ZwY2pIb0ltZWZaeWFrWVI1eTFXZlpMdExIdndQc0lMa3BrMEFLcTNHSTRIVlJMZ3g4TnJCak44U2daMl9OWGhrYUJDYUg4dXZqcXpra2VBSTdoWF9QWTBzb0NsT2M5TU5zUlpQZ3RwVVF6cjlVcUV4S3VxUXNPR3BCOHlfam1KTUdvbDM3bHo1S2tCbnBUR3J3QVBmTlNzc3BFb0lNZ2NfR0d1VnJzdmtEelZHaF9VaDBjU3d4ZFo2Sy1kRlNMbVZZNWVoLTNIT1FVaFR2SlBSN0w?oc=5": {
-      "title": "Montadoras japonesas adotam tecnologia chinesa para acelerar produção de veículos elétricos - Valor Econômico",
-      "summary": "Montadoras japonesas adotam tecnologia chinesa para acelerar produção de veículos elétricos Segundo a consultoria americana Mobility Global, a participação das montadoras chinesas nas vendas globais de veículos dobrou na última década, chegando a 25% em 2025 Por Nikkei Asia — Tóquio Atualizado Os veículos elétricos de marcas japonesas vendidos na China estão incorporando cada vez mais componentes…",
-      "source": "",
-      "added_at": "2026-07-14T17:34:26.982191",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU3l2WTU0OTY0MzNlcUY4U3RCRFphSWlXR0lvY0JLR19WTVVEeTNRajJvbVJwNEhtdWE5QktHVnB0b1FKelFBZzJMd091NjhHNFpnN2lrbEVXbGtrckQyZS1QbjRPUDFhQ1dzUjJJQXhwQjRPLU80cTBjVmhLV0Mxc3hKVlpZUkRsYXNRb0VIQzJwZTVIeml6N05EUzNZUXUxanhXSlAzdF94ZVBXWi1TT3ptU0M3UGYzNlQ3Q2I2Q3UxUWlQTGFka1Rzdw?oc=5": {
-      "title": "Sem plano B, indústria projeta perdas e fala em demissões com novas tarifas dos EUA - Folha de S.Paulo",
-      "summary": "Setores industriais potencialmente afetados pelas novas tarifas que os EUA podem aplicar contra o Brasil preveem um cenário de difícil adaptação e torcem para serem incluídos na lista de exceções. As indústrias brasileiras de ferro-gusa (matéria-prima do aço), madeira processada e calçados, todas com dependência relevante do mercado americano, dizem que seria impossível redirecionar exportações…",
-      "source": "",
-      "added_at": "2026-07-14T17:34:26.982542",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzVEdWpkbzRGZXc0U0QwRlppQ21TenAwVGxXanJDT250bDRxTVIzaGJzSGVPX3h1YV9pZmFfSVhZNDdiNV83UVYyMlpZemJ5YWhzQ3Z0X3kwOUR5dkFINjJNTlhQUG1hMFczNGtnQ2RXWkNEM2UwY3Fub2xLUHc1am9KVUp2YzhqMjlPU0xRZU1pNWxEb2c?oc=5": {
-      "title": "ANEEL abre consulta para mudar remuneração de distribuidoras - Agência iNFRA",
-      "summary": "A **ANEEL** abriu consulta pública para alterar a remuneração das distribuidoras de energia, focando no aprimoramento do \"fator X\". A proposta visa calcular o componente de produtividade anualmente, permitindo que parte dos investimentos das concessionárias seja computada a cada processo tarifário.",
-      "source": "",
-      "added_at": "2026-07-14T17:34:26.990548"
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzlsTWpDT1JIYzQtYTRsaXdVM05XTnUxc1lNbDRXMUJFaHI2enRfbkVyRDdBNkw0X2ZqcUR0Q2RDWVQxVkNaMXpLR0N3WFNYeFBpSkRCUXFMR3ZRNnFBalhrTlNUUkl6akl2cnE2MEdZOGhvN3RsZWduZkJtM2xIQW1TSWg2clJpUWNRTkx6cUkzS05hY3RMbUVuM3RwamUySzVJ?oc=5": {
-      "title": "ANEEL prorroga outorga de Jirau e adia caso da usina de Salto Santiago - Agência iNFRA",
-      "summary": "A **ANEEL** prorrogou a outorga da usina hidrelétrica de **Jirau** e adiou a decisão sobre o caso da usina de **Salto Santiago**. Detalhes sobre os motivos e novas datas não foram especificados.",
-      "source": "",
-      "added_at": "2026-07-14T17:34:26.990582"
-    },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXRzR0tNVnJoWEFUQS1SWllRazdZT2dWX05DYzh2MkQ1RWdfZU1kSzk0ZE1WcTFkSXlPWW5ja1Z3aURBZ2ZtNTk5TUFBdXJUNmtOTl82UGVGdXVRWFhfQ2FlbEdlc0YzdXMzeHRQcnN6ckJXVng0RjB3MzFwSmxyR1Z0ODdDUkZLOXZHbWdzLV83dl9GV0VxVVNNazY4d2FfUkxOVi1IcDIzSHpSZHk0?oc=5": {
       "title": "BBCE registra alta de 11% nos preços futuros na última semana - CanalEnergia",
       "summary": null,
@@ -4501,7 +4449,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:14.707102",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2xBTHlWVDZwaEpMbk54eWVrM2xIYW9Tc09HM0FnNFpId2lFeE11dmpqaElpYnUtWDRHOE82NHBmQ08xRUlUM2UzM0wwLTlLLVdTeEZNa21RaE5TbkhHN1BodmNnbHhHemE4QkRoWkEwQUFjR2YyM19DSHVJTjIyV1FhODVNdzBUbEtzZWxWaEMzWkhVb3B0V2t2MnRuWnBEYUE?oc=5": {
       "title": "BYD deve fechar 2026 no top 3 de vendas no Brasil - CanalEnergia",
@@ -4509,7 +4457,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:16.362349",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWJJbFVBOHZiUVJLZHFoU1AyM0xsQm95SmVGczhCN3JSYXRnZ3RDVzIzRlQ3WTdydlYyTUpzVmpGNV96cVhGVFlCMExMaC13enRfSzdLUFFpSFdjRGM3VXd3VC1EdzZ3aEJmaWtrZ3pIcmtVMU9CR3Vkdkd2R2Y5aUtpenc1aDhIY0dIVVRBZllJaXBaX2F1Mw?oc=5": {
       "title": "Pontal-Thopen prepara recuperação judicial - CanalEnergia",
@@ -4517,7 +4465,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:18.033941",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tbW5jVmtWY0dXMVN3U0NRbURKckFRUjNpYWozUEJhSU1vZTNVUjZZYWc2VnhmdVlqaUktM19faUh4MlExSlU4YWphU1RRdmpWV1RXRzlfTmFYeGFTMlNSLUZQSHg2TlVkTGY3bTl4OA?oc=5": {
       "title": "Engie e WEG - CanalEnergia",
@@ -4525,7 +4473,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:19.808146",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjZuOTFXNE90SzVYblFEellpaFhSYkVGdXVNSmlMMEVTd2dzUS1sV01nQ3dWQmVsWDVuNl9lakNxbVphSnVLd1BXWGEyRVc0aXpScnhVMzlISUhzdzRPTUFSRmFBTEVONWFxSUsyWTJNbjBUQkZ0Sk5jYWxYWFN4VDlURkxLc1NwOUI0QUN6TGcxdjJmRklUclpCc1IxczJYM0FJaGtKZVhhTURiQXc4T1l6dDBudVVvblU1VXVn?oc=5": {
       "title": "Comissão do Senado cria mais de R$ 1 tri em custo extra na conta de luz - CanalEnergia",
@@ -4533,7 +4481,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:21.436599",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHdwNUd4Z0tKZUtwaGF6ZFVldEVCSHN5alBQdGNVSXQ3Um9oY0xJSHhhdmNrbnNEUmFVU0NGRXROT1NFeFN1eHBoRjlXNTRTYzJlYVJUT0tCdkRQNUl1QkVpTG5VV1czT2VCeEpiNFhXdVZSZ2pjZk1pQnR3cmVSX285cXk5NXVwQmlOcFRkZTdaclBmRzkyWHF3?oc=5": {
       "title": "Energia impacta e IPCA-15 vai a 0,06% em julho - CanalEnergia",
@@ -4541,7 +4489,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:23.068146",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWg5R2JUUUtEZzhaMVNtMWdweUVNQkp4dXphMUFVNWVnS1BNSXNZMWhWU1NwaHdGcm96QXYzTDFSRU1IWG9JZWVDSW1NZFhlcWJhd1hMd2ZZNk50Vk5VSm9fRXByLVQ4Uk1vVGs2a2VpQzVaMS1aX2pOTDVyMWlvN3pYdUcwTUxlMlI0ZEFxSjdBekZsV2hRTzVDX3p4SG5ONmVoMVNHSVdhZ2ttV2FJeHo2X1c4UUs0?oc=5": {
       "title": "William Nozaki é diretor de transição energética na Petrobras - CanalEnergia",
@@ -4549,7 +4497,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:24.698299",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzZLNDlBZVE5R1JsZlNBT0k3QVBvek1xLUZYYjhpcXoxenh5M21UTWtqTkRsRkpmbjFLcW9DVzZ3NzlZeUVmb2VwYnZPMzRBcTRqZ0VpdFZKcXFLeFBQbHFYMXMyc0ZtVXZ2T3dXWXdvckpiMFZWZHg2OXVkRS1oU0lQbmU2cFMybVBmZ3haQkxiSnlIOXd6V3JmYXR6MG9WT2dZVHEtN282QzVWYjJuRlk1X0h2dw?oc=5": {
       "title": "Coluna Giro Energia: Neoenergia lança campanha focada nos clientes - CanalEnergia",
@@ -4557,7 +4505,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:26.343670",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmFzVUhQQ0RaMWxHOGlIMjNJZVlCYlhSbklYVUkyNjYwVnB0VU1sejdkaFV4cFphSEw4UnJTNFJGRFYxYnNZZW5Yb2FqTXF4cUM3cmxGVW9LeFdYQVZIU2NkeW1KM2hYc0NIRm5VOEJBek1iaEMydlVjWFFWNG9NN1k4aWFxVWNDanEzZ29SSGJFQkxOalZ0SWFHVDdOanNpQnc5aGF2RGZ4dw?oc=5": {
       "title": "Brasil já é o maior importador de carro chinês do mundo - CanalEnergia",
@@ -4565,7 +4513,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:27.945180",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUZXQU1HbHBjYjF6UkZ4bWlET3lJcDZ5by1OQnN6cTAwdGZZMGpHT2ZxVHZKSERURE5WTnBMRXdwVHZuOEpQYnpOSXRkNDBNUnZzb05FU1JWd0JVdXNiSGxINTRNTmpxTnJUVy05RS1na3dZVjlhZTNZOHp1MjVMdTJUMFFzU203OXdBM0pYcmlfOW1tRnBxWjZoZkw3WV9OS0JpQXgwTWd1Q3ZEVFE?oc=5": {
       "title": "Brasil e Coreia do Sul terão parceria em minerais críticos - CanalEnergia",
@@ -4573,7 +4521,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:29.583241",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmgwZ2hoaHhfU2pMNEl4YW5HR3E2SGtxTzVUU0I4dU83YjkyTXlXemtaZUpsR1UxeEFGYTB3VHE2RUNCanNCaWVwWUgtM3FDQW5XcFZrZWctaTZEZjdHRHBTbVNSMFlLYXo5V19xY0hZMHZKUEFLWXAzMGhodWNTMm9BbHMyTjJ1VTFSUlR5NGlYaDRUWS1HMDNQOEtRc2tnZGJUQw?oc=5": {
       "title": "Rio vai discutir tendências no Brasil Futures Forum - CanalEnergia",
@@ -4581,7 +4529,7 @@
       "source": "",
       "added_at": "2026-07-28T15:04:31.193653",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY2lsWnVGY2dWM3dpV3FWX2tqZWFtRzU3QUJJQ1gtbmhSX2tDZW1LZVR2RWdZdFhMaTR3VzA1N2pRSHQyWGxtRnRpUTVJNkRKdU5PV2p3b0V5Z1l1TThxaW45azVkSVpPSHVVaVFUNVl2MlRFM29VcjlGYUNaVlAwdjlsRUNtYkVIN3lGOE1YODJyZjRYU183UUgwMXpDNS16SmlfdjFGWENGNGZ3ekpwdWhsMGlYbWw1dTV2LVZoSXlDVExHbUl5UGN6YmNPYXpXWjBHV2R6cDBfN3l4Z0M2dTdmVmUyU25IV1NVbnd30gH8AUFVX3lxTE1jRVllMmx1SEx0TEFQTUJkaXJDMENyOFBlX2drcVBPNm5zT3FfTlEtLTJtelN2dEVhVzFpaWJmU1pyM3lzYk9LZ21yQ1UzUFNRX1hYdU9KdHJGcnNwSWZYYXRCQkVCOHpYbDMzRmxZX3FtMzhGUUc2LVJPNmFUMVpRc0FST0Y5Z3E5TU5TNTZ2bHZKWWphLWdiZE9IR3c4dFJEOFlzR3JIS00zXy1yZ0dmS0V5SEpOWDJVMkthLWVlTlBJOVp1OHl2ckVKVXR6eFdEVkI2dGpiRkJqd1lhMXJCQUFsakwzZTE2MDV1NkdDQTlHZXRhSGVodWF6dQ?oc=5": {
       "title": "Aneel aponta preocupação sobre regras para custeio de baterias, mas abre discussão sobre editais do leilão - Valor Econômico",
@@ -4589,7 +4537,7 @@
       "source": "",
       "added_at": "2026-07-28T15:05:37.529321",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUE43RjhYcmtGNmFXV0taNFlUeExrNHk2RC1DRkJQQkRITU42MUhqWEF3RlBwQVFnYk15clJkR2xPakFJbUNCbHI4NHZJQzZ0djhzcl92em1la3g3eXgxSFE4Y3ZWYUJyUXlIN3dMYm1wZWZzZTFuelpvbllKMkVHcXc4V3YtZndwN3czeW8xdmlBUkRYRlNYSDh2MXlKeWpQNk1EcUw5Tm5qaC14S0FRSWt4cmx2QmFJVTA3UVNpRDBwaE9LRGpjMjdXdUNUaVE3WE9pcHdwOVh0dWhiemd3SEVDTTNnTTRkeFo4ZE530gH8AUFVX3lxTE03NWhSVElOSVNKcllYTGxLRVkwdmNVQW1RZjl6TUxvYTFKVDE1d014TDFUdEUwME5sTE8xU3BoaG5raS11V19hSlB1VHNPa2xvci1sMDc5eFZIb05LSmFhQlJ2ZXdtRmhyTXlmejhBdExJX3VTTThwUEd5QVNlT3hhVkRPZzdwUU9IcEMwMmR1MGJKZGhfcWowSUVuUlNzR1RlLU9qVmlBdTg1eU5lc0QxYWdfVjhTYkRMQnUxcGU2SXFQNXJMb3lWVnVoOFVkZXR2MFZjYjFHb2w4NXhpU3h1a3M1NlNEVTIydVdaMWt6RnM3X0hRb29lTG5aeA?oc=5": {
       "title": "Reajuste na energia elétrica é principal impacto individual na alta de 0,06% do IPCA-15 de julho - Valor Econômico",
@@ -4597,7 +4545,7 @@
       "source": "",
       "added_at": "2026-07-28T15:05:37.529444",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHNWZkJtWUx2QUI2RzUzamd4WFprWllGRkh5SzlKRmlwMHowOXBQVzZ0V1BBRk1zTjNkS1gwZmw2NnVkcmQzWU1wU3BFdlZoRGpfaGhTOFZjeXJuLXlYTEFmSVM1U2VrUW13MlVMLW8xd3lIUk9OWUUzdGtkclBrM2Nua2tDVFVTWTg0eHF0bWVZNzJKbTF2SVJuTmhiMGI1VGVRWHp5V3g4ZmJKS0FTdzFn?oc=5": {
       "title": "Opinião - Joisa Dutra: Dados são o petróleo do mercado livre de energia - Folha de S.Paulo",
@@ -4605,7 +4553,7 @@
       "source": "",
       "added_at": "2026-07-28T15:06:16.485615",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmlnNFVCMEFNejQ3SGJvaGpoT3VSOVpDNVl5NlVuVUI4TXR5Rm5iZTU4VGhuUHBFUVBsdTZMUlZfMDkxZ0ZWcDBVSmNnMXpWMzV4cUxYRl9zSDkweTExMTUzOUl4TkJnSWw0WWI0aXFxR2IyeEZfWnRoZXZXSWY0eHdrVkF0VGwzY3lEadIBkgFBVV95cUxPOXNhNWVsX3NQaUhoN1VEMFJWckRuc2xqTjhRbE9KU1EzVU92eTk2UVJoMFUtSDNBb0hFN1lVbGZLMFh4UURLVEg1NjBxUGw0VDdfOXVZUVdpaHpIVnNyck1DTWtPWEc2dzBZUWQyaFVtZC1aZkFtRkNwYTY0VndxX3pIX0x5ZlFyZkRMXzhFVGFNZw?oc=5": {
       "title": "Carro elétrico avisa antes de pegar fogo? - Estadão",
@@ -4613,23 +4561,19 @@
       "source": "",
       "added_at": "2026-07-28T15:06:49.310195",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVZvc0VmeGFXNVN1TzE1UVVITmdIRHVXSjVrU2phMUdaclNBS0dib0J1eXhINlFxODdQS0JLY1JoQURoLVVwbFBfd01HOE1DakYwemxiUnNFUHcwajlWeVBFMUFEZThuS2tRcXFjbEdpc3BVdDItcGZaX0hkdXAxY2U0NWU2VG1BdXN0dXdISWZ6UVQzb2QybU5hWjRjSmJU?oc=5": {
       "title": "ANEEL: diretores se desentendem sobre sorteio de processo de baterias - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA O diretor Fernando Mosna sugeriu nesta terça-feira (28) que a ANEEL (Agência Nacional de Energia Elétrica) realize o sorteio antecipado da relatoria do processo que irá regulamentar o encargo que custeará os sistemas de baterias. A proposta gerou desentendimento no colegiado, com o diretor-geral Sandoval Feitosa afirmando que o tema não estava em debate e que…",
+      "summary": "A **ANEEL** discute a regulamentação do custeio de sistemas de baterias, com desentendimento entre os diretores Fernando Mosna e Sandoval Feitosa sobre o sorteio antecipado da relatoria. O diretor Gentil Nogueira concordou com a importância do tema e solicitará autorização para sorteio antecipado.",
       "source": "",
-      "added_at": "2026-07-28T15:07:41.440048",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-28T15:07:41.440048"
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0N3MDVMaUxiZ0N5amdiS2NRNnFCZ2t5MXVWWUhrMGp0X1NYM0xaRGhWZzJwX0dobWJHbWFXM2x4aDBBbEpBT2hvWG5fOXhqNWNUZEljUnJrSmo1OGV4UjNXVFRVZ21iN1J0WEZodzdaWG81bmJSbWZJa3o5cndoWHg0eENqTHBOeUtkbjBieFZSQ0Q4Q2cxMTdINko5UQ?oc=5": {
       "title": "Setor elétrico e data centers vivem descompasso em prazos de obras - Agência iNFRA",
-      "summary": "Marisa Wanzeller, da Agência iNFRA Os investidores apontam o descompasso entre os prazos do setor de energia e a velocidade exigida pela indústria digital como um dos principais entraves ao desenvolvimento dos data centers no Brasil. Obras de reforço na transmissão podem levar de cinco a sete anos para serem concluídas, enquanto um data center fica pronto em cerca de dois a dois anos e meio.",
+      "summary": "Investidores apontam o descompasso entre os prazos do setor elétrico (5-7 anos para reforços na transmissão) e a velocidade da indústria digital (2-2.5 anos para data centers) como entrave ao desenvolvimento destes últimos no Brasil. Luciano Fialho, da **Scala Data Centers**, defende política pública transversal para a infraestrutura digital, enquanto o **ONS** prevê soluções estruturais para eletrointensivos apenas para 2032.",
       "source": "",
-      "added_at": "2026-07-28T15:07:41.440437",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-28T15:07:41.440437"
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnpiOXd0VDh2bFh0dWxuNTE2MEhodlNHSFRLRUh2dkJqRlVoYnJRTzc5U3R6RTk3b0RnUElld2ptakVQdU1uMEpCcWlORWlGNURkWnRHVXY4X3B4c29VcGtWMFRfRU9BNU9Ta3hhMTZEUERoenZLUkhoY0RIQ1lLaVBORGJGRGZEM3ZQVmdMeGdJQUFzeGdhT1ZRbXZiSDF5bXA5c1pHTmozRkpDT0NEbjM5eE85b2hj?oc=5": {
       "title": "Aneel aprova abertura de consulta sobre edital do LRCAP - CanalEnergia",
@@ -4637,7 +4581,7 @@
       "source": "",
       "added_at": "2026-07-28T16:49:24.052151",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXFSeTlHYUxJWFk0YW5UbkpWejR4c0IxbS10ZTRkNUxvYlJ5bmxlY0FwUnoxYTY4bzFUelJYNTVmY3kyYVhNZlIyT3VteC1TYVFsTk5hVl9iWDNidGY5WGpkVWdNVTV4QlRGU3pfQnhwc3hocWdUV25GZzlEZkxkcUZxRXBab0szN2dzMlZDU3AwMmtVRXptS1BsLXlQRnFlMHNpNTdzYw?oc=5": {
       "title": "Comerc certifica UFV Castilho para créditos de carbono - CanalEnergia",
@@ -4645,7 +4589,7 @@
       "source": "",
       "added_at": "2026-07-28T16:49:25.989303",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaG50MkRIdHpoUC1hSHBOUl9OZFhEM3hMVlpZdVlXakt6ejdWc1M3RTBMeEdacmM1ZFJldkxhMmhBeHNYYm9FQmRlVTk3QmljOU1UMzhlQmUtQll4NGloeEZndjRsQm44bGVTUXhha18wREJTM2xFemtObVNBempKSTJrMDN4T2ZIdXZKNWZpSVkwUmE4VUJSb2ZhdUJzblVSYS1ySFpSd2ZmRzlKalZaamxLYzlXaG9qei1nNW55M1NYU3FKU2hIMDF5ZVh6MktYbHNRc2ZSTTRacWFlOXfSAewBQVVfeXFMT1h5WnVuakc0YnhWUEhMNWJpYVp2QW9XQ2VOM2hoa3pmblBmUnhPTzkzb2Jqc1RfMi1nWVVfelJHdjNscW5qNVZYM0NONlluSEY1ellsdzJSUUVYcl82LU1RUjFpcmI3RERoSWl5SmJENUZFQjE2TDhac0NWMnNNaWIxRHBPNnNFZ295d1JxaXI1Z2xkVnpSSXlabF9kX21GZnFGZWIwWDNkSFRWTWFRaDFNMXRXT1UwZG5RU0hpQ2d3R0dVdUtUcy1JS3VIMkdnaXVGcndlWkRENEdPR215dk8tbUh5T1ZPS1NNMmw?oc=5": {
       "title": "Aneel adia novamente decisão sobre regras para definir ordem de cortes na geração de energia - Valor Econômico",
@@ -4653,7 +4597,7 @@
       "source": "",
       "added_at": "2026-07-28T16:50:11.062744",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMDh5T0tiY0drNlRjbGozLV85d3R3U3BTUzl2bG5WbWp1aG5yMy13LXoxMURHZlpqZkE1YUlQTkNNTjVSdlpFaDRRdENxWnBqZS1pekZuREw2ZDVsOV9wa2pSYXBsZU9ySnhPaEdVTnBzekhReTF2dFg3UGw5cVdZTDhJSUY5MzV5bEw3Qm5JdFN6M3FZbXcyMHRtQkh5YmtQQ1pwUGcwcGJnb1laR3RJVEtNNXIwdFdLVXdobTdQWjdobjh4bk8zdDAzdVRPdjVVdXpJX3hhVmZVU3ZqSEJScjA3QjF5Z9IB9AFBVV95cUxOc2duTWk1THhoYWlOWHJnckREdFZENTBQanN3UFJRSTVod3BZcE1xT1l4REFaQmRVeERmTVpJdmw0aTAxd2l2YWFBQ1hCQUlhclBNS0VFdUN6aDFjX3QtQWZ1SXo2bXlFZmlUM3gxMmlRZlRSRzRHbTBEaEkzdG9DcE01T0JQc0tTVWxjOGxvRVJFQS13UDZIUXkzZU5FeXg4b2VOS2hFSWZ3OU9mM2h3VGZhSXJtRWpESWlwdTRTY2lyMnNFYXlEWnRzZ2JFa2RBYjh4NVdWbTVpQ0p5NlVKdW43ZHNNRUtMS0M1cW5PUDNEbEdD?oc=5": {
       "title": "Diretor da Aneel diz que pautará recurso da Enel SP sobre processo de caducidade em 11 de agosto - Valor Econômico",
@@ -4661,7 +4605,7 @@
       "source": "",
       "added_at": "2026-07-28T16:50:11.062856",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQmZKNzB4YkFoOUhBdnAzeW1RaFB5bTNZNHZlcFhOMXNJUHUzREYzeS1HZkFXSDlLNWpMa1d2TjhMMlB6WVhQV1dYRU5HY3lrRlZHSXZoNEd1UXIzUUtxcmtfOE5xVXNIcVVSbHp3eENscDVJWlp3aFN3aWZ6TUhEUWNtcTFVblFtNTdFT3k5Nkt6cVpVbG1xU3RwdnRpa2JVeXNLX1NsTUgyRjRDQlNCMjNkUDJXd29CMHdkSjVxYzV2dTlZaGNVRzdpMUZUandjR21CZ3o1d0t1c0RJa28tZNIB7wFBVV95cUxNZ2lGRm9nT0hKRVBtUVZrN1V3WUtxSEx0RjhBcldheUJiT0hQQ2hBOG5qYXpucmFRYVdEaHZqSERJcVBZT2VVXzl4dXB0czNfSE5BT1FDMXFfZmMyMk55OGc1cEp4MkFwd2dQVTBkMl92aTAyRjdHY3BRVGJtdnR4ZjlLTUloalY2UlFHT3Nud2xPTG1vN1JUSmpwZ29Vb3lRbzV2Zm1Pb19ValVHNVdiR2VQWlFUWk9peXRfNnhWWFA2VzdpeHc2UU8yREk1Q2lMYjNYMmF4c1d4YWplc0xSVjlEdy1GV05LaE5XQjR4TQ?oc=5": {
       "title": "Portaria destrava ressarcimentos a geradores renováveis, mas não esgota passivo do passado - Valor Econômico",
@@ -4669,7 +4613,7 @@
       "source": "",
       "added_at": "2026-07-28T16:50:11.063260",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKQ1dmUHp6b2RUMlBvcGNSc0Nnd0E0bXZGeU1scU1kRXdFRVBXZ2w5aUpDNXZodHlGUnI3Um15V0V4WnBYSEFGVTR1MWQwalVjUmJ6YTYwRWJNeGstSXJtZFFCRUNoSDI0aV9HOHNmcEo0WWg2ZFFzVmRQZHdzR0U?oc=5": {
       "title": "Dados são o petróleo do mercado livre de energia - UOL",
@@ -4677,7 +4621,7 @@
       "source": "",
       "added_at": "2026-07-28T16:50:29.194241",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzFHSHFlMzZ4cVl5dzUxeFpFeUNmTkRqNFZfa0RibmtjOThhTmFDLUJ0LWdETFRlbzZudWRNNGIwVENFTmRlM3lEbmg1WVBrVE1YeXpueEdmQ2VIT0lTREdfeTh6TllBNGNzUHpyS2UxNEJPaXBwbGd1S1BXUUZyaW52ZVpIbUxVRERUOTFhdE92SGE4ME5BdkZEUUJkMjFUbmpZTUc1TXg?oc=5": {
       "title": "Diretor Mosna diz que pautará processo da Enel SP na ANEEL em 11 de agosto - Agência iNFRA",
@@ -4685,13 +4629,35 @@
       "source": "",
       "added_at": "2026-07-28T16:50:47.013916",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGJXLUhScUJQaWMyZzRDS1ZpTndhUGxtdF9sa2Vmc1RqTHFkNXNzTXRwUGUyOHduSUIwSU5MVHBxRXpHQzdKSXFYTHNqT1puNFVEMTA4dS1UOUtGMndwNEZna0JPYkNIM2hGZVJmbjh3OTdkWVlOQi1aUXZRcDNVaThWY2lnekdiLVh2R2dEUlpvZHhXeGRfaXJUNjU?oc=5": {
       "title": "ANEEL abre consultas públicas sobre editais do leilão de baterias - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA A diretoria da ANEEL (Agência Nacional de Energia Elétrica) decidiu nesta terça-feira (28), por unanimidade, abrir consultas públicas sobre os dois editais do leilão de armazenamento de energia em baterias, marcado para ocorrer em dezembro, um focado em produto nacional e outro mais abrangente. O relator, diretor Gentil Nogueira, votou para já fixar nas…",
+      "summary": "A **ANEEL** abriu consultas públicas sobre os editais do leilão de armazenamento de energia em baterias, previsto para dezembro. A diretoria decidiu por unanimidade, com o diretor Gentil Nogueira relatando a proposta de custeio pelos geradores e a possibilidade de sorteio antecipado de relator.",
       "source": "",
-      "added_at": "2026-07-28T16:50:47.014066",
+      "added_at": "2026-07-28T16:50:47.014066"
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWZocDZXYzZkRWl0M0loQjZDODJqR1dsSF92Nm1JOWRmMlU0QVFyMDdObTAyNHNPcjFheVFPRlhUTjZQVEdXMUJiTHBYaTVyY0NKUVBmZU5zTDVwanE2TWlmUDJWUjRGeEYweDJWZWFWU09jXzctNWNNZHJYQTE4VTladGxpUXBkSmxhdlhUekV0Zm1tdmZLb1dMeXFLb01qanY3ZVdaaEJvMElSQjVUbUFFM0p1RTg?oc=5": {
+      "title": "Aneel abre consulta sobre revisão tarifaria da Neoenergia Brasilia - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-28T18:41:20.579758",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXVPdjNYQ2lhTUlRTGRlVDJPMWNyX2ptWTV4QlV2RkJmRUZVRzRYRmh4bldWYmpqYk8yZU45U25DbjNZV2xGNWVEdEw0enhqTURRTGI1dFNUM18tRmE1R1I0SHZRYnFYVzBDM1pUd1gwUXVUZnRpVk1LU1RFMkN0cldzaF9JdExqTHdYM0VhZGM2LUNiRzM3V0Z3Y0RTV1c3emhpNw?oc=5": {
+      "title": "BBCE: fenômeno El Niño afeta negociações em contratos - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-28T18:41:22.311198",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1pGZ0Q2UXN1aHZOOWZjUC0wam0wcnJYRjNqSk04cWY5X2syQldabUVHSmlEN0FrTllWSC1wdWhWTjZlbjdYOWJiaHQtVlVIRXRBeGN2MGdHZktOTHNsQjA3MWwzUFRaRmFjMmNMRWtWZnVHcDZDSVVXSDFIQThOaWJZS1VGbkJQcm15R1pDQUpNSldDM3pJbTV1R0wweHd1MUh4Qy1WWnFEZjNxTXRxTFl30gHAAUFVX3lxTE1Ka3hRczNBNGtVMGpvNWZoN203NFZJOE9peG11SmZ4a200c3dXMVcycnhHckVTWUZGT1lnNU40dUF1S2kyMmFHblRTZGJjNVBCdk81b2wtX1NrOVN4RG5DWktwaDdXNm9taEt1azZLb0x5ZUVJY2syY2ZVbEIzS1A5RThPNmFYT2xtVjFPTGRfLVRlMHhHc05NTUZjYlZnUnpoRjlRejZET1hyenRZUlBIOV9tT08xUC1DLXZhaXpPaw?oc=5": {
+      "title": "Tesla firma acordo para comprar energia de usina solar - Valor Econômico",
+      "summary": "Tesla firma acordo para comprar energia de usina solar A ContourGlobal fornecerá à Tesla cerca de um terawatt-hora de energia por ano da usina no Arizona, aproximadamente 90% de sua produção anual total A Tesla firmou um acordo de longo prazo para comprar eletricidade da ContourGlobal, uma usina solar e de baterias no Arizona apoiada pela KKR, segundo comunicado à imprensa.",
+      "source": "",
+      "added_at": "2026-07-28T18:41:58.599552",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
