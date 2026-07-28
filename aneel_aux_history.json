@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T18:21:23.435940",
+  "last_updated": "2026-07-28T20:22:01.949214",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1488,6 +1488,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bandeira-tarifaria-aneel-divulga-calendario-de-acionamento-para-2026",
       "summary": "A **ANEEL** divulgou o calendário de acionamento das bandeiras tarifárias para **2026**, com as cores sendo anunciadas mensalmente. O sistema visa informar os consumidores sobre os custos de geração de energia, com a **bandeira verde** indicando ausência de custo adicional.",
       "added_at": "2026-07-17T19:22:58.455775"
+    },
+    "noticia_2022_aneel-no-gov-br-saiba-como-navegar-pelo-novo-portal": {
+      "type": "noticia",
+      "title": "ANEEL no gov.br: saiba como navegar pelo novo portal",
+      "date": "15/03/2022",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/aneel-no-gov-br-saiba-como-navegar-pelo-novo-portal",
+      "summary": "A **ANEEL** lançou seu novo portal no **gov.br** em **15/3**, com conteúdo mais objetivo e organizado por temas para facilitar o acesso a informações e serviços para cidadãos e agentes do setor elétrico.",
+      "added_at": "2026-07-28T20:22:01.448955"
     }
   }
 }
