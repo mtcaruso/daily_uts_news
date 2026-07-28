@@ -1,50 +1,6 @@
 {
-  "last_updated": "2026-07-27T22:40:53.732061",
+  "last_updated": "2026-07-28T03:31:54.576960",
   "items": {
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vanFmei1RSHFvelJjVHJWOUVqdEJnTlM2UjFUeGFuVzRCR2g5am9HQzJfa1FsMlZRcmJscUc5SkRFSFJMXzNoVzJLWWpUMGlEdUxwUG92M0d3NHdBNkRjNg?oc=5": {
-      "title": "Tag atraso na operação - MegaWhat",
-      "summary": "Atraso de 586 dias PCH no Rio Grande do Sul recebe multa de R$ 3,8 milhões por atraso A Agência Nacional de Energia Elétrica (Aneel) aplicou multa de R$ 3,8 milhões pelo descumprimento do cronograma de implantação da PCH Rincão São Miguel, no Rio Grande do Sul. A penalidade corresponde ao limite máximo de 5% do investimento declarado para o empreendimento, estimado em R$ 75,6 milhões.",
-      "source": "",
-      "added_at": "2026-07-13T23:33:02.977350",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWtOaUdLa2gtUW53cWJoTnVCcmNNSUpIZ3NTT0k2V1BJOS11YzYwbjUyc3c2QlRZTWZjaENYYkNNOUNzbXlxVWttemx5RzBaRS12bE5VRmtweDhmeXdzOFctMDFkNmVHanpIQzEwQ0xZNWg1SjZ0NDM0cld1RVVsT1lQeHQ3UVdETjY0OFRuRVBETzJ5b09ZeEU5Z1VSYWZVZHBHQXo3Sm1ma2xoOGNxZg?oc=5": {
-      "title": "Aneel deve revogar contratos da Electra com 17 distribuidoras - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-14T03:28:41.378484",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzk4eEZkdUhtcm5XOFRGM0JnY2U0Qk1LYTJrTFJaRjB1M1c1S0NhbGVkRUpsRjRhWDFQNTliNEU4dlJ0SUdYblVYMUNuNXpJcHliRjg4Y05zRU14YTcyUUc1ZC1FX1FKNGxUNTRLYU5ld1FvUFhoYjUtRXhNMklFeDhPSWVWVjlyRjRwWW53TFVKUnVUN1hHbkhScjhKZ2VGWFhHRFpEY1E2T2JkNHFLWEFacEdHMkc3LWhtSmh3d3ZCZjBJdmt5aWZTbGlrNHBfU0d2bjMzZHhGcklzRHJBMmFoUFM?oc=5": {
-      "title": "Sem regras claras, bicicletas elétricas e autopropelidos acirram disputa por espaço nas ciclovias - Folha de S.Paulo",
-      "summary": "Quem pedala em São Paulo sempre precisou disputar espaço com carros, motos, ônibus e com os mais de 470 mil ciclistas que circulam diariamente pela região metropolitana. Nos últimos anos, porém, novos personagens entraram nessa equação: bicicletas elétricas, patinetes, monociclos e outros equipamentos autopropelidos passaram a ocupar ciclovias e ruas, mais velozes e mais pesados do que bicicletas…",
-      "source": "",
-      "added_at": "2026-07-14T03:29:15.918706",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1k2RTJUa0tWa3BFdnZBaXh0WlpyWUNHNGNGaXh6UzhUTVFxZjB4azU5OWIxS0h1Y3N4cGwtS3Frazk4eUVpcnBIaEpEazE1dFotVFhkWlBLWHZTZVBlLUl3QjhPNGpuZW5GMXRqb1kzVTk2MEIxUFY3SkduU05iUWYtMkI5U1Ez?oc=5": {
-      "title": "Cratera se abre durante obra da Sabesp em Osasco e deixa nove desabrigados - Estadão",
-      "summary": "Gerando resumo Uma cratera se abriu em uma obra da Sabesp no bairro Rochdale, em Osasco, na Grande São Paulo, e levou à interdição preventiva de três casas nesta segunda-feira, 13. Segundo a Prefeitura, nove pessoas ficaram desabrigadas.",
-      "source": "",
-      "added_at": "2026-07-14T03:29:15.918920",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oQmNpQlZram1ESXNqakFJanJBTllsc2d0MktNU0xMY2RBblBRenJaOUtsOG82Q0IzdHp5aXl3M1g5UnowRmN1OGc2U2t3U0x0NEdJZ3ZWVzQ4Zw?oc=5": {
-      "title": "Regulação - MegaWhat",
-      "summary": "A **Aneel** instaurou consulta pública por 45 dias para adequar a definição de atraso de unidades geradoras na celebração de CCEARs, postergando o início do suprimento.",
-      "source": "",
-      "added_at": "2026-07-14T03:29:29.116865"
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yZEx0NGZ3RzNmTGtmR0dWcDlkVi1kaGlHQktJVW9KVTVFTHZ2U3hjRXNsRHh4S0o1LTFjOU84Y0JDd2lwR2lKWXUyUnBicF9KWDNNNmFB?oc=5": {
-      "title": "Tag PCH Rincão - MegaWhat",
-      "summary": "A **Aneel** multou a **PCH Rincão São Miguel** em **R$ 3,8 milhões** por atraso de **586 dias** na implantação, o limite máximo de **5%** do investimento declarado de **R$ 75,6 milhões**.",
-      "source": "",
-      "added_at": "2026-07-14T03:29:29.116895"
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXVwTkpaeEJBWVBFNGFsWkU4SW51cm5ZS2pSZmVOMXgyRlQ2QmlRT1k5bWlEVkROVUg4UGQxa2Fhc2xNd1NrWnh0MDJ5MFRWVUhXMDhhYkFvZnQ4MUtqbHZUbUtIc3BpblppQzhiamM5S29fWWt3S0RmTGZaU0gxTTNFT09oal9YanlzbURINm1ocVJPdGw3UzJPWFFCUDk4Y0pDVmVB0gG0AUFVX3lxTE5xWWJfdndQNUtKWGJVRmpkX0UxSmZ2c09OUktRbHhQcjQ1UWRXZGU5TTZUbUFJeFktTUMwdm8yaGpJZ1NXc09vVmJIVnlqLXRfaGpZY0Q5cXM4TUgwcmNab2RwNEtZVFBQLVViZU0zcmdOM3BpT2t3aFltMVVoaUZIYWwteElyMXNJSEdwcjJaelBza1N2WGhuLXMwUE9rcUZTbEFCVGdHZjg2dzhfNmNBNFRXNw?oc=5": {
       "title": "Transição energética e política industrial verde no Brasil - Valor Econômico",
       "summary": "Transição energética e política industrial verde no Brasil É preciso fazer a passagem das vantagens potenciais para as capacidades produtivas efetivas Atualizado A transição energética deixou de ser compreendida somente como uma agenda ambiental, mas passou a ser vista também como uma questão de segurança energética. A convergência desses dois vetores abre disputas econômicas, tecnológicas e…",
@@ -4271,7 +4227,7 @@
       "source": "",
       "added_at": "2026-07-27T13:19:51.377208",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm9MZFVseUVacnpTYy1UNUNiZFYzOEplQWxoWFVPVXVCdEFnUXZqQTNWQW1JRXo5TF9Rdkk0SjdiX1VQRENwZTRaMFpWcnJlNlZ2NklBT0ltM0NycWhFT3A5YV9MX0dLTnBGdElHNXRfc1JsLXduVEM3OWhkdkNEdUNpejVPTXZvU3Fud1NfdHEzVU96VzNMS3JZYjAyWnBzTGJhUVhn?oc=5": {
       "title": "Crescimento, Energia e o desafio da Coerência Sistêmica - CanalEnergia",
@@ -4279,7 +4235,7 @@
       "source": "",
       "added_at": "2026-07-27T13:19:53.083617",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPai1ObTNIRFAydlc0Y1o3VnkyTU9ObFowV29nZl92OGdlWXlBZTQtNzJvcmU5VXVVeXdSOVNOdjZ1c085cW5kVFFjWTg5UHdaUEx1NXotcmJLdkp3OXVvSjkwQmpyakxBZk9OUWtycGRweFBPNmtXZmxMdlJveHBsVUlZZDI1TXNVV2xESXdQMlcyMVF1YUFJU0lZbmg0VFEtcHE3OHRESDJSY1k?oc=5": {
       "title": "Thopen pede proteção para entrar com Recuperação Judicial - CanalEnergia",
@@ -4287,7 +4243,7 @@
       "source": "",
       "added_at": "2026-07-27T13:19:54.766430",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUg0R2ZhYndid2FLVUg1dFNPN0NsRU5HNjhYSXJ4M1FJaFgzdDhzblVfcjI5UmpuczZoZVNQUFk0M0dpXzIwMVVoQjdNNnJUYTJMUnBNSFkxTElnUFltd0VydUFpUHdJQUp6TlAtM0QyUkM3eHFBM1BsT3JFOVNkSS1nX0RpNEgzYjlUUE9wYWl2S2U1VHJPQVVad0hZVkZDbS11N3hvNU5LMUZhWVAtdU15MzV4ckx3NnhuUg?oc=5": {
       "title": "Brasil vai ter de disputar mercado argentino com a China e com os EUA - CanalEnergia",
@@ -4295,7 +4251,7 @@
       "source": "",
       "added_at": "2026-07-27T13:19:56.464838",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmNxMmY2SW5Zd2w0ZHNTNExNUi13VjBHam5TbWlydGZuQnZiOEs0UElJaENySFdzQ3pEV3Rnc0JEZVVBMTNqSml1dmJzYWZoLVM3UmtsOFlsSkx6N0VDMHBFS183Ry03eGNmQWtWVmNtb0g2OGxGRWVKbklFbzl1bEVEMENScm0tWTRDSzcwTVBxTWhMNF9mLWsySQ?oc=5": {
       "title": "Corte de energia é desafio no Brasil, diz EDP - CanalEnergia",
@@ -4303,7 +4259,7 @@
       "source": "",
       "added_at": "2026-07-27T13:19:58.131446",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHZSZVJvczM0OWxjUXd4elF2WjZuSVlwMnhBYktFOWQxTS1mWFNnSjRRY000aERhUzFyd3A1ZEItUDVHNnNzQmZqLTd2QzJjSDdCY21tejdHWkh5b09vTUl4eEF2MkJaUGt3MzhVMzlGSVFoSTZ4cDNRNzZzcnExZ3Z6VFZreDNiUnQxZzFZUEg4VHdTQzc0V2ozWVRNODlfQXRpQWZZMXdnN19rRlFFMGlySGxwWGN4clV2VzJHUGVaY1dYZk9NMA?oc=5": {
       "title": "Ocupação briga por instalação de rede elétrica há mais uma década em São Paulo - CanalEnergia",
@@ -4447,7 +4403,7 @@
       "source": "",
       "added_at": "2026-07-27T16:02:13.332791",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HdjBFQ05qOGNIeGtHeVl4TnhXWEQ3d2g3Z3htVng4eHhIbnJqcmE2Mm9TQlozUkFucVRmUThDY3d4WVByams2c09GOUlVN3czaFNsMjFXbmE5ZU1RNXhv?oc=5": {
       "title": "Tag poço exploratório - MegaWhat",
@@ -4499,7 +4455,7 @@
       "source": "",
       "added_at": "2026-07-27T17:53:57.124482",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZl80elVKOVZlZF9nUGJHdDRjbEVTLVFMLVNBZjd0bTlhaFJRYk9Uc0hHWDlrTjdtUWI2QlUzdnViNjYtTjVITERSVU1YNmk3WXZiOUdKVzNhVURWMzRlQnBscjdRUnJXc1c4b1JRbUI5UlRKcmo0VGU0ZUNxTDJXQzFUYnFSNktDb1YzdjV1b00xSDZsLU42Mk9aaVBTNmZycWRuZklNcjNHcllIQXdaa3U0MU1NdnQxeVYxUDZicVh3OUJnbFE?oc=5": {
       "title": "Armazenamento em baterias deve crescer 42% entre 2025 e 2030, avalia GlobalData - CanalEnergia",
@@ -4507,7 +4463,7 @@
       "source": "",
       "added_at": "2026-07-27T17:53:58.779114",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTBLU3o1NnFfMHltY1R2bERKSExOSkEydXFLSlZ6WkNVOXY2QU90MVYycG52Rmp5OS02eDg4RWx5cFVrS29HbVB0VU5OQzFPdHd4djNNNXM2S3ppd3d0NDhlbERadWZfa2FDSlNod0hrR1JSUFNZVE5LNFROUjUwU2ZSQmIxd3Zwdms2UFNjNzZXQ2E5RWVIck5XdUdOOFVmYWpaN2ZleURCN0Qw?oc=5": {
       "title": "ANP já aceita I-Recs como evidência renovável no RenovaBio - CanalEnergia",
@@ -4515,7 +4471,7 @@
       "source": "",
       "added_at": "2026-07-27T17:54:00.464431",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObmRmcDREaUtDZno5SnZGYmpDQ2FsbmlXSG1DY0RWZXpSQVhoYndEaGhuWlNvSlUwWlhfRlpXejBFdFl1b3dPaVp5ay1weEtzam50WTQxV3BnVVdxTG5IaFJvUmJUem53V2R3aHV5X19IQzM1eU5tcVBERnYtTkJFZ21Ick9URE9yNGVoTUFWX1BWcEU3M3hHRGQ1Ry1yQjlVQmtIdUxPU1ZTQzFlVFB3OURqM0ZRbkJJQjlyU2NpMXlqdjNXYUIxclVkbUpYS21pdHB4VURTdzhHb19uNnZLRVdxcmNSYndfNm5YV0xJd28wQdIB8gFBVV95cUxObmRmcDREaUtDZno5SnZGYmpDQ2FsbmlXSG1DY0RWZXpSQVhoYndEaGhuWlNvSlUwWlhfRlpXejBFdFl1b3dPaVp5ay1weEtzam50WTQxV3BnVVdxTG5IaFJvUmJUem53V2R3aHV5X19IQzM1eU5tcVBERnYtTkJFZ21Ick9URE9yNGVoTUFWX1BWcEU3M3hHRGQ1Ry1yQjlVQmtIdUxPU1ZTQzFlVFB3OURqM0ZRbkJJQjlyU2NpMXlqdjNXYUIxclVkbUpYS21pdHB4VURTdzhHb19uNnZLRVdxcmNSYndfNm5YV0xJd28wQQ?oc=5": {
       "title": "Sabesp e Emae mantêm assembleias para incorporação de ações em meio à ofensiva de acionista - Valor Econômico",
@@ -4531,7 +4487,7 @@
       "source": "",
       "added_at": "2026-07-27T19:50:49.057741",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLS1ySUE0T3BHY01SVGN3SjAxYmNONElfWFFCdXp1N1Y1eDN4ZnVCeWdPYk5pam54UVloMS1VczNWa0xEY1dUUU9BaEYxXzROV2phXzVmWjdxQWI5bjlZRkQ2X0VlSWdRNlgxWTBBY1dBT0htdmZSNnNzMXVCZHZsNnI3UktKY3J2MDVnXzhLWE4tUmJRSjY3MThocXBBVk9waWtya09POURUUkFkT0lwZTVEa1RZNDBD?oc=5": {
       "title": "Associações defendem emendas que retiram “jabutis” do PL da irrigação - CanalEnergia",
@@ -4539,7 +4495,7 @@
       "source": "",
       "added_at": "2026-07-27T19:50:50.895438",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUlrNFpkT3JkNWFRRzZ3MnZHcEtrckxBWmRMbVNxc29TQUFXS1lwZXExNHUyWThLT3daakxuaGY2Uk5FNUFLa1ZaNEdRZTVCUDF1WU5BTTNBdnZ6QVNNTG55LS1uUTZ2dS1vVW9McGYyd3p4dy1OT3puVVJLMU1MZmRSUGZYajNDcFFvblJ4S3RXSVpDQ21Sc21vTmtJX2diT19leUhINURqejdqMVNWcTVPY0NkVWFkaXZOSnpSYndDQm0xMUFjUUYwZ1Y0cXRaLXJnbTBB?oc=5": {
       "title": "Com oposição a data centers em alta, Trump diz que empresas devem pagar mais por energia - Folha de S.Paulo",
@@ -4591,23 +4547,23 @@
       "source": "",
       "added_at": "2026-07-27T21:22:25.333682",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWt1RnplWklEN0pnS1ZDd01pbXVBV0JDZzdhZjc5cU9mN09fT3lxNjJORXNHZEVQZzRFLTZDQjFaY2ctSHhXYktjN0lDRXVpXzNkcTBEMmdya3QtcVZRWVU1OFdBOFdTSTJVRVJLZVM2WDFUY1k0bUtheG9ObG5NOEVER0w4UE1DTkxvaUJjOGxLWGJKcTFqUGxWa0J3cm13bExXTlR5aGpTMkhWQ1J5eTN4Nlg5Ni1aQ2xVeA?oc=5": {
-      "title": "Produtos estruturados são 30% das operações da Armor Energia - CanalEnergia",
+      "title": "Produtos estruturados já representam 30% das operações da Armor Energia - CanalEnergia",
       "summary": null,
       "source": "",
       "added_at": "2026-07-27T21:22:27.019259",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZzhidF9qZnNfN0psWXlfQ0d6NVQwaEY2X3lpODBTb0RfQkYyUl9INXVMVVEySWc2QWZ5bllTcDkyaWFVNU5oMXl5TXFEY0c0RE5kUmlXSHEtN2Jxd3BYWmktWnlVOFVibXlST1RrSjhjQmRuMEFfUENYTmlrZjVRdU5mYzdhbDg2Y2NLZ0gzaFVyNFNicmR4SUhNWHNrc0ozMkItSndxZEFzUU04VXllc1d2VW9ZdGwwRVlBUmNydHZoNzJVdUVMN2U0alRfa0pnSTVmTXA0SUlLR1FmSVp2SUx4a2Z2emc?oc=5": {
-      "title": "Isa Energia (ISAE4): JPMorgan rebaixa ação após reduzir expectativa com disputa da Sefaz - Estadão",
-      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta isa energia isae4 jpmorgan rebaixa acao apos reduzir expectativa com disputa da sefaz Hoje em 5’ Seu resumo narrado do dia 27/07/2026 | Edição das 18h30 00:00 00:00 1x Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA cade conclui analise do negocio warner paramount…",
+      "title": "Ação da Isa Energia (ISAE4) fica sem gatilho de alta e banco rebaixa recomendação - Estadão",
+      "summary": null,
       "source": "",
       "added_at": "2026-07-27T21:23:00.399564",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0Q0UjlqQTctaG9hTWcwRnB2VWlnak1Qc1JESGgzWHRSMmVzU1kwNENSTDh2TUIxd0FXc01XdFVkSTJKdW1SVVR3Mmw0ck4xTU9SbVB5WXJHQTE1eTZqdlNrWFR6Slotdy1uY2EtR21jQURLOFdXN3hDd0dna193dmpYaHY3alV0NnVZbFZEdWtFNldNSU50dVRVQ2g2SWNP0gGmAUFVX3lxTE9xSkVJVUNxVjJLZENlSWpyTlZpelkxVzRlSy1kMTUyTVJzTGlCVTZRaGxvQnF2SGk3aGYyQTRaSWZkaERGd0VIRVBBWEM0N0Q0bTNnUzlpZThxaDBBbWJyNTdkWWFfSmRuTEZmcmRJVHZwZkpRYnVRNVd3N1BxWFk4c3RnTEttU3FJaGpJUEY3TlVvM0FXY1d0eGR4OEtES1Q5Q2xwMkE?oc=5": {
       "title": "Minoritários tentam barrar assembleia que decidirá incorporação das ações da Emae pela Sabesp - Estadão",
@@ -4615,15 +4571,15 @@
       "source": "",
       "added_at": "2026-07-27T21:23:00.399760",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa3dXWUllMG9tOTlwTmhFMFpOdDEzTHp6Z3BxS3I4NUFkN29YeXNvNFJvZ2xtbDhmZzZmVV9PS2RlZzRhQTNmbkZ2S1hrY1lCSklVT3BDd3NFOWhsSFNROTlvX1ZZOHVvU0k0akZ5MGNycVE1SVYwa2ViMXd5cnh0U1pFWVZTbmlEWUE1WXlWOFBsNndEb1RqWVE3aVRQcTRSV3pmQ0dwYkUwZEJqSlh0Z1JkQjhWOEJFRDB0VENDZm50WWRpODBiSjBmUDJvUDY4UHI0Yy1WYUpmRGNi0gHiAUFVX3lxTE1oVkZTNGtfNzFQV1JBWV9icnNqb1ROQVBfcVMwZGtvOUpvTUhnS21IREprNmxWcTdOWm85MXpzS3ZrRjBfcVRiaFRiazhNeEIyLUlMR0s2czhydlBvOVN1Tkh1REgzRDZ0ZHZlcHZaRzBlZmhJV0RnZkxnWUlFUWs4cjQ1a1MtcE5KUnEzblVqYmNTd2dXNk44UEtHMnFLaFdlOExDdXVNTXFEU1BhWW13RlB2LW9WblJoeEtMS3NTOEk3UDFMTEhfMVBLWVhsNU1ieTU1S3ZTajg0cXVYSHpUZkE?oc=5": {
-      "title": "Isa Energia (ISAE4): JPMorgan rebaixa ação após reduzir expectativa com disputa da Sefaz - Estadão",
+      "title": "Ação da Isa Energia (ISAE4) fica sem gatilho de alta e banco rebaixa recomendação - Estadão",
       "summary": "Rui Chammas | CEO da ISA Energia CEO da ISA Energia. Crédito: TV Estadão O JPMorgan rebaixou as ações da Isa Energia de Overweight para Neutra, ajustando o preço-alvo para R$ 26,50 até 2027, devido a uma assimetria de risco menos favorável.",
       "source": "",
       "added_at": "2026-07-27T21:23:00.399937",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS3p4ZHpoVDJYXzEzclpvRVNyWkI5ZzU0NnVEcHFwbzRwcDVEY2M2WlNkR0ZJX1VXYVJnb0FBc2FBUXF0YmN3UjRnQUE3bThZTDBObW5ZVllhYzlBajhCc3pxaHZ1Y281RThVOGVveFFMQnAtT2k0U0F0dnNpTUEzTERMZ1VhdnY0MVU4TEJTSkRzVGl5ZElzc0lrcnliUDE1alhWd000Z2VIZjdPUHFDYVAwdG9pMjN6SnVv?oc=5": {
       "title": "Brasil assina memorando de entendimento de cooperação energética com Coreia do Sul - Estadão",
@@ -4635,11 +4591,9 @@
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVwa3E5MjdxaUdXOEVYRXRJVkpmbzI1SXV0Sm5kNzd0ZzNHVVlTeVEzYzQ3Y0JsRnVlYjN2N0lpWHZvcUNZWU5RTUF6NXd3WnlVQmY2d3A4bURfVm9BaGt0Z1JDeFRxTWtpaG1zX2d1Rlh0eGo3dG9oSVRzOFVzdDZERlRQdjkxNHlTekVlVm5wcTlHdUJj?oc=5": {
       "title": "Brasil e Coreia do Sul firmam acordo de cooperação em energia - Agência iNFRA",
-      "summary": "da Agência iNFRA Brasil e República da Coreia assinaram um memorando de entendimento para ampliar a cooperação bilateral na área de energia. O acordo foi firmado nesta segunda-feira (27), durante cerimônia no Palácio da Alvorada, com a presença dos presidentes Luiz Inácio Lula da Silva e Lee Jae-myung.",
+      "summary": "O Brasil e a República da Coreia firmaram um memorando de entendimento para cooperação em energia, incluindo transição energética e renováveis. O acordo, assinado em 27 de maio, prevê ações conjuntas por cinco anos, com renovação automática, e visa incentivar intercâmbio técnico e desenvolvimento de projetos.",
       "source": "",
-      "added_at": "2026-07-27T21:23:14.219731",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-27T21:23:14.219731"
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDRESVozaWY5Rm95dWdRNElFR1VkcGlTVjlGMDF1RS1CVVA0MmFaY1c1NGhLeEhENTF2eXZHMnZoeEZibkhOeFUta0lkZm9jN1AwSjI3U01idURmTzhTZ2dXem9BRnF4Zl9qMjBTSURGSmRwMGVDd3dEVDhzcXVxQW1abW5qS3hfOWtiWDVkcjJSM3pkLVI5QU15ZnJkT1JHOFJ2UEJsT29mTFBMaVBGZkF1dmZWcHNEczJv?oc=5": {
       "title": "Cosip deve custear, prioritariamente, a Iluminação pública, diz entidade - CanalEnergia",
@@ -4647,7 +4601,7 @@
       "source": "",
       "added_at": "2026-07-27T22:39:41.793406",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ3UzczdwaFJOU2tfTEZSNWhreVBpcTJHU3hkSk41SkMyX1g3LVEzYUZJdE5EaFV3dzlYZGtIS19ybWIyeDJ3ckp6LUdyeDZrMTd5cjNhU0xkVXd6RmtfWlM0QldyQmtTTWtaZGlNRXpIckxYVUtRN0d6YldCNXR5WkJ0NnBhQThPMHJkLU8xcC03enZzUFBvTkdwYlZocW5mam9WSUp0cS1wdy1DUzdJcFhXdENLazZiMVctRF9uc1NGcTJ5YjRzN0xtUnZXeG5uQUZkbVlPdVE?oc=5": {
       "title": "Brasil e República da Coreia assinam acordo para ampliar cooperação em transição energética - CanalEnergia",
@@ -4655,7 +4609,79 @@
       "source": "",
       "added_at": "2026-07-27T22:39:43.478595",
       "error": "no_article",
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3ZlQU90R3daZy1CbUZRWjBZTmRtZHJUdnJiSnFNcXBnbGREOE1GRXZibUdGeDI4bmZ0S1FJdnF2YWhUYTNuMEJyUWF4MHRoZlN0ZVZpY1o5Smk5MVFtUGY3cm9HLVRwYzFtcThQR3k5VjRLMnFoREtWa0tNRndQVXM0NnRuRzBZWlVfemFUUWZoTmFnd1pHbXVtR24wc3hBX09HYTV4VWxpTzVkMGpRV080WVkySVM3SWttWHJQUWJkQW0wV2VNWnk5LU5jR21SQ1JlQ2VJSjczakl2TUIxeVBKQ0E0dTg?oc=5": {
+      "title": "Safra vê saneamento mais resiliente e recomenda compra de Copasa (CSMG3) e Sabesp (SBSP3) - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-28T03:30:37.890624",
+      "error": "no_article",
       "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUY5a21LRDItOVFtRzBhcmJUT0R4cHY0eks1b0ZqOHF6OENFRTFvaFVaTEp0Vi03UF9IUWdsTDFJdnVpcUlaRDhOb0EzUjFKenctQ1lleEM1LV9oLXZtUVBaQ1hFTTFqMHF1bDZjZTI2TzlLcHNvcWZabmZsdmlBLU5uN1d2c1Z6NmhIS1FoeVNwX0VSYVQ1bXdMT0xpN3U0MmtFY3FJWUJnNHktd29FLTJBME5jd9IBxAFBVV95cUxOOHRzbzFIejV1ZlowRVVNTGtpNmdTTmpoV0pGWkloSUNkOFNvVzh1b0QxZ3VpVndqdXRFQldWUUhJM1V4X05DdnVlOHlqSFlWcjI1TW81V2hVcHpCVkJOVFo1aGdVVE9RWTZhR0NobGh3RUx3Rk1OQ09BRXNkYVpod251U1dNRExxWHNySzNXdWVvS2Z1OXBYZDZnLXNmWWRFX1h5UEI1amp5WU5sM0hveU9JYnB3ZVgzS18tM1RLb2lobzNL?oc=5": {
+      "title": "Minoritários da Emae contestam proposta da Sabesp na Justiça - Pipeline",
+      "summary": "Minoritários da Emae contestam proposta da Sabesp na Justiça Quatro ações judiciais, que somam cerca de 15% dos papeis preferenciais, pedem suspensão da assembleia de incorporação e questionam valuation Os termos de incorporação da Emae pela Sabesp foram parar na Justiça. Principal acionista minoritária da companhia, com 10% das ações preferenciais e 6% do capital total, Julia de Alvares Otero…",
+      "source": "",
+      "added_at": "2026-07-28T03:31:25.715668",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDBwZ1Atd1N6dG1jZHdaNU80cFh3bDc5NlVEanhVanJyLWJLbzBGTzdZVVlqeVRoc1hSdXlHZHlndGlxVlc0R3FDMkx3RnpqRFg0SWFPTTh2amt0MmhVY3BicWgwbUg1YWRHQU5KQk1aN0Y1ejIwZ0Y0cWN6M05iZ2RwcHdYdFZLbHlRNDE5cVhxRlVnenhtOFZsQmh2MEZIdFhpeVl0bHZUZ2hkSHhscjN5OU5pc05YVDNxRkFkTktlczhJeVliNF9yVlNrLWM0cWtJVjJleEUwOWtF?oc=5": {
+      "title": "Sabesp e Emae mantêm assembleia para decidir incorporação apesar de disputa com minoritários - Folha de S.Paulo",
+      "summary": "Sabesp e Emae anunciaram nesta segunda-feira (27) que está mantida para a próxima quinta-feira (30) uma assembleia geral extraordinária. Nela, será definida a incorporação completa da Emae (Empresa Metropolitana de Águas e Energia).",
+      "source": "",
+      "added_at": "2026-07-28T03:31:25.715903",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnlqR1AwdUZzTFFUTXFWa2FxdFN0THllTkdOdUFuNS0yRVR5UkVPUjdZSzdnRmdrTXlZaEptZnZJWlpKOEU1VHZEMTNtenQ1a2FiWXlfb0s0cF9NSFRyTVRhb3JnWWVkSFZSM1dUSlJFaDFqcm1RX0xKcjZjVFNMeVQ4RmJ4allmNHQwR1BDeU5pSzZmUVhrQ3puSGZ2WEF4ek0zMjBjQ2lETTVa?oc=5": {
+      "title": "Governo Lula vai à OMC contra tarifaço imposto pelos EUA - Folha de S.Paulo",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) voltou a acionar nesta segunda-feira (27) a OMC (Organização Mundial do Comércio) após a administração Donald Trump confirmar um tarifaço que pode chegar a até 37,5% sobre alguns produtos brasileiros. A decisão de apresentar um pedido de consulta aos Estados Unidos foi comunicada em nota pelo Ministério das Relações Exteriores brasileiro.",
+      "source": "",
+      "added_at": "2026-07-28T03:31:25.716151",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVNRRVZRRi03ZzlwLUJaM1hyT0FyTmEtazJEc3BVX0lyUEVyalozd1R4NmUzenRCTjY0X1JRM3RucFkyTGQ5OVVlTkEtdGpfTW1Bb29xQnR3ZV9RdVVCTlROWnJyT2l5WU9MUGIyQkdrdW5BWkpjVVpWQ3F5Y1RFOGhFaWkwR0JjLWpHckYxTmtSRnJHX2F3dThRSEEwbWJhVVg2NDRaTnoxUkU?oc=5": {
+      "title": "Minoritários tentam barrar assembleia que decidirá incorporação das ações da Emae pela Sabesp - Estadão",
+      "summary": "EconomiaMinoritários tentam barrar assembleia que decidirá incorporação das ações da Emae pela Sabesp Conteúdo Patrocinado CiênciaNasa divulga imagem do campo gravitacional da Terra baseada em 1 bilhão de observações de satélites Conteúdo Patrocinado BrasilO que se sabe sobre a engenheira brasileira encontrada após passar 4 dias desaparecida na França",
+      "source": "",
+      "added_at": "2026-07-28T03:31:25.716177",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS3p4ZHpoVDJYXzEzclpvRVNyWkI5ZzU0NnVEcHFwbzRwcDVEY2M2WlNkR0ZJX1VXYVJnb0FBc2FBUXF0YmN3UjRnQUE3bThZTDBObW5ZVllhYzlBajhCc3pxaHZ1Y281RThVOGVveFFMQnAtT2k0U0F0dnNpTUEzTERMZ1VhdnY0MVU4TEJTSkRzVGl5ZElzc0lrcnliUDE1alhWd000Z2VIZjdPUHFDYVAwdG9pMjN6SnVv0gHAAUFVX3lxTFBWY2VkTU1YRlFYRnZnaEt0RXkyMlVVRm5sX1g0UGtmcWt5ZFZESndDcEpBUEN0dndORmgycnVKa1pIZDRYbHNtcWc3dFhsaDhROHM2dkZwdXRvb00wNENNUV9rZnpBNFRhcGJwN2J3aS0tek9BRU9CbUtGUDkxc2RkYkVjSXFkLWpiQkQ0ejE0U2F6NXBSS3c1ZUdmTGk5MmItdng3TDh6SHVWNzBqcDJ5Vy00VEl2MzZQdlFBSVdhMA?oc=5": {
+      "title": "Brasil assina memorando de entendimento de cooperação energética com Coreia do Sul - Estadão",
+      "summary": "Brasil e Coreia do Sul assinaram um Memorando de Entendimento sobre Cooperação na Área de Energia, visando acelerar a transição energética. O acordo, com duração inicial de cinco anos, inclui iniciativas em energias renováveis e eficiência energética.",
+      "source": "",
+      "added_at": "2026-07-28T03:31:47.835184",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFBBS09PZ3NYNExzVUVWUmZLMVZocWJWV09jNjQ3QkhXdjhtNFlPX2FnOWVUdTIzMnQ2d3RKUnVrT1Rod2FBS2ZCY0d2ckx2RGFNb0haT012N2ZrR3JOM3ZHbHpEN0NocmNNaEgtS1l5UE9tRHlTaU1OTlh5NGYzOVlYT1FUQVBoSGE2QVpzSE1Scng4TFJMVWN6SHNxOTE2WU9nUUdvVm9vdzZ0MU8zQjNhUXYwMmpYRm5lRndtQlFTVFZrT3lzdmZXdXF0Q2d4TDlCc2lLdlMya3Zp0gHiAUFVX3lxTE9IMVhFR3Yyd0VFNXZ2N09iX0xWakVVS0g5UG1sb2lodjdwZzBUQ1ZlWVN2R081X0JJY3J5UFdWYnI1dEtXVVlQVlZxeWNzQkszM0lSYU5LcE50blVsU3E1NDdjMG40SExvcjFxR3RGcEtocWJiWEVudDhkZko5QzhQMWRGeDF1SzVYY1lUTllCRUFDN0dwMGJpUTJSVnh4OFd5c1J0TjViWHNSazE0ZFJmbjdHSFJkYWVNQWFjblFyQXcwXzVGZTdjdm9JdWU1T3Z0YnU2STFiLUhScGRCS2N2UHc?oc=5": {
+      "title": "Safra vê saneamento mais resiliente e recomenda compra de Copasa (CSMG3) e Sabesp (SBSP3) - Estadão",
+      "summary": "O Banco Safra elevou a recomendação de compra para Copasa e Sabesp, destacando o setor de saneamento como resiliente em tempos de incerteza econômica. O Safra aumentou os preços-alvo das ações, prevendo valorização de 23% para Copasa e 16% para Sabesp.",
+      "source": "",
+      "added_at": "2026-07-28T03:31:47.835355",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWnVtcEpBempCaHl2ZE9LTmlIR3l4TDdMUFp0M2piVElfVjlJcE5VRkJNWFdJRjBLbzlTUkRNeDFJa3VmS1k1cjRpRTRaaXdDcW1reDFBbjRoQmJ4ZGl2WG5BbGlBeC05dUwxUEM5XzR5NTI2M0hEWUlCUkVPajM1YkZoUExtdjRwblJnSUJSY1FqaGNwR3pkWF93QThFeWFsVWhHYmc5dm96Uzc5bHUtMURockZZS3B5OVhQQ0pQV1BTR1N1NTZzekVDRzBYdmpQc3k1VFFBS19SaU13S0hNNG54My1TZ9IB6wFBVV95cUxOdXFiX0RwY25oR0JwdnFVSkppYlkxRXJVWGNySVhNbmJWWXo5c1lTMlp4UTdKNnR6ZThsbGZEWmd5bzlMeFBkMGV3NWtYLXJEWjd6ZlFfR2pYSUJIQjhRdEpsVDNaV21aT2pITXdwelFHYldBeThmc3V4bzBEYjhiWTQwcm9Ed3VvWmpoQ05TZXpRZlgzTmpDdnF4b0JwOUhQcDhMRUtJdjE3MUpJUUJZTlRvMk1WZE9DQXVFaEw1Um5SNWN5RU01M1BkM0gwY3d4TXJKbnpXMkJ1ZHVndnlZYndKQlJlcWQtenlN?oc=5": {
+      "title": "WEG (WEGE3) fornecerá equipamentos para expansão de usina da Engie (EGIE3) em projeto de R$ 1,2 bi - Estadão",
+      "summary": "Gerando resumo A WEG (WEGE3) foi contratada pela Engie Brasil Energia (EGIE3) para fornecer duas unidades geradoras que serão utilizadas na expansão da Usina Hidrelétrica Jaguara, localizada no Rio Grande, na divisa entre Minas Gerais e São Paulo. O projeto prevê investimento total de R$ 1,2 bilhão e acrescentará 232 megawatts (MW) de capacidade instalada à usina, por meio da instalação de duas…",
+      "source": "",
+      "added_at": "2026-07-28T03:31:47.835465",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm85aE4ycGpHckFUdG9aTU9lWUtUdHZLX25VTEtEZmNMY2R2T1FmYVFOaTFkS0JyMlcyWThoOTVKVFZYTkwyaHNoUmhLT2J1ZkRfZFBhQzB1YW5wUTg0cGRPRHlnMEl2RG1sSlpGR21MUHp0RnRLZTN0a3E2VW1vN2h4eGxvVEx1SzZELWtidl9WelpzcFFnSzBGanhjYUJoRHc?oc=5": {
+      "title": "Justiça do DF determina ações da Neoenergia para reduzir interrupções - Agência iNFRA",
+      "summary": "Geraldo Campos Jr. e Gabriel Vasconcelos, da Agência iNFRA A Justiça do Distrito Federal atendeu parcialmente os pedidos do MPDFT (Ministério Público do Distrito Federal e Territórios) e determinou, em decisão liminar, um pacote de ajustes e ações de melhorias na qualidade do serviço da Neoenergia para reduzir as interrupções em Brasília.",
+      "source": "",
+      "added_at": "2026-07-28T03:31:47.835600",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
