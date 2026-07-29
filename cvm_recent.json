@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-29T17:05:53.587919-03:00",
+  "last_updated": "2026-07-29T18:10:43.118553-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado - Energização do Reforço de ATE -",
+      "data_referencia": "20260729 29/07/2026",
+      "data_entrega": "20260729 29/07/2026 18:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado - Energização do Reforço de ATE",
+      "protocolo": "1549417",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549417",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-07-29T21:10:34.009221"
+    },
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Adiamento da AGE EMAE -",
+      "data_referencia": "20260729 29/07/2026",
+      "data_entrega": "20260729 29/07/2026 17:44",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Adiamento da AGE EMAE",
+      "protocolo": "1549318",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549318",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-29T21:10:41.064499"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
