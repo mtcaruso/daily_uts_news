@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-29T14:55:14.792758-03:00",
+  "last_updated": "2026-07-29T15:48:57.999472-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Mapa Sintético de Votação ConsolidadoMapa Sintético Consolidado",
+      "data_referencia": "20260731 31/07/2026 09:00",
+      "data_entrega": "20260729 29/07/2026 15:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mapa Sintético de Votação Consolidado",
+      "protocolo": "1549216",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549216",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-07-29T18:48:47.734595"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
