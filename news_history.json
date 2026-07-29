@@ -1,46 +1,6 @@
 {
-  "last_updated": "2026-07-29T17:57:09.887262",
+  "last_updated": "2026-07-29T19:40:33.698060",
   "items": {
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHVCcXQ5eHdNWGQ3U2pwMGNDNlNIUEtIY2xMcktsVUZKVmw2RHB0NFVKc2hQR1RQUV9wdU9ubm9BN3I1SURUdWhtazFlaGJma2UwaF9BSHZ1YjFWU2tFbHBhR3pHSXIzSEVXdmpnQnZURnY5Nm5kMGhRM1pwbHUwcTFLQnFtaVJKNGczTUI1OWZUd0l5LVYwbnFHWEViUEFzRkVZb20waDVadw?oc=5": {
-      "title": "Região SE/CO baixou 0,1 p.p e opera com 64,4% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-15T18:45:10.408057",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQa2NiZDNqb1A1emNxRUQ3bjRBZjVuMTBWelRlVUNIQ1RlRDB6dmRBN2RMMGZ3dno3Qm1KREhNZW02SWxRTDdmZm1WTklRUHZ1RUdKdUcxYVJZV0dJc2k1WVJHSE8tZVhLelRJZ2lNMVBXQlkwM2kyYjg5NnpkcnRQZ1lWUGczeTMzemgtR2ZDRG9iRFN3MWJsOFdjUVNadnR1aWNDcE14OG12VFJGNUdtRmVsbXJvT3cxZkNtelNOZGxaU3hDZzNGQXlGWmY3ZEY1bjV6Zm9EUnFfXzd0aVVVbFotTU04dU5TN2dTY0wzTVpFVVdUWlprVmFaVXh5TzDSAY4CQVVfeXFMT3BRMmRoaXloVDlTaHRscnU2c2x1VTBlNUs4MzBkQWdXU0JvQ2NibGhadTkxWW1ubGRoTG5tV3VtZGY0T0tlS0laMjcwbTdQMk5Bb3k1V09DSVgzMm5wc2kzdDZOejNHeUg5d0lWYXZNdFRYRHZaelpCdWh4R3NKZjdMVFBfM1dac0pMRTQ5LXhMcWpQY0F0b3RKUW9JMEtzTHRHZDUyOTZEUVFsYk5IVEZLQ0o1T2xCVEhiS2I2ZWkta0k0TjgwZWxtb21yV25HdFM3ZW9oUVN0dkRpVlJmbDZvNVJYV3Rna2dRWHdQUnkxVTktYVRSM0xXbnJxMFI4RW9mU2x0dV9mT2dHbDV3?oc=5": {
-      "title": "Fazenda vê impacto limitado de novas tarifas dos EUA, mas alerta para risco inflacionário do conflito no Oriente Médio - Valor Econômico",
-      "summary": "Fazenda vê impacto limitado de novas tarifas dos EUA, mas alerta para risco inflacionário do conflito no Oriente Médio No cenário de riscos, Secretaria de Política Econômica também considera a possibilidade de um 'super El Niño', que pode provocar eventos climáticos extremos e pressionar os preços de alimentos e energia A Secretaria de Política Econômica (SPE) do Ministério da Fazenda afirmou que…",
-      "source": "",
-      "added_at": "2026-07-15T18:46:19.273022",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUFfZGl4OWRsTk95b3ZqWkVRbkJnYkF1N0FHQ1FqR2lQLVpEWTBrc0NHWHVkVHBOY0QweG0yZklacHhKeURIbktkT2VuTTMzWXE2UE9PWHhoMHN1YVNCSGlPb0Q1elR3VTI1Y1NpRkZOWXI0WHllQlo2YUY2VG15aVo2dFhRMzV1bWMzMXotUV9qQlJ6QUNXQWJVbjZzU2ZnVWp4NExQZ01QY0NXa0xWdGJlaGkzbS1wajFnZ2NGTExGdWNBQ0phZGp3?oc=5": {
-      "title": "Falta de energia elétrica atinge centro de SP na madrugada de quarta - 15/07/2026 - São Paulo - UOL",
-      "summary": "São Paulo Falta de energia elétrica atinge centro de SP na madrugada de quarta Falta de energia começou por volta das 3h da manhã e afetou diversos bairros centrais Ícone fechar Copiar link Copiar link 15.jul.2026 às 14h53 Falta de energia elétrica atinge centro de SP na madrugada de quarta Ícone Mosaico Ícone seta para esquerda Ícone seta para direita Ícone de compartilhamento Leia Mais Ícone…",
-      "source": "",
-      "added_at": "2026-07-15T18:46:19.273204",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmtnOWxIYWxfT29ROVFYZjFnMmNFbVJRdG85UU5ta0o3TmcxSmdDN3E0bkRfTjVOaHBiOU1vTlB5aEg5X1RFZFZRajViRHQ0Zk9SMDBmNzFwT3pWUnBSVDZyY2czNjllRDBEamFkZzR0ODN6cngxcGNyenlsWDA4NzYySk9hUDRmQUROQWpVVmVibk92NjREaWRLTzFVTjUzVVJ1TjZld1RKcDl1QXNCYVVKbUdYU0hLYUs3OW04Tk11NUZZNzdCVmx5ckhyRE9z0gHWAUFVX3lxTE5yeXN3M1dDYXRNQnExcHR2YkRQTkYxRkIzUUl1QTRwNksyYkFWN0EyT1k4TnBSZ1ppczlZMXhmWHpKcDNEZVliZHlBWHR5MElDVEsyYlc0UElWVmxub0N3QTVVSVFSLU5TZUtvU2FSZlhyQlZkNTFtNnFDSTRrSm9FN0tzaGFHYXJZd1l1NExSQXdETjVFN0IxS2lJVllhN3YxMUtYdTNYRWJyME93bTFIUTVLcGZYZWViaFN3RE95czB0ZzB4cVZvMV9KQlU4REZBNnBZblE?oc=5": {
-      "title": "Nike lança coleção para a SP City Marathon 2026 inspirada na energia urbana de São Paulo - Estadão",
-      "summary": "Por Priscila Martins Ortiz - A relação entre corrida de rua e cidade nunca foi tão literal quanto na coleção que a Nike desenvolveu para a SP City Marathon 2026, marcada para 26 de julho. Com percursos de 21,1 km e 42,2 km, a prova atravessa São Paulo e serve de base não só para o trajeto dos corredores, mas também para o desenho das peças.",
-      "source": "",
-      "added_at": "2026-07-15T18:46:53.836583",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGRFMXBVMlRfWEctZ21wbFh1ODg2RzFWb1ZtMVJOYnhBUzFzZkpTWDJNdFBVR01kRTJsN2pFUlpNVnJBS0h5NmZIMnZhd3JkdlNtcmZ1WnhORHV1dnVSTzVzLTYtZ3dSS2hVSFNJWE9SZjYzcERGcGtYS1N0b3BjNWo1c19BODRxa2dBZmhIMTFaUEt2Yld5LVN5ZFpGWTR4akZOdlB2M3NxU0F3c0ZnMnVB?oc=5": {
-      "title": "Transmissoras recolhem R$ 106 milhões em encargos da CDE de maio - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) fixou em R$ 106 milhões os valores das cotas referentes ao encargo da Conta de Desenvolvimento Energético (CDE) para o mês de maio de 2026. O montante é relativo às transmissoras que atendam consumidor livre e/ou autoprodutor com unidade de consumo conectada às instalações da Rede Básica do Sistema Interligado Nacional.",
-      "source": "",
-      "added_at": "2026-07-15T18:46:53.836793",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQjBpUFlTSHhRVFBoUTk0eEdEbHd2SkQ1Nl9ZU0pqMFBDOFBnUXktYk5aNGNvcnhLclE4ZHJWUHNiYW1pX0hJMGxYT1BvYXFsTExCNjdVVmt3aEMwdWZJbEJDSV9pZkRINnB0S3Vxb0c5RHRQTTBhcFRuYnZxWTF4RTd1WV92SWp2WHhxVWJUdVIwUQ?oc=5": {
       "title": "CCEE: MCP de maio liquida R$ 2,63 bilhões - CanalEnergia",
       "summary": null,
@@ -4323,7 +4283,7 @@
       "source": "",
       "added_at": "2026-07-29T14:57:19.012334",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalZRUGJjQVZSQk9JTjZMVEM1OHFLMGJ1UXIxRXBaMEJxbm1uc0g4RHVFU1RnS2dSbklwdjdNZnRaS00yUjluMl93QXNyNU5hc0dHdktTeFZSaWJscXVSNHRJRXVqYzktMnpoSUNKUXdjVmsydWtWQmpFaFBMZVR3SzU0MmJHQ3plZ2ZvVVpEZnBIMXNKN3liOExPWlZTZXlZamNmcjc1bzg5SVJJMVY1N1VCSmJaLXpVU1ZGaXctQmFfZ0RkNHY3SEpyZGZiX1MzZDRxcS1Gaw?oc=5": {
       "title": "Mercado livre de energia viabiliza descarbonização do CT do Time Brasil - CanalEnergia",
@@ -4331,7 +4291,7 @@
       "source": "",
       "added_at": "2026-07-29T14:57:20.966571",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0xsMkJkMjhCUDUzZW1rLU9ZZUJZdUYwZnBTR1duYzVOUUVjZHdCZmFKcXdlWGVfM1ktV2JEcHUxWm1XWTdCRzItNzZEWVh2QnVHSk41bUZjLW5OdU1icVNHeDd4SlQzZE9YaFR5dnJxQzlnYy1ibG12cEtQTFBRcEdXYXVac0NZSHJRbE1mQnEwbHdDRjNlaGVBSHZVNGF4LXdWbWlKei1ieGdBd1duMDJxVno1cHZzWEk2aWdTWTU?oc=5": {
       "title": "Congresso continua a contribuir para transformar setor elétrico num caos - CanalEnergia",
@@ -4339,7 +4299,7 @@
       "source": "",
       "added_at": "2026-07-29T14:57:22.897801",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWRUUGdqU0lmR2hwc0h6YjdQaERmZXg3b0xfLTQ2QWlnR1NERXh6VzY4WjRVVzZ5LTFVMWFmeXEwQ0QyMnBXMmRtZVU5RVlMZEl1UUdQc1JNWVVZaEo0cVZwckQxbVY5dW5sVmVGaUNtT3pWd2R2UzJPNU5ISUZ3c0xISWdndjY5V2wwOWZVTUpJakt0RDNuT1hPSQ?oc=5": {
       "title": "Recurso da Enel SP pode ser votado no dia 11 - CanalEnergia",
@@ -4347,7 +4307,7 @@
       "source": "",
       "added_at": "2026-07-29T14:57:24.812795",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMy10dlhxX2hJYmtpMmRiRGhwZm9PTTFNTDdyRHlEQkZxdF9oRE1KOWRjRVd3ZWNIUFNpR2hOUlFEeDNaemRnRXlERXd6RkhxdTZXXzJBVzUzWVkxTzRVam82dTVMc1oycTUwM0RzWV9RT3M1RWlnRUJDMWRwU1NwZFBKdkstT0lCSE4wX2ZRRTN4ZW1FRjh6US1TY1Q2QnlBSDdQS0RGVXpHaUxoODI1TzF3RQ?oc=5": {
       "title": "El Niño: ONS coloca térmicas de prontidão para garantir demanda - CanalEnergia",
@@ -4411,7 +4371,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:31.040828",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxONUVDMzhyVXF3LVIwRzA3U2FhckpuMDV5T3hoVWtOOU9UQ3h4bWNqSm5oc0FSc0xuYWlaZnB3MWltanVNN1kyaEV2UWpMbklmT3BHd0h5eDdGQk05UWdJeWtEUWxya2FxS2FjTXZnWndIVzkwZjRWSFFRN3N0cFpWaTFtS2JtVmhtSTVEcHNUZzY4WlpEWlBUb1JZTmhiM0psbWxMYTBPR3ZmNlEtNkxmSVAybzVSaWRDbHFOZUtR?oc=5": {
       "title": "Petrobras registra queda nas vendas de gás em meio a desafios de oferta - CanalEnergia",
@@ -4419,7 +4379,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:32.866947",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFhBdTdRYUlhRWdGZm50X0NFMERnaHZ4ektkY2xRaGs0aGF0RXNvOW16OHJaN3VPZTcxMFVrejRZZGxlRzFXdDJBSjI5RUdPcENNVjQ5UEhmY2huZ0hsRFFuM2plcC1ZanpUZnFFUHhheDczZnllQlJnUVBubm1RYTE2b0lQVFphc0UtYnVFdk1hdjdmc3ZNMQ?oc=5": {
       "title": "Os gargalos brasileiros da descarbonização - CanalEnergia",
@@ -4427,7 +4387,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:34.697992",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkI0S2JwbGFWM1lVeDBOdjVjSzdlSTA3UTUwMmpSd2JGa09qV1hmSGI1NHRmbVFVNXJtQjhYVEY4dXktSUEyS1VxRTUxcExsQ0tiNERaSlk4YTkwZV9QUzJ6eFpSb0ZMRENUQUZ3SHN3LTloMmpOVG9FdW9EMzZ2WnZMeVJpNlBKSW0tZEFuNHRGd0pCek0xTnFLMjlNN1c5OVBDajVvOHlCcnNOeF9DeUo3OA?oc=5": {
       "title": "Proposta de edital do leilão de baterias tem regras mais duras - CanalEnergia",
@@ -4435,7 +4395,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:36.531523",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd093MTNSWENOT0p2T19PY2Q0TFI3UnpTcjVMWGxSSTdqaDRfYTdybEo4ZWt2bVQ2N1c5MEJDOU9kTkU2eGk0aC1send4QWRKYWt1X3A2SEhEUVVtck1JalFnSnBpdkRwbFgyeDhwVURXYktMdnhqZmNNTHNyUk5TRU9XWTdQTUtXb3RTc2dpZEpFbVAtaWtxeDdzXzNiMFNBQ3h5N0szVHdaOTNlQVBwV0RvYw?oc=5": {
       "title": "Com ‘forno e geladeira’, Wey 07 esbanja conforto para 6 ocupantes - CanalEnergia",
@@ -4443,7 +4403,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:38.319609",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzJRVFh0NTdubl9aOGEySHpqSmNSTEh6ZnpLeE1WLTNRcWdkMXRTS3c3NVZtMTBoM2FUYUk2UkN6aHdvWWFFT296aEc0Xy1WcG05eUE1ekFNRklSSUVQc2h4YXQ4a1Bzc3I2cUxsY2pIenNvVmc4R0d1dF9VdEJoRE9WclVRZXlvdjg1ZnlYNGEyYU9xMnYySkdRLW9YdFMteGo5MnZOM1VWVm1RQml4SWg0T3pWR0VEc1Jma2ZINXd6Si1tX2c?oc=5": {
       "title": "MP pede bloqueio de R$ 1 bi e anulação de contrato de iluminação de São Paulo - CanalEnergia",
@@ -4451,7 +4411,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:40.180607",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPampTQjk1UjY3STlrOGtSZUlYVkRWMnFsdWRDUENaa192ODhiam40M3VoemFIalBlUzhfV0l3V0xpMGt4NnVOVmtLS0ZGWXJpT2ZOMkU0a2pPRndGRlNhWVhZbE5SMGJsWEMxMU11UWJibFd6WnpzRk9xUVBhbVlwS2J5MGtmQUxScDJUZGM5bFZDUW1JaGV0V0I5TDdjREtrUnMw?oc=5": {
       "title": "Furto de elétricos e híbridos sobe quase 130% em SP - CanalEnergia",
@@ -4459,7 +4419,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:42.023765",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUhNQUZfWjk0alNNbHAzSHlWNmkzb0pEU1I4TXo1bVZFNXNLUWRVTlJhemR0ZU53N3VwNmxZaE1vbXBIWE5aRlNEenVtREhscnJmMmdZakR3cWNvOXRpendUNERyMWRseDc4OC01VlBfdUExQWpVT3pIVURvMVFKVXRQN05tZzhYQWc?oc=5": {
       "title": "Ataque ao consumidor de energia - CanalEnergia",
@@ -4467,7 +4427,7 @@
       "source": "",
       "added_at": "2026-07-29T16:38:43.785231",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQThPWDJIY0JWNFBVUXV4V0FISkNRN1BNMDNYWTJuZGkybmxXdUFMVTVLRk54X0tLakgxcnFwZWswVzZZalZTTkxSZmVmc3dCdUZOem4xajVfU2tOdHlEcWM3SXZMdTlySFBrSy01QURKWF9mRFZGRjBFN3R4REFpTGctZUNiVVg1M0xGU2tIN1lpSU5oSk8wQ3EwM0lMaVdCX0E4REhXZW82OFRVai1QRnhiSmFmZFVCODEtQy1LcVNGZ9IB0AFBVV95cUxOZ2ZLQkZJcGlwWjg0TTlEM3NydVN0TUk2dmVtdUZudWNPYjJkamRNTDRTeEd3ZzJhVjBubzBxa2RTY19BRF9nRjVOUVRKTXZLMFozTktRWkVOZDRqS2dfRWI3MUVMWWlWQmZmRHJiMVQ2U0dtelI0bFlDZjRQU2NxSkxyYmRiZXRuS09mSU91QTVETFVOOU9VbkVpQUd5ajQyQjU5U1lGQTJ2NGhfcHhraTVrLVp4VlQ3ZVVfVm5BTDBmd205Q0FEOXFZZlZuYWVG?oc=5": {
       "title": "Economia impulsiona armazenamento de energia em baterias - Valor Econômico",
@@ -4483,15 +4443,13 @@
       "source": "",
       "added_at": "2026-07-29T16:39:38.363929",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnFVaGJLZHJQSHNFX2VubzdNTHdpbTFkWjVPVmZGeUIxaHpTMVRveGNUcDBQLVZtUGVrN0I2cl9pUkFpSnpoZkY3RkJVb0c1YUx0d3FTVi1QUU45UU5HZF9Nb2p0TDVBMDJTalROek11a1EydDAxN3J0VDM3bFh1TjhjVzU0aElnemVBM242N0c4bkNteno4b01CVUM1ZmVSUVFZSVh3dDJBbmFsd0MzNEhlVEpqTHJxenhtbVpwVjJQUG9SeFdodkkzbl9wWUhlS1Q1Nw?oc=5": {
       "title": "CVM adia assembleia da Emae e exige informações adicionais sobre incorporação pela Sabesp - Estadão",
-      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta cvm adia assembleia da emae e exige informacoes adicionais sobre incorporacao pela sabesp npr Hoje em 5’ Seu resumo narrado do dia 29/07/2026 | Edição das 13h 00:00 00:00 1x Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA Política Carlos Pereira Conteúdo…",
+      "summary": "A **CVM** adiou por 30 dias a assembleia da **Emae** sobre a incorporação pela **Sabesp**, exigindo mais informações. Acionistas minoritários questionaram a relação de troca de ações, considerada injusta, e a falta de transparência econômica na operação que envolveu a compra do controle da Emae pela Sabesp por **R$ 1,13 bilhão** em outubro de 2025.",
       "source": "",
-      "added_at": "2026-07-29T16:40:20.943795",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-29T16:40:20.943795"
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT3htUW5WNmlVVFdaUWMtcHpQQzBzUTg5M2MtdGQwbXpKbDlLZklocW95a2htc0tJNFczZjJqcU9jWEtacndXb3hrc1d3THVlaHhBdG5WTkpFOGhxRl9rNjQyVEludVZfbUZHalJmeWZGcldqbmRDWGZhcEc1RnNkcEJGbnBTT014VzNhUE9WVDRVMm8waWxSR3NJdjN4bHhBMVNNV19iT1p0NnZkNnUtTnFnUWRhMmd3N3Q2ZzdvUzZYZG5EUFVVckxB0gHPAUFVX3lxTE1UeWdRd0JZVDRHbU8wSDBMLWZXV08wWW5kVkxzVnNUaWFoWkRFWnBzcVc4cWNGUmlxR2hXWXg5TDU5TWJ2YXJHa2Q1aVBkaEh2WGdpcTJYRVhpZTRuTFJMT0pHaE5wbng4R0g5V2ZWWXg5M3o1dEI4VzFpa0h3MFdJTjZ2S3NNMVlIU2NPRXBGdEx5TGdJS1oxY2VLQWhfcHpUalhBRTMxVUI5YTNDYUhRYXVFVlZIT2lIb0FWc01saVJLRHZSOWMyc2t3bk9wNA?oc=5": {
       "title": "CVM adia assembleia da Emae e exige informações adicionais sobre incorporação pela Sabesp - Estadão",
@@ -4499,7 +4457,7 @@
       "source": "",
       "added_at": "2026-07-29T16:40:20.943932",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQThPWDJIY0JWNFBVUXV4V0FISkNRN1BNMDNYWTJuZGkybmxXdUFMVTVLRk54X0tLakgxcnFwZWswVzZZalZTTkxSZmVmc3dCdUZOem4xajVfU2tOdHlEcWM3SXZMdTlySFBrSy01QURKWF9mRFZGRjBFN3R4REFpTGctZUNiVVg1M0xGU2tIN1lpSU5oSk8wQ3EwM0lMaVdCX0E4REhXZW82OFRVai1QRnhiSmFmZFVCODEtQy1LcVNGZw?oc=5": {
       "title": "Economia impulsiona armazenamento de energia em baterias - valor.globo.com",
@@ -4507,7 +4465,7 @@
       "source": "",
       "added_at": "2026-07-29T17:56:46.528282",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmNiRDdwX0o0YUpHZ2hJOXIzT25kZzZTWWNhbUQzTEo1TmlBLTNlenNnMTZISDE3bi1rVkYxZDM5U0w0TjRWV3c5X0xCVmhNNENacUYyOUY4NjNFeHdia1VlS3E4T29YcXRuSlRKbHBtaUdzbmRPeXlSRmczR3FOSUFOUi1tOVZvODlzX2tVOE5la2JmT3Bxa0o2SXVuMTMxT3N2S0lkeEJnNUxfcnR2T2hSc25VZGZvY0YxcWZGN0FZTjjSAcMBQVVfeXFMTUZjYkQ3cF9KNGFKR2doSTlyM09uZGc2U1ljYW1EM0xKNU5pQS0zZXpzZzE2SEgxN24ta1ZGMWQzOVNMNE40Vld3OV9MQlZoTTRDWnFGMjlGODYzRXh3YmtVZUtxOE9vWHF0bkpUSmxwbWlHc25kT3l5UkZnM0dxTklBTlItbTlWbzg5c19rVThOZWtiZk9wcWtKNkl1bjEzMU9zdktJZHhCZzVMX3J0dk9oUnNuVWRmb2NGMXFmRjdBWU44?oc=5": {
       "title": "CVM suspende assembleia de incorporação da Emae pela Sabesp - Pipeline",
@@ -4515,7 +4473,53 @@
       "source": "",
       "added_at": "2026-07-29T17:57:02.445731",
       "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFwTEpSb01vOUE1TEpEZy1jQ3JnM3NxYjlLOW9WWDFVdklyQTR1VW9lNEZfVTFHX2NXTTdKenpPcjZUWEFVZ1RBRXdrSGQ3OW83RlpSRFBLWkpiTURpUkFBX09ablJnU3JYZmlaTW8xRU53ZGhaV3NEcGF4SGxKVUM3UmdpTjhpanlHT0stelVCQkM5Qmh3UFlQSkZTVWYyenRESWV3ZV9VRzBZeWxHeTF6WnBLUQ?oc=5": {
+      "title": "Copel se prepara para enfrentar El Niño com plano de contingência - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-29T19:39:44.122782",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTFqSWJyTDhMcUdISmJYSElxXzAyMkpMcWRpUFNSc0p0aDdmNm00RGp1Qlhvb2hlLThtMVJfd2U0V25YYi04clJmRTJRLTlkOHdQLVQzWmR6d080WUdEY2tpSVJXU1cwaHpMbXpFZGZmYWhlZnl2clduMG9rZFZ1cXdGRXZCN25PNm1laVVTNXh5YU83cUF0TnVGNmFLZWt1ZUFvZlIzUGwtd2RNZmc?oc=5": {
+      "title": "Norma sobre cortes de geração sofre novo adiamento na Aneel - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-29T19:39:45.792378",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxObm0wN09RUm42UE1IU0tMUENCcDl0a1NfWC0wMXEtQWYtdWlNOTJvNlpuenJzbDZQNnFVRzUxS0dVdEhkajc4UmdnR1F4Nld4NGY0UEt3dnNUY1lwTmhqbEZwbVY0Rnl2bG5xVmhkMEhmSV9QZFNvNE1JcDk3clA1eU9EaXhXdEdGakdJdExpN1lnaUpYSXVHZmZuWC1YVHl5cTIyRk11bzF6bHhCYUJjNUNKRDlTMlRlVk9uTHY0VQ?oc=5": {
+      "title": "Absae defende que debate sobre rateio não pode atrasar LRCAP de baterias - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-29T19:39:47.461189",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbEtvUG9uaTJma2F1VUlGTVA1RTNndUVjWmEyUGpkcWh0TTRMdDhwWWMzTGZwTDZ2VmRJM055bm1mM3FicnBPRURiVWlUbW1DS2FJT1g0SDBqSzhuTExWNmlqRmlGREV0SmxEdWRZd2NFOFU0Nm5xdlRRQ093cm5Kd24za0x1c05PdWpJVjJHcXI4YU44NUZjWG5vaVp6ZldVM19YWnZEUGtGVVhPdWxuZ3ZJT0VQakNYRUR2WmFSY0t2OHVlN0FpdUZCMVAtbHlpMWNHenpPTllvWmtsVl9GemI2cmdmLXJ0TThpUXlDa2PSAf8BQVVfeXFMTmV6cXhSMVg1LTZEc2lpbXE4eFdXVnZHcE5YT1pWUDJGSTFuMzQ4OEJ0WmZNbk82bDNNQmxfM0txZXBZUXp4dkcySWc3dzB6X2o2MUhuU2tRUzUxT1pUdTdiRjF0ejE4Z2VETkUydjhQRlVyZnhzeGtRVUY5UkgyWXQ5Um9EdURNS25MNm1ObnpQRXlSR1FTRU8ycFNCZkdCSGhjRGk2VUV6Y3RXSUp6MGU4eVdXY1ZwOVVvc0pfVlc2djQyelNOMVZxU2dmQlhfNV9iUjB3LUtVNVhTc0lHelNHSXlUSElWd1VpTDFGaWYwb0FUY2hYSzZVVG9TSzcw?oc=5": {
+      "title": "EDP tem crescimento de lucro e receitas no 2º trimestre com ativos de energia renovável e transmissão - valor.globo.com",
+      "summary": "EDP tem crescimento de lucro e receitas no 2º trimestre com ativos de energia renovável e transmissão Empresa portuguesa registrou receitas de 3,71 bilhões de euros, alta de 4% sobre o mesmo período de 2025, e lucro de 354 milhões de euros, alta de 4% A Energias de Portugal (EDP) registrou lucro de 354 milhões de euros no segundo trimestre, alta de 26% na comparação anual. A empresa portuguesa…",
+      "source": "",
+      "added_at": "2026-07-29T19:40:19.690340",
+      "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRE5Md25uWFBGRVVJeHVWdGwyN3JLVTJxeHlqeDVXYWdkX2s3ZDNyUC04Wmk3T1Jwd05LUWdzem5PNlFTZWVxX2ptODY3R3NLSk51NUZuNlJmQzhzb1VLSG56dExUMnlNQVI2VTk3cWRGVjdCVVhzT3BvWWxYcGs?oc=5": {
+      "title": "ANP vê tentativa de interferência de ministro de Minas e Energia em estatais para baixar preço do gás - UOL",
+      "summary": "Comente* * Apenas para assinantes comentÃĄrios Os comentÃĄrios nÃĢo representam a opiniÃĢo do jornal; a responsabilidade ÃĐ do autor da mensagem. - Zelis Pereira FurlanPassou da hora de pegar o banquinho.",
+      "source": "",
+      "added_at": "2026-07-29T19:40:19.690785",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjdqVnRJbHlXX0x4YWZMRTR4VW53MVlzNWdVeTBveWNyMHZuZllyOFdLSG4yZV9PRzZCVlEtT0FJRF9aaS1YMkVpVUZPRE1VUXI0SWZoTnVqbC01b3RzcUlfbF81QlBCNTRYLUxHSUk2NTNyUTlWWmt4VG8xbmxla0U5Vjh1bGZxdWhyeHJwTWdkSmVjbGRWb3ZpOGNRYXZHeVE0?oc=5": {
+      "title": "ANA quer criar modelos de regulação tarifária para drenagem e resíduos - agenciainfra.com",
+      "summary": "A **ANA** planeja criar novas Normas de Referência (**NRs**) para regulação tarifária de drenagem e resíduos sólidos nos biênios 2027-2028. A proposta, que entrará em consulta pública por 45 dias, também abordará subdelegações de serviços de água, esgoto e manejo de resíduos, além de critérios para contabilidade regulatória. Outros temas incluem regulamentação de barragens e cobrança pelo uso de recursos hídricos.",
+      "source": "",
+      "added_at": "2026-07-29T19:40:33.691352"
     }
   }
 }
