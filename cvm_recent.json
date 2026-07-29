@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-29T19:10:37.205643-03:00",
+  "last_updated": "2026-07-29T20:11:43.620237-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Acordo de Acionistas",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260728 28/07/2026",
+      "data_entrega": "20260729 29/07/2026 19:45",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1549483",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549483",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-07-29T23:11:43.319838"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
@@ -5904,60 +5922,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "14605",
       "first_seen": "2026-06-29T23:41:52.649261"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Acordo de Investimento e Outras Avenças com o Itaú -",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 19:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Acordo de Investimento e Outras Avenças com o Itaú",
-      "protocolo": "1539669",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539669",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-06-29T22:44:47.891512"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Acordo de Investimento e Outras Avenças com o Itaú -",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 19:30",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Acordo de Investimento e Outras Avenças com o Itaú",
-      "protocolo": "1539666",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539666",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-06-29T22:44:47.267040"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Acordo de Investimento e Outras Avenças entre Energisa e Itaú -",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 19:23",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Acordo de Investimento e Outras Avenças entre Energisa e Itaú",
-      "protocolo": "1539663",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539663",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-06-29T22:44:46.642569"
     }
   ]
 }
