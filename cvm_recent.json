@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-29T12:24:33.322287-03:00",
+  "last_updated": "2026-07-29T13:44:06.833733-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Boletim de voto a distância",
+      "data_referencia": "20260828 28/08/2026 11:00",
+      "data_entrega": "20260729 29/07/2026 13:12",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1549161",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549161",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-29T16:44:04.871438"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
@@ -5832,24 +5850,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
       "first_seen": "2026-06-29T22:44:46.642569"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "INFORME DE GOVERNANÇA CORPORATIVA 2026Ata",
-      "data_referencia": "20260618 18/06/2026 15:30",
-      "data_entrega": "20260629 29/06/2026 09:15",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "INFORME DE GOVERNANÇA CORPORATIVA 2026",
-      "protocolo": "1539192",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539192",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-06-29T16:06:50.426634"
     }
   ]
 }
