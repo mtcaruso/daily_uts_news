@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-29T08:37:45.705738-03:00",
+  "last_updated": "2026-07-29T10:21:24.259590-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Mapa sintético consolidadoMapa Sintético Consolidado",
+      "data_referencia": "20260730 30/07/2026 11:00",
+      "data_entrega": "20260729 29/07/2026 08:40",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mapa sintético consolidado",
+      "protocolo": "1549057",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549057",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-07-29T13:21:22.274980"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
@@ -5832,42 +5850,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-06-29T16:06:50.426634"
-    },
-    {
-      "cnpj_short": "02747-2",
-      "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "ITR, Comitê de Auditoria e Riscos, RA Regulatório e Demonstrações Contábeis, Aditivo Contratual CSCAta",
-      "data_referencia": "20260626 26/06/2026 09:00",
-      "data_entrega": "20260629 29/06/2026 08:51",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "ITR, Comitê de Auditoria e Riscos, RA Regulatório e Demonstrações Contábeis, Aditivo Contratual CSC",
-      "protocolo": "1539176",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539176",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "27472",
-      "first_seen": "2026-06-29T12:07:09.278039"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "ATA CA - 10ª Emissão de Debêntures AXIA Energia e 6ª Emissão de Debêntures AXIA Energia SulAta",
-      "data_referencia": "20260625 25/06/2026 12:00",
-      "data_entrega": "20260629 29/06/2026 08:43",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "ATA CA - 10ª Emissão de Debêntures AXIA Energia e 6ª Emissão de Debêntures AXIA Energia Sul",
-      "protocolo": "1539173",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539173",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-06-29T12:07:08.552728"
     }
   ]
 }
