@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T20:11:43.620237-03:00",
+  "last_updated": "2026-07-29T21:08:53.080353-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -5886,42 +5886,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-06-30T01:36:12.539699"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 20:04",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1539674",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539674",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-06-29T23:41:53.282066"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 20:00",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1539672",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539672",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-06-29T23:41:52.649261"
     }
   ]
 }
