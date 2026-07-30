@@ -1,78 +1,6 @@
 {
-  "last_updated": "2026-07-30T19:49:21.965214",
+  "last_updated": "2026-07-30T21:22:27.140138",
   "items": {
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWg5UEVVclhUMnQ3U2xET0wySDhnQ2EwcnZNUzI3b09sU3FKVEVaV1dkYXhyamxWRkh6UDdWbHJYU0c3Y2xVX1RMLXhQdWY3SURVZ21XMThYYUljNC1ROUVfanF4aWx4eldjQ0pVVEY1Yy15bFMyZ05CVmxCV0hLOC1OQzlMYjVYaFloMDVqWDdyRUk?oc=5": {
-      "title": "Aneel restabelece operação da UHE Jacuí - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-16T20:10:07.132015",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0dXbWpRdnRZaWNMeGRmSXRQMU1QVTVzSEdSZUt2VDF2VWk5UGFMVjIzdXFvc2xkQlJKWjZtZENyaEJGS28xazJBZkZtdkVwQTZ6dTZMQzJ6dEhNRlVyNkZtYlBIRko5ckNmaUYwTDRMU2V0RVp5bmVVcXZ6S3pkYV9MT1JWT09KSEtNdUR0VkJmWVQ5WHFNWFktQl9zbHVSUHlxbkh1WHdDeGtD?oc=5": {
-      "title": "Resposta da demanda tem resultado recorde e negocia 344 MW - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-16T20:10:08.752009",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmIyYV9vbU84SWhHaGFpd0o3bFdCUEJYQ3NKMWsweGp2YklTeTB2bEJCYV9nMjlqUWw0TnRxWl9OLXhhekdMdFhCWFpZOGU2bWsyOVE1c2RFQU94Vk0wbW4teHFnSDgweFFLa2N2NE9vbFhTWUU2eF91Mlk0T3ZJXzVPazluRXBIa2dhMXE1b3ZTanl0TFZEUnhQTnhQYVl4YWdRY2RIUkJrWE1hRm5rRTNONNIBwgFBVV95cUxPSVZpT09qYXRkN0VPN3VuLWVyZW9xRTAxYUQ1UTBOdG1FQ19RenI2WlNKYVN5ODlaeWRJZU1IUXhjTVJpd1hzMDZoQ1ZKX1RVQWxHV016RG8yYWdESnZyckVzbTNTUWVkYVZXX254RGhBZzFCcVExa1hYTDlKNjRjVVBScFRXU1AweWsyXzBEODVFVUtHcGY0S0E4YUR1a2JYU2JLNkV2S01mZ0JTY2gtb3VEZVlGTjFpa1hlWXRxODVnZw?oc=5": {
-      "title": "Fusão aposta em tecnologia para energia limpa - Valor Econômico",
-      "summary": "Fusão aposta em tecnologia para energia limpa Startup fortalece posicionamento ESG e conecta energia limpa, tecnologia e impacto social por meio da plataforma Soul Up, fundada pelo CTO Fabiano Miranda Em 2025, a empresa deu um passo estratégico ao adquirir a SoulPrime, ampliando sua atuação para além da geração de energia e fortalecendo seu posicionamento em práticas ESG. A partir dessa…",
-      "source": "",
-      "added_at": "2026-07-16T20:10:58.061011",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0JhRlFHN2EzU0ZoN1hqVzlaSFhDVHBGS2c3U3paODRuV09OMmZDQmRXa1JlMGxiLWRsd3lmY0ZkN3pOSk1iV2JfamxxaUlMOHkzei1EdGZidDVZYXpXeG9qcGo1YklyQzZCMEROSnlJRjNpRnVMZEZVN2MwQUVIdGRDUnItZUNmUWx1ZFVJc3ZUaUFXUV8tNGdtTQ?oc=5": {
-      "title": "Linha de transmissão de MA a GO terá operação antecipada, diz MME - Agência iNFRA",
-      "summary": "da Agência iNFRA O MME (Ministério de Minas e Energia) anunciou nesta quinta-feira (16) que a linha de ultra-alta tensão de Graça Aranha (MA) a Silvânia (GO) terá o início da operação antecipada de 2030 para março de 2028. O projeto, em construção pela chinesa State Grid, reforçará a capacidade de escoamento da geração renovável produzida no Nordeste para os principais centros de carga do país e…",
-      "source": "",
-      "added_at": "2026-07-16T20:11:27.039394",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREU0b0x5dlJnSXY5T2JsSFJJeE95UFAtUDViS2xiejZxY3VhQnhleWl4SmhPTWI4ZkZJLVdUa2dGcmxBa1l2U2pmYjh4SkUzejBPaHQyUzFOWktjYWE4Y3FUV0ZoMGZ1LXRKd2hMdXdfN05qOHk4VUN5ZExmRWxQV3hkaHQxaUg0TU9nMDYwSjNRUmhwVUtjb3NGR3BpdnlMY3o2RENiZm80SzAyenc?oc=5": {
-      "title": "Produção de petróleo da União bate recorde com 244 mil barris por dia - MegaWhat",
-      "summary": "A Pré-Sal Petróleo SA (PPSA), estatal que gerencia pela União os contratos no pré-sal, informou que, em maio, a parcela de petróleo da União foi de 244 mil barris por dia. Esse resultado considera a produção da União em nove contratos de partilha e em quatro acordos de individualização da produção, e é cerca de 30% superior ao obtido em abril e 90,6% superior ao registrado um ano antes.",
-      "source": "",
-      "added_at": "2026-07-16T20:11:27.039480",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGxKQkFBZWNsd2Nyak5jcUJhYzhSMVBqRk01SXAwU1ROSGZwdmt2U3VMSUNsbkx6ZjVIeFJOYzZkZlFMSHRkVmlYWi1SVkxEelNoQ0hDakl2NENINWloa3BOTGpuNXRpdEQxenNvVlUtZ3EyM3JMaDZ5RXppU3JtRjlLS05oQXpCcEF3aTd6SlQzT19uQ3FDdWpCSkhnZkFCOEg1N20yZmUwXzYzbmQ0YmlDY1VWbjVhbEFqbXFTdWg?oc=5": {
-      "title": "MME anuncia antecipação do bipolo Graça Aranha–Silvânia para 2028 - MegaWhat",
-      "summary": "O Ministério de Minas e Energia (MME) informou nesta quinta-feira, 16 de julho, a antecipação da entrada em operação do projeto de transmissão Graça Aranha–Silvânia de 2030 para março de 2028. O ativo, arrematado em 2023 pela State Grid, contará com cerca de R$ 18 bilhões em investimentos.",
-      "source": "",
-      "added_at": "2026-07-16T20:11:27.039571",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVm40dHVMZVZabWFsRlRKbDBfWE9hWVphVTV1dFFnUVMyU3p4SkRSeVhxcTBUNTBNd0lNNG5vS0VQSjV1b2gtYmFuSFo5OUp2Znl6WDgteWoydU1raGROUGdDRDZFVUxTX01lMFhHNy1sWXRVRDBKSzBLY0xtVzg5bVRXSHpROEJKLUdGNTZmbzVpcFpvclpYRkswNDM2XzZHMVNrQnZCWnMyelFyUFFFR05GVm9mUmtZNzV2bjZtS3loVkJRMXc?oc=5": {
-      "title": "Renova elege Sandro Yamamoto em diretoria e aprova aumento de capital - MegaWhat",
-      "summary": "A Renova Energia comunicou nesta quinta-feira, 16 de julho, mudanças em sua diretoria e no conselho de administração, além da homologação de um aumento de capital aprovado pelo colegiado. O colegiado da empresa elegeu Sandro Kyoshi Yamamoto para o cargo de diretor, sem designação específica.",
-      "source": "",
-      "added_at": "2026-07-16T20:11:41.357507",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb05LMkhqQVN5YWdoMU9IajRSNlpvdDFxUjJjTmtXekNHQXdYY2lwb2N1SFBaXzYzSE92XzhidFhFUWJ5Z1V0bkNPT3ZEUkt6Q2NoejRQci15emRzcU1XelB1d21wRWl2RXRZeVJubDllR2l1dnhfc0JIbThEUDhaa3BuNnVoM3FPZ0ZkeW9GZG9EekN5N3lBQ1F0TXpjdGR6NTNUQURB?oc=5": {
-      "title": "TCU abre fiscalização para o primeiro leilão de baterias do Brasil - MegaWhat",
-      "summary": "O Tribunal de Contas da União (TCU) vai acompanhar a implementação do primeiro leilão de reserva de capacidade de armazenamento em baterias do país para verificar se as regras do certame garantem uma contratação eficiente da capacidade de armazenamento e reduzem riscos regulatórios e concorrenciais. A fiscalização foi aprovada por unanimidade pelo plenário da corte nesta quarta-feira, 15 de…",
-      "source": "",
-      "added_at": "2026-07-16T20:11:41.357704",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG9OZ0RmN0lUU2RCbTlxbXBYQ1FwZXpnS2FtamZlNmVpdW4taGU5U09Pam1zN1NIb2lOSzJSR3pJRDRfYVU3UWpGNUdTdG1PVldOWmdMenNpUVZFUW1jbzVyWERnZG1Gay02VGRXeEdId1VaekxSTDRTT3lZOFpnaEpaTjJUcS1XaTFnUTlwdDVNUi11ekl0MUd6TzNhdW9VYXZQd1hPcWRvb1l3a1I4bm1Id0lfaGdjUVd4WFhTRjk?oc=5": {
-      "title": "Boven diz à Aneel que superou crise após romper mais de 300 contratos de energia - MegaWhat",
-      "summary": "A comercializadora Boven Energia afirmou à Agência Nacional de Energia Elétrica (Aneel) que conseguiu estabilizar sua situação econômico-financeira após a crise de liquidez enfrentada e que levou ao rompimento de mais de 300 contratos de compra e venda de energia de longo prazo no mercado livre, reduzindo sua operação de aproximadamente 1,5 GW médios mensais para cerca de 20 MW médios. O…",
-      "source": "",
-      "added_at": "2026-07-16T20:11:41.357902",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnNRR1JUa3hEdUwtLWNCR2NpYThvelpUQy1ZSWJZNFJ2Y2NDZDJaazJfTVV2SE13YjZ2WktadTRJSS03TUZmamU5Y3VVOTRrYzFxa19QU1E1OU1TYnBUSi1pdlRHbWpGSG91SVRvd3h1UVRFWTl2OURkeXBET3d3cWNLZncwRzZUeWY1MUVmdXdKb3oybTJ4ajVJdV9IMVM0Q2R4enEzNDhzRGdnU0c2eW4zQVo?oc=5": {
       "title": "Associações trabalham para retirar \"jabutis\" de PL sobre irrigação - CanalEnergia",
       "summary": null,
@@ -4095,7 +4023,7 @@
       "source": "",
       "added_at": "2026-07-30T14:28:35.749744",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3FvUEtPa2NscDI3VlNUSmFPM2hWVUQ0ZHRpLUZDTVJsbEhNVWRkQW11T1FXSHduVC12azlsd2tUc05kS011TG5sNkgtcHZpV2JGb3VIam1tQkFqalNVbHh3MDVTVmRyc2ViT3NMRHYtT2VObEZvVlVueU00TVBuaDQ5YVhsZ3RVS0g5eTl2bEk4R3E1bEVZLXB4Qzkxc1JxeDZqOERfMDZXdjJXWEx3V2NacExzWG5PX01iWXRON3Q?oc=5": {
       "title": "Créditos de carbono da usina Foz do Chapecó chegam no exterior - CanalEnergia",
@@ -4103,7 +4031,7 @@
       "source": "",
       "added_at": "2026-07-30T14:28:37.409016",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1neS1QZUtUYTBmS3UtMXB3WC1xYVFRN19ZQ01Cekl0SDlDMGQ3bXNpR3FiN2RyWnVQS19xcWhlOWhLUHpjcVo4QS04SExPSVpvQ0E?oc=5": {
       "title": "Tag efeitos - MegaWhat",
@@ -4111,7 +4039,7 @@
       "source": "",
       "added_at": "2026-07-30T14:28:54.966003",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOV9tNjVVZWF0a2RqUWtIM1lXaHk0d0kzTkNWRjRTR0VwdkMxMldfMXZtQnNpZTB2MEZucDVNWWVVUDhsQkR5Rm8xd24xSzE5TV96SGNPcEJnbWtHUG04MEU2SEJYeTU5NHl6TG43dE9yY2xpSGZidHU0YkxsQjZUaGdYeDNZR0hLQmt3bjZkLTVtQTNKUThZbkxzRTUydGQydDZ3TWhzdFh1eVQtczEzeExIaDJjZw?oc=5": {
       "title": "RJ contabiliza danos após ventania; duas pessoas morreram e 500 mil imóveis seguem sem energia - Estadão",
@@ -4283,7 +4211,7 @@
       "source": "",
       "added_at": "2026-07-30T16:13:03.594611",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0xidmI0VjhpYlNkUVJ3dlJXYndwTFlvSExyUGt6ZFJQRTJmQkNyeWpqb1g0cDFUZ3J5eUZWZjFUT1BTRGljeVdvNTBRbEhjSlp3djM0LVkwRTc0QzEwcml4OGRHRGRtOEZhaDc2UGVoclh0RE5lSXQ0ek1UVW1YWUR5OFdzckxGTEZrUTJ1dG5nNjlhLWpCVHpySWdZM054Y3RKNXpucmtYbWJYS2cyTllTcUNmN3NoeXAyYUNzNA?oc=5": {
       "title": "Relatório de Asseguração Razoável da Liquidação do MCSD Energia Nova - CanalEnergia",
@@ -4291,7 +4219,7 @@
       "source": "",
       "added_at": "2026-07-30T16:13:05.311671",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWlBXNFZLOWpaaWN4THk2UTBaVWw3MklHVDV2RzFBNEFiR3FFRGQtZWlNeERPaVRTNFllN0RCSVVTYWtlenFuMGRQenNrXzZqNFUzelYtRVVOd2NwX1UzVW05VlVsdFluYkp5WmhMNmdjTWhzMV81RXVwVTZ4clJYQjZWbnEwNjZaRHNlenZRM1lQdG9Mcl9mRXB5N2VGZmFHOUo2UVBSUnB0UWw0cjlVeFM0dGxkX1pqYkh0c0wtVF9DbFNabzA1eldSQU83UXlKdDBwdktBUG11Vi1JbGpXWno1eEpGWk4yMHU2WWdn0gH8AUFVX3lxTE1GWENrOUJEQzdQOU12SGdhaXlaT1VQRklXYkREOGQzaHpJaGFZODg4aWNEN2ZMNmdKV1JzWW9kWFF1MDJuZEU1bGZ4Y2xpeUdoSjdCak5pSFlUVFRqa25OZVZ5a185V3ZLYzJiWkpDbjBuQm1XZDRVeWxRMTd3Q0t1MVhxU0owZ3d6ektCS3c3akpjMnBSbGRteU0xTll2ZWRnVDY5cEwxRFA4MVVPOEd6dFBxal9BY1BSeXROZ1Y3MkdsaDlwTU85aUdydU5PVDg3bFRyTFdTRWpzMk1SUS00RmZtY1plUmJlenc5OEtvcWFrenZXd0sxQUFmcg?oc=5": {
       "title": "Conselho aprova resolução que reestrutura política de comercialização de gás natural da União, diz MME - Valor Econômico",
@@ -4343,7 +4271,7 @@
       "source": "",
       "added_at": "2026-07-30T18:01:41.596418",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa3RJUXpFeXo0T0VYTkdtM3ZwZEVIUXVBcUIxXzA2WWhOR0VZU1Z4QVNWVklPRG1WWWFWaXpjU2FlQmNHWHd2MDlzb0F0bmswYnNtTTd6VV9wSkJMczFzSjZHOUM5UEFqM05WV0lMcDVOeGRJcGJpLWNsSXVpNTA2MWUxdnpwQldEaDhXTExkVnEzTjhzY21VWnFiS1FRVTZFeTN1cHhEcU1jcWd4bnZRRlMwUkdwc19jU0Iwd3BfWXV0SnNfRW1jLVVMX09vU0hKVUFOWlJ5NzIzbUg1ZEs4WXZfZ9IB8gFBVV95cUxOQm5VMTg2VUFuNDQ0WVJUbURXYmNLWFZfbC1ZdVJOTUlXcFZ0SW84VC1JSVBUVmNUMEJ5cjBkRXRDWVRnWV9EOWlxVWd3RmdqaFJsQW13aURKV295Z2FrbjNqb0xmWHF4aWZYcUNieXdmZWI3VG1ZeDBHYV9neWdxN1JrdXp0MmdHUGxTc0hSTU9FYm5iYzhTaWx0ZzVFd0pRTkRsNkNqSW9aYXFJLWtDVktPN2NGa2Z1OEtUSEI0RndOVTltbUhVX3RaeFRnRDV4ZFhSM0lHRE0zeUZIaVlWQVFLbno1bk05bkZqbFotQkJLUQ?oc=5": {
       "title": "Presidente do BoE diz que ainda há poucas evidências de efeitos secundários da crise energética - Valor Econômico",
@@ -4351,7 +4279,7 @@
       "source": "",
       "added_at": "2026-07-30T18:02:50.142701",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2Nqd2Z4aTByUWFNTzdETmc0T08yQ0t1U1p2YWNQTmxhM3I0RktuZlNQTkUzUzYtZWNHNEZZVkZvUGZxcE85d0pxT0ZXNnQwQW5aMHRVRWFrenNmdmwyc1dIdlVxdkJZSWtyQkYtMy1DOG9qbzYtSS1TWHRtWXRHaE0zTGFzZjcxT0xkNmxfbEdQNkw3LXdRUVRuZVktZjhNZnZpM09ZSS1RLXVadHJSaTBvYTJ2d1htTmJSNUNYZGhHdHZkN2x0LTFFOGlCbG810gHfAUFVX3lxTE45ZlJjMko0YVpkUHZRaUJfVE1seFMzRWVrY3lLREF3dTN2cWk3NmdBa003X2ROM2xoVG5xR2F6MF9ZSldWeDRjVExoZnpHR21nLW1LVDdkaXVERl8zSUZYSW9aSjRNRjlPWUt1Yk15UENZRlZ2dVFjUGlqN2kySlY0cllNUVluXzBpeEtseThHTUZ1a1Y4ZklMT19td291V0Fsc3lXRXZQZHZ2OE05QzRsOUYzaUJISjBaREtSQ29OSjhVRGtHQkN6ZjNaWndXT0s4NWI1dUJBS25uMFg5TjQ?oc=5": {
       "title": "Lucro da Enel cresce no 1º semestre impulsionado por Espanha e América Latina - Valor Econômico",
@@ -4359,15 +4287,15 @@
       "source": "",
       "added_at": "2026-07-30T18:02:50.142773",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdktDb20wclZPOTVTOTlDY0NJLUcxVFpSemd2Uk5JVUdaNk1Xbl80aWRaZEZaaENpN2xmU1F2UVdzWnhkZVBKS3VDbVBuSFoxYVFqY1B0R3ZUVlBXRDR4cDJKUGJwd0ktZk5oZldpZnk1ODFVTUxzYVFtb0xQRE9YMWYyX21KaktjY2ljR1BPUVBXczdWY3BVdllBTU9qLXhp?oc=5": {
-      "title": "Solução consensual da Eneva no TCU deve ter modelo fechado em agosto - agenciainfra.com",
+      "title": "Solução consensual da Eneva no TCU deve ter modelo fechado em agosto - Agência iNFRA",
       "summary": "Geraldo Campos Jr., da Agência iNFRA O secretário de Energia Elétrica do MME (Ministério de Minas e Energia), João Daniel Cascalho, afirmou nesta quinta-feira (30) que a solução consensual que está no TCU (Tribunal de Contas da União) envolvendo térmicas da Eneva deve ter modelo fechado em agosto. Segundo ele, o caso tem sido tratado pelo governo como o primeiro de muitos, uma vez que outros…",
       "source": "",
       "added_at": "2026-07-30T18:03:14.982573",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzEwcEFkelN3alhzOW1MaHJCMzlyOWRNMzNxQWdzcmtjZncwbFFCRDJrUlBUemRKcEdHcE1fTzNIYXRMczM3TGVHek1TN0tEMkg2cVVpTEk2d18ycWx0WUtwWDI0dGxCM21XcGc4cDd3YUJNVEJCMkVVX0xZejduZ2NqckR3c2M?oc=5": {
       "title": "Roseane Santos é a nova presidente da ABGD - MegaWhat",
@@ -4381,7 +4309,7 @@
       "source": "",
       "added_at": "2026-07-30T18:03:33.785479",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVJGZkE0YUZCaUVtbWxfSGI4VFVCMVNRS2ZENktib0RxNF9Rb0picDE4U3F3YzFNVHc2S2tmb0tKelQ3NThJX1gtTjM4U1hfY0gydEdxcERTa2thNHE3d09RdWRlSV95Z3VCTnVfTmhuZ1M5ZDVCX25mNGttbHljXzBWemRzY2RSOVhpSnU5TlRRV2VveHY3TDRXUU1mTFVuZk1Pa29BYmY0OWdjNW1vWjZMclFJckEtTmNZY2lRV0ZfeHFz?oc=5": {
       "title": "Adiada assembleia sobre incorporação da EMAE pela Sabesp - CanalEnergia",
@@ -4389,7 +4317,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:02.705286",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXVRVVUzSE92aXA2bzh0TDIzR09UdE9KZjFUdXpNME13aG10bDlpdnpXRTlaWmdzZUwzZU9IWDBIU2lVYzJvZU1Xc1hvTXFyR2k4bXhiM2hXV1NTMjJBQ0w3OFdua0VXbDNsZDY4VzNJd2xZZXBYdDBvZ01MM0Zkcm9xWFNzZ1UwQ3NOeVFrSWhjemRYcGN2TjNXZzZBWVp4QkMzSndTT0pOMkVIdkxraDhB?oc=5": {
       "title": "Vento impactou 1,1 milhão de unidades consumidoras, aponta Light - CanalEnergia",
@@ -4397,7 +4325,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:04.370533",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEZmQVlIQzJpVG5YLU0zUEsyRGlJQktBVzRBMmhBLVZFY3Fqc1psZ0lFbF81V1hnOTh3Q19fTGVsbzR2REhjcWdULWF3aXZRWW1NTU1WankxRlJNYVd6SmxxQzk1SmJHWE5POWlSaDByb2FBaVZhSlk4LVd0SGN2RVh3TGZpcFB6bWxEVUtEWk9qdlFhcFJKZFlZaHhZYXpOZFFaUkduaUIzV19jNUFLVy1hS2VTVkk3?oc=5": {
       "title": "Comissão de leilões mantém inabilitação de térmicas da EPP no LRCAP - CanalEnergia",
@@ -4405,7 +4333,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:06.041804",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmRIZElrWk43a3hSTnZlbmZzOVRQTEdCZ2RpM2E0NzdHY3paendVN1RxSXdONC1NMDBnSXJBaHFzYU5oZm9PWTZ2LTF1dDl3QU96aU9oTC1qY0F4RVlLaHpKdGpZV0JwWjB4U2lvdHVGT05PdDFfOUpuX1lDNFgwdkZQdURNSjY3ZnZRTnFxdnVBUEk2THI0?oc=5": {
       "title": "Demonstrativo do CAFT da Conta Bandeiras - CanalEnergia",
@@ -4413,7 +4341,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:12.836935",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2VycW5aREVQOHpuUmNnd1BXQkhyNmJBVWZFR1NWOHp0QnVLSmw5a3VKRTU5MGpScDBZZzJQcTItd255RmhOb2UyRXBnWVhhM0VzeUk1VzZDYmJJU2dhX1lUT3VvVURsV3FwSjJWUHpveUxDaFlVTWtEVDNtaU90d0Z1azFPSmVPNFdxX21jWQ?oc=5": {
       "title": "Demonstrativo do CAFT da Conta CDE - CanalEnergia",
@@ -4421,7 +4349,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:14.530161",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUkRsTmJOTFptSkd1UlYzZDdYSkJUMUhQZi1yZlpIRjNGeXduUWx3Tk9MREFKNXBCSzZXMjVjUE5HdXpyWDlpQ1FWa2FGSWNLbWhKVWR6X082QkpBRTlJNjRLMGxfa3hRdVB5RGNNNWxIUUY1WFZiODZSMVZwaWRVRFppZGljanQ0MWlmeWVkeWlBMTF4c1RsSnFZTVpLcnFqZzAzQmhvamZ3NTZGQ3RVV2VSNzltX210T0p4ZHExMFJQRl9sTE1lWjZjNVVVSUFIdE9XMlBqR2N1ZGgzZExBemtHVzlxWkthVWfSAfgBQVVfeXFMTWgtU1BlN3FpYzJZUGFkRHJleHd1a1p4bU9TV2FuNGpYY2E1WkNlVkgzYWctN3BKLXpXREh4R28wWUhHY1M1ZmJNSG5VbGhqZXMxV1hueUlGeXhIZ1Bsd3c0M01LV0xwem9hOFc3NUFHaGpEVmJkQmFmcTU5TTVfVC1wbDJNVzdQQ1lJLWVJMC0xUnA0Y3RvSFVwQml3SWxzS1B2d2JfRzJBeUFwUmlQU25kbGdQc3ViejFVUXY5WkRPME5Pa0JvVFluVXNXUXpvQ3JUYnY2Q1lpaEd2aWd3QlM5Y3ZqZVFlMkJFWkJWT1ZHczByb1RnWkI?oc=5": {
       "title": "El Niño elevará volatilidade de preços no setor elétrico e testará caixa das geradoras, diz Fitch - Valor Econômico",
@@ -4429,7 +4357,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:54.195555",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHZjVm03bUwtaWVUQzRScTdyUjBBbjlseVhIYmZyN2htOV9YOFlMOG53MEd4MkZSYy0yYks4MkQ1MXhJazU5UTdsOVpwNGxSNUJYak5QbFQ4NmxqbU1SSF9vSjJMTnMxOTF4cVRUcml0NWtlcnp5T01RLThGdklGTjZmRGF6eUJMLVM5UGhsWFJhX3J5dnFOcGRoS0VhOU0?oc=5": {
       "title": "Contratos do leilão de capacidade viram disputa na Aneel. Quem vai levar? - Brazil Journal",
@@ -4437,7 +4365,7 @@
       "source": "",
       "added_at": "2026-07-30T19:48:54.196102",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVm1QMWJwdmg0MGJtWTVmREktMzRjelJyc1pGbGRSOHhReDh3VHRsVE82SXZCVUh3OEZWcmUxSGtWLXZibFNZNnpKcHlnOEp2WWFhQlFJbHF5cnV3MkR3b0RZT2QxbzhIcF82QlJpU0llSmFGdmVuQXNWeGtpRE9wQTVDM1hOZE4wQ3RYbnVleWhoUFcxQThHOXNkeDRrZ3pLdFI1R3M1NDc3ZmRzLVREalN0M1Fvc19BcDllOXI3dw?oc=5": {
       "title": "El Niño pode baixar preços no ACL e favorecer nova onda varejista, avalia Ludfor - MegaWhat",
@@ -4445,7 +4373,7 @@
       "source": "",
       "added_at": "2026-07-30T19:49:07.691121",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHdkUDRLNWo1cVFHVTdlLVJkRE1pZFliME5jY1QwN2JucnBGQkwwY3JqTVJ6Q3A1VUhmeUcwWFgtMEMwNHNuQVZhUkdMYThqcF9lQUcwVUdqVmFHVzE1TER2OVVYOEtQS3Y4UGpjTjNBTjFkUXpnQnlydl9YUmo2Zm40NEtZSWE4ZU9QUmc0Tkx5SFpJb1FwTXdGQ1c1by1BV2pJ?oc=5": {
       "title": "ONS emite sinal amarelo para corte de excedentes no domingo - MegaWhat",
@@ -4453,13 +4381,61 @@
       "source": "",
       "added_at": "2026-07-30T19:49:07.691279",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHJnWHJKYkJqOE1hOUNFUGtWOWtZVXUwX2pkRTJ4WU9idXZFSTc0Smo1QktOeFRuNkMzelNrTzVwTm5scndvRjJKQ3huREZ0QzgzcjhrYUJLY19hQzA5U0VKMWxCNjRCN0JnTkF3WnpwR0ZraDhTMzhQZWpJTy16c3Rsdy1HcTZWRkhvYlZzcFl4WGZRTDVleUtJWmlWQQ?oc=5": {
       "title": "Eneva vê limite para flexibilizar térmicas em acordo com TCU - MegaWhat",
       "summary": "O desenho final das regras da flexibilização dos contratos de algumas termelétricas da Eneva vai ser fundamental para a companhia decidir se vai implementar ou não o acordo sendo negociado no Tribunal de Contas da União (TCU). A empresa considera manter as usinas inflexíveis dependendo das condições definidas pela corte de contas, apesar do apoio generalizado à proposta, inclusive pelo setor de…",
       "source": "",
       "added_at": "2026-07-30T19:49:07.691599",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUC1RRjJLOThEcWVNRnE0LTNGMlEwMmpHcE80WEJkLW96aVl4b1NnTHJFb3dwU01JOE1TZmw1TUc4N1R3djlJV3F1NmkyLVZUXzBxbDRfWjQ0NzAzY0NsSXQ5WGVLbW9IN1Q5eDF1MEluR2MyaVc0MVU3RkZSZ0ZsNEJ6MDlNV3Z6a1psS1NOWHRwQWFjRlFDTEFKUlplNjQwUmF5NXp2bjBQTGdkWlFCOTFTcEd5d3J3dWFJWGd6eGZabGl4QVdLSGhvSjN5Nm9rZFhqU3l4RmM?oc=5": {
+      "title": "Mais de 40% das indústrias brasileiras migraram para o ACL em dois anos - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-30T21:21:03.718206",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmRybUZIalVMSEM5eHBWQ0VRQk4zS2xNekJBNkxuMXhONGx6YURoTXEyNWpKRlBJNlp5c2Z6VEJZaG5lcURBSnY1U3RURTBOdGlpWlZBZHotdnE3c1JZaGJmaVZmc3ZoSjlubEozbnVNUTBuelo5cVhkcVNjOUFwUUg5cXNRa1hnRlVha3BDVnhiUG5PM3F1WVZiSzBLUk9uR1NOTmtwTUN0UQ?oc=5": {
+      "title": "Taesa finaliza projeto de reforço da subestação de Assis - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-07-30T21:21:05.546650",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVVCckVibzZyTlNVVVFhc2dVdFhtY3hZQjFDeWFkTlp2bjBLWEhaNERsNUlKXzNoeEQyMjhSdzVnNHZEbnRVM3hncXo0SFEybGpTbTZkOFFnLTNwd0d0cklHLTBYZnFvekhGSHNZblBHMFpndFp1SGY5N21mbmV0WUl4YWRjSHF6LVBoSmZVSmZ5NDYtUFc4RkJVN2ZwSlE?oc=5": {
+      "title": "ONS emite alerta amarelo e pode acionar plano emergencial de cortes - Agência iNFRA",
+      "summary": "Geraldo Campos Jr., da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) pode acionar o Plano Emergencial de Gestão de Excedentes de Energia no domingo (2). Nesta quinta-feira (30), o operador emitiu alerta amarelo de possibilidade de acionamento do instrumento, que consiste no corte de geração de usinas conectadas diretamente à distribuição (usinas tipo 3).",
+      "source": "",
+      "added_at": "2026-07-30T21:21:54.321597",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUzdJbUZUaEhWX2lfUWNsRjNNbmRYSE9IbGQwZy0wcHFYRDZMSk04ajR1UDFoYW0yNXVxY2RGd2k4czZPU1EzMGtocFRIYUZuZmlITFJ5eWk1OE9BZUROVmxLWTJWZFowemRkcUtpZjBMU1VXODNuMmNqLUw0NUpfTWFieE9wZHFZcFZQWkpiSWZpcFpPYmIxUDFQbXp0MFkxS18tUnFxTnJnamw5NnRaeEMxMUhoa2pZUzdpTUFycFkwMVhCcXhV?oc=5": {
+      "title": "ONS aponta mais de 70% de chance de El Niño muito forte e prevê chuva acima da média no Sul - MegaWhat",
+      "summary": "O fenômeno El Niño, ativo desde junho, tem mais de 70% de probabilidade de atingir intensidade muito forte durante a primavera e o início do verão, segundo avaliação apresentada pelo Operador Nacional do Sistema Elétrico (ONS) no primeiro dia do Programa Mensal da Operação (PMO) de agosto, realizado nesta quinta-feira, 30 de julho. O cenário considera a possibilidade de a anomalia de temperatura…",
+      "source": "",
+      "added_at": "2026-07-30T21:22:16.513144",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEM1YUtIMDljZUNRVTkzVUx6M0hDWGh3Z2RlN0t1NmFfS3FUZzFFa05WOHFVTllMYU9PRDlpXy1feHNKUy1PLWR4Zy05NDFKOUFIRGJmYXJKMTNmdEktTjVvMkVSdEUtZ3c5MkhLTzEtZ1lTVEREa3djRVk3bGtEWHo0U2FDN3dxOHJpU2kya1FiajhYbkNUdWttR0lLUUZDam40UGVRQWRTTFplTWpDUEVxenN2WkdHT3VBUWF0LVo0bklVbEo1eHFBcXQ?oc=5": {
+      "title": "Justiça homologa plano da Raízen para reestruturar R$ 65 bilhões em dívidas - MegaWhat",
+      "summary": "A 3ª Vara de Falências e Recuperações Judiciais da Comarca Central do Foro de São Paulo homologou nesta quinta-feira, 30 de julho, o plano de recuperação extrajudicial da Raízen, que prevê a reestruturação de aproximadamente R$ 65 bilhões em dívidas financeiras. O objetivo da recuperação extrajudicial é reorganizar o endividamento da companhia, atender às necessidades de liquidez no curto e médio…",
+      "source": "",
+      "added_at": "2026-07-30T21:22:16.513281",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXJKelg0dDBTSjN2MlAwWHo1dmFEcnhaNEhnbF8zTTVKazJfazZvdFNpSmkwVWpDWGI5LW92MDdPSndBUmN1R29XYVRENW9TWFU5Yzl0YW9rVV9Dbm1aZzFCZXBWRzJfQXc3NWlaUXhRa0FxQmFaNmdlQ1BBLVdSb1V6aU9MSE95UWZUTnowb0lkWG9lVnhsVmxmWkI2OHROLVhlR1hNUVJWMFc5aVhsakVzRXN5SV9EcGptdm13?oc=5": {
+      "title": "Leilões de gás de 2026 e 2030 poderão atender termelétricas, diz Silveira - MegaWhat",
+      "summary": "Após a aprovação da resolução do Conselho Nacional de Política Energética (CNPE) que atualiza a política de gás natural da União e estabelece leilões de curto e longo prazos para a molécula, o ministro de Minas e Energia, Alexandre Silveira, deu mais detalhes sobre os certames. Segundo ele, os leilões de longo prazo, previstos para depois de 2030, irão atender à indústria de base nacional.",
+      "source": "",
+      "added_at": "2026-07-30T21:22:16.513507",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
