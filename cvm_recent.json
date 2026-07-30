@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T21:08:53.080353-03:00",
+  "last_updated": "2026-07-30T00:23:25.432768-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -5868,24 +5868,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-06-30T11:37:34.095138"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Protocolo e Justificação de Incorporação das Ações da EMAE -",
-      "data_referencia": "20260629 29/06/2026",
-      "data_entrega": "20260629 29/06/2026 22:29",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Protocolo e Justificação de Incorporação das Ações da EMAE",
-      "protocolo": "1539689",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539689",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-06-30T01:36:12.539699"
     }
   ]
 }
