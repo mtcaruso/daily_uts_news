@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T07:56:11.473092-03:00",
+  "last_updated": "2026-07-30T09:22:21.690549-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -5850,24 +5850,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "26808",
       "first_seen": "2026-06-30T18:09:58.676762"
-    },
-    {
-      "cnpj_short": "01862-7",
-      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "1. Deliberar sobre a proposta de distribuição e crédito contábil de Juros sobre o Capital Próprio (JCP) referente ao 1º semestre de 2026.Ata",
-      "data_referencia": "20260624 24/06/2026 09:00",
-      "data_entrega": "20260630 30/06/2026 08:36",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1. Deliberar sobre a proposta de distribuição e crédito contábil de Juros sobre o Capital Próprio (JCP) referente ao 1º semestre de 2026.",
-      "protocolo": "1539738",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1539738",
-      "empresa_label": "Sanepar",
-      "codigo_cvm": "18627",
-      "first_seen": "2026-06-30T11:37:34.095138"
     }
   ]
 }
