@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:42:02.858188-03:00",
+  "last_updated": "2026-07-31T20:39:50.443647-03:00",
   "items": [
     {
       "cnpj_short": "01987-9",
@@ -5616,42 +5616,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-02T04:35:55.482518"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Contratos de Indenidade",
-      "tipo": "Outros documentos relacionados a contratos de indenidade",
-      "especie": "Politica de Indenidade -",
-      "data_referencia": "20260623 23/06/2026",
-      "data_entrega": "20260701 01/07/2026 19:39",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Politica de Indenidade",
-      "protocolo": "1540789",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1540789",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-07-01T23:01:00.749984"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "reporte de Comitês de Assessoramento ao Conselho de Administração; aprovação da Política de Indenidade da Companhia; aprovação da 10ª Edição do Relatório de Sustentabilidade do Grupo Equatorial; eleição dos membros do Comitê de Inovação; renúncia do Sr. Dennis Herszkowicz do Comitê de Regulação; reporte dos resultados da avaliação interna do Conselho de Administração e de seus Comitês de AssessoramentoAta",
-      "data_referencia": "20260623 23/06/2026 15:00",
-      "data_entrega": "20260701 01/07/2026 19:21",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "reporte de Comitês de Assessoramento ao Conselho de Administração; aprovação da Política de Indenidade da Companhia; aprovação da 10ª Edição do Relatório de Sustentabilidade do Grupo Equatorial; eleição dos membros do Comitê de Inovação; renúncia do Sr. Dennis Herszkowicz do Comitê de Regulação; reporte dos resultados da avaliação interna do Conselho de Administração e de seus Comitês de Assessoramento",
-      "protocolo": "1540784",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1540784",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-07-01T23:01:00.749975"
     }
   ]
 }
