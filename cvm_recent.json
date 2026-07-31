@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-31T09:23:54.561826-03:00",
+  "last_updated": "2026-07-31T11:44:02.544284-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Estatuto Social",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260724 24/07/2026",
+      "data_entrega": "20260731 31/07/2026 10:47",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1550179",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550179",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-07-31T14:43:39.813963"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
