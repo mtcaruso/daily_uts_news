@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-31T18:44:17.472747-03:00",
+  "last_updated": "2026-07-31T19:42:02.858188-03:00",
   "items": [
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
+      "especie": "Declaração de Alienação de Participação Acionária Relevante",
+      "data_referencia": "20260731 31/07/2026",
+      "data_entrega": "20260731 31/07/2026 18:45",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1550666",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550666",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-07-31T22:41:49.204488"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
@@ -5634,24 +5652,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "20010",
       "first_seen": "2026-07-01T23:01:00.749975"
-    },
-    {
-      "cnpj_short": "01830-9",
-      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Distribuição de Dividendos/Juros sobre Capital PróprioAta",
-      "data_referencia": "20260618 18/06/2026 10:00",
-      "data_entrega": "20260701 01/07/2026 18:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Distribuição de Dividendos/Juros sobre Capital Próprio",
-      "protocolo": "1540605",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1540605",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "18309",
-      "first_seen": "2026-07-01T21:55:49.176971"
     }
   ]
 }
