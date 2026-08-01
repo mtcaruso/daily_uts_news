@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T17:38:35.672300-03:00",
+  "last_updated": "2026-08-01T18:33:16.430510-03:00",
   "items": [
     {
       "cnpj_short": "01987-9",
@@ -5508,60 +5508,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-02T22:56:23.966992"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Reporte da Diretora-Presidente, do CGP e do CINV; Reporte dos assuntos discutidos pelo CRCC e pelo COAUDI; Atualização das perspectivas de mercado (investidores e analistas) e pontos críticos; Acompanhamento do Orçamento Empresarial 2026, dos Indicadores Estratégicos, do Orçamento Regulatório, dos fatores de incentivos tarifários e das provisões contingenciais; Follow-up da incorporação de Ativos; Modernização do Sistema Rio Velhas e Reservatório de Ponte de Arame; Reporte sobre Risco R15 e sobre a revogação de procedimentos licitatórios paralisados; Revogação do Regulamento de Contratações; Avaliação dos Riscos R060 e R059; Revisão da Política de Segurança da InformaçãoAta",
-      "data_referencia": "20260624 24/06/2026 10:30",
-      "data_entrega": "20260702 02/07/2026 17:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Reporte da Diretora-Presidente, do CGP e do CINV; Reporte dos assuntos discutidos pelo CRCC e pelo COAUDI; Atualização das perspectivas de mercado (investidores e analistas) e pontos críticos; Acompanhamento do Orçamento Empresarial 2026, dos Indicadores Estratégicos, do Orçamento Regulatório, dos fatores de incentivos tarifários e das provisões contingenciais; Follow-up da incorporação de Ativos; Modernização do Sistema Rio Velhas e Reservatório de Ponte de Arame; Reporte sobre Risco R15 e sobre a revogação de procedimentos licitatórios paralisados; Revogação do Regulamento de Contratações; Avaliação dos Riscos R060 e R059; Revisão da Política de Segurança da Informação",
-      "protocolo": "1541243",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541243",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-07-02T20:49:17.001499"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Mapa Final de Votação Detalhado AGE 02.07.2026Mapa Final de Votação Detalhado",
-      "data_referencia": "20260702 02/07/2026 09:00",
-      "data_entrega": "20260702 02/07/2026 17:08",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Mapa Final de Votação Detalhado AGE 02.07.2026",
-      "protocolo": "1541136",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541136",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-02T20:49:03.820056"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "1 - A ratificação da nomeação e contratação da APSIS Consultoria Empresarial Ltda. para elaboração do laudo de avaliação das ações de emissão da Jirau Energia S.A.; 2 - O Laudo de Avaliação e a proposta de valor das ações de emissão da Jirau detidas pela EBP, para fins de sua contribuição em integralização de Ações no âmbito da Oferta.Ata",
-      "data_referencia": "20260702 02/07/2026 09:00",
-      "data_entrega": "20260702 02/07/2026 17:03",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1 - A ratificação da nomeação e contratação da APSIS Consultoria Empresarial Ltda. para elaboração do laudo de avaliação das ações de emissão da Jirau Energia S.A.; 2 - O Laudo de Avaliação e a proposta de valor das ações de emissão da Jirau detidas pela EBP, para fins de sua contribuição em integralização de Ações no âmbito da Oferta.",
-      "protocolo": "1541135",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541135",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-02T20:49:03.820068"
     }
   ]
 }
