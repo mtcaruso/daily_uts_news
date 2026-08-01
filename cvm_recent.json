@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T14:39:47.546090-03:00",
+  "last_updated": "2026-08-01T15:36:29.474408-03:00",
   "items": [
     {
       "cnpj_short": "01987-9",
@@ -5562,42 +5562,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-07-02T20:49:03.820068"
-    },
-    {
-      "cnpj_short": "00382-4",
-      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20241001 10/2024",
-      "data_entrega": "20260702 02/07/2026 14:55",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1541080",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541080",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "3824",
-      "first_seen": "2026-07-02T18:09:15.112653"
-    },
-    {
-      "cnpj_short": "00382-4",
-      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20240901 09/2024",
-      "data_entrega": "20260702 02/07/2026 14:44",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1541072",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541072",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "3824",
-      "first_seen": "2026-07-02T18:09:15.112639"
     }
   ]
 }
