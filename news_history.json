@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-07-31T23:16:27.512559",
+  "last_updated": "2026-08-01T03:47:36.486334",
   "items": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByeDdZS3I3dmVwWWIzYWI5UEtlMnA4TzJBelAzX19RQzNMT0ljb3pOQ3VKX2M0bjdPTmxRSWZjNnY1ckRuVmE2T0hYNFJ3dTBGNUlmeWdFWUQ?oc=5": {
-      "title": "Geração - MegaWhat",
-      "summary": "Este item é um link para a seção de notícias sobre Geração de Energia Elétrica do site MegaWhat, indicando que o conteúdo procurado não está disponível no momento.",
-      "source": "",
-      "added_at": "2026-07-18T03:26:34.231890"
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWN3U0RjlnT3VWVEt5WUpzZk02eURLeFpSOGZxLWNIWFM1cGprekgtUkxUaVVsOEF3dlYwdjRocGtNaHBnTVNRMlJPeUZHMk0xcnJEZzR2Q2FtcDFJWFdLUw?oc=5": {
-      "title": "Tag Luis Carlos Heinze - MegaWhat",
-      "summary": "Senadores, incluindo **Eduardo Braga**, buscam frear a tramitação do PL 5.017/2019, que trata de energia a gás e hídrica, para retirar emendas consideradas \"jabutis\". O projeto foi aprovado pela Comissão de Serviços de Infraestrutura em 14 de julho.",
-      "source": "",
-      "added_at": "2026-07-18T03:26:34.231944"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBocXB6Y0htNk9GeG02N19DRHFpb3A4V2RESTlra0thc29QWjhyOHJhUjlxVDZoWTNidWk4aUl5MTE4VVNHZE9CdExiRnRRVTJrQmdBNUhkTjlKTUhrbEE?oc=5": {
-      "title": "Tag Eve Air Mobility - MegaWhat",
-      "summary": "A **Hitachi Energy** e a **Eve Air Mobility** firmaram uma carta de intenções para desenvolver infraestrutura elétrica para aeronaves elétricas (eVTOLs). O foco inicial será em **São Paulo** e **Nova York**, visando a operação comercial dos vertiportos.",
-      "source": "",
-      "added_at": "2026-07-18T03:26:34.231985"
-    },
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVU1sOFc4MHo3R1p5VjJIOU84TjZmTmU1NENPbVVRbFRxT2lzUFRNVDlxeUd1M0ZFQUY0MFRrdG95WUxaM2tXWkxHNzV1RFVfcFRqeG1XNjVycVNQeWFoYTNhS0V5VFppQkFtWmVEODFtMEk4bUlnTVMyQUZVRWp1aQ?oc=5": {
       "title": "AXIA ENERGIA S.A. – 1546075 - estadaori.estadao.com.br",
       "summary": null,
@@ -4065,7 +4047,7 @@
       "source": "",
       "added_at": "2026-07-31T12:12:48.438996",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWVhFYmhIZXBFTnA2THE2XzFic1F2TFlBdjctQjZVM2ZqM1dNUFVqTVJVMXVTNFBTMDB3YWVfRDhUNXMyRWk2THJ3NEVwWWZWOVREaDJpQWpKQmkwT25RSk5uTTZTYzZWUGZlSkV0Vl9JTXZzNUlBOTl2VDdNX1M0OVhQMnduRndpZDV0bmhoN3B0ZGttWmIxX01aaEFXT0RRQjBxZ0gyV204NDA4a3hld09md0ZFZnZCMTVZNUlQR3lIU0RPOU9RampVaDQxVEZSeW9MVlY0SHZFVmF3ME5kX3JxaXhlUdIB9AFBVV95cUxOb1Zxa0I2X0pDVThLUDU3M0ZDdDNnbGxmUjR2U2kzb18wc25EaGFrTmFZMlpuXy1JTFdQRHJ5cXE0QTZWeUR1aHlTbUpYLXlsWXdpYUtlcTVReE5NWVBRUmZULTd6N2UxZVVseDduQnRVLUp2eERXSXNkcHpETVpLLVlNSnRsYVpRcmV1Nkw5M0duTmlaM1dUdG9Eb25ubUtjLWVRMk9xOHVfRU9rQVlOTW1EMG5TWVo5WmxlSk0xVy1DaHVrM0dRVi0yeXprbWtGODFlTHFvQm5HcE9ybmt5S0ZINnNNanNZdmJxWUduUG41dFc4?oc=5": {
       "title": "Engie supera estimativas e eleva projeções impulsionada por redes de transmissão e ‘trading’ de gás - Valor Econômico",
@@ -4159,7 +4141,7 @@
       "source": "",
       "added_at": "2026-07-31T15:07:38.487511",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0lzZEJPYnhvYi1DWTVaYXBRbDVuTkUxVHZPREhqaDIwbnhrUzdGSjhsd19veU5FTEs5b3ZfUFc5ZXhiX0hGdVN5VlJEaEUzZlFEQ3dTOWw4WXhsOGY0aldJWVRsc3d0TDZuWG1BMjhMd3NWS0F0TVZYdFJyNHhsNzlPOEhQSHhoRldqd0g4MmxpZUVhNW96dno5QjJyeEl5RExIM0xfRHdhY3M2ZS13?oc=5": {
       "title": "Roseane Santos é nomeada presidente-executiva da antiga ABGD - CanalEnergia",
@@ -4167,7 +4149,7 @@
       "source": "",
       "added_at": "2026-07-31T15:07:40.143285",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2NzUzhCaDN2RWM3V3ljNERESmpvRnI2VlRLNU1ZajVWSGNBZTI4LTRwanVlcTFjb05mNGdaQV9uSXBnUDhqMmNvUnZvR0FsTFcxTi1NcjVRaTNyWmhTb1V3cnhDZTE2YU0wbnNFNUlEbEladnJmaXRuYjZBc2FFSHN3UW0zTVhjUkk2dHBoajNTVnpCbjZfbUEwaTdzUVBOMGdLSURucFNsZw?oc=5": {
       "title": "Eneva acredita chegar em acordo de contratos de térmicas - CanalEnergia",
@@ -4175,7 +4157,7 @@
       "source": "",
       "added_at": "2026-07-31T15:07:41.777966",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcHNXRHdTX1VTQm5LeFdaaUxrYnRFT1hUb3g0X1JNWnZmcXRZamRURjBVSjRFUVBSdkpxd3czS0F6Mms3S0VsWEFRY0FnWHg0bUw0b0dYc1hrWnh3THZ6aVpsbXBndFlicDdiRXZ1ZW5uQWotcHpUWFpRZXVsU196QWpKcTQ2UHZWTU5oeFdmQ19qcy1NZHlveEY0RmtBVW1nZ0ZrYkNSUGFBSlB1VHR3emxwc20xSUlKS2JCd3JCVGdseU56QXpLaU84RVhFdEnSAd4BQVVfeXFMTmlRYjVSbVYwUkpjeTdEUmpFalZRSGhPY3p3VFpqR0RvWk1nSnJHUjVFZW91cy10VXNKVlFTVjRIMlRjRVRjYkxhUm9DdjlEdnRmZVc0OGtrREpCLWpITk15dEpEWkc5YTFoTDZFOWl4c0E0emtKOEY3VVoyYVJ2MXEzX2U3SkpkazVzR0RkWURtUVFPMHpuUDBKYVFUSmRqYTBIZ3BCbUYxMHZ0VXNZVmRuSEx2UnFUUG8xYXNkOEFfR0ZZaXhva3hkY2dSZDVWZldEcUVCaERVU0ZDUVJ3?oc=5": {
       "title": "Samsung e Erex planejam usina de biomassa no Japão para atender à demanda de IA - Valor Econômico",
@@ -4233,7 +4215,7 @@
       "source": "",
       "added_at": "2026-07-31T16:57:15.198983",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVjlkWWJrQ2RzRy12QURkZjFwOTBhTXdjb1RlODVZbTRDb001aUV2YVJESk42TUV4U0RMU05DNXhMdUQ4T2xqank2eURVRHI4bHh4SWtqZHRkSmZDR21YN2dzS0V4NHJ2SS1jLWNHTm9weGQ1bHZWallENUpJVHM5OXBzc1hsaXhnTTF2cjBpSWVibmpnTEx5Z2NRcWZNQ3p0eUZHblNCQQ?oc=5": {
       "title": "MME pede que ANEEL fiscalize interrupção de energia no Rio e em São Paulo - Agência iNFRA",
@@ -4247,7 +4229,7 @@
       "source": "",
       "added_at": "2026-07-31T18:42:41.515822",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcjlDc1R4cEVFZGpFVU9WZ2hnZDlIb3NWLWoydFp2QnF3NG0ybXMwUHNDYjBiNE10V241MzludXVwZWk1Z3ZVRkpWNXlPSWFRSTNiZ3VKRGVvTXc4M0JZZ3FhOUI1T3hwVm1FNVdhbG9BdlZ4Si1rNW56aFlNWkwwQXZsak90aWlJMlJkXzdOYVFZTU5HaFk5SUF3SkV3NU1Cdm0ta3NDTmlGNnZ6WnVMYWN3YzdiVkRuX2UxMjFteVJickMzMTJzUUg3c3JYU3Q0QjBNU2RzeWEzb1U5UzFMdnlVRFUyVXFkOE11ZExHNGpaQdIBgAJBVV95cUxOS2lsY0kxcFUxOE9sQkUyUWRvRlMydmRXbFh4TmlnUm82Ym1fM0dPeVFzZlFBSmt2MThyTWttbnlCTm1pb2NWcGhRemctN3JzaEFDTDAxcm56anBONllKRFpuNU5pdHZoRm10MXVkeldwOTlCTFI4QUVDRS1WUkd5M09BRWRaX1VHbUVweDRYVDJfRUwyT2lfN2pFVHF6WFdILUZIc3BVR1BXWElCMS1WYy00c2E1dHg2dnpTYkNWREZtbHZFZXp1M05RY0pza0ZoLWFCQ0RMbWlRV0kyM3FmVnQ3NVp2M2oyTThjRWlyUGhVR0tnVXVrWnZDY0E1WUNh?oc=5": {
       "title": "Diretor da Aneel se reúne com a Light para acompanhar restabelecimento da energia após vendaval no Rio - Valor Econômico",
@@ -4263,7 +4245,7 @@
       "source": "",
       "added_at": "2026-07-31T20:35:51.181239",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUHlkQjZRU254akpma1NyTVpHTmMtbzJjZ2dmUGN5LWJtRXR2RFp6S1owTGhES2FRN3VjdzAyb0Z2RmN0N3E1cGZSelZrQzNRSUhoRHRiZGFwZERFTl9aS0NoQlpVV1BPLTVlNVQyTmZfQlBNODY2LWs0VVhLRG9pbmUxb3NTSHJuR3FGQVNKM2E4d3g0NDlrQWJPSGdzVlBoWWFoaUphejNiUDNPSFpySXNKTmlxQjdXZGJCbW9pa1JzdjVDdlZ5aVpSVmNBVFBKOEh4SmFUSnpkZnBEVDBNUlRSbzJmLU52ZWhZbnRnMk5ibGNlOGotLWxyaGxkNXVxUkJQSTcyMXJnSlFFVVE?oc=5": {
       "title": "StarCharge é eleita a marca líder em microrredes na Cúpula da Indústria de Armazenamento de Energia GGII de 2026. - Estadão Blue Studio",
@@ -4381,7 +4363,7 @@
       "source": "",
       "added_at": "2026-07-31T21:45:47.746898",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2RjNW1TWncxSzkxNGlMVjlOTzBPZWFtMktjdEpnZW5xT3ByOWFJZTRzVUFJRUZybFFLQm1pSnFrSGpaWHRrRFlWZzlwMTdwbl8yNnFVRTcwRURtLWQ0am5rUVVad1BUbjdIWldYWl8xN2xzUlI0dThTTmNYWnA4ajN6TDlzd1B2VlZEc3dObkdMdWtyVzJmWlNpMUxwRktROHY3QzQ5eTlyNEVUbG92Y093SFlHdWJNVllERlZfbS1tZw?oc=5": {
       "title": "Firjan cobra solução para impasse no mercado de gás do RJ - CanalEnergia",
@@ -4389,7 +4371,7 @@
       "source": "",
       "added_at": "2026-07-31T21:45:49.606338",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVF9ocnEwNHc4MzFlc2o4cjJtSXNrc3hieU1Sakl2TmNiZTB0YmVQT2N0UTlWOHN1eVNMaHo5NEdnRTU2ZWVLVHRzeTZieTk5YW5rX2xaaXJ6SHg0QWJiUlQ3SFhyVnZJdEtLVUVILWdrMmdrMkVsUkc2MFl2NXQyam5EMjZqWnA0RjAyLVFWM3FlNTByN2VFdXJ1RjYxTUNYUzhkMXNBcGY4clA1d2xqQmFtZFRaMFNH?oc=5": {
       "title": "Diamante Geração avança nos estudos para conversão de Jorge Lacerda - CanalEnergia",
@@ -4397,7 +4379,7 @@
       "source": "",
       "added_at": "2026-07-31T21:45:51.485501",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbk5ycXM3Y3lrY3pSc2FpUmhDN2pIRThGc2ZHdEpRd0tsQVZ4MHBOSWFEUmxpN0cyWjVxZTA3UmhYYjJrbHRYTjJ4blpuTElIQTRSaFVtZ0QtczFqQnR2THUzZ21tVFJ4bnEwWlJhVC1pWXV5M1NRVUlLY1ZVRnhMQUgyTlBueDhMbjEySkV6ZUtwdlBxU3lKTzJJQU9MNFc0Nm9TTzE3Z3hoUzJBMTFiOXE1VGY4MkJEbWhhUjE2bFd3b0ZBUUwyTzh5cENfb3fSAd4BQVVfeXFMT0I3emtEQVhJSjVJYThydl9KNTJEQ3RWTkt5Y1FoR0kzcXM0UWxnYXI1ZXpGUEdsTlctN1Z5bXlJbnVlblRFdXVrS3dEbExhYVpodXJvQjdxT25NYzdLalJGd2FxWlpkTEJuVVZJd3F1eGNhYk5Dd2dJS2NlRkhLeXBNWXVFR0NHbTZVd2RIWC1oN2hHZmZqNHNkbmN5dlQ0ZVFaU3RwR0NmRmxxQjVKbWcyN19xUG1SSlVtYUk5U083dEpYaUIzM1NJRnJZZmNhcHZmbkJobXFtVHJvY0R3?oc=5": {
       "title": "Aneel mantém bandeira amarela e conta de luz segue com taxa adicional em agosto - Valor Econômico",
@@ -4405,39 +4387,37 @@
       "source": "",
       "added_at": "2026-07-31T21:46:56.873363",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFZDdnNncnQ1QjhPR1VLQ2ZSQXNSb1RPdFNYMUswVXBzVnpIX3lPWDNUS2dTQ0NnTXJfVmxwT3lXbUZST0RTbnFENENnSEdSMFZCcDVmMEg5dzRtS2Z4b3VBc21TUG9EbHVRNlhJSXlVUmx1dDhhVm03UHB0RVRqTVByWFo4bWlWQkczNFI3czlVa1lJQ2s4dTl3?oc=5": {
-      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - Estadão",
-      "summary": "Economia Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor Política Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques Política Missão faz evento com plano de governo de Renan Santos, open bar e ingressos de até R$ 7 mil",
+      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - estadao.com.br",
+      "summary": "A **Aneel** manteve a bandeira tarifária amarela para agosto, o que representa um custo extra de **R$ 1,885** a cada 100 kWh para os consumidores. A perspectiva é de bandeiras mais caras no futuro devido ao El Niño e ao aumento do Preço de Liquidação de Diferenças (PLD).",
       "source": "",
-      "added_at": "2026-07-31T21:46:56.873547",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-07-31T21:46:56.873547"
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFdGQng3Qk5GbG41Y0M4SkRGVEd5SWVFb0g4bmlwZFdfVmxTc1JzalVCZ1JjYm9FNVlhS2dmbmo5cEtKc3ZWbDdoOTZzQ0JHZ29kYWw4SlpqS3BqdHZBT2RWa2taTUJxdzlHbEdHNjlMT1hjN0w5bFpXQzlJSzlMbXJjM2MzaGdLWXN3WGtWc9IBlAFBVV95cUxOOWpPMTZlcUN1ckFfZGp6eVNVdUs0LWRjMlVfWFVzUVl3Y0ZpOXFGZkdjR3pIMGZKUFdybzlvN1FCc21fVWJQa1kxTkhhZks0bFpKcUxsbG00WVR6OVdQeUY0SjZqQUgwbHg5TktFVU1WdS1naV9qWEdQLVZITml6N2lRZmQyRmcyRklOMGZoZlFHbmpZ?oc=5": {
-      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - Estadão",
+      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - estadao.com.br",
       "summary": "Gerando resumo BRASÍLIA - A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira, 31, a bandeira tarifária amarela para o mês de agosto, mantendo o mesmo patamar verificado desde maio de 2026. Nesse nível, os consumidores de energia elétrica continuarão com um custo adicional de R$ 1,885 a cada 100 kWh consumidos.",
       "source": "",
       "added_at": "2026-07-31T21:46:56.873688",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1XNThBVExhY0hLLU1TTDBxZktGSVdaaEU1T21HV3JJeW9IVTF1dmJ6d2d4X01hbUh1VFRCdVc0eTdqa0tDUzlHNGpBU0YwZUQzbGdJa0t6TkFBcEdhM0hSejd3OVZUNkk2aWw3aFRfR05mQUZwX1M1RUdxNjQwUGkwZGlIb2s?oc=5": {
-      "title": "ANEEL mantém bandeira tarifária amarela em agosto - agenciainfra.com",
+      "title": "ANEEL mantém bandeira tarifária amarela em agosto - Agência iNFRA",
       "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) manteve a bandeira tarifária amarela em agosto de 2026, repetindo o cenário de maio, junho e julho. De acordo com a agência, a condição reflete o período seco, com níveis mais baixos dos reservatórios das hidrelétricas e maior necessidade de acionamento de usinas termelétricas, de custo mais elevado.",
       "source": "",
       "added_at": "2026-07-31T21:47:10.028119",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXR3MWNyRjhxQ2tyemtQY1Z3Z2NrTVR3SnhQbFUyb0RFZ3hkSkJtX2Q3NkkwaGcxR21hQ3NMb21Yemx6ajBXVTYtOF9SMDA5NHd0NWdadGl4SjJudWVlU2VocnVZRm1vSTlldG91bmlGbUFNSDcxU2t0R0tjMF9RSTVCU1NERlpfVWtyX2REMEM4MUdMWkE?oc=5": {
-      "title": "MME: usinas térmicas não poderão participar de leilões de gás - agenciainfra.com",
+      "title": "MME: usinas térmicas não poderão participar de leilões de gás - Agência iNFRA",
       "summary": "da Agência iNFRA O MME (Ministério de Minas e Energia) esclareceu nesta sexta-feira (31) que usinas termelétricas que geram energia para o SIN (Sistema Interligado Nacional) não poderão participar dos leilões de gás da União. A pasta destacou por meio de nota que os certames se destinam à indústria, que poderá contratar o gás e utilizá-lo, por exemplo, para geração térmica própria, por meio da…",
       "source": "",
       "added_at": "2026-07-31T21:47:10.028232",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdF9HWHRiSXR0aGdHX0kyZGlPeTlnaG93ck91NkY2eDlKbHYzb1FheTN6VE8ta1dzQXUwNVFwaEJ4amtWckwxN08tR2E4MXVXY1oxa3Q2enNwanJDUlNWbEFiR3hFVVM2Z29Ncy02aGl4WERqU082Yllwc3VYMGJOVUxQNE05LThfWDAxcTFQc19CbVZMNTRNUA?oc=5": {
       "title": "Conta de luz seguirá com bandeira amarela em agosto - MegaWhat",
@@ -4445,7 +4425,7 @@
       "source": "",
       "added_at": "2026-07-31T21:47:10.028333",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGR5c1JNSTd0Sm1kZTkzTExnblhmRTNQQXMtdUVOVzZKWDRXLXF1NUpTN055NENSYTV5b1BjNWdqMzdUMmk0c1FTaXBWdjZyMlRYc0pfanlRWWNTejY3Uzl3clNWbmJsSVJ5SG5aQmQxNXZYWDJ2ZDB6VzUwZmZqdE9pcXVXRjh5YTU4a0ViaGJsN2lMRWRIbno4WGx5bHFLbEZ3Umh2OA?oc=5": {
       "title": "Reservatórios do SIN devem terminar agosto acima de 60% - CanalEnergia",
@@ -4453,7 +4433,7 @@
       "source": "",
       "added_at": "2026-07-31T23:14:41.581648",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLURBZ0YtV3pkM1lEZjZHZ2g2NzBZdGFBSGp6VlJrSV9xdnhqSnlVOTluV2lYWG1yRVpYWm1PZTZtMm9iZnA5NXhsU2VzLXhaMVU4dzBHbm9rU3dacFc0bl9HYkJoRjRZNDhUWEktUTdCbExCYVN3eHFIVHI5Ymg3U0RDVjZra04xX05MNUFYbzR0anM3NjBoMzZ3R1M?oc=5": {
       "title": "Bandeira tarifária permanece amarela em agosto - CanalEnergia",
@@ -4461,7 +4441,7 @@
       "source": "",
       "added_at": "2026-07-31T23:14:43.220491",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2NSOW16dlpjc3pfUG9BVm5LR0hGTkVmVll4UkNRYVltTk9sODN4dHJfUmxSbWx3Y0Y1bnpkZE5JWjJTVDV5Qk1Zc3E1QURqZ2ZRNlEzZE1vTy05b1l0MXdTQTZXa3VfSndBVUNhcnhXNXNUOXhTVkZSc0kyX2ozYlJqRHVTd1JSUk9udFdTd2lSUlFKa0wtMmhVOW1Zdk5xa0M3WW9ULXF1eUlRMkY1QjFST1hXNER1TnY1V29VTXBaV0tJNC000gHWAUFVX3lxTE93b1FUV1haMTNXemRrMEhMbkVaVUp3eU9UTUU5STZKdWN3RkR1RXpTY0RjN3cza1NORmhCaDBsUTdJc09qcnVLZXRkdGZEcXRCY1VEbmZucGx3bjVJSnYxQjVzVXhoYTJHZmNiNjQtbUtMTEJqakxEa3k0c05KUGxWd3FhZDUxMTdJUUNPb19iSVozRHNycnFtT3J0eThLV0VCQ2JiNjNxems4Qy1iSG5PczNyNl8yN29SU0RlOC1EZm5MUm9uM2F1enJmMUIxQ2Z5bHMta1E?oc=5": {
       "title": "Energia elétrica puxa aumento na prévia de inflação de julho - Valor Econômico",
@@ -4469,29 +4449,77 @@
       "source": "",
       "added_at": "2026-07-31T23:15:40.559305",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmlIRjlRMnVSYUluZXY1dEdZX2pzRXZLakI4Um1MdmJnNlhTWXoxR2RuUktTNjVCNFFyMUFIdFVCNW1SOXVDZkVmd0x4NkhUWVJJLUFES2lMbXgzSzJ1SnFoYUVocHBldXktU3liS0k0VS00SWJmVXU1Y0JxUGNuTE83RUNqS2kyNWNqWGRKa25YNDJZdHJWTlNHS20yYU9tYlNkcjJ3ZWxlZm1Ib0w3d0lJWkpxVzA?oc=5": {
-      "title": "Conta de luz continuará com bandeira tarifária amarela em agosto - folha.uol.com.br",
+      "title": "Conta de luz continuará com bandeira tarifária amarela em agosto - Folha de S.Paulo",
       "summary": "A bandeira tarifária para os consumidores de energia seguirá amarela em agosto, repetindo o cenário dos últimos três meses, informou a Aneel (Agência Nacional de Energia Elétrica) nesta sexta-feira (31). A bandeira amarela acrescenta R$ 1,885 a cada 100 kWh consumidos na conta de luz.",
       "source": "",
       "added_at": "2026-07-31T23:15:40.559527",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmx4Q3VIR1VDTjhKR1A1T0VWY2IxWl85YnVINW00akJqckh6b1ZhdEg1YmozYU95dW93UHFKQ19lMVFPVXFZNGdIM3Q0eDB4d002ajVYY3J6LXI2VEJyOHFXZUVwQmdHT2VwXzcwVVh5RjdhSlZjZDg3NzRMWC16SkpMWGwtQUhhdGlLdkRhd09aalVSUTF5S1dzWmF0QlhxRzU0dVdpdEpLVU5fd1pPTjA5VVI2X1JTWWd5T1ZsbHM4VXZ1TWlSRV9WZVhFdVJVNXFfSkpNZFNkUQ?oc=5": {
-      "title": "Ibovespa hoje: Santander (SANB11) dispara 13%; Brava Energia (BRAV3) lidera perdas - Estadão",
-      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta ibovespa hoje santander sanb11 dispara 13 brava energia brav3 lidera perdas area tecnica do cade aprova operacao entre azul e american airlines joao fonseca rejeita rotulo de novo guga e se imagina no topo do ranking em ate 5 anos georgieva argentina honrar divida fmi descarta novos desembolsos falsidade ideologica e compra…",
+      "title": "Ibovespa hoje: Santander (SANB11) dispara 13%; Brava Energia (BRAV3) lidera perdas - estadao.com.br",
+      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta ibovespa hoje santander sanb11 dispara 13 brava energia brav3 lidera perdas plano de infantino para investimento privado na fifa nasce e morre sem manifestacao formal da cbf Esportes Rodrigo Capelo Conteúdo Patrocinado com um negocio sem pe nem cabeca infantino fez a facanha de arriscar a propria presidencia na fifa ex…",
       "source": "",
       "added_at": "2026-07-31T23:15:40.559589",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEVoQzI0cG9oS25lclU1aFppRlB4T3dfN0xEd2I4M0FYWDZzSjhJbmo4YVFhZUU3UkwzdnBzQXlYT3g0bTRYYTRja3JjT2VkbDhYN2I4MnJHalMtRk5INHo0OFktbzdwSVU0VmdaZVphWkF4SWI1cUF6M0p3X1JSM3l3MzEyeXlPZ0xVRlh1OFpnNHBYQnhTQ3JZbDhwU2lGVnpWNGh4YnRmZTVLTF96RUg3TGZWVFNMVUdzU2xkVjVOclk?oc=5": {
-      "title": "Artigo | Portaria do curtailment organiza o passivo, mas não resolve o problema do setor elétrico - agenciainfra.com",
+      "title": "Artigo | Portaria do curtailment organiza o passivo, mas não resolve o problema do setor elétrico - Agência iNFRA",
       "summary": "Heber Galarce* Compensação proposta enfrenta resistência entre agentes e não resolve nem os cortes futuros nem, ao que tudo indica, o passivo que buscava equacionar A publicação da Portaria Normativa nº 140/2026 pelo Ministério de Minas e Energia representa um avanço ao estabelecer um procedimento para compensação financeira dos cortes compulsórios de geração renovável. Mas é um equívoco…",
       "source": "",
       "added_at": "2026-07-31T23:15:53.194622",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFRsOGJJOXpDRGJITW84MUpzcVBLZURiMTNfT05hekVQZTgwbkVlX01KellybC1KSENiOHZWSVIwbG9xUXNCdHlMQUNXbU1VOTBtZWozR3psRHJqYmV5d1BpOFRscDU4TG8xbi00SWhJNm5BQ1NUTzRFb05kYzJnTUhaRWU0aGhQQmhaR0ctQW5ZSVhEZXNXN2RzUHRMcmdSdlcwUzllc3RqZ1U?oc=5": {
+      "title": "Aneel aposta na tarifa horária para sinalização de preço - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-01T03:46:26.003291",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHRwbW9XVi1PTEpoQkNoaFZKM2N1cUpUbjA5dVAtRGJISjVCMXZIUFpBTFp0U2VfdWFJSEVuMHdOLVhyR0tUS1k4aG5vc3FTdTk0TkN5U3pTbmttejk2am85dTlqbGVDaWxVWlRJZmhyR0VXVzY3U282cHFvMldmZnpDdUxldjNUZ1VyT1hSMmVDdGZJdl9VUWs0cDVrTlNZTXAwc3dic0g2TnhuVHh6U19jZS1kbWpGOHBGb2U3a9IBzgFBVV95cUxNelFsT0NZc2EwMlIyMWtpR0Rsczk2ZlZ2STlJaE4zVU1JclQzdkNOQVZVQ1ZhcVYxU2lhcDM4YlBSZjd0RFBVWFJHWnFjSHB0dDF1NHZNZTAtemViS1hsYjh1WTZ1ZzBPTnJYRVJwLTVyZkRFdWo5ZDFkazYwQXhWVkQwZmJ5aDhLMVhSNUpkYnUybGhNODI3QUtiNVJtRS01d1A5cU9qbTUyZGtZSGljbG1YSG5Na0h2ZEtnRE0xYXE0VDYwOXNqQWZqakUyQQ?oc=5": {
+      "title": "Acionistas da Engie Brasil aprovam incorporação da controlada Ceja - Valor Econômico",
+      "summary": "Acionistas da Engie Brasil aprovam incorporação da controlada Ceja “A operação visa criar valor aos acionistas ao simplificar a estrutura organizacional, otimizando a gestão e capturando ganhos de eficiência”, explica a empresa Os acionistas da Engie Brasil aprovaram em assembleia geral extraordinária, realizada nesta sexta-feira (31), a operação de incorporação da controlada Companhia Energética…",
+      "source": "",
+      "added_at": "2026-08-01T03:47:00.821177",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXNCaktjdG93X3VDZ3ZuUTJnQnVuNVJJdnp1NjcyYS1JZGZUUkUyeHBUYlJqemdXZTZWcnFUNUxkcTVVT0JzSGh4NG1CWUlMRHF1bVpfUUNXQzNJTEdHWmJEQnlYcldzR2Vma2ppMFNSLVhwYzFOMF9FOHdvVFM2VmhWOEVxY0JpM0VERmI5UkxJdHBwbldubmlCVlFQOWNvUkh0NENIekI2aERzV2pHcnFYSEdZdnM?oc=5": {
+      "title": "Opinião | Novo normal: segurança energética e segurança alimentar tornaram-se indissociáveis - estadao.com.br",
+      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta Economia Adriano Pires Conteúdo Patrocinado novo normal seguranca energetica alimentar indissociaveis plano de infantino para investimento privado na fifa nasce e morre sem manifestacao formal da cbf Esportes Rodrigo Capelo Conteúdo Patrocinado com um negocio sem pe nem cabeca infantino fez a facanha de arriscar a propria…",
+      "source": "",
+      "added_at": "2026-08-01T03:47:00.821760",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXFSbGpjdGZEc21aMHlxTGVMU1JhWUZ1VS1JdXlTY1BoUWswWjZrNVlXSUFPMFhnajJrMXM1Mmlhbjg5MnFvbDFPWkJfR2Y4QldaaEtITlVuU2M0WWZ4bDl3Nno0MVNVRlNUeDFDZEUxTmpiZnhsOVh5S3B5SnkzVWZLTnFOVUFpdjFGWkQzclFRWUgxdTFmd0xoc0l0eXMwcHg3MV9mZkdlVU9T0gGyAUFVX3lxTE5qV3dKLTJBdV9EWENZVndWbGFlQnRtclN0T3RxX2dhMHlEamxkdVlFZElOaG96VkNEalNIcS1oTld6MWlQSnJuZnpqOU5BYXRCQTNrS01rZWQ3ek1ZV3k0WFdHVEMzemVBTjQzTmtDalJPTG5WRWNXbVNPU2tNRjZ2WENfSjVPaG1CaGpQNUtoeUQ5OHJpNlQ1VldsZVVILVkwVVVQaWcwUy02U1BQc1RJbGc?oc=5": {
+      "title": "Novo normal: segurança energética e segurança alimentar tornaram-se indissociáveis - estadao.com.br",
+      "summary": "O mundo vive mudanças profundas na geopolítica da energia que vieram para ficar. Mais do que provocar oscilações nos preços do petróleo, presenciamos agora que a principal preocupação é com a segurança energética.",
+      "source": "",
+      "added_at": "2026-08-01T03:47:14.125380",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3JfeFpSSXN6aF81dUN1ajJHU1NnRm5udnY5dXRfOFllVjhGQTdKY2I0RlY0LUNYNWRNdmttOTJNdENmMThLOEFid3E1YjZKMkJJdWdEbmFaVXNhRzREeWExRzZIb1JOWlR3MnZ1SXZwWUFmWlhXUTVVbWw0Tk9pNnpwbFptaU50a1dmRmlnWXkwS05uaGRRRmFzVFJYc0dUZzFDMXAtNFotTzhyTkkyQUQ1cTE3eS1OaEhEMnVoUXZRdUtVUkh0MmthRUo0bFMtdUHSAdcBQVVfeXFMT2p4WlhiaUI5Q0tPVEV0WTU3V2FWZzBReWJObXR0cjc1U3NxVlZ5TW5aYUZScGZTaWtYS1J4ZzhFYnFqNDdaYXh6bG01QWViVUJpRjNwSVQtMzlYM1RKNlRXenBXMXBJR1BQTV9ielBfek1KWVMwaFIwelhvcGlwWUFTWURPUk11T2lvRDhTQmxmMWkxb3FvR0FUTGZycmVMeEpOT1FfSzhLY1gySWNYNTh4dU5OSWFmSjBIT0NZTktiNzlyNVdzcmJYT1NNWXBkc3FfbFg2Tzg?oc=5": {
+      "title": "Nível do Cantareira fecha mês acima do esperado e Sabesp diminui tempo de pressão reduzida à noite - estadao.com.br",
+      "summary": "Sabesp busca água a 60 km de SP para evitar desabastecimento Obra levou uma década para sair do papel e tem o objetivo de reforçar o sistema Alto Tietê. Crédito: Estadão Gerando resumo A Agência Reguladora de Serviços Públicos do Estado de São Paulo (Arsesp) determinou que o período de Gestão de Demanda Noturna (GDN) do Sistema Cantareira — quando a Sabesp reduz a pressão da água nas tubulações…",
+      "source": "",
+      "added_at": "2026-08-01T03:47:14.125620",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JdVRCVlU3X1M0NnhQZkJRRVRjTVBOOU16RkwtbW5LT2xweHhaQTAzbjVBVEJfcFZ2T0dGYmc3SVpjVmVncmdfdi1HbVRJdmtIZ2NONnJMaW1TbDMtQ1RYdF90ZTkwZw?oc=5": {
+      "title": "Últimas Notícias - MegaWhat",
+      "summary": "Glossário Comercializador Varejista O que é: comercializadora ou geradora de energia elétrica responsável por representar pequenas cargas na Câmara de Comercialização de Energia Elétrica (CCEE), em geral, de consumidores especiais, cuja migração aumentou nos últimos anos. A comercialização varejista caracteriza-se pela representação, por agentes habilitados pela câmara, de consumidores ou…",
+      "source": "",
+      "added_at": "2026-08-01T03:47:36.479526",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
