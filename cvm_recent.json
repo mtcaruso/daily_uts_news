@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T14:41:38.017419-03:00",
+  "last_updated": "2026-08-02T15:38:19.391056-03:00",
   "items": [
     {
       "cnpj_short": "01987-9",
@@ -5310,42 +5310,6 @@
       "empresa_label": "Auren",
       "codigo_cvm": "26174",
       "first_seen": "2026-07-03T20:02:17.580214"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Eleição de Diretor(es)Ata",
-      "data_referencia": "20260630 30/06/2026 17:30",
-      "data_entrega": "20260703 03/07/2026 15:23",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Diretor(es)",
-      "protocolo": "1541676",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541676",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-07-03T18:37:14.183407"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalAta",
-      "data_referencia": "20260630 30/06/2026 18:00",
-      "data_entrega": "20260703 03/07/2026 15:21",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1541675",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1541675",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-07-03T18:37:14.183401"
     }
   ]
 }
