@@ -1,58 +1,6 @@
 {
-  "last_updated": "2026-08-03T16:09:13.765262",
+  "last_updated": "2026-08-03T18:07:13.682312",
   "items": {
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HT0F4TGtnblpFcFl2OEl0YXdwVzQ4d1QwYmxfaWxqZTJWZEhVUm5oRFFzUU1JSURhblVBVEFld2ZLLUpiQWFhcXR1VExGZHNPLURR?oc=5": {
-      "title": "Tag plenário - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-20T16:43:24.949508",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHlpMk5EMEppOElmbjVpbTFJZi0zZWZrVURwVzNpR1R0Y2NZbGpvT2pEdVVubXpPbWRDd2ZTMXdpUHVQWVRTWFVPb1dXT2hyWTdVQ0gtQWxmY0NpbmI0UkRuSFJaalFaOUhQaXZrakdQMG52ajNaS3RZR1hVOWxVTDJR0gGQAUFVX3lxTE5hSlFGUFZXNjItbWJ5QWJXMy1jNE00VXVDYkRLLVl3dWRUV3J3TTNDWmYtMjUzaEYwbWwxVFBDUTJmT3dKcTloSm9QcU5XT3BfVmdfWW9kT3RLUW45WE8xSjlON1VTMGV3NHRSRzJoUTlVUkJibS01Q1VnbTNoandISWFwZ25vWExPZUVFNmU2OQ?oc=5": {
-      "title": "Tarifaço machuca, mas nem tanto - Valor Econômico",
-      "summary": "Bruno Carazza é professor associado da Fundação Dom Cabral e autor dos livros 'O País dos Privilégios' e 'Dinheiro, Eleições e Poder' Tarifaço machuca, mas nem tanto Efeitos do tarifaço são limitados, e muitos setores compensaram perdas redirecionando exportações Donald Trump não aliviou e cumpriu a ameaça de sobretaxar nossas exportações. Valendo-se de uma investigação sobre supostas práticas…",
-      "source": "",
-      "added_at": "2026-07-20T16:43:42.192052",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLU9MSGJHVVZpNEV2d0xnR3Ezd0RnZ2ZLMXVheGNvZUJ3bzRqRjRGd2RHZU13U3dYNjF2Y2V3Y1pFMnVBdTFwZ3NPaml4STczWGtRUjJSUk5feFpORG0zN3dBd3RkMmEzVXBzQ1JpNlNaNl80cklxRENGNGxyQS1NS2FWWlVfSWlkWVN1UldQa0NvaHRuZkVGeGdsNXlNdVV1X2p1Zl9CU3ZrWm1SS1JHb200Z25ia3ZzSl9YMkVDbmRMZ0ZndTlGejAxOVRFdDlZekdWMA?oc=5": {
-      "title": "Sabesp faz feirão para renegociar dívidas com descontos de até 80%; veja como participar - Folha de S.Paulo",
-      "summary": "Clientes residenciais da Sabesp podem renegociar contas de água em atraso com descontos de até 80% sobre o valor da dívida em um feirão promovido pela companhia. A campanha, chamada \"Acertando Suas Contas\", vai até 31 de julho e é válida para consumidores atendidos pela empresa em todo o estado de São Paulo.",
-      "source": "",
-      "added_at": "2026-07-20T16:44:42.819409",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2NfbzYwcm9OUUlRd1JDNWNzLThtWEl0bENNRi0taWFTdDVkZmtDM3pkVGMySW0ya3BaVkJ1dnFyY3ZlRjdpQ0ZPTlE1Y25HMzlRX256YmpwaHUydU9Vb1hMdGlnYURZNlpLY0dHZEN0ZWtxMVZUQVRnSjR1R1BrR09KOVJkOUhvUTNnOXRHRm1zRHJBMUxLVWVtLXkxa1ZuaFMzYw?oc=5": {
-      "title": "Engie avança na venda de ativos de iluminação pública - MegaWhat",
-      "summary": "A Engie Brasil Soluções avançou na venda de sua operação de iluminação pública após o Conselho Administrativo de Defesa Econômica (Cade) aprovar, sem restrições, a aquisição dos ativos pela Azevedo & Travassos Investimentos (ATI). A transação envolve as concessões de parcerias público-privadas (PPPs) de Curitiba, no Paraná, Uberlândia, em Minas gerais, e Petrolina, Pernambuco.",
-      "source": "",
-      "added_at": "2026-07-20T16:45:09.345688",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb21CSG5idDVVNHZVeVBqWFMyRGFQekw3aFZqUUhjQ1g4Yk9rMmd0Qzh6eG5iY0FDSHYtcHB2Um1WZ2xCTEhaU0NxY01uLXl6U0NVSng5ajAzUXpDMDZHZWM0Z3Vtc0pKa3Fkc1ZtVkdLWXZtN3kzOEVwN2lQVm1LVF9xSm1FLW5nQnJuaEliQjJpR0IzMjJJSVRLVWxlYW1EdXlRQVl6WTljR0YzNEx1SDYwbXlYSjZ0SThyaFBZaG9EVnh6T3ZMSTVVZndLYk9qU0dvaV81S25VVUc5Mjdkcw?oc=5": {
-      "title": "Electra prevê virar superavitária em 2027 e tenta evitar cassação de autorização na Aneel - MegaWhat",
-      "summary": "Depois de rescindir contratos e entrar em recuperação judicial no início de junho, a Electra Comercializadora de Energia afirmou à Agência Nacional de Energia Elétrica (Aneel) que seu portfólio de contratos deve voltar a apresentar superávit a partir de 2027, o que vai garantir a retomada da saúde financeira das suas operações. O argumento foi apresentado à agência reguladora como evidência de…",
-      "source": "",
-      "added_at": "2026-07-20T16:45:09.345995",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdENPcnloTC1pWDJlOVRfUGxGT2ZCdkxycGZ5SUQ3VDFreXYtWlY0X0JZelZVSmRsTHZGaEhsanZySTkwUUYtOUZ4MUZlNHc5cndraGNzbU9pbGF0VV82bUlGVWk4VkdUc3pVR0JWN0hEcm5TS1dFSkVXUVF2SWlEYW5VcnBTWjQ3M1BGQXdEQVJlM3hKckZTVTJIYWVXa29BbTdKOE50WUdhVHp1RnpzemtGWGM3UjUxWXJjeUlvb21EWEtlYkJwMEozUHF4d1BsZnNBM1g5cw?oc=5": {
-      "title": "🎙️Hidrelétricas reversíveis, El Niño e o papel da ANA na gestão da água e da energia - MegaWhat",
-      "summary": "A diretora da **ANA**, Larissa Rêgo, discutiu o papel da agência na regulação de hidrelétricas reversíveis, tecnologia chave para o armazenamento de energia no Brasil. Ela também abordou os impactos do El Niño na disponibilidade hídrica e na operação do sistema elétrico, além dos efeitos do contingenciamento orçamentário na **ANA**.",
-      "source": "",
-      "added_at": "2026-07-20T16:45:09.346051"
-    },
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xX3BCMThTdTFTMlExYmZVVU5TeGdQejlkZE40X3YwNTZmdEV6VkZ4ZjNhLXVIY0ZialBfYTJuMjFubzJvRnVxQmZCTFFudkdDQlZXdFhQNnM1N0xKVzE3NHFKUjFGTFV2TzA5aC1zUQ?oc=5": {
-      "title": "Tag Warrington Investment Pte. Ltd. - MegaWhat",
-      "summary": "A **Aliança Energia** atraiu um novo investidor, a **Warrington Investment Pte. Ltd. (WIP)**, veículo ligado ao fundo soberano de Singapura. A operação foi aprovada pelo **Cade**, seguindo a entrada de um investidor chinês há pouco mais de um mês.",
-      "source": "",
-      "added_at": "2026-07-20T16:45:21.584349"
-    },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWxGVDEtaXdpMDBzVzZURDE4bWJhYXVsMGtHbEZKV0dfQ2l6V1N6UmFuWGdzeHFPaUtRSy1fVGNJZjVDeFNCMFh4T3ZpUnJQMXI5Q1lHcFA5QlplbjRTUGNzY09Eb0FHUEdxZWU4eGNZZWJlaGxhc2w0aVNwTG5vekRlWUlrb3pPRjZzbTlqellVODhnRmUzUV9ONXpRMktHV2JNRHIxM085UjB3b1lBYzMwZEl4UEVJZUxTUS03T2VHWkNXNEHSAdQBQVVfeXFMTklBOHY3cTlxQzJoSDVGSlNNcUNORlIzdEUwRTQ2OHdNcG5BNUVXTDJpZ0g2eF9KOS1EeUxUei1HM1ZXSmhZTk8weGdNMlRfX05CdzJRelFQUWY2MmJGdVRlQ013WGhON0ROTUFRd1FoRzlhUmRfMUFWRU1zUjI1djRpQkNwQUl0VTNWZU8yZ2dRYkhUbTRhYnVCX1hEUDZMLXk4V1h1X3o4a2hkNU9UeVN1emFoZmJjckhvLTR1ampMMkV4NG5yZWtsSF9JdHNsY19vQ0I?oc=5": {
       "title": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough - Valor Econômico",
       "summary": "GE Aerospace revela avanço inédito em voo híbrido-elétrico em Farnborough Defensores da tecnologia afirmam que propulsão tradicional e elétrica juntas podem ajudar as aeronaves a atingir maiores altitudes mais rapidamente e reduzir o consumo de combustível A GE Aerospace realizou o primeiro voo em grande altitude do mundo assistido por propulsão híbrido-elétrica, informou a empresa nesta…",
@@ -4473,7 +4421,7 @@
       "source": "",
       "added_at": "2026-08-03T13:19:28.562533",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2NxeFhTa0Q3ZjJfdlROWnB3UWQ3YTFUWnpKcExVb0dFYlZUWFp5b2dXdVg2TkZ1NlV3UDhPMlRuXy1WSm5mYUJlTEp0QXRjZ3pFZ3dudWhtNFdGa2lPYWVrd191NWtldGpJdGhmdHUtN01TOTFpNFhaUmVKUmN0eTF6M2d1VWJiWEFYYUFBUkplYlN3cFBDUGVsQkQ3RXVqQ3lpN04zUW40Ql9yby13?oc=5": {
       "title": "ONS e UFF pré-inauguram polo de inovação em Niteroi (RJ) - CanalEnergia",
@@ -4481,15 +4429,15 @@
       "source": "",
       "added_at": "2026-08-03T13:19:30.724677",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80UTUxM3JoZ0E4NDhTYjBtRXlQOFVBYjgxai1EOUxlMVJYZWc0N2FsWENJcHB2VWlsak9HR05QWmNGRWpOQzVWOUVCRVZwQQ?oc=5": {
-      "title": "Tag cara - MegaWhat",
+      "title": "Tag cara - megawhat.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-03T13:19:37.629056",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSW90YWdIUGJpYU1KVHZGMHNka2tnVDFRUk5qVmNoQWR6cldCQzF5TXY0NXNyVXp4WmZubklOZmdTR2hDRHhIbDItU3V3VEFpRTllMnI0aF85LXJwY0pGYjY2ZmZEZHJvQjBRZVBuQlQteTkzaURJTnBrUDFoTXdKclAyNWcwdkVyOTVCVTZyMURkQVVuc0h0cW1IenpPWDZOeF9aX1U5ajZTWXBaSzhsVWpzU1d1c1MzWWxzQTU3bUpRSGJQdGNSVXpsUzhzTTVF0gHfAUFVX3lxTE9EV1M5SjlfM0FWZ2lfaFU3MG12UU5tYmx4Qi1OZGtHY01hejNlYmRDa1JDSXZYNV9oVGlsYnllbGU1QnlYLWVqLURDWWhjX3ZJUzU4N01OOXd3M1JjWkx4ZXY3VDFOODcxN3plckhfYlBTNG5MVC1BbkdtRHUwVVRWY0NvSTUzakxuZUVkcFk5bEhDT1VkWnZnVXdiMDhiMlU5ckU1VzRYMXQxdGZTajF3R2VZT2dzLWd5Y01HY3Z4aWI5X1ZLNkIwWnBkTlJ4VkhlS3NBLVMtQVl1ZEhNWDA?oc=5": {
       "title": "TotalEnergies vende fatia em ativos de energia renovável na Europa para a KKR - Valor Econômico",
@@ -4497,7 +4445,7 @@
       "source": "",
       "added_at": "2026-08-03T13:19:57.515868",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGV5ZlZfLXM1U2FocnotczZWaEc3MXl1VDM0QzVoZXhxMWVjR1JXN0tMMDA1X2MxajZ0ejNENERWN2FhU3ZYNEVGYzhmVnowbmZTazNLcWZaSF9NVmdzRXlJb3ZmUFUtM3JXVEoyZEt3Nkc1Y3h4T3d1UkFRdGJSSEpQOG05WEFwcTNrTG9oY1NLam55dTRLV0cyN19YOVRjYzVHRGVuWmFLaW_SAboBQVVfeXFMTzdSYS1Jckx1OExvWEJYUDJTcllWMGNtcGYySUVMWXNsYk4xamFUdXc5QzBQVkJrN21mdTBBRV9HUUpST3BPcHZqN3h1MzN4T2lOcHFnbU9pTGZHLWh4cG1jbldvMEpBZFNGd010LWlXTXFSb21jMmF6RXFVc3FzNFB4dDJfNGRuRlRDcmJPb0ZVSDJ3TzVEaG1Xeng5RTFoTWIyUzlpZjJUYl9ydjhaVUxIbXlxc290NXJB?oc=5": {
       "title": "El Niño leva setor elétrico a reforçar planejamento - Valor Econômico",
@@ -4505,7 +4453,7 @@
       "source": "",
       "added_at": "2026-08-03T13:19:57.515926",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlA0cXMyc1dFOVdPMXFvamJCbERLenVCYWo0cFctM2s4Ry0yV3dtV2dKQTlxcEdtci1ERll6elVGZUNPeDJGcUFPMXJ4RGZvbFZaemhJQmJsME1iUFJnSmR5VUN5Q1NIN3AyeFcxaGFKc3Boand1T0tFZGQ5WEVYQzVPY1NmU19JWDA0M2xrazRVaXZTVHV6RlhGR0tJVy1OZ2wwampJR0hvZlk2MkNucFJwVGhPZ9IBxAFBVV95cUxOc2xicXJDV21UcmVBSGJLLV9DOFhCX2J5Zjl6SjZuRWJmdlFFUFd6S2dtSDgtZnN4R3NBYmNMYjBjRXJ5RnpCYlRaQVUtY1V4clhzRlJ0bWFFR0VQTW1oT29ZVDV1dDh3bVRxVk5nVlNHOGdtcnBvSnVtVUhBYW15dDl1WUZHT0NQaXlJWVlyRDJWZlQzMS1qdEJLM25GNW1LamNvc2xva0ZTNjdraEJlSzNzc2dHZEF5NmNxNTZFem16Rkc2?oc=5": {
       "title": "Rede elétrica de Cuba entra em colapso e deixa ilha no escuro - Valor Econômico",
@@ -4513,7 +4461,7 @@
       "source": "",
       "added_at": "2026-08-03T13:19:57.516007",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vb3UxWG8waVFnQkdWeVMzZEZ4eUgyZ1EwdVZMZDdnSVBUN1A3SWV3ekJQVDdaRGVXOGJxbldJSzk3Ulp1cUROcVg1ZzdESGtROEdCcWctQmVGeGwyTDkzclVmXy1uNkdqd3A3cFRLMTB4SGltQ2tXZmwxN1RLMzA?oc=5": {
       "title": "Com TIR de 15%, a Auren ficou barata. Vale o risco? - Brazil Journal",
@@ -4521,7 +4469,7 @@
       "source": "",
       "added_at": "2026-08-03T13:19:57.516210",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUYteUJrMGlRVG11YnhFclFTSUN4VWN0NWxwS2dBVDdCY21Sd2lPNXYtd1d1QzFTOWE5RGJEWmstZEZZczNrSDVQTm0yTDJxeTRJT2lXQ3hCTmtKSU12eGJQdzg5WU5JS01EWklmOGp2eFQ4dU9hMW1zWkdjUV9JZzlrNUNMTzA2T0ZRQm82RzgtUWdRbktGSDJBcHRvYldIVmtwaFBha1hiWkJDQTlKbG1RTQ?oc=5": {
       "title": "Cuba sofre novo apagão geral, informa empresa estatal de energia - Folha de S.Paulo",
@@ -4529,15 +4477,15 @@
       "source": "",
       "added_at": "2026-08-03T13:19:57.516296",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFFaTlRvTjY2V0FFRmk3ZjRZYXQwX1RMZ2Z6NXBheFVIRTlWZUJ4cENPTjlMTlBnUlBXMmF1STVzbTZ5SjJERDB1UTkzZkZ0R3BjMllPcGE4V1V2NzNwNDVnNHQzalhQY2VOQktUN2tCQ0VPMUJVWTQ3bXg0YkJjSGprU09YOHVWb0FhU2ltM05YTzNWcHBnQ0VyNWM3aV9JbTJNV1lQVUI1WmJUbnd3NFlxR21LUzhqaEE?oc=5": {
       "title": "TotalEnergies compra negócios de energia renovável da Shell na Europa - Estadão",
-      "summary": null,
+      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta totalenergies compra negocios de energia renovavel da shell na europa npr Esportes Mauro Beting Conteúdo Patrocinado palmeiras destoa e sobra enquanto o futebol brasileiro esquece como jogar bola itau vende operacao pessoas fisicas colombia panama banco bogota forca do stf nao esta na ausencia de critica mas na convivencia…",
       "source": "",
       "added_at": "2026-08-03T13:20:10.948911",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTl0WmlqeUtYb3FnNHF1cno4d20wbGZlZ0hiTy1jNGRYblk2UkR6eWdHWEpyaExUeWhrRjVDOWJ4dzUtcy1pNEVGX1dYZTR3dzBKa3lzalNNM1dzdkpyMGlkOTBZckdQNVBBVktuYThKUzZ2ajhsQWYtREhKT1Rwalh6YktiV0dHV1VxWDQ2TXBoQnNUU1lBRjR5RWEyV296LWthc1otVDlLZ0VGNDVJ0gG0AUFVX3lxTE44ZnpGQWtFRXk4WVBTdXROa0g4VGh5dS15UXhCTUtGN3BZNzNwUnJjXzRvbFY2bzJRVzlUX0xsdGtFV1JqemVJclVFNE9xanM2TjR5N3V0YTRLbi1oTmYxOUVxb2xvTmlodGR2b0tNUUtvbUVTck9CMjBNemNVV3R2ZjdkWjl5cXctYW9MZC0xNUcybFlENWE0dDRBbUdJWVZRbzNHZ1AyQVNRRXpHZ3ZiVEROcQ?oc=5": {
       "title": "TotalEnergies compra negócios de energia renovável da Shell na Europa - Estadão",
@@ -4545,31 +4493,29 @@
       "source": "",
       "added_at": "2026-08-03T13:20:10.949003",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSFdmeHJMTERRT04xYzY3aTlyRFVxRTM0MHJkem1lRGtYejhmbVNnUi1vQ2hqTlBXLVdXLTRwQkp1OW9EMXJZWmh1ZV9VVVZYVnBQeEpGQTFXR2kzY2I3Q0U4VkRHWG5OXzVJWGxRcWk0RGFIR2dQMThfTlhHTzJWR3VHdkZBRElkdGlYNTI1Q0g3b3MtQkhWY19PbW9rbDlsN25wQUZCOFZkUU1BTE83SURPYU5PUnYwdUVnQklTVzRfSWdCQkVNUG5Yc2M?oc=5": {
-      "title": "Petrobras diz que modelo do ONS pode gerar penalidades a térmicas do LRCap - MegaWhat",
+      "title": "Petrobras diz que modelo do ONS pode gerar penalidades a térmicas do LRCap - megawhat.uol.com.br",
       "summary": "A Petrobras defendeu a revisão de critérios utilizados pelo modelo computacional Dessem, do Operador Nacional do Sistema Elétrico (ONS), alegando que a metodologia atual é incompatível com os compromissos assumidos pelas usinas vencedoras do leilão de reserva de capacidade na forma de potência (LRCap) de 2026. Para a empresa, a divergência pode resultar em penalidades contratuais e exposição…",
       "source": "",
       "added_at": "2026-08-03T13:20:10.949195",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOGlZOHFaaGtWUkVydkJwMi1vRVhIdktPN05pMWp6aF9jN0NRRGwzY3FwV3RSWVlIWUhBQ0RuNnllMXExMHA4RWhBcnRfbkdUdzFueGFIeTUxV3RTeVNXWElEdXhOZjVIWjdiLTU4dlZSaXQtaTRLSnhxbDAxWEtyZ2d3cng3YWo0LUdHOG9wcFBoVUpRTEpuS1RSQ2c2MkVneXY5QUdja2JnVExYS1RvMGdVRUZUZGtUMEFybTl3ak50SHdja3B0TUdR?oc=5": {
-      "title": "Desligamento em linha de transmissão afeta fornecimento de energia no Mato Grosso e Pará - MegaWhat",
+      "title": "Desligamento em linha de transmissão afeta fornecimento de energia no Mato Grosso e Pará - megawhat.uol.com.br",
       "summary": "A mesma linha de transmissão que havia interrompido 124 MW de carga no norte de Mato Grosso no início da noite de sábado, 2 de agosto, voltou a desligar menos de duas horas depois, desta vez provocando uma interrupção de 516 MW que atingiu consumidores no Mato Grosso e no Pará. O efeito cascata levou ao desligamento de equipamentos da rede básica e ampliou o impacto da ocorrência.",
       "source": "",
       "added_at": "2026-08-03T13:20:10.949305",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0JmWmFOaXFnbDM3cWE0RURmUmNDbEZrR3hYRTFlOEQzUmdkdGtTNEJDTU81TG0wOElsYzItSHhKWHZ2d3NlSEFLNDJWRXFQbXJkNTR3LXFDaVFOb0paY1ZrWEpjTWdNUFB6aDIwM2l3T2FNZGgwWjFXU2x6NFlqV3R1SUJBMlNHVkRVOFhteC1fS2tYQjlMeExPZWtYLUpOeXlHXzRncElaTEU?oc=5": {
-      "title": "Brasil tem a conta de luz mais cara entre 77 países – Edição do dia - MegaWhat",
-      "summary": "O acúmulo de subsídios, impostos, perdas no sistema e “jabutis” aprovados pelo Congresso Nacional faz o Brasil ter uma das contas de luz mais caras do mundo, considerando países com matriz enérgica parecida, ou seja, com geração concentrada em usinas hidrelétricas, eólicas e solares. Um estudo do economista Daniel Duque, do Centro de Liderança Pública (CLP), aponta que uma reforma estrutural no…",
+      "title": "Brasil tem a conta de luz mais cara entre 77 países – Edição do dia - megawhat.uol.com.br",
+      "summary": "O Brasil possui uma das contas de luz mais caras entre 77 países, segundo estudo de Daniel Duque (CLP). Uma reforma estrutural no setor elétrico poderia reduzir os custos em até **32%**. O **Ministério de Minas e Energia (MME)** busca alívio com novas leis e reforma tributária.",
       "source": "",
-      "added_at": "2026-08-03T13:20:10.949476",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-08-03T13:20:10.949476"
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0NWaXNlTkxzclZKekV6dDhvbkg4eTVnNnI2QkxBdFpoYkVFVHJCUUdwWlNpMlI2Z0N3ZVYydjFUUHBOYng5cnhNYXRLYnN6T2lTWS01VjhGNFpTMlc1WHU2VVBMbUhWU1pkWHJvcnpCdjJFQVdwRHZ6SVBBdXFsT2xYYXpORG1DSDg2U05MTmRzZFdwLVQySzdSOHYxLXV0WV9TbVAxV1MyYldMbFhaRUVzclJia183cmc3SlI3bXhLZUFp?oc=5": {
       "title": "Contratos mensais do 3T26 puxam queda dos preços de energia na BBCE - MegaWhat",
@@ -4583,7 +4529,7 @@
       "source": "",
       "added_at": "2026-08-03T16:07:45.740360",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1VhY090bHVaY3l3Q09tbGc4RjRJN2NVQWlQZnZEVEVuYkhGTXdZZnVxSEVyLXFNX2R4M3hLb0VQQUpib1IzaGNYSHdFVzNlN1Zvek56VzlSejVUNG5sZVlMSnpUSGhZclRQblZCNDV6M0RXaUl4akk5cW9oWWxlczJwZXZLU1lCYTFoLUhGZFJBak84c3VuQXBzaWtMaEZyb252U2x2MFNhSFZXb3FtejNPeVlhNTNJUVIxZU1pWFBDNTNCcnVR?oc=5": {
       "title": "ISA Energia conclui descruzamento de ações com Axia e assume 100% da IE Madeira - CanalEnergia",
@@ -4591,7 +4537,7 @@
       "source": "",
       "added_at": "2026-08-03T16:07:47.586030",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3dGTFYwdU5STWtBM2pTbWdDcXEyVW50cGJ6T1dmX0RsaEhLb1JuTUhKVnhGMlJPWHR4Y2YwS0t6eUpROXEtTkZDVG1FWGJUX1IycFNneU4xMDJvTEd5YVNWRUJ1ZENha21mR0Yzc0JiVk9vLXBJalVheXdheGQ2YUZXVU5zVWVPNG9HazZJVTRPWDJEWWFGMHRyUHJWaUR0Q0VhdmVXYmZOU0ZKN1AzWERZOEU?oc=5": {
       "title": "Super El Niño pode elevar tarifas residenciais em 2,1 p.p. em 2027 - CanalEnergia",
@@ -4599,7 +4545,7 @@
       "source": "",
       "added_at": "2026-08-03T16:07:49.239403",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZUNya2FmWWhjSXVqRGYzYUFpRDNVTDFXcXJGRnUtOWI4QjhFMWlPcGkwRjdla2w5LW5GNWRrM1RzY25XWE80QmgyVVNYWjhDV1ZIUEFTaEc0NGIwd1lDTHM2U0hsMl90dEJTSmVPR1pTOWJrc2o1UzNRMVlidml1THBYSHVGZU9ncm5PcW8wYkdCV0VFQnFieWFWX1lhd1NtNzVPM3IwNW1VM3hBMW9GNS1oRkhWdkh4R1BJeG91ampSWERSQ0tNZUtNa3M5UTJ5bFZNd0dSUXBYM3NzOXluRUJjbVp6V0poLXfSAfgBQVVfeXFMT2VuTGRxdG1KSlRJQTRNQUVIOEtwdFZHUUxlbjhsaFdYNHNDaWduTkNXcXpaNXdoODdabUxZV0M2Z2pyNnJ3T0MwZHpnWDNwRlNtNmZkWUprQW1vM1Y1YXVXd1lZS1VKTDJHdkdSX2pvWmlPX1FyVE1qOHVQZUxFTW9VVjJwZzJsc1FRYmYtcnJrMUZ3Vlp0V0QyYUc1c0V6VzBWMFBOUHAwUE5qYnRUbWVybzhwVFBCS3pXSkFUdVFkcUJ5Wl9wQWlnUzBZVVQ4bjJHai0zYmI0b2ZHLU1BUlFUamh2OGZhZUVXZ3NYeEptQmZTNkNvbjk?oc=5": {
       "title": "Romênia explode rochas para redirecionar água do Danúbio a reator nuclear e evitar crise energética - Valor Econômico",
@@ -4607,7 +4553,7 @@
       "source": "",
       "added_at": "2026-08-03T16:09:13.735520",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVFsOEhTRkR1VEJUZ3FtWkYzclpxakFfRDIyT0V3eEhTc0pvSWY3SF9ZbW1tZXFEdEp5ZEw5bDZFdzVRUjlmQm9obWVGSXpCUUhOMHB1Y1M5X3NrREo5aHFiRXZrTnVKWVpxLVFYY0FXdzNsajdBcmZuN2NtRmljTlFJVjZ5R0tLY1RFY1hDZlVPNVQ2WTk3N2tNTldTUVdmVHdGcURQSzgycE8wWktFdUtHMWx0dVk0dkFCQnZhM0ZXYmdmVDln?oc=5": {
       "title": "Aos 70 anos, Copa Energia lança campanha com a música 'Andança' - Valor Econômico",
@@ -4623,7 +4569,7 @@
       "source": "",
       "added_at": "2026-08-03T16:09:13.735729",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY25HSUZGRi1QLTd0UENNRG9DWDFqOGEydzVCY25iM2dnNzltc19oNzdlVkNZMW5DYmxGTVREeDhQNHh4RGtRMDZsUHlCSHJrdGFELXZFLTQ4dkNxaVV3VmpISHZpU1VVYXM3MlViaGlFYUpFd3IyWnRiZzFOb0ZTRjFhQldDREh6OHpTQms1WnFoelhBbnM2SzROWU9GbnZxQlR1V1JZNXowRFJwRHczVS12em5CT1dscVBRRjZHZHhlRmdYWmNoWUxyWTXSAdsBQVVfeXFMTjRVTHRiQmZkZml1VnFLU0oyQm43R08wMXpabVJNcFozQU9NZ205VkFOalZheXRRc0t0RWF1dEh1a281alFUNWVXVzB0ay1XY0FWbndQakZ6VGh5R1dhN3JMdy0xSWhiN3ozc185dWtlWmw2UzZxdUhlTGVWMGV2NW5nT0V3RGJGc2ZzRVBtZWRGMFZGOEJoNnlXLV9lanVhWW5Nd255U0piVjQxZTVLcWRHZnFVaFlIVzdTbDZ3TkdZTUwzNDFURXZoUDdFb1BWcGpVY0lfY1FEWEpB?oc=5": {
       "title": "Com demanda por biomassa, plantio de eucalipto atrai investidores em MT - Valor Econômico",
@@ -4631,7 +4577,7 @@
       "source": "",
       "added_at": "2026-08-03T16:09:13.735790",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemRuOV9pTnR4bW1yckEwTGg5d0FaaUlxLU5GLUtrZDNvWG9sRE5lYm9kRThLeHFERmxPbWEyTzgzSXdGam1nX3BWTldlc2c5WktKU3RKa3Jsc090Q1R0OVpOU185dWhpR1ZQY3RLY1V4bDJTdDdMcXJ1R3I4Z2ZVV3hEdGFaLVVyX1dhenhMa0xTU3l6Q3dodUdzR2JfLVVYNjdOcHZB?oc=5": {
       "title": "Técnicos da ANEEL descartam perícia em processo de caducidade da Enel SP - Agência iNFRA",
@@ -4639,7 +4585,7 @@
       "source": "",
       "added_at": "2026-08-03T16:09:13.750484",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenRaVDQxVDJzaUVoQXc3RE9vWVlRcENReUw1YzVVMFZJSUV0eHdnaGJHeXRZc2xXd0lLa2RXd0xKVjZ6V2VISXg2dXhRTGRIQ01xeWVkOXlyM1Q0Qm9NaEZpN3FoZmdUNDRjY1dIWEx0SVlxcC1EVWFIdDdYZktLU25wMkdDc0lJeFlQQW4waXhnaHBHemg5cl92QlZhWmhQYXc?oc=5": {
       "title": "Regra da ANEEL pode excluir até 2,7 mi de beneficiários do Luz do Povo - Agência iNFRA",
@@ -4647,37 +4593,109 @@
       "source": "",
       "added_at": "2026-08-03T16:09:13.750793",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnlLM1dzc2M0djhJQkxOQUI5V0M0ckpvQ3N6Y2dFVkhqcGpabXM2cGNCZURwR2RXM0hCT0o0SWM3c29uUFc5ZFFRSExiM3JoNW0tWlFPaE01NXRhbm9VeTQxVlN1NFhSZjNzNWhfTlpLYXhqMU5NVklKUmx2NDdTb1U4b3EtVmhwdmpLNkthNXFsODhvTEFqNEVEd1VWNS0wVmpwcVFWLTFsQTR5QndJdVp5Ulo2VDhCZ3lCUzdSU0lsdWJ4VDQzbS1KSjlFX3NFNTBVdQ?oc=5": {
-      "title": "Petrobras confirma nova descoberta de gás natural em águas profundas da Colômbia - MegaWhat",
+      "title": "Petrobras confirma nova descoberta de gás natural em águas profundas da Colômbia - megawhat.uol.com.br",
       "summary": "A Petrobras confirmou nesta segunda-feira, 3 de agosto, uma nova descoberta de gás natural no poço exploratório Sandia-1, localizado no bloco GUA-OFF-0, em águas profundas da Colômbia. Para a estatal, a descoberta reforça o potencial exploratório do offshore colombiano e poderá contribuir para a ampliação da oferta de gás natural e para a segurança energética da região.",
       "source": "",
       "added_at": "2026-08-03T16:09:13.750915",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0xnSWFnTWZMMnVXYzNLQW5KQWhLdFREWEZuaXFHOGw2Y0swRU1ab1lUVUg0WWdyNVNuQ3dKYlBUYllRTVp3NG94LWFnRVZyMGFINV9zZTdoZklXTE02SnZBczFua29oNnlqLVA2c1FhV05oSXJhdTNDVXJYa01iamxCdDdzb25lLV84eXVUN3phQVNPN0RDUjFPYzlTSGFjM29oel9EX0wxQQ?oc=5": {
-      "title": "TotalEnergies compra 4 GW de renováveis da Shell - MegaWhat",
+      "title": "TotalEnergies compra 4 GW de renováveis da Shell - megawhat.uol.com.br",
       "summary": "A TotalEnergies anunciou nesta segunda-feira, 3 de agosto, duas operações para reforçar sua estratégia de renováveis na Europa, o que inclui a compra do portfólio europeu de energias renováveis onshore da Shell e a venda de 50% de um portfólio próprio de ativos renováveis para um fundo administrado pela KKR. Com a Shell, a empresa assinou um contrato de compra e venda (SPA, na sigla em inglês)…",
       "source": "",
       "added_at": "2026-08-03T16:09:13.751085",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaUpVWmFlWDY3UWJyQmJsb2tNNkJ3aVc0bWRUMjdCR1lKLW5qMjIycm9VcUZlTVAxRUxwQlp4bG9wYmpQNUo2QlFXWHlvenE1UWpvYmQ3MTNwTjJVNFhHY0dVYzZ3UlpETlZxaW1SS1ZNR0tVdGdTZHNULTBIQUQ1TklsaWxGbndfbHJaZFZGNmdHR0dpQmpvbWpYbk1QeWZ2TVRjbTB1M2x5N3lwMlhkSmp5V05uTEpOSDdGcm9Odnp5T2owZzZLOXV5cUFhN0k3Y1FN?oc=5": {
-      "title": "Ynova e Matrix anunciam parceria para expandir atuação em GD e no mercado livre - MegaWhat",
+      "title": "Ynova e Matrix anunciam parceria para expandir atuação em GD e no mercado livre - megawhat.uol.com.br",
       "summary": "A Ynova e a Matrix anunciaram nesta segunda-feira, 3 de agosto, uma parceria estratégica para expandir suas atuações no mercado brasileiro de energia, ampliando o acesso a soluções de geração distribuída (GD) e mercado livre por meio de uma plataforma digital integrada. A Ynova é um marketplace de energia especializado em conectar consumidores e fornecedores por meio de tecnologia.",
       "source": "",
       "added_at": "2026-08-03T16:09:13.751203",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTdUbFFzVm1LZDlBR2wxZVQycFlGYUNXV1U4clI4Vy1vcGI2cXdGZWdzN2pzQi1uRzJEN3NSOElwQ0R0R1liR0lUY19HR05yTi1LRzZYeUJiYi1oMUN6Nm5LNXduR1B1cXBZV2xKVF9iZENZRjFxeWs1Z2pnY1BXLVo3b05HcmU1QVljam5Kc2ZJR3VsS1N0eXozYnppY0w2WGlidUxBUE1VLWYway1tc0tRclhVRTM4WXM3RVVCeE85QV9QdE5BVTk3bHE?oc=5": {
-      "title": "🎙️Como a indústria está enfrentando os novos desafios do mercado de energia - MegaWhat",
+      "title": "🎙️Como a indústria está enfrentando os novos desafios do mercado de energia - megawhat.uol.com.br",
       "summary": "No MinutoMega desta segunda-feira, 3 de agosto, a jornalista da MegaWhat Poliana Souto conversa com Roberto Wagner Pereira, gerente de Energia da Confederação Nacional da Indústria (CNI), que analisa os desafios para reduzir custos, ampliar a previsibilidade do mercado e transformar a energia em uma vantagem competitiva para o setor industrial. Pereira explica como o cenário atual de aumento de…",
       "source": "",
       "added_at": "2026-08-03T16:09:13.758014",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1JUUDY0eFZ4M01ZRU9LbXhtaFBPUUNKVGVZdGZCRWZsWVp2R0JvX2FJX1Z3bnVGYzZrUjNvWm1heGVvWno2bTBKbzd6Q2hIc2xxb09lZVlqbjdTZ0V4SHYyVVdxV2VUZmJTLUlIQ3EwZ0wtX0dKN25VN3ZNdjBOeDMwUnYtYlNqcG1LVjN4RmRkVnhqWjcwZklrcTkxWDQ4QVZoYXo5dWd2aGNwZWY2b25CYVNDSzha?oc=5": {
+      "title": "Petrobras confirma descoberta de gás na Colômbia - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-03T18:04:40.152830",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWhfazd6OU9EX1hiSVNmaHMybWFXVkwteVhZUy1KSnNvbWhycUFuS2tWanpDaEU4ZnZPM3RrdUI1Sm9RNUd1XzE4YlU3b01jRFhoZ0hWWjY4eEhaM3VEc016SmdRd1RDXy01M0JUdEtmUm1hLUpXQ09MNENUcTV1c3dwWjQ3MDlyOUJ0blhubEVFclQxZ29qeG9zNy00YVhNVVZjLUJZTQ?oc=5": {
+      "title": "Desligamentos interrompem 516 MW em Mato Grosso e Pará - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-03T18:04:42.152778",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVFsOEhTRkR1VEJUZ3FtWkYzclpxakFfRDIyT0V3eEhTc0pvSWY3SF9ZbW1tZXFEdEp5ZEw5bDZFdzVRUjlmQm9obWVGSXpCUUhOMHB1Y1M5X3NrREo5aHFiRXZrTnVKWVpxLVFYY0FXdzNsajdBcmZuN2NtRmljTlFJVjZ5R0tLY1RFY1hDZlVPNVQ2WTk3N2tNTldTUVdmVHdGcURQSzgycE8wWktFdUtHMWx0dVk0dkFCQnZhM0ZXYmdmVDln0gHWAUFVX3lxTE8xQmZ1enVXTUlJSlRkTUVrSDBJUF9tOXJzY2JuQ1NQRnRnUHlwWDhVTDRkQ19qaTNlaGpFMURDbkRiV3BFYUpiSE02emRqWFFjWU9sS2VjNUdYWWpxaERUQnRjLWJXV0VKVUxiNE1DOWh3RWZ1ZWtyU3NERW5PYTQ4c200UFRvNmh3UDdhdHhIYWl4Wnd6amxXVjZpWVQzYWY0S1U3TlVacDh4NGMzdDhlaUM0N0pBdF9MLU8tSXVXS283STliVFRtaDhUQXRGNWNDVWJnVGc?oc=5": {
+      "title": "Aos 70 anos, Copa Energia lança campanha com a música 'Andança' - Valor Econômico",
+      "summary": "Aos 70 anos, Copa Energia lança campanha com a música 'Andança' Ação, a partir de hoje, será veiculada na TV, rádio, plataformas digitais e mídia exterior e vai durar um mês A Copa Energia está lançando uma campanha institucional para marcar seus 70 anos de operação no Brasil. A distribuidora escolheu \"Andança\", clássico da música popular brasileira gravado por Beth Carvalho, Golden Boys e Trio…",
+      "source": "",
+      "added_at": "2026-08-03T18:06:00.717275",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYk41UmMzUjk1ZXF6QktQeGRtRDBEMUdNQ1NOb2lMYld3eDM5aGdteWtaMzZRWXJyUFlfSTRQSzNOcm5rNjdrcmkwODNEamdHWDBNa2hocjEzb3pjUnRMc0tUeXZZT2xKSTg1dnd6NHdaVjNERmJGVnFZeW5WaDJOUGs2R0RYejF1cW92SzZ2aXFNX2hXdXM1ZTdfRmlxNEJNcW1idm1CcFRPazJxRVctSktTVXl4ekY2SFVOVjVTSUg3ZDIwN1hxdkMyejZPVTBDZ0RXa1diTQ?oc=5": {
+      "title": "Expansão da energia solar na Europa chega a regiões antes consideradas pouco ensolaradas - Folha de S.Paulo",
+      "summary": "Por décadas, o mapa de energia renovável da Europa parecia simples: a energia solar era usada principalmente no sul ensolarado, enquanto o norte dependia do vento. Mas a queda nos custos de equipamentos e os preços mais altos da eletricidade tornaram os projetos solares viáveis em lugares antes considerados escuros, frios ou remotos demais para compensar.",
+      "source": "",
+      "added_at": "2026-08-03T18:06:25.345560",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXFIT0JkTUFvTTAzYWwzWVlPWFV4UllZVVlyYXFFeTdPdXdHSzhwTmRtOFUxZkN6UU1nV2tRRW1fbWFvYUt3Z3kxUDkwcUJ2VnNiTE5nZ1I4T0FSNEgwSXhOcU9kT2p1cmJDWWwxMl9qNWFPb2ZmMlJfMjRzZ1Rkd0dINVZaYkhXZEF0b21lYVR0WnJNTXFRbUR3?oc=5": {
+      "title": "Enel SP: conselho pede que ANEEL considere avanços em julgamento - Agência iNFRA",
+      "summary": "da Agência iNFRA Uma carta enviada pelo Conselho de Consumidores da Enel São Paulo à ANEEL (Agência Nacional de Energia Elétrica) pediu que a reguladora considere melhorias no desempenho da distribuidora nos últimos anos ao julgar o processo que analisa a caducidade da concessão. O documento foi protocolado nesta segunda-feira (3) e é assinado pelo conselheiro Ruy Bottesi, que representa a classe…",
+      "source": "",
+      "added_at": "2026-08-03T18:06:38.601548",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0sxRFByd2luajNUdU1peFkyZzFaRGtVcEhuMDNIOEs1Z0xyVTdRbUR1d3RFQW1JY3lldzBHRjlkMmJyWWxlSFZZbzcwQkM5bmJNYWxsUVozXzc2T2dkSVptbDYxanBldUJUd1hQaGt0S0NsZzl2Z1JXOV9WaWhpd3FuYklVbzZmLVBMVnd0YWVQc3VjQUZCN0RpS2Y2WDJjRVhRaWlwTUhiMzF6NXNBcWwteUwyc2VJYkhTSEpzdjVKMkt5cmlIWW1zR0xyQk0zMUYyT1h5eFk2V2tDVzVRQlV3?oc=5": {
+      "title": "Consumo maior impulsiona distribuidoras no 2º trimestre, enquanto renováveis perdem força - megawhat.uol.com.br",
+      "summary": "O crescimento do mercado das distribuidoras e a melhora das condições hidrológicas devem sustentar parte dos resultados das empresas de energia no segundo trimestre de 2026, mas os cortes de geração renovável, a menor disponibilidade de ventos e o aumento das despesas operacionais devem limitar o desempenho do setor. A avaliação aparece nas projeções do BTG Pactual, Itaú BBA, Santander e XP para…",
+      "source": "",
+      "added_at": "2026-08-03T18:06:52.777496",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2FJWWlPTjQ3SVl1VTltVXNGNU1HQ0tGVlpzY3FUaGl1NzBKWmRLYi0wTGo0QjJGalBvc2cwU1FKTGtPRkRzVFctR3J0R2hHMnRfVGNGb25JNEtPd3l1NjdXcHo3b2VpNm5DOTRGVVpsX3BkNWZKaGk1NmZWdnpRaDl6NTU2VEZ5OGVRSVlGdG9JOFFIYkNXV2xYNWllUi1Samljckc4Y29GOEpTYWc?oc=5": {
+      "title": "Leilão de baterias atrai oferta recorde com mais de 6 mil projetos - megawhat.uol.com.br",
+      "summary": "Os dois leilões de reserva de capacidade na forma de potência para contratação de sistemas de armazenamento em baterias receberam um número recorde de projetos cadastrados, segundo a Empresa de Pesquisa Energética (EPE). Ao todo, foram cadastrados 6.091 projetos, que somam 296,8 GW de potência.",
+      "source": "",
+      "added_at": "2026-08-03T18:06:52.777784",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1ZXdTBSeDNuRDNtb2FPVHJabEYtQzdkWmozT2t5YldkZ3NHQUpvX2VxUVZmMGVYMkttejdianZyYWZPelhPMkh2cDJpaDJ0UG5KYjZhbDVDYjAzUTNKcklWVjQ5c2ZYZGJPRjB1WGswN0ZYemN3dUd1OEJWaXAxY1B1T2hrejJwdWRYTm9TWmdvMUphb3FpUHdWME1aZ0JHdmMzZmtHeWtobEVzNWVmZmFLZHBoX1N4cHhz?oc=5": {
+      "title": "‘Enel ainda não atende requisitos mínimos’, apontam técnicos da Aneel em recurso - megawhat.uol.com.br",
+      "summary": "A Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica (SFT) da Agência Nacional de Energia Elétrica (Aneel) analisou e rejeitou as argumentações da Enel São Paulo que contestam os fundamentos que embasaram o processo de caducidade da concessão, e solicitavam a realização de nova perícia técnica para avaliar os indicadores da distribuidora. Em nota técnica, a SFT reconhece…",
+      "source": "",
+      "added_at": "2026-08-03T18:06:52.777971",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0c0cHFhYW5UYm1TT21aNHk5dmpaeDM0RDJTSmpmM3V6Y2FuZnhYTUVuR21NZ24yR3FHWmZucVRRMjVzd2p5a3hhQURMeVdNNzdrdXk1Sl9CUVNIZDRlMXJ3U21KbnlRODdrYnpySldvVDJqNVJvX2o5dVo4cnhaYV9mSFN5Y0lHamFnVlZOQVJtdURsdE9EU25vWndhUVlGaVdmMkpkRTI3NVl6bWRCNHFvMy11VG8?oc=5": {
+      "title": "Aneel libera operação de usinas do LRCap e suspende a da UTE Canoas - megawhat.uol.com.br",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) autorizou o restabelecimento da operação comercial de 171,8 MW em usinas termelétricas a gás natural contratadas no leilão de reserva de capacidade na forma de potência (LRCap 2026) e suspendeu parcialmente a operação da UTE Canoas, da Petrobras, por questões regulatórias relacionadas ao certame. Os depsachos foram publicados no Diário Oficial da…",
+      "source": "",
+      "added_at": "2026-08-03T18:06:52.778122",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
