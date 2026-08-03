@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-03T17:05:46.478084-03:00",
+  "last_updated": "2026-08-03T18:18:33.653311-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Deliberação das informações financeiras (2T26)Ata",
+      "data_referencia": "20260803 03/08/2026 17:00",
+      "data_entrega": "20260803 03/08/2026 18:04",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Deliberação das informações financeiras (2T26)",
+      "protocolo": "1551304",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551304",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-08-03T21:18:10.913888"
+    },
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "Parecer acerca das Demonstrações FinanceirasAta",
+      "data_referencia": "20260803 03/08/2026 09:00",
+      "data_entrega": "20260803 03/08/2026 18:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Parecer acerca das Demonstrações Financeiras",
+      "protocolo": "1551299",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551299",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-08-03T21:18:10.913875"
+    },
     {
       "cnpj_short": "01987-9",
       "empresa_nome": "LIGHT S.A.",
