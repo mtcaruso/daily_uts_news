@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-04T17:49:28.945163-03:00",
+  "last_updated": "2026-08-04T19:03:07.103030-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Eneva Inicia a Operação Comercial da UTE Azulão I -",
+      "data_referencia": "20260804 04/08/2026",
+      "data_entrega": "20260804 04/08/2026 18:15",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eneva Inicia a Operação Comercial da UTE Azulão I",
+      "protocolo": "1551994",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551994",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-08-04T22:03:01.160672"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
