@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-04T06:48:12.729070-03:00",
+  "last_updated": "2026-08-04T08:52:53.736013-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação de Resultados 2T26 -",
+      "data_referencia": "20260804 04/08/2026",
+      "data_entrega": "20260804 04/08/2026 08:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação de Resultados 2T26",
+      "protocolo": "1551492",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551492",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-08-04T11:52:34.172270"
+    },
     {
       "cnpj_short": "02680-8",
       "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
