@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-04T08:52:53.736013-03:00",
+  "last_updated": "2026-08-04T10:39:46.454300-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "ATUALIZAÇÃO DO REGIMENTO INTERNO DA DIRETORIA DA COPEL (HOLDING) E DAS SUBSIDIÁRIAS INTEGRAIS; POLÍTICA DE DIVIDENDOSAta",
+      "data_referencia": "20260715 15/07/2026 08:00",
+      "data_entrega": "20260804 04/08/2026 10:11",
+      "status": "Ativo",
+      "versao": "3",
+      "modalidade": "RE",
+      "assunto": "ATUALIZAÇÃO DO REGIMENTO INTERNO DA DIRETORIA DA COPEL (HOLDING) E DAS SUBSIDIÁRIAS INTEGRAIS; POLÍTICA DE DIVIDENDOS",
+      "protocolo": "1551579",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551579",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-08-04T13:39:32.621936"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
