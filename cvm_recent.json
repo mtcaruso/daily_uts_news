@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-05T08:29:01.722022-03:00",
+  "last_updated": "2026-08-05T10:10:04.051479-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalProposta da Administração",
+      "data_referencia": "20260828 28/08/2026 11:00",
+      "data_entrega": "20260805 05/08/2026 09:34",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
+      "protocolo": "1552290",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552290",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-08-05T13:10:02.073488"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
