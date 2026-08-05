@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-05T16:55:05.600929-03:00",
+  "last_updated": "2026-08-05T17:54:03.080256-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Deslistagem NYSE -",
+      "data_referencia": "20260805 05/08/2026",
+      "data_entrega": "20260805 05/08/2026 17:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Deslistagem NYSE",
+      "protocolo": "1552549",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552549",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-08-05T20:53:26.744693"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
