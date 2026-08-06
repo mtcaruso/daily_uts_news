@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-05T21:14:48.596528-03:00",
+  "last_updated": "2026-08-06T00:35:54.064543-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Press-release",
+      "especie": "Earnings Release 2T26 -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260805 05/08/2026 23:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Earnings Release 2T26",
+      "protocolo": "1552977",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552977",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-08-06T03:35:53.764140"
+    },
+    {
+      "cnpj_short": "02747-2",
+      "empresa_nome": "CENTRAIS ELÉTRICAS DO NORTE DO BRASIL S.A",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Intermediárias",
+      "especie": "Demonstrações Contábeis 2ITR26 -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260805 05/08/2026 21:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Demonstrações Contábeis 2ITR26",
+      "protocolo": "1552961",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552961",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "27472",
+      "first_seen": "2026-08-06T03:35:32.926977"
+    },
     {
       "cnpj_short": "00332-8",
       "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
