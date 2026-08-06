@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-05T20:16:03.756360-03:00",
+  "last_updated": "2026-08-05T21:14:48.596528-03:00",
   "items": [
+    {
+      "cnpj_short": "00332-8",
+      "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Intermediárias",
+      "especie": "Demonstrações Contábeis do 2ITR26 -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260805 05/08/2026 20:19",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Demonstrações Contábeis do 2ITR26",
+      "protocolo": "1552943",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552943",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "3328",
+      "first_seen": "2026-08-06T00:14:28.316955"
+    },
     {
       "cnpj_short": "02662-0",
       "empresa_nome": "AUREN ENERGIA S.A.",
@@ -5346,60 +5364,6 @@
       "empresa_label": "Aegea",
       "codigo_cvm": "23396",
       "first_seen": "2026-07-07T11:28:23.520405"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "Oferta pública de distribuição de debêntures (17ª Emissão) -",
-      "data_referencia": "20260707 07/07/2026",
-      "data_entrega": "20260706 06/07/2026 20:00",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Oferta pública de distribuição de debêntures (17ª Emissão)",
-      "protocolo": "1542216",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542216",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-06T23:31:13.069498"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Emissão de Valores Mobiliários; Escritura da 17ª Emissão -",
-      "data_referencia": "20260706 06/07/2026",
-      "data_entrega": "20260706 06/07/2026 19:46",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Valores Mobiliários; Escritura da 17ª Emissão",
-      "protocolo": "1542214",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542214",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-06T23:31:13.069496"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Emissão de Debêntures (17ª Emissão) -",
-      "data_referencia": "20260706 06/07/2026",
-      "data_entrega": "20260706 06/07/2026 19:45",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Debêntures (17ª Emissão)",
-      "protocolo": "1542213",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542213",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-06T23:31:13.069482"
     }
   ]
 }
