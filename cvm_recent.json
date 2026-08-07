@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-07T12:32:36.857462-03:00",
+  "last_updated": "2026-08-07T13:31:07.977486-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260806 08/2026",
+      "data_entrega": "20260807 07/08/2026 12:59",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1554090",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554090",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-08-07T16:31:03.566176"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",
