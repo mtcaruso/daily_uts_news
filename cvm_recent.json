@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-07T13:31:07.977486-03:00",
+  "last_updated": "2026-08-07T14:30:21.544220-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260805 08/2026",
+      "data_entrega": "20260807 07/08/2026 13:50",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1554111",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554111",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-08-07T17:30:10.831271"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
@@ -5562,24 +5580,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-07-08T18:11:55.771599"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260708 08/07/2026 13:52",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1542853",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542853",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-07-08T16:54:25.414184"
     }
   ]
 }
