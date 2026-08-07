@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-07T14:30:21.544220-03:00",
+  "last_updated": "2026-08-07T15:11:59.378644-03:00",
   "items": [
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260806 08/2026",
+      "data_entrega": "20260807 07/08/2026 15:03",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1554177",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554177",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-08-07T18:11:51.075504"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
@@ -5544,42 +5562,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-07-08T19:53:51.547143"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260501 05/2026",
-      "data_entrega": "20260708 08/07/2026 14:28",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1542864",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542864",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-07-08T18:11:55.771613"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260401 04/2026",
-      "data_entrega": "20260708 08/07/2026 14:17",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1542862",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1542862",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-07-08T18:11:55.771599"
     }
   ]
 }
