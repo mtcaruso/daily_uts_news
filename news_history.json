@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T21:43:01.043169",
+  "last_updated": "2026-08-08T22:44:00.129317",
   "items": {
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTNhWEpFQVpMMk1VLXZ3UTN0MlZpb2VaNXhRWHhYYW9aU0NOTjRZSjJPUFhEMGhuYnhCOXZ6XzA5YlZGOThjajlkU3VfZUlyUVU0NUZySUFTdl9yTGVUVGF0Y2dQdjdReUZWSzJzY3pLdmhpWjhySFB3OGdCTDduVFB5WHVfTmk3WW1hc0h2QzFockVJNXA2akg3WDYxNDBTQzU0QTdwOEVJZDJ3Y3dPc2FHV3daMXFrRVhxVw?oc=5": {
       "title": "Ribeirão Preto ainda tem 24 mil clientes sem energia após temporal - Folha de S.Paulo",
@@ -4472,6 +4472,12 @@
       "summary": "O **ONS** descartou o plano emergencial para cortar geração de usinas no Dia dos Pais (9 de agosto). A decisão foi tomada devido a uma previsão de consumo de energia maior que o esperado, permitindo ao Operador gerenciar o equilíbrio do sistema com recursos sob seu controle.",
       "source": "",
       "added_at": "2026-08-08T21:43:01.035308"
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGFWTEpTSDl3UTVtMDBOWWxDX0ZZdzRUai1oSXlrbzlzV3BzTXhyOHlJcFU3eWNEaksxdTNsMDBnYWpNd0pkb2t0QllnR3FMbDliSVVnaFl2UjIwb3Y0eEozX0lTSkFXNUItRWQ5TEJ3R3hWSTlSSHZ6SjJJNlZNVThTR3RaLVRMNlMzSENFMVAxZw?oc=5": {
+      "title": "ONS descarta plano emergencial no feriado do Dia dos Pais - Agência iNFRA",
+      "summary": "O **ONS** (Operador Nacional do Sistema Elétrico) comunicou que não acionará o plano emergencial de corte de usinas de geração distribuída tipo 3 no Dia dos Pais. A decisão foi tomada devido à gestão de equilíbrio entre geração e demanda, e previsão de carga mínima mais elevada, evitando o acionamento que ocorre em cenários de excesso de geração inflexível e baixo consumo.",
+      "source": "",
+      "added_at": "2026-08-08T22:44:00.121055"
     }
   }
 }
