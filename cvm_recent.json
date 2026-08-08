@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T12:16:54.451054-03:00",
+  "last_updated": "2026-08-08T12:52:41.454015-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5490,24 +5490,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-07-09T20:55:55.465819"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Calendário de Eventos Corporativos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20261231 31/12/2026",
-      "data_entrega": "20260709 09/07/2026 11:03",
-      "status": "Ativo",
-      "versao": "3",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1543359",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543359",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-07-09T15:45:18.905892"
     }
   ]
 }
