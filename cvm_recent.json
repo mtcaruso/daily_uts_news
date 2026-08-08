@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T18:51:55.161956-03:00",
+  "last_updated": "2026-08-08T19:14:56.502798-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5436,42 +5436,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "14605",
       "first_seen": "2026-07-10T01:14:17.659412"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260709 09/07/2026 18:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1543565",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543565",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-07-09T22:12:34.336448"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260709 09/07/2026 18:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1543566",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543566",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-07-09T22:12:34.336460"
     }
   ]
 }
