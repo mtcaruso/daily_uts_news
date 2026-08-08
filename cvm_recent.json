@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T17:45:47.875308-03:00",
+  "last_updated": "2026-08-08T18:17:16.409442-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5472,24 +5472,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-07-09T22:12:34.336460"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicação sobre Transação entre Partes Relacionadas",
-      "tipo": "-",
-      "especie": "Comunicação sobre Transações com Partes Relacionadas - Estado de Minas Gerais -",
-      "data_referencia": "20260630 30/06/2026",
-      "data_entrega": "20260709 09/07/2026 17:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicação sobre Transações com Partes Relacionadas - Estado de Minas Gerais",
-      "protocolo": "1543488",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543488",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-07-09T20:55:55.465819"
     }
   ]
 }
