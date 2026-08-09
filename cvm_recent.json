@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T01:07:51.485815-03:00",
+  "last_updated": "2026-08-09T02:16:11.655645-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5328,42 +5328,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "5576",
       "first_seen": "2026-07-10T13:32:26.886838"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Escritura particular da 28ª emissão de debêntures -",
-      "data_referencia": "20260709 09/07/2026",
-      "data_entrega": "20260709 09/07/2026 22:59",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Escritura particular da 28ª emissão de debêntures",
-      "protocolo": "1543599",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543599",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-07-10T05:07:28.208613"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Escritura particular da 29ª emissão de debêntures -",
-      "data_referencia": "20260709 09/07/2026",
-      "data_entrega": "20260709 09/07/2026 22:57",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Escritura particular da 29ª emissão de debêntures",
-      "protocolo": "1543598",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543598",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-07-10T05:07:27.495415"
     }
   ]
 }
