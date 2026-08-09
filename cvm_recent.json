@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T12:54:25.485044-03:00",
+  "last_updated": "2026-08-09T13:19:07.583537-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5202,24 +5202,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-07-10T19:22:32.480445"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260710 10/07/2026 10:40",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1543722",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1543722",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-07-10T16:02:43.024737"
     }
   ]
 }
