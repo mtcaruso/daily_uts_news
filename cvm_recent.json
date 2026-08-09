@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T20:19:04.355570-03:00",
+  "last_updated": "2026-08-09T20:54:15.505094-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4806,42 +4806,6 @@
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
       "first_seen": "2026-07-12T14:45:26.556196"
-    },
-    {
-      "cnpj_short": "02617-4",
-      "empresa_nome": "AUREN OPERAÇÕES S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260710 10/07/2026 20:19",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1544175",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544175",
-      "empresa_label": "Auren",
-      "codigo_cvm": "26174",
-      "first_seen": "2026-07-10T23:44:56.446852"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "12ª emissão de debêntures da Copel DIS -",
-      "data_referencia": "20260710 10/07/2026",
-      "data_entrega": "20260710 10/07/2026 20:12",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "12ª emissão de debêntures da Copel DIS",
-      "protocolo": "1544172",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544172",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-07-10T23:44:49.883448"
     }
   ]
 }
