@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-10T12:46:13.897972-03:00",
+  "last_updated": "2026-08-10T13:29:08.918627-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Eleição de Diretor de Operação e Manutenção da Copel Geração e Transmissão S.A.Ata",
+      "data_referencia": "20260803 03/08/2026 08:30",
+      "data_entrega": "20260810 10/08/2026 12:19",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eleição de Diretor de Operação e Manutenção da Copel Geração e Transmissão S.A.",
+      "protocolo": "1554796",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554796",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-08-10T16:28:54.289940"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
