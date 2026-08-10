@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-10T17:41:49.070862-03:00",
+  "last_updated": "2026-08-10T18:24:50.079483-03:00",
   "items": [
+    {
+      "cnpj_short": "02662-0",
+      "empresa_nome": "AUREN ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Adesão ao Termo de Compromisso -",
+      "data_referencia": "20260810 10/08/2026",
+      "data_entrega": "20260810 10/08/2026 18:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Adesão ao Termo de Compromisso",
+      "protocolo": "1555198",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1555198",
+      "empresa_label": "Auren",
+      "codigo_cvm": "26620",
+      "first_seen": "2026-08-10T21:24:41.867216"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
