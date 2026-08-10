@@ -1,60 +1,6 @@
 {
-  "last_updated": "2026-08-10T20:58:24.447220",
+  "last_updated": "2026-08-10T21:56:10.950337",
   "items": {
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0pSR2Rjd1RwMmxXMEFqYlNLekVkZUczckg0dGRWYl85UENmQmUxcEpMZDZ4cVQyS2pLaEF4T0FpblIzNXBZeDF2RkgwbmN5VURkMzJ2ZU8zOWR2LWV6VzQ0ZWtUeV9kRHVKMmFtMXBxLV9tdlItY1BCOHZtbWF1XzFtbGJjeGFpOUFZS0M3Y0EtUFhnYU9uQ1Jtb241VzBudGRjOTBIQzlVOExNRTRTVkNrTGt2MFBqQTJ1QQ?oc=5": {
-      "title": "Engie acerta com WEG para fornecer turbinas da expansão da UHE Jaguara - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-27T21:22:25.333682",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWt1RnplWklEN0pnS1ZDd01pbXVBV0JDZzdhZjc5cU9mN09fT3lxNjJORXNHZEVQZzRFLTZDQjFaY2ctSHhXYktjN0lDRXVpXzNkcTBEMmdya3QtcVZRWVU1OFdBOFdTSTJVRVJLZVM2WDFUY1k0bUtheG9ObG5NOEVER0w4UE1DTkxvaUJjOGxLWGJKcTFqUGxWa0J3cm13bExXTlR5aGpTMkhWQ1J5eTN4Nlg5Ni1aQ2xVeA?oc=5": {
-      "title": "Produtos estruturados já representam 30% das operações da Armor Energia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-27T21:22:27.019259",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZzhidF9qZnNfN0psWXlfQ0d6NVQwaEY2X3lpODBTb0RfQkYyUl9INXVMVVEySWc2QWZ5bllTcDkyaWFVNU5oMXl5TXFEY0c0RE5kUmlXSHEtN2Jxd3BYWmktWnlVOFVibXlST1RrSjhjQmRuMEFfUENYTmlrZjVRdU5mYzdhbDg2Y2NLZ0gzaFVyNFNicmR4SUhNWHNrc0ozMkItSndxZEFzUU04VXllc1d2VW9ZdGwwRVlBUmNydHZoNzJVdUVMN2U0alRfa0pnSTVmTXA0SUlLR1FmSVp2SUx4a2Z2emc?oc=5": {
-      "title": "Ação da Isa Energia (ISAE4) fica sem gatilho de alta e banco rebaixa recomendação - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-27T21:23:00.399564",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0Q0UjlqQTctaG9hTWcwRnB2VWlnak1Qc1JESGgzWHRSMmVzU1kwNENSTDh2TUIxd0FXc01XdFVkSTJKdW1SVVR3Mmw0ck4xTU9SbVB5WXJHQTE1eTZqdlNrWFR6Slotdy1uY2EtR21jQURLOFdXN3hDd0dna193dmpYaHY3alV0NnVZbFZEdWtFNldNSU50dVRVQ2g2SWNP0gGmAUFVX3lxTE9xSkVJVUNxVjJLZENlSWpyTlZpelkxVzRlSy1kMTUyTVJzTGlCVTZRaGxvQnF2SGk3aGYyQTRaSWZkaERGd0VIRVBBWEM0N0Q0bTNnUzlpZThxaDBBbWJyNTdkWWFfSmRuTEZmcmRJVHZwZkpRYnVRNVd3N1BxWFk4c3RnTEttU3FJaGpJUEY3TlVvM0FXY1d0eGR4OEtES1Q5Q2xwMkE?oc=5": {
-      "title": "Minoritários tentam barrar assembleia que decidirá incorporação das ações da Emae pela Sabesp - Estadão",
-      "summary": "Sabesp busca água a 60 km de SP para evitar desabastecimento Obra levou uma década para sair do papel e tem o objetivo de reforçar o sistema Alto Tietê. Crédito: Estadão Gerando resumo Acionistas minoritários da Empresa Metropolitana de Águas e Energia (Emae) estão tentando barrar na Justiça a realização de uma Assembleia Geral Extraordinária (AGE), marcada para a quinta-feira, 30, na qual será…",
-      "source": "",
-      "added_at": "2026-07-27T21:23:00.399760",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa3dXWUllMG9tOTlwTmhFMFpOdDEzTHp6Z3BxS3I4NUFkN29YeXNvNFJvZ2xtbDhmZzZmVV9PS2RlZzRhQTNmbkZ2S1hrY1lCSklVT3BDd3NFOWhsSFNROTlvX1ZZOHVvU0k0akZ5MGNycVE1SVYwa2ViMXd5cnh0U1pFWVZTbmlEWUE1WXlWOFBsNndEb1RqWVE3aVRQcTRSV3pmQ0dwYkUwZEJqSlh0Z1JkQjhWOEJFRDB0VENDZm50WWRpODBiSjBmUDJvUDY4UHI0Yy1WYUpmRGNi0gHiAUFVX3lxTE1oVkZTNGtfNzFQV1JBWV9icnNqb1ROQVBfcVMwZGtvOUpvTUhnS21IREprNmxWcTdOWm85MXpzS3ZrRjBfcVRiaFRiazhNeEIyLUlMR0s2czhydlBvOVN1Tkh1REgzRDZ0ZHZlcHZaRzBlZmhJV0RnZkxnWUlFUWs4cjQ1a1MtcE5KUnEzblVqYmNTd2dXNk44UEtHMnFLaFdlOExDdXVNTXFEU1BhWW13RlB2LW9WblJoeEtMS3NTOEk3UDFMTEhfMVBLWVhsNU1ieTU1S3ZTajg0cXVYSHpUZkE?oc=5": {
-      "title": "Ação da Isa Energia (ISAE4) fica sem gatilho de alta e banco rebaixa recomendação - Estadão",
-      "summary": "Rui Chammas | CEO da ISA Energia CEO da ISA Energia. Crédito: TV Estadão O JPMorgan rebaixou as ações da Isa Energia de Overweight para Neutra, ajustando o preço-alvo para R$ 26,50 até 2027, devido a uma assimetria de risco menos favorável.",
-      "source": "",
-      "added_at": "2026-07-27T21:23:00.399937",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS3p4ZHpoVDJYXzEzclpvRVNyWkI5ZzU0NnVEcHFwbzRwcDVEY2M2WlNkR0ZJX1VXYVJnb0FBc2FBUXF0YmN3UjRnQUE3bThZTDBObW5ZVllhYzlBajhCc3pxaHZ1Y281RThVOGVveFFMQnAtT2k0U0F0dnNpTUEzTERMZ1VhdnY0MVU4TEJTSkRzVGl5ZElzc0lrcnliUDE1alhWd000Z2VIZjdPUHFDYVAwdG9pMjN6SnVv?oc=5": {
-      "title": "Brasil assina memorando de entendimento de cooperação energética com Coreia do Sul - Estadão",
-      "summary": "Brasil e Coreia do Sul assinaram um Memorando de Entendimento sobre Cooperação na Área de Energia, visando acelerar a transição energética. O acordo, com duração inicial de cinco anos, inclui iniciativas em energias renováveis e eficiência energética.",
-      "source": "",
-      "added_at": "2026-07-27T21:23:00.400176",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVwa3E5MjdxaUdXOEVYRXRJVkpmbzI1SXV0Sm5kNzd0ZzNHVVlTeVEzYzQ3Y0JsRnVlYjN2N0lpWHZvcUNZWU5RTUF6NXd3WnlVQmY2d3A4bURfVm9BaGt0Z1JDeFRxTWtpaG1zX2d1Rlh0eGo3dG9oSVRzOFVzdDZERlRQdjkxNHlTekVlVm5wcTlHdUJj?oc=5": {
-      "title": "Brasil e Coreia do Sul firmam acordo de cooperação em energia - Agência iNFRA",
-      "summary": "O Brasil e a República da Coreia firmaram um memorando de entendimento para cooperação em energia, incluindo transição energética e renováveis. O acordo, assinado em 27 de maio, prevê ações conjuntas por cinco anos, com renovação automática, e visa incentivar intercâmbio técnico e desenvolvimento de projetos.",
-      "source": "",
-      "added_at": "2026-07-27T21:23:14.219731"
-    },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbDRESVozaWY5Rm95dWdRNElFR1VkcGlTVjlGMDF1RS1CVVA0MmFaY1c1NGhLeEhENTF2eXZHMnZoeEZibkhOeFUta0lkZm9jN1AwSjI3U01idURmTzhTZ2dXem9BRnF4Zl9qMjBTSURGSmRwMGVDd3dEVDhzcXVxQW1abW5qS3hfOWtiWDVkcjJSM3pkLVI5QU15ZnJkT1JHOFJ2UEJsT29mTFBMaVBGZkF1dmZWcHNEczJv?oc=5": {
       "title": "Cosip deve custear, prioritariamente, a Iluminação pública, diz entidade - CanalEnergia",
       "summary": null,
@@ -4293,7 +4239,7 @@
       "source": "",
       "added_at": "2026-08-10T12:29:14.914766",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTlhS0QtMFIxY3NZV05najhrRUIzaFd5b1FvTzlhMk92dHotLTdPeDJEYzZkc1pxOHdocGJYYmRkYzFBc3pnN1IwXzJhZWQ5Q2RPQmNuWTVGdXAwQ0JvOXVmdjRwX2JqLXQyY2JzcTc5TXVzbmdUeHhqVmpqbGczU2hzdUZjbm00WW1JV2RVS0Jnc1o0bFZ2aWw3TGZGdTJDR0ZydTd3?oc=5": {
       "title": "Trump taxa material usado em chips e painéis solares - CanalEnergia",
@@ -4301,7 +4247,7 @@
       "source": "",
       "added_at": "2026-08-10T12:29:16.561301",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRm1SMW1fRTVNYTNtYmRoNHJTWXRjM1NId3lLSGkxMHVzT0hnaFJVQkRQLXBTdll0MGd0Z1YxTy1TY2hiU1pTT3dhNnp0c3pjU0t5eWo5ZU4xYzdZbWFUeE1JQ0k4M3N0b2RUMXpFQnJiR21SVmVsYnlkVHpJSEZqOUxGOFhGVW9uNFM1RFVIWHRJOWRYWWdacU8xd29aZENqYXFqTHBBam1jN1FkNGpxajNRVGrSAbQBQVVfeXFMTUZtUjFtX0U1TWEzbWJkaDRyU1l0YzNTSHd5S0hpMTB1c09IZ2hSVUJEUC1wU3ZZdDBndGdWMU8tU2NoYlNaU093YTZ6dHN6Y1NLeXlqOWVOMWM3WW1hVHhNSUNJODNzdG9kVDF6RUJyYkdtUlZlbGJ5ZFR6SUhGajlMRjhYRlVvbjRTNURVSFh0STlkWFlnWnFPMXdvWmRDamFxakxwQWptYzdRZDRqcWozUVRq?oc=5": {
       "title": "Concessão de energia em SP atrai interessados - Valor Econômico",
@@ -4335,7 +4281,7 @@
       "source": "",
       "added_at": "2026-08-10T14:03:05.417110",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0lDTlBaeDIwZzBaOGdKcGpNLXJ1OER3bGpNM2R3VXNJaXFNZHJfUnhNNjJwaDk0WGpOd1Y0TTR5Z2tUSi1pMEtTOHZTWElheUkycl9VTFNwMDVwcGhyeFFxNnNxdUJGT3d5UXRRVUxGYjJxRVh2VVJxQmphZlYybERTLXdRODFHOXJzU2F5eGNYSGlqYXJDcmdsWWR0SmhFUmktazRPUmZtOWc2MFBzTEFaN2tNclN3R3ZlandjUVhPQ1lncDBtcA?oc=5": {
       "title": "Aneel suspende restrição a cadastramento de usina sem outorga como autoprodução - CanalEnergia",
@@ -4343,7 +4289,7 @@
       "source": "",
       "added_at": "2026-08-10T14:03:07.470940",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEZtZEtqdTBscFc5REtTVDNzM1Y5eUVJVG5CWl92NndOVzhvSGRWX2Exbm1FNGVtUHp2N1p4d2lyancxTWRCeXNKeXZrc0xmcVJzTDdnREM1Q3ZjczBGX1RyRFFBSUNyajlXSk5TU0RIX2ZsNTEzMjZkbElvMTItTUM2bUNzbm53QzdXSnVTdDhtODA5TXEtSndmVFFvcjVOTHBWZ0wxTDBJZw?oc=5": {
       "title": "ANEEL dá 10 dias para alegações finais da Enel SP no processo de caducidade - Agência iNFRA",
@@ -4369,7 +4315,7 @@
       "source": "",
       "added_at": "2026-08-10T15:13:30.933586",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnVQUFZKY29PSldKdlJrM1Q5VjlLa2J3M1RLWE9aTlRiVzBmZ1NVblFLS2hLdFdVMHpXNlJqOEVSV1c0amI2aUdQR0Z0OHoxVjVWUzJfOXJlZXNxOExYQURRMndUaDFTYVZOWmxoSXBpS0NPNjhXXzh3cl90WWx1QXBaUEpVRURaLXJqeG5KWDZEM19iRlhueXI0X3p6VGI4cVlPR3Q4ekFaRkVYaDNWcnhTaGlqWXU1Uk9R?oc=5": {
       "title": "EUA aceitam pedido de consulta do Brasil na OMC sobre novo tarifaço - Folha de S.Paulo",
@@ -4395,7 +4341,7 @@
       "source": "",
       "added_at": "2026-08-10T16:28:22.728772",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXBkVzNGYU5BSDJkdlhzdnVlUjZEbi1Lb1B5REZYVWFlaC1ZRzhnTDF0UzgwNHZ5QnRyVFdCUGtKZ1p5TDBnd0tib1k3ZjRlMjVKUEl1WlJKcnd4endIcnlGZWQ4cnRPT0pIeFg3REY0THZEMlpOdkUyUnpObFJjQU1TMDdjX3MxSHd4Wk8wek1GUGlGTGxwYXBlblNVbms0SEhaeXZrYTZRNFJxeExrR2p6bG5zdUszMC1MTU9NeWNYWjlxdUoweUZycWR5NjZOWHfSAeABQVVfeXFMUEVWZEVkMlZuYVFCVENjOV9WWXJCa3dySGJ1dkROcTJZVzJuMGpZS1A5NXQ3ZkJOYV9vM0lUM1EtSDlLY1RQQnVRUFpaMzRvRUZvd284c3VEVjJPTjF4YjFvb0tISEVBMWtRWnI1MmxLRVRMXzc0Qld4ZFhMTHN4YzEtN2lPcnNCY091cC1GMWtXUGVHZkUxZnVKdThSZjlFUllfRWVqWURLbi02Vm5BeVc3c1YzZE9yamp2YTU4VDRaa3hONzJOMERhNFRidW5UeXBTX0ZGSktGMmk5dXJDdjE?oc=5": {
       "title": "MME prorroga consulta pública sobre mineração artesanal e em pequena escala de ouro - Valor Econômico",
@@ -4421,7 +4367,7 @@
       "source": "",
       "added_at": "2026-08-10T17:32:27.420553",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVoxanBsVkw0WFhwQ01JRHpRT19fTU1YRFdwcG90enZPRjUxMlRhdjhTeWVqVm9rSHpUVnBValhRdUFoU0VaVk5JQkZUWWI0ekdjS1NMcG9KM2JVbFJXWEZIOXEwelgxdkpJZkZnM2otdHFKbUxUS0FmRkt4LVFGemk3ei1NaW56b0dCVE5EUGVsRFA2a1R0S3FhcGExR3pkUEczaWhUck5uOHljal9Uc3dUUlFwRU5sRUp1OWxWakdxd2VFRkthUVZlSjI?oc=5": {
       "title": "CCEE deve retomar cobrança de geradores que não manifestarem interesse em acordo do curtailment - MegaWhat",
@@ -4441,7 +4387,7 @@
       "source": "",
       "added_at": "2026-08-10T18:30:09.710023",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0wxX1FuUWkyLWdoTWFCOE9Ea2F3NmJKRkd5ZktjWUlTVm4xa1puanhyYWlJQUZkYlFaRGpSVVhYZGNIdnFUcHBjVlZEYUtRWHJZczFZa1BaSFpsTWUwdVdFcWFFSjI2dmNHOFdfOWZBWVdydVM0Sl9ycUMyMXNHcS03VG5tS2JjMjBlSmVlb2hRd20xZWFzSUh5MjgtSDAtdHZpTkdmSV9zU1AtdmtLRkhXcVhoNG5xTkJIU19RNDNBa0tENnRNVVo3eHE2VnJQREYwUmstZjhpbTQ?oc=5": {
       "title": "Lula assinará nos próximos dias decreto que amplia acesso ao mercado livre de energia, diz Silveira - Estadão",
@@ -4467,7 +4413,7 @@
       "source": "",
       "added_at": "2026-08-10T19:38:22.289413",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcDR3MGFBb2tWeDdtR3JYS3JjcGRiQmVxQ19QZTQ5NHFFZG5jWVdPNkZZNTVHUm1IVEU2LTFHMTNxay02alg5SC1wNmFCbFVLM25PR1BhLTU3eHQ0SEZmZl9xS3BZZHgtaWpjQUpIUGF6SXZyWThZNlNscWNoS2lraUpLRGlQYWZVUWwxX0MtcmVtUEotWmxTRFBwSEpsZEdfQ1ZMeDV5bmJsaXNfa3ZRUUx5c0dCM0hkYnZzVWhNZ1dvOVcyMDRONmU2ZjZRX2VOd3RvZlBvZlJQV25HbDFTNGxZalhYMjZrQ09SeFNqZDNRUVhjdEZzbWxB0gGIAkFVX3lxTE54ZXp3cnh2TFJrUkVmNEJmajBXYXpEZnlycWNYdl93blgwcWhFd3VpYWRSd19tNUlhM0U0WU9RRnpLTmhLWU1yV3o0UWRGemFKeU1HOWF1OTJCUGZOZTd4d1FMXzZia2N4R3JSVHlGMGlmMk1jVklKUDR4amxBWXFnSmEtekI0aVZ3MzZPWGx2R1hWMGJCS2VRRHVkNW12NjBOVTVRX08xSDJkY2NyNW1aVXRBT1pkdmg0dHByNVR0eVNWZndienA5N2Z0NWdhSEpaU29lbkJDSHpCcjJ6cF9NbDNoZDkyVzZfMHBQa1NpYnk3RkY5ZnRPR3Z5MWlzS0N3UUwtb3ZlUg?oc=5": {
       "title": "Ao menos 74% dos municípios têm universalização de esgoto contratada ou em estudo, aponta Abcon - Valor Econômico",
@@ -4487,7 +4433,7 @@
       "source": "",
       "added_at": "2026-08-10T20:57:59.357746",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWs5OG0zYk1uUF9xV3l6XzRpT0NQSWMxb0c0WldRSHZIZzBvbGtRSElUR2l4a1RFY1VMOWdUZHdjVE5XYVQtc1lvdTJIa3doMHFYX0cxY3hFWFVkdXh1SE9hV0ItRDhiRkZZS01mbXlIYVNnUi11MVBvUmtSbkdIbWZtNjlCbjB4clJzWC15b2xuR1BndzNQZEdWd1NtZFFtTTVDYlpXMk50MzRlNU55TXRxellyUFNsdXZ1bQ?oc=5": {
       "title": "ONS: revisão quadrimestral traz carga do SIN subindo 4,5% ao ano até 2030 - CanalEnergia",
@@ -4495,13 +4441,77 @@
       "source": "",
       "added_at": "2026-08-10T20:58:01.029151",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSk8wRkhwZFZTWXlIT25GZERCYXBBMXRWMDYydWIydFJnZlp1S091TWRtYzhsSXg0X0tfRUNEeUd2ZFEyQVZQd0ktYjhqc25DX0RfdGZ6dmdYZ19KdmwyNXYzSlY4bVRpN3lkRlU4OFJud0I3N1BvX2hSZFFJai1rQlg3LW9xd2ExR2pGaUFjd3JGWF96ZzBpU0Y0eXFwRE9hSFFGemt0RDJWdEZzNlFWQWRDVEtKUFVYRUdwOVlXUFJyaXZuQkc1Slp2WDlmV0M2SThZ?oc=5": {
       "title": "IA impulsionará mais a produção de petróleo e gás do que a energia limpa, aponta relatório - Folha de S.Paulo",
       "summary": "Um relatório liderado por ex-funcionários da Microsoft aponta que a Inteligência Artificial (IA) impulsionará mais a produção de petróleo e gás do que a energia limpa, potencialmente adicionando entre **500 milhões e 1,8 bilhão de toneladas de CO₂** à atmosfera anualmente. Empresas de petróleo e gás, como as citadas pela **Wood Mackenzie** e **Goldman Sachs**, podem usar IA para aumentar a produção e reduzir custos em até **30%**, enquanto a adoção em energias renováveis, como solar e eólica, pode aumentar a produção em até **30%**, mas enfrenta obstáculos como filas de conexão à rede.",
       "source": "",
       "added_at": "2026-08-10T20:58:24.440313"
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSThBdXBNWHFqMjlKZmVOZ3hsUGdHOFhuZVZXZ2pmcWcwaTVFTVNHVkRBaUFLOGlDLWUzb2xJeEFHcEt1dDFkREU2X3FHZFR6RjJmSW11bWNIOE9qNHZhWGZTa2lLR3ZZR3FIajhHMDVYSGVUN2dvdUJaM2trMWR2UkxLeWtnSUVrVFpyY2V3aERfTGNCRnV0Z1pZRU4yaWVHMDlWUFdqSVpBNXNCaFJnTlBaQnNzcEpTQ2s4aWNB0gHMAUFVX3lxTE9XT2RvM2N4UlBWUVZiRWdnX2c4VGVIcWJ0aUF6ZTVIX1R0TVBSVjNFd2RTMlpJd19RM2VJXzdBeXppOElFSUVMc2JzeEpJc2lmMXJBX2lLSVc5SmxucnZrbW5CbHM1Nkk1MmUycXZfOG44M2pHdXVScEozN21YQ0lWU2JQWDZ1VHd6dnRncGVwQkdFdFdJRndCYnBpSmx2V3V3RERMVzdhYlJmbXhWa0xqUzlaeE9md25vSkpERzcwbXRZVVJFSEdnWU1fdQ?oc=5": {
+      "title": "Silveira diz que Enel perdeu condições de prestar serviço em SP - Valor Econômico",
+      "summary": "Silveira diz que Enel perdeu condições de prestar serviço em SP Ainda segundo o ministro de Minas e Energia, o decreto do mercado livre de energia será assinado até a próxima semana O ministro de Minas e Energia, Alexandre Silveira, voltou a comentar, nesta segunda-feira (10), o futuro da concessão da Enel em São Paulo. A empresa está no centro de crise política e regulatória pela atuação durante…",
+      "source": "",
+      "added_at": "2026-08-10T21:55:52.598772",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ2ZuQU1XX05uMUNhakd3Zjc2QllfSnNuZ2NsWEh4Qjlwc2EyVFlORnB3WFM0eUNGSHJmSnBEYk9jRG55d19lc0FLbUpONFFjVXQ5YkdCM0JJZlFGblhIQlhwejRVRk9obFpSTW5ZazU1Sjh0eFN5QVc2ZUpualN6V3dzS3FoLW5GVF9jVGlWb1BFWm56aUVmX1pXZjJfSHdmaGZ0a1lXM1hIV1AyUDNuS0FRRTlTYmxoOVdNa3VSaFItQW9xZ29nMXYwVWNxU0Q3MjdzcW9HRW0xODZtaVViMERiODlnYUlLdXc?oc=5": {
+      "title": "Fãs de ‘Harry Potter’ fazem empresa alterar linha de energia que passaria sobre túmulo de Dobby - Estadão",
+      "summary": "Conteúdo Patrocinado Cultura Fãs de ‘Harry Potter’ fazem empresa alterar linha de energia que passaria sobre túmulo de Dobby Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’10/08/2026 | Edição das 18h30 00:0000:00 0:00 / 0:00 Internacional ‘O susto da minha vida’, diz influenciador que gravou…",
+      "source": "",
+      "added_at": "2026-08-10T21:55:52.598832",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHhvM1FGSFJqQ1h6ZEVhTEdOOTFUT19jV0ZvTURRYzkwRXVpY2IxNTYtTi1tU1laOW03M2xrZ2ttam1VUENZWE1NS2c3Ym90RTd5cV9hRTZQeEctcllNMXI0MGpheTU5N1JhV21MM0tMWHZhc3hOaDYyV0M4a3dFV1ZnMmVzU3JVQjVScFhQcW5kTzlfX0tYa2hBT3puUjBqc1hrWVg0em1Xc05qQUMtUUhEcUxkSWM1UThTM1B5emFrMk11SkVIMg?oc=5": {
+      "title": "Ministro diz que caducidade é ‘perigosa’ e que existem ‘outros caminhos’ para a Enel SP - Estadão",
+      "summary": "Conteúdo Patrocinado São Paulo Ministro diz que romper contrato é ‘perigoso’ e que existem ‘outros caminhos’ para a Enel SP Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’10/08/2026 | Edição das 18h30 00:0000:00",
+      "source": "",
+      "added_at": "2026-08-10T21:55:52.598855",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZU9qc1RjZ3F2VnphQnVxSFFVMWlNQzBJb19DaXJKMGlNRjF4SjdTaDVseFZ6UlVjNC1RbzZuSTM2R2NHYVFCa0FKTkxkR0U2TmNPS05wQzRsQzNiWUVhS2IyVW92cm1YNnowdGY2RjZfZEs0X011OTlOeDZXS2g0SUxhMExBNGQ5aklKZ2J2SUpnc1AxZ0R3QlVCd19jSDJHNldZT1dMcF9jNDdzX1pmcFlGdVppei1wcGNpRXBR0gHDAUFVX3lxTE9EWC03SG14RG1ZVl9SdGgyRWNNbnRGQnB1aUhPTWFYN1dsRGgyaGE5cFhjdEd3WFFYTzl3S1FuUDBMLXo5dElWYmVtdmNXeEtuUHdrN0c0cE92NmRkOVNoeUFOQ3F4cUhfNXdKTG13bjRwWFQ0cmU5N3h6RWhXcFhaYlVndzJ1WHFXakNhbFJXcDVsRFFDWmRMbVJwcmEySGFmaFZUUUUtX0pTd1FJREY4MldvbkxkeFBNYnFRY3FHSGFqSQ?oc=5": {
+      "title": "Ministro diz que romper contrato é ‘perigoso’ e que existem ‘outros caminhos’ para a Enel SP - Estadão",
+      "summary": "Tarcísio defende ‘varrer a Enel’ de SP e afirma que empresa tem 'má vontade' Governador fez coletiva de imprensa sobre os três anos de sua gestão. Crédito: Governo de SP O ministro de Minas e Energia, Alexandre Silveira, afirmou que a Enel São Paulo perdeu condições de continuar operando, mas alertou que a caducidade contratual é arriscada.",
+      "source": "",
+      "added_at": "2026-08-10T21:55:52.599031",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHBMZnFKZ19QeXFWcmNsZmtxUnotWi1XZHV6b0twV2JuLVNGWlZvUDFrSl9LdWdnRFhaNmZGYjZ0aWM4Z3pkYWZGWmNKbHZRSXhFSGFCNWJzdjFfcUFqOEg4R2xOcjlWdDY3d2tBakxPTnpFTzZPYVV2bFVReVAtQ2JzN2NTc05kT1NZMnRGUzFySzFVeXlqazNsTDBBNmZSdy03V2huby1CSFhjYm1tdHJDeUlHWEpCS0R5dlVPSmFRTHJDejR3SENB?oc=5": {
+      "title": "2W, Electra Digital, Oi e Boven mantêm concentração da inadimplência do MCP em junho - MegaWhat",
+      "summary": "A inadimplência efetiva na liquidação financeira do Mercado de Curto Prazo (MCP) referente a junho caiu em valores absolutos e também como fatia do valor total não pago, após dois meses de alta. A queda, porém, não veio de uma redução relevante nos maiores débitos, que seguiram praticamente estáveis na comparação com maio.",
+      "source": "",
+      "added_at": "2026-08-10T21:55:52.599156",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlB0Zjl1NTB2eTdlMmFiOXVhcmc5dldkcTdsTzBodUplUW16UjZ4STBBci1NRDhYVU84aXJETTlNeWdmelVsZ0M1a0QzLVg1NGFfalI0WWJETEtOckoyTGpuUVRNYUs5QlMtNnlDR2wxQTNzcHRDMjhjSFMxQkJWT3pVUDRMdnlmSEVscTFpSFZiRE1VbDhmeXIwMlM5NlM4cHRhRnZiVUFmYUs2eVBwY3EtQU92dG1VQllPMzBkZDNIZlVQZ25iVA?oc=5": {
+      "title": "Potência eleva custo da expansão do sistema elétrico a R$ 240/MWh, estima Itaú BBA - MegaWhat",
+      "summary": "O **Itaú BBA** estima que a necessidade de potência firme eleve o custo marginal de expansão do sistema elétrico brasileiro para cerca de **R$ 240/MWh** entre 2030 e 2035. Essa elevação, de **R$ 45/MWh** sobre o custo energético puro, favorece fontes flexíveis como hidrelétricas, termelétricas e baterias, dada a crescente dificuldade em garantir capacidade nos horários de pico.",
+      "source": "",
+      "added_at": "2026-08-10T21:56:10.943014"
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkRkdHA5NjJ1a1kwQ0tRbXc5VmVvS2lsWEt2MGNEWXRFMzlBSzNXajF5R1hqRHBXU1BhQ0pnZlFiZTA1REVtQlkxVjBtWTFueEJ1aDlNZDFyQnBSVGNWM19WVzRsSUtIZHF6eVliTlBtdS1VbVFPZTRvaHc2bHVMNmJGODhTbjJkWHJfTDQ3SWVvX3NlQkE?oc=5": {
+      "title": "Abegás deve propor metas regionais para gas release - MegaWhat",
+      "summary": "A **Abegás** planeja propor à **ANP** metas regionais e distintas para o 'gas release', visando respeitar as especificidades de cada mercado. A associação defende que o sucesso do programa depende de um aumento real na oferta de gás e da concorrência direta entre fornecedores para descolar o preço do Brent.",
+      "source": "",
+      "added_at": "2026-08-10T21:56:10.943054"
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaF9DQ0FXZzU4YlNEQk9BeEQxZjN1Nkk0OHVZV3QzbVRhak1HZkotMTZSV2VYZW5CYTRseG1oTHAzUnlnZUxGZ0kxZkJheFBMbXFETTk2UUtsVkMzbkZiSE83NmxBeW9xMFR5ekZYUy1QNEp1UE5ZOVpPa2lnOF8xWWd2TUZHcFowcHVzR3RLTWt5SUp2cmx4Uml1eTBCak9scnYxN1JvSkZZVFlvbVk5Tg?oc=5": {
+      "title": "Ministro diz que Enel ‘perdeu condições’ em SP e cita troca de controle - MegaWhat",
+      "summary": "O Ministro de Minas e Energia, **Alexandre Silveira**, declarou que a **Enel São Paulo** 'perdeu as condições' de operar no estado, citando problemas de imagem e dificuldades em responder aos consumidores. Ele defende que a decisão sobre a concessão seja técnica pela **Aneel**, mas sugere que outros mecanismos além da caducidade podem viabilizar uma troca de controle sob novos parâmetros de qualidade e investimento.",
+      "source": "",
+      "added_at": "2026-08-10T21:56:10.943066"
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnBtY2t4ckZaREp1a01tX0phTjF0a0ZtOEhtZ3NhejAyOUw4YUdYUGxUU01jUVAtdWRkZGJ6WV8wOHd3TUhfQkdOSWxaS21oTUk4LXcwa2VkdlkwcHlYd3F1ejYxYjJfaFpOUF85SW1QelFPNmVPbm5XaTVCclRCVVFyYVBtRmZzZVpyX0N1emxicWpJNkF5VGlVeUFxMThfRlllR0U0WmE5OEZmd2Y1akZR?oc=5": {
+      "title": "🎙️O que outros casos ensinam e o que esperar da caducidade da Enel São Paulo - MegaWhat",
+      "summary": "Em entrevista ao MinutoMega, o ex-diretor da **Aneel**, **Edvaldo Santana**, avalia que o processo de caducidade da concessão da **Enel São Paulo** pode demorar muitos meses. Ele discute os limites regulatórios e políticos do caso, traçando paralelos com outras distribuidoras e antecipando que a decisão final ainda está distante.",
+      "source": "",
+      "added_at": "2026-08-10T21:56:10.943076"
     }
   }
 }
