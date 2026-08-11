@@ -1,28 +1,6 @@
 {
-  "last_updated": "2026-08-11T21:02:16.255295",
+  "last_updated": "2026-08-11T22:01:46.618779",
   "items": {
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTk4WkxRQldaZUNzNHlhdXFWNnJEY0NtRlZtYV9jY1o0dGtYeU1mYlhsdmJUWUpVRWFGOERsalExQVMtV2hoVjF5YVdVVno4LXpXNTF4VUVrdFVHbEotdV9HbWtPOWIteTNBd253VWMtdmxuZHR6clE2MDdqYk5Fa25ILUdpdTkzdWJ0S01odEJlVzN6R28weU5Sdw?oc=5": {
-      "title": "Tarifas da EDP ES terão reajuste médio de 7,52% - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-28T21:45:50.369919",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOandiYlpfSzhwbWZuZ1ZiZXNpa1V2WVY4cFhNOXlTVWYtUjhUNEFMQV9wWjhtTGkwVm5pRlY2aE5Mb09NSGJLTHF5RHpYMlpsVjRuSUhpUGYwRzlraHlKWFVVTkJxSmhWY1JibW5sak5QUE5rQXM5TklnWS1Pc1JBNmR4bHlDTk9sSGpSbHUxcWNzQS1sZzlHSk9sdzh1OWRUQTJmQ3dodVhTcnJPb2ZvMDhJaDI3TEhTU0RR?oc=5": {
-      "title": "CTG Brasil realiza testes em vertedouros de 3 hidrelétricas - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-28T21:45:52.051136",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaC1jTjNvM0RPX3RWTm1ZRmdlXzZsZEg4eHZkekI4VGJab0d2WnBqM3h4V3RUd25CUkZtdWdmTWw4TDBuZktyS0hnQlJRQ2cyeV94ZjRvbm5WbERFSzNoM0JlN3J5d3VLNDhOVllpUy1IYVZISlloWlIydDBtTXdGRTNGNUlEVmFhdWRfdmR3bmVSTU5hN0Y0?oc=5": {
-      "title": "EPE recomenda Bipolo Nordeste 2 para escoar energia renovável - Agência iNFRA",
-      "summary": "A **EPE** recomendou a implantação do Bipolo Nordeste 2, um sistema de transmissão HVDC-VSC com cerca de **2.500 km**, tensão de **±600 kV** e capacidade de **3.000 MW**, para escoar energia renovável do Norte/Nordeste. O projeto, que visa aumentar o intercâmbio de energia entre regiões, pode atrair investimentos de **R$ 20 bilhões**.",
-      "source": "",
-      "added_at": "2026-07-28T21:46:36.924137"
-    },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlRMMWpQdmt2T0FXcVc0U21wMzQtLV9TZGxQbUczN3JZRVpTXzlVYlZITTZSaEFIM1dTVjBIOW1UNEtkUDRHaVBDa01nd09KZnp0R21vNU80Y1B2aWVvZnI1TmRFdmtqbnNFczZld3BNYktQZFhzWnphWXJHZ0tLQU5YQ0pzakxzRlhNUHZYRkg0TWtZRDZlRXZPalZsNVVqOUkwTDViTXNNUEQyQzZHaHB4UFBYcDMycUJtUmFB?oc=5": {
       "title": "Regras de Comercialização para LRCAP de março vão a consulta pública - CanalEnergia",
       "summary": null,
@@ -4279,7 +4257,7 @@
       "source": "",
       "added_at": "2026-08-11T13:37:24.145003",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjdJR3VZaC0weHJMR3JZZlBqYVo2RTc5WHZ1dC1WcmllZTBMbko3TVE2YzFPVUxManZRNVJzYmJBMDZORlFNSG1pNDZuTUZpNXpSeFlvU1hnMHk0QWVOT3BNb1dSVEdiaGFkclp0Y3FoNmdfa0dpTGdJS011VGlEemZIdmM0b2ZqRkxDLWZCaGlFbGw1NFRBZmtlRQ?oc=5": {
       "title": "SP2B será descarbonizado em parceria com Axia - CanalEnergia",
@@ -4287,7 +4265,7 @@
       "source": "",
       "added_at": "2026-08-11T13:37:25.793637",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZLNjRFZ2pESTJmaTBfTWxDVjZpY3loUF9PNGJmTUU2REdWemg4Y01uUXNCdWZkYm1La3BMbTVYOEsyRVVuRkFndjJjbGFWMmNGT1pRcFlsMHBwc3VyRnFpRFJJczNfeXNqbE1RbmVMdlRxMXBVanA5eE9maUMyREFmaUtFeHRWN0J6aTNTX2V4OElVNUJabTN0MWMtOWkxQ1ZnaXB1V3JKb2JRTWxHWVdvZFZ3a2xXQnFhZ2ZtQ3MzNndTN2ZFT1dUd0J5X3g4ZWlXd2l2VWlxaEN5UFJDckFjT3UwRTDSAfYBQVVfeXFMTV9lLWxJOXNYQVRIb2JzV3IzOGhXVmhwMXdyektZSU1TenJneHliOGNpaUlTX0JEZXhrZXlPQzFNa25aZkI0MTgxcUUyWUREbGlZSWtTeHhERGw3VEZnN21TY2ZnbUp0bUVqY2ltVk1xS0tWWjJER2tLMDNBYVlyaXRWQlpaYTVxUTZfQ2R1aEsyUW9WWnpJLVpPUVdNMkJrSHp2OEk5UEVrZjlkSHBTUHpZQ1NpQlN6aFZWM211dlhOT1UtWmtYamxRZWhzcWViU3N5aTNUZ2JXMmhMTkZZTmdVZGFkSGZlSHdhLUdUS1drZEY5S0lR?oc=5": {
       "title": "Relator vota por rejeitar recurso da Enel SP contra processo que pode levar à perda da concessão - Valor Econômico",
@@ -4361,7 +4339,7 @@
       "source": "",
       "added_at": "2026-08-11T14:43:57.308151",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2R1a1ZzZHg0UUZKT2VtdmdvRUpJQ29nem9Uc2VDTlIzQWRRdF9VQ3JicmozWFQ3czRWM3REN2d4a2pnd3JyYTZYQ3FyUWtScGxzTEtBUlpYa05iS1lydTR3S1EtdnlDaTMySmhNSTFiZGdJZWVNc3g1WllZVGVQYjFzY0FIRTA3U0FoUUJJRzBmTGZ2TlI4YUZ5SzMxd3hoTXVRNVdjVjMyaDhnQ3JKM0FuRnZUU2U3VF9LNg?oc=5": {
       "title": "Energia elétrica residencial registra alta de 3,09% em julho, aponta IPCA - CanalEnergia",
@@ -4369,7 +4347,7 @@
       "source": "",
       "added_at": "2026-08-11T14:43:58.965605",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYjVlRWJIMUhGNm8ycHZHVEUwXzVrUG5MUEFHZlFCV1RxM05pNW1MQ2Jrblc4VHVKT0ljUGFMeWk3SlprVk5nbGZobG8zaWRwTUpiZmMzTTVvY3R3ZTNBVUpJN3JocEtIQTN4R1lkaFlzdGdKU0k1bHBmOW1pTXlXUWVjX0M5V1VuLWk4VU1QZ0ZhYmFBMGc0dmtvSGlaX014QmgyVm1GcWpBQ3VhX1pWNVRIZjhyU0VvWHBsSHZjOTQzMmdRSFQ5SW9YQTJQQTVMU05rVF9WaG1oQXF5QTk2SEtJeVNQWkRKdGVJbW5TanbSAf8BQVVfeXFMTnBpZmg1aVRYS1ZTQ05uaVZuVUN3V1kzWkNjN1ZRazJvcm1XaXZISFotTUh3MjEwOHBNd09LM2h4d3VzbmVwYV9YMjN3SWhRNEw0WkRBcjY4R2FweVhrWEw3QmVkZGNxcjdaSVJZMzZINFRCYWtLeEMtOTNHN2NjVkZrTDNBR2RaUEVNZFExcURRblJfNTdqX0c2TGVqRFEwRnhNU2VEQk13RHdJQ19GUU9rbzFPRGNTTC0ybmhaX0hGX2FXeFp5VjRNb1l5SFV3TUM5a1ZYeGkxbU1yMC11eWNTSWltSUt2OHdBSzNNX3JLaGxZcEdVU1dXTjlhcHNN?oc=5": {
       "title": "IPCA de julho teve 'cabo de guerra', com pressão de alimentos e combustíveis de um lado e energia do outro - Valor Econômico",
@@ -4385,7 +4363,7 @@
       "source": "",
       "added_at": "2026-08-11T16:09:18.957581",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY3RhbmNfYUJubHFLM3ZBdm1HSUJDaFZrc3hUM1VQRW5ucjBlMFdSdVYtb3BQYWwxV2l5TW5JOWxFMjVNTzJjVS1nSDdnY1dPS29zbW1mSU55ZFZEbHdsZm9vTExtOFNZdzdxWWE4TWw0RTJYWkVqWnZtaUt4ZkU1eXZOaVRrdFZHcU5QandoMUhtdw?oc=5": {
       "title": "CCEE: MCP de junho liquida R$ 1,91 bilhão - CanalEnergia",
@@ -4413,7 +4391,7 @@
       "source": "",
       "added_at": "2026-08-11T17:36:13.188715",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdC1EdVQ2RzhUaXI5b2NjOXVRM1ZMQnc1THNKMlFCdS1fc2RKbWl6SFJTdE4yOTJZT1hQSXVSeF9xeW5QdGhPaGdUUGpWNHU1NEpSY3RUNXRjSndZMjVqSmdIbVV4TmVjdFEyS2JBLV8tX0ptekNDSG5zbE9OU0UzajNVNnhNeWJQSE5lSnBxMU56SHVOY2RKNFBrTm4tbV9sTDItWWhUQQ?oc=5": {
       "title": "Reservatórios do Nordeste operam com 81,8% da capacidade - CanalEnergia",
@@ -4421,7 +4399,7 @@
       "source": "",
       "added_at": "2026-08-11T17:36:14.849853",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDlqams5SC1PNjViMXJ1MlRHMzY2RXM4cHQtcjNTRWJhaXJZcnh5T2Fjd2xyU0FDQmpXRUVsN1FiTURNVF9vTnFZMlNyRm12MHpUQU4tMmRlNG5qOVlzY0tzZjR1aDFxOU5va3lqbFRhRnd2TVZ2R2Z4YXhIaTBMR2Y5TzFBWjZQanlCN3JreXhDSU1PdlBFbUpjTlpDLW9VWllnbGQ3LVZ2UXZJeTYwZGJhWU5mRzlsT254M3VnQ3hFOW1nbjRMMdIB1wFBVV95cUxOLW5yYmNXeDFiUVl5NVdlVTNrR3BIM1RyVUJxdzNUYXpiakljNWVXejJMMmQzZndmalRhNHQwRGpNa3JaNHB4a3h1OFlNYzN1SURTXy1BZS1ybDVlbU0yV2cyMllieTdpOHM1QnRqYl91UkttZUl2bGtyTkVyeFFIZHVaSVJPd1QzdzRGWGwtVnBvZDBFTjJoVkJtbm5xR284Q1lsMjRzMFU1Q2MwdDJfbHE0RDFnYV9ncmdqZ0FNcl9QcEZKWFdpRXFHN1dUVmhIbl8zYWZndw?oc=5": {
       "title": "Bônus de Itaipu deve puxar preço de energia para baixo em agosto, diz IBGE - Valor Econômico",
@@ -4453,7 +4431,7 @@
       "source": "",
       "added_at": "2026-08-11T17:36:45.349715",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZzlvcFRSVG5tM3lnNHVKV3NaSzZUeGNxUDkybGwwMElkVklDakgtbDktcm9aa29NWXdha3Jpd2RBV0ZZUmpSTkpRTW50VHJPTkxYUHpzMHphc2trRkRaU05VY0tGMFFOc0l1SVVlZktUbUtYaURCeDczZUhTb2tUVGh4NGhLTG5OcGdCNDFDX0xMWTZGbEJ5dXFrTnpldWpZZFUwNlV5elg4NU13VHhKTA?oc=5": {
       "title": "Limpeza energética antes dos eclipses: como e por que fazer - UOL",
@@ -4501,15 +4479,15 @@
       "source": "",
       "added_at": "2026-08-11T19:44:36.445227",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MakRyczNWd3FwbVRhcmlvMGVjSURMNEg3MlZYNkJUd0VnR2Zfc0xZYkszY0JuZVlvRXJmUGZldFZGVzQ1T3hhUlJ2U2NMZEtjbVlIVTFPY1h1QzkydUVocDZYZFJPZ2E3OUN0c3g3VmMtcFpoaVpldlY1bHREQkE?oc=5": {
-      "title": "Universalizar o saneamento é o verdadeiro interesse público - comentarios1.folha.uol.com.br",
+      "title": "Universalizar o saneamento é o verdadeiro interesse público - UOL",
       "summary": "* Apenas para assinantes comentÃĄrios Os comentÃĄrios nÃĢo representam a opiniÃĢo do jornal; a responsabilidade ÃĐ do autor da mensagem. - Thais Maria Vinci de MendonÃ§a ChavesO problema do texto ÃĐ um sÃģ: os surpreendentes e auspiciosos dados apresentados acerca dos valores investidos e da ampliaÃ§ÃĢo do acesso aos serviÃ§os de saneamento sÃĢo fornecidos apenas pela autora, funcionÃĄria da…",
       "source": "",
       "added_at": "2026-08-11T19:45:11.374271",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2x3ZjBLVjdPc1dUWmxvVDZzV1JDWWFGTWlhWl92d3RLd2p4WXJnSUhQX3VXWHpMYlBSMS1DWGNOWE9VOHRqSTdZeG9xNWpiNnlvbXZ0RUJTQXdRXzBvbFExczh4eGl1WmNXV1oxRlliYWNOWDBvdVpmbVlNY0FEa0gxUHh3LXRnTXVtdWZyOFBndw?oc=5": {
       "title": "BNDES aprova R$ 54 mi para irrigação e energia da Agrovale - Agência iNFRA",
@@ -4517,7 +4495,7 @@
       "source": "",
       "added_at": "2026-08-11T19:45:23.339697",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMWtkT2Q2VTJlMVNkTjE5QzdXMVZ1VlBndlRZV3B3aHhvNGZYb3VvMF9VV1lHVTlvdDVrUGl5bHNHX08xbkFnbjcteXYxbjZ1UTRBeV9HYmozYVpsbm5xdHFXQUdrTWVEbHRCT1djeVU2V2g1VkdPY3hHX21TSDVYSTJOMTJ6aS1VOEswYmM0THJzYTJfX0lQRDlxSTZxdmJVNzBGdQ?oc=5": {
       "title": "ANEEL: Diretor Willamy pede vista de 6 processos sobre multas por apagão - Agência iNFRA",
@@ -4525,7 +4503,7 @@
       "source": "",
       "added_at": "2026-08-11T19:45:23.339807",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXhkQjVnSGUyYTR3SUVVd1VPOTl6Skd0b0c2cEFrcFh3MDdLbnlsV2xQelNfcThGVDRXU1FZV1JHWXlueWhXb1Rfdm1nWDJnQmk1bE1uQ09vQ1p0VVgyd0dyd3dsZ2lNWmVOa0N3Q3p1U0ltWFlPR3hOMF82RjRoNjhDM3dhYndyMDU0cjhZbXN1X1QtTmNfcHJnb3RLQ041N3dwUDRmaFJyQm95MWhlUk9OSFVtbER1R2J5OTRKazhQWFRacjZkbmtERUtqN3NTTG14Mg?oc=5": {
       "title": "Willamy pede vista de seis processos do apagão de 2023 e prepara debate conjunto na Aneel - MegaWhat",
@@ -4533,7 +4511,7 @@
       "source": "",
       "added_at": "2026-08-11T19:45:23.340079",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0c0OVRDSnFKRlpMbk9GUHR2UkswZ1JfZmNWU0ZndlB5S2FRWkNVTW9MWVIyN1VzUlAtR0VqODd4VVowVDlCUGVTblQyX0lKdmtIMTUtNkNOcUpmanJNek41ZVRDV2pONEgyUmN1UlA5Q1hWVG1wNm1WTEhxMng5cFhFanU1aDFxU3NaVGxOMlBEMFhVbzJPMVRNdDN0a2ZnUG1B?oc=5": {
       "title": "‘Sinal de preço precisa chegar à baixa tensão’, diz MME - MegaWhat",
@@ -4541,7 +4519,7 @@
       "source": "",
       "added_at": "2026-08-11T19:45:23.340269",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnY5LTB6Zm5DelQycjZyZEhvc2NLcDNybmhIaUFNdEE3ejJSeVM4aF83NHBVTjMxa241N0FqQm9PeE9EZjBPZmVIS1d2ZEZHTUplRktJZE1hYzJVa0RRY2tDRnZEeDc4X0J4YS1HSC1hUGY3ZVF1STQ2ck00aGFleDRuakpTaXVnQkxyMjRuUkRUZ19iMmhpNi1sZ0NEMU1ZVmlZQ0owakZmc2Nu?oc=5": {
       "title": "Pedido da Engie leva Aneel a rever prazo de concessões de hidrelétricas - MegaWhat",
@@ -4549,7 +4527,7 @@
       "source": "",
       "added_at": "2026-08-11T19:45:23.340520",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3JhMVk1UTc4MGpaRG5BVkRFT1htcktKSVJ1MTh0eElycmgxY0RMMFZDaXdCYi1pSzA4ZjYwV2p3R2c0bTRfanlYYVhYSU5xZzNJQnpFaFBEaFN1OG1DTmNHT0YtazRUU3ZROWJMN2Zvb2tjY29UanFYTGJtdFE2WkJSWDZFNjNhTnZFcjJQUi1rcVY4ZmVzQXZWS1JXRnB1bldXWGhnZWJCNEhCY29SQkFB?oc=5": {
       "title": "Diretor da Aneel pede vista em recurso da TermoG e relaciona caso a inabilitação da EPP - MegaWhat",
@@ -4563,7 +4541,7 @@
       "source": "",
       "added_at": "2026-08-11T21:00:55.413128",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOHgtS1QzRzZJUXBTLVU5T1dCSklFWS1EM0JVS0xjcHFmcWV3Mk13bVNpSl9BQk51UzM1OUZnS3pWVXNnZ1ZTUXJfN1g3T2IzOGlwZkFDZTZRdl9QNGpBNU0yWlliT3JvVzRRRm5KbVJxZFhEejdCZ1hzNjhJcXp0NlpnMVZxRkIzUWRyekVkQWVLM0VtM2wwbEZWampxM0RPRFhEM2JyVFVrSUFPSVlydHNndGxSSDBKdHlaMlJLcTl1YnBBdUVhaFFmWkg0QdIB3AFBVV95cUxPSGFyVUJRLWlnLURvdWthQ1ZNbS1mak9ZWjROTHk2ZllNOVljeTd3WFJhRTE4YkthT0Y2Y3gxcVlVNDVoaTZFYnJRa2VNUHJTYl92WjZUaDN5Z2pTSXJfcDVsd0NPWEFyakRuTUsyNDZXel9BYXJ0ZWhmMFZBTFRSREY3NXU1Q3YzdHVJZVVRVEpjd3pPaEFHbzM3WVdfdlRlRWl4TThEVTlhOF9wQ1Nmdl9FQ2wzM0ppUE5HZGxjUG1DOFBzV1N1alBpQzNlaXV6R3NXRWJiZHhGUW9l?oc=5": {
       "title": "Aneel rejeita recurso da Enel SP e mantém processo que pode levar à caducidade - Valor Econômico",
@@ -4571,7 +4549,7 @@
       "source": "",
       "added_at": "2026-08-11T21:01:49.306829",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLW5yYmNXeDFiUVl5NVdlVTNrR3BIM1RyVUJxdzNUYXpiakljNWVXejJMMmQzZndmalRhNHQwRGpNa3JaNHB4a3h1OFlNYzN1SURTXy1BZS1ybDVlbU0yV2cyMllieTdpOHM1QnRqYl91UkttZUl2bGtyTkVyeFFIZHVaSVJPd1QzdzRGWGwtVnBvZDBFTjJoVkJtbm5xR284Q1lsMjRzMFU1Q2MwdDJfbHE0RDFnYV9ncmdqZ0FNcl9QcEZKWFdpRXFHN1dUVmhIbl8zYWZnd9IB1wFBVV95cUxOLW5yYmNXeDFiUVl5NVdlVTNrR3BIM1RyVUJxdzNUYXpiakljNWVXejJMMmQzZndmalRhNHQwRGpNa3JaNHB4a3h1OFlNYzN1SURTXy1BZS1ybDVlbU0yV2cyMllieTdpOHM1QnRqYl91UkttZUl2bGtyTkVyeFFIZHVaSVJPd1QzdzRGWGwtVnBvZDBFTjJoVkJtbm5xR284Q1lsMjRzMFU1Q2MwdDJfbHE0RDFnYV9ncmdqZ0FNcl9QcEZKWFdpRXFHN1dUVmhIbl8zYWZndw?oc=5": {
       "title": "Bônus de Itaipu deve puxar preço de energia para baixo em agosto, diz IBGE - Valor Econômico",
@@ -4587,15 +4565,15 @@
       "source": "",
       "added_at": "2026-08-11T21:01:49.307254",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1B5VE1EeXA1T1kzNDhneUpqTkl3S3lITm1CM1BQaWpTQnN4SkVwd0xMOWVhUUhIVktGNWlvTkpvRFlJSVQzYUVkVk5NcEJDQ1I3M1ZIQVVpbm9zc0hsbExqWVF1bzdzdlNiWDFSVmxaelFxdXhTWFdid25nWGxUMWhOTXRzU3p3MVhONmpJSzlscmswaXl1aDJVWHNXX2FfdlFHYkpMVkxCR0o5Rm44MUJqWDl5a1huY0RkZjJ0YUpoOFFEZzdn0gHMAUFVX3lxTE1wZWlFbkc1STdGWnpZUGFwOTNQaGN3UmJaYkZjMGpEa2J0dzJ0MWJuVmZGTzNGUlo0U1NKMkR5dFFEZGlrYWN4WmxMSWFnUGY1MTg0VlFnQnpLbkotRUwyR2RDNS0tbFBITDdYNlpONUlfMDRLc3BuYjZJelcwaENvSUZxeWF2Zm9fZTVJbi1xTFN5RVNMeS16ZldEaXVTN0lPZjBpUkVhY3NGY0ZxMTk1RjgwUmxLUzNwWUhac2RYeV90R0h0M01fSFppNw?oc=5": {
-      "title": "Enel em SP: agência federal nega recurso e avança para votação sobre rompimento de contrato - estadao.com.br",
+      "title": "Enel em SP: agência federal nega recurso e avança para votação sobre rompimento de contrato - Estadão",
       "summary": "'Novo contrato deve melhorar apagões em SP independentemente de quem operar', diz diretor da Aneel O diretor da Agência Nacional de Energia Elétrica Gentil Nogueira de Sá Júnior comenta caso da Enel. Crédito: Estadão Gerando resumo A diretoria da Agência Nacional de Energia Elétrica (Aneel) negou de forma unânime, nesta terça-feira, 11, recurso da distribuidora de energia Enel contra o processo…",
       "source": "",
       "added_at": "2026-08-11T21:02:03.594653",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaG85RzBUTmpBN2xobEo1U1lhbEptZFVqQmRJNEs4UjBQYUFfUXhuSTNlYUtxNk42RWF3YU95ZTZBQXhZd3JlVHRuS3h4Q3JObkl1Mm5GNFV0TWdWV0J3aklpUDJuWUZWNVpHeVZuY096S3M2WTZ0SUtSVWl2bUprY2drVE1kUTJiRHBHVGdwYk9pV0s2THEw?oc=5": {
       "title": "ANEEL nega recurso da Enel SP e mantém processo de caducidade - Agência iNFRA",
@@ -4603,7 +4581,7 @@
       "source": "",
       "added_at": "2026-08-11T21:02:03.594824",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUI0U0dGQUd2dm9wQjFSOWE3WnRVS19kS3BGb2NWTDFFUWJwdUUwUUVTTnJldkJSeE1kUDBvTEp5c3I4d0tFTDNLNE1vcTNIbGpLRjJkWU5WSjc3cnVlS2V6RHpnSE40NWk4UWd0T3BQRkhvZlAwOTV0dlN0WUF1NkNPZF91dll5cUR4eXRYbkdyOGNYVUNsOUgwUHhCcWhhcENHc2E3T1FyRzBYelNCUDFn?oc=5": {
       "title": "Acordo do curtailment atrai 1.539 usinas eólicas e solares, com 53 GW - MegaWhat",
@@ -4619,7 +4597,7 @@
       "source": "",
       "added_at": "2026-08-11T21:02:16.245912",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFNvSlRBZmJ0eWhvWkZkb2ZqMHFxU1VPZFJTa2JlRTdjdHRrWE9zX1VUbElTaVZ1QmdibmJseXdOMEhVOHVGSmJaR0R1amF4a1RIaVB6d0t2cUVIdlhyNmUwZnowSmJqMjZpcndjd1ltQWRjWEs2eEpYaVFmWVdaU3RNWnNFR2NNekxHWjBPZE1WS0NLZ3V6aGxQdjN3TXFQckR3ZFl0RWZKTkVOR3ItRnZnMzA4S1ZBNnpNUw?oc=5": {
       "title": "Aneel rejeita recurso da Enel SP e mantém processo que pode levar à caducidade - MegaWhat",
@@ -4628,6 +4606,58 @@
       "added_at": "2026-08-11T21:02:16.246278",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVkwREhpeHk0WDdPWERkOEtqYTJkUEVBSkQ5N0xpS1lPcDJGZjBROTZUNWcwQjk1TVRrYU4yS2hzbkFOT3dGVXZnZGlGVFkzTkxDMlBHTHBOYm5ac3ZKWGtoczRPSUNJdXdGb2tFRkNEWG5QRlBKcVJSNkRYV1drR0tzYkNfZ295Qlk5UXQ2RGRVU25tbEZLM1ptMWl5TU9oekRvM3ZXcW90Njda?oc=5": {
+      "title": "Taesa obtém licença de instalação para subestação Estância - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-11T22:00:22.960929",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUpPcjdkcUtXVUpONzIxc1ZfaW45enRTQUVBaVh1dGgxVzVubzJNdjhqZGxVd0pUS3lodmxreU5fd2FybmNkV0RpOF8zV19WM2p5ZXpNOEpfNl80MEhYOERHdTRpM19TZENqV0ZfSmRSTzhPTXpjanJfWVhKQnpZcHUtdjlFajhsUnh1eHBOSlpGdEdDS0hDYlB3TDdNY2w1UnJocmdDbFFqSnpPN0VySnZYMVlNRG5Qd1E1Wlctd20yaXdqYnVaaXJab01hdw?oc=5": {
+      "title": "MME: 1.539 usinas eólicas e solares manifestam interesse em ressarcimento por cortes - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-11T22:00:24.655419",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFVNeFE0THFZaDdFbzFlNE4zVEk1YlZJMUpieExiSG9UWGhUNEVDdmRWbjJ5bGlSOUV6VWwwNUFwb3Z3dTV5ZU1hNWhFWFkxQzNjcjFQT0RaMTVWT3JGU05rNGVkLWdPdFZ3VzFsNGRUS2hyVjNGZWZDOGs4cHlqNF9hcmxtOHh3RG9YdlRMaTc1UWliaElJanpLcjlkV3BPWHlGZ1hRbXo?oc=5": {
+      "title": "Acordo do curtailment atrai 1.539 usinas eólicas e solares, com 53 GW - MegaWhat",
+      "summary": "O acordo proposto pelo governo para compensar parte dos cortes de geração de fontes renováveis recebeu manifestação de interesse de 1.539 usinas eólicas e solares, que somam aproximadamente 53 GW de capacidade instalada, informou o Ministério de Minas e Energia (MME) nesta terça-feira, 11 de agosto. O volume representa manifestação de interesse equivalente a 91% da capacidade instalada…",
+      "source": "",
+      "added_at": "2026-08-11T22:01:25.588813",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2dZSjVxOVEyWUZaRFRFQVlyUjFCNnBXd1Z5dmZqc05TWkRoek1Ib0toRXl3UVE4a01POGVEM2t3VTlGT1VLZXpUdzVPRVY5RVYyTHlqcFVFaThqbUN4VjRjUFk2bUM0ZnczMk11SmZ2Nm00M3JHRkRQTmxhRXRXV3NCQUFSLXlDTHhQRzl1SFd6VThCT1dTYzRZVHlGT2hNMm5mbFRPUVNzWlBzaXF3WUQzUU0tbWd3M2hXY0w1NG5fQ2RaamlMSVprRGxWbk02d2c?oc=5": {
+      "title": "Aneel rejeita recurso da Enel SP e mantém processo que pode levar à caducidade - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) rejeitou nesta terça-feira, 11 de agosto, o pedido de reconsideração da Enel São Paulo e manteve a decisão que instaurou o processo administrativo que pode levar à caducidade da concessão da distribuidora. A diretoria aprovou o voto do relator, Fernando Mosna, que concluiu que os argumentos apresentados pela companhia não afastam as falhas…",
+      "source": "",
+      "added_at": "2026-08-11T22:01:37.887404",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbmFEdTRwbXNqeFdLaWZ2OG9zMVpyNVlJdXhudnB1NEtYbVBSOS1aY3pMTEJmLU9NcUJ4bkNNd2E4S1pBN2RjeHdRNFVWRWRKYTUzbElvZ0w5TnZCLTdya2FaRHA5WDFfaDhyNm5WNS10TUVvNXEyUzczQ25oaXdzajQ5SU12aHdlXzJvUVJLWlAzbGFUMmc2OWNVd1QwcDFtalJMY0kwTXFtN2FhbUV0dHhRNVdZT1ZncExv?oc=5": {
+      "title": "Siemens Energy fornecerá equipamentos para FPSOs da Petrobras - MegaWhat",
+      "summary": "A Siemens Energy foi selecionada pela SBM Offshore, empresa holandesa especializada na gestão de plataformas flutuantes de petróleo e gás, para fornecer sistemas de geração de energia e compressão de gás para projetos da Petrobras. Os equipamentos serão instalados nos navios-plataforma (FPSOs) P-81 e P-87, que atuarão na Bacia de Sergipe-Alagoas.",
+      "source": "",
+      "added_at": "2026-08-11T22:01:37.888173",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVV1Zjh3ZGVvVGthQUd1aHlBeFdncHJSQlhwWHU4U25EVktDV0hTQjByUmZEX0xtdEl6YVVyOGVXWGdKQ1JFRnY5bThGYWlmMHVQU2pGLVpscm5RV2hGS25PUHBldTV3UFQxR1A0YlNuNUl2WVFLMzhXaE80NmpWS0RUUE1DZEVJTFBtYU5qdnZpNW1Oc2w1S0tGN2F0SG1pYnlGdnJIY3MxRmdLRmlZalRaTENwc0xNdUxkYXI5cEE2eEliSzVNWXNZa2dYd2s?oc=5": {
+      "title": "Preços de energia na BBCE caem em julho em meio a expectativas sobre El Niño - MegaWhat",
+      "summary": "Os preços de energia na **BBCE** caíram em julho, totalizando **R$ 6 bilhões** em montante financeiro movimentado, com 27 TWh negociados. A queda é atribuída às expectativas do fenômeno El Niño, que impacta o volume de chuvas e a formação de preços, segundo Eduardo Rossetti, diretor da **BBCE**.",
+      "source": "",
+      "added_at": "2026-08-11T22:01:46.611172"
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmMxbXFqTVl0RUtKUGw4di1JUWZxbkx2N1poTUFuQlppb1ZMTHNEMl9JR2hiampwLVVVLU5OR1l6MjJOMjRLMDQ3aFJtdUxnZURrMDVFd1R3Y3VoTjJpdGhTTW5vcEVUMllIWU5pY2ZCQ2FtejliUWtMSkVJbERkcWZWaldRWlVQLUo5ZmZuU1V1OGpjbm9VRVNYUEpUOVRpSDJMbmpZNkNXZVROTUJoQ0dwcV8?oc=5": {
+      "title": "Clima extremo leva ONS a mudar critérios de operação do sistema elétrico - MegaWhat",
+      "summary": "O **ONS** (Operador Nacional do Sistema Elétrico) planeja incorporar explicitamente os efeitos das mudanças climáticas em seus critérios de operação e investimento para aumentar a resiliência do Sistema Interligado Nacional (SIN). Alexandre Zucarato, diretor do **ONS**, destacou a necessidade de adaptar os critérios de confiabilidade (como N-1, N-2) a eventos climáticos extremos mais frequentes, que já causaram danos a torres de transmissão.",
+      "source": "",
+      "added_at": "2026-08-11T22:01:46.611212"
     }
   }
 }
