@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-11T09:04:48.545294-03:00",
+  "last_updated": "2026-08-11T10:37:41.114616-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS DO 2º TRIMESTRE DE 2026 (CONSOLIDADO); PRESTAÇÃO DE FIANÇA CORPORATIVA PARA A 12ª EMISSÃO DE DEBÊNTURES DA COPEL GERAÇÃO E TRANSMISSÃO S.A. E NO CONTRATO DE FINANCIAMENTO COM O BNDES - PARTES RELACIONADASAta",
+      "data_referencia": "20260805 05/08/2026 08:30",
+      "data_entrega": "20260811 11/08/2026 09:44",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS DO 2º TRIMESTRE DE 2026 (CONSOLIDADO); PRESTAÇÃO DE FIANÇA CORPORATIVA PARA A 12ª EMISSÃO DE DEBÊNTURES DA COPEL GERAÇÃO E TRANSMISSÃO S.A. E NO CONTRATO DE FINANCIAMENTO COM O BNDES - PARTES RELACIONADAS",
+      "protocolo": "1555596",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1555596",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-08-11T13:37:26.588351"
+    },
     {
       "cnpj_short": "02557-7",
       "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
