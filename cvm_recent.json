@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-10T20:56:46.788279-03:00",
+  "last_updated": "2026-08-10T22:00:02.432427-03:00",
   "items": [
+    {
+      "cnpj_short": "02557-7",
+      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260701 07/2026",
+      "data_entrega": "20260810 10/08/2026 21:58",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1555510",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1555510",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "25577",
+      "first_seen": "2026-08-11T00:59:46.573976"
+    },
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado: Obtenção de Licença de Instalação de Juruá -",
+      "data_referencia": "20260810 10/08/2026",
+      "data_entrega": "20260810 10/08/2026 21:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado: Obtenção de Licença de Instalação de Juruá",
+      "protocolo": "1555476",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1555476",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-08-11T00:59:53.256177"
+    },
     {
       "cnpj_short": "01987-9",
       "empresa_nome": "LIGHT S.A.",
