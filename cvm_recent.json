@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-11T10:37:41.114616-03:00",
+  "last_updated": "2026-08-11T11:41:19.485260-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "ADITAMENTO E RENOVAÇÃO DO PROGRAMA DE RECOMPRA DE AÇÕES; AVALIAÇÃO ANUAL DOS EXECUTIVOS E PLANO DE SUCESSÃO; FORMULÁRIO DE REFERÊNCIA 2025Ata",
+      "data_referencia": "20260521 21/05/2026 15:00",
+      "data_entrega": "20260811 11/08/2026 10:50",
+      "status": "Ativo",
+      "versao": "3",
+      "modalidade": "RE",
+      "assunto": "ADITAMENTO E RENOVAÇÃO DO PROGRAMA DE RECOMPRA DE AÇÕES; AVALIAÇÃO ANUAL DOS EXECUTIVOS E PLANO DE SUCESSÃO; FORMULÁRIO DE REFERÊNCIA 2025",
+      "protocolo": "1555617",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1555617",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-08-11T14:41:04.496790"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
