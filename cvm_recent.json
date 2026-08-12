@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-12T18:59:16.815590-03:00",
+  "last_updated": "2026-08-12T19:38:03.064756-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Press-release",
+      "especie": "Release 2T26 -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260812 12/08/2026 19:14",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Release 2T26",
+      "protocolo": "1556629",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1556629",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-08-12T22:37:43.812317"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
@@ -5742,24 +5760,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-07-14T12:22:03.784273"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Aviso aos Debenturistas da 3ª Série da 28ª Emissão de Debêntures -",
-      "data_referencia": "20260713 13/07/2026",
-      "data_entrega": "20260713 13/07/2026 18:24",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aviso aos Debenturistas da 3ª Série da 28ª Emissão de Debêntures",
-      "protocolo": "1544477",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544477",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-07-13T22:07:03.052389"
     }
   ]
 }
