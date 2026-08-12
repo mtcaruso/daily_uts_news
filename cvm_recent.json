@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T16:45:24.695314-03:00",
+  "last_updated": "2026-08-12T17:23:11.646824-03:00",
   "items": [
     {
       "cnpj_short": "01732-9",
@@ -5616,24 +5616,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-07-13T22:07:03.052389"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260713 13/07/2026 16:53",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1544367",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544367",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-13T20:05:31.780503"
     }
   ]
 }
