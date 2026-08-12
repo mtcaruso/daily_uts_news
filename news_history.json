@@ -1,94 +1,6 @@
 {
-  "last_updated": "2026-08-12T14:05:31.920672",
+  "last_updated": "2026-08-12T15:13:16.482376",
   "items": {
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanVVSlRPTUs1SlNTVERGaDhrdlg0LTJsQS1vRUpTdDRlV2dDcDdMUy1ScFNtODYzUXRSWVpsNjNRcklpb0RRajdjdzY5YThDUV9KU1Nha3BGV0YtTzJpdVIxTk1YSjdhTDRLZ1pXRXFVbEZfc2Z6QWN4Q2lvaGpkOFVUU1NmNFBqNk0tdm1qMWViM2trMGs1V1p4VXJqeW0xbE5BQWY4OA?oc=5": {
-      "title": "Enel SP tem alta de 6,6% no lucro do 1o semestre de 2026 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-29T14:57:19.012334",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPalZRUGJjQVZSQk9JTjZMVEM1OHFLMGJ1UXIxRXBaMEJxbm1uc0g4RHVFU1RnS2dSbklwdjdNZnRaS00yUjluMl93QXNyNU5hc0dHdktTeFZSaWJscXVSNHRJRXVqYzktMnpoSUNKUXdjVmsydWtWQmpFaFBMZVR3SzU0MmJHQ3plZ2ZvVVpEZnBIMXNKN3liOExPWlZTZXlZamNmcjc1bzg5SVJJMVY1N1VCSmJaLXpVU1ZGaXctQmFfZ0RkNHY3SEpyZGZiX1MzZDRxcS1Gaw?oc=5": {
-      "title": "Mercado livre de energia viabiliza descarbonização do CT do Time Brasil - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-29T14:57:20.966571",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0xsMkJkMjhCUDUzZW1rLU9ZZUJZdUYwZnBTR1duYzVOUUVjZHdCZmFKcXdlWGVfM1ktV2JEcHUxWm1XWTdCRzItNzZEWVh2QnVHSk41bUZjLW5OdU1icVNHeDd4SlQzZE9YaFR5dnJxQzlnYy1ibG12cEtQTFBRcEdXYXVac0NZSHJRbE1mQnEwbHdDRjNlaGVBSHZVNGF4LXdWbWlKei1ieGdBd1duMDJxVno1cHZzWEk2aWdTWTU?oc=5": {
-      "title": "Congresso continua a contribuir para transformar setor elétrico num caos - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-29T14:57:22.897801",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWRUUGdqU0lmR2hwc0h6YjdQaERmZXg3b0xfLTQ2QWlnR1NERXh6VzY4WjRVVzZ5LTFVMWFmeXEwQ0QyMnBXMmRtZVU5RVlMZEl1UUdQc1JNWVVZaEo0cVZwckQxbVY5dW5sVmVGaUNtT3pWd2R2UzJPNU5ISUZ3c0xISWdndjY5V2wwOWZVTUpJakt0RDNuT1hPSQ?oc=5": {
-      "title": "Recurso da Enel SP pode ser votado no dia 11 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-29T14:57:24.812795",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMy10dlhxX2hJYmtpMmRiRGhwZm9PTTFNTDdyRHlEQkZxdF9oRE1KOWRjRVd3ZWNIUFNpR2hOUlFEeDNaemRnRXlERXd6RkhxdTZXXzJBVzUzWVkxTzRVam82dTVMc1oycTUwM0RzWV9RT3M1RWlnRUJDMWRwU1NwZFBKdkstT0lCSE4wX2ZRRTN4ZW1FRjh6US1TY1Q2QnlBSDdQS0RGVXpHaUxoODI1TzF3RQ?oc=5": {
-      "title": "El Niño: ONS coloca térmicas de prontidão para garantir demanda - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-29T14:57:26.735640",
-      "error": "no_article",
-      "attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaS1QQUxYVmwwdGFza1UxVnA2UVJXN2V2b29RaGJ1V0dWOVMzSjY4NDY5NUFiQVVzUVNfRThqMXZ2am5HbkVxdlhnQkhmRGxzZnIwX2lmZnhVQ1IzOEJ4elNzY2pGSm5VdjloTmQ0MHVSTmczZ3M4eEd0bFRlaHY0eEppU0ZCSnVDUWl0Y0U4WTk4R2xRNTl1cTJ0R1ZFS09OSTY0NnhfWElYdjVPalZSeXQ0d2otT0lFVmZYWnpZb9IBzgFBVV95cUxPUkFZdkc4WHF0dnNWbDhNNHJzQ1FHOXM3N2k0bWhaSDJNcm9GVkd0MmNxV3lIMWttU19NYmU0ZThBUll1dkRiRjFHek9FdUtwdU82QXhEZ2I2Y3VzZHp4MDh5dXJ2Mk9OdHoyd0lIY0E4Vk9EbkRqNy1WeEhFaEJCRDlSZFRtT1ZXSUxMRXp1SFh5VnR5dXdmRG9MQVNLREhRVkxId3ZucU9uQ0tzaEFhdjlnR1hJcERjd2k0ZmhISWhIMVN1UFIwY0x4T0NGUQ?oc=5": {
-      "title": "Sabesp convoca assembleia para realinhar mandato de conselheiros - valor.globo.com",
-      "summary": "Sabesp convoca assembleia para realinhar mandato de conselheiros Eleição dos membros do conselho de administração será para um mandato unificado que se estenderá até 2027 A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) convocou assembleia para o dia 28 de agosto para a eleição dos membros do conselho de administração para um mandato unificado que se estenderá até 2027. A chapa…",
-      "source": "",
-      "added_at": "2026-07-29T14:58:27.752774",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRVVqOXZyZVZlVXZ1MXFOWUlOc19NMDIzeDVyYm1FNU5WR2ZWeURuaU5GNER5N2dQZWVFUk1ISFVTZFdsaktwLUF3VVhTd1BkNERsSWJpazJnZzZvcVVoa29BdmNSSU1Ic1FHOVBReEl0T1A4RVZtTm9vRDcxQnB0UERFUDA4cmFYa0pNMmJpbHgwb2FOYkVLeURjZ1VBdXZRZkViSy1PYTVVNFRjMUVQVnhDYTZ1MXNsci1IdHNlVURObTQwRUVKeldWc3hVNjEwelRfSy04Z2dVZ0hPMmlPc2c2Yi0yMFRXTmdSQWY5dFlOOVdZamkzRdIBhwJBVV95cUxPaW1xZEdaMTY0RUtPX1FWcWhwNnJSMDA0Zk1tbFVNN0M2dE9URWMxb1ctLU0zVTN6QWNqQW5OR1JrWUdTM08wUDk0M2hvVEVxOVBrSEcxeHFYRy1kVndVRXRnZTU3V0x3a091QWF1ZzBrR2NyZ0p0emlSMXpXN2QxelMxcnR3LXlfZDhlMFJYRS0za2x6eWVIVHcwM1JNYUh2QkRlanRXR3RJSFppX0FrWGFxLXVFRngzTTk2UXdKNFV6NXYycGdHVXV1cGdWdU85akhNNDVjcmtjVU1DWGNXMlhUcDAxN1FvMmNPaGctanhCbzIxSFR4ZHNqcktpUE0yc25IZk9aTQ?oc=5": {
-      "title": "Concessionárias investem para evitar mortes de animais no trânsito - valor.globo.com",
-      "summary": "Concessionárias investem para evitar mortes de animais no trânsito Novos contratos já preveem medidas de mitigação, como pontes e túneis Atualizado Milhões de animais são atropelados nas rodovias e ferrovias brasileiras todo ano. Levantamento mais recente sobre o tema, realizado em 2022 por um grupo de especialistas de diversas universidades brasileiras, aponta que chega a 9 milhões o número de…",
-      "source": "",
-      "added_at": "2026-07-29T14:58:27.752959",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWVJTXdXc0NjOHNTMzNWdnVXSmtsZ3B6Nmdidmxxa3FBMVVYWkd6LWZhREFPbTRILTVNWnZvQnBocmhLbHJVOHcyUzhDeXBwMTNvZV9pcnVBZ2FZbDdoX0VnVFlTaHJ3U2t3OGxyUFhTYUUzZEg2ZzRzSDJzUHRjZlhZZXk1UUExbmxuV1NvNVVDcnJTOUluTkU1ZVp0cWJOb2xsRkF4Q203cXRCc0RjeDlLZDg2ZDkzWUZJa2NyRDlQRzBNVDQ0OUl6a1E2ZHp5MTlZQtIB4wFBVV95cUxQMzAta1BOWmpsdG1IRmNfTzNhd2x2aXh2YktZeU1mdkhiMmdfTThDRk9fc1gxakVuWHpBYnE5ZXltM2lOUVR6TG12SmFfV2dLamN5NURZX0t1emFhLUI1RnFvOXNodG9sdF9hQUo1bW9fLVJLelRHcGxJRjRVQThKQ3o3a2c2MmYtMHV0WWpHVGpCVjFZb2NNeDJOWGFPSXZjd2JwVDRqbFhyR1VOWG1jSTZxZkh1X2hQZHJrenEtRGNPclNvUW1qSzNIMEdrODFMNU85Wnh0aFBYbDJWR1JQYzJIWQ?oc=5": {
-      "title": "Aegea aprova aumento de capital de até R$ 2,1 bilhões para acelerar desalavancagem - valor.globo.com",
-      "summary": "Aegea aprova aumento de capital de até R$ 2,1 bilhões para acelerar desalavancagem Segundo a empresa do setor de saneamento, a capitalização será realizada mediante subscrição de novas ações ordinárias, ao preço unitário de R$ 55,29 por papel A Aegea aprovou um aumento de capital no valor entre R$ 1,5 bilhão e R$ 2,1 bilhões para contribuir com o reforço da estrutura de capital e aceleração do…",
-      "source": "",
-      "added_at": "2026-07-29T14:58:27.753080",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmRtQWdaYno4b2d0dDJUSjY5MElRTFMycXRSQmdJLTNoU3NaMTFVRk5pUHpVdlJ4VkZiNGZoUllNNnBBLXJLeThFX19XZWFhZGdPOXpCMXZMWHEtSi1sbUVENmxxSHd0MG01TUlnVUFRdGpCQnBWRWFMTF9uSldDcmt2T1U1M2tVMW5CaDJ3MW4wYVRjM2thaTlGX0k4WkxxWUHSAbABQVVfeXFMUHk0aU1JU3Y4UUJQeUVaMTZ3bGlBcjRiRFV3bGJ0ckpFXzgza1h1cDV4UU83bUR0SkJfUGNWOE1XYnpWWVN5Y0d4ZkNrTWNRWXFIYmVWQ3cwNzg4ZkZkb0hUMU05VUUyajV5QlBIS2w0dE5Zb2xQZVB2UzNma0FoMjhhOHlDdjZGT0J2TkxsaGFsNlp6OFlHajRVaXBKOGtuSHZsT3ByZmJTanIxOUtmYlA?oc=5": {
-      "title": "Recurso da Enel SP pode ser votado no dia 11 - valor.globo.com",
-      "summary": "Recurso da Enel SP pode ser votado no dia 11 Diretor diz que pretende pedir para colegiado avaliar resposta da concessionária em sua última reunião na Aneel O diretor da Agência Nacional de Energia Elétrica (Aneel) Fernando Mosna afirmou nesta terça-feira (28) que pretende levar à deliberação da diretoria, em 11 de agosto, o recurso apresentado pela Enel São Paulo contra o processo que pode…",
-      "source": "",
-      "added_at": "2026-07-29T14:58:27.753152",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS3NPOHFUbXN6QWdQRkpvQUh0dldmTy1XcGxOTF9BUWRqOHEwSlQyYm9LSUtzNmFKMzNqVUwzSlZYZU1NZ2pBTmNrbkduV2ZuY2NDWWxxb3AwNmVMUS1ZVlp5ZVA5M1BDU2tZcWpaUDhEaTZNRVo1RG5rV2VVM2NIQ1I0U0tYTEtHVjBnTXBjV0NmNll5ZWotNFJOb3k3UnhKblh1TlB6YzU1djB2ZUIzamFGcEdQem41VkhyeFM0UEVGa3BmMDF0RGtiOHI4U29DY05HRWtTQUpkV2xrcThPdFlhc0NTTkxhRVNKMWhWeS1Zdw?oc=5": {
-      "title": "Painel: ANP vê tentativa de interferência de ministro de Minas e Energia em estatais para baixar preço do gás - Folha de S.Paulo",
-      "summary": "Técnicos da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) e integrantes do mercado de gás levantaram uma suposta tentativa de interferência do ministro de Minas e Energia, Alexandre Silveira, nas negociações entre a PPSA (Pré-Sal Petróleo S/A) e a Petrobras. A avaliação já vinha sendo feita nos bastidores em meio às negociações sobre o escoamento e tratamento dos volumes de…",
-      "source": "",
-      "added_at": "2026-07-29T14:59:06.610217",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXlJa0ZIZnI1MEdyOHlULTBJcUQ1UjZfOUtXenF6cUpfdGdEWjctZ3Z2aTh5NWkxZ18tMzJIWVgtWEVLUlBCNE9HaVdRZUZOUDJwNU9SMjJHcnZyeTVTMFJQdmpGb3NLSTlJRk5yMzlPbENDWDNzbHBFeWxIRHNIREJ4VEZTQTRycUMzUFR5Zml4bXdiQ19LeW5lTVdkMFVEaVc5MHI5c0d4VmVsX1ZYZnlrZWFDeUU0bDg1WkVXMTRTSGpTUjlpMC1ITERBclZxM3lGZFBpVlFxN181Ymg2X2xn?oc=5": {
-      "title": "Conselho da Brava Energia (BRAV3) dá parecer favorável à OPA lançada pela Ecopetrol - Estadão",
-      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta conselho da brava energia brav3 da parecer favoravel a opa lancada pela ecopetrol Hoje em 5’ Seu resumo narrado do dia 29/07/2026 | Edição das 13h 00:00 00:00 1x Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA Pulsa Conteúdo Patrocinado dois novos casos de cura do…",
-      "source": "",
-      "added_at": "2026-07-29T14:59:29.700136",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzhjaDRUbHFHR2hXVDhxZjdFSmdVWjN3cVpHdWJRR3daTGNSa1dqQmp2ZC16UmtJbU1Tc2VKQmx4RWx4LXNiVHg3WkM0QmRfaHk2VjM2YUo4T29PUE11TFlmNWJIN29nSU1QM0pIal9LcVF5TERmOFFXUXAtVTU3UHdHM3ZmT2hvMkt6ZWZGTzZSUDNZQTgyenVTT1Z2c0JVQzdGY3Vadw?oc=5": {
       "title": "Reservatórios do Nordeste operam com 84,3% da capacidade - canalenergia.com.br",
       "summary": null,
@@ -4431,7 +4343,7 @@
       "source": "",
       "added_at": "2026-08-11T21:00:55.413128",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOHgtS1QzRzZJUXBTLVU5T1dCSklFWS1EM0JVS0xjcHFmcWV3Mk13bVNpSl9BQk51UzM1OUZnS3pWVXNnZ1ZTUXJfN1g3T2IzOGlwZkFDZTZRdl9QNGpBNU0yWlliT3JvVzRRRm5KbVJxZFhEejdCZ1hzNjhJcXp0NlpnMVZxRkIzUWRyekVkQWVLM0VtM2wwbEZWampxM0RPRFhEM2JyVFVrSUFPSVlydHNndGxSSDBKdHlaMlJLcTl1YnBBdUVhaFFmWkg0QdIB3AFBVV95cUxPSGFyVUJRLWlnLURvdWthQ1ZNbS1mak9ZWjROTHk2ZllNOVljeTd3WFJhRTE4YkthT0Y2Y3gxcVlVNDVoaTZFYnJRa2VNUHJTYl92WjZUaDN5Z2pTSXJfcDVsd0NPWEFyakRuTUsyNDZXel9BYXJ0ZWhmMFZBTFRSREY3NXU1Q3YzdHVJZVVRVEpjd3pPaEFHbzM3WVdfdlRlRWl4TThEVTlhOF9wQ1Nmdl9FQ2wzM0ppUE5HZGxjUG1DOFBzV1N1alBpQzNlaXV6R3NXRWJiZHhGUW9l?oc=5": {
       "title": "Aneel rejeita recurso da Enel SP e mantém processo que pode levar à caducidade - valor.globo.com",
@@ -4503,7 +4415,7 @@
       "source": "",
       "added_at": "2026-08-11T22:00:22.960929",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUpPcjdkcUtXVUpONzIxc1ZfaW45enRTQUVBaVh1dGgxVzVubzJNdjhqZGxVd0pUS3lodmxreU5fd2FybmNkV0RpOF8zV19WM2p5ZXpNOEpfNl80MEhYOERHdTRpM19TZENqV0ZfSmRSTzhPTXpjanJfWVhKQnpZcHUtdjlFajhsUnh1eHBOSlpGdEdDS0hDYlB3TDdNY2w1UnJocmdDbFFqSnpPN0VySnZYMVlNRG5Qd1E1Wlctd20yaXdqYnVaaXJab01hdw?oc=5": {
       "title": "MME: 1.539 usinas eólicas e solares manifestam interesse em ressarcimento por cortes - CanalEnergia",
@@ -4551,7 +4463,7 @@
       "source": "",
       "added_at": "2026-08-11T22:59:15.112413",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZTZQU2xad2tCWFdtaWZkd2tYVlBDdy1xYVY3VkdacGpaQ1h5UFhPTzk3U25uY1RieU96ckdiNFZ4bVN2OHh4WGNZcEl2eGljcUM0a3NXLWhHYVBPTlJOSFpXOVA1T3NiS0JiOGk1Z0lYbkdVMGpuR3hfcy1MNDcxbENuMFprS08wXzJpQThieWIzX1JPdFpqekpRdnRkWHhJeDdzSTNkSy1kb0NPeGZDZjBpNFA?oc=5": {
       "title": "Aneel rejeita recurso da Enel SP e mantém processo de caducidade - CanalEnergia",
@@ -4559,7 +4471,7 @@
       "source": "",
       "added_at": "2026-08-11T22:59:16.845630",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEFMb01FaW1TX0RHWUFFNWI0SnVwUmZ0VTdBdnB3ZnRGeHBJbkpSYkxud3BadE1zRXpPX2p6NTJyX0ltSkw3dEpWMGlrM2Mxb3BVbHROM0ViRDFtTDF3YUZvNV9sZ2JwYUZxY1hZVmw4d1E3UkpjOGJmS0ktNWRrWl9ReUdRRnZSLWhOQXMxVmh4dVM2cTljVk4wcGM4MGdqYW96a2VJMDE0M1hTaXRnejhKVFVYdWN5WWI2V1FPNllReVctVHRwYVYwSjhjbTFoN3fSAeABQVVfeXFMT2pSbHEzOWlaYXBieUM5aUhRTkZ0X3hyVFJzRzk5WFZkYTFRUkhmbFFDOGVld2N4bmlFbXdVNTJLYkxhLVk4czE5aTQ1OFY0MkdWb2tTbzA1MGhLZHFtb2lOZGJPR0VURVdxblRXVGFaN3Raa0NnV191MU5XNTNmVVdvQ2JSMkNNckpGX2lyZFNNaUNYNkxaSzVHVDhvUEsyQmNZUEhWaFlVR25heVRzc0YyY3BMYnRwVHc1T0hPWTBOVTdGdkoxRFl4TUlRSkp5TW82OXQ1V0N5TlJrc2Ria0I?oc=5": {
       "title": "Acordo para ressarcimento por cortes de geração atrai 1.539 usinas eólicas e solares - Valor Econômico",
@@ -4603,7 +4515,7 @@
       "source": "",
       "added_at": "2026-08-12T02:40:32.054218",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0lNUWVTeE9FcVB6UVZGR2JkbjM0RHExcThJMS1qOUsxUDhfYnVHS3dqSjNFMUJUVWlibWpjQjhXNW1tZUFzcHNTSTFOTjB1UlNXenZhLTc3VkRWRGktODF4NE5xN0syUVlNMDhWU2NEV3dobjB2MWNOYWpoX3NYTlRhRXpUTng0OW9FMExoOFNySDZTamZOc3d6NjNLc1AwZW53MWNR?oc=5": {
       "title": "Siemens Energy expande atuação no offshore brasileiro - CanalEnergia",
@@ -4611,7 +4523,7 @@
       "source": "",
       "added_at": "2026-08-12T02:40:34.136663",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRW9uc0dFcEZlenpmUnFmYklnWVUwNzJRWHBGYnRKMjVfdmFjZngtSS12eDhlR1MtdFRzWm9jY2FoTjV6R1QtVjhSSENWcm5EZTVEemxBZkphMDZhSTJOemZTbVdHazBKNkFRVDNwd05OTjUwcmt1SmNWcDBmWWtxZmdOQjdNSEgzNjF1cmVMNkxaLTNMS2FJdXNzSGp5QVo1N0w1N0dndDdhY01jeGJqX05GRHZHMGpFem9LYlNxTW1hdFU0R291bTJGcURGUmlOQlhoX09GTF9XM2l5eFRWYWc3Wl9JVUFsZFlCWA?oc=5": {
       "title": "Taesa tem lucro líquido de 206,8 milhões no 2º trimestre, queda de 28,5% em base anual | Empresas - Valor Econômico",
@@ -4653,7 +4565,7 @@
       "source": "",
       "added_at": "2026-08-12T11:10:49.363727",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3VrY2NxS0YtMURRVC1BbFZobFZKNGVrajEyTXdERlNMdVNCM1hkZFpMTVltS3JqeTNLNjNTWUF0NUdCT0JIWTRqS2FkVmRzbmhFYzJLT3lYMzEwS09iSkNQc0xseU9WeklBOXVjTDJQZnJVTXVmOFhBZU55emJpMkV3Y0k4QzhmaFM1YmhzYm1fejVkX2FGODRQN3NFSllGelhXUXhDdEtPazhxQ1pj0gG-AUFVX3lxTE9Ucl9IajBHazgzZXprcnFxbk5fSmh1N21JaF9oYTExSno2cEhiMUNrUkduSW5TaUxsTjdYck41MXFiRjJJazZCM1ZCU2prSDFQaFVULTBFaVZaMjNMdzNQcmNYVFpjZmNLMlQySmlKcjFURDJlVGljS0owTTF5VUNQeXk4LVc1cXgxcUF1ZC1WRG12NE9QbDNzWFNoQWwxRm9GLU1FbjE1a01RNFY2Y081U3o5VC1kMUlVMFNVbnc?oc=5": {
       "title": "ONS quer garantir sistema elétrico pronto para El Niño - Valor Econômico",
@@ -4697,7 +4609,7 @@
       "source": "",
       "added_at": "2026-08-12T12:29:40.843173",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFRDZGlpU3NRZnlXcUUyOXRqaHQteXVDWW5LTlg1UTVVQmdGUklWblFIWnYxXzlvM1F5M3NSMUhZdXoxaGpfU09GRGlJWWNRQ1B2RVZMUXdNR0pBdXY5SlpjckxxSzVITWN5UWJzYjV1UEIxZ1ZXRmNieTRBZE54UnZFTkdSOGoyLVNPalpPRFF2bDVLSUNxYXJhR3JfNjlPYzdnNksxaG00dUhLQzVJYnNSOHg2TlBZTGFfRUZ0TEQ0Rkwwby14alptUHV0a0N2azA1NXdB0gHWAUFVX3lxTE00VENkaWlTc1FmeVdxRTI5dGpodC15dUNZbktOWDVRNVVCZ0ZSSVZuUUhadjFfOW8zUXkzc1IxSFl1ejFoal9TT0ZEaUlZY1FDUHZFVkxRd01HSkF1djlKWmNyTHFLNUhNY3lRYnNiNXVQQjFnVldGY2J5NEFkTnhSdkVOR1I4ajItU09qWk9EUXZsNUtJQ3FhcmFHcl82OU9jN2c2SzFobTR1SEtDNUlic1I4eDZOUFlMYV9FRnRMRDRGTDBvLXhqWm1QdXRrQ3ZrMDU1d0E?oc=5": {
       "title": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo - Valor Econômico",
@@ -4713,7 +4625,7 @@
       "source": "",
       "added_at": "2026-08-12T14:04:25.618214",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlVqaFNFZEI0OW5mcDc4cU9UazRzbTlUaWxxbkZUeTZldXFOSjk3Y3AwZWlESzkzSkNLTWRZYUhnOVFmZ0gzNkhQLUg3YzhaSzNxdjlZNVd3NXlwU1NabDhpVU1vUHc5WVBVTWwtZTU0dzFybEZyUnBtYkFFb1hrYmRBZzVXdzNXekJiU01lTTRQTmlzWGVxXzhpejVqRnljbmZwWWpURmM?oc=5": {
       "title": "Aeris Energy registra prejuízo de R$ 152 milhões no 2T26 - CanalEnergia",
@@ -4721,7 +4633,7 @@
       "source": "",
       "added_at": "2026-08-12T14:04:27.295378",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNlJQYVpiZjdWV3M5ZWh3bXpmallkSXJGNTdJVnFCS3pxdnJEbTc2bnl4bVJZcUVISVRuRHFUMUZDWGp0eExmZVJ1QkRBT3NkemEtc1g4MmdTaVFuT1BmVndwcVVqeW9rS3pMQWROMFM3WGNpc1pGTlBrcXBncU45S28xZzNxdC1IZjAwY3lpSkhyTDBPOC1VTkR1TXk1QjRYMTFCbFpESzF4cTRSZkNtMGhxT01zYmRIbU9DYUVUcHhNR1lIclZMMlpKN09GOWJGNlgwNEhQOHJSNk1mOGFNdVBoUWN0eWwxczVN?oc=5": {
       "title": "Da economia da energia à economia dos atributos sistêmicos: a nova arquitetura do setor elétrico brasileiro - CanalEnergia",
@@ -4729,7 +4641,7 @@
       "source": "",
       "added_at": "2026-08-12T14:04:29.179812",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGVxemVuem9VQWZXNzYwWWpIaC1nSnBnS240WlNaSXBXZDJ6SWdVdFdrd0xrNUF6U1M1ODdRaUFjOWpmeEM5bmd0WEd2VDZqc3k4anRQN3RPWUpETFdPZmExWmdSVTQ2aURvTnZ0eERfUlIyd2RzWTlIbnJHNHBtVzBWcmlXRXNyRHNjV2hDcURBUFF4Q1VfeHZoWmxkdWFRWGNPbjZpaG1pSGVlRzNvenA3d0puXzUyZ3dCNXNUOFkzTEtXR21MQWhn?oc=5": {
       "title": "CPFL Transmissão inicia obras de subestação no RS - CanalEnergia",
@@ -4737,15 +4649,15 @@
       "source": "",
       "added_at": "2026-08-12T14:04:30.871971",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUJtbzh4U05IQ1N6NzNKMnV6ZkNmcDJHaFU2RVF0V0ZLZUtPT3R3U3lfbC1hRXVSdlZIMEFDY2RycFRPcFVDcEFxMDYtLUc0Ujd6MU9Dc2tkNW44bmFLeTdEX1FGSXFSV1BBaUo0bVJpSU9kVFIzb1N1T2plckdKc0hIUmpVd01Ib2t1U0kydTBESDJKeDFHOVRONEp3Rm5sc2x2S0I0UDVUb0RlaWRERFNPZGM?oc=5": {
       "title": "Equatorial Amapá terá novo calendário de reajuste das tarifas de energia - MegaWhat",
-      "summary": null,
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) autorizou nesta terça-feira, 11 de agosto, a mudança de data contratual para que novas tarifas de energia elétricas da Equatorial Amapá (CEA) comecem a vigorar devido a reajuste anual tarifário ou revisão tarifária periódica. A nova data passa a ser 25 de maio, ao invés da data tradicional prevista em contrato, que era 13 de dezembro..",
       "source": "",
       "added_at": "2026-08-12T14:05:19.651945",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRW9uc0dFcEZlenpmUnFmYklnWVUwNzJRWHBGYnRKMjVfdmFjZngtSS12eDhlR1MtdFRzWm9jY2FoTjV6R1QtVjhSSENWcm5EZTVEemxBZkphMDZhSTJOemZTbVdHazBKNkFRVDNwd05OTjUwcmt1SmNWcDBmWWtxZmdOQjdNSEgzNjF1cmVMNkxaLTNMS2FJdXNzSGp5QVo1N0w1N0dndDdhY01jeGJqX05GRHZHMGpFem9LYlNxTW1hdFU0R291bTJGcURGUmlOQlhoX09GTF9XM2l5eFRWYWc3Wl9JVUFsZFlCWNIB-wFBVV95cUxQUmhlX1FXRm5uMGVITzV6RHExeEd6T2FaaDZHN1RoNC1lQ2VwQjBTd19Icmd1LTBMNDdlUmdzRS1ZdTdJa0ZsaGFQVjB2eHhYSFM2MDVvd3pYNW5MRGh0Vm03aGNwUWYyRk5nSk9INERnbFVmZFJIYnVzWXJtU1lHTy1YcmswZkRzUnBiY09XQXlBcXl1RENxc2pxYmFvbFBQVi1JWEFSalhRd3ZLRjh0Wnk4UWlKTWVtUld1MEFfQ2hkbFFNWEFCdTV5Vlh3U0EzOW8yejdGSXFSODUwTHkzQzFpVVN1TlpIMGNpaUVSeVdPSzh1ZnVZbjNBRQ?oc=5": {
       "title": "Taesa tem lucro líquido de R$ 206,8 milhões no 2º trimestre, queda de 28,5% em base anual - Valor Econômico",
@@ -4753,13 +4665,37 @@
       "source": "",
       "added_at": "2026-08-12T14:05:31.912902",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1NJc0V1N1JyaFRSTjZ6Y3RMMHZvUU43NXFvSEVLQ3BXX1JYVWxRUDNGWjAybzl6M3R4M0k1YnZiRzJRaTJtNG5rYmFyc1BwVmRVTzktMC11NVFEaXRwZWVNMG02TWdTUHJiWXNOa19SWXFKMDlxallOSS0ySEVNeGNIcEtfLUg4Y3oxcmRuWmdDMFk1VVo5OWQ1NkpHXzNyMU8zcVZOVzRqRmFOeTdobldtNA?oc=5": {
-      "title": "Eclipse solar total desta quarta vai escurecer o céu para 15 milhões de pessoas - Estadão",
+      "title": "Eclipse solar total desta quarta vai escurecer o céu para 15 milhões de pessoas - estadao.com.br",
       "summary": "Ciência Ciência Eclipse solar total desta quarta vai escurecer o céu para 15 milhões de pessoas A faixa de totalidade, que durará até 2min e 18s, passará pela Rússia, Groenlândia, Islândia, Espanha e uma pequena parte de Portugal. O fenômeno será visto parcialmente em outras partes da Europa e América do Norte.",
       "source": "",
       "added_at": "2026-08-12T14:05:31.912950",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjNKT2d0T1JYOEE1eTFEbDBGUElBOXpydFpSMU1vVndrLThxNFRJY0pLZ2dkM3dyMU9mTmcwN0ZqOWJTNFppdlhfVnFlZW05MDJHcGpvb3pqM1NnOTcxZ3h3WklMeFU5TW1OOW0xYjFwZzhIUDU5aGJsQWFnUmZBVjY1X0ZkNFh6NWhMMTZNcW44WHJDOThFR3JkNE5KWUNkQS1MYlg3MHBKdWFIZFp6MlNwdzRNZHhCa0p6dzc2dw?oc=5": {
+      "title": "Aneel atesta condições de transferência da Amazonas - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-12T15:12:37.287937",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjVnaXJNbHZsLUtDQkNvQVJ2T3h4V01mM0tRekZ5dFhma09CcWVJNmYxVUFUZ1p4em5kbzhNdE1icnVwMkJXVmJPbTJDVDlocl9JUWtZczFIdWIxOFhTb3phSHNldm5kQjJYU0xMQXZaZGl6Y25uX2p4VmhOLWp3ZldXXy1keERrNHRoM2VFRkEzcWM?oc=5": {
+      "title": "El Niño muda cenário de operação do SIN - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-12T15:12:39.204596",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSXpwelZHQ042MGFSZTIxN1BwMkhXNXN0SjlCSGFvXzZxN0JGbHVTazJkbzA1N3hQeVlOT2lJT1lRU3FzdDc5NENwdWJaaXhOUnhSSmFqVjNZMlpzZGp5bDdleEZyNGxpc3dnV2Z3MzdUdnpMNkdUNmpseTJiZF9jV0pETEkxQjlFZkRrU05SSjA0U215LWRvS1JNLUYySU5JYkNiaDRoZTc4MDQ?oc=5": {
+      "title": "Comerc adquire 100% da Micropower, empresa de soluções em baterias - MegaWhat",
+      "summary": "A Comerc, que faz parte da Vibra Energia, concluiu a aquisição de 100% das ações da Micropower Energy, empresa especializada em sistemas de armazenamento de energia em baterias. A Comerc já possuía participação de 31% no negócio, no qual investe desde a fundação da Micropower, em 2018.",
+      "source": "",
+      "added_at": "2026-08-12T15:13:16.474666",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
