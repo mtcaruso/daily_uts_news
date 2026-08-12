@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-12T17:23:11.646824-03:00",
+  "last_updated": "2026-08-12T18:11:01.832252-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Conclusão da aquisição de 5 ativos de transmissão de energia -",
+      "data_referencia": "20260812 12/08/2026",
+      "data_entrega": "20260812 12/08/2026 18:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Conclusão da aquisição de 5 ativos de transmissão de energia",
+      "protocolo": "1556473",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1556473",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-08-12T21:10:52.678126"
+    },
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Desinvestimento em Ativos de Transmissão -",
+      "data_referencia": "20260812 12/08/2026",
+      "data_entrega": "20260812 12/08/2026 18:00",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Desinvestimento em Ativos de Transmissão",
+      "protocolo": "1556474",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1556474",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-08-12T21:10:53.293831"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
