@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-12T20:21:22.054389-03:00",
+  "last_updated": "2026-08-12T21:04:00.594868-03:00",
   "items": [
+    {
+      "cnpj_short": "01830-9",
+      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "manifestar-se sobre os resultados operacionais e financeiros da Companhia referentes ao segundo trimestre do ano de 2026;; tomar conhecimento e analisar o reporte trimestral do Comitê de Auditoria Estatutário (“CAE”); informativo sobre a aprovação da Política de Indenidade do Grupo Equatorial S.A, em reunião realizada em 23 de junho de 2026 (“RCA 23.06.2026”); convocação da Assembleia Geral Extraordinária (“AGE”) da Companhia para deliberar sobre a alteração do Estatuto Social; autorizar os diretores e/ou procuradores da Companhia a praticar todos os atos necessários à realização, formalização e aperfeiçoamento do quanto aprovado na presente reunião.Ata",
+      "data_referencia": "20260812 12/08/2026 08:30",
+      "data_entrega": "20260812 12/08/2026 20:24",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "manifestar-se sobre os resultados operacionais e financeiros da Companhia referentes ao segundo trimestre do ano de 2026;; tomar conhecimento e analisar o reporte trimestral do Comitê de Auditoria Estatutário (“CAE”); informativo sobre a aprovação da Política de Indenidade do Grupo Equatorial S.A, em reunião realizada em 23 de junho de 2026 (“RCA 23.06.2026”); convocação da Assembleia Geral Extraordinária (“AGE”) da Companhia para deliberar sobre a alteração do Estatuto Social; autorizar os diretores e/ou procuradores da Companhia a praticar todos os atos necessários à realização, formalização e aperfeiçoamento do quanto aprovado na presente reunião.",
+      "protocolo": "1556709",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1556709",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "18309",
+      "first_seen": "2026-08-13T00:03:43.814422"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
