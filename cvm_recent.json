@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-13T19:38:45.998907-03:00",
+  "last_updated": "2026-08-13T20:22:51.216553-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Participação de subsidiárias em leilão de energia existente; Declaração de dividendos de subsidiárias; Celebração de contratos com fornecedoresAta",
+      "data_referencia": "20260813 13/08/2026 08:30",
+      "data_entrega": "20260813 13/08/2026 19:41",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Participação de subsidiárias em leilão de energia existente; Declaração de dividendos de subsidiárias; Celebração de contratos com fornecedores",
+      "protocolo": "1557389",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557389",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-08-13T23:22:46.869557"
+    },
     {
       "cnpj_short": "01866-0",
       "empresa_nome": "CPFL ENERGIA S.A.",
