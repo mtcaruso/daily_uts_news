@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-13T16:41:17.473521-03:00",
+  "last_updated": "2026-08-13T17:18:09.333903-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Subscrição de debêntures da Eletronuclear -",
+      "data_referencia": "20260813 13/08/2026",
+      "data_entrega": "20260813 13/08/2026 17:11",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Subscrição de debêntures da Eletronuclear",
+      "protocolo": "1557075",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557075",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-08-13T20:17:47.488899"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação para Analistas e Investidores - Agosto 2026 -",
+      "data_referencia": "20260813 13/08/2026",
+      "data_entrega": "20260813 13/08/2026 17:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação para Analistas e Investidores - Agosto 2026",
+      "protocolo": "1557073",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557073",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-08-13T20:17:47.488888"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
