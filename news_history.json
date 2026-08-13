@@ -1,84 +1,6 @@
 {
-  "last_updated": "2026-08-13T19:45:07.556152",
+  "last_updated": "2026-08-13T21:00:00.856678",
   "items": {
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVJGZkE0YUZCaUVtbWxfSGI4VFVCMVNRS2ZENktib0RxNF9Rb0picDE4U3F3YzFNVHc2S2tmb0tKelQ3NThJX1gtTjM4U1hfY0gydEdxcERTa2thNHE3d09RdWRlSV95Z3VCTnVfTmhuZ1M5ZDVCX25mNGttbHljXzBWemRzY2RSOVhpSnU5TlRRV2VveHY3TDRXUU1mTFVuZk1Pa29BYmY0OWdjNW1vWjZMclFJckEtTmNZY2lRV0ZfeHFz?oc=5": {
-      "title": "CVM determina adiamento de assembleia sobre incorporação da EMAE pela Sabesp - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T19:48:02.705286",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXVRVVUzSE92aXA2bzh0TDIzR09UdE9KZjFUdXpNME13aG10bDlpdnpXRTlaWmdzZUwzZU9IWDBIU2lVYzJvZU1Xc1hvTXFyR2k4bXhiM2hXV1NTMjJBQ0w3OFdua0VXbDNsZDY4VzNJd2xZZXBYdDBvZ01MM0Zkcm9xWFNzZ1UwQ3NOeVFrSWhjemRYcGN2TjNXZzZBWVp4QkMzSndTT0pOMkVIdkxraDhB?oc=5": {
-      "title": "Vento impactou 1,1 milhão de unidades consumidoras, aponta Light - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T19:48:04.370533",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEZmQVlIQzJpVG5YLU0zUEsyRGlJQktBVzRBMmhBLVZFY3Fqc1psZ0lFbF81V1hnOTh3Q19fTGVsbzR2REhjcWdULWF3aXZRWW1NTU1WankxRlJNYVd6SmxxQzk1SmJHWE5POWlSaDByb2FBaVZhSlk4LVd0SGN2RVh3TGZpcFB6bWxEVUtEWk9qdlFhcFJKZFlZaHhZYXpOZFFaUkduaUIzV19jNUFLVy1hS2VTVkk3?oc=5": {
-      "title": "Comissão de leilões mantém inabilitação de térmicas da EPP no LRCAP - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T19:48:06.041804",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmRIZElrWk43a3hSTnZlbmZzOVRQTEdCZ2RpM2E0NzdHY3paendVN1RxSXdONC1NMDBnSXJBaHFzYU5oZm9PWTZ2LTF1dDl3QU96aU9oTC1qY0F4RVlLaHpKdGpZV0JwWjB4U2lvdHVGT05PdDFfOUpuX1lDNFgwdkZQdURNSjY3ZnZRTnFxdnVBUEk2THI0?oc=5": {
-      "title": "Demonstrativo do CAFT da Conta Bandeiras - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T19:48:12.836935",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2VycW5aREVQOHpuUmNnd1BXQkhyNmJBVWZFR1NWOHp0QnVLSmw5a3VKRTU5MGpScDBZZzJQcTItd255RmhOb2UyRXBnWVhhM0VzeUk1VzZDYmJJU2dhX1lUT3VvVURsV3FwSjJWUHpveUxDaFlVTWtEVDNtaU90d0Z1azFPSmVPNFdxX21jWQ?oc=5": {
-      "title": "Demonstrativo do CAFT da Conta CDE - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T19:48:14.530161",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUkRsTmJOTFptSkd1UlYzZDdYSkJUMUhQZi1yZlpIRjNGeXduUWx3Tk9MREFKNXBCSzZXMjVjUE5HdXpyWDlpQ1FWa2FGSWNLbWhKVWR6X082QkpBRTlJNjRLMGxfa3hRdVB5RGNNNWxIUUY1WFZiODZSMVZwaWRVRFppZGljanQ0MWlmeWVkeWlBMTF4c1RsSnFZTVpLcnFqZzAzQmhvamZ3NTZGQ3RVV2VSNzltX210T0p4ZHExMFJQRl9sTE1lWjZjNVVVSUFIdE9XMlBqR2N1ZGgzZExBemtHVzlxWkthVWfSAfgBQVVfeXFMTWgtU1BlN3FpYzJZUGFkRHJleHd1a1p4bU9TV2FuNGpYY2E1WkNlVkgzYWctN3BKLXpXREh4R28wWUhHY1M1ZmJNSG5VbGhqZXMxV1hueUlGeXhIZ1Bsd3c0M01LV0xwem9hOFc3NUFHaGpEVmJkQmFmcTU5TTVfVC1wbDJNVzdQQ1lJLWVJMC0xUnA0Y3RvSFVwQml3SWxzS1B2d2JfRzJBeUFwUmlQU25kbGdQc3ViejFVUXY5WkRPME5Pa0JvVFluVXNXUXpvQ3JUYnY2Q1lpaEd2aWd3QlM5Y3ZqZVFlMkJFWkJWT1ZHczByb1RnWkI?oc=5": {
-      "title": "El Niño elevará volatilidade de preços no setor elétrico e testará caixa das geradoras, diz Fitch - Valor Econômico",
-      "summary": "El Niño elevará volatilidade de preços no setor elétrico e testará caixa das geradoras, diz Fitch Projeção aponta que reço médio de curto prazo da energia deve rondar os R$ 300 por MWh na segunda metade de 2026, salto frente aos R$ 250/MWh do mesmo período ano passado As geradoras de energia enfrentarão um cenário de alta volatilidade nos preços no segundo semestre, pressionadas pelos efeitos…",
-      "source": "",
-      "added_at": "2026-07-30T19:48:54.195555",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHZjVm03bUwtaWVUQzRScTdyUjBBbjlseVhIYmZyN2htOV9YOFlMOG53MEd4MkZSYy0yYks4MkQ1MXhJazU5UTdsOVpwNGxSNUJYak5QbFQ4NmxqbU1SSF9vSjJMTnMxOTF4cVRUcml0NWtlcnp5T01RLThGdklGTjZmRGF6eUJMLVM5UGhsWFJhX3J5dnFOcGRoS0VhOU0?oc=5": {
-      "title": "Contratos do leilão de capacidade viram disputa na Aneel. Quem vai levar? - Brazil Journal",
-      "summary": "Um conjunto de termelétricas vencedoras do leilão de capacidade de energia de março está sob risco de desclassificação do certame, o que tem sido visto no mercado como uma oportunidade para a Eneva, que poderia ficar com uma parte desses contratos. Mas a situação é complexa, e diversos riscos para o Governo, a Aneel e as empresas envolvidas fazem com que alguns apostem até que o caso possa acabar…",
-      "source": "",
-      "added_at": "2026-07-30T19:48:54.196102",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVm1QMWJwdmg0MGJtWTVmREktMzRjelJyc1pGbGRSOHhReDh3VHRsVE82SXZCVUh3OEZWcmUxSGtWLXZibFNZNnpKcHlnOEp2WWFhQlFJbHF5cnV3MkR3b0RZT2QxbzhIcF82QlJpU0llSmFGdmVuQXNWeGtpRE9wQTVDM1hOZE4wQ3RYbnVleWhoUFcxQThHOXNkeDRrZ3pLdFI1R3M1NDc3ZmRzLVREalN0M1Fvc19BcDllOXI3dw?oc=5": {
-      "title": "El Niño pode baixar preços no ACL e favorecer nova onda varejista, avalia Ludfor - MegaWhat",
-      "summary": "Com elevada probabilidade de ocorrência do El Niño, agentes do mercado já avaliam os possíveis efeitos sobre o setor elétrico. O diretor comercial do grupo de soluções em energia Ludfor, Ezequiel Fernandes, avalia que o fenômeno poderá incentivar uma nova onda de migrações de consumidores varejistas, mais sensíveis a preço, ao mercado livre de energia.",
-      "source": "",
-      "added_at": "2026-07-30T19:49:07.691121",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHdkUDRLNWo1cVFHVTdlLVJkRE1pZFliME5jY1QwN2JucnBGQkwwY3JqTVJ6Q3A1VUhmeUcwWFgtMEMwNHNuQVZhUkdMYThqcF9lQUcwVUdqVmFHVzE1TER2OVVYOEtQS3Y4UGpjTjNBTjFkUXpnQnlydl9YUmo2Zm40NEtZSWE4ZU9QUmc0Tkx5SFpJb1FwTXdGQ1c1by1BV2pJ?oc=5": {
-      "title": "ONS emite sinal amarelo para corte de excedentes no domingo - MegaWhat",
-      "summary": "O Operador Nacional do Sistema Elétrico (ONS) emitiu nesta quinta-feira, 30 de julho, sinal amarelo para a possibilidade de acionamento do Plano Emergencial de Gestão de Excedentes de Energia na rede de distribuição no próximo domingo, 2 de agosto. O alerta, divulgado no primeiro dia da reunião do Programa Mensal da Operação (PMO), indica estado de atenção para a eventual necessidade de reduzir a…",
-      "source": "",
-      "added_at": "2026-07-30T19:49:07.691279",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHJnWHJKYkJqOE1hOUNFUGtWOWtZVXUwX2pkRTJ4WU9idXZFSTc0Smo1QktOeFRuNkMzelNrTzVwTm5scndvRjJKQ3huREZ0QzgzcjhrYUJLY19hQzA5U0VKMWxCNjRCN0JnTkF3WnpwR0ZraDhTMzhQZWpJTy16c3Rsdy1HcTZWRkhvYlZzcFl4WGZRTDVleUtJWmlWQQ?oc=5": {
-      "title": "Eneva vê limite para flexibilizar térmicas em acordo com TCU - MegaWhat",
-      "summary": "A **Eneva** negocia com o **TCU** a flexibilização de contratos de termelétricas a gás nos complexos do Parnaíba (MA) e Azulão (AM). A empresa pode aceitar o acordo se os parâmetros econômicos, como receita fixa e CVU, forem ajustados, mas o presidente **Lino Cançado** alerta que o acordo pode se tornar inviável fora de um \"envelope\" de critérios. O **MME** tem um prazo de 30 dias, prorrogável por mais 30, para concluir a discussão.",
-      "source": "",
-      "added_at": "2026-07-30T19:49:07.691599"
-    },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUC1RRjJLOThEcWVNRnE0LTNGMlEwMmpHcE80WEJkLW96aVl4b1NnTHJFb3dwU01JOE1TZmw1TUc4N1R3djlJV3F1NmkyLVZUXzBxbDRfWjQ0NzAzY0NsSXQ5WGVLbW9IN1Q5eDF1MEluR2MyaVc0MVU3RkZSZ0ZsNEJ6MDlNV3Z6a1psS1NOWHRwQWFjRlFDTEFKUlplNjQwUmF5NXp2bjBQTGdkWlFCOTFTcEd5d3J3dWFJWGd6eGZabGl4QVdLSGhvSjN5Nm9rZFhqU3l4RmM?oc=5": {
       "title": "Mais de 40% das indústrias brasileiras migraram para o ACL em dois anos - CanalEnergia",
       "summary": null,
@@ -4540,12 +4462,12 @@
       "added_at": "2026-08-13T11:11:43.044757"
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVBqckJMdzJ0RDdMaWZETGtMazBkZi1UX19HblZkNlFHcjh6WXNLbW8xbnlEbzBLUGxjZWF6TjZrOTZteWR4c2oxTkJ0TnF2bGtDNXB5Tm9BQklNZkFITFRYRTJZV0dpZ1F5cXVTMWxCN3Y5MjlEejk3eUNWdlFOZkZqQlhHVFZ1a29rdXRROS1oUGM0YlBybkpIYTZMS1RfWXcySnY0QnViSG9TUERidA?oc=5": {
-      "title": "Workshop debate expansão das usinas hidrelétricas reversíveis - CanalEnergia",
+      "title": "Workshop debate expansão das usinas hidrelétricas reversíveis - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T12:30:25.886790",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTHNrZHdoMEZYX1d2QWNFVHlMTkUyQnlDZmZfdTlUNjZNajQzQnN6RkRMaldfY1pzeWZ0VmVVSG1aYXVhWU94TjJhVUtzMHp6R3NjYW1BNHU5RlN4VFBUTFJlU1c3VlRsVmR0QkZVVHpTbHo5T0NleDFJX01UUm9HOC1XaW00c1VPclZyQjVpTUxiVHNDX0JoX3ZuOFNpMU5XYXRsSXotRnNfdk9TT3dIRFJaMEJRak80M2tITUlIMlhWbXMyUkdpaVZLYzloX28xakRCYlg3bHDSAecBQVVfeXFMTjl3QVo4eThnWV9zUzBTZFRaanpSOVJHbVY4ZFBWODlERnVyTmZ0RW15RVZtWEJTQW90anBJZmhJajNCdHFOVXZoMmNrbU1nWTRWQ0tnUklGRGpNaFlPTzlMS2prbVNBWTVxZkZ5cU1rUHdKV0JEem96Rm9reGhHemtGeC1La2k1bVZDVGdCb25Tb0tSdW14Vjh5OUlfT3JPWUZkQnlRcXN0dnpSWmc5N2JBSGdJbzIwWldOdXNTaDM1bkRINlo3aEJ1RUx1TkFYbWh1WnJzRVdya3Yzdno1MDcxM19qYWsw?oc=5": {
       "title": "Agenda de empresas: Lucro da Suzano recua 64%; ganho da Sabesp soma R$ 1,5 bilhão - Valor Econômico",
@@ -4574,20 +4496,20 @@
       "added_at": "2026-08-13T12:31:34.481737"
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlhVdGs1aDNxVmtHQktRN1U0dTdFS19PNm1jOUxNZ0dHWVRUSHJpMS1jSnNtaXNHTW5jLXdMcFZoRG1KRjZKcU56QzUxLXVhbml4WGxZQmVCSWpvQWJodDhOQnJFZy12TUhicElWR0hUc0NGYnhiaVBOdTkxTW9sQlQxWl9ITEZYb0NDWmJqbXdodVhFSm9KVUxqY0VYd1RVbjd4VlI5X2pTTU05THc?oc=5": {
-      "title": "Governo publica decreto que regulamenta abertura do mercado - CanalEnergia",
+      "title": "Governo publica decreto que regulamenta abertura do mercado - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T14:05:45.835341",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHIwSE1RZHVjLUpweG52RjBQOF9ocWl3ZVdRR2tsU09DLVpidjJTUTlrVFBNVnhaaU1FSnZ5MElpZ2c1ODhkRVNQU0xPaHU0ZjF3OGVvWEN3SlhGZmhJNnotMk5zM3JSdk05MkdHR2R4NFFQWHBBWWloWUVsTXAyT3pPajltSXN4NXJrZ2JQckpoWk8yQzJfTnpMR09kNUZ5?oc=5": {
-      "title": "Fitch eleva rating local da Engie Brasil para ‘BBB’ - CanalEnergia",
+      "title": "Fitch eleva rating local da Engie Brasil para ‘BBB’ - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T14:05:47.572115",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzRZdE8zYUJfRjNneXdLYU1iUkdNcFZwMnJ1NzhzelZFeDR5ODNvaTBYd0ttZnZ2Q0V3WWN6MmNnUk9Ebk83Y2NCaU41NGdJTVAtamMwb21ORTdibG13LUZEYmlvWVhPRzdTOEx2dmZkY0FZRFNTSGd0U0JQbmlQV0JPU3pPZnM5ZGJ0aWVXcUxoV2FHc3FRRFJNRmZFTndfV1FSUlM1MFZwd9IBuAFBVV95cUxOVW43eTFPamxENi1OajVLY0dlTTJ1RVVCcGQyOTFDRHd3ZVg5RUZjN2RTRndFcHdqbUJ2UGl2Zmh4cVg4WFRRajlBTXNaNWxPaWZKTnlrLXUtSDNIekhRVlprTmI2c0R6TUx5VGhDTmEzeERlYW1zZzBPWFlTa2JSdFBSOEtKQ2JOZXJNWU9zWkxld05MQ2FVZWdUdW1jY2Z6eDZHRGhFOTY3TFUyV0g4Qk5iYl9uS2Jt?oc=5": {
       "title": "Abertura do mercado livre de energia dá novo passo - Valor Econômico",
@@ -4650,20 +4572,20 @@
       "added_at": "2026-08-13T15:14:30.955283"
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanVZamcxVWpwdEh5R09vYXVYN2F4SkRQTzhNdXFDb3hRcGlxQWJ1M096MlhLZzFPQjdDRlhlU3lWT1VRUkVxTjlDamtxcWVEV21VTXlTR3BqeFZQUEo0VXlQakVQTmlxeDMyZ1J1ZGpLUHBqQXdHM1VhWjFkY2ZTdV9PMUtfdnVCWkxyRkctVExiZlNlbGlydi1YUTNsQ1ZEZF8xaDlPMERvSy1n?oc=5": {
-      "title": "Equatorial registra lucro líquido de R$ 653 milhões no 2T26 - CanalEnergia",
+      "title": "Equatorial registra lucro líquido de R$ 653 milhões no 2T26 - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T16:31:16.460996",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSngybzFGN000LThnZDc0U2x6U1JVSE9LdUl0WXpQSkVMa1JIcWx4c0duQ2JqRFM4c1lrU0ZSRTg0SjNqZXlsTmZ2Y3pFSjlqYnF5X28tUFUtcUFZX0g2OGtlakZnUDRRcndRMW1YUDd5Y2x2REZYU0g0aFp2clVQVm9ldzFhbWFXLXZQTklwMzE0cHUtajRhTXl1SjVYdjRhRFlDN2Z5dnB2N1hI?oc=5": {
-      "title": "Aneel prevê regulamentação do mercado livre apenas em 2027 - CanalEnergia",
+      "title": "Aneel prevê regulamentação do mercado livre apenas em 2027 - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T16:31:18.178924",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQzlWVUJjRDBXc2dNa01hQUNrR2dlSnlWUW90M0Y3RXZlQ2dHNlpHS0xEZ0lLNVI1LUdsb00xYWNlenJERWJidWFMcnRCelItY2cxb2h5Vm5oRDNraEJaRlJ5cnAzdzIyQkMwNFRWMk9uc3FFQTV6U2prbThuVzNpdzBTNjdBZEk2clk1Z1VqODI4VV9LazA4YmFMeG5qMlhXRm41b3JjVXJvT0lSNVV3QVpBRWF4OEE1TlVaelRBS2Roa2I2aDk4cjhPQWdkdlhFQ2xB0gHiAUFVX3lxTFBXWnRZNFNaS202cloxcnVOVkJmQ1gzSmtxTjVhWE43NG8wUmZXQUxaTm9UOFdBbTgxVUtwSmpOQmFjZTJlLU9IMEE3aGN6YjJMd25nUlcwZHZZZVloY1VyYWRoZnZtOTYwd01sVDI4UGNqdWphanNKWUtRazZIaWtOZDE0b2poU25RS3h4QVRIV191dVNfbmUtTl82eWlDcmlBRGFYeXl3a2UtVHlKbkpwWHEtcWhwYUdCUDFVaGo0YXQtQ1IzQm9GQTFhZGFIU0gtWktQRzVBNjhHbkFVQ2JzeEE?oc=5": {
       "title": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando - Valor Econômico",
@@ -4698,12 +4620,12 @@
       "added_at": "2026-08-13T16:32:20.851487"
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVE0ZnRaOVVTWjZtQWFCVElhal9hQTEtdWRsTGwtbDR0TzZtQjBOQUJOQ2VfeVlFTjZUQTRGNlJRcEJjUkNQd3d5d1VibXBtcUlhbVhXTkNBNHhxQ0N2bXluLVVtZlc1SHFpcklyRnRLdGlyT3lhVVhCbUo1Y1NqdWRrcWFrWVFJUWtwYTNKNXFiRy16emU0clp5aDIwNEp4bnFGZW1nQ0RuVXZwV3hr?oc=5": {
-      "title": "Eneva pronta para assumir contratos de inabilitados no LRCAP - CanalEnergia",
+      "title": "Eneva pronta para assumir contratos de inabilitados no LRCAP - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T17:37:24.096699",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0RFaWRKSGh0ZUc1STFhR09mejVDSy1YQjdwWm5NVE1BS0QyUGV4VEgzWnRKNnh5Uy1ib0NXcGdiN2V2ZFVSb1RCQXlNYUZUU0ZwYzNZS2Jaa0ZxUDFLZi1BdGRFODAtMVRaanNDd284YzRMOURGRkRyWGVWblNNRGhiUmk0c0hWNFZiRXRIdkRpVXkzekQ3ZTU3cVlwSTZYVlBlTEJWaGpvSkNwMWRBdFZoZ1NYYmJReWVsZUVLR2RlR2E2SFlJ0gHWAUFVX3lxTFBVNkVURHUtNDV6S3pOOTFZd0dvUTl2N0M0UmFXN1gwUTlNVVNNNGFobjdaaC1NOXNkNEk2R09HSDUwVDdwLVRxTVFjRndrb2RQMGJjU0JScTBqakxUb2xuZzdRVnFna3RrXzNrY2t4ek9uRFRTYzhfUUpac3RIRE0wZXMtajc4NFVvRlk1Zjh4VDJZcGR0bkQtTU03R3ZpZGN4aWdlOG1UbFprd1Zqc0ZFbDZ2eFRvOTdxNERoRXJNR0RDQXJManVTUy00aEIzcjNxYWlmQXc?oc=5": {
       "title": "Venezuela aguarda cortes ainda mais severos de energia e água com El Niño - Valor Econômico",
@@ -4719,7 +4641,7 @@
       "source": "",
       "added_at": "2026-08-13T18:37:42.724547",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW5qTDh6WVJVYU5QeEdzUk1rSUZGWTdBTnhidWZiYVdmamxJTDFIVDVqZU1PdTZwak54bHJ4QXA5QkpVQlcxVmFqNFRvdTU2VHkwT0ttWXBIUXJlVkFqbmRNVUItZ2tWenFkNFRWT3JSNk1ZRW1fWjBoSnhfcGFvd0N3eHoxblFPZGF0Tzd5T3Rodzctak5XcllRR2VwQzJrR0tEazNhMExqelVkc2Rsb0lNRXJaR0dyZWNhUURFODLSAc8BQVVfeXFMUE9vdzhkNE5SYkNwV3FYNUw3b0RVeUZYNUpObzlyUWZsMVNsb0FDdFl0T0hHcFBMb2FwMU1ZTWNTYWhqdndZMzFSWjh6MnNMMDRxMVp0Ry04cDJydVhCTjZadzRjVXlmMW5HaDZCRE1jazRUU1Yzck94MGhQZ1ZDZGR5RFEyUlV5T0JxbGYxSEFvWU9uZlJOQldTRVdueDNrR1AxNzNIcVg1eE81UU1XbklnQ0tOenhPNWZ2cHo3LTBmanNKNmhqY1VLVl9uTUxF?oc=5": {
       "title": "Rumo prevê aumento de tarifas e busca voltar a ser ‘player de valor’ - Valor Econômico",
@@ -4727,7 +4649,7 @@
       "source": "",
       "added_at": "2026-08-13T18:37:42.724661",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHVrc1ViX21sZXI2c2s1cERyTE50bHpHTWllQUV2QWpWQjJlRnE4R0NnUlgtaFBGREhwcjVEUElLaDBFMm9uemE0UkNTd0QyWDBIY1J6RVZ0Ym5kTlhNNGJaUWZQVnVJanpNRURDQjZiVXZlcEl0MUhUY0lHSjNZajhJaWFNSy12Z19TaXdJOEk4Q01aVTdlSktTdUZ6VktrVzNRcWFzWlh0REFwVFVuZ3BwRHZOZw?oc=5": {
       "title": "Aneel autoriza novas operações de eólicas e CGHs no Nordeste e Sul - MegaWhat",
@@ -4742,12 +4664,12 @@
       "added_at": "2026-08-13T18:37:49.740842"
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0NoRGFJTE9zMGY2bEJpMFpka012ZWFDVzNicWJrNGcyckYzY0NfMFN4ZjNOOHFhaHhiX3VfSHpEaUZoc0VPNXJZVDdKZVNKTzZaRlo3Sl85X0xfekppRF9PcF8yS05LV3VMdU9pVWNIbTBnbm9hODBlVUloV0xMVlJOdVkya2VzblRBeGVBa21MQWNORXdWdzNqSVZQZnBtZ2pzM3dWQzBDZEk4QURB?oc=5": {
-      "title": "ONS já processou 10 GW em pedidos de conexão de data centers - CanalEnergia",
+      "title": "ONS já processou 10 GW em pedidos de conexão de data centers - canalenergia.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-13T19:44:29.945569",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmU2YUJuaERTT0RYVTA2WGo0UzNDd0l5TUhNcG9NNVdOUVBoUkVxbXZ2VkdMaDJTRjI4QS1sTjMxVkRqY3hTazhBNkZmRm9sMTAwckFGSnRRamZxYlY1M01uSHM0a2EzQ1FtZXFONGw0Tm1DZThvQlNNUVlEVGYyaFFqUTZ4QU41Tzg1UHJrRVB3YzV5U1F3M21lYUFBUXVVMWt3c2lGTnJPTmtrVm5tQjdneGV6cXNSREczeG80VUFBdzdPS0hLOWp30gHKAUFVX3lxTE9KZTZhQm5oRFNPRFhVMDZYajRTM0N3SXlNSE1wb001V05RUGhSRXFtdnZWR0xoMlNGMjhBLWxOMzFWRGpjeFNrOEE2RmZGb2wxMDByQUZKdFFqZnFiVjUzTW5IczRrYTNDUW1lcU40bDRObUNlOG9CU01RWURUZjJoUWpRNnhBTjVPODVQcmtFUHdjNXlTUXczbWVhQUFRdVUxa3dzaUZOck9Oa2tWbm1CN2d4ZXpxc1JERzN4bzRVQUF3N09LSEs5anc?oc=5": {
       "title": "Fim do monopólio da energia: o que muda na sua conta? - Valor Econômico",
@@ -4755,21 +4677,65 @@
       "source": "",
       "added_at": "2026-08-13T19:44:59.494694",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmNic3BYRWYzTjhZOEExSkJxZWhtczRheDNsakZRMlJ5cTlSdFEyaElWUG44M3JiSlJjc2tCa2hiQXZWMURPZEEyM1JOOW9XQ1hNV2E4RXdJUHV0U052OWJxN2tfblgzV0RiYmxRYUNCbkp3QVpSR1BwSy1WUzROb1BWd1RCX25hSUdmZWdyVmRtcHB0eC1jMlc0MURRcUZRTzBBYS1JdDNlVFJsZlQ0cDc0MHA3ZnhYOTVvcWJIRmRQa1M1ZHY0YmoweEEzOWpVNWVuN3JzOVY1cGhBSDlKLWtoSHQ1ejl6RkM1MmtxbVdOTmhoMTZlMkxzTlhPVXNzcWp6YUpR?oc=5": {
       "title": "Universalização do saneamento vai além de levar água até a porta de casa, explica Márcio Velho da Silva - Estadão Blue Studio",
-      "summary": "Universalização do saneamento vai além de levar água até a porta de casa, explica Márcio Velho da Silva AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 13 de agosto de 2026 Consultor técnico defende que continuidade, qualidade e regularidade do serviço são tão decisivas quanto a cobertura da rede. A universalização do saneamento básico costuma ser medida, no debate público, por um…",
+      "summary": "Márcio Velho da Silva, consultor técnico, explica que a universalização do saneamento vai além da cobertura de rede, enfatizando a importância da continuidade, qualidade e regularidade do serviço. Ele argumenta que indicadores de cobertura isoladamente mascaram falhas que afetam a experiência do usuário e a função social do serviço, sendo cruciais para o planejamento de políticas públicas.",
       "source": "",
-      "added_at": "2026-08-13T19:44:59.495027",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-13T19:44:59.495027"
     },
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVldBcFRMSUpoZmhvZHZONkxrM3h3WkJkQUUzMERYcllZUW8wZmdlaWNfSlFmUjhnNTJwT0piQnpyZ0RYM2RjM1FaazQtYXQ1bXotcFF0S1pyNW16QVhZM3NfeTU?oc=5": {
       "title": "Tag Volta Grande do Xingu - MegaWhat",
       "summary": "A **ANA** autorizou a redução da vazão mínima da hidrelétrica **Belo Monte** de **300 m³/s** para **100 m³/s** em **2026**, visando mitigar os efeitos da seca do El Niño no rio Xingu.",
       "source": "",
       "added_at": "2026-08-13T19:45:07.547470"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMW42TVhOMHpnNUU0SmxtVUdtUmFERkZUYXE3c0lKUjZQNDBaaTdXNFdmWnRaR3dhR0trb3lpMndLY01EQWlxR1UzTzNvS3Jtejg2RHRQbHJXbDdaMGJqVnJwenNMMThoZHBmRzJwQ3Rrazk0U21KMUJoejhtcGxOMDBWM3VwTXVmbDZMRDhQZWdmMHVkWGNVaHJOaVl1dElEM1h5M2N5OA?oc=5": {
+      "title": "Reservatórios do Nordeste operam com 81,3% da capacidade - canalenergia.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-13T20:59:21.929516",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9wUDNuS2I3aU55NmFCOEZEbWVMTHBVclNfNmtENXE2QkVOZ1ZZRWJSeU85OF9KSkRiZGZDVlBpN0UtUGJNTFJVQU5FUHRWeU4zeHEzUV93bVFRSW1IdFI5MFp4cVA1NEpNNkJkZElsWnZCUS1oamY4ZTJ1eGpJRFl6WmIzR3c0bkNZWndneUljTmhFVUhmMXNNUlI3LUdpeXZET3hMdmFqOFJiZDZ2YzBzTS1MNmFFSHoyaVhmUm1ERUhfSEhaWWNhcXVfZHB4VXM0TU92OTI?oc=5": {
+      "title": "Decreto do mercado livre de energia vem em meio a crise no setor, e segurança vira desafio - Folha de S.Paulo",
+      "summary": "A ampliação do mercado livre de energia para o consumidor comum avança no momento em que comercializadoras que operam nesse setor enfrentam uma crise sem precedentes. Na quarta-feira (12), o governo Lula (PT) assinou um decreto com as regras para que clientes residenciais e pequenos negócios possam fazer a transição para esse modelo, em que prazos e volumes de fornecimento são negociados…",
+      "source": "",
+      "added_at": "2026-08-13T20:59:47.704940",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcUFwQmJmSzVwcTR0RDRZVk1jZF9qWjY4NzZhanZtUmRJNVNCcFFBaTJHX29KTlNybTF2RVc5VE91VG9lTVNoaDFWVE1VYTJQN1lKc2tUdmR6LWlRdkgzYWVZaDNXR1JkWHM1ckhlNGY5NDIzd0pYaE44SENOYjBUaVJZa0REVDAyN25GbkIxRl9wZUxXeHZEVm5ZUWZjQklXZ1VSazlmSVN6c3BuMExaQk5BV2JqSjVFUk9EVjJRUjQ5QWpXYlAwR3lObFlFTDdBd3Q1OUJoZlI4eXhGeTdMVm9rQ1BCVG0wd19wY3RnQQ?oc=5": {
+      "title": "Sabesp no 2T26 decepciona com queda de 41% no lucro e pressão de despesas; ainda vale comprar? - Estadão",
+      "summary": "E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta sabesp no 2t26 decepciona com queda de 41 no lucro e pressao de despesas ainda vale comprar morre mosquito campeao mundial de basquete e duas vezes medalhista olimpico aos 87 anos Estadão Verifica Conteúdo Patrocinado flavio bolsonaro espalha video com alegacoes falsas sobre precos de compra de supermercado lucro da stone…",
+      "source": "",
+      "added_at": "2026-08-13T20:59:47.705010",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNPTkdDamQ5NnNsV2FuZ1hqcUxJbW5tQTNQRDlSa01ONE9tVEpYcWZxNm5JbWhFSWVnNEdRSllQOUN4dUVnVnBYWjhDOTRWc0l2ZVpzU1BTdlVLNVZWeFpRTFNPbHFGcVZkb29JenN1VzFqVDBBV1hqUGt1SjFhMXZpZHhTVHpidWlJM3VYU2lOaldMZkZVZkExZ2hybV95Mm8tYXlOdWRIVnFHMTluQ2g2cG43bk01ZFhpSVBySExjVHJtdU9abVNNNDAyU21wWC05UjFnRjNnRDNxa3g3emFDZVDSAeoBQVVfeXFMUHVYOVVDYzk1dlA2ejd2LTFlZVV1MnZVa3hvS2F6TW1PZ3RnQWo4VDk0Q1V3M1VKV25iTW5mb0d6bW8xMHdGZXd6SWVKRUtwQUhuVDhWOXYwbllWaUVoNFU4eElDUy1waXZvMHZncGI1Z0tMa1MzQ2plS1A4MXc0SVAzQUxmSEs0dFZqamVWNGRVRUt3aFRpb1dnRmJqSlJNcHd0R1JUT0p3bkNGT1VTRndmLS1UejZnWmJNeEZzU2czVXY3TEgxb3d6TlRqUlVFMHBWVVctXzBwWGJWdUptWkpwMHJqWkhqWDBR?oc=5": {
+      "title": "Sabesp (SBSP3) cai 7% após balanço frustrar mercado; ainda vale comprar? - Estadão",
+      "summary": "As ações da **Sabesp** caíram **7,04%** (R$ 24,28) após resultados do 2T26 decepcionarem o mercado, com lucro líquido ajustado caindo **41,2%** para **R$ 1,150 bilhão**. Apesar da pressão de custos, a receita líquida ajustada cresceu **6,7%**. **Citi** e **Ativa Investimentos** mantêm recomendação de compra, com preços-alvo de **R$ 32,50** e **R$ 36,00**, respectivamente.",
+      "source": "",
+      "added_at": "2026-08-13T21:00:00.849319"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnUwUUZLN0ticzQ5TlR4T1UzRllndGFxRTE0SmlEQnRRaFRZLWJQU1F1cTcxYk4tcllxVnNnTTc5NHZtcll0MlFXdnhyRDhDTU5KNnpjbVNfREY5cTFkeDJqNlVfSVF2eWdrTE1jV29nTUdvWDBpdDZtSE9TX3hEVjJ1MGMwbjRfRWhaNkZtSzJhdG5JNlNmeGRvMG5kOGxFNERJNGx2ajExUWYzYTY3Yjd0SdIBuAFBVV95cUxOMV9SaVJzcmJ2a1pJbU9qdWNEcXZ4UEU4U3N0ZnJrNkRJMkt6cXk2R3ZUQW1iSURLVjlVbHByczNEeXBHdEVrZFRrM1JVNlh2eWJ1VWZZYWt4SFZVQ0x2OXhfcEVIazV4NlVraEh2d2hidGJTQ0hrdFVjZy1iQVhNdmQzVzYwUTRtZUxvcHNNQlFNSXhHaXUtbmFBZVZ0Uy1SSEtSckFEOFFnRnlDbUI2b25zTWYybmNy?oc=5": {
+      "title": "Royal Enfield mostra moto elétrica conceito Flying Flea em Interlagos - Estadão",
+      "summary": "Gerando resumo A Royal Enfield aproveitou o Festival Interlagos 2026 para mostrar outras frentes de seu portfólio. Entre elas está a Continental GT-R 750, apresentada em configuração conceitual e preparada para as pistas, além da Flying Flea, que antecipa a entrada da fabricante no segmento de motocicletas elétricas.",
+      "source": "",
+      "added_at": "2026-08-13T21:00:00.849557",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VGN6S2VaUUNmcDhGTDlRUWlvNTdFZ3NPdmJVZW5GMGJNNG81NEtNYTFEOW1IbEVVSkxONG5ySUNDV3NYYVo0MktSTmZiOXBrRXZtRUJnQnpMMkU?oc=5": {
+      "title": "Tag vazão reduzida - megawhat.uol.com.br",
+      "summary": "Vazão reduzida Belo Monte terá vazão reduzida diante de risco de seca com El Niño A Agência Nacional de Águas e Saneamento Básico (ANA) autorizou a redução temporária da defluência mínima do Reservatório Intermediário da hidrelétrica Belo Monte, de 300 m³/s para 100 m³/s, durante o período seco de 2026. A medida busca evitar um rebaixamento acentuado do reservatório do rio Xingu diante de um…",
+      "source": "",
+      "added_at": "2026-08-13T21:00:00.849635",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
