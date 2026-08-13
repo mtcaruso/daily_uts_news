@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T17:18:09.333903-03:00",
+  "last_updated": "2026-08-13T18:20:37.065125-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5958,24 +5958,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-07-14T21:35:14.800101"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "23ª emissão de debenturesAta",
-      "data_referencia": "20260702 02/07/2026 17:00",
-      "data_entrega": "20260714 14/07/2026 17:33",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "23ª emissão de debentures",
-      "protocolo": "1544758",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544758",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-14T20:34:02.519411"
     }
   ]
 }
