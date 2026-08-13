@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-13T18:59:51.054694-03:00",
+  "last_updated": "2026-08-13T19:38:45.998907-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Press-release",
+      "especie": "Resultados 2T26 -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260813 13/08/2026 19:32",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resultados 2T26",
+      "protocolo": "1557383",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557383",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-08-13T22:38:41.509052"
+    },
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Adicionais",
+      "especie": "Demonstrações Financeiras em IFRS - Versão em InglêsDemonstrações Financeiras em Padrões Internacionais",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260813 13/08/2026 19:30",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Demonstrações Financeiras em IFRS - Versão em Inglês",
+      "protocolo": "1557379",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557379",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-08-13T22:38:41.509043"
+    },
     {
       "cnpj_short": "01862-7",
       "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
@@ -5904,24 +5940,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-07-15T00:57:25.880109"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Início de Distribuição Pública",
-      "especie": "Anúncio de Início da Oferta Pública de Distribuição da 17ª Emissão de Debêntures -",
-      "data_referencia": "20260714 14/07/2026",
-      "data_entrega": "20260714 14/07/2026 19:35",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anúncio de Início da Oferta Pública de Distribuição da 17ª Emissão de Debêntures",
-      "protocolo": "1544845",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1544845",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-14T22:36:43.831208"
     }
   ]
 }
