@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:46:51.060176",
+  "last_updated": "2026-08-13T15:15:13.950231",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3319,6 +3319,58 @@
       "summary": "Altera procedimento para redução de royalties em contratos da Rodada Zero, incentivando investimentos em conteúdo local. O objetivo é estimular a exploração e produção de petróleo e gás.",
       "added_at": "2026-07-24T11:56:10.043608",
       "summarized_at": "2026-07-24T11:56:18.123109"
+    },
+    "decretos_decreto-n-13-094-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-094-2026",
+      "title": "Decreto nº 13.094/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-094-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-094-2026.pdf",
+      "date_modified": "13/08/2026",
+      "ementa": "Regulamenta o Programa Nacional de Combustível Sustentável de Aviação, de que trata a Lei nº 14.993, de 8 de outubro de 2024.",
+      "summary": "Regulamenta o Programa Nacional de Combustível Sustentável de Aviação, conforme **Lei nº 14.993/2024**.",
+      "added_at": "2026-08-13T15:14:52.777478",
+      "summarized_at": "2026-08-13T15:14:58.370388"
+    },
+    "decretos_decreto-n-13-095-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-095-2026",
+      "title": "Decreto nº 13.095/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-095-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-095-2026.pdf",
+      "date_modified": "13/08/2026",
+      "ementa": "Regulamenta os art. 26 a art. 29 da Lei nº 14.993, de 8 de outubro de 2024, quanto às condições para o exercício das atividades de captura, de transporte por meio de dutos e de estocagem geológica de dióxido de carbono.",
+      "summary": "Regulamenta condições para captura, transporte por dutos e estocagem geológica de CO2, conforme arts. **26 a 29** da Lei **14.993/2024**.",
+      "added_at": "2026-08-13T15:14:52.777478",
+      "summarized_at": "2026-08-13T15:15:03.408837"
+    },
+    "decretos_decreto-n-13-096-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-096-2026",
+      "title": "Decreto nº 13.096/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-096-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-096-2026.pdf",
+      "date_modified": "13/08/2026",
+      "ementa": "Regulamenta a Lei nº 14.948, de 2 de agosto de 2024, que institui o marco legal do hidrogênio de baixa emissão de carbono, dispõe sobre a Política Nacional do Hidrogênio de Baixa Emissão de Carbono, institui incentivos para a indústria do hidrogênio de baixa emissão de carbono, e institui o Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono - Rehidro, e a Lei nº 14.990, de 27 de setembro de 2024, que institui o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono - PHBC.",
+      "summary": "Regulamenta a **Lei nº 14.948/2024** e a **Lei nº 14.990/2024**, instituindo o marco legal e a Política Nacional do hidrogênio de baixa emissão de carbono, com incentivos e o **Regime Especial de Incentivos para a Produção de Hidrogênio de Baixa Emissão de Carbono - Rehidro**.",
+      "added_at": "2026-08-13T15:14:52.777478",
+      "summarized_at": "2026-08-13T15:15:08.442007"
+    },
+    "decretos_decreto-n-13-097-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-097-2026",
+      "title": "Decreto nº 13.097/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-097-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-097-2026.pdf",
+      "date_modified": "13/08/2026",
+      "ementa": "Regulamenta a abertura do mercado de energia elétrica para os consumidores atendidos em tensão inferior a 2,3 kV e o suprimento de última instância, de que tratam o art. 4º, o art. 15, o art. 15-C e o art. 15-D da Lei nº 9.074, de 7 de julho de 1995, e dá outras providências.",
+      "summary": "Regulamenta abertura do mercado de energia para consumidores de baixa tensão (< 2,3 kV) e suprimento de última instância. Define regras para o setor, conforme Lei nº 9.074/1995.",
+      "added_at": "2026-08-13T15:14:52.777478",
+      "summarized_at": "2026-08-13T15:15:13.449842"
     }
   },
   "first_run_done": true
