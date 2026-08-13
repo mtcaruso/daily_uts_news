@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-13T11:51:21.882910-03:00",
+  "last_updated": "2026-08-13T12:45:54.353761-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Apresentação de Resultados 2T26 -",
+      "data_referencia": "20260813 13/08/2026",
+      "data_entrega": "20260813 13/08/2026 12:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação de Resultados 2T26",
+      "protocolo": "1556897",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1556897",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-08-13T15:45:33.318918"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
