@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-08-13T21:59:23.345463",
+  "last_updated": "2026-08-13T22:59:35.478506",
   "items": {
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkJVcVZoQThaeGRGSjl6LUQxTmltajFuY282cENDMUJtUHpKei1vR2lnaHZUS212N0tYUzlxU0NnbHc1UnNuM3JuZ1YwX0pZTzJyWll0WXJwVHNmVldfaEp6RHRZSlVfd0tMa0tVbmZrdkpRdXdHNHBZU0NsQS1McTBsVXlwU1k1QnNkNDFWc3hfNUhEVDEzaktoV3FxQQ?oc=5": {
-      "title": "ONS sinaliza com alta de 4,76% na carga em agosto - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T22:44:01.091299",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTF9ELXFjN1hEUENRdEV4cEZ2b3VpaEVpckl3X25HWlJha0dYVG1hNVRnTnhucFFUZDFLSU9qd2lNeGtDblBTa0gyZzBYZmNfSF9WVFdmd1VTSFM4T1FBbk9xRlVSUG00OWtyMnZuV1FkN29oSllaNXVlVUJaWmZDbzQtM2FycGtHbk4wNXA4N1hNbl8ydUtUMDV3?oc=5": {
-      "title": "Com chuvas, reservatórios do Sul sobem 1,2 p.p. - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-30T22:44:02.772937",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFhJU3FXd0dwWDJGbUtaTUgwNzRLWGpPZEZHLXB5Q1Njd0Jra1kxZ2hpcEpoUjRhSEVzdjdGNlQ0QzdPY3NyRzBtOFBCRDE0LW9CM3I5bDlKbTE5QVVWdW5GQzJPRlN6ZEZQLWliZWF1SGJLTE8wdUREQWdUUk1ZczFkdWItazBHV3FTd3YyVDJ4QU5s?oc=5": {
-      "title": "Opinião - Ricardo Alban: Energia cara: quem vai pagar essa conta? - folha.uol.com.br",
-      "summary": "A energia elétrica é o principal insumo da indústria brasileira e um fator decisivo para a competitividade da economia. O Brasil reúne condições privilegiadas: tem uma das matrizes elétricas mais limpas do mundo, com mais de 85% da geração proveniente de fontes renováveis, e vem ampliando rapidamente a participação da energia solar e eólica.",
-      "source": "",
-      "added_at": "2026-07-30T22:44:52.887489",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkRvSmttMWtjbml5dmp0N2pKYmhmdTNzeUVWazVMa3FXSDlFdk40QUZKYVRtTnFkQUxaZ0MyOHdxel9GdnhPbk82XzhaOXFhamlNSGxQdmhGN2k1N0Yzb201UmNnckdWQV9XRlo5TW5DLVVMcFlQLXNHUS1EUmFnZFhlWDNiRnN3MERiUGltVnp6TmJpMFE4aFFlQmJZYUZhV3FRNDdMM0tHQkFDRld2ag?oc=5": {
-      "title": "ONS eleva em 1,9 GW médios previsão de carga para agosto - MegaWhat",
-      "summary": "O **ONS** elevou a previsão de carga do Sistema Interligado Nacional (SIN) para agosto em **1,9 GW médios**, para **81.580 MW médios**, devido a temperaturas mais altas. A projeção para setembro também foi revista para **85.118 MW médios**.",
-      "source": "",
-      "added_at": "2026-07-30T22:44:52.887752"
-    },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1hodnotcFUzYVgyTXh4cTRuRHJBMnlvM3N3Rl9DNlQ2RVpod2FhbWxKZXV1SHc5WWUwSy01c1l4dnozRkV2VWp2N2p6bF9GUkZHLUtBcTg3cGxUT0psOVVRdVdpNlotZjBna2lZd2d2OXhER2ljYkhaOXNLSW9CQXNXSC02bG11T2Vxd2Q5XzNBODQ2NGJ5TzlWV0VuMFF1LXRHc2RjY0w4US1CbHliOTRNc3ROZkI4UmJ3MUZFQ2Y?oc=5": {
       "title": "Axia conclui captação de R$ 500 mi em debêntures incentivadas - CanalEnergia",
       "summary": null,
@@ -4531,7 +4501,7 @@
       "source": "",
       "added_at": "2026-08-13T16:31:16.460996",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSngybzFGN000LThnZDc0U2x6U1JVSE9LdUl0WXpQSkVMa1JIcWx4c0duQ2JqRFM4c1lrU0ZSRTg0SjNqZXlsTmZ2Y3pFSjlqYnF5X28tUFUtcUFZX0g2OGtlakZnUDRRcndRMW1YUDd5Y2x2REZYU0g0aFp2clVQVm9ldzFhbWFXLXZQTklwMzE0cHUtajRhTXl1SjVYdjRhRFlDN2Z5dnB2N1hI?oc=5": {
       "title": "Aneel prevê regulamentação do mercado livre apenas em 2027 - CanalEnergia",
@@ -4539,7 +4509,7 @@
       "source": "",
       "added_at": "2026-08-13T16:31:18.178924",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQzlWVUJjRDBXc2dNa01hQUNrR2dlSnlWUW90M0Y3RXZlQ2dHNlpHS0xEZ0lLNVI1LUdsb00xYWNlenJERWJidWFMcnRCelItY2cxb2h5Vm5oRDNraEJaRlJ5cnAzdzIyQkMwNFRWMk9uc3FFQTV6U2prbThuVzNpdzBTNjdBZEk2clk1Z1VqODI4VV9LazA4YmFMeG5qMlhXRm41b3JjVXJvT0lSNVV3QVpBRWF4OEE1TlVaelRBS2Roa2I2aDk4cjhPQWdkdlhFQ2xB0gHiAUFVX3lxTFBXWnRZNFNaS202cloxcnVOVkJmQ1gzSmtxTjVhWE43NG8wUmZXQUxaTm9UOFdBbTgxVUtwSmpOQmFjZTJlLU9IMEE3aGN6YjJMd25nUlcwZHZZZVloY1VyYWRoZnZtOTYwd01sVDI4UGNqdWphanNKWUtRazZIaWtOZDE0b2poU25RS3h4QVRIV191dVNfbmUtTl82eWlDcmlBRGFYeXl3a2UtVHlKbkpwWHEtcWhwYUdCUDFVaGo0YXQtQ1IzQm9GQTFhZGFIU0gtWktQRzVBNjhHbkFVQ2JzeEE?oc=5": {
       "title": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando - Valor Econômico",
@@ -4579,7 +4549,7 @@
       "source": "",
       "added_at": "2026-08-13T17:37:24.096699",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0RFaWRKSGh0ZUc1STFhR09mejVDSy1YQjdwWm5NVE1BS0QyUGV4VEgzWnRKNnh5Uy1ib0NXcGdiN2V2ZFVSb1RCQXlNYUZUU0ZwYzNZS2Jaa0ZxUDFLZi1BdGRFODAtMVRaanNDd284YzRMOURGRkRyWGVWblNNRGhiUmk0c0hWNFZiRXRIdkRpVXkzekQ3ZTU3cVlwSTZYVlBlTEJWaGpvSkNwMWRBdFZoZ1NYYmJReWVsZUVLR2RlR2E2SFlJ0gHWAUFVX3lxTFBVNkVURHUtNDV6S3pOOTFZd0dvUTl2N0M0UmFXN1gwUTlNVVNNNGFobjdaaC1NOXNkNEk2R09HSDUwVDdwLVRxTVFjRndrb2RQMGJjU0JScTBqakxUb2xuZzdRVnFna3RrXzNrY2t4ek9uRFRTYzhfUUpac3RIRE0wZXMtajc4NFVvRlk1Zjh4VDJZcGR0bkQtTU03R3ZpZGN4aWdlOG1UbFprd1Zqc0ZFbDZ2eFRvOTdxNERoRXJNR0RDQXJManVTUy00aEIzcjNxYWlmQXc?oc=5": {
       "title": "Venezuela aguarda cortes ainda mais severos de energia e água com El Niño - Valor Econômico",
@@ -4623,7 +4593,7 @@
       "source": "",
       "added_at": "2026-08-13T19:44:29.945569",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmU2YUJuaERTT0RYVTA2WGo0UzNDd0l5TUhNcG9NNVdOUVBoUkVxbXZ2VkdMaDJTRjI4QS1sTjMxVkRqY3hTazhBNkZmRm9sMTAwckFGSnRRamZxYlY1M01uSHM0a2EzQ1FtZXFONGw0Tm1DZThvQlNNUVlEVGYyaFFqUTZ4QU41Tzg1UHJrRVB3YzV5U1F3M21lYUFBUXVVMWt3c2lGTnJPTmtrVm5tQjdneGV6cXNSREczeG80VUFBdzdPS0hLOWp30gHKAUFVX3lxTE9KZTZhQm5oRFNPRFhVMDZYajRTM0N3SXlNSE1wb001V05RUGhSRXFtdnZWR0xoMlNGMjhBLWxOMzFWRGpjeFNrOEE2RmZGb2wxMDByQUZKdFFqZnFiVjUzTW5IczRrYTNDUW1lcU40bDRObUNlOG9CU01RWURUZjJoUWpRNnhBTjVPODVQcmtFUHdjNXlTUXczbWVhQUFRdVUxa3dzaUZOck9Oa2tWbm1CN2d4ZXpxc1JERzN4bzRVQUF3N09LSEs5anc?oc=5": {
       "title": "Fim do monopólio da energia: o que muda na sua conta? - Valor Econômico",
@@ -4631,7 +4601,7 @@
       "source": "",
       "added_at": "2026-08-13T19:44:59.494694",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQmNic3BYRWYzTjhZOEExSkJxZWhtczRheDNsakZRMlJ5cTlSdFEyaElWUG44M3JiSlJjc2tCa2hiQXZWMURPZEEyM1JOOW9XQ1hNV2E4RXdJUHV0U052OWJxN2tfblgzV0RiYmxRYUNCbkp3QVpSR1BwSy1WUzROb1BWd1RCX25hSUdmZWdyVmRtcHB0eC1jMlc0MURRcUZRTzBBYS1JdDNlVFJsZlQ0cDc0MHA3ZnhYOTVvcWJIRmRQa1M1ZHY0YmoweEEzOWpVNWVuN3JzOVY1cGhBSDlKLWtoSHQ1ejl6RkM1MmtxbVdOTmhoMTZlMkxzTlhPVXNzcWp6YUpR?oc=5": {
       "title": "Universalização do saneamento vai além de levar água até a porta de casa, explica Márcio Velho da Silva - Estadão Blue Studio",
@@ -4651,7 +4621,7 @@
       "source": "",
       "added_at": "2026-08-13T20:59:21.929516",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdE9wUDNuS2I3aU55NmFCOEZEbWVMTHBVclNfNmtENXE2QkVOZ1ZZRWJSeU85OF9KSkRiZGZDVlBpN0UtUGJNTFJVQU5FUHRWeU4zeHEzUV93bVFRSW1IdFI5MFp4cVA1NEpNNkJkZElsWnZCUS1oamY4ZTJ1eGpJRFl6WmIzR3c0bkNZWndneUljTmhFVUhmMXNNUlI3LUdpeXZET3hMdmFqOFJiZDZ2YzBzTS1MNmFFSHoyaVhmUm1ERUhfSEhaWWNhcXVfZHB4VXM0TU92OTI?oc=5": {
       "title": "Decreto do mercado livre de energia vem em meio a crise no setor, e segurança vira desafio - Folha de S.Paulo",
@@ -4659,15 +4629,15 @@
       "source": "",
       "added_at": "2026-08-13T20:59:47.704940",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcUFwQmJmSzVwcTR0RDRZVk1jZF9qWjY4NzZhanZtUmRJNVNCcFFBaTJHX29KTlNybTF2RVc5VE91VG9lTVNoaDFWVE1VYTJQN1lKc2tUdmR6LWlRdkgzYWVZaDNXR1JkWHM1ckhlNGY5NDIzd0pYaE44SENOYjBUaVJZa0REVDAyN25GbkIxRl9wZUxXeHZEVm5ZUWZjQklXZ1VSazlmSVN6c3BuMExaQk5BV2JqSjVFUk9EVjJRUjQ5QWpXYlAwR3lObFlFTDdBd3Q1OUJoZlI4eXhGeTdMVm9rQ1BCVG0wd19wY3RnQQ?oc=5": {
       "title": "Sabesp no 2T26 decepciona com queda de 41% no lucro e pressão de despesas; ainda vale comprar? - Estadão",
-      "summary": "Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’13/08/2026 | Edição das 18h30 00:0000:00 Conteúdo Patrocinado Internacional Aliados de Trump votam pela restauração do nome do presidente dos EUA à fachada do Kennedy Center",
+      "summary": "Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’13/08/2026 | Edição das 18h30 00:0000:00 Conteúdo Patrocinado E+ V, do BTS, revela perda de audição: ‘No meu ouvido direito, está em apenas cerca de 30%’",
       "source": "",
       "added_at": "2026-08-13T20:59:47.705010",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNPTkdDamQ5NnNsV2FuZ1hqcUxJbW5tQTNQRDlSa01ONE9tVEpYcWZxNm5JbWhFSWVnNEdRSllQOUN4dUVnVnBYWjhDOTRWc0l2ZVpzU1BTdlVLNVZWeFpRTFNPbHFGcVZkb29JenN1VzFqVDBBV1hqUGt1SjFhMXZpZHhTVHpidWlJM3VYU2lOaldMZkZVZkExZ2hybV95Mm8tYXlOdWRIVnFHMTluQ2g2cG43bk01ZFhpSVBySExjVHJtdU9abVNNNDAyU21wWC05UjFnRjNnRDNxa3g3emFDZVDSAeoBQVVfeXFMUHVYOVVDYzk1dlA2ejd2LTFlZVV1MnZVa3hvS2F6TW1PZ3RnQWo4VDk0Q1V3M1VKV25iTW5mb0d6bW8xMHdGZXd6SWVKRUtwQUhuVDhWOXYwbllWaUVoNFU4eElDUy1waXZvMHZncGI1Z0tMa1MzQ2plS1A4MXc0SVAzQUxmSEs0dFZqamVWNGRVRUt3aFRpb1dnRmJqSlJNcHd0R1JUT0p3bkNGT1VTRndmLS1UejZnWmJNeEZzU2czVXY3TEgxb3d6TlRqUlVFMHBWVVctXzBwWGJWdUptWkpwMHJqWkhqWDBR?oc=5": {
       "title": "Sabesp (SBSP3) cai 7% após balanço frustrar mercado; ainda vale comprar? - Estadão",
@@ -4681,7 +4651,7 @@
       "source": "",
       "added_at": "2026-08-13T21:00:00.849557",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VGN6S2VaUUNmcDhGTDlRUWlvNTdFZ3NPdmJVZW5GMGJNNG81NEtNYTFEOW1IbEVVSkxONG5ySUNDV3NYYVo0MktSTmZiOXBrRXZtRUJnQnpMMkU?oc=5": {
       "title": "Tag vazão reduzida - MegaWhat",
@@ -4689,7 +4659,7 @@
       "source": "",
       "added_at": "2026-08-13T21:00:00.849635",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDQzRXIya3dMbVpHTENrbHhjV2pXMFEtNy1sSlR4WVlFVGkydjdDY2pveWphWFN0RnJMaHZ6cHNYZnRsRHZsTkpLaXNtQnctNHhzWFBNNGxyNGR4c1c1WXE2QjgtSHZadkRsdndoU2lBNExFVHBhbi1rdk1hV2g5aWd2cmZyS3ZDc3lkRE9sd1dpdjNlV3UxdThzUmhfS1lXNXRjMERhbG1QbW1LQnpvb0oxdUtCeUtxdjk3VERMN1c3cUp6U3kyaXhUak03QXVBMkFwMXJxSTMyZw?oc=5": {
       "title": "Grupo Heineken investe R$ 460 milhões em bioenergia para descarbonização de fábrica no Brasil - CanalEnergia",
@@ -4697,7 +4667,7 @@
       "source": "",
       "added_at": "2026-08-13T21:58:34.975065",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjNzRmRySTVjY2ZxSURWdUlQa1V5UlRNNkFGTG5TTlF5eEhJUzQzdTRFODlhc2RhYWtoRVp6ZWJkNk0wUVprVmZxajFyaTkxcVgyLUZMME5yMkM0V0lscE5STEZmd0VWNW5TV0JPZWVfS0hSSjRVN29JNzVVLXY0V1otRTFtVDFqcHhFTXdDczhPclNwYmhpWVBnWjRWZkRkcDZOS0dqUEE5SmxzUDRMcnIzTGhITmpwSEVYaXdSQQ?oc=5": {
       "title": "Decreto traz regulamentações para hidrogênio de baixa emissão de carbono - CanalEnergia",
@@ -4705,7 +4675,7 @@
       "source": "",
       "added_at": "2026-08-13T21:58:46.625951",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3ZMa294RGYtUFRta3V3djlfQlN5b2Qyd2FjemtEQW9qakxzQVQ5Y3R0ME9XME5DeHU5WWxLbmNnMFZYNnV3Yk05R3RyX1hJMlAzdUpEb1E5cDkzQmV3d0dIbzktbkktQVhRVUNzMXlvQTBpZFVSc2FrZEZzeDRKZTV0a2xFQWJ2cjkzY0VFZWJNNUZLdkpzbEI4X29ITHNaV3c1MVYxTm5TYk9IU0wxcTNlcFZPbnhzdjNTRF9lYURBSmPSAdIBQVVfeXFMTkIzQjVVd0JucFpYbmhMYU1Va2dPcW5vRVViRDdicHNLc09CaE15QUR4ZHIxZEoyTUhfb1pDZDNGdGlUN3dOV3VDU3dpT3hrdGNhTmZ1QWx4UDhvVTJYLXVibk1hamYxZTRuNlNVaVFZUm5FLVF3bGRSN002STVMWklJRkcwU2NMLVBsa2tMY1ZnZDg5a281WFJRNHRzOXRNN1dub3J1UjdERGZJUUhobTJySlh3MGpiZnJHTUw4RWV6cm1iYU1OTENmN2J2RzZ2OTVn?oc=5": {
       "title": "Sanepar reverte lucro e soma prejuízo de R$ 505 milhões no 2º trimestre - Valor Econômico",
@@ -4713,15 +4683,15 @@
       "source": "",
       "added_at": "2026-08-13T21:59:13.288893",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3VBR3BZbExwZUc4Mnc3dkg2aXBuX21leGFLX1BUZzlOcjFyUEtJOVVia3VyempSeUtYdlcta0daOFRnOEJPc2hCbnRvaEhTakZiUGhqbThLUDhWY3NfTzdPVnlyelNSanRYbEZMNFdQcWdMYmRNUEo0SmJiLVlGVFhhX2hKaVNFUXpVOEN4ajZFVUtYQ1pyZS1SMnFWVDkwaFREeHNqVE94cXVhenFpNUI0MHR5VURtRXfSAcgBQVVfeXFMUFN4OENOSG5aTE9SR0Q5cFJ1NzRDYXYxNV90cHlyWGxNTC1HdnYxOFlWR1VLU0ZzT1NHZ0R4T0doQ011bFBnS1FwSFNFN25lNmt1U2xDb3RLdVBsck5HdkRSajdpY1hmWFZCS0JFTV9iYWllOGdLOVotcjZVYTR2VFhZWmZ4RWNIRnViNlNXYWlfQVB2OU55LUlZOWJKWHdQUmlJemRtZDNEQl94MlpxRmVmdWU2Q0pDb0dFT2treVhoMV9BdHczZ3o?oc=5": {
       "title": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre - Valor Econômico",
-      "summary": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre Montante representa um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período de 2025 A Renova Energia registrou um prejuízo líquido de R$ 3 milhões no segundo trimestre deste ano, representando um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual períododo ano passado. De acordo com a…",
+      "summary": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre Montante representa um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período de 2025 A Renova Energia registrou um prejuízo líquido de R$ 3 milhões no segundo trimestre deste ano, representando um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período do ano passado. De acordo com a…",
       "source": "",
       "added_at": "2026-08-13T21:59:13.289011",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWQ5YTl1bjdleFZBR2UtXzNBUzFYUHJZbGxlZGlGVkppYVZNc2JSYlNFOFFMZGlKNDRtUS1fV2dQVGhsdVM4enBwYkYzQ3lsblBUZ3RKb0pFNWlzTHdqTkRUYmpxcE5YZHRmc1dLNjNJTjJzMFBEdmxTMUd1cW04S2VUNWw3VnZXdF9oWXVLamIyamJxSUhlZFhn?oc=5": {
       "title": "Sabesp aumenta em 15,6% investimentos no 1º semestre para R$ 7,5 bi - Agência iNFRA",
@@ -4746,6 +4716,38 @@
       "summary": "O governo federal regulamentou a abertura do mercado livre de energia para consumidores de baixa tensão através do Decreto 13.097. A nova regra dispensa o uso de medidor inteligente para a migração e estabelece as condições para o retorno ao mercado regulado e o funcionamento do suprimento de última instância (SUI).",
       "source": "",
       "added_at": "2026-08-13T21:59:23.336501"
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzdyM2xVT041LWhEcXpfRDUteVJtejdXdi1lbWxheVJySlEwWElvSjJNOHg1MDlEZ1l1cmp2ei1vc1ZjSjVyQVdJTmY0T1VRYnZ3MnotMFQ5LVVTTWp2NDdPdjZKbjZ4THlDelo4UVVmMzV5WVlsT1RHVktPb0owdmkzd0tKclAtamYzVTJiZUZBaG9LbGF0UXFOUEktQnBCUDAzVkVaTUhjMG5YczBXdzdUQ01Rck1vaUJSZERtTjZwckZlX2NrUTA1ak5ZUjI0TFVVbVdpWmFrV0Na?oc=5": {
+      "title": "Comercialização aprova teor do decreto, mas alerta para comunicação e segurança para consumidor - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-13T22:58:56.939245",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjRIRmhHa3c4SlZudkxMdXVHVXdGN3NncEg3aXRCMW5saGRkSGlXV3Voc2ZldHpMdUJ3VE1uaDkxaTZMRWo1SkFOWlB1aFB0WkU0Y1lpdzA4RnNMdHMzSDY5dmdlUC1aaWt5WkpCN292M2lZVkJNQ3F5dGZBNXpqYXhFdmVEWkdqMmdzSjlWVUdKaEJGZWZKSEVjTkJVTVZQR2ZzRGhDazNNV2FLX2p1ckFfbkF4Rno1M3M4UzBUZXNQQXZTTFBza1dUV2pFMDN6eTI5YjVSUnVRd0Y4SW55UtIB7wFBVV95cUxPQVhVOW9GOVo1TXRJOVZadFJPTE5nbElPal9ZZmtuZHk3dlpLbmdLdHMteXVscUdkZnFfbF9ad2VTcDF5YW5IbDNHazN2aTlMWHNMZkJqR05TSnF6N0xwRTlIUFF3RXVUQmRpTi1GX3lhaThWbU9raFNla2h6SW1vdDlCTUx6S0U2WFJxZndRNDZSLTc0dWpvVnYtWDM3cV9FUmpfV1c4OFN2OXVjMDZyZTYzR0dfWjBqc255UF9jUGR3VHpKN0oyVy1GRENOOGh3V3d2Sk81cDBrdjVyRmZrVVlwYmM5ajRHYU16MVJuOA?oc=5": {
+      "title": "CPFL Energia tem lucro líquido de R$ 1,4 bilhão no 2º tri, alta anual de 21,3% - Valor Econômico",
+      "summary": "CPFL Energia tem lucro líquido de R$ 1,4 bilhão no 2º tri, alta anual de 21,3% A CPFL Energia registrou um lucro líquido de R$ 1,44 bilhão no segundo trimestre do ano, valor que representa um aumento de 21,3% ante o verificado em igual etapa do ano passado. De acordo com a companhia, o resultado foi influenciado pelo aumento de consumo de eletricidade em todas as áreas de atuação e também por…",
+      "source": "",
+      "added_at": "2026-08-13T22:59:23.191645",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQYzc0V3NkX2VZTjZkR1J2Q3JVVHVQMW1Da1dVWWFoTkFQOFd5b2tDMDhnbWlUREhPVkdvRURKV1hiQVJYMDhrUGRrOG1SWENyRDRsTjN0RWRlcnZGOUN6dzhxQkJocFg1cmd1djZvMTd1dXVDZ3RwX0FXU2pYUkpwUUR5czZmdGR6NzNHN2hvSjhDX293VU1ZbjY5Tl84WklCS2QzSU9yQUo5MlBaNk96Nmxwa2l6SUV6bXVVQ0VZNHFiOVRlaGNuOU1yWVhnNVVERHVhbmZXZXNhRUpBMGdUS0dsb3EwRzdXY0VOTndjRUUwanI1M1REeHJCMXc0a3pQN01paXU4OVRxOVB0Z0psMUFsU3gwUnZxMTJmRXNBazJTNERfR1FkVlU0TURGQzM2eUhpRWJwOEx0YllUdTI4em1DQll6N211c2tTcjNoalRFcEdoUTZnN0RDQkE3R3pHMUJEelpCQmNYekZNM1NoNGxjMzZpdVM4c0JnVw?oc=5": {
+      "title": "\"energia elétrica\" - Folha de S.Paulo - search.folha.uol.com.br",
+      "summary": "OFERTA ESPECIAL FOLHA Notícias em tempo real com acesso ilimitado Apenas R$ 1,90 no 1º mês + 6 meses de R$ 9,90/mês ASSINE A FOLHA cancele quando quiser NEWSLETTER",
+      "source": "",
+      "added_at": "2026-08-13T22:59:23.192050",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYkJOQlhaNHo2aU03X2Z1VUFYeTNobWU3V25QTzNENGdqOHZSNHQwb3BFYW9lU3lIRG9FOFEyRW9tTkxwTnBiSHUwLWVIczY5VWROX2JOcVplNnkyRklZWWFKRjJyU25HcW1uVGozb3dMM25JYnEzcFFsN0JfMk5mVmRUUEFGeG1Xd2hWbGt1U2dYTkFVZmtrVl9oV0dNb0RmMkttOG5TajZtSDg0V0ZOcGVBSHM1SF9xZWpmcFVtZHc3Uld3ZE9od1ViTmo?oc=5": {
+      "title": "Alunorte vai importar GNL após problema com a New Fortress afetar produção - MegaWhat",
+      "summary": "A Alunorte, da Norsk Hydro, iniciou a retomada da capacidade plena de produção de alumina após obter autorização para importar diretamente GNL e fechar um acordo temporário de acesso ao terminal de Barcarena. A solução ocorre dias depois de a refinaria reduzir sua produção à metade por problemas no fornecimento de gás pela Celba, da New Fortress Energy (NFE), com impacto financeiro estimado em…",
+      "source": "",
+      "added_at": "2026-08-13T22:59:35.469445",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
