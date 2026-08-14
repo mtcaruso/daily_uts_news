@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-14T11:35:48.399199-03:00",
+  "last_updated": "2026-08-14T12:27:26.009851-03:00",
   "items": [
+    {
+      "cnpj_short": "02030-3",
+      "empresa_nome": "CEMIG DISTRIBUICAO S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Conselho de Administração – Ata - 16ª Emissão (Cemig D)Ata",
+      "data_referencia": "20260813 13/08/2026 10:00",
+      "data_entrega": "20260814 14/08/2026 12:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Conselho de Administração – Ata - 16ª Emissão (Cemig D)",
+      "protocolo": "1557680",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557680",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "20303",
+      "first_seen": "2026-08-14T15:27:12.062178"
+    },
     {
       "cnpj_short": "01987-9",
       "empresa_nome": "LIGHT S.A.",
