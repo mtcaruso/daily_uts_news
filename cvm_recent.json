@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T20:35:38.293450-03:00",
+  "last_updated": "2026-08-14T20:57:04.790990-03:00",
   "items": [
     {
       "cnpj_short": "02032-0",
@@ -6174,78 +6174,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-07-16T12:19:57.439638"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "1ª Aditamento à Escritura de Emissão - 10ª Emissão de Debêntures -",
-      "data_referencia": "20260715 15/07/2026",
-      "data_entrega": "20260715 15/07/2026 20:15",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1ª Aditamento à Escritura de Emissão - 10ª Emissão de Debêntures",
-      "protocolo": "1545299",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545299",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-15T23:38:15.663978"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "ATUALIZAÇÃO DO REGIMENTO INTERNO DA DIRETORIA DA COPEL (HOLDING) E DAS SUBSIDIÁRIAS INTEGRAIS; POLÍTICA DE DIVIDENDOSAta",
-      "data_referencia": "20260715 15/07/2026 08:00",
-      "data_entrega": "20260715 15/07/2026 20:13",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "ATUALIZAÇÃO DO REGIMENTO INTERNO DA DIRETORIA DA COPEL (HOLDING) E DAS SUBSIDIÁRIAS INTEGRAIS; POLÍTICA DE DIVIDENDOS",
-      "protocolo": "1545298",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545298",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-07-15T23:38:22.458852"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Comunicado de Bookbuilding - 10ª Emissão de Debêntures -",
-      "data_referencia": "20260715 15/07/2026",
-      "data_entrega": "20260715 15/07/2026 20:12",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicado de Bookbuilding - 10ª Emissão de Debêntures",
-      "protocolo": "1545297",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545297",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-15T23:38:15.663967"
-    },
-    {
-      "cnpj_short": "02149-0",
-      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20260715 15/07/2026",
-      "data_entrega": "20260715 15/07/2026 20:02",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1545295",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545295",
-      "empresa_label": "Alupar",
-      "codigo_cvm": "21490",
-      "first_seen": "2026-07-15T23:38:32.684304"
     }
   ]
 }
