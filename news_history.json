@@ -1,76 +1,6 @@
 {
-  "last_updated": "2026-08-14T21:37:21.290378",
+  "last_updated": "2026-08-14T21:58:58.734715",
   "items": {
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSklvMjVna3ZYTnJiV3M4Z0tCd0tKMWtiZ0FfdmxIUWw2RUVqWGdkMlN1S3VLS2hMZkNrY29WZFdPNkVqbTA5cW1LZ0Z1VjM4MXduVlIxT2Z3Q1VOWDJxM1JhazVEaE9TMnpBTW9tUG1JcFhLaGRidkJNSnp6SDl6cF9vS3RMeVJrdUV2T3h6QWY4cElGR3pCeg?oc=5": {
-      "title": "Light ainda tem 80 mil unidades sem energia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T21:45:47.746898",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2RjNW1TWncxSzkxNGlMVjlOTzBPZWFtMktjdEpnZW5xT3ByOWFJZTRzVUFJRUZybFFLQm1pSnFrSGpaWHRrRFlWZzlwMTdwbl8yNnFVRTcwRURtLWQ0am5rUVVad1BUbjdIWldYWl8xN2xzUlI0dThTTmNYWnA4ajN6TDlzd1B2VlZEc3dObkdMdWtyVzJmWlNpMUxwRktROHY3QzQ5eTlyNEVUbG92Y093SFlHdWJNVllERlZfbS1tZw?oc=5": {
-      "title": "Firjan cobra solução para impasse no mercado de gás do RJ - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T21:45:49.606338",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVF9ocnEwNHc4MzFlc2o4cjJtSXNrc3hieU1Sakl2TmNiZTB0YmVQT2N0UTlWOHN1eVNMaHo5NEdnRTU2ZWVLVHRzeTZieTk5YW5rX2xaaXJ6SHg0QWJiUlQ3SFhyVnZJdEtLVUVILWdrMmdrMkVsUkc2MFl2NXQyam5EMjZqWnA0RjAyLVFWM3FlNTByN2VFdXJ1RjYxTUNYUzhkMXNBcGY4clA1d2xqQmFtZFRaMFNH?oc=5": {
-      "title": "Diamante Geração avança nos estudos para conversão de Jorge Lacerda - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T21:45:51.485501",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbk5ycXM3Y3lrY3pSc2FpUmhDN2pIRThGc2ZHdEpRd0tsQVZ4MHBOSWFEUmxpN0cyWjVxZTA3UmhYYjJrbHRYTjJ4blpuTElIQTRSaFVtZ0QtczFqQnR2THUzZ21tVFJ4bnEwWlJhVC1pWXV5M1NRVUlLY1ZVRnhMQUgyTlBueDhMbjEySkV6ZUtwdlBxU3lKTzJJQU9MNFc0Nm9TTzE3Z3hoUzJBMTFiOXE1VGY4MkJEbWhhUjE2bFd3b0ZBUUwyTzh5cENfb3fSAd4BQVVfeXFMT0I3emtEQVhJSjVJYThydl9KNTJEQ3RWTkt5Y1FoR0kzcXM0UWxnYXI1ZXpGUEdsTlctN1Z5bXlJbnVlblRFdXVrS3dEbExhYVpodXJvQjdxT25NYzdLalJGd2FxWlpkTEJuVVZJd3F1eGNhYk5Dd2dJS2NlRkhLeXBNWXVFR0NHbTZVd2RIWC1oN2hHZmZqNHNkbmN5dlQ0ZVFaU3RwR0NmRmxxQjVKbWcyN19xUG1SSlVtYUk5U083dEpYaUIzM1NJRnJZZmNhcHZmbkJobXFtVHJvY0R3?oc=5": {
-      "title": "Aneel mantém bandeira amarela e conta de luz segue com taxa adicional em agosto - Valor Econômico",
-      "summary": "Aneel mantém bandeira amarela e conta de luz segue com taxa adicional em agosto Em nota, a Aneel afirmou que a sinalização reflete condições menos favoráveis de geração de energia no país em razão do período seco A Agência Nacional de Energia Elétrica (Aneel) informou nesta sexta-feira (31) que vai manter a bandeira amarela em vigor no mês de agosto. Com isso, as contas de luz seguem com taxa…",
-      "source": "",
-      "added_at": "2026-07-31T21:46:56.873363",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFZDdnNncnQ1QjhPR1VLQ2ZSQXNSb1RPdFNYMUswVXBzVnpIX3lPWDNUS2dTQ0NnTXJfVmxwT3lXbUZST0RTbnFENENnSEdSMFZCcDVmMEg5dzRtS2Z4b3VBc21TUG9EbHVRNlhJSXlVUmx1dDhhVm03UHB0RVRqTVByWFo4bWlWQkczNFI3czlVa1lJQ2s4dTl3?oc=5": {
-      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - estadao.com.br",
-      "summary": "A **Aneel** manteve a bandeira tarifária amarela para agosto, o que representa um custo extra de **R$ 1,885** a cada 100 kWh para os consumidores. A perspectiva é de bandeiras mais caras no futuro devido ao El Niño e ao aumento do Preço de Liquidação de Diferenças (PLD).",
-      "source": "",
-      "added_at": "2026-07-31T21:46:56.873547"
-    },
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFdGQng3Qk5GbG41Y0M4SkRGVEd5SWVFb0g4bmlwZFdfVmxTc1JzalVCZ1JjYm9FNVlhS2dmbmo5cEtKc3ZWbDdoOTZzQ0JHZ29kYWw4SlpqS3BqdHZBT2RWa2taTUJxdzlHbEdHNjlMT1hjN0w5bFpXQzlJSzlMbXJjM2MzaGdLWXN3WGtWc9IBlAFBVV95cUxOOWpPMTZlcUN1ckFfZGp6eVNVdUs0LWRjMlVfWFVzUVl3Y0ZpOXFGZkdjR3pIMGZKUFdybzlvN1FCc21fVWJQa1kxTkhhZks0bFpKcUxsbG00WVR6OVdQeUY0SjZqQUgwbHg5TktFVU1WdS1naV9qWEdQLVZITml6N2lRZmQyRmcyRklOMGZoZlFHbmpZ?oc=5": {
-      "title": "Conta de luz: Aneel mantém em agosto bandeira amarela, com custo extra para o consumidor - estadao.com.br",
-      "summary": "Gerando resumo BRASÍLIA - A Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira, 31, a bandeira tarifária amarela para o mês de agosto, mantendo o mesmo patamar verificado desde maio de 2026. Nesse nível, os consumidores de energia elétrica continuarão com um custo adicional de R$ 1,885 a cada 100 kWh consumidos.",
-      "source": "",
-      "added_at": "2026-07-31T21:46:56.873688",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQy1XNThBVExhY0hLLU1TTDBxZktGSVdaaEU1T21HV3JJeW9IVTF1dmJ6d2d4X01hbUh1VFRCdVc0eTdqa0tDUzlHNGpBU0YwZUQzbGdJa0t6TkFBcEdhM0hSejd3OVZUNkk2aWw3aFRfR05mQUZwX1M1RUdxNjQwUGkwZGlIb2s?oc=5": {
-      "title": "ANEEL mantém bandeira tarifária amarela em agosto - Agência iNFRA",
-      "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) manteve a bandeira tarifária amarela em agosto de 2026, repetindo o cenário de maio, junho e julho. De acordo com a agência, a condição reflete o período seco, com níveis mais baixos dos reservatórios das hidrelétricas e maior necessidade de acionamento de usinas termelétricas, de custo mais elevado.",
-      "source": "",
-      "added_at": "2026-07-31T21:47:10.028119",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXR3MWNyRjhxQ2tyemtQY1Z3Z2NrTVR3SnhQbFUyb0RFZ3hkSkJtX2Q3NkkwaGcxR21hQ3NMb21Yemx6ajBXVTYtOF9SMDA5NHd0NWdadGl4SjJudWVlU2VocnVZRm1vSTlldG91bmlGbUFNSDcxU2t0R0tjMF9RSTVCU1NERlpfVWtyX2REMEM4MUdMWkE?oc=5": {
-      "title": "MME: usinas térmicas não poderão participar de leilões de gás - Agência iNFRA",
-      "summary": "da Agência iNFRA O MME (Ministério de Minas e Energia) esclareceu nesta sexta-feira (31) que usinas termelétricas que geram energia para o SIN (Sistema Interligado Nacional) não poderão participar dos leilões de gás da União. A pasta destacou por meio de nota que os certames se destinam à indústria, que poderá contratar o gás e utilizá-lo, por exemplo, para geração térmica própria, por meio da…",
-      "source": "",
-      "added_at": "2026-07-31T21:47:10.028232",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdF9HWHRiSXR0aGdHX0kyZGlPeTlnaG93ck91NkY2eDlKbHYzb1FheTN6VE8ta1dzQXUwNVFwaEJ4amtWckwxN08tR2E4MXVXY1oxa3Q2enNwanJDUlNWbEFiR3hFVVM2Z29Ncy02aGl4WERqU082Yllwc3VYMGJOVUxQNE05LThfWDAxcTFQc19CbVZMNTRNUA?oc=5": {
-      "title": "Conta de luz seguirá com bandeira amarela em agosto - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) manteve a bandeira tarifária amarela para o mês de agosto de 2026. Com isso, as contas de energia elétrica continuam com acréscimo de R$ 1,885 a cada 100 kWh consumidos.",
-      "source": "",
-      "added_at": "2026-07-31T21:47:10.028333",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGR5c1JNSTd0Sm1kZTkzTExnblhmRTNQQXMtdUVOVzZKWDRXLXF1NUpTN055NENSYTV5b1BjNWdqMzdUMmk0c1FTaXBWdjZyMlRYc0pfanlRWWNTejY3Uzl3clNWbmJsSVJ5SG5aQmQxNXZYWDJ2ZDB6VzUwZmZqdE9pcXVXRjh5YTU4a0ViaGJsN2lMRWRIbno4WGx5bHFLbEZ3Umh2OA?oc=5": {
       "title": "Reservatórios do SIN devem terminar agosto acima de 60% - canalenergia.com.br",
       "summary": null,
@@ -4501,7 +4431,7 @@
       "source": "",
       "added_at": "2026-08-14T14:38:58.519473",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjhtTFJtcURvdFJkdzl4TnF2YjlJNnVfZTdmQzV0X2tuY21SSDlhZzRpM2xBSTFRUURHVGtLTkZnVEQwX2hkQ2tlNjNiWkRyQ2pTWF9RMVFrOUJMd0JXRVE1aXF6Z2ZZbGsxWWpBZTUxcUplbHBQV016WjBDNkhkSkZSUXdsaGJLeTBIRHp2Z3ZwSWo0?oc=5": {
       "title": "Cemig tem lucro de R$ 945 milhões no 2T26 - CanalEnergia",
@@ -4509,7 +4439,7 @@
       "source": "",
       "added_at": "2026-08-14T14:39:00.602300",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJuRVpuZ0gtZUlad3RKc1VNM0stLW9iWFRQbGRhUlg4RzRRaVo0RjIwdjNobVVFRXZfNEVZcGdKa2E3UmVqQjh5ZENHanVHSFdjR1c5aXo5X2w5R18xOGM0TVpCUS11MGR3b3pfTEQ4V1daZ2NNVjRhdExQblBOejJUbUFQM0RmT25VdmN4d0YtOUtGUm5yN3VZdGkyWHRSQU9NSjZUWFlKZXg4RXpybXdjazBucXF1NjUyUFoyaVFXdDRjRGdET2x1VldoMU9sbHdoamt2LU9tX3hwTGfSAewBQVVfeXFMT0NCUTljRzJWNVRCVzhBTWxnTlJQVUdjYWFZVDVzWVNSbWg2TjhKZV9UNDdaMTdnUDJCbWpRc3BlNTR3WWFnVDlvMk92bjdCeDZpR1h4bVlCTEVqZkYzNnVoVm1PWDRsUDRYTkEwU2xUYmhlRDdqNmhEX1pVdlpoalJqTG9WbTlHT1VPNVpVaThFblJSSzhIeElxM0poaUMyNUNPT1owMS10MWl5Sml2LUJsUGpwNzRQTGM0YXlGaHBLSGk5TGpzNV91clFrcVZjakw0YVM2ckFEUTRGUzUyYi1UYURWcUNfT243NXA?oc=5": {
       "title": "CNPM recomenda que MME discuta aprimoramento das Taxas de Fiscalização de Recursos Minerais - Valor Econômico",
@@ -4541,7 +4471,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:45.881090",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTFzcUlWQWxDeHFTUjB1Z0k2UzE3OXh1U2lpOE1qLThZTW5JM25nNkt2UVVoZVFMeTlPUU94dng0d0xvb2ZQX3hBbTBYWnpCamZFTkMxNHM5RjMzbjlVSDJWaHNRaC01WG9FcXJzNXZQcVROMXFLRVBMZ2NoSDN2WW9FY0p4dTdZQ1d4UWUtMkhrT1VTYU9TTWNxVmVWcXRyXzlDbllnRm8xMEtGMFVJdkF3?oc=5": {
       "title": "‘Jabutis’ do PL 5.017 deixam tarifa 5% mais caras, diz TR Soluções - CanalEnergia",
@@ -4549,7 +4479,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:47.597643",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFV6QXZyQ2xQVXZkZ0Zhazg0ellQa3ZWWW1sQkI1NmFfdmRaMkhudUozXzI0czA4XzBPTE1uV0lhcy1mekZHWEw2dmxMU1U5WDRDbWUxc0pXVG1TOGpjVHBJZWNFODZ2XzZLTGZ2aFlXdjY0U1VoSjdpNGFnQUV0b3YxRGpwOGhrUkh2a2h3NE5nUDh4MmdPZU1mZTJrSGtxb2RiZHJhUQ?oc=5": {
       "title": "CPFL deve participar de leilão de baterias em dezembro - CanalEnergia",
@@ -4557,7 +4487,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:49.226290",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWFuNnUwSXB3c1o0Q3FuU3gzRXlhY3ZHakRQVnIxVjlJX0NCZWVZRGFHcHRQeXJLZlB4WVE2YlNWLVUtTDFPbVdVcmZwLWFrb2pya2dwWkw3N1ZGc2ZnNGlfaU9rcUNqU0Y5bS1MeDJRS2dvM0ZiXzdwU3VybW5WRmVveHZDVnhoWV9JTHZPR1F4R3p3TTdBWF9BVXVxRWJ3Z0ZzdTNn?oc=5": {
       "title": "Aneel convoca Ludimila Silva como diretora substituta - CanalEnergia",
@@ -4565,7 +4495,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:50.912191",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHdDdDhtQ09VSVFWSDZSQjhqZVZNeHZTRThiQzYyOGxyUzN2Um44RUpIYXktZlBLWDE2NWtKTERkbjVBVmV0aUZlRTNvdXJoaVRTYzFmZll5MHFKWmVFdENjaVhwWFpvbVBRbERoMnZWa1NUVVRVWEYzMVpETkxfSW5fbUZ5NHpDdTg3V0VfZlpIQUNw?oc=5": {
       "title": "EDP busca startups para modernizar redes - CanalEnergia",
@@ -4573,7 +4503,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:52.544714",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQmtMS1BUdEpkaGpHT3V2Z0Ric3ZYUF9aVGxYWmtZNU02Yk1yYVBEZi1NVTh5NDZUc0RkWW8tQnZvX3ZPY2JncXVzcld0dG5vQm5YeTVONHNqX3RNZlBrQmVrZ0E3cHczUnZSMDlHMi13b3B2UlFsUkxOdWN3NzQ?oc=5": {
       "title": "Área técnica da Aneel diz que não avalia se troca da Enel em SP beneficiaria consumidores - UOL",
@@ -4627,15 +4557,15 @@
       "source": "",
       "added_at": "2026-08-14T19:12:39.688936",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmVEMmJ0WWtTT2R5RlA3Z25Ga3lfTVlzdy1jU0ZXa214SktvZ3RfZnFUMGR3dUFDZ0RsUEI1NVB1Sy1ES3JCYk8tbzdBZ3N2RmZDaXFtQUlOUVF3LVptQXJaYm5WWnBma2lFSkVTWEExMUp4bGxOQ0lsOV9Ra2tOazlGSmFYWTVMUXBsYkl3V2UycmhHTkQ2UWx3c1BkbmMzQUZINFVoSEZiUQ?oc=5": {
-      "title": "Região Sul conta com 84,8% da capacidade - CanalEnergia",
+      "title": "Reservatórios da região Sul operam com 84,8% da capacidade - CanalEnergia",
       "summary": null,
       "source": "",
       "added_at": "2026-08-14T19:12:41.392494",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMExEcnZNRWx1RWNjY3lfUU85QlhtZE1wS0ZPVjVZSUtQYlVvOVlZUnBfSTZLcjEwOUdHbk9EOE9iVnhDVy0xdzVTMTA3NnhhWVAweTBMQXBfS0hwMTZFMkVQRF95ckZZS1g3ZjQtRmJlSXhzWnB3VW1pTnJNR0RQemo3UlQwWUl0a2NaRl85LXJ1M3AxREFlRW1UZ3RFdmpiVFlsRE9oaHJwNWMySi1ON1JJS01yUEw1NUljQjg2eHRPdjFQMmFQN2EwLV9kSmJDcmFuUGpURjhOaENFNEpGd2FsX1Jab1QzRzU2TDZQb18xU1FaOGh6YklsZUxWQmlOdXphMUZqLTdOaEZ3bjhMV01FZGFZN0E?oc=5": {
       "title": "Expansão via franquias projeta Fredy da Silva Gonçalves Bento entre os principais nomes da mobilidade elétrica leve - Estadão Blue Studio",
@@ -4663,7 +4593,7 @@
       "source": "",
       "added_at": "2026-08-14T20:07:54.414411",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFkWjFESi1vQ0dFRzRZeWlGRG9feTdZb2tQTmJjSnctOFNZMGpDN2xrR1R6SGVINTcyeHgzdFdpTThvVE5xQkZQQXJSTVRyekMyS3V2c1BmNEtGejBpRWNJdVl0ZTF4Q1RVVnJTNDN3R1hMMG8ybC1TM2xrNEhZY04xUDlmaHROTzhhR3JpYzFOcDFpMTNCdmtmNEVSdGpJYUZqa1NlN2Ixc0dZOVFr?oc=5": {
       "title": "Jabutis do PL 5.017/2019 podem elevar tarifa residencial em 5% - MegaWhat",
@@ -4687,7 +4617,7 @@
       "source": "",
       "added_at": "2026-08-14T20:45:09.168285",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjdrNWpxYllmQzRzb3plRzRvWlF0OWJHY1NIanZRajhWLUtoZklUSnY1aVBQaGgtcEVjbjlPVzVLWXh6TmpxcXhNbEJnanZpbWJyNUlaZVdfUTJRbzQ0T01GOHFDaFBWVXRnWEpKdjE2Mmp0dmlPVUgzbjFFS3ZWY0piWHdvdzNvX2o2ZDhlSQ?oc=5": {
       "title": "Axia aporta R$ 1,5 bi na Eletronuclear - CanalEnergia",
@@ -4695,7 +4625,7 @@
       "source": "",
       "added_at": "2026-08-14T20:45:10.840027",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BVaTcyZEQ1aE03MWtoLU5hWVVfc3Y5R1ZTZk12bExoUjFrVllOSHVkVmxWakRkMDhreXltNERzQ0k2ZkZXMFM3TDV3bm9lckRKdmFIQ1E1UDhoU1FrOHhrRV9NWG5TLTBVc2xZeDJZRi1VTXFGNGVuUUJnaEFwNVJsYlJ2SVk5el95b0lOWFdiMmN0OHJ3OWtHTUJrcGFmaUE?oc=5": {
       "title": "Copasa renovou contrato com 43 municípios, dos 636 onde opera, até 2073 - Agência iNFRA",
@@ -4708,6 +4638,22 @@
       "summary": null,
       "source": "",
       "added_at": "2026-08-14T21:36:57.940359",
+      "error": "no_article",
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEU2LUdJRFZZRVVKdnFKQTZIX3l2dTFndzV0RXBUX2M0RmlaOE1LeGlhQUJzNVYtbTNnOG5DeGFpaWpYUHYycjVmeFh4bkNBNTJzN0J2bmdLbWRqb0dVLTFoY0tVeDRHWUtXWndseGpQWkZETldvWWZNZkRpTVktOHo5Sm1Fb2NYNnRIOGhfOTJoU1I1b2NZVXctb0JueTN5Rk9Lei1nbFdNNmRNcE95SnE4YkN6Z2pnOF9hc01iSy0?oc=5": {
+      "title": "Petrobras confirma que perfuração na Margem Equatorial encontrou óleo - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-14T21:58:31.481240",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejltcHpkR01EYnQ4RnpBVXVQNzhMVWFLV1AtUGo0V3UtQ2NycHZhbXd1QlFGWW44LXU5dTJLQXZJQmVqcDM0S1hnSUJKb2JfNkprRWVuQjRfOGF1MmdwYml2VDFPYjNJRXRpRVRGeUpBZVBWa3VLR1J2cTdIZW5OVkdrMVh4UkxRQl9TZzh1Q1U0Q29WZHR5aG5hcFRHUFlwU3RVN3F2dURpNVk?oc=5": {
+      "title": "ONS: chance média de acionar Plano de Gestão de Excedentes - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-14T21:58:33.585340",
       "error": "no_article",
       "attempts": 1
     }
