@@ -1,124 +1,6 @@
 {
-  "last_updated": "2026-08-14T20:08:49.312363",
+  "last_updated": "2026-08-14T20:45:54.323682",
   "items": {
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wQjdLZXVuSXVzWkdwcWhteVkyRG9CdEdmOFM2czRHUUFXMFRYRGVYaDRsVVMwa0kwSjNLZVE1S1lHMy1SOEJaT2c0WnA1NURqLWxsX3ZycjM?oc=5": {
-      "title": "Podcasts - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T20:35:51.181239",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUHlkQjZRU254akpma1NyTVpHTmMtbzJjZ2dmUGN5LWJtRXR2RFp6S1owTGhES2FRN3VjdzAyb0Z2RmN0N3E1cGZSelZrQzNRSUhoRHRiZGFwZERFTl9aS0NoQlpVV1BPLTVlNVQyTmZfQlBNODY2LWs0VVhLRG9pbmUxb3NTSHJuR3FGQVNKM2E4d3g0NDlrQWJPSGdzVlBoWWFoaUphejNiUDNPSFpySXNKTmlxQjdXZGJCbW9pa1JzdjVDdlZ5aVpSVmNBVFBKOEh4SmFUSnpkZnBEVDBNUlRSbzJmLU52ZWhZbnRnMk5ibGNlOGotLWxyaGxkNXVxUkJQSTcyMXJnSlFFVVE?oc=5": {
-      "title": "StarCharge é eleita a marca líder em microrredes na Cúpula da Indústria de Armazenamento de Energia GGII de 2026. - Estadão Blue Studio",
-      "summary": "StarCharge é eleita a marca líder em microrredes na Cúpula da Indústria de Armazenamento de Energia GGII de 2026. AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 31 de julho de 2026 Tecnologia proprietária e mais de 300 implantações globais consolidam a crescente liderança da empresa no segmento de microrredes.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:33.150523",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmxvcjU2Z1E5X0NMNHBHRXAtd3lLUTNDcG05bjBHWHVfZ0RQRmhJYjg5WDJPQm5wbV9HdDk1N3pMbHVxc0x3TUNHM2tRRllhNnEza1l5V3pvUU9Da2t2QWkyLUJwaVdSTUY1SFoyU1ZNQ1ZfV0dqQnBiRXVjTndJM3lMdkc4SWQtYkRqM3Z5ZGhqWTVLOWtPcFRzaTlQSjJQY2kySU82OWdua1BySUE?oc=5": {
-      "title": "MME esclarece que leilões de gás da União não atenderão termelétricas - MegaWhat",
-      "summary": "Após indicar que os leilões de gás natural da União previstos para 2026 e 2030 poderiam atender termelétricas do setor elétrico, o Ministério de Minas e Energia (MME) esclareceu nesta sexta-feira, 31 de julho, que a resolução aprovada pelo Conselho Nacional de Política Energética (CNPE) não contempla o fornecimento do insumo para usinas destinadas ao Sistema Interligado Nacional (SIN) ou aos…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:33.150671",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3AzOEs1TE5RQWRScHoycUE4dFlINDR1TlBIY1MwSHlMVldjUUhKVHZvckQtYXFjRENYNml3dHNYMElVWUtsSXdvQ1ZydUNXQWZGbGlvU01NZmhsTXFEYUlzN0VieWp6bG1yN1VHRE1Cdjh4aFoxalZ4TDRLWHlDVHhUakdUWUlZZHNWYlpaaHZsWjI3ckx0elIwcEFWV0xURUFER3dHRkc0WU1qeHlrVkhLMm5JWDBQQTFGRUtvQ3V6UnZuTklEUFowTFpodFlKSUY4SXE3SQ?oc=5": {
-      "title": "MME pede fiscalização da Aneel após apagão que atingiu mais de 1 milhão de consumidores em SP e RJ - MegaWhat",
-      "summary": "O Ministério de Minas e Energia (MME) encaminhou um ofício à Agência Nacional de Energia Elétrica (Aneel) recomendando o acompanhamento e a realização de uma fiscalização específica sobre a interrupção no fornecimento de energia elétrica provocada pelos eventos climáticos registrados em 29 de julho nos estados de São Paulo e do Rio de Janeiro. Segundo o documento, o apagão afetou mais de 1 milhão…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:33.150816",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONngyUzJJWXhQaG9BZEVuRFZENW5WUkRGdlNTcDN1SV9sTFY1ZlJDaVFzakVEaDFtSzRIejNLQmx2aUowYkFHQVlmanlTMGR5elcyY0FUNEdPWDJoMEJ4blRtTEJwTURjdjc5YzVMUG1BWXY1bko4Nnl3YVhPeVNnMElSVHV3bmlJa1Zwc3hub0FHNVNBN05naXBHMmoxa3BIbVNhTDZvVFB5MDIzWXdMNWZWUFpLWUs1cGxV?oc=5": {
-      "title": "Tarifa de energia pode subir mais em 2027 com impacto do ‘super El Niño’ - MegaWhat",
-      "summary": "A ocorrência de um “super El Niño” pode ampliar as variações das tarifas dos consumidores de baixa tensão de todo o país em uma média de 2,1 pontos percentuais em 2027, conforme estudo desenvolvido pela Ampere Consultoria e TR Soluções. Assim, considerando a média nacional de 2,1 pontos percentuais (p.p.), caso a tarifa de uma distribuidora fosse subir 5% sem o El Niño, com o fenômeno poderá…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:33.151004",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHJXQ3oyY1F4LVc3YkZ5VlZPUmFNeUNSNm5PZlJtZG1CYU5pUG5ONFhxQnE0bUdCb0lwMXhtUGlyZ2dqT25xQkJkUEdDbG9EeVVMcTR3VDh1ZlNlMnZYdTc4QnZqOURwUTZYSlRnOTFVUEdOaVJzWWFpT2ppbjZDRm11eHRxRUVVMnNqMWVvY2FHM2hYMTduWXFyUGxzUUFTUURpN1FLVTRJR3ZwUkliX3dmRjNiaGJXYU9CNGpYUTBJdi1xclE?oc=5": {
-      "title": "Leilão de baterias abre caminho para uma transição energética mais eficiente - MegaWhat",
-      "summary": "Por: Mauricio Gonçalves* O avanço das fontes de energias renováveis colocou o Brasil em uma posição estratégica. Nos últimos anos, o país ampliou a geração solar e eólica, especialmente no Nordeste, consolidando uma matriz cada vez mais limpa, diferente de outros países, que dependem ativamente de fontes poluentes.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:46.459806",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmJZNWl6XzNDa1VWT0s2QVp5dUNuZ3BxVDRJcGd6ckx5Q2szcGI5VU0wMUNVSFBMQW1iM0g2YzBfLThlaWJxSUR3VmNKN1pYRWFMZXo2WXlGRlRZQzBxc1RZN3hkeVVBZnNhU2VuTGJkUEltcEt1am5CZjBmTHhhSWFpLW1CdVBuVFZNempoRXlQaTE4bjBCSE5kM1VNV3dzVjJnZF9JbHNoQUpFM3BJMmlZNTVKcGN1Y2EtT29Fbw?oc=5": {
-      "title": "EPE estende prazo para leilão de baterias após instabilidade em sistema - MegaWhat",
-      "summary": "A Empresa de Pesquisa Energética (EPE) prorrogou até as 18h desta sexta-feira, 31 de julho, o prazo para cadastramento e envio dos documentos de habilitação técnica dos projetos inscritos no leilão de reserva de capacidade na forma de potência (LRCap) para sistemas de armazenamento em baterias. O prazo original terminava às 12h.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:46.459910",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUZQOHlMYzZuc0dJQmxSOGE5MWtGQnJWV283ZGpzWmxTckJWYjliSk4wY0JSQ2lnQk1TdTBaSFF4QUFNazN1OUs3UFhxY2N4RE92bUVTcnU3clJhY2lmZy1zTzZoR2tDa1FqQUF4c2FzZVdKYjNfaXU1WVpudlpqenBqYzJkWEhUcGRlZnp0WGJPRmhkTjZaaEJMN3RjVndFb1lmaUNlRVVycjA?oc=5": {
-      "title": "Pacto Energia pede revogação de 890 MW em projetos solares - MegaWhat",
-      "summary": "A Pacto Energia solicitou à Agência Nacional de Energia Elétrica (Aneel) a revogação de registros de requerimento de outorga (DRO) referentes a 888,48 MW em usinas solares. As revogações, publicadas no Diário Oficial da União desta sexta-feira, 31 de julho, compreendem as UFVs Solaris 23, 77 a 101, 166 a 198, 201 a 253, 273 a 281, localizadas nos estados do Paraná, Piauí, Minas Gerais, São Paulo…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:46.459990",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGkyR3FHbXBjOHBENFdPVU9jWUF1NGdGc3JOdklQQVp3Y1Fxc294OEZHdy0tWmZodS14T3d1TkViSHZsUDBsbUVUd1N2UlNHX0ptMGdxcjY2NktfS09sMXpMcmtRSEJ2aGNxM2hOVjBXOXJ1Y1c1dGU0V1FBOFhvQXFTelRSdVBUTkVlLXVhcE1wNDV4MUZrN2M1MnNVQW8?oc=5": {
-      "title": "Tarifa das usinas cotistas sobe 20% após homologação pela Aneel - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) homologou, por meio do Despacho nº 2.744, as receitas anuais de geração (RAG) de 59 usinas hidrelétricas enquadradas no regime de cotas da Lei nº 12.783/2013, com vigência entre julho de 2026 e junho de 2027. O principal fator que influenciou o resultado foi a conclusão da descotização de 13 usinas da Axia Energia — Boa Esperança, Coaracy Nunes…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:46.460077",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQkhXd3ZWdUc2Y3FKQVJoa19oOXhSenA5aHJkTnRwOVBtVW9sOFo3aDJsLVBraDZ1dGpYWFpYWDE1X1hoV3dIVEhuUElLVS0xdXFLQWhmX1RTc3RxXzY4VkEwa0h1Sm9nSXRrcGZLYmo5ZV9hdEVOUWdDSWd1V2VjU0NZZy0xczAwVEc5TjgxdV9saUsybVZLVjhqR2U1Unc1aThPUi1wdVVuUFd5VzMxTmZ2UVFfQXJqQl9IVzAwcUdXM0RlRkUxbEdVWGFmTEUxMl9OeFNn?oc=5": {
-      "title": "TotalEnergies e ExxonMobil vencem leilão de óleo da PPSA; lote de Bacalhau fica sem ofertas - MegaWhat",
-      "summary": "A TotalEnergies e a ExxonMobil foram as vencedoras do vencedoras do 7º leilão spot da Pré-Sal Petróleo SA (PPSA), estatal que gerencia pela União os contratos no pré-sal. O certame foi realizado na última quarta-feira, 29 de julho, e comercializou 1,9 milhão de barris de óleo da União em dois lotes.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:46.460130",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVU5NzFMR1o3QllyYVo0M1FUelI1eGhRSm96bld4Y0JkV1JfLU5OMzVibXY2Z3FNUHBuMWNrcUhkb2VJcEthZVczZlRLVXhvX244RWFoam8yUGJNQkJIcmhPTWF6THR6NWt0eTdNcXhsSVZDYm5Sb3VGNXljeWxLZzdUM1Z2M2ptS3BZelE2MVp0WDE5dzl4eEpxaHktU0VqOUZlMjBKbDRldw?oc=5": {
-      "title": "ONS adia para outubro novas séries de vazões usadas no PMO - MegaWhat",
-      "summary": "O Operador Nacional do Sistema Elétrico (ONS) e a Câmara de Comercialização de Energia Elétrica (CCEE) adiaram do Programa Mensal de Operação Energética (PMO) de setembro para outubro de 2026 a entrada oficial das novas séries de vazões naturais, dos dados cadastrais atualizados e da recalibração do modelo hidrológico SMAP/ONS. As informações foram divulgadas na quinta-feira, 30 de julho, durante…",
-      "source": "",
-      "added_at": "2026-07-31T20:36:59.578006",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OdmdKYW1aU1BfeEJaemg1SXl2OGY0MFQ0S29HOTVGX1pXSkFUaE5aY1loZ2Zrd3M5Y0pSeEh3M3ppbldGVjhGMjRnM0hDU3pBVXlZ?oc=5": {
-      "title": "Tag MP 1.363 - MegaWhat",
-      "summary": "O Governo Federal liberou um crédito extraordinário de **R$ 3,5 bilhões** para o Ministério de Minas e Energia (MME). Os recursos, via Medida Provisória (MP) n° 1.381, visam custear subvenções econômicas à produção e importação de combustíveis derivados de petróleo e óleo diesel.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:59.578077"
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEcwc09WcmpEOU51YlpQTVZHZ1FqSG11WG8xRmVRVVFVUlVHT1QtY1I1S2ZFTHNVY3hOVVhhLUhOdW9MbTBpODJuRjFsMmxOY3lRTmVQVFJaMXV4bWZfWEt3emNHTTN3Rm5Bam9TNmUtSEtwZW9mQzRmeFQtaTBUQ21FZGpBTk1HTkxVQ2s2LU5pOWZoN1I1RXNmRjdpd0ZxN2YwNHNVcWF4UXFuZnFOXw?oc=5": {
-      "title": "Governo libera mais R$ 3,5 bilhões para bancar subsídios a combustíveis - MegaWhat",
-      "summary": "O Governo Federal abriu crédito extraordinário de **R$ 3,47 bilhões** para o Ministério de Minas e Energia (MME), via MP n° 1.381, para subvenções de combustíveis. Cerca de **R$ 2,23 bilhões** vão para o diesel e **R$ 1,24 bilhão** para outros derivados de petróleo, com execução pela ANP.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:59.578181"
-    },
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYThkWmZLdmNUVVg3RFhlbG1xNTR6QUZwQUdtSGZDOGwxSlFKUlBQTWNodE96S18yZ2c1cVhiUW1KUlhhei1HMVpUSkNtWUU5bDRpTDRSb1p0Z2dpLThYMklLeFBuYW4teTNNQnpad3BPRHFWZTRUcnQxS2xoSFJIWWJxUkNHcXpraUM3WnoyQ1VuYm5wQS1KWVIyMVB1eldLZzdyaEc2eFJrcURVYTB3eDhRZ3hic2UzcHpOYkV1VXB6YmRGRjRIQjVjTVBXeHc2Uk5pVGE3RzRObW8?oc=5": {
-      "title": "🎙️Flexibilização de termelétricas e a promessa do governo para baixar os preços de gás - MegaWhat",
-      "summary": "A jornalista Camila Maia (MegaWhat) analisa a resolução do CNPE sobre a comercialização de gás da União e a promessa de redução de preços para o consumidor industrial. O episódio também aborda a negociação de flexibilização de termelétricas da **Eneva** no TCU e riscos para novos investimentos.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:59.578227"
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT190QkIwMi1BblZ4WTFUWERwT1d4MXVMVVVFV19jUjU1YmljX1lYdEpzT0tad0xhd0dVWjkxLWhoRGV1X2s5QzhjRmZ0RnpEX2FvRDhaTW5wRnhaRG01b0pSQUQ0ZUgzVE92Zk5oSlN3eVU1VXFkYzIxR0dPMVNodHY1cVBCTkpDRWYyVC10ME5DdUF1akI4Qk9SR1BjeWowNFlOd0pSQUdIWmZ5blNlLVpfMjVldnZWYk9LWG1iMmpxX3docElxQTBaRnVVQndYcGpoR0ZhMERvSVBjUkxLejlCcG9ibTg?oc=5": {
-      "title": "Mercado livre pode não baratear energia em 2028 se distorções não forem corrigidas, diz executivo – Edição do dia - MegaWhat",
-      "summary": "A abertura do mercado livre de energia para residências em 2028 pode não baratear contas de luz se distorções de preço não forem corrigidas, segundo Luiz Fernando Leone Vianna, vice-presidente do grupo **Delta**. O risco é de uma abertura apenas formal, sem benefícios reais para o consumidor.",
-      "source": "",
-      "added_at": "2026-07-31T20:36:59.578449"
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWs3Tm5OT3FkbDdqUExiN200TTRtWG84ak5OSUs4eFV5czNXR1lKRHBFUTR5bURUTFMxUEstVWEtZ01LQTJHT25nQkhRd0FfQ3BSSW04a2phTVJaRGJJVzdFT0JQU0JCRnMzbk1WZnJfeUh4c3JDTVNIWk1na3dMbkd6Xy15SWI2ekNrX2x2UTNybTlFWXRacWtaWXFIZ3NPdHIydzB6enlJVzdwa0xtSF9NWk9oOUtYTmNzdFZBYW9lcWR3TWVEMjY5cw?oc=5": {
-      "title": "Statkraft recorre de multas por apagão de 2023 e cita precedente da Aneel - MegaWhat",
-      "summary": "A **Statkraft** recorre de multas aplicadas pela **Aneel** a oito parques eólicos, questionando a falta de provas técnicas do **ONS** sobre sua participação no apagão de 15 de agosto de 2023.",
-      "source": "",
-      "added_at": "2026-07-31T20:37:09.529280"
-    },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSklvMjVna3ZYTnJiV3M4Z0tCd0tKMWtiZ0FfdmxIUWw2RUVqWGdkMlN1S3VLS2hMZkNrY29WZFdPNkVqbTA5cW1LZ0Z1VjM4MXduVlIxT2Z3Q1VOWDJxM1JhazVEaE9TMnpBTW9tUG1JcFhLaGRidkJNSnp6SDl6cF9vS3RMeVJrdUV2T3h6QWY4cElGR3pCeg?oc=5": {
       "title": "Light ainda tem 80 mil unidades sem energia - CanalEnergia",
       "summary": null,
@@ -4581,7 +4463,7 @@
       "source": "",
       "added_at": "2026-08-14T13:36:09.982472",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVczQm1JSWdjaGRfWFNFNW9tQ01LREozTkJ2NmtDNnZxOWRGcHZ4cGphNDhqX3NWTkNnT0NvYVJtdE5la1ZnSDhWcnpwSDgzY1ZCMEtsLWdYNjlvTXVZM2FwSEd3Rmx3TW9yOGxpQVdZMTVXdzY3RFJ1S0o1aW9xLU12Q2FrVGZhQTc1S3hYVWlYVks5TWdfNVBVN2lkWDJLeUY3NWprc3p0cTQ?oc=5": {
       "title": "Prejuízo da Light aumenta e vai a R$ 252 milhões no 2º Tri - CanalEnergia",
@@ -4589,7 +4471,7 @@
       "source": "",
       "added_at": "2026-08-14T13:36:11.804774",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V1OXlWcl9mZXFobFhtMGlkYUlIMVJMNURSZE1ncnEwS2Fudnd5RWJjTnVNR0pQWlRrZk5ZcUtsWlVGaDlHRVdVQUVXWnhXU294ekpwcVNkYWlNcG9QeXg5NlE1elo0U3FRMzBZaE5PaTJUR1BYYlctbnk2X2o5bGF0ZThGN0ZHSkNpRkE1MWYydVkxSXRmWWc3SnVsNHFIc1ZR?oc=5": {
       "title": "Lucro da CPFL Energia sobe 21,3% e vai a R$ 1,43 bilhão no segundo trimestre - CanalEnergia",
@@ -4597,7 +4479,7 @@
       "source": "",
       "added_at": "2026-08-14T13:36:13.661315",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzR6RG5qdm40Nm1QUk0wNjUyZUdKV0pEdmtrQUpJWE9ONjNYX1l2NHZvVlUya3FVVWJQNkxmSlNZYVU4MF8yVTZ1dnBoMnY0dGEtVnFqMWFSM2JPOXZOdl9ENGN4cXdVd1VoR3hOUFByMWYtamRLRXBFUk5McWpEN0RGTHc4S1VDUFBTUjFTRENFLUYzWmRqeElvbXB3M0RJaGpLYm5XbEVocktKWjEyNERMdG96TG9wS0xOQUNZNWNhUjdwRENFaw?oc=5": {
       "title": "Família cobra Enel por jovem que morreu ao pisar em fio em rua de São Paulo - Folha de S.Paulo",
@@ -4619,7 +4501,7 @@
       "source": "",
       "added_at": "2026-08-14T14:38:58.519473",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjhtTFJtcURvdFJkdzl4TnF2YjlJNnVfZTdmQzV0X2tuY21SSDlhZzRpM2xBSTFRUURHVGtLTkZnVEQwX2hkQ2tlNjNiWkRyQ2pTWF9RMVFrOUJMd0JXRVE1aXF6Z2ZZbGsxWWpBZTUxcUplbHBQV016WjBDNkhkSkZSUXdsaGJLeTBIRHp2Z3ZwSWo0?oc=5": {
       "title": "Cemig tem lucro de R$ 945 milhões no 2T26 - CanalEnergia",
@@ -4627,7 +4509,7 @@
       "source": "",
       "added_at": "2026-08-14T14:39:00.602300",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSFJuRVpuZ0gtZUlad3RKc1VNM0stLW9iWFRQbGRhUlg4RzRRaVo0RjIwdjNobVVFRXZfNEVZcGdKa2E3UmVqQjh5ZENHanVHSFdjR1c5aXo5X2w5R18xOGM0TVpCUS11MGR3b3pfTEQ4V1daZ2NNVjRhdExQblBOejJUbUFQM0RmT25VdmN4d0YtOUtGUm5yN3VZdGkyWHRSQU9NSjZUWFlKZXg4RXpybXdjazBucXF1NjUyUFoyaVFXdDRjRGdET2x1VldoMU9sbHdoamt2LU9tX3hwTGfSAewBQVVfeXFMT0NCUTljRzJWNVRCVzhBTWxnTlJQVUdjYWFZVDVzWVNSbWg2TjhKZV9UNDdaMTdnUDJCbWpRc3BlNTR3WWFnVDlvMk92bjdCeDZpR1h4bVlCTEVqZkYzNnVoVm1PWDRsUDRYTkEwU2xUYmhlRDdqNmhEX1pVdlpoalJqTG9WbTlHT1VPNVpVaThFblJSSzhIeElxM0poaUMyNUNPT1owMS10MWl5Sml2LUJsUGpwNzRQTGM0YXlGaHBLSGk5TGpzNV91clFrcVZjakw0YVM2ckFEUTRGUzUyYi1UYURWcUNfT243NXA?oc=5": {
       "title": "CNPM recomenda que MME discuta aprimoramento das Taxas de Fiscalização de Recursos Minerais - Valor Econômico",
@@ -4659,7 +4541,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:45.881090",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTFzcUlWQWxDeHFTUjB1Z0k2UzE3OXh1U2lpOE1qLThZTW5JM25nNkt2UVVoZVFMeTlPUU94dng0d0xvb2ZQX3hBbTBYWnpCamZFTkMxNHM5RjMzbjlVSDJWaHNRaC01WG9FcXJzNXZQcVROMXFLRVBMZ2NoSDN2WW9FY0p4dTdZQ1d4UWUtMkhrT1VTYU9TTWNxVmVWcXRyXzlDbllnRm8xMEtGMFVJdkF3?oc=5": {
       "title": "‘Jabutis’ do PL 5.017 deixam tarifa 5% mais caras, diz TR Soluções - CanalEnergia",
@@ -4667,7 +4549,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:47.597643",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFV6QXZyQ2xQVXZkZ0Zhazg0ellQa3ZWWW1sQkI1NmFfdmRaMkhudUozXzI0czA4XzBPTE1uV0lhcy1mekZHWEw2dmxMU1U5WDRDbWUxc0pXVG1TOGpjVHBJZWNFODZ2XzZLTGZ2aFlXdjY0U1VoSjdpNGFnQUV0b3YxRGpwOGhrUkh2a2h3NE5nUDh4MmdPZU1mZTJrSGtxb2RiZHJhUQ?oc=5": {
       "title": "CPFL deve participar de leilão de baterias em dezembro - CanalEnergia",
@@ -4675,7 +4557,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:49.226290",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWFuNnUwSXB3c1o0Q3FuU3gzRXlhY3ZHakRQVnIxVjlJX0NCZWVZRGFHcHRQeXJLZlB4WVE2YlNWLVUtTDFPbVdVcmZwLWFrb2pya2dwWkw3N1ZGc2ZnNGlfaU9rcUNqU0Y5bS1MeDJRS2dvM0ZiXzdwU3VybW5WRmVveHZDVnhoWV9JTHZPR1F4R3p3TTdBWF9BVXVxRWJ3Z0ZzdTNn?oc=5": {
       "title": "Aneel convoca Ludimila Silva como diretora substituta - CanalEnergia",
@@ -4683,7 +4565,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:50.912191",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHdDdDhtQ09VSVFWSDZSQjhqZVZNeHZTRThiQzYyOGxyUzN2Um44RUpIYXktZlBLWDE2NWtKTERkbjVBVmV0aUZlRTNvdXJoaVRTYzFmZll5MHFKWmVFdENjaVhwWFpvbVBRbERoMnZWa1NUVVRVWEYzMVpETkxfSW5fbUZ5NHpDdTg3V0VfZlpIQUNw?oc=5": {
       "title": "EDP busca startups para modernizar redes - CanalEnergia",
@@ -4691,7 +4573,7 @@
       "source": "",
       "added_at": "2026-08-14T17:07:52.544714",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQmtMS1BUdEpkaGpHT3V2Z0Ric3ZYUF9aVGxYWmtZNU02Yk1yYVBEZi1NVTh5NDZUc0RkWW8tQnZvX3ZPY2JncXVzcld0dG5vQm5YeTVONHNqX3RNZlBrQmVrZ0E3cHczUnZSMDlHMi13b3B2UlFsUkxOdWN3NzQ?oc=5": {
       "title": "Área técnica da Aneel diz que não avalia se troca da Enel em SP beneficiaria consumidores - UOL",
@@ -4745,7 +4627,7 @@
       "source": "",
       "added_at": "2026-08-14T19:12:39.688936",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmVEMmJ0WWtTT2R5RlA3Z25Ga3lfTVlzdy1jU0ZXa214SktvZ3RfZnFUMGR3dUFDZ0RsUEI1NVB1Sy1ES3JCYk8tbzdBZ3N2RmZDaXFtQUlOUVF3LVptQXJaYm5WWnBma2lFSkVTWEExMUp4bGxOQ0lsOV9Ra2tOazlGSmFYWTVMUXBsYkl3V2UycmhHTkQ2UWx3c1BkbmMzQUZINFVoSEZiUQ?oc=5": {
       "title": "Região Sul conta com 84,8% da capacidade - CanalEnergia",
@@ -4753,23 +4635,19 @@
       "source": "",
       "added_at": "2026-08-14T19:12:41.392494",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMExEcnZNRWx1RWNjY3lfUU85QlhtZE1wS0ZPVjVZSUtQYlVvOVlZUnBfSTZLcjEwOUdHbk9EOE9iVnhDVy0xdzVTMTA3NnhhWVAweTBMQXBfS0hwMTZFMkVQRF95ckZZS1g3ZjQtRmJlSXhzWnB3VW1pTnJNR0RQemo3UlQwWUl0a2NaRl85LXJ1M3AxREFlRW1UZ3RFdmpiVFlsRE9oaHJwNWMySi1ON1JJS01yUEw1NUljQjg2eHRPdjFQMmFQN2EwLV9kSmJDcmFuUGpURjhOaENFNEpGd2FsX1Jab1QzRzU2TDZQb18xU1FaOGh6YklsZUxWQmlOdXphMUZqLTdOaEZ3bjhMV01FZGFZN0E?oc=5": {
       "title": "Expansão via franquias projeta Fredy da Silva Gonçalves Bento entre os principais nomes da mobilidade elétrica leve - Estadão Blue Studio",
-      "summary": "Expansão via franquias projeta Fredy da Silva Gonçalves Bento entre os principais nomes da mobilidade elétrica leve AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 14 de agosto de 2026 Catálogo próprio de bikes e scooters elétricas sustenta modelo de crescimento apoiado em estrutura logística consolidada. O setor de franquias brasileiro tem observado com atenção crescente negócios…",
+      "summary": "A **Litoral Mobilidade**, liderada por **Fredy da Silva Gonçalves Bento**, projeta expansão nacional via franquias de bicicletas e scooters elétricas. A empresa possui um catálogo próprio validado, centro de distribuição com mais de **2.000 m²** e estoque de **R$ 8 milhões**, visando sustentar o crescimento com estrutura logística consolidada.",
       "source": "",
-      "added_at": "2026-08-14T19:13:28.020057",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-08-14T19:13:28.020057"
     },
     "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOEF3UlBTTUFHUmRLMzNFeENXazFyVGxodVVRb2lKdlhFMWo5QVFLU0R5dFdnaGExM05nWHcyUUtEVm52aWZDVzVjNldjWmF1WTNwX00wZkxPdmtvSDNPM2daS2ZTWFpjMDRMZFJrQ1pTN29zckI3UHVFS081TkdRN0x0OTZ2enZ0b2trbnhCMXYzVk9qUlB2MHMxcmZfZjVBTm1FbzE1WHp6TWRUa2MzLURKRVMxbDlPSXdkaGJoVTFwaE5Vd1pvNk50ay16YVZ1Z2IyalBpVVhpZ1QwQ2hHdTdLNlFBTHpLYVQyUVoxUjAzMEROT2UweURUcUxRM2hLR2ctV3FXazE?oc=5": {
       "title": "Consolidação regulatória da mobilidade elétrica leve tem, entre seus nomes, Fredy da Silva Gonçalves Bento - Estadão Blue Studio",
-      "summary": "Consolidação regulatória da mobilidade elétrica leve tem, entre seus nomes, Fredy da Silva Gonçalves Bento AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 14 de agosto de 2026 Catálogo de veículos autopropelidos da Litoral Mobilidade acompanha amadurecimento de normas técnicas e segurança viária. O mercado brasileiro de mobilidade elétrica leve atravessa um período de consolidação…",
+      "summary": "A **Litoral Mobilidade**, sob a liderança de **Fredy da Silva Gonçalves Bento**, alinha seu catálogo de veículos elétricos leves à consolidação regulatória do setor. A empresa verifica critérios técnicos como potência e velocidade máxima para adequar seus produtos às normas nacionais e municipais, garantindo conformidade e segurança viária.",
       "source": "",
-      "added_at": "2026-08-14T19:13:28.020324",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-08-14T19:13:28.020324"
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUW5WT2h0OHJsYURjMzhYTEZQNlNJRmxWVGlPSkk2NzNhbndFd3ZULU1vNkhYOGRrRGxISTNkYWZTTmpxU1lCMkpOQ0ZhdDRIWXRLcDcxWFJad2FjTG9OakZhQnM5OUdJV3lMb2tvVk9nVTgyZWxoa0RULXlMUjg4YmJvaF9zcGFneDhOa1YxR05IdXVvTDFpU016MVhQeVF5Z1Bidm9sM1llSHowSk00OERWcDJnd0VINXhKTldPZVEwSDNmdzJDYkJJQlU?oc=5": {
       "title": "Após pedir fim da RJ, Light aproveita para avançar com gestão de passivos - MegaWhat",
@@ -4785,7 +4663,7 @@
       "source": "",
       "added_at": "2026-08-14T20:07:54.414411",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFkWjFESi1vQ0dFRzRZeWlGRG9feTdZb2tQTmJjSnctOFNZMGpDN2xrR1R6SGVINTcyeHgzdFdpTThvVE5xQkZQQXJSTVRyekMyS3V2c1BmNEtGejBpRWNJdVl0ZTF4Q1RVVnJTNDN3R1hMMG8ybC1TM2xrNEhZY04xUDlmaHROTzhhR3JpYzFOcDFpMTNCdmtmNEVSdGpJYUZqa1NlN2Ixc0dZOVFr?oc=5": {
       "title": "Jabutis do PL 5.017/2019 podem elevar tarifa residencial em 5% - MegaWhat",
@@ -4802,6 +4680,28 @@
       "added_at": "2026-08-14T20:08:49.304124",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdlSnVlOUNDTmNEZ0Zxb3pUeXNpREVGWmlVeDJIRnZwbnZBSzZfNWRUT1pkeF8wZGJWTk4yQmlPYk9KXzQtZFZDWGR3QjJYZ2dZZWxQSzIyb0VUVGphdTVyTmV4LW5Ca24wQ2lRcHNtLXY2czJ4WlVfR21xblJ6b1FBMHB3dFBWY3N3WmJBeWpmVEZVT3JxRFYtaDVHSy12ejhUWlBwa2oyRjdtalE?oc=5": {
+      "title": "El Niño forte amplia alerta no setor elétrico, aponta Nottus - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-14T20:45:09.168285",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjdrNWpxYllmQzRzb3plRzRvWlF0OWJHY1NIanZRajhWLUtoZklUSnY1aVBQaGgtcEVjbjlPVzVLWXh6TmpxcXhNbEJnanZpbWJyNUlaZVdfUTJRbzQ0T01GOHFDaFBWVXRnWEpKdjE2Mmp0dmlPVUgzbjFFS3ZWY0piWHdvdzNvX2o2ZDhlSQ?oc=5": {
+      "title": "Axia aporta R$ 1,5 bi na Eletronuclear - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-14T20:45:10.840027",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BVaTcyZEQ1aE03MWtoLU5hWVVfc3Y5R1ZTZk12bExoUjFrVllOSHVkVmxWakRkMDhreXltNERzQ0k2ZkZXMFM3TDV3bm9lckRKdmFIQ1E1UDhoU1FrOHhrRV9NWG5TLTBVc2xZeDJZRi1VTXFGNGVuUUJnaEFwNVJsYlJ2SVk5el95b0lOWFdiMmN0OHJ3OWtHTUJrcGFmaUE?oc=5": {
+      "title": "Copasa renovou contrato com 43 municípios, dos 636 onde opera, até 2073 - Agência iNFRA",
+      "summary": "A **Copasa** renovou contratos de concessão de saneamento com **49 municípios** mineiros até **2073**, representando **37,5%** de sua receita operacional líquida. Os contratos incluem a conversão para o modelo de concessão e metas de universalização, com prazo para adesão das prefeituras até **28 de setembro**.",
+      "source": "",
+      "added_at": "2026-08-14T20:45:54.316173"
     }
   }
 }
