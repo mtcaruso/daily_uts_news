@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-14T17:53:07.131145-03:00",
+  "last_updated": "2026-08-14T18:13:50.089034-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Alteração de membro da diretoria da Companhia.Ata",
+      "data_referencia": "20260814 14/08/2026 08:30",
+      "data_entrega": "20260814 14/08/2026 18:11",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Alteração de membro da diretoria da Companhia.",
+      "protocolo": "1558107",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558107",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-08-14T21:13:49.788550"
+    },
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
+      "especie": "Declaração de Alienação de Participação Acionária Relevante",
+      "data_referencia": "20260814 14/08/2026",
+      "data_entrega": "20260814 14/08/2026 18:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1558087",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558087",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-08-14T21:13:39.114756"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
