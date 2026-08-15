@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-15T13:09:43.894639-03:00",
+  "last_updated": "2026-08-15T13:37:52.992149-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Mapa Consolidado AGEMapa Sintético Consolidado",
+      "data_referencia": "20260817 17/08/2026 10:00",
+      "data_entrega": "20260815 15/08/2026 13:17",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mapa Consolidado AGE",
+      "protocolo": "1558366",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558366",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-08-15T16:37:42.831141"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
