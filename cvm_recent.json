@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T11:09:53.606160-03:00",
+  "last_updated": "2026-08-15T11:35:54.996855-03:00",
   "items": [
     {
       "cnpj_short": "01944-5",
@@ -6192,24 +6192,6 @@
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
       "first_seen": "2026-07-16T21:42:26.898967"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Política de Remuneração",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20250326 26/03/2025 13:45",
-      "data_entrega": "20260716 16/07/2026 09:45",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1545375",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545375",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-07-16T14:29:08.214042"
     }
   ]
 }
