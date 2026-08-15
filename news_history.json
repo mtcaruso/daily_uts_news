@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-08-14T22:59:45.049511",
+  "last_updated": "2026-08-15T01:49:03.625549",
   "items": {
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGR5c1JNSTd0Sm1kZTkzTExnblhmRTNQQXMtdUVOVzZKWDRXLXF1NUpTN055NENSYTV5b1BjNWdqMzdUMmk0c1FTaXBWdjZyMlRYc0pfanlRWWNTejY3Uzl3clNWbmJsSVJ5SG5aQmQxNXZYWDJ2ZDB6VzUwZmZqdE9pcXVXRjh5YTU4a0ViaGJsN2lMRWRIbno4WGx5bHFLbEZ3Umh2OA?oc=5": {
-      "title": "Reservatórios do SIN devem terminar agosto acima de 60% - canalenergia.com.br",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T23:14:41.581648",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLURBZ0YtV3pkM1lEZjZHZ2g2NzBZdGFBSGp6VlJrSV9xdnhqSnlVOTluV2lYWG1yRVpYWm1PZTZtMm9iZnA5NXhsU2VzLXhaMVU4dzBHbm9rU3dacFc0bl9HYkJoRjRZNDhUWEktUTdCbExCYVN3eHFIVHI5Ymg3U0RDVjZra04xX05MNUFYbzR0anM3NjBoMzZ3R1M?oc=5": {
-      "title": "Bandeira tarifária permanece amarela em agosto - canalenergia.com.br",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-07-31T23:14:43.220491",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2NSOW16dlpjc3pfUG9BVm5LR0hGTkVmVll4UkNRYVltTk9sODN4dHJfUmxSbWx3Y0Y1bnpkZE5JWjJTVDV5Qk1Zc3E1QURqZ2ZRNlEzZE1vTy05b1l0MXdTQTZXa3VfSndBVUNhcnhXNXNUOXhTVkZSc0kyX2ozYlJqRHVTd1JSUk9udFdTd2lSUlFKa0wtMmhVOW1Zdk5xa0M3WW9ULXF1eUlRMkY1QjFST1hXNER1TnY1V29VTXBaV0tJNC000gHWAUFVX3lxTE93b1FUV1haMTNXemRrMEhMbkVaVUp3eU9UTUU5STZKdWN3RkR1RXpTY0RjN3cza1NORmhCaDBsUTdJc09qcnVLZXRkdGZEcXRCY1VEbmZucGx3bjVJSnYxQjVzVXhoYTJHZmNiNjQtbUtMTEJqakxEa3k0c05KUGxWd3FhZDUxMTdJUUNPb19iSVozRHNycnFtT3J0eThLV0VCQ2JiNjNxems4Qy1iSG5PczNyNl8yN29SU0RlOC1EZm5MUm9uM2F1enJmMUIxQ2Z5bHMta1E?oc=5": {
-      "title": "Energia elétrica puxa aumento na prévia de inflação de julho - valor.globo.com",
-      "summary": "Energia elétrica puxa aumento na prévia de inflação de julho IPCA-15, divulgado pelo IBGE, aponta para alta no setor de habitação. Especialista do setor cita a energia solar como alternativa econômica para os consumidores diante do encarecimento O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), considerado a prévia da inflação, apontou para uma redução em comparação com o mês de junho.",
-      "source": "",
-      "added_at": "2026-07-31T23:15:40.559305",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmlIRjlRMnVSYUluZXY1dEdZX2pzRXZLakI4Um1MdmJnNlhTWXoxR2RuUktTNjVCNFFyMUFIdFVCNW1SOXVDZkVmd0x4NkhUWVJJLUFES2lMbXgzSzJ1SnFoYUVocHBldXktU3liS0k0VS00SWJmVXU1Y0JxUGNuTE83RUNqS2kyNWNqWGRKa25YNDJZdHJWTlNHS20yYU9tYlNkcjJ3ZWxlZm1Ib0w3d0lJWkpxVzA?oc=5": {
-      "title": "Conta de luz continuará com bandeira tarifária amarela em agosto - Folha de S.Paulo",
-      "summary": "A bandeira tarifária para os consumidores de energia seguirá amarela em agosto, repetindo o cenário dos últimos três meses, informou a Aneel (Agência Nacional de Energia Elétrica) nesta sexta-feira (31). A bandeira amarela acrescenta R$ 1,885 a cada 100 kWh consumidos na conta de luz.",
-      "source": "",
-      "added_at": "2026-07-31T23:15:40.559527",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmx4Q3VIR1VDTjhKR1A1T0VWY2IxWl85YnVINW00akJqckh6b1ZhdEg1YmozYU95dW93UHFKQ19lMVFPVXFZNGdIM3Q0eDB4d002ajVYY3J6LXI2VEJyOHFXZUVwQmdHT2VwXzcwVVh5RjdhSlZjZDg3NzRMWC16SkpMWGwtQUhhdGlLdkRhd09aalVSUTF5S1dzWmF0QlhxRzU0dVdpdEpLVU5fd1pPTjA5VVI2X1JTWWd5T1ZsbHM4VXZ1TWlSRV9WZVhFdVJVNXFfSkpNZFNkUQ?oc=5": {
-      "title": "Ibovespa hoje: Santander (SANB11) dispara 13%; Brava Energia (BRAV3) lidera perdas - Estadão",
-      "summary": "Hoje em 5’Seu resumo narrado do dia01/08/2026 | Edição das 6h30 00:0000:00 Rafael trabalha com duas espécies: a do Pacífico, de Santa Catarina, mais salgada, e a nativa de mangue, de SP, com sabor mais suave. Além do limão, o balcão oferece molhos de assinatura, como o mignonette, o de gengibre com azeite de carvão e o ceviche de manga verde.",
-      "source": "",
-      "added_at": "2026-07-31T23:15:40.559589",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEVoQzI0cG9oS25lclU1aFppRlB4T3dfN0xEd2I4M0FYWDZzSjhJbmo4YVFhZUU3UkwzdnBzQXlYT3g0bTRYYTRja3JjT2VkbDhYN2I4MnJHalMtRk5INHo0OFktbzdwSVU0VmdaZVphWkF4SWI1cUF6M0p3X1JSM3l3MzEyeXlPZ0xVRlh1OFpnNHBYQnhTQ3JZbDhwU2lGVnpWNGh4YnRmZTVLTF96RUg3TGZWVFNMVUdzU2xkVjVOclk?oc=5": {
-      "title": "Artigo | Portaria do curtailment organiza o passivo, mas não resolve o problema do setor elétrico - agenciainfra.com",
-      "summary": "Heber Galarce* Compensação proposta enfrenta resistência entre agentes e não resolve nem os cortes futuros nem, ao que tudo indica, o passivo que buscava equacionar A publicação da Portaria Normativa nº 140/2026 pelo Ministério de Minas e Energia representa um avanço ao estabelecer um procedimento para compensação financeira dos cortes compulsórios de geração renovável. Mas é um equívoco…",
-      "source": "",
-      "added_at": "2026-07-31T23:15:53.194622",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFRsOGJJOXpDRGJITW84MUpzcVBLZURiMTNfT05hekVQZTgwbkVlX01KellybC1KSENiOHZWSVIwbG9xUXNCdHlMQUNXbU1VOTBtZWozR3psRHJqYmV5d1BpOFRscDU4TG8xbi00SWhJNm5BQ1NUTzRFb05kYzJnTUhaRWU0aGhQQmhaR0ctQW5ZSVhEZXNXN2RzUHRMcmdSdlcwUzllc3RqZ1U?oc=5": {
       "title": "Aneel aposta na tarifa horária para sinalização de preço - CanalEnergia",
       "summary": null,
@@ -4409,7 +4361,7 @@
       "source": "",
       "added_at": "2026-08-14T13:36:13.661315",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzR6RG5qdm40Nm1QUk0wNjUyZUdKV0pEdmtrQUpJWE9ONjNYX1l2NHZvVlUya3FVVWJQNkxmSlNZYVU4MF8yVTZ1dnBoMnY0dGEtVnFqMWFSM2JPOXZOdl9ENGN4cXdVd1VoR3hOUFByMWYtamRLRXBFUk5McWpEN0RGTHc4S1VDUFBTUjFTRENFLUYzWmRqeElvbXB3M0RJaGpLYm5XbEVocktKWjEyNERMdG96TG9wS0xOQUNZNWNhUjdwRENFaw?oc=5": {
       "title": "Família cobra Enel por jovem que morreu ao pisar em fio em rua de São Paulo - Folha de S.Paulo",
@@ -4557,7 +4509,7 @@
       "source": "",
       "added_at": "2026-08-14T19:12:39.688936",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmVEMmJ0WWtTT2R5RlA3Z25Ga3lfTVlzdy1jU0ZXa214SktvZ3RfZnFUMGR3dUFDZ0RsUEI1NVB1Sy1ES3JCYk8tbzdBZ3N2RmZDaXFtQUlOUVF3LVptQXJaYm5WWnBma2lFSkVTWEExMUp4bGxOQ0lsOV9Ra2tOazlGSmFYWTVMUXBsYkl3V2UycmhHTkQ2UWx3c1BkbmMzQUZINFVoSEZiUQ?oc=5": {
       "title": "Reservatórios da região Sul operam com 84,8% da capacidade - CanalEnergia",
@@ -4565,7 +4517,7 @@
       "source": "",
       "added_at": "2026-08-14T19:12:41.392494",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMExEcnZNRWx1RWNjY3lfUU85QlhtZE1wS0ZPVjVZSUtQYlVvOVlZUnBfSTZLcjEwOUdHbk9EOE9iVnhDVy0xdzVTMTA3NnhhWVAweTBMQXBfS0hwMTZFMkVQRF95ckZZS1g3ZjQtRmJlSXhzWnB3VW1pTnJNR0RQemo3UlQwWUl0a2NaRl85LXJ1M3AxREFlRW1UZ3RFdmpiVFlsRE9oaHJwNWMySi1ON1JJS01yUEw1NUljQjg2eHRPdjFQMmFQN2EwLV9kSmJDcmFuUGpURjhOaENFNEpGd2FsX1Jab1QzRzU2TDZQb18xU1FaOGh6YklsZUxWQmlOdXphMUZqLTdOaEZ3bjhMV01FZGFZN0E?oc=5": {
       "title": "Expansão via franquias projeta Fredy da Silva Gonçalves Bento entre os principais nomes da mobilidade elétrica leve - Estadão Blue Studio",
@@ -4585,7 +4537,7 @@
       "source": "",
       "added_at": "2026-08-14T19:13:41.105996",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9RMVNEYXhjU0c4aENrYm5OV295Undncm1NMGQ2Y3g1VVhaNmZoNFRsN0UzTXVoZFgwcG83a0kwdzlfQU5oYXprQWtvM0dmUU8xQXlwOVVyQ2l3aGtmSjlNc00yX1lTcko3VHE4YlZHQ1VNakR5Rl80TW1lNWM5T29HLVNJbTR3enVtZ2FaQ1JrWTd2N1lnTHl3Zw?oc=5": {
       "title": "EPE vê avanço de data centers no planejamento - CanalEnergia",
@@ -4593,7 +4545,7 @@
       "source": "",
       "added_at": "2026-08-14T20:07:54.414411",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFkWjFESi1vQ0dFRzRZeWlGRG9feTdZb2tQTmJjSnctOFNZMGpDN2xrR1R6SGVINTcyeHgzdFdpTThvVE5xQkZQQXJSTVRyekMyS3V2c1BmNEtGejBpRWNJdVl0ZTF4Q1RVVnJTNDN3R1hMMG8ybC1TM2xrNEhZY04xUDlmaHROTzhhR3JpYzFOcDFpMTNCdmtmNEVSdGpJYUZqa1NlN2Ixc0dZOVFr?oc=5": {
       "title": "Jabutis do PL 5.017/2019 podem elevar tarifa residencial em 5% - MegaWhat",
@@ -4601,15 +4553,13 @@
       "source": "",
       "added_at": "2026-08-14T20:08:40.852190",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFJtMFMxMkhuaXNrbnl3eWduNklBb3dwNkVKWjhQWG9vYnZ2Z3lhOU05NDNBSEU2VXcxazA4X0hkWUVuamNCMGt2RWh5RGI0cWx6MElBWXNOdWFzdm5BZEhTcWhfY3ZJSHdWOWJvdHJuYXd4RUd1LXlUMzFKVndGRi1TclBWRVJpeWpzUlM4YWUxT1VTMXJWLVl4dkZaRFE?oc=5": {
       "title": "Diamante testa uso de biocarvão de coco na termelétrica Pecém - MegaWhat",
-      "summary": "A Diamante Energia pretende realizar em outubro um teste de combustão na termelétrica DE Pecém, no Ceará, com uma mistura de carvão mineral e biocarvão produzido a partir da casca do coco verde. A companhia já recebeu 880 quilos do combustível renovável e iniciou a preparação do blend que será queimado na caldeira da usina.",
+      "summary": "A **Diamante Energia** testará o uso de biocarvão de coco em sua termelétrica Pecém, no Ceará, em outubro. A pesquisa, com investimento de **R$ 2,7 milhões** e parceria com a Uece, busca viabilidade técnica e redução de emissões, com conclusão prevista para dezembro de 2026.",
       "source": "",
-      "added_at": "2026-08-14T20:08:49.304124",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-14T20:08:49.304124"
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUdlSnVlOUNDTmNEZ0Zxb3pUeXNpREVGWmlVeDJIRnZwbnZBSzZfNWRUT1pkeF8wZGJWTk4yQmlPYk9KXzQtZFZDWGR3QjJYZ2dZZWxQSzIyb0VUVGphdTVyTmV4LW5Ca24wQ2lRcHNtLXY2czJ4WlVfR21xblJ6b1FBMHB3dFBWY3N3WmJBeWpmVEZVT3JxRFYtaDVHSy12ejhUWlBwa2oyRjdtalE?oc=5": {
       "title": "El Niño forte amplia alerta no setor elétrico, aponta Nottus - CanalEnergia",
@@ -4617,7 +4567,7 @@
       "source": "",
       "added_at": "2026-08-14T20:45:09.168285",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjdrNWpxYllmQzRzb3plRzRvWlF0OWJHY1NIanZRajhWLUtoZklUSnY1aVBQaGgtcEVjbjlPVzVLWXh6TmpxcXhNbEJnanZpbWJyNUlaZVdfUTJRbzQ0T01GOHFDaFBWVXRnWEpKdjE2Mmp0dmlPVUgzbjFFS3ZWY0piWHdvdzNvX2o2ZDhlSQ?oc=5": {
       "title": "Axia aporta R$ 1,5 bi na Eletronuclear - CanalEnergia",
@@ -4625,7 +4575,7 @@
       "source": "",
       "added_at": "2026-08-14T20:45:10.840027",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BVaTcyZEQ1aE03MWtoLU5hWVVfc3Y5R1ZTZk12bExoUjFrVllOSHVkVmxWakRkMDhreXltNERzQ0k2ZkZXMFM3TDV3bm9lckRKdmFIQ1E1UDhoU1FrOHhrRV9NWG5TLTBVc2xZeDJZRi1VTXFGNGVuUUJnaEFwNVJsYlJ2SVk5el95b0lOWFdiMmN0OHJ3OWtHTUJrcGFmaUE?oc=5": {
       "title": "Copasa renovou contrato com 43 municípios, dos 636 onde opera, até 2073 - Agência iNFRA",
@@ -4639,15 +4589,15 @@
       "source": "",
       "added_at": "2026-08-14T21:36:57.940359",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEU2LUdJRFZZRVVKdnFKQTZIX3l2dTFndzV0RXBUX2M0RmlaOE1LeGlhQUJzNVYtbTNnOG5DeGFpaWpYUHYycjVmeFh4bkNBNTJzN0J2bmdLbWRqb0dVLTFoY0tVeDRHWUtXWndseGpQWkZETldvWWZNZkRpTVktOHo5Sm1Fb2NYNnRIOGhfOTJoU1I1b2NZVXctb0JueTN5Rk9Lei1nbFdNNmRNcE95SnE4YkN6Z2pnOF9hc01iSy0?oc=5": {
-      "title": "Petrobras confirma que perfuração na Margem Equatorial encontrou óleo - estadao.com.br",
-      "summary": "Economia Petrobras confirma que encontrou petróleo na bacia da Foz do Amazonas, na Margem Equatorial Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’14/08/2026 | Edição das 18h30 00:0000:00 Política Defesa de Bolsonaro pede autorização para ex-presidente deixar a prisão domiciliar e ir ao…",
+      "title": "Petrobras confirma que perfuração na Margem Equatorial encontrou óleo - Estadão",
+      "summary": "Economia Petrobras anuncia ter encontrado petróleo na bacia da Foz do Amazonas, na Margem Equatorial Conteúdo Patrocinado Educação Justiça suspende edital da Prefeitura de São Paulo para gestão de escolas por organizações Economia Entrevista | Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn",
       "source": "",
       "added_at": "2026-08-14T21:58:31.481240",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejltcHpkR01EYnQ4RnpBVXVQNzhMVWFLV1AtUGo0V3UtQ2NycHZhbXd1QlFGWW44LXU5dTJLQXZJQmVqcDM0S1hnSUJKb2JfNkprRWVuQjRfOGF1MmdwYml2VDFPYjNJRXRpRVRGeUpBZVBWa3VLR1J2cTdIZW5OVkdrMVh4UkxRQl9TZzh1Q1U0Q29WZHR5aG5hcFRHUFlwU3RVN3F2dURpNVk?oc=5": {
       "title": "ONS: chance média de acionar Plano de Gestão de Excedentes - CanalEnergia",
@@ -4655,7 +4605,7 @@
       "source": "",
       "added_at": "2026-08-14T21:58:33.585340",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTURhU3hmMVZiNHU5ZHdJWWRfTlRuYUhxeHFMNGU0RzdWZm85aEt5MUphR2xsTVJfM0NBVXU1TGd5eEtRaFp6QVVJb3N1UWFzc1hFOTlualloY05kQ1FkQVBqTjhfVTZsbXV3LTIxanBON3ZZNzY3QnkwV0VldTg3TndtaTJ0c3RRLTZHQS0wVGNOelhkSUo0dGFQREQ?oc=5": {
       "title": "PMO de agosto revisa projeção na carga para 5,6% - CanalEnergia",
@@ -4663,7 +4613,7 @@
       "source": "",
       "added_at": "2026-08-14T22:36:47.653004",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3ZFeUFURzVDcFNQekRYM1UtVUdESGpQZWJ6WW9lRnBPUEZBcGk4UHhPa0RZTzBaWEpjdzFWV2FReEo0WGdfeHVJVHVvSGZ0Yks5VkNRdGJWdDFmXzZpaXBtT1FsMGZEMm1hOE83X0lXejhpQy1UVHc0MjdtcmIwVHpmYWVjLUs4RmY3QW9TQW9GWngtcW1QZGhLNUhQZmtFV1lwaW1NazNMODZuUXJkMk1vd1N6WnE0YTdCZ1l4aktPam5YVzlfaWZzWlNZN2RQ0gHfAUFVX3lxTE5ManVVS0dvMGpfMURNMVI0TnF5WUEyLWtWWXczcFI4TGJEeGh0MWx3bm5YX0RISVBvekhWNHlLNXlBbEpGZGZvR2plMG9aOENFQy1xd1FwUG5la1NZNlRLYXUxbjMwcjNtUnU2dktwTFMxc2x2QUw2RXFncDRWX0RvWWE4MnNjOEdMS09TbW1tUjBzZnpyNjQtS0pWWDl6azFPa1RYdEVoMmFiaWM0RVppZWJvekN4d2VCb0xoa3lhNUNzU1BWN25QNlBzZE1FOVF1UXU3TGRJbDlFSm9sTHM?oc=5": {
       "title": "Petrobras anuncia descoberta de hidrocarbonetos no Amapá, na Margem Equatorial - Valor Econômico",
@@ -4671,7 +4621,7 @@
       "source": "",
       "added_at": "2026-08-14T22:37:26.085315",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkhhdkxzeXFOdmdIQl9STFBud0NwaDlQRko2UUdPYThjMG16QXk0QllEZ1ZpMlh4UG5IQ2N4TjFicElnaGFqVEhBRUU2NndOcXdhUEJQZUZ1RFdCaVdNLTJIaE1aeW9tYlRha24xODVrajc3MjgwcTdvMExwNWVRUkdwYXFScGpGS3dlVDMxUnlvLTR4UWlmWEJESlp2WEI4ZWpBSlp5TVA3cFQzN2RJaUZDTTZPUQ?oc=5": {
       "title": "Petrobras confirma que encontrou petróleo na bacia da Foz do Amazonas, na Margem Equatorial - Estadão",
@@ -4691,11 +4641,11 @@
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTJnSE9aekZ0TVdEQTVDS3lidHFjQkFFZ3dOM0VpQkVVVjRfXy1TVmFtSnNZdUxHdkJJR1VEN1d3eEM1aUtLZVliaXRBbVZjTXlpaDEyS29QNE1fODd3TlRkN0JGUFl0eUtIaHlXNFdxT1dCeEtsSkxDU3JpY2ZUeHFvQURvZlNhNC1VcDFrM09Ba0pNSTBzbVQ1VmhGZTA?oc=5": {
       "title": "Petrobras descobre petróleo na Foz do Amazonas, na Margem Equatorial - Agência iNFRA",
-      "summary": "Gabriel Vasconcelos, da Agência iNFRA A Petrobras informou na noite desta sexta-feira (14) ter identificado a presença de hidrocarbonetos, sinal de petróleo, em poço exploratório na costa do Amapá, na Bacia da Foz do Amazonas, uma das cinco que compõem a Margem Equatorial. A companhia começou a perfuração no local após licença emitida pelo Ibama em outubro de 2025, depois de um longo imbróglio…",
+      "summary": "Gabriel Vasconcelos, da Agência iNFRA A Petrobras informou na noite desta sexta-feira (14) ter identificado a presença de hidrocarbonetos, possível sinal de petróleo, em poço exploratório na costa do Amapá, na Bacia da Foz do Amazonas, uma das cinco que compõem a Margem Equatorial. A companhia começou a perfuração no local após licença emitida pelo Ibama em outubro de 2025, depois de um longo…",
       "source": "",
       "added_at": "2026-08-14T22:37:26.085593",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2xTS2JocVZqd3lDMDRSVlQwWF9QSUNyYVhaOWc1RlVWcGo0RXZsZXY5UWVsV3VIYndkRDVXbGR1UVVuNnFxT0FnSllXSjlWNTBCLXU2eTJwU2FKZEVFdnZ3MEpDY29kU2RQQU12RWVhaFpuSndXeEZUYVFqREttX1ZBZmRwZFg1QXM2Zno0NjZJNHlfWXBmZ2NiSk5DeGNJTUJvam90aFVaaUxram13VWV0U2lUeS1iRXlFSHk3aDdjR1ZWODRZ?oc=5": {
       "title": "Trump anuncia cobrança de tarifa de 100% sobre drones e peças para fabricação - 14/08/2026 - Economia - Folha de S.Paulo",
@@ -4706,12 +4656,140 @@
       "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkhhdkxzeXFOdmdIQl9STFBud0NwaDlQRko2UUdPYThjMG16QXk0QllEZ1ZpMlh4UG5IQ2N4TjFicElnaGFqVEhBRUU2NndOcXdhUEJQZUZ1RFdCaVdNLTJIaE1aeW9tYlRha24xODVrajc3MjgwcTdvMExwNWVRUkdwYXFScGpGS3dlVDMxUnlvLTR4UWlmWEJESlp2WEI4ZWpBSlp5TVA3cFQzN2RJaUZDTTZPUdIBuwFBVV95cUxPTHpRXzNtcmF0MXNHLXEyYm1qSnVGcDJVbVJkdzFVUjNfTDMtbEFWZ2RJMDlmQllpT0hCWFN3WGJ0VVd1czZ6SXhCS2ZUU09RZlRBN2U4bkthTEQ5RUwwajBOM2JxQXgyaUZ3a2RDa2d3d3dYMzhGUGZkekloMjhIclZDcFRqOFkzdjFEeW9hWlFNdTFIX1JvVE9jZ1c2c05hc09OZjl6Z2c3VDN3VTRydXN5U1ItZEd1bVQw?oc=5": {
-      "title": "Petrobras confirma que encontrou petróleo na bacia da Foz do Amazonas, na Margem Equatorial - estadao.com.br",
-      "summary": "Gerando resumo RIO - A Petrobras atingiu nesta sexta-feira, 14, o reservatório do poço de Morpho, na bacia da Foz do Amazonas, na Margem Equatorial brasileira, identificando a descoberta de óleo. A informação foi apurada pelo Estadão/Broadcast e confirmada pela estatal minutos depois.",
+      "title": "Petrobras confirma que encontrou petróleo na bacia da Foz do Amazonas, na Margem Equatorial - Estadão",
+      "summary": "Gerando resumo RIO - A Petrobras anunciou nesta sexta-feira, 14, que identificou a presença de petróleo em um poço exploratório em águas profundas do Amapá, na bacia sedimentar da Foz do Amazonas, na Margem Equatorial brasileira. A descoberta foi feita no poço de Morpho, que está localizado a cerca de 175 km da costa do Estado do Amapá, a uma profundidade de 2.886 metros, segundo nota publicada…",
       "source": "",
       "added_at": "2026-08-14T22:59:45.041728",
       "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUJIMnlJSUtMeGthMEVnN1hLX21fR2E5dUVWV2VyNXFWc2MwWklPeEt0aDkwZmVSQ1kwYk84amJyNTJ5Rjltc3BNSUwtYVNHSVVxeGhKWGRJMjJ2M2NLVWRneThpX0pEd3l2ajVycTQyRTFPZkczV05Ua2dIUFI2R1JHZ1JKOTdSb1ZSSjRDUW9MZmZtRlpVMGJjN29KVmIxUHZmNzIxVThhSlAybnVPaXFFTl9wR2s?oc=5": {
+      "title": "MME aposta em interligações para reduzir gargalos do SIN - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-15T01:47:11.065155",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNnetIByAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNneg?oc=5": {
+      "title": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre - Valor Econômico",
+      "summary": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre Montante representa um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período de 2025 A Renova Energia registrou um prejuízo líquido de R$ 3 milhões no segundo trimestre deste ano, representando um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período do ano passado. De acordo com a…",
+      "source": "",
+      "added_at": "2026-08-15T01:48:05.126129",
+      "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5LXzJDXzdjamRrTWtRdE5iZTFZRlNlWDJSalJablB4LTUzRTFlaGtERS1xeE40V2ZzOUZMSmt1V1hDSko5NGMxNUFfcnZqUm9UdncyMXVvVGFta0xYYmZzc2hxdkhQTVU5UXNmZ2JGOUdrZTRfQ255VG5MeTRTWUVWN3NZTEFWcTdSS3lQb3dVYXFKbC1jQjFhSHVrakNleHVEMTJ5ZmE2VWc2VWZ1enFR0gG3AUFVX3lxTFBseHhuOXBuUVNyOE1hOEt0eGRKaHJQM0ZqQmpSQ3h4R3ctNGxrQVNsR2luNUVIQXE1OGE5ZUNjeHZRLTFNTmF6WWNFYmRLNDU1b0xaSDc5NUdGUTdIYVJuNFFrS2dPbDQ0T2pyQ3NSQURJQzRaTVFlZ2Q2UTFtN0RldU05QkYxb0RhVG84MnYxVHlydmhuZVVVUXV6blQybWE1TGlJc3RpUFlZTHRRSDM5TGJIQVJQMA?oc=5": {
+      "title": "Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn - Estadão",
+      "summary": "Gerando resumo RIO - A descoberta de óleo no poço pioneiro Morpho, na Margem Equatorial brasileira, anunciada pela Petrobras nesta sexta-feira, 14, vai mudar a geopolítica nacional se a região virar realmente uma nova província petrolífera do País, avalia o professor do Instituto de Energia da PUC Rio e ex-diretor-geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), David…",
+      "source": "",
+      "added_at": "2026-08-15T01:48:05.126362",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2tqUXdMSWRFMDdMZGdkUzZsUlRySGhqdURWR19VWjR2enMzeVZYY3I2b1I0WmNhVk85MUxESGRQNTE2c1lJZmYtVUx2bC0zN1J0RHA3Mk1GVlVlQTRadTF2VkU1QjNEZlZFT1hpVXRMbVRJTnBGd2RWWlMxY0xvVHlUUjJYSm1NYWp2dlZpSXZtTlhoOGxyelBjUURjVG5TYlAzZi1WVlZpVHdfOEx5U3c1V01qdU1sUEVnUDRqVQ?oc=5": {
+      "title": "O que se sabe e o que falta saber sobre a descoberta de indícios de petróleo na Margem Equatorial - Estadão",
+      "summary": "Economia O que se sabe e o que falta descobrir sobre os indícios de petróleo na Margem Equatorial Conteúdo Patrocinado Educação Justiça suspende edital da Prefeitura de São Paulo para gestão de escolas por organizações Economia Entrevista | Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn",
+      "source": "",
+      "added_at": "2026-08-15T01:48:05.126427",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaklmZUlJcnVmb1NQMWduYXUwbWtKQVMzaXo3ZlBzSXl6VkNkbnhvRTgxemFUNjZzTndUb1F0TEFrV1lER0tmSVM1aXM4QWtOVmVQaTltWEt5UWE1dVhPNnFBdXlUaGNRNmJDMlJZMHlyOEZ6QzlxejRtT3JZc2FQZS1waHV0UXl6UjFoR1hJakdKZU12ZVdwTlRBUnZpZC1xeHRWb0tfQmdEVVBHQUxUbnBITzfSAboBQVVfeXFMTVhtc1VFcldHZTh0UzRwbmp4cTNyZVctaDY3bTZseW9yMUQzeXR6M19DeVkzYWdYb1AzSEZ4ejBkMGZ6Ni1tb3RoSUM4eHNPYUpkZHRIRkpyNkJ6VHlhREUwV09oT2VRVzhXcVI2OEx3UmFPbWZteXBxRHBuSWxEOXhkcW5YNG5NaDZNTklaN09CX0Q0elpKRzNud29tS09Ka19lTEx4UVhkcVUtcVhybGJNbWJXY05waGdn?oc=5": {
+      "title": "O que se sabe e o que falta descobrir sobre os indícios de petróleo na Margem Equatorial - Estadão",
+      "summary": "Marina Silva: ‘Defendo que Petrobras seja empresa de geração de energia e não apenas de petróleo’ Ministra do Meio Ambiente falou ao Estadão sobre temas que dividem governo, como exploração de petróleo. Crédito: Reportagem: Juliana Domingos / Fotografia e edição: Everton Oliveira A Petrobras anunciou a descoberta de indícios de petróleo na Margem Equatorial, próximo à foz do Rio Amazonas.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:05.126734",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc21tRVI3aFRacU42VGV1ak1rNTJaZWloZ3BkWmNwRk52QmZEcmUtZHNVbG5TX3FWTzNOaHRMWDdKVFZWajZhWkE5bE1hbWxwdW5JSmRPNDZOb082dlFwZWd3QnR5aFBKSUZxamlRNDN0ZHI0VmxRT0FhZDNRMVNNMHFyeVVPMU95Q2FSczJ1NzBnTURYWEswY2FRTFJxR0ZINWliSFJzZUkwenZHNlJZRF9VQ0tzQTMxSWZvTFZ0bUNwbjcxQkk1cUZoa2Z1NXhacG9DQ0R3?oc=5": {
+      "title": "Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira - Estadão",
+      "summary": "Economia Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira Conteúdo Patrocinado Educação Justiça suspende edital da Prefeitura de São Paulo para gestão de escolas por organizações Economia Entrevista | Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn",
+      "source": "",
+      "added_at": "2026-08-15T01:48:25.684252",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTQ4MlNQZWlfNmVvQ3RpNXlOWlNPQWdQVTZpemNVUjN2U0RPLXQ2eVdrWHp2M1JGVGhkT0VjdVhPZXV0UGMxb0tfcjRGekJwTW81OURPckNTWno1UFRZNWtwZGNCdzA2QmU4Y2pjRkFjTm02YTFCT3VWcThLblRkMnFLSjJkT3MwaHF5OHdCNk5aSTZVOU54eXlnYks4aEc0QUNLTHE5YUtveGlLYnJKcm8xTDBMYl9BYW1LSlAxaUpIRU9PejRPdUw2WdIB0AFBVV95cUxNOU10TjFTRmNqaHc4THBGbVZsSnJFOUpyVEdDUV93aWstRlNHWVJjVXJSTmk1d1FXWFZYWlQ2NHVsZEVHSnQ1MzNrV0U0UWxjZEZxZTZtV196X3dGWTlkLW9tcm5UUkdXdEdKYUJhalVrZDZvR1BsbWplOVNZdXYyNExWeUxCYm52Rm8xVVNTaE1qQThiNnFLc3VaWl93Vmc3bzYwNnpEaWtieU4yOEx0aDdnYlAwRDhzREM4OHF0dXMxR3hPU3lyWDN2c3hYMnpJ?oc=5": {
+      "title": "Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira - Estadão",
+      "summary": "A Petrobras descobriu óleo no poço Morpho, na Margem Equatorial brasileira, após dez meses de trabalho. A descoberta, anunciada em 13 de agosto, é vista como promissora para a reposição de reservas do Brasil.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:25.684479",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDNzOHloYmRISGVoMkRUSFprNkphN0J1TzZHMUtObXFrTUw3UndMeS1MS1QwalBFdWxMOEkzQWxkbTVKSzBvT19tdkZTS3JxSVNOV01HMUFxYUdIUE9CcFBLOU1NaVZna0VMcHMyeThXYkIwOW1NdlR6czFnWnJZMGc3N1hKZVlpRTZ4eGZuWW8wRHdHRXpkaWZMUkNDZ1RDUE0tVE5iWXA?oc=5": {
+      "title": "Petrobras descobre hidrocarbonetos na Foz do Amazonas, na Margem Equatorial - Agência iNFRA",
+      "summary": "Gabriel Vasconcelos, da Agência iNFRA A Petrobras informou na noite desta sexta-feira (14) ter identificado a presença de hidrocarbonetos, possível sinal de petróleo, em poço exploratório na costa do Amapá, na Bacia da Foz do Amazonas, uma das cinco que compõem a Margem Equatorial. A companhia começou a perfuração no local após licença emitida pelo Ibama em outubro de 2025, depois de um longo…",
+      "source": "",
+      "added_at": "2026-08-15T01:48:25.684884",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnNnUVptRlB3akJ5UWZmTndTbzVKOElucF9RWlEzUW1LS3hsMHJZZ2c1b3FsbVBIbWlUQkstZDhWd29Wd09NTGpRNzBQRm9IdDllUi1yOWJQbHhrQjdYeXgycGttVng3Z1lZT2l1UGtSRnlKVUtNVE5mSUxXV1p5N25uRE9uUmtDZWlFQWs5WFNCcHZFZTItODdwUXo2bzJxdkZQSXRyc1VJS2RXd2VtT1hUSkdhQmxDTmU2MmNQNzN4UDVIWlYwT2lXZ01wVTg?oc=5": {
+      "title": "Conselho da CCEE vai discutir 'anomalias' de segurança de mercado e vaga de novo diretor - MegaWhat",
+      "summary": "O conselho de administração da Câmara de Comercialização de Energia Elétrica (CCEE) vai discutir na próxima quarta-feira, 19 de agosto, informações sobre “eventuais anomalias de segurança de mercado”. O tema está na pauta da próxima reunião ordinária do colegiado, sem detalhamento sobre quais ocorrências serão analisadas.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:39.019404",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXJHUkpranZ2YjkyLUFBSHZST1UzbnhhbjNsV3IxZ2hnbVB6ZF9OMXJXcm8wQk5PTUJxQ1ZkeDdDUU9OXzNDWm85V2xVQng2TGlwNGxiNS05VDBjekFDMnNCUzVhaDNzQ1BWMFJOV3pEZk5iX01aNmJBS0o3WkFjdW9FZE82NlZWbl90djZvMDhXbEJUMVlFUGJNTWpieU9rS1BDemwxa3oxNUdkb0FRZm9POXFjNllTYnBFSUc5Rzh6ZzdfWnlsVU1PM0k0SkZQUFFXLWgxTlNLdzJyaUNUbXhYYkNsTzZOaFE?oc=5": {
+      "title": "CP 001/2026: três pontos que decidem o custo e a operação da medição inteligente na baixa tensão - MegaWhat",
+      "summary": "*Conteúdo oferecido pela Way2 A segunda fase da consulta pública nº 001/2026 da Aneel encerrou em 14 de agosto de 2026, e o que a agência decidir a partir dela define os requisitos mínimos dos sistemas de medição inteligente usados no faturamento do grupo B. A definição chega com o rollout já em curso: desde 1º de março de 2026, a Portaria Normativa MME nº 126/2026 obriga a instalação de…",
+      "source": "",
+      "added_at": "2026-08-15T01:48:39.020188",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnVHTkxQSUNlbHNOLWZiM0VnOVNNZnFOVmVsY1cyOXRSdTBMdG9acWlSTkY5c3BCb3EzVDQ0NTQ5RUhoVW91alNjTkx1Mi1JanZEcEphdjVvWXpIbkhhSUpiS0VhQ3pwX1FaQnluaVViZzREMzVZTXVLMUhmQ0lKMnB0Vjkwd1ktZ3hwMkVtRTJxcnhxSkRVVGUyanZBV3hJVWthWE01WVFteC1JeEJFRFhXTnQ0MUVWdEtWTjQ1MzNacXV1VU9xcQ?oc=5": {
+      "title": "Justiça mantém Máxima Energia na CCEE durante recuperação extrajudicial - MegaWhat",
+      "summary": "A Câmara de Comercialização de Energia Elétrica (CCEE) validou a manutenção da Máxima Energia no mercado em cumprimento a uma decisão judicial, mesmo com a comercializadora em recuperação extrajudicial. A medida dá cumprimento a uma tutela de urgência concedida pelo Tribunal de Justiça de São Paulo (TJSP) em 22 de julho.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:39.020548",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR203VHZmNUt1RU9kVXo2SVlTeU9VcjkwcG1SZzJucEtkRzRnNWoyYmtuQmd4VWNyTEhZME5VUHo4R3JFM21Pek0zWnA0T1c3dG03UDFBOHZoRXAzdU5RWmxSMDFONGlLS3dMclFEOU5Wc0NGcVpSajIxckZzNzJXZEpZVE9WXzByZnBGem4xdlhUZXBMM3NEejViQkx0R3pocm1VREdyU25yM1dreWtYaXk4WVg?oc=5": {
+      "title": "A transição energética precisa de mais realismo e menos slogans - MegaWhat",
+      "summary": "O relatório GenCost 2025-26 da Austrália aponta a energia renovável como de menor custo para neutralidade de carbono, mas levanta questões sobre confiabilidade, custos históricos de ativos e dependência geopolítica. O artigo defende realismo e transparência nas decisões de transição energética, evitando slogans e considerando múltiplos fatores.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:52.087593"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm14bWpGUmNzYnBKTWdJc04wMFBFazVaNUpZTkk5SlZnZDNaQmdNNmxDdDlzMlRFVWpnZ2Nsa2pESGhXTmRFcEE1dDRDVFlBbzRlZWtzRHB6SmdzWEJ2aXh1QnJnN0dnRUd0RWNFSk1LWXhOWHcydnNrUjNOMm8tOExLNHhTdFB2T2J2dzR4VE5pRExXWk4tTmRJVEZYN0dEdEI2aTNJcw?oc=5": {
+      "title": "Cemig reduz risco na comercialização e projeta até R$ 1,8 bi em 2028 - MegaWhat",
+      "summary": "A Cemig afirmou que vem reduzindo sua exposição na comercialização para 2027 e 2028, enquanto mantém estudos para participar de leilões de transmissão e baterias, além de avaliar oportunidades relacionadas a data centers. Durante teleconferência para apresentação dos resultados do segundo trimestre deste ano, Sérgio Lopes, vice-presidente de Comercialização, afirmou que a companhia vem…",
+      "source": "",
+      "added_at": "2026-08-15T01:48:52.088223",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmNlcllIQ2ZMMDdSbFYxVXU1ZzlpZlgxZXNyLXhaVjFGZ2xyRW9HOGstZkQtWnhjNktzbFhkdm9LNzJ0WlhCWEJvNFJtVXJNRW1aQUZPM1Q4Wm8zNXNkNnNaZThjdmM5eXRPV2k4MVdJZC1TQWFZODQ3M0hMUnRQamVYcTZ6WlNpYWFPakxDWC1jSjJnbndpbEdyU3Z1bUxMUDhXaUlZd2ZLaWFGaHhlM2hkeXNxdFAwSDNaRlFWTmg?oc=5": {
+      "title": "Renova leva Satoshi a 80 MW em trimestre de alta do curtailment - MegaWhat",
+      "summary": "O projeto Satoshi, data center conectado ao complexo Alto Sertão III, da Renova Energia, já alcançou cerca de 80 MW de consumo e deve atingir sua capacidade total de 90 MW ainda no terceiro trimestre. O avanço ocorre em meio a uma alta de 35,4% nos cortes de geração enfrentados pela companhia no segundo trimestre, mesmo com o projeto já ajudando a absorver parte da energia que seria restringida.",
+      "source": "",
+      "added_at": "2026-08-15T01:48:52.088535",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1dfeXJSbmFMbllKQWJyNEdhR0pOSWRBRVAtTTRaOFJXZ0xlaUY1andsTW55aWI0UTZHNEhsQ1h1aXkxQW1IekRjVFVyUlYyNWVHYWxOc2l1cmR4MmVTMF9GU25NUjE5cms1Ul9yMldRUUdEazZIN2lMLUJiSUsxbkpoeWg0MFI4a1JqMzJJNUJoeURrdjhBOGFEQkV2bGVnWERNNkNmZFJCQUQwVE0yVWtXTjNzRHh4a01wUy0xNzFCb2pYMU53bDdkeVAtQ00?oc=5": {
+      "title": "Raízen avalia dívida para separar empresas de combustíveis e açúcar e etanol - MegaWhat",
+      "summary": "A **Raízen** avalia a estrutura de capital para separar seus negócios de combustíveis e açúcar/etanol, com conclusão prevista para **dezembro de 2027**. A cisão faz parte de um plano para reestruturar mais de **R$ 60 bilhões** em dívidas, buscando otimizar a alavancagem e o custo financeiro das futuras empresas.",
+      "source": "",
+      "added_at": "2026-08-15T01:49:03.618406"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTNDdElqMkJ0YVU4MFJoOF9vT3BrMlJNR0xiVHNUZ21ObkVOZklKSm8zSTNtZVFEVFZNVWw1T2V0Q3lVbFJ1YWRLa0pUbXhsaW5kRGRiLWw2S2hCTWhuclB4YVpZcE5CN0xiYVpmeVlCLU9Ub19kU0JOSmY4TTRGLUpldmpXNWVuSXBVZXd6d0JNS0FWS3RrYzd6V3RuYkRmZmwya3RrTDBzX0RZZUZvVFJqSQ?oc=5": {
+      "title": "Edge mais que dobra contratos e vira plataforma de crescimento da Compass - MegaWhat",
+      "summary": "A **Edge**, plataforma da **Compass**, mais que dobrou seus contratos no 2º trimestre de 2026, atingindo 61 clientes e expandindo para 11 estados. O volume comercializado aumentou 27%, chegando a **461 milhões de m³**, impulsionado pela migração para o mercado livre e operações de GNL B2B. O Ebitda do segmento cresceu **50%**, para **R$ 140 milhões**.",
+      "source": "",
+      "added_at": "2026-08-15T01:49:03.618437"
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnlHS1dzYkl3TVdncWZvd0k5Y3VqQk5xR1lXUzZBekpEdGVpX3AzcEdVTkFZNVFvMEIzUGN4NWp4Z0VQbGZIejJSYUVCQnZPblE2emgxQzZ5V1FlVzY1LVNnMXF6cFA3M2hZOXBoc2xHOHRfN3N3UVl5aFJPUGxZek5oVEJpWFJwSFU4b1hublZKNFhDU19DMEF0MldwYnd2UTRlRXE4dlgtYnVqWFE?oc=5": {
+      "title": "🎙️Disputa por GNL, planos da Eneva no LRCap e o futuro das usinas da Light - MegaWhat",
+      "summary": "A **Alunorte** importará GNL para retomar produção, em disputa com a **New Fortress**. A **Eneva** se prepara para convocação no **LRCap**, e há impasse regulatório sobre o futuro das usinas da **Light** no Complexo de Lajes.",
+      "source": "",
+      "added_at": "2026-08-15T01:49:03.618445"
     }
   }
 }
