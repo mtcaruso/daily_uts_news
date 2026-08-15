@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T10:57:58.784383",
+  "last_updated": "2026-08-15T11:31:38.056711",
   "items": {
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xd1JSSW5JMWpTdHpxUDVSVmtTbG9mekk2aXNxRVVOZGlzX0I4YWpjeHplOUFlNUhmSnVqLS0xdFdzeVRtSjlPNXBRRDRoWlBUb0VKWncwWlk?oc=5": {
       "title": "Matrix Energia - Brazil Journal",
@@ -4557,7 +4557,7 @@
       "source": "",
       "added_at": "2026-08-14T21:58:33.585340",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTURhU3hmMVZiNHU5ZHdJWWRfTlRuYUhxeHFMNGU0RzdWZm85aEt5MUphR2xsTVJfM0NBVXU1TGd5eEtRaFp6QVVJb3N1UWFzc1hFOTlualloY05kQ1FkQVBqTjhfVTZsbXV3LTIxanBON3ZZNzY3QnkwV0VldTg3TndtaTJ0c3RRLTZHQS0wVGNOelhkSUo0dGFQREQ?oc=5": {
       "title": "PMO de agosto revisa projeção na carga para 5,6% - CanalEnergia",
@@ -4565,7 +4565,7 @@
       "source": "",
       "added_at": "2026-08-14T22:36:47.653004",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3ZFeUFURzVDcFNQekRYM1UtVUdESGpQZWJ6WW9lRnBPUEZBcGk4UHhPa0RZTzBaWEpjdzFWV2FReEo0WGdfeHVJVHVvSGZ0Yks5VkNRdGJWdDFmXzZpaXBtT1FsMGZEMm1hOE83X0lXejhpQy1UVHc0MjdtcmIwVHpmYWVjLUs4RmY3QW9TQW9GWngtcW1QZGhLNUhQZmtFV1lwaW1NazNMODZuUXJkMk1vd1N6WnE0YTdCZ1l4aktPam5YVzlfaWZzWlNZN2RQ0gHfAUFVX3lxTE5ManVVS0dvMGpfMURNMVI0TnF5WUEyLWtWWXczcFI4TGJEeGh0MWx3bm5YX0RISVBvekhWNHlLNXlBbEpGZGZvR2plMG9aOENFQy1xd1FwUG5la1NZNlRLYXUxbjMwcjNtUnU2dktwTFMxc2x2QUw2RXFncDRWX0RvWWE4MnNjOEdMS09TbW1tUjBzZnpyNjQtS0pWWDl6azFPa1RYdEVoMmFiaWM0RVppZWJvekN4d2VCb0xoa3lhNUNzU1BWN25QNlBzZE1FOVF1UXU3TGRJbDlFSm9sTHM?oc=5": {
       "title": "Petrobras anuncia descoberta de hidrocarbonetos no Amapá, na Margem Equatorial - Valor Econômico",
@@ -4621,7 +4621,7 @@
       "source": "",
       "added_at": "2026-08-15T01:47:11.065155",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNnetIByAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNneg?oc=5": {
       "title": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre - Valor Econômico",
@@ -4761,11 +4761,9 @@
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSW5FcmU1RnVZLWtjM2hfZC05VEZpeUhCSjBhTmlsSXRoMmllZmFqTEc2RVV5SERpSGFFS0pEemYyX2NmcEJCaTBiU2Z3bm4zM1BGWGp0S2FaNGctYUp1eWtKSEV2MjRfeDJka19aQjBsMUVsT2lHSENnNHlDNlhNOXlEV0lyTUk5clVMS05Gcmx0eS11ZW93eUt1Q0hVMzVJWFFZSk16UnlYZEhPcWhXNWNfcFNzQU8ta1FMdg?oc=5": {
       "title": "Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn - Estadão",
-      "summary": "Economia Entrevista | Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’15/08/2026 | Edição das 6h30 00:0000:00 Teatro Cultura Artística inaugura galeria de arte com mostra gratuita e horário…",
+      "summary": "A descoberta de petróleo na Margem Equatorial pode alterar a geopolítica nacional, segundo **Zylberstajn**. O fato envolve a exploração de novas reservas de petróleo no Brasil, com potencial impacto significativo para o país.",
       "source": "",
-      "added_at": "2026-08-15T10:36:29.085692",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-08-15T10:36:29.085692"
     }
   }
 }
