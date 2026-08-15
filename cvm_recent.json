@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T20:31:54.054843-03:00",
+  "last_updated": "2026-08-15T20:54:20.595315-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -6048,60 +6048,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "5576",
       "first_seen": "2026-07-17T04:20:41.004004"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Emissão de Valores Mobiliários -",
-      "data_referencia": "20260706 06/07/2026",
-      "data_entrega": "20260716 16/07/2026 20:04",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Valores Mobiliários",
-      "protocolo": "1545700",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545700",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-16T23:34:33.170503"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "24ª Emissão de debêntures -",
-      "data_referencia": "20260716 16/07/2026",
-      "data_entrega": "20260716 16/07/2026 19:57",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "24ª Emissão de debêntures",
-      "protocolo": "1545695",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545695",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-16T23:34:33.170494"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Início de Distribuição Pública",
-      "especie": "Anuncio de Início - 10 debentures da AXIA Energia -",
-      "data_referencia": "20260716 16/07/2026",
-      "data_entrega": "20260716 16/07/2026 19:19",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anuncio de Início - 10 debentures da AXIA Energia",
-      "protocolo": "1545685",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545685",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-16T23:34:31.149842"
     }
   ]
 }
