@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T18:11:36.623502-03:00",
+  "last_updated": "2026-08-15T18:43:46.784447-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -6138,78 +6138,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-07-16T22:36:38.160248"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalProposta da Administração",
-      "data_referencia": "20260817 17/08/2026 10:00",
-      "data_entrega": "20260716 16/07/2026 18:41",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1545663",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545663",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-07-16T21:42:26.898980"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalEdital de Convocação",
-      "data_referencia": "20260817 17/08/2026 10:00",
-      "data_entrega": "20260716 16/07/2026 18:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1545661",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545661",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-07-16T21:42:26.898983"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Release Operacional 2T26 -",
-      "data_referencia": "20260716 16/07/2026",
-      "data_entrega": "20260716 16/07/2026 18:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Release Operacional 2T26",
-      "protocolo": "1545658",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545658",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-07-16T21:42:31.725518"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Boletim de voto a distância",
-      "data_referencia": "20260817 17/08/2026 10:00",
-      "data_entrega": "20260716 16/07/2026 18:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1545577",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545577",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-07-16T21:42:26.898967"
     }
   ]
 }
