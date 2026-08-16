@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T11:48:28.378531",
+  "last_updated": "2026-08-16T11:48:34.240615",
   "years_covered": [
     2024,
     2025,
@@ -1329,6 +1329,22 @@
             "net_brl": -1848500.0
           }
         }
+      },
+      "2026-07": {
+        "buy_brl": 0.0,
+        "sell_brl": 2209878.3,
+        "net_brl": -2209878.3,
+        "buy_qty": 0,
+        "sell_qty": 81841,
+        "n_trades_buy": 0,
+        "n_trades_sell": 4,
+        "by_cargo": {
+          "Diretor ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 2209878.3,
+            "net_brl": -2209878.3
+          }
+        }
       }
     },
     "Engie": {
@@ -1889,23 +1905,23 @@
         }
       },
       "2026-07": {
-        "buy_brl": 24603696.0,
-        "sell_brl": 262993.92,
-        "net_brl": 24340702.08,
-        "buy_qty": 608400,
-        "sell_qty": 12180,
-        "n_trades_buy": 17,
-        "n_trades_sell": 6,
+        "buy_brl": 39373718.52,
+        "sell_brl": 312960.29,
+        "net_brl": 39060758.23,
+        "buy_qty": 973633,
+        "sell_qty": 13467,
+        "n_trades_buy": 27,
+        "n_trades_sell": 8,
         "by_cargo": {
           "Conselho de Administração ou Vinculado": {
-            "buy_brl": 8943225.12,
+            "buy_brl": 17639402.28,
             "sell_brl": 0.0,
-            "net_brl": 8943225.12
+            "net_brl": 17639402.28
           },
           "Diretor ou Vinculado": {
-            "buy_brl": 15660470.88,
-            "sell_brl": 262993.92,
-            "net_brl": 15397476.96
+            "buy_brl": 21734316.24,
+            "sell_brl": 312960.29,
+            "net_brl": 21421355.95
           }
         }
       }
@@ -2427,6 +2443,22 @@
             "buy_brl": 0.0,
             "sell_brl": 208876.63,
             "net_brl": -208876.63
+          }
+        }
+      },
+      "2026-07": {
+        "buy_brl": 1099.27,
+        "sell_brl": 0.0,
+        "net_brl": 1099.27,
+        "buy_qty": 37,
+        "sell_qty": 0,
+        "n_trades_buy": 1,
+        "n_trades_sell": 0,
+        "by_cargo": {
+          "Conselho Fiscal ou Vinculado": {
+            "buy_brl": 1099.27,
+            "sell_brl": 0.0,
+            "net_brl": 1099.27
           }
         }
       }
