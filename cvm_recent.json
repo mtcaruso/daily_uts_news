@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T14:53:04.048607-03:00",
+  "last_updated": "2026-08-16T15:10:36.793866-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -5850,24 +5850,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "3824",
       "first_seen": "2026-07-17T18:55:45.557145"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "INFORME DE GOVERNANÇA CORPORATIVA 2026Ata",
-      "data_referencia": "20260618 18/06/2026 15:30",
-      "data_entrega": "20260717 17/07/2026 14:33",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "INFORME DE GOVERNANÇA CORPORATIVA 2026",
-      "protocolo": "1545833",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545833",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-07-17T17:57:01.387719"
     }
   ]
 }
