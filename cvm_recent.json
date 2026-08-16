@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T19:08:25.378854-03:00",
+  "last_updated": "2026-08-16T19:34:10.255607-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -5796,24 +5796,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-18T00:13:25.078071"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Laudo de Avaliação",
-      "especie": "Laudo com base no valor do patrimônio líquido a preços de mercado ou outro critério aceito pela CVM -",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260717 17/07/2026 18:53",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Laudo com base no valor do patrimônio líquido a preços de mercado ou outro critério aceito pela CVM",
-      "protocolo": "1546042",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546042",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-07-17T22:29:02.378692"
     }
   ]
 }
