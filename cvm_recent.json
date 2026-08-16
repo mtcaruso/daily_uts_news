@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T15:44:14.281522-03:00",
+  "last_updated": "2026-08-16T16:01:56.512807-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -5832,24 +5832,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-07-17T20:43:39.283016"
-    },
-    {
-      "cnpj_short": "00382-4",
-      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Atualização do endereço da Companhia; Alteração do Estatuto Social da Companhia; Consolidação Estatuto Social da CompanhiaAta",
-      "data_referencia": "20260417 17/04/2026 10:00",
-      "data_entrega": "20260717 17/07/2026 15:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Atualização do endereço da Companhia; Alteração do Estatuto Social da Companhia; Consolidação Estatuto Social da Companhia",
-      "protocolo": "1545850",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1545850",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "3824",
-      "first_seen": "2026-07-17T18:55:45.557145"
     }
   ]
 }
