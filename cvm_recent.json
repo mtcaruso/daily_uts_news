@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T00:10:16.000085-03:00",
+  "last_updated": "2026-08-17T00:58:35.929046-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -5706,24 +5706,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-07-20T12:38:05.360829"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Liquidação 10ª emissão de debêntures -",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260717 17/07/2026 21:45",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Liquidação 10ª emissão de debêntures",
-      "protocolo": "1546081",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546081",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-18T03:29:57.377033"
     }
   ]
 }
