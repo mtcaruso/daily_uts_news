@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T14:50:39.503463-03:00",
+  "last_updated": "2026-08-17T15:19:15.663625-03:00",
   "items": [
+    {
+      "cnpj_short": "01830-9",
+      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260814 08/2026",
+      "data_entrega": "20260817 17/08/2026 15:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1558544",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558544",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "18309",
+      "first_seen": "2026-08-17T18:18:58.060993"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
