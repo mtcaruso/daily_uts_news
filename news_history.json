@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T13:50:27.887364",
+  "last_updated": "2026-08-17T14:40:20.245270",
   "items": {
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnFfdlQtRU84b0ZYNGk5aVQ2dkltbWM2X0lsZlVpTUozSTJpbG9ZRHJ4LVpZelBCbTR6bDNXelYyUTFqNl85ekNjMjI0WU9zaXZRM09MM2pWRkZaY3dNMjQxb3Q1ZHhxMllmT09jTkNYVl9qM1JadXYxWGJCVkFBMXFRenR3eDJGVk9FMlBOamR5djBDVnJ2eWV1SE8?oc=5": {
       "title": "Reservatórios do Sul sobem 0.5 p.p. após chuvas - CanalEnergia",
@@ -4629,7 +4629,7 @@
       "source": "",
       "added_at": "2026-08-17T11:36:19.900184",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcm9MOEl4dDFmSERoOEhUUjVhZ21JN0xXUG5TYXRhWVJmYXVOc1RwOHRrcHJ2ODB2b3hTLV9zZ2EtNkN6ZmJ3ZmMwNXJTNUxXaUx4V1FqMEs2cUtJN0FWQms5VnV3WlRXek5rRTZ3UE9ReWtMT0l4NFBIS2RTTkgxX2dXdDBfYUc0clVmdWVEMUo3NG44bDZKLTdwRWVSb050ZUt5eVJubTBDakluU0N2NkdycG9hb2NXcEFEVnR2eTl6R0xnaVpNOHJwcjhyZWJnT0JieG5seWp0dDlQVnBQSzJIbl_SAfMBQVVfeXFMT3U4VVdJZ0pjMjNIUlQ5aHdBWThVWGszQ1JkVldQdDlRUzcwT0hzWnYyLVMxTl9oeDNxeDNJNW5ZWklmOTZzTkQyRFhWd0x4RFB5RUZCZU1hQXQ5RERjY3IzYm1CVlZuMjRkdEhnTzJWcG9zNE1VNjlLTGthN3poQk5kSEdjYnhEQUp6a18wWmxHQUh2STNHcVVCZzF3UkUtdFhJcmYzS09ybm1sUTlUZndNWURVWE94TFNmZ2xQZ1JEVzlQTEpVdld2V0N3NWZRVGlPcXE1QXl6dEJSbktETjBoR0dkQzJud0RVVmJzWnR5SGJR?oc=5": {
       "title": "Primeiro carro elétrico da Ferrari é arrematado por valor recorde de US$ 40 milhões em leilão - Valor Econômico",
@@ -4661,7 +4661,7 @@
       "source": "",
       "added_at": "2026-08-17T13:50:17.068630",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkFzNF9JR2RuWkx3ZkE1U0tDeG1iU256QTFvb1NSWVpfUlV6aEdyMUdsTnhrc2RrQktyZ1FuMmtSVTZENzU5WVRIVGFuVENRcWJPR0JjNWtsUHpRQXJMTmpuTzJCWkJvdzJlT1lkcVJpTGFWaXBBU1pwNFBMQ0JSdzJXcnY5Tk11SDJVQl9STlFRMU5BNExmMmp4SC1pWTZtWHJ5RFBhSDBSR0tFVU9SNm04X0RadTNPY09FSnhGZzhGeThH?oc=5": {
       "title": "Projetos solares de 390 MW da CIP perdem autorização sem sequer iniciar obras - MegaWhat",
@@ -4674,6 +4674,26 @@
       "summary": "A **Aneel** poderá ter a revisão da Resolução Normativa 1.030 sobre regras de ressarcimento de curtailment valendo para eventos desde **25 de novembro de 2025**, conforme parecer da Procuradoria Federal junto à agência.",
       "source": "",
       "added_at": "2026-08-17T13:50:27.879121"
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ01MMXBPMGZzOThQVkpqOXFfc2I0QnRiOGtoVXZ5MnVxVXR3M1ZRYWRCY0FrVll6aWh5czJLaE5YTzJNT1pycXV2cGdYQ0N6SE1LWHlUQTVJMkNndXNKd1hKU3V3RVNjNjNqOVE1RmlJVFlUc1JRa3ZuTkQ1bGFWTnRRWVd6enE0ak15Rkd1cHpEdTVBbFV1X0E4UUE1LU5GLThmRkt3?oc=5": {
+      "title": "Energia solar supera marco global e acelera expansão - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-17T14:40:08.762973",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUdBSE5FQVp6aUZzZloyVTR3RkpnUjdrUjBQT24zNGg3NXRkSGY4WW9pZllja3FjLVd6ZTRIVDZUdmRySWs0aEdkWm5fb21BSnloOGRsU210OGVPWjFUdzRYTFhqQzB1V2dlbEpRdHZ4bUJqX29maURqVUk4Q2lZMFdhZWxHdlJMRHVXR0owVVNfOF9WS2Zpc0Fra1FPWjNiZkkyb2ZzT1VRUHhSdUZhUWZLRmlkc0hkY0ZMS0dUUTY5amxCSnFvdVFpVlRPWTRVRDMtazhwZW1uQlMtZW9VUVVkTjY5Ql90WlZPV0ZjUdIB_gFBVV95cUxOdUdGcTJFcUN5dWhXRno2MzlST29BbHJyLWlTdF9uckFrWkV4YnMzWlJFdmlaNjRqd1oxSGhFdi1mUHVITFg1dXhqaktsdTNqc0FXNUtzbXczUlB3Q3dQcE9RWWxobWx4Q3dEWllBN3ZPQVF2dnFDX0R0Vl9vMEp4eU5fT0lzcHIyZDI2RVRIOWJxampYTWJPbVk1REhiVS1RUGQzZjNrTlJVLVB1SVc1MkEtZXBDS2N0ZXdwSzBROFVFVWI1Wlo3aE1UWUlYNC1leFYtT0g4dkFUMmJoZzVqbHQyWm9oWkd4djhVeXVrRWhSaDJPUkh4dmhmd01CZw?oc=5": {
+      "title": "Elétricas se preparam para o 'Super El Niño' já de olho em ações no longo prazo contra o clima extremo - Valor Econômico",
+      "summary": "O setor elétrico brasileiro se prepara para um possível \"Super El Niño\", com foco em ações de longo prazo contra eventos climáticos extremos. O ONS alerta para um cenário inédito de frequência crescente de tornados, ciclones e enchentes, exigindo a construção de conhecimento em tempo recorde para tornar os sistemas mais resilientes. O fenômeno, previsto para iniciar em agosto e se estender até o primeiro trimestre de 2027, pode causar secas no Norte/Nordeste, enchentes no Sul e altas temperaturas em outras regiões, impactando o consumo e a geração de energia.",
+      "source": "",
+      "added_at": "2026-08-17T14:40:20.237943"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUU2ZzRWWHlRUjVDWk1pWngtQzY0R3VQZTZEUVBTSFFsa2xYTUJEWXJycXR4bFpKdVg4WTNfMUw5ZUJRdXpkTWdyVjVORk1xX3puOWU2ZGFCOGdOQ0NWcUlGM2ZTQUVJR0hWaU9qMVJoQWtnM0NvMnlndDdWeENYTTFDZ1R0ZHZMNG9Md3I0cjBJRmVaYU5yZi1DcFNTWFhSeGw1S3JwSS1ORENoa0F0YXE4d042aTk4WEJXLWI5a3poYUctNGhz?oc=5": {
+      "title": "Ludimila Lima volta à diretoria da Aneel com tarifa branca e prorrogação de hidrelétricas - MegaWhat",
+      "summary": "Ludimila Lima retorna à diretoria da Aneel e assume a relatoria de processos importantes, incluindo a modernização da tarifa branca e a definição de regras para prorrogação de concessões de hidrelétricas em troca de investimentos. Ela substituirá Fernando Mosna até janeiro de 2027. A tarifa branca poderá ter seu uso ampliado, e a prorrogação de concessões poderá ser aplicada a usinas como Salto Santiago (Engie) para amortizar investimentos em ampliação de capacidade. Lima também analisará recursos sobre ressarcimento de cortes de geração solar e multas aplicadas a transmissoras.",
+      "source": "",
+      "added_at": "2026-08-17T14:40:20.237975"
     }
   }
 }
