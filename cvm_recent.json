@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-17T17:43:51.860359-03:00",
+  "last_updated": "2026-08-17T18:02:09.846082-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "1. Apresentar os resultados econômicos e financeiros do 2ª trimestre de 2026 – 2º ITR.; 2. Participação dos Auditores Independentes (Auditoria Externa), para discutir sobre o trabalho de revisão das informações trimestrais relativas ao 2º trimestre de 2026.; 3. Reporte semestral do Programa de Integridade – 1º semestre de 2026 e o Reporte trimestral da Gestão da Consequência referente ao 2º trimestre de 2026.Ata",
+      "data_referencia": "20260812 12/08/2026 08:30",
+      "data_entrega": "20260817 17/08/2026 17:58",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "1. Apresentar os resultados econômicos e financeiros do 2ª trimestre de 2026 – 2º ITR.; 2. Participação dos Auditores Independentes (Auditoria Externa), para discutir sobre o trabalho de revisão das informações trimestrais relativas ao 2º trimestre de 2026.; 3. Reporte semestral do Programa de Integridade – 1º semestre de 2026 e o Reporte trimestral da Gestão da Consequência referente ao 2º trimestre de 2026.",
+      "protocolo": "1558682",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558682",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-08-17T21:02:08.989980"
+    },
     {
       "cnpj_short": "02474-0",
       "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
