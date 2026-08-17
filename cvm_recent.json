@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T20:53:28.816640-03:00",
+  "last_updated": "2026-08-16T21:29:29.148166-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -5724,78 +5724,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-18T03:29:57.377033"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Emissão 11ª debêntures da AXIA Energia -",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260717 17/07/2026 20:36",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão 11ª debêntures da AXIA Energia",
-      "protocolo": "1546075",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546075",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-18T00:13:25.078085"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "CERTIDÃO ATA DA MILÉSIMA CENTÉSIMA PRIMEIRA REUNIÃO DO CONSELHO DE ADMINISTRAÇÃO DA AXIA ENERGIA S.A.Ata",
-      "data_referencia": "20260717 17/07/2026 10:00",
-      "data_entrega": "20260717 17/07/2026 20:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "CERTIDÃO ATA DA MILÉSIMA CENTÉSIMA PRIMEIRA REUNIÃO DO CONSELHO DE ADMINISTRAÇÃO DA AXIA ENERGIA S.A.",
-      "protocolo": "1546073",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546073",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-18T00:13:25.078084"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Escritura de Emissão 11ª -",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260717 17/07/2026 20:24",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Escritura de Emissão 11ª",
-      "protocolo": "1546072",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546072",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-18T00:13:25.078081"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "AVISO AO MERCADO - 11ª Emissão -",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260717 17/07/2026 20:22",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "AVISO AO MERCADO - 11ª Emissão",
-      "protocolo": "1546071",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546071",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-18T00:13:25.078071"
     }
   ]
 }
