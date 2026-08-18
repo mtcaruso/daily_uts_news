@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-18T16:54:23.626828-03:00",
+  "last_updated": "2026-08-18T17:09:56.300019-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Informações Contábeis Intermediárias da COPASA MG - 2T26; Atendimento ao disposto no artigo 25 do Regulamento do Novo MercadoAta",
+      "data_referencia": "20260812 12/08/2026 09:00",
+      "data_entrega": "20260818 18/08/2026 17:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Informações Contábeis Intermediárias da COPASA MG - 2T26; Atendimento ao disposto no artigo 25 do Regulamento do Novo Mercado",
+      "protocolo": "1558986",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558986",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-08-18T20:09:54.882088"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
