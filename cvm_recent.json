@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-18T19:09:37.182191-03:00",
+  "last_updated": "2026-08-18T19:38:27.110993-03:00",
   "items": [
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Elevação de Rating pela Fitch Ratings -",
+      "data_referencia": "20260818 18/08/2026",
+      "data_entrega": "20260818 18/08/2026 19:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Elevação de Rating pela Fitch Ratings",
+      "protocolo": "1559187",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559187",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-08-18T22:38:15.575329"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
