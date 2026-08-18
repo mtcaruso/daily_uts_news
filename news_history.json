@@ -1,112 +1,6 @@
 {
-  "last_updated": "2026-08-18T21:57:07.770062",
+  "last_updated": "2026-08-18T22:38:02.362815",
   "items": {
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzZwWHQzWU84YnlNdWd3WEhTR1FjbmZqaXhFeHJuc1RPak5CbE8zTE5tSXVsUlFwUUFJc09SNUZVRGY2ZVdoVlEzNW9iODVQeEh2Rk1HR0JWX2pRRHNHVzl6RVlubGNkbzR1ckZzVmJ0OERoOFIyWUo4UHpVd19NWXN4c0ZveTZoSzZfbk1tdkwtTkhfWkwzS1ZsZEFKTXFwR1R1enJBWGM5VXV3NE1feENoSQ?oc=5": {
-      "title": "Idec mostra preocupação e critica jabutis de PL sobre irrigação - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T22:20:38.759133",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1hCRW5TWW9TZEFLbjJlRlc0VnUwS1dXdFA5U1d4czAyLXhaRURGQWpKNDF5Z3ozVUdaeUU2QXVjUkdNMktiOGpIenhZRkR2U0FzSGxULTNTQkdTUFBwTjVNdFFidGhRRGl4bjAzOWhGS25QTDFYUE5GVXlVTVU0N2UwNjJVN0VkMHRpMjRQQWZaRzFW?oc=5": {
-      "title": "Eneva inicia operação comercial da UTE Azulão I no Amazonas - Agência iNFRA",
-      "summary": "da Agência iNFRA A Eneva informou nesta terça-feira (4) que recebeu autorização da ANEEL (Agência Nacional de Energia Elétrica) para iniciar a operação comercial da UTE (Usina Termelétrica) Azulão I, localizada em Silves (AM). Abastecida por gás natural proveniente das concessões da companhia na Bacia do Amazonas, a usina comercializará 295 MW (megawatts) de potência contratados no Leilão de…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:03.686618",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGxlSjZQckRSOVczWGJTR1ctXzBvMnptdmlhT3NBb3lVZzUwY2J3bDJRNUwzeGlPdTNLVHdBRkZfQWp6RDBwTWxHSlo2ek1KSWNjYTJDS002dWRKNE4ydmJFNTJVVnBvTlJQMUFvbklxMGNIeVBxVHkxZGxVTUdpUE5pQXN1WWNzdjIxSjczcW5pSllOaGRnSDlWNXJhcXBncmhWZUpTVUhUWk5EdkFZaGtCQ0w?oc=5": {
-      "title": "Aneel cancela multa de R$ 305 mil aplicada pela CCEE por falta de lastro - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) cancelou uma multa de R$ 305.579,53 aplicada ao Estaleiro Atlântico Sul por insuficiência de lastro de energia e determinou que sua área técnica avalie a fiscalização sobre possíveis falhas operacionais na Câmara de Comercialização de Energia Elétrica (CCEE). A decisão foi publicada no Diário Oficial da União desta terça-feira, 4 de agosto, por meio…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:03.686826",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjZDZjg5bXFsZ2pxYzU5d3hEU1lES2V5dGt3dlNGOUdyYlBJeW4tRUd0NTBlY0xELVhnY0N1LUtXc0pIcDdRc3FVVmo1c28xWVo5eEhwNjhZT1c4UmllV0tVUkRFcnRoZjhveHFNdHJVcFVaeFowZk0xanJnNUFUT3JKYzA3Snh4NW9ybEZ6WExZNE9xR1RSODNaZktNVmR0UWwzMFlQd2dwZTVXYnRYdDdsUEZqVjRwcmJsbDNIQm9IcXY4dUNR?oc=5": {
-      "title": "Sem novas áreas, Brasil enfrenta desafio para repor reservas de petróleo, diz ANP - MegaWhat",
-      "summary": "Para a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), a reposição de reservas no Brasil passa, necessariamente, por mudanças no processo de licenciamento ambiental e pela regulação da produção de recursos não convencionais. “O desafio-chave atual é como resolver o problema com o licenciamento ambiental, porque precisamos de novos blocos”, disse o diretor da ANP Pietro Mendes…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:03.686957",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWpadlpuM2dLdDNjUzJyTTRJeG9xYk05bW9rR3JhVjVhX3NsV1dadUM2Q2ptNWdYN0hqbEpBVzY3bEt3RW00dXp0VzF6cGcxeTNWUHNSVlVCVDl0Sk45R2pwNHVYRHRxRWNRNFBuWmVteFJLdjZsUUNyZTlEWGV1N0tMdXZBckN2bGxGWEpjeXVhenQ5aUlpUTFIX0NmS3F6alJEZVJRbVVVcS0zekhfVTk0anNoY0N2VGJiVi1QMXQ?oc=5": {
-      "title": "Brasil lidera mercado de data centers, mas pressão no sistema elétrico ameaça expansão - MegaWhat",
-      "summary": "O Brasil concentra cerca de 49% da capacidade instalada de data centers da América Latina e desponta como principal mercado da região para sustentar o crescimento da inteligência artificial (IA). No entanto, a expansão do segmento dependerá menos da demanda e cada vez mais da capacidade do setor elétrico de fornecer energia firme, ampliar a transmissão e superar gargalos regulatórios e de…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:16.835393",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmJmRmJRNmt5empzREZianBWY24yY0VuUGFib1B5aWRpWmY2bmxuWEcwbDRQWUI5VVc0OGNCZ2M0aFd1Wl9rZ21BTlVBaHhBWFFxWjNXOTN4YUtSZ2JRbEpxVW5yRUZjbzJOYjcxektva0FSbjJ5cUJoM19EZmplZnBYRkZ5QUt0dzJ0UjFVSmthV2U3NnVfS0N2VFlyVG9ZRDVzUkxhYTl0SFhRQ2dmZ2RldjlxNHllX3RGdmo5ajJmbmQ1VmRSRFlhbW13dDNHNF9wY0t6QQ?oc=5": {
-      "title": "Estados entram em defesa do PL 5.017 para contratação regional de térmicas e PCHs - MegaWhat",
-      "summary": "O Fórum Nacional dos Secretários Estaduais de Minas e Energia (FNSME) manifestou apoio à apreciação, pelo plenário do Senado Federal, do substitutivo ao Projeto de Lei (PL) 5.017/2019 e pediu a preservação dos dispositivos relacionados à distribuição regional das contratações de mais de 7 GW em usinas termelétricas a gás natural e de Pequenas Centrais Hidrelétricas (PCHs). A posição foi…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:16.835584",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnRfVXo0alhBV2hxN2xjOUxkZWFMQzlYd0I0QlZjbHM3aklIRllGSGQ4V0ZOczEzYlNjMThYQTlTYUtjRXRxc2JkUEhoaHgwSDZlbU00V09oMUJJN1BfeFBLYk83VmdfTWZfcWJRbFVuR01RQmNaaFp6MXlwQ09qSGVyZy1VZ3Q3ZTBRcXR5cm4yazVmVEtNaWJrUHoxSUZGakc4T1pBMVo5d3I0YXJQWW00MWx2dXF5NElock5EV1R6RnNNMHVSMUN2QQ?oc=5": {
-      "title": "Com El Niño no radar, Enel SP pede à Aneel acordo para compartilhar equipes em emergências - MegaWhat",
-      "summary": "Diante do risco de temporais mais intensos com o avanço do El Niño, a Enel São Paulo quer ampliar a capacidade de convocar equipes, equipamentos e materiais de outras distribuidoras para acelerar o atendimento em situações de emergência. A empresa pediu apoio à Agência Nacional de Energia Elétrica (Aneel) para destravar acordos prévios de ajuda mútua entre as concessionárias.",
-      "source": "",
-      "added_at": "2026-08-04T22:22:16.835725",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFFCUGlFWnhWV3F4aHMtczNpYzlpcW52UlQyRkxGaS1jUkxRS1NSM2JDcm1vUlNFMzM0LWg3Y3RlZjhzVnQtTEJTVkpCSThfTThmMURoQ3c4Y2ZiN3Y3aG1MVEFxb2VXckxwblZiUEg2RVdNWmNtc1NHb19XbUJFanU0YV9vZnN2cENtNWM2cEhjanVBMzE3U1pJQlVuejl3UVFDdUZPSkM?oc=5": {
-      "title": "Eneva inicia operação comercial da termelétrica Azulão I no Amazonas - MegaWhat",
-      "summary": "A Eneva recebeu autorização da Agência Nacional de Energia Elétrica (Aneel) para iniciar a operação comercial da unidade geradora UG1 da termelétrica Azulão I, no município de Silves, no Amazonas. Embora a unidade possua 361,5 MW de potência instalada, a usina foi contratada para disponibilizar 295,42 MW de potência no leilão de reserva de capacidade (LRCap) realizado em 2021, com contrato válido…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:16.835831",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFcyRWdyXy1JaU5hLWlObzdBUEw4UjA4T3BITlNmdk9Lb3FXQk1ac0lGcGM3YWR2YjhaZFlMYl9UX2QxdkR3ekFwRy1nNlFDVDBsRXZuQTNoaDZxLVB1cjZ1VVlycWV0T2h3Q1B4Sk02WmhIQWVhTXZxVlB0SkZybmhCOGVnSDNsanhMT3FMWHdUTzBYYTdnRF9oYU5nQQ?oc=5": {
-      "title": "Absae cobra segurança jurídica para leilão de baterias - MegaWhat",
-      "summary": "O número recorde de projetos cadastrados para os leilões de reserva de capacidade na forma de potência (LRCap) para sistemas de armazenamento demonstra o interesse dos investidores e a maturidade alcançada pelo mercado brasileiro de baterias, de acordo com a Associação Brasileira de Soluções de Armazenamento de Energia (Absae). Ainda assim, a entidade alertou para a insegurança causada pela…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:16.836002",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUFNFZE5EM3BKaXJHRlN0MlE4clB6Zjlja1NiZlVkUTVPVnZadnEwbDhfdkNlWlBqcjdHMTRCVlZGNm91MWFPeGNHN2k1ZktQVnpRZUJDV1JCamNXTFZMVmtRdHdHMFNEU2JQX3k1QU9vNWpMWEVwYzdDdTY4RzZ2VGZ1QUdRYmNuMTJQd3lMV2lkNlBBUHNiN2NZQ243Q2pfcHFfM2pkZENvV3Z0QnZtSlRZQUdyb3I2ZXZUYzh6QmxqRjBlQ0JKaDVnZ3k?oc=5": {
-      "title": "ISA Energia cadastra projetos para leilão de baterias, sem meta para vencer - MegaWhat",
-      "summary": "A ISA Energia Brasil afirmou que pretende manter uma postura seletiva na disputa pelo primeiro leilão de reserva de capacidade com sistemas de armazenamento em baterias. Durante teleconferência de resultados do segundo trimestre de 2026, a transmissora informou que cadastrou projetos para preservar a opcionalidade de participação, mas ressaltou que a decisão final dependerá da atratividade…",
-      "source": "",
-      "added_at": "2026-08-04T22:22:28.171488",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCZG14eDU5U19HZVhJVEI5aFZkYS05RlM1MWk5cWpWWWdOM2FoQ1g4TTgtSHJ0akp2TVlUeVVRTUh4RlJ5amJ6YlZ0dEhnMWNyTTZTODdvWl93UmI4aG9z?oc=5": {
-      "title": "MegaExpresso - MegaWhat",
-      "summary": "MegaExpresso Megaexpresso BNDES vai ampliar linha de crédito para energia solar Segundo O Estado de S. Paulo, o BNDES planeja ampliar os financiamentos de projetos de microgeração de energia solar.",
-      "source": "",
-      "added_at": "2026-08-04T22:22:28.171536",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaTV3SFFtZWc5M2RKU3NEcEVhWWFfZmZpRGlFRkZlYWlCODVsQjFyLXVTQWRyVlM4R2F1WmRHYzg3OU1PTWdhajUtZWx0bUdzQ0tVam9pRk1XSzVGdGwycXltbUtWbmhsQnRBMExEUnYwUWxfYXVXLWZLMkktRV9TSlVGVUhwaHpuSWpIbVN0dXV2UHR0S1ItSjNlbWZRMktHUzFpaW90QVVieTdCVVdld0VlSG44aVNBS1RydGc1bEZ1YlJ5c1lDS3Y1WGlIQlE?oc=5": {
-      "title": "🎙️Por que o leilão de baterias corre risco mesmo com fila recorde de projetos - MegaWhat",
-      "summary": "O leilão de baterias em dezembro enfrenta riscos devido à disputa no Congresso sobre quem pagará o encargo, com pressão pela aprovação de um PL que muda a lei. A jornalista Camila Maia (MegaWhat) destaca que, apesar do recorde de projetos cadastrados, a indefinição regulatória é o principal risco. Há também expectativa sobre o julgamento do recurso da **Enel São Paulo** na Aneel.",
-      "source": "",
-      "added_at": "2026-08-04T22:22:28.171570"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREpGemN3aTVBQ0gwNC14OVlTZ2dlcHMxalptMlliQUZOU0JFOTBGUGdvOXpFdEpjZzlBd0c0TVdyMUx3bGZOVlNhSXpDbzNUSjBpSExlcmxtV2VkdVhmVVpEcGZpVmJwZE4yUHM1RzdoUy0yWWhrQmYtcUNRYTBXc1pZMzl1WVN3ZFFjMEtoazZZZWNDUGFWa2QzTktzNl91bUdhb3lwazV1TnltZ05pZzBhTjkza2Noanc?oc=5": {
-      "title": "Relivre muda metodologia e cria rating para avaliar abertura do mercado de gás - MegaWhat",
-      "summary": "O **Relivre** (antigo Ranking do Mercado Livre de Gás) atualizou sua metodologia e agora oferece um sistema de rating para avaliar a abertura do mercado de gás nos estados brasileiros. A ferramenta, elaborada pela **Abpip**, **Abrace** e **IBP**, classifica os estados em cinco níveis, com a isonomia entre consumidores livres e cativos tendo o maior peso (39%) na pontuação. Desde 2021, o mercado livre de gás viu um crescimento significativo, com o número de consumidores livres saltando de 18 para 90 em 2025, e a pontuação média dos estados subiu de 42,3 em 2023 para 49 em 2025.",
-      "source": "",
-      "added_at": "2026-08-04T22:22:28.171710"
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFo4TEc1b01PWlk5QzdoOTZFRlFSM2dhNTBtZDZrdWhzMlFnOW9EbktBTEo3d3RqRGJtX09TMFI5WUJKN0xMbjFLbWJ6bzVPYmp3MF9YSFpEbGZuVHhweHYxYkJoNzduek84OFN4SXpLVGlHMHZFRlFXb0xKYWdjNkdKQlZVd195OFRvcld4WE5DTi1jX1hkN2xENGFxanhaTElsUnBXYkI3enNXc2pzSExiRVFuNUtEV2RqMWlHcXRXNWs?oc=5": {
-      "title": "ISA Energia descarta leilão de transmissão e mira certame de baterias – Edição do dia - MegaWhat",
-      "summary": "A **Isa Energia** não participará do próximo leilão de transmissão em outubro, focando no primeiro leilão de baterias do país. A empresa, que já possui experiência em armazenamento de energia com uma instalação de **30 MW** em Registro (SP), busca novas frentes de crescimento. O CEO, Rui Chammas, confirmou o interesse no certame de armazenamento de energia, que pode abrir novas oportunidades para a companhia.",
-      "source": "",
-      "added_at": "2026-08-04T22:22:28.171993"
-    },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3Nia1dsT0FoenNQZm94S0FzYnNZTm1iMzVGVXhaNFBJY0hvOWtydl9kdW1CbUJrSEI0NV8yUzc1cFRSX0d3OXpvT0hvX1FXR0RCdm1GSmV2LWpsSHhUUlp0eHlYZnJLUjlpSjVRdG9IODFxQnYyUFJkYTZkNEE2RjFkSGl0cFk1cW1STVpFbw?oc=5": {
       "title": "Aneel adia reajuste da Equatorial PA - CanalEnergia",
       "summary": null,
@@ -4627,7 +4521,7 @@
       "source": "",
       "added_at": "2026-08-18T18:53:27.839038",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUDhMRUxkZnA2TFV4Vlc3UUw0NFNDUFplNFNiak5FTDlSNlI0MVE0UXBKMFlfcVhPQ2lra1ItaHk0T1Z0VU95YUp4amNqaFNEMWlNWWQtRWtWZUVMenROMUhEOHNOb2VwRk95WWl4cEVISXhRS2NFRnd0UHl4aWlsMS1UOWNVV1Nhci1pMEhyQ2ZSSDdiQmpFN3hIOTR3VDBadDF3?oc=5": {
       "title": "Ministro do TCU determina bloqueio de recursos do UBP - CanalEnergia",
@@ -4635,7 +4529,7 @@
       "source": "",
       "added_at": "2026-08-18T18:53:29.559506",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2xnQ3ZHVDAxNGdPc2MyRmx4WndpQ2VDMjFUc2pPazhXMVhTbVVlM211WGlTaVJfN3lZdGo1a2NYSkRqU2R1bmVmV1QwQ1VNUXljR1VPUXEwVDJhZ0FQTlRwNTlZbDVGaExsTHd1eU1mTm9sRUM3QmNpRml3S2pRZDdULVVKei1MS25uVWdTVDZxYXhHT2lIUkhmVlNROHlJVG5SYVBPX1VnQjlnRWFEZFN6OVpONS03Qy1JeHRiMkdsZmJNUWh2cXZvVEU0ZzZ2QU1LdElHaXbSAecBQVVfeXFMUEcwUU9qbjNGRFNRNE5Qb3VRUXJRS210RWpZUEd5REw0TV9USko5cnMwbktxUkFORjMzdzd3WTdKYnVnLUlDRThqZ0JqLVIyS0FiN0Z6eXBlY2hyb1NoVHFXTXpIVkV5cUVZZnNlLWE4VmZoZzF3MVU4S0NUM3hvdUNIUWEzZmFWSUp6RzB2NVJ6Y3YxcFdZOUNSZXF5YTY0Q1djLTZlbEd0eksxWXdNb3hwUEFLbGE3NVE4TVVMR3NFSDdoQ0J2VU5Ueml3cEYyMUNRdTJPeUNDdGNQUkN6bFZJRkpMM3hr?oc=5": {
       "title": "Canadá busca acordo de última hora com Trump para evitar tarifa de 50% - Valor Econômico",
@@ -4699,7 +4593,7 @@
       "source": "",
       "added_at": "2026-08-18T19:57:06.791680",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOek45RFlQUE9NU3RpNWlvVzlZbGYtamVQZS1oUUhZeEJWOWZpaU83eEYtNHhNVTNkSXNjSGc5TlF5UTg3eWdsY2kwUmJ1dVRER3pTekFOVXRpSDEybTJ2OVdjMENrNFo3ampuZG55UGtOTDlVMjA5dlpKb3J0Y2s3Q0FKV2FCalRWallKUERELVI3cWZSRlozc184Q2d4eVlMUGx4RFFqZU03aURWa3F5RmZEckJibzdvZGs0ZnFhVFF2dmVIVzgxWFplUHVEclpn0gHfAUFVX3lxTE1Eby1BclZGRGZLZXJuWDl2MVVfaXVRcUFnYUpjZThuRXlka3ZIOFVDcDFMd3hmaW9tNlZTVlUxTDY2ZTZNbzRRZWQ4eWFGcEJaZndfZ3Q3VEc5U3p6a3FKcTVRY2hrUVl0ZmlQYmhOTFRqMWstRWVVZmxKajlaT092d1JDYk1CTlBOVGp0bXprWEswTG5SemxzUk5OaTFwUmtPZmZybk5hblhERkdLb2l4ZE41N3RKUUJUT19xck1tZndRTXdBaG9oT1BzMXhYVkVOZmJkd2FIM2tkcVAzck0?oc=5": {
       "title": "TCU bloqueia R$ 5 bi destinados a reduzir tarifas de energia no Norte e Nordeste - Valor Econômico",
@@ -4725,7 +4619,7 @@
       "source": "",
       "added_at": "2026-08-18T21:35:22.665468",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbUtsVHNjS0RhVXRvQUQ5czEtcFVtanFjRXM5Uzl4bVdDR3gwT0FFODEwMHZTSTZpcjl6NjA0S0ZYdmFoMWR2ZzZoVTJHUXNnbnhuYlU3OTB0NXhHaldHTEZvYkg2ZkpreU4yelJocEdvRzFsZ2pjNkdhV05XSzBtekpnRFBNdzA0ODRsVF8zZEpBcTBoN1laSmxXcm9oS0dMbGhvNW1uWmIwMjRwZ1MwQjQtZXRRSW04OWlRUHl4VWkxOVg5UXB6ME16U2R4b0xVUm81dmZCbHg?oc=5": {
       "title": "Empresa de energia pede recuperação judicial dois meses após dizer que faturaria R$ 1 bi este ano - Estadão",
@@ -4751,13 +4645,19 @@
       "source": "",
       "added_at": "2026-08-18T21:56:51.523530",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUYweGVxYVVyV3AtRzVZRGlnaFUyaXFKX1lWS1NFMzNDZ3JRU0MxbUNYME5XTVdnQWFyUzNjM1JzY3ZjZTZ2dEk1c3JnclhEWnNic2x1Y1hZWmVubHNHc1kyVWZWa19kLTJncnprLUtkM0VQQlNTZDVQX3l5QlNqVFlqZ3Z0WXp6aXEtTklsUmQ0aHBqZFhHZ3NXYmx4NVBfN2dJR3dUeWZwWTd2WXdyQ1FwTTlWcHFKVi1sRXM2R3YwX3FRNEpuVXhYZXVVd19mSnRQSGtsLTczMTDSAeoBQVVfeXFMUGVlb3FLZ3dMZUIxWC10ZHZxMWt6REFMNVVQRnA0T3BBU3BNS3hVa053eVEzM2tVMmJSUTc1eFpWWFZqM2I2UFQ1RFRKdV9yOWY4Q3FQQmc3ZHFDdXlyS1VLbW5IeEdPWnVvcHZfRDFjOTlFeThHeXFxNF9zNXJBVXhYd213RGE1WENOSUhaSUtESDlJQXVBNm5odFhEVVhvUTBSeERfUFNKUDhEN2hFRkRjU3hzNTJRb25PSURES0J5QmsxVGlOTTVoQkZJbkU3RmUtNWFjeTVPXzBFMkZsTk9aVUZrcExZaUl3?oc=5": {
       "title": "Por que o México, com energia mais cara e fóssil, supera o Brasil em data centers da Odata - Pipeline",
       "summary": "O Brasil está perdendo espaço para o México no mercado de data centers devido ao atraso na regulamentação de incentivos fiscais, como o Redata. A **Odata**, empresa do setor, tem mais capacidade instalada e demanda no México, apesar da energia mais cara e fóssil. A empresa, controlada por fundos globais como **AIP**, **MGX** e **GIP** (da **BlackRock**), busca aprovação do PL 278/2026 no Senado para atrair hyperscalers.",
       "source": "",
       "added_at": "2026-08-18T21:57:07.762989"
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTRsdmstWEQwaE51dm82TGRwZHV4OFl6TjV1NlBxR3ltU0dBdS0tRnhpcFNXejB0elo2X1hBaXlVcTRpNmxkR0VFN0dWa19XV2psWjJzZHJJZkNHMWJnbjhSRnNNcGwtbmJDNXJtcmpGN08wMmtSM0RVbE55OGN3VEVKbWxaaU1aWUlGemYweS0xOFBHR3NlYVJUTjFuVXg0?oc=5": {
+      "title": "Eneva: gás pode servir data centers enquanto não acessam rede elétrica - Agência iNFRA",
+      "summary": "A **Eneva** propõe o uso de geração de energia a gás natural para suprir data centers em sua fase inicial, enquanto aguardam conexão à rede elétrica. Rodrigo Calado, gerente geral de Novos Negócios da empresa, destacou que essa solução pode ser competitiva e atrair grandes empreendimentos para o Brasil, especialmente com a expectativa de maior oferta e preços mais baixos do gás via programa Gas Release.",
+      "source": "",
+      "added_at": "2026-08-18T22:38:02.354828"
     }
   }
 }
