@@ -1,44 +1,6 @@
 {
-  "last_updated": "2026-08-18T12:00:47.689224",
+  "last_updated": "2026-08-18T13:05:33.398938",
   "items": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZ0puZzBWUmlJdXdoeGI2OU9Zejd0b1BycWd4b1cycjRrUnJIYmZIQ0hMZE13clFTemRUOTB5aExIX2F2NnlyLUhwaUE5UGc4NFhUVmFqVUhyQjBmSFRTMDZIdVg0YWZlT1Z6bFV2VXVwSGJSOFJ1TXkwLUhzSG8?oc=5": {
-      "title": "Expansão da energia solar na Europa chega a regiões antes consideradas pouco ensolaradas - UOL",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T12:16:11.179979",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkFjeEdXRTZkOXBZYml1NWdHQmNUSV9sbGNpWVd4TElsT0F2V3g4NmRsakV1aXVVYkpUbTBfenBnUHZRMUJHOHI2ZURUZmN1RkZjbGZBaDZabWw2MldTOWV5aExCdElway1ZN1FkeGNUQnZwZHJQZlFRVFlOOXQ4RkJmOXoxNzhIV3FnejFPNFpkenBYc0R6allqUmxrM3JWUktDM1Eyazk0UTNvMUp1OHhqWHM3RXlWeWxwWkJwckdZZnpycUhhSlJUX3RZQmxITlNsUERwTzNvb0w1UkFF?oc=5": {
-      "title": "Data centers e IA pressionam infraestrutura elétrica e aceleram modernização das redes no Brasil - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T12:16:22.959559",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk4xMG9CNmtsMGpqQnFXQTdyaTh2UE42SDdyNzctSHF0aDBlQ2N5Q1ZORmlQZndFXzlNOVRLNE5oLWNXZ3NIX09pZE9FQzlnbU9vdTVNYl9jNUpOWTh1QmxkeG83N1RCVDF1MzNjMXN5ejhJZkp4bkZyLVgzSDJud05hU01SUWFCTzVZaWxZSUMzdFU?oc=5": {
-      "title": "Aneel discute esticar concessão da Engie; Copel e AXIA se opõem - Brazil Journal",
-      "summary": "A Agência Nacional de Energia Elétrica deve colocar em votação ainda este mês uma proposta que permitiria à Engie prorrogar o contrato de concessão de uma de suas hidrelétricas em troca de investimentos na instalação de duas turbinas adicionais. Se aprovada na diretoria da agência, a regulamentação mudaria paradigmas do setor, e poderia viabilizar um projeto de R$ 2,67 bilhões da companhia para…",
-      "source": "",
-      "added_at": "2026-08-04T12:18:17.081090",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjFmdGZjOGNhSGYxd0JBbGs5SmtNLTlReGYwS1BPZlV5R1ZJSUEyWXI2QjBaSE9ULWQ1SndoSzBBell1b2stTUtTUldYODgzXzEyZ2RvZzVKWVVQQU5POVFZT0o4Y3Z5aFRwY2pHYzVMNnpoWkNlcVBqZFVwb3ZVSE8yeGJFREg3N1RpUy1hOWdpdnc5OEpZNG4zN0kwRlA0UllBamxKSXo?oc=5": {
-      "title": "Aviação elétrica avança com aposta em aviões híbridos - Folha de S.Paulo",
-      "summary": "Taxiando em direção à pista, a hélice para de girar quando esse correspondente puxa o acelerador para trás e aguarda a decolagem. Em uma aeronave leve monomotor, isso geralmente é um sinal preocupante de falha do motor.",
-      "source": "",
-      "added_at": "2026-08-04T12:18:17.081411",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb0tocS1SSFpfMVhMZEVMZEhjOE9KOC1CejVnZGd5YnFjZVktRklfQWI4NG9jTzUzOEtxU1E1eEZMbnpPUUV0M3RtR3otQUd2R2ZrWGhlODhpZkxNdFFFRHFCc1o3UWxPNXBTTk50R081anR2SHlKWjBmb0NuVlhLTXJuS0gwdExlcHpaZG5JNUdQZ1lMbWlndlZxbEQ4QTNvSFdIcHM3RDA4SHNZTE84V1hocFE2MENMR0tsU2hndE5VcF9FOXhRaFZfSVNTbUxQenBlWjN5OHh5OURUbUZVUw?oc=5": {
-      "title": "Barreiras para avanço da IA incluem produção, consumo de energia e limitações de hardware - Estadão",
-      "summary": "O avanço da Inteligência Artificial (IA) enfrenta barreiras como a produção, o alto consumo de energia e limitações de hardware. Carlos Rafael Gimenes das Neves, professor da ESPM, aponta que, embora a IA aumente a produtividade, o retorno sobre o investimento (ROI) ainda é um desafio para muitas empresas, especialmente as de menor porte, que estão em fase de exploração da tecnologia.",
-      "source": "",
-      "added_at": "2026-08-04T12:18:27.075619"
-    },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNExDb0MzQ1c4eXlBZm1QRFYtYS1zU1ROc3QtdnZzOE9XempEUEI4dm5jVU1mQmVtMkwwdXZmMzAyZkp5VWdBVG9QMk5Ga1hjenhLODlYaE5kUXpseHZndkdoQkl6STRaalYyRlNhMW1JWGNCdmxCbkhhRkk2cGQ3SG9uNW8zZVZvMDVickRvOEQ0blJQZkZJ?oc=5": {
       "title": "Emplacamento de elétricos sobe 1,6% em julho - CanalEnergia",
       "summary": null,
@@ -4489,7 +4451,7 @@
       "source": "",
       "added_at": "2026-08-17T22:37:26.682513",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzdBRy0wcWNNd3BRNkkxeHFTY2tzTkRjTmVNUWowdXZ5ZFlKNkp3TzRDeWplMmg4RVdFdDE4VlJaV3dSSEp3VzFGT29tZGhXQVhLai1PUGtEYXBGRjJ5cHhQSlV4WUc2S1lqR2VBc2Q0eVBtZ081RW9tQkZtanViM3FSazVjc3NOUTBYb3pRT21QMkNZSjF3TlJfbUtUZDU1X1BOc1JCTXpNYTlCeXYwbjJBQjdtTkpuVTBHV3F3MHZNQ2fSAdIBQVVfeXFMUEN3WDJGcnNkV3RwLUxkMDhqTEV3Sl84VEotUHR4X3ZCVGdNbllRSGRNR3pXZHRwaFhxUUlFWFZjZjBtLURyaU1zUWNCUl9WdmpRYzdOWTdyNklrM3R0dGFkQ0RfQmctSGxzTWY4bkxNWGo3TXJCLWpoLWZfVG0wTFJTSVhPeGpsdHUxODVGWWZuOHRPdlo1amtERnlPbEZ0eUl2RXl0eUdZcnpIRU9wZGRIRWxFdjVkNmNCOGtmUnNqckpHS0RYTWZxUHRvc2lTdkRB?oc=5": {
       "title": "Eneva notifica ANP por indícios de gás natural em bloco no Amazonas - Valor Econômico",
@@ -4519,7 +4481,7 @@
       "source": "",
       "added_at": "2026-08-17T22:59:59.290748",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzdBRy0wcWNNd3BRNkkxeHFTY2tzTkRjTmVNUWowdXZ5ZFlKNkp3TzRDeWplMmg4RVdFdDE4VlJaV3dSSEp3VzFGT29tZGhXQVhLai1PUGtEYXBGRjJ5cHhQSlV4WUc2S1lqR2VBc2Q0eVBtZ081RW9tQkZtanViM3FSazVjc3NOUTBYb3pRT21QMkNZSjF3TlJfbUtUZDU1X1BOc1JCTXpNYTlCeXYwbjJBQjdtTkpuVTBHV3F3MHZNQ2c?oc=5": {
       "title": "Eneva notifica ANP por indícios de gás natural em bloco no Amazonas - Valor Econômico",
@@ -4533,7 +4495,7 @@
       "source": "",
       "added_at": "2026-08-18T01:47:58.400902",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2NXR1ZpbjBFU2NvbUwtdktWZVhrVnNJbWl1cWZtalgyVjhpN0w5dl9USHpibUtiaEpkYXp6YVpuOG9PS29ZUTRLeXhCNWxXeTlsWVFUVGZDMmt5OG03WXh0dnhtbWU3U1IxTUhHVUdpRU0yMkRXMGFKdGlDUXJ0bGQ1amRZYWNkanE2RzZHSlpGR1JZNzZ4S1hXdy1HcEFQ?oc=5": {
       "title": "Trata: Estudante sem saneamento perde, em média, 2 anos de escolaridade - Agência iNFRA",
@@ -4597,7 +4559,7 @@
       "source": "",
       "added_at": "2026-08-18T11:36:54.914404",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcUd3R19LTHpPWmFhUnZzRUNQSkRlX3JLeTFfaFRkR1hoLW5PWFhCVHNNbXlmOGpnaUdWemUzNTI3VWF4NS1fU1N2dF9xY0wyblBuZHd2OEFkV0NoLUtjSGdIQVVuX0xZYXltTHNXSnE4RG1QcDMxSTlNRFFBd1dGTnAzZ20tX293aW5iWUVSc3BPRFZWQ1JzLVRKSmtjd2FKWkpGMU5nUG9XMXFhMnRNQ2c0Q0VmRXRjR1ZnZ3JPX1RDeTdGa0EyRzNJYWd0UXVZY1JEVDhjcjLSAdgBQVVfeXFMTnFHd0dfS0x6T1phYVJ2c0VDUEpEZV9yS3kxX2hUZEdYaC1uT1hYQlRzTW15ZjhqZ2lHVnplMzUyN1VheDUtX1NTdnRfcWNMMm5QbmR3djhBZFdDaC1LY0hnSEFVbl9MWWF5bUxzV0pxOERtUHAzMUk5TURRQXdXRk5wM2dtLV9vd2luYllFUnNwT0RWVkNScy1USkprY3dhSlpKRjFOZ1BvVzFxYTJ0TUNnNENFZkV0Y0dWZ2dyT19UQ3k3RmtBMkczSWFndFF1WWNSRFQ4Y3Iy?oc=5": {
       "title": "Axia Energia acelera inovação para tornar setor elétrico mais resiliente - Valor Econômico",
@@ -4605,7 +4567,59 @@
       "source": "",
       "added_at": "2026-08-18T12:00:47.682397",
       "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEJ0U3JUTFdnYnBRVHFBNWpnMFB1enZiWEYwR1U2TzZROS1JUWdVQXlTcjZDNVNhdjNWMzdRalNGY1JBa1hpb2M3ZTNOaG1zekhfVVBfeTFfMkQwazNmWU5aRWplR0IzWmRhRUk2RVEwM2dkSUZGdzhIeldWczlDRTJpelRhdmdCUUNmNDlNdEZsUlFqR1RZ?oc=5": {
+      "title": "Diamante testa biocarvão em usina no Ceará - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-18T13:05:01.307147",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjNsVUZEczhtYjlEMWNmN0E4QzJPc1dEZnRoemxYMlRncGpxblBfWVVwaE1NZzRTSV9OdUZCSlVNUEdVLWhZVUdiWnNvTEM2TVFjSml6M2ZvQkt0Q0poQlhkU1dEa3JQeE1wWlpDWHdBanMycE44aC1LaDFZNUhja2hCZjVaOVAzSHNrYWRhZGxpV05xdHU1bkpsMlo?oc=5": {
+      "title": "Taesa já pode energizar compensador de Tangará - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-18T13:05:02.950215",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzByNTJHOThYWE1iX3EwX0hZVGdiZTFZTkwta3BnS2NYdDdTcjFfcEhZeTN5S2ZzdmxzT3ZHMjFSajlFLVVfLVUtWmwtZTdGbU1oSEhJWDBFNndZR3pndzBxcm80UXg2QWtfZW80Q3JXeEZaWGN1MFZ1dGtHSTk5YXE5RFBwZm5wbWd0N2xxMVBiWTZLYXFlTzZ1eXk2NDM5dFlsM205NGdqdExmVmJFYS1obzU0emd0V2RmWWUxellUSHdnSkFnTQ?oc=5": {
+      "title": "Ecopetrol conclui aquisição e assume controle da Brava Energia - Estadão",
+      "summary": "Eleições E-Investidor Pulsa Paladar Jornal do Carro Descubra Assine Entrar Em Alta ecopetrol conclui aquisicao e assume controle da brava energia Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORA Seu resumo narrado do dia Hoje em 5’ 18/08/2026 | Edição das 6h30 1x 00:00 00:00 São Paulo Conteúdo Patrocinado suspeito de matar…",
+      "source": "",
+      "added_at": "2026-08-18T13:05:25.374578",
+      "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5": {
+      "title": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento - Agência iNFRA",
+      "summary": "da Agência iNFRA A apresentação a investidores do projeto de concessão dos serviços de abastecimento de água e esgotamento sanitário do estado de Rondônia está acontecendo nesta semana. O primeiro encontro foi realizado nesta segunda-feira (17) e apresentações individuais a interessados ocorrem a partir desta terça (18).",
+      "source": "",
+      "added_at": "2026-08-18T13:05:25.374664",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSV9sbWhxdHNIdl9QTUNRQU9laWI1LW9yLVBaX3FORF9FMnZMd19rWnF0Y2RfSGRRSW43dnR3WDF1Tm5QOTdIeW1EMlhnemk5ZHJ1ZU5BSFRXUnlsc0pqcUc4bnVLcjRVLUxrdnB2SzFFbmQydTl4TFdMTzQtNlo2WGhXWEtLbW1oY0xvQ29MeHQ5SnFSdzdzYnNCdlJySFBrV3Y3dVlObFlKeGQ0cklLNTN1blZURmpFaFhIMTdpb3dIUnlDTGo4?oc=5": {
+      "title": "TCU bloqueia repasse de R$ 5 bi para distribuidoras após redução da conta de luz - MegaWhat",
+      "summary": "Uma decisão cautelar do Tribunal de Contas da União (TCU) bloqueou R$ 5,03 bilhões que seriam repassados a distribuidoras de energia e abriu uma incerteza sobre os próximos reajustes tarifários de empresas beneficiadas pelos recursos da repactuação do Uso de Bem Público (UBP). A decisão, tomada pelo ministro Antonio Anastasia na segunda-feira, 17 de agosto, preserva os efeitos dos reajustes já…",
+      "source": "",
+      "added_at": "2026-08-18T13:05:25.374844",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWNfRVUwUWhPZWhFa0NEV29nZkVlcFp5ZGF1emxfZkpoQlo2VHFnWE5rVnRwSEY4T0tTRFJESHBmSEh5SmwwQkt4ajVtMUs1QjZlbmM0VFo1a21kQ3NRd3hhT3Z2ZW5vemZfZVZEZlhBQnJrR2JGOVdQM3dXaFB6Smg4U0p2ZDRkR1Z0VzZXMHlqNFRMdWtHUElySE9fWC1abnJLOFJKYjRTWVVPT21nakNhQlh6TTAt?oc=5": {
+      "title": "Tramontina compra participação em eólicas da TotalEnergies no Brasil - MegaWhat",
+      "summary": "A **Tramontina** comprou participação em eólicas da **TotalEnergies** no Brasil, Maral I e II, com aprovação do **Cade**. O objetivo é garantir benefícios de autoprodução para sua cadeia produtiva. A capacidade instalada e o valor do negócio não foram informados.",
+      "source": "",
+      "added_at": "2026-08-18T13:05:33.391809"
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZm5fNHB5VjlNa3ZHU3A0aHRBcDFDV0xubTVucm9Eb0tYcE5yY1AwQnFRcGNyeHltYlNqWGJ5eW5FYmhEckxCM1R1VTFjTlFud2dCa29RYXFnalBnMmJZellWZ2o3R2hiNUM0eUdXN2I2RXV6VVJxSzNHeWhPa2hiNXI2WXE2WFRpMFEycWRvTjVqcm1KQ21tZGNSTld5Tzdpa1JVSEl2aUNNWUlWaU9meXBuUVlCc081N2Rqbg?oc=5": {
+      "title": "País precisa reforçar redes para enfrentar clima extremo, diz ONS – Edição do dia - MegaWhat",
+      "summary": "O **ONS** alerta que o Brasil precisa reforçar suas redes de energia para enfrentar o clima extremo, com a possível chegada de um super El Niño. A **Petrobras** confirmou descoberta de petróleo no Amapá, com **US$ 300 milhões** investidos até agora, e aguarda licença do **Ibama** para mais três poços. A **Braskem Idesa** entrou com pedido de recuperação judicial nos EUA, buscando reduzir dívida em mais de **US$ 920 milhões**.",
+      "source": "",
+      "added_at": "2026-08-18T13:05:33.391848"
     }
   }
 }
