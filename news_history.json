@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-08-18T16:46:19.114871",
+  "last_updated": "2026-08-18T17:39:29.447399",
   "items": {
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1JZSE9Fdzd0X0xoelJaQmVLS2FOdER0NGFHVDBJeFZTZjFqMlVjaFpwVkNfTTJhbHpaYmJLSGtNMTYyTWs3eDItLUhxWjdscmUxWEVBcE9hM3hlY25FOEdKSDVvSGY1VU14OFFmdFprUU1ERVNXMWFJUGM5VU4xNjZaWFlhNFVQemp0MzFzandveDVWVmV1WVRLTW0yZVZZTC1kMUJUb25aNlRhcTBDb1cwM3gxNXhTNWo1U0c0M1FTUzFZTlFHeTEyanNRZ2p1R0hTY2lObjZzVmNQemlDMnN4cmt6QmFMaFHSAfgBQVVfeXFMUHJ6dkxteGdXdGQ0OXloaDJteFk2emtfc3hqeDkwbmtmUWgxMWpLQzY4b1FZVzNjNnlzeG10dXh2NUhkU0FMYUxpY1ZHVXE1WGp1ZzFmakh2WEZIUzBhWFZSVXRyR3RIYURSbVBRNXNhTHVZZ2pPcjhmUmpnNFJEY2FhRGlGMjI4X0NrVUJKYmdsbm53Ry11dnVPM0psYk1LRVlyYnpiY0EwckVvaHRpTjBHUlM0dW5RQzdHV1RpYVZXdHN6UUV0QklkQk4yU19tLU9FSXN2czV2X1hMZFdPR2tjN3dSem5WeFY2MmttUnM4dFNyU3pvLVo?oc=5": {
-      "title": "Fizemos cadastro de projetos em leilão de baterias para manter opção, diz diretora da ISA Energia - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T17:17:00.393380",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdk1zUHFrNW85TGhCd2ZjZi11NURwM28xUFV3WTlxM3JwMk45OWJCS0paSWk4RFZEdGxFa2c1TEY3eE1ybkZLRzY2S0xEaW5XSHpWU2UyTXZEYU9kOG5YOFBPNUpHeVNkcDY3VnlPVFNTV2lsT0NsdFlHb3AycXloaF9iN056VmY4VlVCZ3NqYUdyQ2FPUDk3cFNGQUV2c1ZBWWhJWXcyQmZrdw?oc=5": {
-      "title": "Região SE/CO baixou 0,1 p.p e opera com 62,7% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T17:17:15.683536",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTFExSHpRUEFHblU2TWV4MVhUSkw1cTBpWVU3d3BCUkpzeWhJbDJ0TTVHY0dRY2xTanI4OHM4aERFbW1GMkRkTGFTemRwWDFqXzF1My1rSldzeUFNcy1CMVY4US10VXV2ZnZrUERPdlpWWkNVWlI2c0ttN2dKbzgyVXE5d1BFSnppQVRKU1J5bUZLcWpuY3lOcVBNYzROSVRfcERTTV9yM3BMbHBkUHJOaGRWWFFPUTlDZ0ZtenFMWVU?oc=5": {
-      "title": "Técnicos rejeitam prova pericial e defendem conclusão do processo da Enel - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T17:17:17.379830",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1Vhb3NZSHdEOWJhTjh1MkRoUmNCd3VQWVJ5eS1fSV9uaXpVR3pSa19peDJGUHBHUl9yck1TNjh6aWVuaEtRMWtuaG93bENrMFltMlJhQmNwdkhSYzgzc3Y2azhhQmxJSnpMcEZnVGFtSmozQXFTQjRSMHE1U2s0T3l4dXl4eldRV2E1b0NmX09jMUhSdW1sMEdFeW9YR2Q2NGxKT21fVFhRWk1CbW9OVUpMQVVlMWxqSzlqOHJ3?oc=5": {
-      "title": "Isa Energia Brasil mantém cautela sobre leilão de reserva de capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T17:17:19.073747",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaGtwaU12TjVJVmZrNzY3NDNSWVE3UVJvT1ZFck01UmFEZWNVQ1ZaZkcwXzZaaG5teEpEOU5HRUlFUTFfMkNXTnA5UkI0dzJNOU55UmlqWGUxQ0E5V0h5TmZoQmZ0X3daVnhlelR6Njl1cjFSX3BjWGZ3d215ajJ6TnJqSWF2dWlyLUR5cEhtVFR0X1dZNDlTdERncVBPN1dGM2gzMjBZZjBNRElNWUJmWEFUZHhHQnYyNEZuRW4tTF9HUjVpa1BzSEhBQVB3TGpiRjdHOXhzS1ozbS1rbVB5MHlhVUJ3RjDSAecBQVVfeXFMTmhrcGlNdk41SVZmazc2NzQzUllRN1FSb09WRXJNNVJhRGVjVUNWWmZHMF82WmhubXhKRDlOR0VJRVExXzJDV05wOVJCNHcyTTlOeVJpalhlMUNBOVdIeU5maEJmdF93WlZ4ZXpUejY5dXIxUl9wY1hmd3dteWoyek5yaklhdnVpci1EeXBIbVRUdF9XWTQ5U3REZ3FQTzdXRjNoMzIwWWYwTURJTVlCZlhBVGR4R0J2MjRGbkVuLUxfR1I1aWtQc0hIQUFQd0xqYkY3Rzl4c0taM20ta21QeTB5YVVCd0Yw?oc=5": {
-      "title": "Suzano nomeia Carlos Aníbal como diretor industrial de celulose, engenharia e energia - Valor Econômico",
-      "summary": "Suzano nomeia Carlos Aníbal como diretor industrial de celulose, engenharia e energia Aníbal vai substituir Aires Galhardo, executivo que ocupava a posição desde 2019 e apresentou seu pedido de renúncia perante ao conselho nesta terça-feira (4) A Suzano anunciou que nomeou Carlos Aníbal Fernandes de Almeida Júnior para assumir o cargo de vice-presidente executivo industrial celulose, engenharia e…",
-      "source": "",
-      "added_at": "2026-08-04T17:18:16.924030",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWRIRVRfYVpMeFR6bktoa1Z6S2FCWXJoRThJSUphMjdrUVVjN0o3Nm1jT2Q3TWQ3bGpaZXZCQlNyWFk3RWF6TWpjUWJqWEFyQl83TmV1UkRtdnNVcENkY1ptTWxfYTE5UEVnNzJ2Z29sUmhKRDcxb0R6a1hPOTEwMjdGT0xxaC1QaUdndWRvdFVrNUJpanhub1JjbkZ6Y2VnVVpmWDloWjBkaloySmVjTHV2RUppUURBV2fSAcgBQVVfeXFMTndaU2JRY1dRcWJTWWNzc2JxOFdFN00xb252RG5MU2tERmVqM2Y2NGRqbjZCaEl6eHFjSWdjVTIyaFNrT2JfVV95Nm1RclFKRWt6Vk82ZXBfZHlOVmR1WWE0ZmRoVGtZZU5MaW9Bdk1LaWRobWJHTVI4RWNvUmRkSVN5c2pNWjJvNF9LVldDY1IwYmprcGs1amp3X2RyaktoZTlPVms3S2VROW5IU3lFRXd4N1VRTFdlcjJDMHZiNXMxQkwwWnNlNU8?oc=5": {
-      "title": "Importação de bicicletas elétricas da China cresce 178% em 2026 - Valor Econômico",
-      "summary": "Importação de bicicletas elétricas da China cresce 178% em 2026 Volume é baixo, mas Brasil sai de 9º para 3º maior comprador mundial do produto Seguindo trilha semelhante a dos carros elétricos, a importação de bicicletas elétricas, autopropulsados e ciclomotores da China quase triplicou no primeiro semestre de 2026, na comparação com o mesmo período de 2025. Dados da alfândega chinesa mostram…",
-      "source": "",
-      "added_at": "2026-08-04T17:18:16.924388",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUhXZk5VM2NtNTdFZlZuNFVCZVVyVkNDOUNiLTg2UlJUNGxfQTczRVlBdkF1MVFHd0dsbU9IbW90ZDIzY3Bnc1FOdmQyT2ZMTUNTWHVBeG9JOXFVLV9JUGdRTFdudC1iNFpTc0RtSmp4SGRqam1PUlRiT2piZzdIOXlrUTZ0bzFCWUM1U3BLXzdPd1cwWGNQM0cyX1c0aGRnYk51VlJfdV9ZN1liZUE?oc=5": {
       "title": "Solar off-grid sustenta internet em comunidades da Amazônia - CanalEnergia",
       "summary": null,
@@ -4537,7 +4489,7 @@
       "source": "",
       "added_at": "2026-08-18T13:05:01.307147",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjNsVUZEczhtYjlEMWNmN0E4QzJPc1dEZnRoemxYMlRncGpxblBfWVVwaE1NZzRTSV9OdUZCSlVNUEdVLWhZVUdiWnNvTEM2TVFjSml6M2ZvQkt0Q0poQlhkU1dEa3JQeE1wWlpDWHdBanMycE44aC1LaDFZNUhja2hCZjVaOVAzSHNrYWRhZGxpV05xdHU1bkpsMlo?oc=5": {
       "title": "Taesa já pode energizar compensador de Tangará - CanalEnergia",
@@ -4545,7 +4497,7 @@
       "source": "",
       "added_at": "2026-08-18T13:05:02.950215",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzByNTJHOThYWE1iX3EwX0hZVGdiZTFZTkwta3BnS2NYdDdTcjFfcEhZeTN5S2ZzdmxzT3ZHMjFSajlFLVVfLVUtWmwtZTdGbU1oSEhJWDBFNndZR3pndzBxcm80UXg2QWtfZW80Q3JXeEZaWGN1MFZ1dGtHSTk5YXE5RFBwZm5wbWd0N2xxMVBiWTZLYXFlTzZ1eXk2NDM5dFlsM205NGdqdExmVmJFYS1obzU0emd0V2RmWWUxellUSHdnSkFnTQ?oc=5": {
       "title": "Ecopetrol conclui aquisição e assume controle da Brava Energia - Estadão",
@@ -4601,7 +4553,7 @@
       "source": "",
       "added_at": "2026-08-18T14:48:59.731059",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGROV1ExTm0zbEhLTmRXeGZpMUlqUlRkaTJ4M1JOV1l0VVl4SkVBUHgzMXllZDh5N3ZPV3pCN3JnWmxlTkV4bDhEWEpBNjhTQnRRV180T3hIRGZiT3JmM2lNa1E4dFRzanhlbHN5R2dDVHdDdm5PRlpGZHJkUVZJTXpRYkxMVXdxdFQxaWRKbm9PbzVPZjJpTGE3VFMtRFlyb1BkeThhWXJ3R2pB?oc=5": {
       "title": "Lula diz que Margem Equatorial é ‘passaporte para o futuro’ - CanalEnergia",
@@ -4609,7 +4561,7 @@
       "source": "",
       "added_at": "2026-08-18T14:49:01.676077",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmZ6YnUyR2xjOXlfUzlXM0xPcFJIbzdhS2pPU1pBV1NKdDlqUkV4R1BJT3JBenBFNXBILUNsZG1ZYUdlNGxOTjR3ZXpHNXRtYWF4Mm5ZOXVRblNSR2RNNFZFWG1zNTNNaDdmS3VjSjNTVlpQTkdFdnlFbFBuQURCelZzMWpoRHpJZ2FvTQ?oc=5": {
       "title": "Lula promete seguir com transição - CanalEnergia",
@@ -4617,7 +4569,7 @@
       "source": "",
       "added_at": "2026-08-18T14:49:03.653013",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk51bTZmeFp3ejRncnBxZTdnaVJVbER5SmZKN182R1B0UnQwTU9xYnphSFNvLU53VS1vdWNjX0R2aDVjSHBPeGhoOHkwRzRMS185dWVZcWcteGtrOHBlUUluYkVLWUl0S1ZCNzBhX1JtYW9ONHQ2WXh0WkNadVJFWmRpNG01eTlzOEpkNnlZNFF4YjZhTjY5dnhPNTUyR0ZQU2phUTBuSlBxb2hhUlFfOXZyVFgwM1JRWFRnQQ?oc=5": {
       "title": "Cepal vê tarifas de Trump pressionarem mais a América Latina em 2026 - Folha de S.Paulo",
@@ -4637,7 +4589,7 @@
       "source": "",
       "added_at": "2026-08-18T15:43:36.381003",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU1PRkI1eVZuQzdrWWZpbGZ0OWFwdVZLS0txTlZwUy1XcGlacll3alBpSndpLVdzVW9lbmdGY28yNWwyalpfbHVSTV9FOXBzMWdJVGlDWnVuZTZsVGsxeFgxLVJNcFpBOGE1YjhxSllseWhrQnJsYnBBaDNUOEQ2bzFPb1dYWnZ1NW9VakFUdGhoNnhUMVZfV3Bub2NSYWh3YWZ3Qy0xWXBFY0k?oc=5": {
       "title": "Contratos de setembro fecham semana em alta de 7,2% na BBCE - CanalEnergia",
@@ -4645,15 +4597,15 @@
       "source": "",
       "added_at": "2026-08-18T15:43:38.114797",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkTzJSYkFlMVpmRjNQRVg5OU8wV2NFQzZyWlBRclFscms0ZFg5THpMaGgyLUhFWkxQbFRWMlFwZklObmNFNGg5RzQ1QWVmdkJwRUtmR2t3OA?oc=5": {
-      "title": "Tag CMSE - MegaWhat",
+      "title": "Tag CMSE - megawhat.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-18T15:43:58.918981",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNlhRejFIMGduNlBpbDkzVUNJRzBEVWFCMHRzdHRrckFyeVdfVzFObnNMOW1WSWlRbm54OTNLaUFMZEpvWjlfTmx6azRIdmN5X01jMHoxUXl6SFdxZ3d2RGpFV2RfYTNxcEw1c0xsVmZ2dXM3QkxXUXo1aFdtTWpnS0VOcmRDbVdxaUF2d3lDYWNFdFFzTU8tRXdUOEF0VFRTMWQ3WGN5YnFZcDV3dWRrNmpHMWUtNzRDOWlDTE5VbGZEYzZZNkFfV2RLVlBtZ9IB0wFBVV95cUxQUDAtSVNXVlJ6ZW5yNUtScUphQW1URS00TmtTYlZ6VVRhZ1QwZlRnc2NJQTRKSUFCMS1YZ01qbThBT2dsNm9zaXVoeU0zMVRDTkxuZnBPVUZOSENUQ2V0aUQyYmtfc1lvSkRyLUJENmRkeEs0Uk1faHVuUWppY005UnExLXp5Z2RBeWhVQy1sZklJNi1obE8ydzJEc3YtRklsZlBOWGQ3RWFzQVNQdkxxLVgxQUNoQ1RpOXNNTkZDR25Zbnd5dHNwYnlHdnJRMkFvREZz?oc=5": {
       "title": "Empresa de energia pede recuperação judicial dois meses após dizer que faturaria R$ 1 bi este ano - Estadão",
@@ -4684,6 +4636,34 @@
       "summary": "A **Aneel** suspendeu a operação comercial de uma unidade geradora de **2,7 MW** da eólica **Elera Renováveis** (Pontal A2) após danos em um evento climático. A agência também revogou autorizações de **258 MW** em usinas solares.",
       "source": "",
       "added_at": "2026-08-18T16:46:19.106311"
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjRFRW9kNzdWX3hOcjItaTBSazJzQTdXZjZPaExLb3o1bWZoQ0ZkSFVoYTBfTkxhNkMzNktLbldzdk9HbUw4ZG5fY0pNcUFmZXNwUWd6SWhXRkRxVnlCOXdRekliUFkwdE1uc1NsclBSeEdmT1l2VWdkNERHM2lHOVJhRTNUdUp1NVNHT0dUc241bEVSN1h5U1NlaFE0SVVjR3YzVzVsVGlha3k2WlE?oc=5": {
+      "title": "Fitch afirma rating AAA(bra) da Eneva com perspectiva estável - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-18T17:39:04.008557",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOE9JcTRmOEtUZE5BcU50UEFNWWRyWmlMeDRMeUNkNExxRFQxaVlab05BN0pYZXVQdTF4MzJhc1FFbkdabktkZFRLcTN5SGgwaGhyZWllUHlpRTFmYWY4SDRnQ0JwMWJ2U2ZZT19LNkJJODF2dENHTzYwLWdldlNDWEFzdU9fUWV0eFp1T3FkTnk4VHI5b2tJOFNfcXNmM0xZVmRFN0hwekw1NWd4dzJJ?oc=5": {
+      "title": "Setor Elétrico Carbono Zero: desafios e caminhos para o Brasil - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-18T17:39:05.820950",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWC1QVFRGa2FRT1lVYjNnejBBeURxU1ZMWFlTcVZUT3FXV3V5eDhRUkRscFVONUsxVDA0QXNwQXdQXzVNd2RxdjRlTmtKb2JudDdKNU5iSDVzajlGWWpCRFA0TXJMV1lwTFlNY3czVzQzX0dROVVhdEs4WVFEcTVQMlRSbERqcTFoWDhVeDRlbkE2U1VwWTN5X1M5QW5Db2FLQmZ1WUtHQ0owcEk?oc=5": {
+      "title": "Decisão do TCU sobre UBP pode elevar tarifa no Norte e Nordeste, dizem fontes - agenciainfra.com",
+      "summary": "O **TCU** suspendeu repasses do **UBP** (royalty de hidrelétricas), gerando preocupação na **ANEEL**. Fontes indicam que isso pode elevar tarifas de energia para consumidores de baixa tensão no Norte e Nordeste em **4% a 6%**. Há risco de o valor total a ser repassado às distribuidoras, originalmente cerca de **R$ 5 bilhões**, ser reduzido para **R$ 3,5 bilhões** devido a regras do Tesouro Nacional.",
+      "source": "",
+      "added_at": "2026-08-18T17:39:29.440709"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHRfVlNCTWN6NS1mcTlDanVVNFdTNXhFTHgxaWJpbmpndzE1bDAyOE1wMm95Y3JLMVpHVHA0ZWpRTkZ5dDRzMURhWjM0NktDdDlCOS1ZUkN6TDlVazNaWlFvODdSODNPZDBQaW8zWGNPYjA3dWc1WHpfdE1GMXNuRDFCdEhYVTR5SlpWcW9rNlZtNlhYdENmbnlDekhXcHBSWFBxNkFnUFVZdzJXVGc2eWlTMA?oc=5": {
+      "title": "Tradener consegue desbloquear créditos posteriores a maio na CCEE - megawhat.uol.com.br",
+      "summary": "A Justiça do Paraná determinou que a **CCEE** desbloqueie créditos da **Tradener** retidos após **22 de maio**, data do início de sua recuperação judicial. A decisão mantém bloqueados valores anteriores, incluindo disputas sobre registros contratuais que alteraram uma posição credora de **R$ 3,66 milhões** para **R$ 28,35 milhões**. A **Tradener** busca cumprir contratos com base na curva de carga de fornecedores.",
+      "source": "",
+      "added_at": "2026-08-18T17:39:29.440743"
     }
   }
 }
