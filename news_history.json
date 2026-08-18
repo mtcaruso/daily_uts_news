@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-08-18T18:54:11.602820",
+  "last_updated": "2026-08-18T19:37:15.064241",
   "items": {
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUhXZk5VM2NtNTdFZlZuNFVCZVVyVkNDOUNiLTg2UlJUNGxfQTczRVlBdkF1MVFHd0dsbU9IbW90ZDIzY3Bnc1FOdmQyT2ZMTUNTWHVBeG9JOXFVLV9JUGdRTFdudC1iNFpTc0RtSmp4SGRqam1PUlRiT2piZzdIOXlrUTZ0bzFCWUM1U3BLXzdPd1cwWGNQM0cyX1c0aGRnYk51VlJfdV9ZN1liZUE?oc=5": {
-      "title": "Solar off-grid sustenta internet em comunidades da Amazônia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T19:11:15.730506",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnB1Q24xUVpmWl8za0xJUVo1OElBLVl4c3BXRGJiczl4VW0xcUxZLUNJdm9PSHM1ZTY0Uk1Ddkh2M1VqS3pWc0JDV1RKTktiUkRWTFlFV3YteDJRekp3aGhySERGVGpfc1QzbXJPX0l2RUlKa0o4Vm56RU9qSkRTMU9KYnp2bEdVSjVHZXZ4VG5VRkFjZmxCWWJnQjVQME9kN1M4UUZiaw?oc=5": {
-      "title": "Aneel libera 32 MW para início de operação comercial e em teste - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-04T19:11:18.041546",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRWljLVlRZDd5YkVoWURiZ0J4cGgyM3FhdE1lSlhZelJDWndOMWxoNHVjamRCQkxjRHBFZURXWWk2ZWd3RllFYjYtOGpPZ21YOEIxZnpwdVR6NW1zTk1GQVZrTldIOEZVLXVGSGNwS05RQnFVYkU1WG0ydHB3VjVwWVR4cDZsWjBmNDFmMzI5QkpUMDdxLW5LdU95UVJEVGtpMFM0YjJ0dzljUkdBRzI3S204WFlkV2RDNFNNTGkwdnlVM29JQm9IQTZ4TloyRDBaMzJN?oc=5": {
-      "title": "Fornecedor da Oi corta serviço e gera apagão em lotéricas, câmeras da polícia e rede elétrica - Estadão",
-      "summary": "Economia Fornecedor da Oi corta serviço e gera apagão em lotéricas, câmeras da polícia e rede elétrica Esportes Análise | Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil Esportes Sogro de ex-jogador de Internacional e Vasco é preso por caso de narcotráfico no Chile",
-      "source": "",
-      "added_at": "2026-08-04T19:12:01.433687",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGU2UFl2UHhzaUNSblZ6Mk1UWURjQzIwX1VCVHpKazRXZWFac2lfZW9CMzlQR2JzSnRPU1JkaE54SkFxdFV2UTRzRGQtRWQ0TFJkMjgyaHlOVnZNWm5kX3FCa0pieVB1c0tFaU1pNzJzQ011VjJhRnlpYXZqSmZMcjAtRjhPMWJHb21QcmtUZmk4bWpJVkw4am8zaHROTnd3dDdESTVBOGRKZkVDNXl0WUliN2pQUVk?oc=5": {
       "title": "Gestão energética estratégica impulsiona competitividade da Schulz - CanalEnergia",
       "summary": null,
@@ -4489,7 +4465,7 @@
       "source": "",
       "added_at": "2026-08-18T13:05:01.307147",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjNsVUZEczhtYjlEMWNmN0E4QzJPc1dEZnRoemxYMlRncGpxblBfWVVwaE1NZzRTSV9OdUZCSlVNUEdVLWhZVUdiWnNvTEM2TVFjSml6M2ZvQkt0Q0poQlhkU1dEa3JQeE1wWlpDWHdBanMycE44aC1LaDFZNUhja2hCZjVaOVAzSHNrYWRhZGxpV05xdHU1bkpsMlo?oc=5": {
       "title": "Taesa já pode energizar compensador de Tangará - CanalEnergia",
@@ -4497,7 +4473,7 @@
       "source": "",
       "added_at": "2026-08-18T13:05:02.950215",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzByNTJHOThYWE1iX3EwX0hZVGdiZTFZTkwta3BnS2NYdDdTcjFfcEhZeTN5S2ZzdmxzT3ZHMjFSajlFLVVfLVUtWmwtZTdGbU1oSEhJWDBFNndZR3pndzBxcm80UXg2QWtfZW80Q3JXeEZaWGN1MFZ1dGtHSTk5YXE5RFBwZm5wbWd0N2xxMVBiWTZLYXFlTzZ1eXk2NDM5dFlsM205NGdqdExmVmJFYS1obzU0emd0V2RmWWUxellUSHdnSkFnTQ?oc=5": {
       "title": "Ecopetrol conclui aquisição e assume controle da Brava Energia - Estadão",
@@ -4553,7 +4529,7 @@
       "source": "",
       "added_at": "2026-08-18T14:48:59.731059",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGROV1ExTm0zbEhLTmRXeGZpMUlqUlRkaTJ4M1JOV1l0VVl4SkVBUHgzMXllZDh5N3ZPV3pCN3JnWmxlTkV4bDhEWEpBNjhTQnRRV180T3hIRGZiT3JmM2lNa1E4dFRzanhlbHN5R2dDVHdDdm5PRlpGZHJkUVZJTXpRYkxMVXdxdFQxaWRKbm9PbzVPZjJpTGE3VFMtRFlyb1BkeThhWXJ3R2pB?oc=5": {
       "title": "Lula diz que Margem Equatorial é ‘passaporte para o futuro’ - CanalEnergia",
@@ -4561,7 +4537,7 @@
       "source": "",
       "added_at": "2026-08-18T14:49:01.676077",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmZ6YnUyR2xjOXlfUzlXM0xPcFJIbzdhS2pPU1pBV1NKdDlqUkV4R1BJT3JBenBFNXBILUNsZG1ZYUdlNGxOTjR3ZXpHNXRtYWF4Mm5ZOXVRblNSR2RNNFZFWG1zNTNNaDdmS3VjSjNTVlpQTkdFdnlFbFBuQURCelZzMWpoRHpJZ2FvTQ?oc=5": {
       "title": "Lula promete seguir com transição - CanalEnergia",
@@ -4569,7 +4545,7 @@
       "source": "",
       "added_at": "2026-08-18T14:49:03.653013",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk51bTZmeFp3ejRncnBxZTdnaVJVbER5SmZKN182R1B0UnQwTU9xYnphSFNvLU53VS1vdWNjX0R2aDVjSHBPeGhoOHkwRzRMS185dWVZcWcteGtrOHBlUUluYkVLWUl0S1ZCNzBhX1JtYW9ONHQ2WXh0WkNadVJFWmRpNG01eTlzOEpkNnlZNFF4YjZhTjY5dnhPNTUyR0ZQU2phUTBuSlBxb2hhUlFfOXZyVFgwM1JRWFRnQQ?oc=5": {
       "title": "Cepal vê tarifas de Trump pressionarem mais a América Latina em 2026 - Folha de S.Paulo",
@@ -4589,7 +4565,7 @@
       "source": "",
       "added_at": "2026-08-18T15:43:36.381003",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU1PRkI1eVZuQzdrWWZpbGZ0OWFwdVZLS0txTlZwUy1XcGlacll3alBpSndpLVdzVW9lbmdGY28yNWwyalpfbHVSTV9FOXBzMWdJVGlDWnVuZTZsVGsxeFgxLVJNcFpBOGE1YjhxSllseWhrQnJsYnBBaDNUOEQ2bzFPb1dYWnZ1NW9VakFUdGhoNnhUMVZfV3Bub2NSYWh3YWZ3Qy0xWXBFY0k?oc=5": {
       "title": "Contratos de setembro fecham semana em alta de 7,2% na BBCE - CanalEnergia",
@@ -4597,15 +4573,15 @@
       "source": "",
       "added_at": "2026-08-18T15:43:38.114797",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkTzJSYkFlMVpmRjNQRVg5OU8wV2NFQzZyWlBRclFscms0ZFg5THpMaGgyLUhFWkxQbFRWMlFwZklObmNFNGg5RzQ1QWVmdkJwRUtmR2t3OA?oc=5": {
-      "title": "Tag CMSE - MegaWhat",
+      "title": "Tag CMSE - megawhat.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-08-18T15:43:58.918981",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNlhRejFIMGduNlBpbDkzVUNJRzBEVWFCMHRzdHRrckFyeVdfVzFObnNMOW1WSWlRbm54OTNLaUFMZEpvWjlfTmx6azRIdmN5X01jMHoxUXl6SFdxZ3d2RGpFV2RfYTNxcEw1c0xsVmZ2dXM3QkxXUXo1aFdtTWpnS0VOcmRDbVdxaUF2d3lDYWNFdFFzTU8tRXdUOEF0VFRTMWQ3WGN5YnFZcDV3dWRrNmpHMWUtNzRDOWlDTE5VbGZEYzZZNkFfV2RLVlBtZ9IB0wFBVV95cUxQUDAtSVNXVlJ6ZW5yNUtScUphQW1URS00TmtTYlZ6VVRhZ1QwZlRnc2NJQTRKSUFCMS1YZ01qbThBT2dsNm9zaXVoeU0zMVRDTkxuZnBPVUZOSENUQ2V0aUQyYmtfc1lvSkRyLUJENmRkeEs0Uk1faHVuUWppY005UnExLXp5Z2RBeWhVQy1sZklJNi1obE8ydzJEc3YtRklsZlBOWGQ3RWFzQVNQdkxxLVgxQUNoQ1RpOXNNTkZDR25Zbnd5dHNwYnlHdnJRMkFvREZz?oc=5": {
       "title": "Empresa de energia pede recuperação judicial dois meses após dizer que faturaria R$ 1 bi este ano - Estadão",
@@ -4643,7 +4619,7 @@
       "source": "",
       "added_at": "2026-08-18T17:39:04.008557",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOE9JcTRmOEtUZE5BcU50UEFNWWRyWmlMeDRMeUNkNExxRFQxaVlab05BN0pYZXVQdTF4MzJhc1FFbkdabktkZFRLcTN5SGgwaGhyZWllUHlpRTFmYWY4SDRnQ0JwMWJ2U2ZZT19LNkJJODF2dENHTzYwLWdldlNDWEFzdU9fUWV0eFp1T3FkTnk4VHI5b2tJOFNfcXNmM0xZVmRFN0hwekw1NWd4dzJJ?oc=5": {
       "title": "Setor Elétrico Carbono Zero: desafios e caminhos para o Brasil - CanalEnergia",
@@ -4651,7 +4627,7 @@
       "source": "",
       "added_at": "2026-08-18T17:39:05.820950",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWC1QVFRGa2FRT1lVYjNnejBBeURxU1ZMWFlTcVZUT3FXV3V5eDhRUkRscFVONUsxVDA0QXNwQXdQXzVNd2RxdjRlTmtKb2JudDdKNU5iSDVzajlGWWpCRFA0TXJMV1lwTFlNY3czVzQzX0dROVVhdEs4WVFEcTVQMlRSbERqcTFoWDhVeDRlbkE2U1VwWTN5X1M5QW5Db2FLQmZ1WUtHQ0owcEk?oc=5": {
       "title": "Decisão do TCU sobre UBP pode elevar tarifa no Norte e Nordeste, dizem fontes - agenciainfra.com",
@@ -4671,7 +4647,7 @@
       "source": "",
       "added_at": "2026-08-18T18:53:27.839038",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUDhMRUxkZnA2TFV4Vlc3UUw0NFNDUFplNFNiak5FTDlSNlI0MVE0UXBKMFlfcVhPQ2lra1ItaHk0T1Z0VU95YUp4amNqaFNEMWlNWWQtRWtWZUVMenROMUhEOHNOb2VwRk95WWl4cEVISXhRS2NFRnd0UHl4aWlsMS1UOWNVV1Nhci1pMEhyQ2ZSSDdiQmpFN3hIOTR3VDBadDF3?oc=5": {
       "title": "Ministro do TCU determina bloqueio de recursos do UBP - CanalEnergia",
@@ -4679,7 +4655,7 @@
       "source": "",
       "added_at": "2026-08-18T18:53:29.559506",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2xnQ3ZHVDAxNGdPc2MyRmx4WndpQ2VDMjFUc2pPazhXMVhTbVVlM211WGlTaVJfN3lZdGo1a2NYSkRqU2R1bmVmV1QwQ1VNUXljR1VPUXEwVDJhZ0FQTlRwNTlZbDVGaExsTHd1eU1mTm9sRUM3QmNpRml3S2pRZDdULVVKei1MS25uVWdTVDZxYXhHT2lIUkhmVlNROHlJVG5SYVBPX1VnQjlnRWFEZFN6OVpONS03Qy1JeHRiMkdsZmJNUWh2cXZvVEU0ZzZ2QU1LdElHaXbSAecBQVVfeXFMUEcwUU9qbjNGRFNRNE5Qb3VRUXJRS210RWpZUEd5REw0TV9USko5cnMwbktxUkFORjMzdzd3WTdKYnVnLUlDRThqZ0JqLVIyS0FiN0Z6eXBlY2hyb1NoVHFXTXpIVkV5cUVZZnNlLWE4VmZoZzF3MVU4S0NUM3hvdUNIUWEzZmFWSUp6RzB2NVJ6Y3YxcFdZOUNSZXF5YTY0Q1djLTZlbEd0eksxWXdNb3hwUEFLbGE3NVE4TVVMR3NFSDdoQ0J2VU5Ueml3cEYyMUNRdTJPeUNDdGNQUkN6bFZJRkpMM3hr?oc=5": {
       "title": "Canadá busca acordo de última hora com Trump para evitar tarifa de 50% - Valor Econômico",
@@ -4687,7 +4663,7 @@
       "source": "",
       "added_at": "2026-08-18T18:54:04.890719",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSndTUWJKOUlON1VpZ3BFVHB3b0NJaURtQXp3U1Jtc21XU0hVdVBEdlRIWDgxS1dzUG9nYmZhWDAxVXp2bXM4elJKNUN2ejVlcnhYMmxmQUgwZW9NYVdQUXpLWmhYUjhJcGZPUm5FVlp5clBDcS1lb0FOTExCbGIwSHpvbVJnd01aR0dIVkNUWTBXM0toZDJ2MXhmX2FkeURsY1FiWk1FWDUzOUdQdFhGZEkxbEszOEhTSEZKVk1PdWQ0NFE2d3NPaU1mQlJfeHlTcUJJdWhPTTJ0UzTSAeABQVVfeXFMTThUbXVFbTBPbHhvVzdjMVdtMkxRTUxqdWtXSjZZYXhlYWZUOWk1bnFsd2RRd0FrX3BTTWtTQkVya2pxaWZQNFU5R1VMWllmeHg0RHhfWjlMQnRlMHRocjAyTTJlaEpSZXNhaURaT2hTMTVjOTBWaFBYWFk4TXVNbTlvZmpqYm0yMGc5UmQ5cHpaQVVNdFl1c2VGdGRvbkxwTlFNRXZuQ1R5WWZ5WHBhSjdSVWo1c3ZwX1V6UWxraEFiaWZfbG4wSlRPNzJiSEotUjBxREwwUVZGOXc4bmFCd3g?oc=5": {
       "title": "Enel SP prepara defesa final para manter concessão e cita aumento de 73% em investimentos - Estadão",
@@ -4695,7 +4671,7 @@
       "source": "",
       "added_at": "2026-08-18T18:54:04.890849",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWExcHktRTIyNFVxVHNYQjNRLWdqUktLTWN6M2RtQVhYUXBmRmowQlhKTmZMd29iUWRXNGxFV05GcFpZdDRBQmt0cU4tWW9STC1xTzNDZ2NGZ05DX0lRRk9XZ3ZZLTZualRyVUpzYWNOVGwzNU1SMGIyNlR5SThrTldnY0psMFJ0dERVV2RySVBuYzBDNlI3N0tCa05KbXBOZjA1Nmg0dmlNUlZvX294V2VaSFlrNmRTS3NsUFRn0gHDAUFVX3lxTE9vaktiSU1JLS15dEUzc3ZLU3BLcDVXZjFMSkpTSC0zTHR1US1qRjlGUGhZMUYwbWpPNEJ3aVYzc0F4ZDdlWTJqNF90VTl1dFF2b3l0S1FWYWltWFJJVF9QakR1d214bHU1bmhFOGtJbDZjeEhhcFdGZUpPUXdULXNGQldNNW1Ud09oc2dOZGdKOHRqNTdyZWxQaGJraXVVa3VQbXI2NWpydTM0QzZsak55YldhaVVTX1NBSHVVcndVRE80OA?oc=5": {
       "title": "Ecopetrol conclui aquisição e assume controle da Brava Energia - Estadão",
@@ -4703,31 +4679,41 @@
       "source": "",
       "added_at": "2026-08-18T18:54:04.890905",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXU5ZXZMeWtaWGVBcUNQNFY4LUZkcmRhMnZCVmxFZnVNZFlqbnhySjFkRTV6VFdQVlVQQnN0SUpiSXB3bWVCUVFwYWRCWENnUzV5UUJuT05xUWZtVmtWc0pjSllxNUlxWG9JNVB3TnR1alJnb3M2S0hKWmdWWnF6OWtkcmZUQk1uUTduV3VIeTBVYW90YzJJUnRwcHdDU3NZSmhnLTJydU96ZUFTZEI3MGRRaDdrQ0tkWWtaLVZ3?oc=5": {
-      "title": "Ultragaz inaugura estação de abastecimento para biometano em SP - MegaWhat",
+      "title": "Ultragaz inaugura estação de abastecimento para biometano em SP - megawhat.uol.com.br",
       "summary": "A Ultragaz inaugurou nesta terça-feira, 18 de agosto, sua primeira estação de abastecimento próprio de biometano, na Base de Paulínia, em São Paulo. Com capacidade para abastecer até 20 mil m³ de biometano por dia e atender cerca de 200 caminhões diariamente, a nova estrutura representa um importante avanço na estratégia da companhia para ampliar o uso do combustível renovável na operação…",
       "source": "",
       "added_at": "2026-08-18T18:54:04.891022",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFJQYS00ZWRiLWI1N2htaGdYOU1BcG5yYWlTcUhEdWZTSXdUVmlnV2w2Yk9EZzdraDEtYTdZWjhzdjJaSzFkWFZtcC1HZng0aExZbzZRVTl3bE1UMUFGTVAzbUZvbjJtcTFDTEkwRnBqaFlrTHNhYXAzeHZiX0FYTFBYcXF5STV4Z01TNmF0dVB3eDN3ZUVtUkFrVk8wd004LW94NG1tb1hROFhVQUVR?oc=5": {
-      "title": "Representante de consumidores da Enel SP contestam processo na Aneel - MegaWhat",
-      "summary": "O conselheiro titular da classe industrial do Conselho de Consumidores da Enel São Paulo, Ruy Bottesi, enviou uma nova carta à Agência Nacional de Energia Elétrica (Aneel) para contestar a condução do processo que pode levar à caducidade da concessão da Enel São Paulo. Endereçada ao diretor-geral da autarquia, Sandoval Feitosa, a carta critica a análise da Aneel sobre o pedido de reconsideração…",
+      "title": "Representante de consumidores da Enel SP contestam processo na Aneel - megawhat.uol.com.br",
+      "summary": "O conselheiro Ruy Bottesi contesta na **Aneel** a condução do processo que pode levar à caducidade da concessão da **Enel São Paulo**. Ele critica a análise da agência e questiona a proximidade de decisões sobre o recurso da distribuidora e o prazo para alegações finais, sugerindo pressão para troca de controlador.",
       "source": "",
-      "added_at": "2026-08-18T18:54:04.891199",
+      "added_at": "2026-08-18T18:54:04.891199"
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM2JDdTEtemU1N0dUWnVqRXhXX3ZGOWlKUmpMU1JEOERocjZKOEMtVGR5dGsxbWJjVkVXQVhYT2JSSk12ZUp3am9hQkltYnJ1WFRLT0dtaXZoS24xTjBvVEtiMmw0OE5Qd2xsM0tlTC1CcWhtRldESS1Ed29INFBWVm9XNXJObG9sb1FISUZGeDZVbWxnaHdqd1h6d0gtMExyY1NZZnlGbHlyeG9kTnl3MHc0U2Exa1oxX3JjR2pvakROVUhWYjJGMzZqdGE5UGRWVnRqcnB0c0xaMmFFLUNMTHVqdw?oc=5": {
+      "title": "Reforma do setor deve reduzir ‘cercadinhos’ e devolver questões técnicas, dizem especialistas - megawhat.uol.com.br",
+      "summary": "Especialistas como Jerson Kelman e Edvaldo Santana propõem reforma no setor elétrico para reduzir influência política em questões técnicas, fortalecer agências como **Aneel** e **ONS**, e garantir neutralidade tecnológica. Eles alertam para um 'apagão financeiro' no setor, com deterioração de agentes e aumento de custos ao consumidor, necessitando de ação coordenada.",
+      "source": "",
+      "added_at": "2026-08-18T18:54:11.595264"
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDBDRFI2WWVfUzBoaTZVY2tzbEQzVDhRRDVmbTAtZ3g1RzdzVkVva2lteFFnaXkxYXAyOFNyZGkxMkpKNVFyRjN6bzZrUDdYekp5RktqOXNOOVN2WUpscEJQSGoxdTBMeUV4cGpaa091MFdyZk1pTGN6aTY4OHozd0NPWFdkR3U3aTY2RWhUWDdPOUhYS3VvTHE1V3dVSDBwdm43NFJNTU9FYnY3YVF6VTB1bUw1cDVUVGRV?oc=5": {
+      "title": "Reunião extraordinária do CNPE debate resoluções do Plante e eletromobilidade - megawhat.uol.com.br",
+      "summary": "O Ministério de Minas e Energia (MME) convocou a 3ª reunião extraordinária do Conselho Nacional de Política Energética (CNPE) para 2 de setembro, em Brasília. O encontro discutirá a aprovação de sete propostas de resolução na pauta, com temas como transição energética, eletromobilidade, valorização energética de resíduos, dados energéticos e mercado de gás natural.",
+      "source": "",
+      "added_at": "2026-08-18T19:37:05.456820",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM2JDdTEtemU1N0dUWnVqRXhXX3ZGOWlKUmpMU1JEOERocjZKOEMtVGR5dGsxbWJjVkVXQVhYT2JSSk12ZUp3am9hQkltYnJ1WFRLT0dtaXZoS24xTjBvVEtiMmw0OE5Qd2xsM0tlTC1CcWhtRldESS1Ed29INFBWVm9XNXJObG9sb1FISUZGeDZVbWxnaHdqd1h6d0gtMExyY1NZZnlGbHlyeG9kTnl3MHc0U2Exa1oxX3JjR2pvakROVUhWYjJGMzZqdGE5UGRWVnRqcnB0c0xaMmFFLUNMTHVqdw?oc=5": {
-      "title": "Reforma do setor deve reduzir ‘cercadinhos’ e devolver questões técnicas, dizem especialistas - MegaWhat",
-      "summary": "A reforma do setor elétrico brasileiro precisa reduzir a influência de decisões políticas sobre questões técnicas, ampliar a neutralidade tecnológica nos leilões e fortalecer a autonomia e a estrutura das agências reguladoras. Essa é uma das principais conclusões apresentadas por Jerson Kelman, Edvaldo Santana, Marcelo Guaranys e Luiz Maurer, todos membros do Instituto Pensar Energia, ao…",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TeXp5bEhPR2MyU0d1Q1NVTlpWWnVRZEd2UG8xQkpaQTdCOGVOd3AxU2hXVF95YXZyU0cxUkNsNWNySFdQQ3ZJb0dOX3BYc3M?oc=5": {
+      "title": "Tag TIAGO - megawhat.uol.com.br",
+      "summary": "O **ONS** lançou o **TIAGO Dados Abertos**, uma ferramenta de inteligência artificial que permite aos usuários consultar informações do Portal de Dados Abertos do setor elétrico através de uma interface conversacional.",
       "source": "",
-      "added_at": "2026-08-18T18:54:11.595264",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-18T19:37:15.057063"
     }
   }
 }
