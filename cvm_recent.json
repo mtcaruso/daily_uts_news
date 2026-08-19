@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T19:17:45.289430-03:00",
+  "last_updated": "2026-08-19T19:47:01.372850-03:00",
   "items": [
     {
       "cnpj_short": "02662-0",
@@ -5994,24 +5994,6 @@
       "empresa_label": "Light",
       "codigo_cvm": "8036",
       "first_seen": "2026-07-20T23:28:59.562826"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Boletim de Relações com Investidores, base Junho 2026 -",
-      "data_referencia": "20260720 20/07/2026",
-      "data_entrega": "20260720 20/07/2026 19:12",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Boletim de Relações com Investidores, base Junho 2026",
-      "protocolo": "1546398",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546398",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-07-20T22:27:38.900227"
     }
   ]
 }
