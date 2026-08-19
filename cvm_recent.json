@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-19T18:02:03.333937-03:00",
+  "last_updated": "2026-08-19T18:37:00.342144-03:00",
   "items": [
+    {
+      "cnpj_short": "02662-0",
+      "empresa_nome": "AUREN ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Revisão da Política de Transação entre Partes RelacionadasAta",
+      "data_referencia": "20260819 19/08/2026 14:00",
+      "data_entrega": "20260819 19/08/2026 18:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Revisão da Política de Transação entre Partes Relacionadas",
+      "protocolo": "1559531",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559531",
+      "empresa_label": "Auren",
+      "codigo_cvm": "26620",
+      "first_seen": "2026-08-19T21:36:50.128659"
+    },
+    {
+      "cnpj_short": "02662-0",
+      "empresa_nome": "AUREN ENERGIA S.A.",
+      "categoria": "Política de Transações entre Partes Relacionadas",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260819 19/08/2026 14:00",
+      "data_entrega": "20260819 19/08/2026 18:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1559532",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559532",
+      "empresa_label": "Auren",
+      "codigo_cvm": "26620",
+      "first_seen": "2026-08-19T21:36:50.128669"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
@@ -5976,24 +6012,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
       "first_seen": "2026-07-20T22:27:38.900227"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Aviso aos Acionistas",
-      "tipo": "Outros avisos",
-      "especie": "Resultado do Leilão de Frações - Conversão de Ações -",
-      "data_referencia": "20260720 20/07/2026",
-      "data_entrega": "20260720 20/07/2026 17:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resultado do Leilão de Frações - Conversão de Ações",
-      "protocolo": "1546337",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546337",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-20T21:21:01.157590"
     }
   ]
 }
