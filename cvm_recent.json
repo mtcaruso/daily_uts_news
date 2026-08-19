@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-19T08:38:24.506286-03:00",
+  "last_updated": "2026-08-19T08:58:06.722413-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Indeferimento, pela AGEPAR, do recurso administrativo interposto pela Sanepar contra a NT 02/2026 e deferimento da prorrogação da implementação do desconto tarifário -",
+      "data_referencia": "20260819 19/08/2026",
+      "data_entrega": "20260819 19/08/2026 08:46",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Indeferimento, pela AGEPAR, do recurso administrativo interposto pela Sanepar contra a NT 02/2026 e deferimento da prorrogação da implementação do desconto tarifário",
+      "protocolo": "1559273",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559273",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-08-19T11:58:05.770923"
+    },
     {
       "cnpj_short": "01987-9",
       "empresa_nome": "LIGHT S.A.",
