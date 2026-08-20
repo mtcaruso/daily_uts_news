@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T14:21:41.080692-03:00",
+  "last_updated": "2026-08-20T14:52:33.606783-03:00",
   "items": [
     {
       "cnpj_short": "02001-0",
@@ -6012,24 +6012,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-21T20:10:23.420062"
-    },
-    {
-      "cnpj_short": "00382-4",
-      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
-      "categoria": "Estatuto Social",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260717 17/07/2026",
-      "data_entrega": "20260721 21/07/2026 14:39",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1546545",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546545",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "3824",
-      "first_seen": "2026-07-21T17:43:39.339162"
     }
   ]
 }
