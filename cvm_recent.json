@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:55:45.799663-03:00",
+  "last_updated": "2026-08-20T01:25:01.267026-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -5958,24 +5958,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-07-21T14:53:15.474181"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "Resultado do procedimento de bookbuilding da 12ª emissão de debêntures simples -",
-      "data_referencia": "20260720 20/07/2026",
-      "data_entrega": "20260720 20/07/2026 22:21",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resultado do procedimento de bookbuilding da 12ª emissão de debêntures simples",
-      "protocolo": "1546436",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546436",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-07-21T04:11:25.940528"
     }
   ]
 }
