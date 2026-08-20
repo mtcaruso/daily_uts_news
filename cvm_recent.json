@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T20:36:40.522537-03:00",
+  "last_updated": "2026-08-20T20:57:03.782053-03:00",
   "items": [
     {
       "cnpj_short": "01431-1",
@@ -5976,42 +5976,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
       "first_seen": "2026-07-22T21:19:59.505028"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Início de Distribuição Pública",
-      "especie": "INÍCIO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 12ª (DÉCIMA SEGUNDA) EMISSÃO DE DEBÊNTURES -",
-      "data_referencia": "20260721 21/07/2026",
-      "data_entrega": "20260721 21/07/2026 20:05",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "INÍCIO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 12ª (DÉCIMA SEGUNDA) EMISSÃO DE DEBÊNTURES",
-      "protocolo": "1546728",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546728",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-07-21T23:37:25.153182"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Início de Distribuição Pública",
-      "especie": "DISTRIBUIÇÃO DA 24ª EMISSÃO DE DEBENTURES -",
-      "data_referencia": "20260721 21/07/2026",
-      "data_entrega": "20260721 21/07/2026 19:55",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "DISTRIBUIÇÃO DA 24ª EMISSÃO DE DEBENTURES",
-      "protocolo": "1546726",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1546726",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-21T23:37:19.710564"
     }
   ]
 }
