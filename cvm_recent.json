@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-20T16:07:48.427196-03:00",
+  "last_updated": "2026-08-20T16:42:04.087139-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Ata RCA 17-2026 - 12/08/2026Ata",
+      "data_referencia": "20260812 12/08/2026 09:00",
+      "data_entrega": "20260820 20/08/2026 16:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Ata RCA 17-2026 - 12/08/2026",
+      "protocolo": "1559817",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559817",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-08-20T19:41:44.324272"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
