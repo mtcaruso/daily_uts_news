@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-19T20:55:56.473338-03:00",
+  "last_updated": "2026-08-19T21:32:52.882027-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Escrituras e aditamentos de debêntures",
+      "tipo": "-",
+      "especie": "Emissão de Valores Mobiliários -",
+      "data_referencia": "20260817 17/08/2026",
+      "data_entrega": "20260819 19/08/2026 20:35",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Emissão de Valores Mobiliários",
+      "protocolo": "1559652",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559652",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-08-20T00:32:50.764393"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
