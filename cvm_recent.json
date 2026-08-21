@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T17:40:44.932549-03:00",
+  "last_updated": "2026-08-21T17:57:44.630617-03:00",
   "items": [
+    {
+      "cnpj_short": "02557-7",
+      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Diretoria",
+      "especie": "aprovar a celebração do 1º Termo Aditivo ao Contrato de Prestação de Serviços de Manutenção e Documentação de fibra Óptica n° 00512/2025Ata",
+      "data_referencia": "20260813 13/08/2026 10:00",
+      "data_entrega": "20260821 21/08/2026 17:50",
+      "status": "Cancelado",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "aprovar a celebração do 1º Termo Aditivo ao Contrato de Prestação de Serviços de Manutenção e Documentação de fibra Óptica n° 00512/2025",
+      "protocolo": "1560345",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560345",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "25577",
+      "first_seen": "2026-08-21T20:57:28.888399"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
