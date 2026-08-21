@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T08:42:17.628490-03:00",
+  "last_updated": "2026-08-21T08:59:55.572579-03:00",
   "items": [
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Adicionais",
+      "especie": "Demonstrações Financeiras em Padrões Internacionais 2T26Demonstrações Financeiras em Padrões Internacionais",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260821 21/08/2026 08:42",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Demonstrações Financeiras em Padrões Internacionais 2T26",
+      "protocolo": "1560075",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560075",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-08-21T11:59:46.155009"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
