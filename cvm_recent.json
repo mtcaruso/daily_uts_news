@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T18:44:35.607196-03:00",
+  "last_updated": "2026-08-21T18:59:09.270723-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Eneva anuncia nova operação de antecipação de recebíveis da UTE Porto de Sergipe -",
+      "data_referencia": "20260821 21/08/2026",
+      "data_entrega": "20260821 21/08/2026 18:55",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eneva anuncia nova operação de antecipação de recebíveis da UTE Porto de Sergipe",
+      "protocolo": "1560439",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560439",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-08-21T21:59:03.501353"
+    },
     {
       "cnpj_short": "02557-7",
       "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
