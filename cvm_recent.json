@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T16:44:05.281754-03:00",
+  "last_updated": "2026-08-21T16:56:29.933092-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação Site Visit CEEE-D -",
+      "data_referencia": "20260821 21/08/2026",
+      "data_entrega": "20260821 21/08/2026 16:47",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Apresentação Site Visit CEEE-D",
+      "protocolo": "1560227",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560227",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-08-21T19:56:11.128690"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
