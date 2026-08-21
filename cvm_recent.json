@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-21T20:11:52.244851-03:00",
+  "last_updated": "2026-08-21T20:35:48.697971-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Comunicação sobre Transação entre Partes Relacionadas",
+      "tipo": "-",
+      "especie": "?Alienação de Debêntures Simples e Comunicação sobre Transação com Partes Relacionadas -",
+      "data_referencia": "20260821 21/08/2026",
+      "data_entrega": "20260821 21/08/2026 20:30",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "?Alienação de Debêntures Simples e Comunicação sobre Transação com Partes Relacionadas",
+      "protocolo": "1560500",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560500",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-08-21T23:35:43.940190"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
