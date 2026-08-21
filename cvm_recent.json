@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:17:11.001626-03:00",
+  "last_updated": "2026-08-21T18:44:35.607196-03:00",
   "items": [
     {
       "cnpj_short": "02557-7",
@@ -6120,60 +6120,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "14605",
       "first_seen": "2026-07-23T12:58:25.532979"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Mapa sintético consolidado das instruções de voto a distância - AGE 24//07/2026Mapa Sintético Consolidado",
-      "data_referencia": "20260724 24/07/2026 11:00",
-      "data_entrega": "20260722 22/07/2026 18:17",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Mapa sintético consolidado das instruções de voto a distância - AGE 24//07/2026",
-      "protocolo": "1547066",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547066",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-22T21:19:44.816080"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Política de Gerenciamento de Riscos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260722 22/07/2026 14:00",
-      "data_entrega": "20260722 22/07/2026 18:07",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1547045",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547045",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-07-22T21:19:59.505039"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Aprovar a nova versão da Política de Gestão de Riscos decorrentes do Mercado FinanceiroAta",
-      "data_referencia": "20260722 22/07/2026 14:00",
-      "data_entrega": "20260722 22/07/2026 17:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aprovar a nova versão da Política de Gestão de Riscos decorrentes do Mercado Financeiro",
-      "protocolo": "1547038",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547038",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-07-22T21:19:59.505028"
     }
   ]
 }
