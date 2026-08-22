@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T09:14:02.972862-03:00",
+  "last_updated": "2026-08-22T09:59:49.777327-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -6102,60 +6102,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-23T21:31:34.462059"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20260723 23/07/2026",
-      "data_entrega": "20260723 23/07/2026 08:38",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1547230",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547230",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-07-23T12:58:21.308408"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Encerramento de Distribuição Pública",
-      "especie": "Anúncio de Encerramento da 28ª emissão de debêntures -",
-      "data_referencia": "20260722 22/07/2026",
-      "data_entrega": "20260723 23/07/2026 08:31",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anúncio de Encerramento da 28ª emissão de debêntures",
-      "protocolo": "1547229",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547229",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-07-23T12:58:26.284247"
-    },
-    {
-      "cnpj_short": "01460-5",
-      "empresa_nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Encerramento de Distribuição Pública",
-      "especie": "Anúncio de Encerramento da 29ª emissão de debêntures -",
-      "data_referencia": "20260722 22/07/2026",
-      "data_entrega": "20260723 23/07/2026 08:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anúncio de Encerramento da 29ª emissão de debêntures",
-      "protocolo": "1547228",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547228",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "14605",
-      "first_seen": "2026-07-23T12:58:25.532979"
     }
   ]
 }
