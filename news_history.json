@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-08-22T01:48:17.787197",
+  "last_updated": "2026-08-22T03:05:19.212501",
   "items": {
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdnZ6WFVmaDMwdTlGS0s3RzhOQmlZby1vQ0M1U3hxeVg5RllGN3dNRjVkREk3cU9PcFZtVHhkSGt4XzBZbWUwYWltcFVVdjBhcEgyMkVLbkZvUXNyaXYwZG5mX3o5ZWk0NUgzc2tCd3Vxa2J0eVFRQ3QyYVZDTXlPVnZCa2ZkSjZGUXU5amduSHQ3cGdqN1VNbjc1RkRBSzVmT3MzUnNzOHVGLS1Wc3lnN3lxaTVFMXpSb3hsTGl3d0ZVdmtEVWxIbGZ4UGhmRHZwR0JtcHlWLWFKWXdRYmc?oc=5": {
-      "title": "El Niño aumenta risco dos emaranhados de fios, diz presidente de federação de telecomunicações - Folha de S.Paulo",
-      "summary": "A presidente da **Feninfra**, **Vivien Suruagy**, alertou que o **El Niño** agrava o risco de acidentes com emaranhados de fios em postes, citando que cerca de **17 milhões** dos **50 milhões** de postes no Brasil estão em \"situação deplorável\".",
-      "source": "",
-      "added_at": "2026-08-08T02:18:42.068481"
-    },
     "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtWTdiZGo0aWZycFc4M2c4TS1LLVpvMW1yUDhIMTVBdE5FbFgtNEtScDVaLWVMcWZnWnRIeVZEdGVJczBRcHhqSTQtcjh5N3RmOWFya2NQOGdyUmh4R0dsQUVDT2dvb2RYSFZNR3BmTUtKaWJqdFNwLTJR?oc=5": {
       "title": "Camila Maia, Autor em MegaWhat - MegaWhat",
       "summary": null,
@@ -4785,7 +4779,7 @@
       "source": "",
       "added_at": "2026-08-21T18:52:54.525986",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY0UtS0RPS0UzdnBLMFpFNU54Z2ROQkVSZDE4N0tnMzRfYkxYazZYOUkxMUEzbWFDSE5sdVFQbHBQZmhrUUpSLWdtaS1OQnZnYW9pQzBYZ3Jna3U5QkNCamlqOUxESlRlRUNwZktwNk5OMElrYkhqaUx4VkRRSkUxX2h2VTlVNFNzT3JfQXRqbjVSX3FfY3lMbENodTByX2JBbGdXc0tCYUh5TEw5NDVCZnZ0Ui1KcFhMOE5abkxieEQ0N0Joa01xTkZPVWNVZUhDZnFWbjE0U0RuUnN5SzRCSzZFdlluQ290QTgtRjMyMDhGanRVdXcxV0ZzYXDSAfwBQVVfeXFMUGNFLUtET0tFM3ZwSzBaRTVOeGdkTkJFUmQxODdLZzM0X2JMWGs2WDlJMTFBM21hQ0hObHVRUGxwUGZoa1FKUi1nbWktTkJ2Z2FvaUMwWGdyZ2t1OUJDQmppajlMREpUZUVDcGZLcDZOTjBJa2JIamlMeFZEUUpFMV9odlU5VTRTc09yX0F0am41Ul9xX2N5TGxDaHUwcl9iQWxnV3NLQmFIeUxMOTQ1QmZ2dFItSnBYTDhOWm5MYnhENDdCaGtNcU5GT1VjVWVIQ2ZxVm4xNFNEblJzeUs0Qks2RXZZbkNvdEE4LUYzMjA4Rmp0VXV3MVdGc2Fw?oc=5": {
       "title": "ONS monta operação especial para garantir fornecimento de energia durante as eleições - Valor Econômico",
@@ -4843,7 +4837,7 @@
       "source": "",
       "added_at": "2026-08-21T19:34:00.391054",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnQ5RExRSWlCZlR0V1lsMjRVQnd0cUhKMERSRlRtTUIyNnJaRFVPTFhlemMwWEJGaWxKSWEyWVpHblgwWF9HLW9sTG1sbUlGbzNqZ3JXa0hoZnNYWDJuS2h6bUtxNWJsRTlUWHZBb0I2azhqZkRHQnp5X0xHRjdDTEJtU21FeWRkMU1tMWpsUGJNM1lEQ0FLMmZGWm8yUQ?oc=5": {
       "title": "Mais uma: fabricante de pás eólicas Aeris pede cautelar contra credores - Brazil Journal",
@@ -4891,15 +4885,13 @@
       "source": "",
       "added_at": "2026-08-21T20:37:15.718946",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkFxZk5IWVVIQzF2MGtBMjMtOTRXREJJLWJ6dEVWTlFGTDJVUHprdHVfODkxcldGQzQ5aFhKQktHYTdmYlpxRG9janlCSllHOEc1MXJMdnVId05VWi1FOW1jWFZ5WEZxRXYwRG9Ndm05dXR3VmdBOTVUZ29pdDQ0WlFGWlJ2SU5jUHE0?oc=5": {
       "title": "Tarifa aérea média cai 5,2% em julho e fica em R$ 703,52 - Agência iNFRA",
-      "summary": "da Agência iNFRA A tarifa aérea real média no Brasil ficou em R$ 703,52 por trecho em julho, segundo dados da ANAC (Agência Nacional de Aviação Civil). O valor representa uma queda de 5,2% em relação a julho de 2025 e alta de 1,1% ante julho de 2024, considerando valores corrigidos pelo IPCA (Índice Nacional de Preços ao Consumidor Amplo).",
+      "summary": "A tarifa aérea média no Brasil caiu **5,2%** em julho, atingindo **R$ 703,52**, segundo a **ANAC**. Apesar da queda nas tarifas, o preço do querosene de aviação subiu **35%**.",
       "source": "",
-      "added_at": "2026-08-21T20:38:01.101219",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-21T20:38:01.101219"
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1ZIUUNxME5wMThRZDdDMzJDRi1OWVMyVHBVUVQ1cG9fdS10bVg1NDUtb2JNMkNqTFp5c0VGMTF3REVzVC1FRU1TYVQyalE5VGV3SURHS2txXy1TYXp6VUtETmdZQ0J4dm1nOWs0eENjejBHZUVxRTUtR0ZCZzNMZno1UXdIeldNMnVGQW42R1hpamwzbEdPenZVZkYtRHRvWXZLTVlsNkFXM0M2dU90clFLNGo?oc=5": {
       "title": "Barroso defende ‘subsídio zero’ para fontes que já são competitivas - MegaWhat",
@@ -4921,7 +4913,7 @@
       "source": "",
       "added_at": "2026-08-21T21:35:35.435845",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjNfOW9jYnBPNU9oUk90RllXTzhqakZUcXdrQ1UxdDJGOVRCUTRJbkRDOGpyOV83N0hrSnFVRjBVUTFId3FROHR2TWcwRzZHZVhNc0s5cFIzRm1jMEJ5SFdLdll1eWRyQjlkS05XQXgydU5fSEI2djhDai1rR3BISy1UcWdLcnFHWXUtYTNXUVNyNkgyMVJLeG1uZzgzeUhYNTBqQlJuaGF6dw?oc=5": {
       "title": "Carga no SIN em agosto terá crescimento de 6,3%, aponta ONS - CanalEnergia",
@@ -4929,7 +4921,7 @@
       "source": "",
       "added_at": "2026-08-21T21:35:41.926885",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmJGQ3d5Y3ZlR1lOTUpLYUZ0OHNmd3ZwRHpGa1N3eEJyeFhDellLU3MwNGIzeXBlanpwdHFHLXM2X0dSYzhqc3IzM2dOckhsb1lhSzJrMXgzZl84ZTdFTTNiWWw2WEVVZ2lra0YxVi1hVDhGeksydHU2b2h1djZrUHBjVGlWbUdsSTh1aDVBelVpQktlNnNKdm5YTENQNkE40gGmAUFVX3lxTE1LeU91S0VkNWZlajVNMzFhTWFEdF9yR3lxaWVXNUZCQ20zV1VxdnAzd3VQR3JYaFpQakp3VTNrcmVJZklZQzR0UDZQSjRHMnRxcW92RzVwaEQ5UU9DOExHYjRoTjFhTVY0U2djVThJYVg3SlJqSTFWVWZhdWFnaHFTOXliZ3FjdW9seHc2TkU0SmUybUpOTUZGYlNEM1hDMUpOUjJQaGc?oc=5": {
       "title": "‘Precisamos usar nossa energia limpa como base para uma nova indústria’, diz Marina Grossi - Estadão",
@@ -4961,15 +4953,27 @@
       "source": "",
       "added_at": "2026-08-21T22:37:47.284936",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTVXUW92MHB4UDRZZTlzT0lmUlpybU5NOEg4QUI2YjFtN05SZDNoLVdBWHFrR05UWXdmeXk0eG5TMmtJTHUtdmRab19Xc0h4M3Fsb004MUxLQWlvcUpGMm9rVVBHS3N3WEFVYUZrX2RQV0JyRU83RTBLYU41RVJmZDEtRTR0YkRKX004QnNjOEJtbC1XZGxSdUF6MTBqR3U5Sm9UOFhFSDlMUmQ0TmZJdnVuVng3cDhrQ05LUXdjRDFtUTZ4YTU40gHWAUFVX3lxTFBmZWlnQThYb1hSdTdqaGxINEg3WlpWUkNwUzM0d1pKenYwYldPNXJzanNlakRBYTJJdlNJR2JDR3VBaGt3ellTYTRIdlhHcEF4MktVNDRLQkdZdF9NZVE3RENXNmd3MDgxQ3I1NXlEeV82UGdWTVg1UDZmMzlZcl9jcVlTdFJjREE3akoyY3VzcWhtUnR5OWtjV3JZdjNsOEl0SXNhTU5naUF3YUgzTmM5OFBBTHdVTjdYVWRUTmNFLUN2YzJOeTBuMER0b0JUdUdUTUZ0Znc?oc=5": {
       "title": "Eneva antecipa recebíveis da Porto de Sergipe I e levanta até R$ 3 bilhões - Valor Econômico",
-      "summary": "Eneva antecipa recebíveis da Porto de Sergipe I e levanta até R$ 3 bilhões Segundo a companhia, recursos levantados serão integralmente usados em investimentos, dentre eles os novos projetos contratados no âmbito do leilão de reserva de capacidade de 2026 A Eneva anunciou, nesta sexta-feira (21), a conclusão de uma operação de antecipação de recebíveis da usina termelétrica Porto de Sergipe I…",
+      "summary": "A **Eneva** antecipou recebíveis da usina Porto de Sergipe I, levantando até **R$ 3 bilhões**. Os recursos serão usados em investimentos, incluindo novos projetos do leilão de reserva de capacidade de 2026.",
       "source": "",
-      "added_at": "2026-08-21T22:38:08.773646",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-21T22:38:08.773646"
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkVrU24tWURITnhVTEhuLXkzYWxHWnhTbVJ0M0ZFTkZ5ZHpJMUo3X2dBV01YSGhjUll1Y2k0dWRtQW1Ja1RrQmF0N2o5eTFURUlDUjUtWXpMOHd6MTh2aVc0S1lHQ0ZWSkYxMDIySHZuRDd2cndUd2szTV9aeW1PRUNraWluVHdHZWMzMUZFZC0yc0FwU3BCX0x5T29memRoa3hydnNGY196dlNleDdzSTlkZw?oc=5": {
+      "title": "Combustível para energia na região Norte está na mira da Aneel - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-22T03:05:11.605716",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kYlFSRmNqQmxWMS1rWW55dEZqcjdDNktwaElrZ1BRNV9XaXpBWW5LZFBVR0g3NDk1SEFKb2dULTVSemhncjdyRzRVd3ItR1Y0T3Z1WTV4NUs?oc=5": {
+      "title": "Tag UTE Tucunaré - MegaWhat",
+      "summary": "Um blecaute interrompeu **294 MW** de carga no Amazonas na noite de 20 de agosto, após o desligamento automático de seis subestações e da termelétrica **Tucunaré**. Uma nova interrupção de **121 MW** ocorreu durante a recomposição.",
+      "source": "",
+      "added_at": "2026-08-22T03:05:19.204515"
     }
   }
 }
