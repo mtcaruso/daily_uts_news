@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T20:32:37.616559-03:00",
+  "last_updated": "2026-08-22T20:54:19.154805-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -5814,24 +5814,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "26808",
       "first_seen": "2026-07-24T01:04:24.698584"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Eneva comunica recebimento de R$ 340 milhões como resultado de acordo consensual no Off-Grid -",
-      "data_referencia": "20260723 23/07/2026",
-      "data_entrega": "20260723 23/07/2026 19:53",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eneva comunica recebimento de R$ 340 milhões como resultado de acordo consensual no Off-Grid",
-      "protocolo": "1547588",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547588",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-07-23T23:34:15.010044"
     }
   ]
 }
