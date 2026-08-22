@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-08-22T22:35:04.701700",
+  "last_updated": "2026-08-22T22:57:17.741556",
   "items": {
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGFWTEpTSDl3UTVtMDBOWWxDX0ZZdzRUai1oSXlrbzlzV3BzTXhyOHlJcFU3eWNEaksxdTNsMDBnYWpNd0pkb2t0QllnR3FMbDliSVVnaFl2UjIwb3Y0eEozX0lTSkFXNUItRWQ5TEJ3R3hWSTlSSHZ6SjJJNlZNVThTR3RaLVRMNlMzSENFMVAxZw?oc=5": {
-      "title": "ONS descarta plano emergencial no feriado do Dia dos Pais - Agência iNFRA",
-      "summary": "O **ONS** (Operador Nacional do Sistema Elétrico) comunicou que não acionará o plano emergencial de corte de usinas de geração distribuída tipo 3 no Dia dos Pais. A decisão foi tomada devido à gestão de equilíbrio entre geração e demanda, e previsão de carga mínima mais elevada, evitando o acionamento que ocorre em cenários de excesso de geração inflexível e baixo consumo.",
-      "source": "",
-      "added_at": "2026-08-08T22:44:00.121055"
-    },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVDRSMEptT3JfYzlCMFdBNnNYWUpWY1IzX3JEYTJSWlM4eDkzb19NZ0JjWGFyczJFbG10TmdtNDd0bTFuX2dQV2p2LTFvYThObW1FTWdIT3oyOXBLOHl4NW9zYW9mTGY1RXV0cnFueXc2ODFNSFFYaFZ0S1VkZ3dnYWNLb2U0MUlqOHJiOXgxWjc3M1V2SlRWM1RlZjM5T2sxRkRrQmZfaThscllFVVc2RlhQSTZkYl8wcHpmd3d2WUFnUVlLNHNZWEw2N2NpUFFUc1Bz0gHiAUFVX3lxTE5PdHlKTUlpSVJ4OC02aE84MXI2bUI3aEx4bzlVV044YUlQdno5UDJISTVxVHZZY0FYYVduZEFCR0VKUmo5YTFHQlJod3ZBQzhWT2JMMi1reXNtbzhJb3F3U0FfMmZZT0NVMzNPaGFsX2pRaFhrZUFBLTdySXM4dm9KYXVPM1BjaDd1Zk4zbjljdzUyV1ozUG81VEpoem82bGZ3M2NWREFLM2FobGtNX3RyY2M5X2hOWC03c3hFVUgtQ1J0SDNMWmFxN2p3TDhvbXM0NjdKVEhfa1NseVRBdWtOTEE?oc=5": {
       "title": "ONS revê disparo de plano emergencial de corte de geração de energia no Dia dos Pais - Valor Econômico",
       "summary": "O **Operador Nacional de Energia Elétrica (ONS)** decidiu não acionar o plano emergencial de corte de geração de energia para o Dia dos Pais. A decisão se deu pela gestão em tempo real dos recursos disponíveis e pela previsão de carga mínima mais elevada, evitando o \"curtailment\" de usinas.",
@@ -4997,7 +4991,13 @@
       "source": "",
       "added_at": "2026-08-22T20:35:43.581609",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZTFxSkxqWFBVZmdKdUE4cHd5VENIMFdyMDhUbDVkaXozNzZVM1lhTlN0eGllQTRSQy04VnN0dVNZZjlHMTBKVGxWcWM1SHRsVEpFRWZzSHJPdzRaNzZFWVA3dlV4Y25yZzhNZHl4amxfRnRvOElGSmNrTC1KZw?oc=5": {
+      "title": "Megaleilão injetará um Portugal em energia no Brasil - UOL",
+      "summary": "O **governo brasileiro** realizou um leilão de energia que atraiu investimentos significativos, com foco em energia limpa. O leilão visa injetar uma quantidade expressiva de energia no país, contribuindo para a oferta de fontes renováveis.",
+      "source": "",
+      "added_at": "2026-08-22T22:57:17.734061"
     }
   }
 }
