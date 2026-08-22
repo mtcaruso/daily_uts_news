@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T19:09:07.243419-03:00",
+  "last_updated": "2026-08-22T19:35:25.573166-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -5832,42 +5832,6 @@
       "empresa_label": "Eneva",
       "codigo_cvm": "21237",
       "first_seen": "2026-07-23T23:34:15.010044"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Encerramento de Distribuição Pública",
-      "especie": "Anúncio de encerramento 24ª emissão -",
-      "data_referencia": "20260723 23/07/2026",
-      "data_entrega": "20260723 23/07/2026 18:52",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Anúncio de encerramento 24ª emissão",
-      "protocolo": "1547568",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547568",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-23T22:35:11.853590"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Boletim de voto a distância",
-      "data_referencia": "20260828 28/08/2026 14:00",
-      "data_entrega": "20260723 23/07/2026 18:36",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1547567",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547567",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-07-23T22:35:10.205366"
     }
   ]
 }
