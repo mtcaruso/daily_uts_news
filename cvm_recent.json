@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T03:39:57.391719-03:00",
+  "last_updated": "2026-08-23T04:19:23.855039-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -5724,78 +5724,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-07-24T14:40:46.602704"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho Fiscal",
-      "especie": "Aprovação Oferta Pública de AçõesAta",
-      "data_referencia": "20260722 22/07/2026 17:00",
-      "data_entrega": "20260724 24/07/2026 01:54",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aprovação Oferta Pública de Ações",
-      "protocolo": "1547626",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547626",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-24T07:04:17.807586"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Definição do Preço por Ação na Oferta Pública de AçõesAta",
-      "data_referencia": "20260723 23/07/2026 20:30",
-      "data_entrega": "20260724 24/07/2026 01:49",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Definição do Preço por Ação na Oferta Pública de Ações",
-      "protocolo": "1547625",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547625",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-24T07:04:17.807584"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Anúncio de Início de Distribuição Pública",
-      "especie": "Oferta Pública de Ações -",
-      "data_referencia": "20260723 23/07/2026",
-      "data_entrega": "20260724 24/07/2026 01:43",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Oferta Pública de Ações",
-      "protocolo": "1547624",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547624",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-24T07:04:17.807582"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Oferta Pública de Ações - Definição do Preço por Ação -",
-      "data_referencia": "20260723 23/07/2026",
-      "data_entrega": "20260724 24/07/2026 01:40",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Oferta Pública de Ações - Definição do Preço por Ação",
-      "protocolo": "1547623",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1547623",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-24T07:04:17.807570"
     }
   ]
 }
