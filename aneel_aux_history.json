@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T11:36:55.803937",
+  "last_updated": "2026-08-24T13:05:59.521289",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1496,6 +1496,32 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/aneel-no-gov-br-saiba-como-navegar-pelo-novo-portal",
       "summary": "A **ANEEL** lançou seu novo portal no **gov.br** em **15/3**, com conteúdo mais objetivo e organizado por temas para facilitar o acesso a informações e serviços para cidadãos e agentes do setor elétrico.",
       "added_at": "2026-07-28T20:22:01.448955"
+    },
+    "partic_mme_cp_228": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 228",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/228",
+      "summary": "Revisão do Decreto nº **5.163/2004** e do Decreto nº **2.655/1998** para adequação regulatória.",
+      "added_at": "2026-08-24T13:05:54.060340",
+      "objeto": "Proposta de revisão do Decreto nº 5.163, de 30 de julho de 2004, e do Decreto nº 2.655, de 2 de julho de 1998.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48330.000169/2026-00"
+    },
+    "partic_mme_cp_227": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 227",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/227",
+      "summary": "Regulamenta taxa de fiscalização para comercializadores de energia elétrica, conforme **Lei 15.269/2025**.",
+      "added_at": "2026-08-24T13:05:59.021000",
+      "objeto": "A Nota Técnica nº 27/2026/SAER/SE, apresenta proposta de diretrizes para o tratamento da regulamentação da taxa de fiscalização aplicável aos agentes comercializadores de energia elétrica, instituída pela Lei 15.269, de 24 de novembro de 2025.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48300.001356/2026-50"
     }
   }
 }
