@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T03:13:35.409077",
+  "last_updated": "2026-08-24T10:50:39.028402",
   "items": {
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObkpQVEY1Nk91dWRrTHJVNnRHMU1NSnZZT3JoY2F6M3pyTjE5LTNJSzZaeTBvaVctelRYVTBlelc0WV92QUhtQ2hvQTNQbUFUQVN1cUszTjZVbWJjQzczTEpmZkdWd1ROZjBJdG55TzNxM00yanlzRnVfWWR4bGpoWVBPeEc1am1vaVF1UEhpMVZqYkZNUEpnQ2ZDMkNxRDN5YTk3LUExSGs2czVWQUpTbEtTOWJ4Rjh1c081Z3htLWV5U3NkUjNqSllzS3h3QzEyelBqUdIB4wFBVV95cUxPSDI3eGpCdFFIaHB6Yk42N01rb0gzRjR2a0l2T3VRNWtkNnB1SVc1cnd3NUhBVE1TVHB5bXdyZk8wMFZ4dGRqdExBcm0wOGktNTk0OE5NSVo1N19JazM2dEJtZWx0a1V2YnQ4Q0Yzbl9aakJ6VFBnaTczTmVhZm9rdEU4dXlid2R0XzZJVF9SY190RjJUOHFMUVZXenZvck9pZ3hQNkN1ZkJjSXhlM0dRV0dYZ3E0bThRdEl2X19IYjV0WEU1Rkt2UEQyM0RvZktXek1jakdaX1NTMVpMcThFaW5wQQ?oc=5": {
       "title": "Brava Energia rescinde acordo de acionistas após venda de ações por bloco à Ecopetrol - valor.globo.com",
@@ -4809,7 +4809,7 @@
       "source": "",
       "added_at": "2026-08-21T21:35:35.435845",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjNfOW9jYnBPNU9oUk90RllXTzhqakZUcXdrQ1UxdDJGOVRCUTRJbkRDOGpyOV83N0hrSnFVRjBVUTFId3FROHR2TWcwRzZHZVhNc0s5cFIzRm1jMEJ5SFdLdll1eWRyQjlkS05XQXgydU5fSEI2djhDai1rR3BISy1UcWdLcnFHWXUtYTNXUVNyNkgyMVJLeG1uZzgzeUhYNTBqQlJuaGF6dw?oc=5": {
       "title": "Carga no SIN em agosto terá crescimento de 6,3%, aponta ONS - CanalEnergia",
@@ -5064,6 +5064,34 @@
       "summary": "A **Ascenty**, especializada em data centers de IA, aponta a energia como principal gargalo para o avanço do setor no Brasil. Um único data center pode consumir até **19 milhões de litros de água** por dia, e a energia elétrica brasileira, uma das mais caras do mundo, pode exigir subsídios para a instalação dessas unidades.",
       "source": "",
       "added_at": "2026-08-24T01:54:45.545482"
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHVUMFE3RzJqVUROSXItUFZIS1oyY2Jsd1dKd05teFpObEhmTEoyUmlOR2pJZEsyR0ZINGJheEZycGd1eWp2aW1FeEF0bV81Wm9vc3hlNVRCd3gzRUlfbElBV05KWHhfa3Q1NzBxemlkM0FRa2hKNEVpVUtKelJlX2ZsdTF2QmQwOHNn?oc=5": {
+      "title": "O Brasil tem políticas de Estado? - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-24T10:50:33.141706",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMy1tSU9XOXkyR0paRGhlOGEwd1BmTk1heDRxdkEyTURycTRnbm8wQjRxc2E1UHNqTmZPeURmai1WeW9NeDQxaTF1dnV0SFoxOWxKTjZOVFA0NFlmeGlSd1puTHlWX25iQ3FBWTVuMWNQTEZFbnJGb0dVRWs4V3pRbWJZc0dNcnhvRGM4YVRCakZhRXRQSFdRQXBqSU5YcmFGTzgwdTd2bWswb2dDeDAtRjNBbFRic1Ryc2pHVEEyVQ?oc=5": {
+      "title": "11 montadoras anunciam na China recall de 4 milhões de carros elétricos - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-24T10:50:34.795054",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnl1dHBsa2tzeUpsN1A4aUxzbWl6QlRadUNDODk3ODFrWDFSSDJWaFk2bmZQTmF5QUowaVBjU25nUnowdlNJaHF6bW01c3NLMjFvYXJiOTFxUENSY2RrbjNFMVNtUUZiU2tRQ0V1QU50am8wMzBfUFdYeTB6SFFVZmExTlVpNnRpYjAydGZWMlU3amPSAaIBQVVfeXFMTzFSLVVkNGNMNXg4LVpuRHpiUmlScWxIbGJ5VVBjelFKLTlkY24zMHRERjFNQm42OUNYWmNldTFFOEdNWlFfV1BEeVgtNlAwOVVQdjRkUUw4T3NGbHlSZUZmZnVwLXR1OTQyUGpVSEpwR2J6M0lVRFh4SHVTRW1YVzktMGs2dzRER3hhVmxZTmVXckxKNU1XdzNmQlJSLVFsMDhR?oc=5": {
+      "title": "Resíduos: gerar energia limpa ou gerar metano? - Valor Econômico",
+      "summary": "O Brasil enfrenta um desafio na gestão de resíduos sólidos urbanos, com mais de 40% tendo destinação inadequada. A **Abrema** aponta a necessidade de integrar todas as tecnologias disponíveis, da reciclagem à recuperação energética, para lidar com o problema.",
+      "source": "",
+      "added_at": "2026-08-24T10:50:39.020877"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmVmb2ZZTWFEVFdaaHU0YldhTWZlY19lWV81ZEE3d095MHdjVk90VVduc0dwS1laMjdwZmtjRlNNMGpZT3ctd3RxTXJjOWh1ZTU1UnJVeVh4UmVidk5yMUFpdHdYT1h4TThUUHNWUmQzQzlDaWNTVFlYdU5QcmlzRlFZakYtN2h3ajk4eTJYLTd4aWNMaklzc0ZNdFpqVGR1SWpHVA?oc=5": {
+      "title": "Pedro Litsek, da Diamante, e a lógica do investimento em energia nuclear - Brazil Journal",
+      "summary": "O CEO da **Diamante Geração de Energia**, **Pedro Litsek**, discute a lógica do investimento em energia nuclear e o papel do carvão. A empresa investe **R$ 50 milhões** em um projeto de microrreator nuclear com a **Finep**, buscando alternativas mais limpas e baratas que o diesel para sistemas isolados.",
+      "source": "",
+      "added_at": "2026-08-24T10:50:39.020912"
     }
   }
 }
