@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-08-24T17:54:22.045277-03:00",
+  "last_updated": "2026-08-24T18:16:56.962576-03:00",
   "items": [
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Aneel homologa reajuste tarifário da EPB -",
+      "data_referencia": "20260824 24/08/2026",
+      "data_entrega": "20260824 24/08/2026 18:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aneel homologa reajuste tarifário da EPB",
+      "protocolo": "1560763",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560763",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-08-24T21:16:48.818220"
+    },
+    {
+      "cnpj_short": "01987-9",
+      "empresa_nome": "LIGHT S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Aumento de capital por subscrição privada deliberado em RCA",
+      "especie": "-",
+      "data_referencia": "20260820 20/08/2026 16:00",
+      "data_entrega": "20260824 24/08/2026 17:54",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1560755",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560755",
+      "empresa_label": "Light",
+      "codigo_cvm": "19879",
+      "first_seen": "2026-08-24T21:16:45.878872"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
