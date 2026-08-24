@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-24T16:50:33.056430-03:00",
+  "last_updated": "2026-08-24T17:15:55.398559-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho Fiscal",
+      "especie": "Acompanhamento dos trabalhos da Auditoria Independente - DFs 2T26; ITR 2T26; Acompanhamento do Orçamento Empresarial; Informações RegulatóriasAta",
+      "data_referencia": "20260813 13/08/2026 14:00",
+      "data_entrega": "20260824 24/08/2026 17:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Acompanhamento dos trabalhos da Auditoria Independente - DFs 2T26; ITR 2T26; Acompanhamento do Orçamento Empresarial; Informações Regulatórias",
+      "protocolo": "1560725",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560725",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-08-24T20:15:53.919670"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
