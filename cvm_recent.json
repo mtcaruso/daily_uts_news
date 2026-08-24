@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T21:31:07.628478-03:00",
+  "last_updated": "2026-08-23T23:10:44.274016-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -5526,24 +5526,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-07-27T11:50:46.387269"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Mapa final de votação detalhado - AGE 24/07/2026Mapa Final de Votação Detalhado",
-      "data_referencia": "20260724 24/07/2026 11:00",
-      "data_entrega": "20260724 24/07/2026 22:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Mapa final de votação detalhado - AGE 24/07/2026",
-      "protocolo": "1548036",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1548036",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-25T01:07:32.416907"
     }
   ]
 }
