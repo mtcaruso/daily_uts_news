@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T13:05:59.521289",
+  "last_updated": "2026-08-24T13:59:03.520690",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1522,6 +1522,19 @@
       "start_date": "24/08/2026",
       "fonte": "MME",
       "sei_processo": "48300.001356/2026-50"
+    },
+    "partic_mme_cp_229": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 229",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/229",
+      "summary": "Aprimoramentos na contratação de reserva de capacidade na forma de potência são o foco desta consulta pública. A ANEEL busca subsídios para aprimorar a regulamentação do tema.",
+      "added_at": "2026-08-24T13:59:03.020414",
+      "objeto": "Documentação com proposta de aprimoramentos referentes à contratação de reserva de capacidade na forma de potência.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48340.000950/2026-57"
     }
   }
 }
