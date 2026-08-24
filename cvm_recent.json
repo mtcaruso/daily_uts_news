@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-24T19:12:44.538277-03:00",
+  "last_updated": "2026-08-24T19:42:27.231115-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Início de Distribuição Pública",
+      "especie": "39 Emissao -",
+      "data_referencia": "20260824 24/08/2026",
+      "data_entrega": "20260824 24/08/2026 19:30",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "39 Emissao",
+      "protocolo": "1560857",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560857",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-08-24T22:42:24.912867"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",
