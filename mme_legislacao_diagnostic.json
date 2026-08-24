@@ -1,14 +1,14 @@
 {
-  "last_run": "2026-08-24T19:45:11.793600",
-  "total_collected": 237,
+  "last_run": "2026-08-24T20:49:35.331113",
+  "total_collected": 37,
   "by_category": {
-    "portarias": 200,
+    "portarias": 0,
     "decretos": 23,
     "portarias-interministeriais": 10,
     "leis": 4
   },
   "new_items": 0,
-  "pending": 10,
+  "pending": 0,
   "done": 0,
   "failed": 0,
   "pruned": 0
