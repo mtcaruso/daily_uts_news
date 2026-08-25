@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-25T18:03:30.139032-03:00",
+  "last_updated": "2026-08-25T18:40:13.197022-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado - Energização de Reforço em São Pedro (3º Banco de Autotransformadores) -",
+      "data_referencia": "20260825 25/08/2026",
+      "data_entrega": "20260825 25/08/2026 18:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado - Energização de Reforço em São Pedro (3º Banco de Autotransformadores)",
+      "protocolo": "1561263",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1561263",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-08-25T21:40:03.560724"
+    },
     {
       "cnpj_short": "01732-9",
       "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
