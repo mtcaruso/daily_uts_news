@@ -1,88 +1,6 @@
 {
-  "last_updated": "2026-08-25T13:08:47.882555",
+  "last_updated": "2026-08-25T14:26:07.517806",
   "items": {
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmtGRmZkalRsZjI5WGs0VG9FTzFxTnVaVEpvRzdhNnhjX0NWTWhqdHItNUs0VjdhVUs2bkVzLUJubjJNc2lfZmo3Z1VlcFJoM0xtdHNPMkFNbWxZcTZucTFncFB2amFvM1JCN19lczF3eTdwZFZzVHhsRHBRV08tQXF3bVhrem9OM2tPVWtqSnAyU1RTZlBVUjJSclVyUHVvOU5aV215YlF6QQ?oc=5": {
-      "title": "Adesão a ressarcimento por cortes de geração supera 50 GW - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-11T13:37:24.145003",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjdJR3VZaC0weHJMR3JZZlBqYVo2RTc5WHZ1dC1WcmllZTBMbko3TVE2YzFPVUxManZRNVJzYmJBMDZORlFNSG1pNDZuTUZpNXpSeFlvU1hnMHk0QWVOT3BNb1dSVEdiaGFkclp0Y3FoNmdfa0dpTGdJS011VGlEemZIdmM0b2ZqRkxDLWZCaGlFbGw1NFRBZmtlRQ?oc=5": {
-      "title": "SP2B será descarbonizado em parceria com Axia - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-11T13:37:25.793637",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRlZLNjRFZ2pESTJmaTBfTWxDVjZpY3loUF9PNGJmTUU2REdWemg4Y01uUXNCdWZkYm1La3BMbTVYOEsyRVVuRkFndjJjbGFWMmNGT1pRcFlsMHBwc3VyRnFpRFJJczNfeXNqbE1RbmVMdlRxMXBVanA5eE9maUMyREFmaUtFeHRWN0J6aTNTX2V4OElVNUJabTN0MWMtOWkxQ1ZnaXB1V3JKb2JRTWxHWVdvZFZ3a2xXQnFhZ2ZtQ3MzNndTN2ZFT1dUd0J5X3g4ZWlXd2l2VWlxaEN5UFJDckFjT3UwRTDSAfYBQVVfeXFMTV9lLWxJOXNYQVRIb2JzV3IzOGhXVmhwMXdyektZSU1TenJneHliOGNpaUlTX0JEZXhrZXlPQzFNa25aZkI0MTgxcUUyWUREbGlZSWtTeHhERGw3VEZnN21TY2ZnbUp0bUVqY2ltVk1xS0tWWjJER2tLMDNBYVlyaXRWQlpaYTVxUTZfQ2R1aEsyUW9WWnpJLVpPUVdNMkJrSHp2OEk5UEVrZjlkSHBTUHpZQ1NpQlN6aFZWM211dlhOT1UtWmtYamxRZWhzcWViU3N5aTNUZ2JXMmhMTkZZTmdVZGFkSGZlSHdhLUdUS1drZEY5S0lR?oc=5": {
-      "title": "Relator vota por rejeitar recurso da Enel SP contra processo que pode levar à perda da concessão - Valor Econômico",
-      "summary": "Relator vota por rejeitar recurso da Enel SP contra processo que pode levar à perda da concessão Em abril, a agência reguladora rejeitou argumentos apresentados pela companhia e decidiu abrir o processo para analisar uma eventual recomendação de caducidade ao poder concedente Diretor da Agência Nacional de Energia Elétrica (Aneel), Fernando Mosna votou por rejeitar o recurso apresentado pela Enel…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:15.911954",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHdkcHBrTTdoLXVhOU9qRE44aUpLNnhjMDU5WVVEaW0yNDZqY2c0SEczQi14UENhamhPNnJXYmU5MG5BaVFIYnZpSVdEM1lxUG9FZjh6N2JiNmEwalh3ZWRCblJpWVF3U0tDYjR3OERaNVh6eEN3YjdHZV9ERWVIbmRlVS1DSDFYX2d5T3lZYjFGZjIxdmJGcUJYY2NIN3FGcGFBWUEwV2Ytd3lHb2k1TGNRazRGckxNdXN2ZTM0NEhhVjd2enYyZk5HTGZ0RkNJMjNGWkU2cTkyS3VFbkZWWdIB7wFBVV95cUxNVVV6UXNpbklKSlB2V3Zsekx0eS1HOEVzcUZROWI0THpxSnhjOEVnUXNlclU3M1FRalBsVks2Ulh3SzY2QnJxRzd6Ni1wc2xmaGYzZ3BLYWxkNnVfUXBCSVpZQUdYUTBrLUdVc1FEZGx3UFU1c21HNDd0NWdaOGNEUDIzZnVuYTlfSDNyWjJ1eGpzc3R3R09ETGhlX3VsQjdyRWNJU19xeHI4bi1vYTBHMGdCUEdDQ0psVEZFRGp1NEVNQ0dGel94VFhoMWdUc1BFQXZxa21QRnQ0SWVpLUlhS1laN08wYlg3NU1IUlR6cw?oc=5": {
-      "title": "Objetivo é garantir que sistema elétrico esteja preparado para desafios com El Niño, diz ONS - Valor Econômico",
-      "summary": "Objetivo é garantir que sistema elétrico esteja preparado para desafios com El Niño, diz ONS Operador destacou que um dos desafios para as empresas é aumentar a previsibilidade da incidência de novos episódios de clima extremo, e que o país está vivendo um cenário que não se verificava antes O diretor-geral do Operador Nacional do Sistema Elétrico (ONS), Marcio Rea, disse nesta terça-feira (11)…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:15.912201",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUVpeWljdDk2SDJDTnBDRjd2MGYtUjNlSXRfUFpaY3ZBb2FtQXYwX3ExNHZFZFRFYWxIVUwtVUh3MWFmUll4X3lhZzNpa0FxWjRKR3V3YnQwQTdnNUhreEJvZjNxNEpuRUZXaWE4enRSejJRNmJiajRYRDVadWNFc1ZHbnNjZ09NQzFFNTlqendxX2pnNEd3cjhRRm5vXzhsUVdzVFNPRHhSVWtFNE44VS1pUkRsbTMtR1ZKODAyWkhkcHlRUmtVMmZqUFZua3I3VEFNa3BMemJoZnZt0gHrAUFVX3lxTE9kMGc0S2JkZUROSXRWb1J0aUo4UVBudmc3d1FuWEJNSnRUVUo1Sjl0TmJTUUYxd1dLeDRrWGp1WnpjZkpjc0prNHphOGptUUtDdWlpM3otMG9xUlhSM0pRbTZDd2w1eVFoMFJBLTFoOHREX0lUc0JibENIbjNpclNISGRRazVNZjUzUDNGY3l3RUpnZUlURmVPOE42NEkwTURsMWhrVXgyOTBqT1FLTndEX0ItMU1hRUw4S0NPNG5Pc2FCSU1qSkxTMlN4bFNwQUJpTDlCLXd3V3RocXViU21OMURtdDJKV296R00?oc=5": {
-      "title": "Adnoc L&S tem lucro recorde no 2º trimestre impulsionado por fortes tarifas de frete - Valor Econômico",
-      "summary": "Adnoc L&S tem lucro recorde no 2º trimestre impulsionado por fortes tarifas de frete A empresa destacou que suas operações diversificadas e seus contratos de longo prazo com a Adnoc a ajudaram a navegar pelas turbulências regionais A Adnoc Logistics & Services registrou um lucro líquido recorde no segundo trimestre de US$ 917 milhões, superando os US$ 229 milhões obtidos um ano antes, apesar de…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:15.912258",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEpEWE5BZzR3RmpiSDlPVW4wa3VveTNGZnlkV2NKVzFZdTNJNnBUSU9tTEZid3VjNEUxcUNfUXFEWlBzUmhJQmZMWE5FSHNqNk1kUVZoVlBEYWI0YU1zN2U5ZjZ6cm55bEtZd1puWEI2VzkwVmg5WXBVWl80cnBIaEpyRDdvbTU0anVtTmdGUnZMY2JSWFpKSTI3WVVYTUgwY0k0QXV3RFVGUUotSHlUd3ZSc2bSAcMBQVVfeXFMTTBISF93TFRtT3Q3WnVPdDd6MG9pZHNSXzkwVjExS0Q2WHowd1llYk4wN2R3cEdvcVZ4MHRXYlpjZmc0SjUwZm5taTVsaU9MUGNoRExPNVZHVzAwSGhZbnpVQUFHaHdwdzBYSVE4LUJ2aDhPRjl5bkFXN0VBNUFLUlFJc1Jadm9TTmUwU1ZiN1BRLXg0VmhqV1ZpcFdBdC1zaW1JN09zdVRhQ19DM3VZckM1RWFEQ2JNdTExRW5WaUx2UGVv?oc=5": {
-      "title": "Ônibus elétricos crescem no Brasil e vão além de São Paulo - Valor Econômico",
-      "summary": "Ônibus elétricos crescem no Brasil e vão além de São Paulo Eletrificação do transporte coletivo começa a ganhar escala na América Latina; Santiago e São Paulo puxam avanço Atualizado A América Latina atingiu a marca de 10 mil ônibus elétricos em operação, segundo o E-Bus Radar, plataforma digital que monitora e mapeia a mobilidade elétrica. A ferramenta é ligada ao C40 Cities e ao Conselho…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:15.912596",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnZncUZod0pReFBHT0xEb0JZUVpYdFhUWXNoamtQaUx2cTY5T0hPSjdJYnB6cUVmLWo0TmdvbkJUM3pFZTRyY1dwTHhBRUpfZENFMkxxZHFBSHVsNUNXNmJPRDBGam9HSmd5azAxQjVaNC1jNnZodUc4dHRWWTRNZWxvNWtvMFpEWHNLZ0RIaXd6Q1A4c2ZoeVJGUmZmNk9zR3A3cVFINmVxUG9ibDhSenI1U05aeWvSAbcBQVVfeXFMUEZ2Z3FGaHdKUXhQR09MRG9CWVFaWHRYVFlzaGprUGlMdnE2OU9IT0o3SWJwenFFZi1qNE5nb25CVDN6RWU0cmNXcEx4QUVKX2RDRTJMcWRxQUh1bDVDVzZiT0QwRmpvR0pneWswMUI1WjQtYzZ2aHVHOHR0Vlk0TWVsbzVrbzBaRFhzS2dESGl3ekNQOHNmaHlSRlJmZjZPc0dwN3FRSDZlcVBvYmw4UnpyNVNOWnlr?oc=5": {
-      "title": "Setor de saneamento pede tarifa social subsidiada - valor.globo.com",
-      "summary": "Setor de saneamento pede tarifa social subsidiada Documento com 15 propostas de entidades ligadas ao segmento pede alíquota baixa nos futuros tributos CBS e IBS Uma coalizão formada por cinco entidades ligadas ao saneamento básico está buscando as equipes de campanha dos candidatos à Presidência para apresentar um documento com 15 propostas para o setor. O eixo das sugestões é a universalização…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:36.753625",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQlpHQk9Qb0wybnJKa2dGa0x6bGR4RDI2VW1neWlEUnBNWUh5bU4zVUZPdDREZmhaVEE3TzRXT245bVlkTmVxR2F6bGtxMlZDSWVIM01HcE5kd1JRdURNY05DeUZtUUJaMG9oaHk0M0V3VndrdkN0d2dQcjVNY2ZDanNWQVFDU2YtWHZCcGlyOGl6SXBhN0JGYzcyWVVjaTNZdWJ4M2dYSk15UW1JZkt5QnUzZUhQVlFIRWE1bUJUdlJSQm5ZcXFV?oc=5": {
-      "title": "Taesa obtém licença para iniciar obras de projeto de transmissão em SP - MegaWhat",
-      "summary": "A Taesa obteve a licença de instalação (LI) da Companhia Ambiental do Estado de São Paulo (Cetesb) para as instalações do empreendimento Juruá Transmissora de Energia Elétrica, no município paulista de Barra Bonita. A licença contempla a subestação Estância de 440/138 kV, o seccionamento entre a subestação Estância e a linha de transmissão de 440 kV Bauru–Salto (C1), além das derivações da linha…",
-      "source": "",
-      "added_at": "2026-08-11T13:38:36.754258",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxORjJSdmVyRmE4V011dkd4am1iNXpiTjdsWTg5ZlVDNzR4bnBtT2ZfYm1xWUQtUXBJNURrZXVQZnF5bDJ5MkxpWWFHNmp1VktKaUNSUVlmeVVvMG44YkJqcXNmWnEtT01UUHR5b2dtNHNxRXpuWXI1SDVuaUV4UXpjLUpuOTlPekkxZ0VYWjYwYm9XZnpxeUJLMHo2RVcwTE11d1N2TDEtaXM5VElsQ3RVRHBhamhKMHlteGc?oc=5": {
-      "title": "Aneel: diretor vota por manter processo de caducidade da Enel SP - MegaWhat",
-      "summary": "O diretor da **Aneel**, Fernando Mosna, votou por manter o processo de caducidade da concessão da **Enel SP**. Ele argumenta que as falhas identificadas pela fiscalização e a falta de solução estrutural pela empresa, que já acumula mais de **R$ 320 milhões** em multas, justificam a continuidade do processo administrativo, cuja decisão final ainda depende de análise da diretoria colegiada.",
-      "source": "",
-      "added_at": "2026-08-11T13:38:47.495394"
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmRZZDRwanI0YUZWeWhBZi1ZUC1MM0picnVSTGdZc3dwMGgxakZEZmZpeXZZd0pfZmZTZi1qTzNGMURUVW9vV0tkQWFFa2x6eGkwYldRNlRjcVBxUDBwRlJsODJJRFNjREhKMUdzZGd1Z2ZZOXR2TU05OFlCY281X1lySnBwZGdLZXZJM1NTbE9tSmNxMjlkS296Sk1pSExEU2wzRmZIR21tYmlNRnFWdWhB?oc=5": {
-      "title": "Silveira sobre Enel SP: “O que a Aneel decidir, cumpriremos” – Edição do dia - MegaWhat",
-      "summary": "O ministro de Minas e Energia, Alexandre Silveira, afirmou que o governo federal cumprirá a decisão da **Aneel** sobre a caducidade da concessão da **Enel SP**. A agência discute o caso em **11 de agosto**, e o ministério aguarda a deliberação com serenidade, garantindo que a União seguirá o encaminhamento da agência reguladora.",
-      "source": "",
-      "added_at": "2026-08-11T13:38:47.495425"
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTG5aeVJmVHdvWHhDR3BoMkNsYllYbV9YeTI0T2hIUXpXaWhya0xhcm9kTm9OSWRTXzdVdzY1WG0tek81dDcyWl91M0RmMWlDVVBtVWFhd1hfTlBnRVJlQjVPQ1JzYXJMVkxydXRHSE1RTlhuZUZhUUFKRzZiQkVjQXh1X2l0ZHAyRGg3eGc5akpOQkktaGhxcVVkQVN2Z2NxYS02djdLbw?oc=5": {
-      "title": "Aneel contesta liminar que autoriza autoprodução de usina tipo III - MegaWhat",
-      "summary": "A **Aneel** pediu à Justiça Federal a revogação de uma liminar que permitiu à **Pato Branco Alimentos** ser enquadrada como autoprodutora de energia com base apenas no registro de uma usina solar de **1,17 MW**, sem outorga. A agência argumenta que a Lei **15.269/2025** exige titularidade de outorga para autoprodução, visando restringir a modalidade e evitar a pulverização de benefícios.",
-      "source": "",
-      "added_at": "2026-08-11T13:38:47.495434"
-    },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDQtdUptNTlIWTVwZ1F0WGNndnBHWHl1UFJXbWVKYkVwOFFEVHE1LTVMZU50VUdZSjNKQWoxOGxibi10d0dLaEgxS3htMExQcTZ1eVhzdmFDNWJZSlFDTWpWcnJrZlpKR256WHEyZWFTX1VZcUI3UV9iVmw5Zm9ibXdac2oxWF93ajQ2MVQzcm05YmQteFg0YndtdTFrNExBWHpZ?oc=5": {
       "title": "Mosna se despede da Aneel com um balanço do mandato - canalenergia.com.br",
       "summary": null,
@@ -4915,7 +4833,7 @@
       "source": "",
       "added_at": "2026-08-24T20:45:05.100286",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxObjZ3d1BsbHpVTWpjYjR6SjRESzZpczlaajcyWDgzMHlOMEdoVVlxN2NTUjdJM0xUczd5TlNtQ3pHcTFZYnNhVE94TlJzWE4weFVFMjlBT242TlktNFAtdklUR2RONlVZd2dvMWRxampoUjZrYWdjTFgwZng5WFVBUDBPZ3FwV1hoRVg4NXlfbHdFTUFXYnZNWGhJRXVFSFBXY01kLTZ6cw?oc=5": {
       "title": "Diretor Gentil relatará encargos de baterias e compartilhamento de postes - Agência iNFRA",
@@ -4939,7 +4857,7 @@
       "source": "",
       "added_at": "2026-08-24T21:41:03.010226",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX0MwcmRWbjZrOXM1MXBObEcxbDVIZWt2OUEyd25XVVBscHZZanVSNDFnSzJMZzlRLVNhWVhLUU0tTVpZa1UxYjlRdHJuNlZmb2tmemQxdUp5eG9VbVNLdnhULXdjSXlESGNNQjVXSkt2UHZOQlN6TDR5c1NCTlJUNjBOaWF2RC1jNmdENWFVVndqb0R0cWpkaU5xS0dLUE1RZzcxOHc1MlMwRzhncWkzVmtRUWUxOFdXWUgwVE44am92TVpuVEJIRHRSONIB2gFBVV95cUxOc19Mak55WnpETldZblJ5ODlfaTdhTWNlWXlsaFhMa1FQbGVNZkRyaTQzSTRBTFhuSXRMQzhYTERfcEJRbE82bUJ1UFU5SC0tcHpmLU5tQ094ajlrYWhzeEhpRmY5X2FJcnRBMl9IVHEzU2hWN0pISU40QzF5MnFXeHVFTFQ2a21CUDVLbHFKc2M3dFgzdlp2VDB4Q3NUQ1NqYWc0Qkc3WE5rdk9iZlZTNHN1NzFwcUsyZXh2NGd2Zm5FVVIzOTVic01qLTFScEl0aWZXbDU3aWwwQQ?oc=5": {
       "title": "Aneel nega pedido da Enel SP para realizar perícia em processo de caducidade - Valor Econômico",
@@ -4963,7 +4881,7 @@
       "source": "",
       "added_at": "2026-08-24T22:40:42.420872",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJ2a01RbE1yMlFYX2NkY0tjclNINV9nbEMzMXB0OUZJeXRsb3lRRWNrMHdnUTlzYzB2QU1ERFBEcXhlSndTVHJ2TUdRcmJTTFpBUmt4SllTeXpKNEViS2hpdlJrak05SE9xSmNoMm9PeVVlWU8wSmhCWmVpVDJjbTZfZjlFQlB3NnF1Mzl2X0FrUl9lMmo2ZzU3MG1nLVhUdlF4dElhbWhLRFk?oc=5": {
       "title": "MME pode buscar solução alternativa para Enel, diz diretor - CanalEnergia",
@@ -4971,7 +4889,7 @@
       "source": "",
       "added_at": "2026-08-24T22:40:44.254362",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGF0MmVkVktGaTlNNll5Wkl2OHpNaTFPWTk1Q0xibVY4V1oybExPY0Jpd2hISDJ2UEo4YkFHbDZNMXdVbEVFMjJVWlo5TXNpanFoWWdPNl9VTEU3RmdnMG5tVEFuMDd3YU4xcy0tVlN3NUZuaTlaaXRjRXpseEhWdkdKNEZ4dTdlY1JkZHRseHMyMlkybVlraFJvZ2lLUllpZ3FuajVPZkEwcmdEZkNWUVdoSzlZQQ?oc=5": {
       "title": "CT PMO/PLD abre consulta sobre novo modelo computacional do setor - CanalEnergia",
@@ -4979,7 +4897,7 @@
       "source": "",
       "added_at": "2026-08-24T22:40:45.936149",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOelB4RDUzaDNLME94eGUwZXdQTnZsV2ZWRlhNTlA4OWw1S3c0Rmxoc1NLUEl6X1NRWmhqSnE5eFNRMlZQdlZrMUhPZXNDSkVqSTJMUFQyX2haS2NDNUNIUTYtVnNkYkhLVGdMbEhaVHFDazlYQzVuazlySDd6SFdDWXd1cGZfRTBUTlJiTWFvR3BRUTMtNzNyd3dnUGhnTndjaFJORmtlWmFvTDI1XzQ4SEFEblRITXMxTm9Yc0owOUZnSlpDekYwYWNNYUlfUlkyRzRfSDM0ZDVvc0V3MDFaZDEyWlhqbUhCY0V1TlNxd1hyQdIB8gFBVV95cUxOelB4RDUzaDNLME94eGUwZXdQTnZsV2ZWRlhNTlA4OWw1S3c0Rmxoc1NLUEl6X1NRWmhqSnE5eFNRMlZQdlZrMUhPZXNDSkVqSTJMUFQyX2haS2NDNUNIUTYtVnNkYkhLVGdMbEhaVHFDazlYQzVuazlySDd6SFdDWXd1cGZfRTBUTlJiTWFvR3BRUTMtNzNyd3dnUGhnTndjaFJORmtlWmFvTDI1XzQ4SEFEblRITXMxTm9Yc0owOUZnSlpDekYwYWNNYUlfUlkyRzRfSDM0ZDVvc0V3MDFaZDEyWlhqbUhCY0V1TlNxd1hyQQ?oc=5": {
       "title": "Não cabe à Aneel analisar alternativas à caducidade da concessão da Enel SP, diz diretor-geral - Valor Econômico",
@@ -5011,7 +4929,7 @@
       "source": "",
       "added_at": "2026-08-25T01:49:34.194312",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2xrLVBXOHJIaHg1NWhXY01kZ1lrY1habVNxT3hSNExCd19qeWttbjlWMXlfTVVtV1JCTktoOTJIRmFVeERIWU5ZRS1tOHlVbzIxTTVBb2p4OFJUUjFDY0dRUVZZSUxMZXQ2bFZYNWF0aWt1MFg0MWJZUDNNdXNwLVo0eWZoLWNzYXFLWGg3a1ZCZW4wcTJpTmJtdkdhX1NuN0xBajl5SXBPYjdqeTZzcWlvRkh2RUFHN0E3ZlFmTWozbThPNG5oNmJR?oc=5": {
       "title": "Aneel rejeita pedido de perícia da Enel em processo de anulação da concessão - Folha de S.Paulo",
@@ -5073,7 +4991,7 @@
       "source": "",
       "added_at": "2026-08-25T10:46:42.686466",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU0RvY2tYTVJwX2NFRXZnYnZnOEVaNE1jZWNrZ0MzazlhQTd3a0t0NlN0VnlpZmx6VEk2OWRLN01ma2JCaVAzNHpFUzFZYmEtZUJoeFhrX1k4SWVBOHRwdWhqSHZIcUtxQUw4S245TEFMMmxfQ3d3X2pQQ0VfVnZWVWhXSTk3TnVjSkk4c1dVWm9GaEJwWl96VDlodkNBVjNKY0p1bVotOTFod1FJMk9OLS1TXzF1MGx5ZDlxZVNVSjVlV3lrUXI1eC03T1NtOFVUY1VjR3lxX2hzVmsx0gHrAUFVX3lxTE9ubzI5VFJGRUFZSXZZWkVFQUhUWDZSVkZFeHBMT05ldGs0TzNLX0FxcS01UWlMcTRmSWZrQzljUnhCNnNSUDZRWFdOOW1fY01lcnluU1ZoXzZsTm1Rd1VLUzVMYW9Venk1VVhodVdmWUV4eDJEdTB5RTVteFhvYmZ1OFNjUzJXZXhrM2wtbnVLRUswa01nOWlXdFFDR2RfSFBpTzkzM3NWNlNMTjlwZW0xckhWV1lJLUlqSjVORnBvd1F5YkVXdzhOVlVRR0hJWEg2amFHZG80RWdITktzSWpxWUgzVDdmY1VTbmM?oc=5": {
       "title": "Brasil deveria acelerar conversão para energia verde e não investir em fósseis, diz Polman - Valor Econômico",
@@ -5081,7 +4999,7 @@
       "source": "",
       "added_at": "2026-08-25T10:47:13.192418",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1JralFCeU5JM1Q5Y2I3V0VtR2NyTVpMSUltNWJhRi01R19iVnNESGFQTGhzN3pZZjRQX1hyZllfUU5SRUw4US1VblRCUHB0ejQ1X1RfNDMycWFsY2h0emkyenljelE2bGJKbTJfR2hRaXVKYXhxd1dwUThlSkx6dk16LW90MEFaXy1YNVF0NTNyUTdRQ18zSnJZMzQ2bEMxZlo0UDJTLTlMQUdaUkFvZFBXakZPeHFXbXZpU05BTjRnZ9IB0AFBVV95cUxONVVPN1N2QjJ5dW5Jd1FOMnhKSzRWcTh4Q3FCalc3ODR6Szd3OUdRVzEza2xtc0tWTDJ6Mjd6YTJBdFBKUE10Rk9MeVZWYWJfSktIc2dDblROcUYyV1lEMlB2UllNQlJpZE5aTzFRM3VpaWY1ZV9jRjRZU0JFaVdXUTVPbTZjbFhybThTZkw4VWJpXzNNUE44MENyQlJ1bzhBRFNFZ2stSjg2RE1TWG1YaDRMc0NTcHp3QUQtNGFwbGdzUUtBeTE4RXJzTHdFcHAz?oc=5": {
       "title": "Agência recusa pedido e processo contra Enel avança para etapa final - Valor Econômico",
@@ -5089,7 +5007,7 @@
       "source": "",
       "added_at": "2026-08-25T10:47:13.192517",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLUhLYndfVlFhaFFrT2dVOC1oOHJUd28zMFRId2lnaTRUTm1iWjJ0R0xrcmhZeHNsQzRkaGdGQWxZOXExVmdITzdwMTFfb3hFNjRHSzByRUlESDNQYTdvdWl6TUk4QzNwd29kaWdueEhVWVNadG9aVXNXSnFpMjFaTDRwU0FjRjZObVRBMmVldzFneFFaTENCNEpHdDVFV3NlTFprX2lNcVZyZ0wzNkRSbzBfNXNTTDBFbWlON3VyQ3JHZ1YxbF8wbzRpMXJoQlNVM0xyT21ZSFl5eFdSWnNPQ9IB4AFBVV95cUxNLUhLYndfVlFhaFFrT2dVOC1oOHJUd28zMFRId2lnaTRUTm1iWjJ0R0xrcmhZeHNsQzRkaGdGQWxZOXExVmdITzdwMTFfb3hFNjRHSzByRUlESDNQYTdvdWl6TUk4QzNwd29kaWdueEhVWVNadG9aVXNXSnFpMjFaTDRwU0FjRjZObVRBMmVldzFneFFaTENCNEpHdDVFV3NlTFprX2lNcVZyZ0wzNkRSbzBfNXNTTDBFbWlON3VyQ3JHZ1YxbF8wbzRpMXJoQlNVM0xyT21ZSFl5eFdSWnNPQw?oc=5": {
       "title": "Apagão põe à prova aposta da Ásia Central em rede elétrica integrada e com data centers - Valor Econômico",
@@ -5117,7 +5035,79 @@
       "source": "",
       "added_at": "2026-08-25T11:39:11.603291",
       "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZ4WWlFVFVWSUptVEIwbGNDV1puSGVhTVlsRHFwZEtCWksxaklCajVQeGtmb0lnTnMzNi1IOWp1YlRHZG9tVlYxMDgwb09PZVZkbGlpNE83cmNEaHJKWHZjdDhyX2EyUmJOaDVrTlZjdlR6ekMwNmRWLW5waENZR1ZzNVNIM3pIZXBxX3JidjMzSUQwVXpwaXp1aUgya21tSnFxRkpfRVQ2N0NqWW0yUmhCVlRmWUYyVVctZFdsTnRNTWRHX1ZieEMzU0phdFJq?oc=5": {
+      "title": "Aeroporto de Natal conquista autossuficiência com usina solar - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-25T14:25:21.105227",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXRxTzF1LVZxenRFbVhoYS1sRFVPYnowZFFCTTh4MG8tTVA3UXQzT0toODN3U1g2WU1ZaWpzdnMzS0JubFZYMWpTclFVQlE4X1d3RkJFUzNZWDE5UnV5QTVFWWpjT2l1RnY3YUVkSmdWbFFWMjdpaV9zZ29NOVlfN3hpdTJpcEVWbEhqWktzZ1FsYnBna1ZURmNaRGNITGJUdF84akpINDZXemdiMGRsY3NWcmpqTTFYOWJkSHpIS2JmQTczbzMzUQ?oc=5": {
+      "title": "Alta das temperaturas e elevação da carga impulsionam preços futuros de energia - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-25T14:25:23.024601",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2NzU3pKX2wxUXlsRE13Z09UYWVhbGZCcVloejNWQmJqdVB4UXpjQXZQVFlzX1RiRDRPcW5nLUstLW9pSnA0TU5ycWN1TW9DQUFlS3JIaTJtZnFNM0kxOHdtOC0xOEQ0QlRDcFhhSUJDQmRGdFVaWTl0SjRhSFVrNVJXek5ZR082akJLWWN2elFJYmNkT0FvbHBQdnNnencxMmZJWjh6ZHU2N0t3UmpHdENrMVFFSGdUVDVR?oc=5": {
+      "title": "Agência recusa pedido e processo contra Enel avança para etapa final - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-25T14:25:24.989214",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEVReFREN01Ya1BqSGxWVWp2YklyMjFVUHkxazVzdVZLa0wxR2Y0QUVtZFA5S1BXd0NRRkJ0S3hTMXdGOVdPSS1HS2dMdEQ5VC05eTZqVTZBbFJNNWdrTElqWEJSaDYyZXRkMk51ZWNINkZKZC1GVWJSM19zbWhQZDF1VzQzbXRaRG1kd2lIc1M2dU80LXFjOHNkOG5aUUlUWnZjb3VqNWNYTnJzMjdjSmFQVS1pdzUt?oc=5": {
+      "title": "Comercializadoras movimentam mais de 100 GW médios no mercado livre - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-25T14:25:26.981188",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IdG16RXk4VzBtY25zYnpZVkpYX2FOYXQyUGtEMjRXZC04b28wVFhNa3NqTVdLeS1ISXludUhxcEtHTlNqeHYzdXZwYjlEaXh2d0dibzk4RnZOZlZhOTc0ZzZmcGxIVXl1X1J1UGR6ZlN1bnIxVW1TZXBDQWtfNmM?oc=5": {
+      "title": "Geração de energia a carvão na China deve voltar a crescer após ter primeira queda em uma década - UOL",
+      "summary": "Comente* * Apenas para assinantes comentĂĄrios Os comentĂĄrios nĂŁo representam a opiniĂŁo do jornal; a responsabilidade ĂŠ do autor da mensagem. - NIvalde CastroReversĂŁo pontual reflexo da Guerra dos EUA e Israel contra o IrĂŁ que interrompeu o fornecimento de gĂĄs e petrĂłleo para a China.",
+      "source": "",
+      "added_at": "2026-08-25T14:25:56.219861",
+      "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pN0t2QWdrVUhCN183RnNodDRmZmR5UVpBM1FQSEw5aS1JTHhoUzdpOFlNOWJCNjJVSjNaeHFKeG9iVndjUEFVUWZ1QldpZUpVd1RFVjdiTkJmNG5FN0txRkpwdFZzdVU0dDVyS3pIOEFkZU1vMGZJ?oc=5": {
+      "title": "Jerson Kelman > 'Gato solar' causa distúrbios em toda a rede elétrica Voltar - UOL",
+      "summary": "| Capa | Olá! | Zapping | Nas ruas | Grana | Trabalho | Dicas | Defesa do Cidadão | Editorial | Vencer | Show!",
+      "source": "",
+      "added_at": "2026-08-25T14:25:56.219909",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm9Qc3I5R19hakxwU3BhR25jaHdySm1PLWcwZ1E0bFFRRGt3RzZIZEd4cENrTTVUYk5wSHBwU1pCVjRwWXNoX014blFUc056anBrOXRBb3UtVGtMQV9VWnU4T0s2U0tiUFJIRm9OMUNGQkVhTm4xNk83X1drNnNnQTR0WWtWQ1l0ejhic3BFWG5xa0RHVkFxMkJR?oc=5": {
+      "title": "Governo quer mudar cálculo do valor da energia no mercado livre - Agência iNFRA",
+      "summary": "O **MME** abriu consultas públicas para mudar o cálculo do **PLD** (Preço de Liquidação das Diferenças), referência para o valor da energia no mercado livre. A proposta visa reduzir o PLD mínimo, atualmente em **R$ 57,31/MWh**, para valores próximos de zero, excluindo o custo de Itaipu do cálculo e buscando um sinal de preço mais adequado à oferta e demanda.",
+      "source": "",
+      "added_at": "2026-08-25T14:26:07.510518"
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3R2Y1FwbGRiOUFTTDhKNl9ScFZkWWtjcGRDTm05VWZyTjRnbFRJVHF0bDdiVnQ4VXRnRWh4Y3FCRUs4OTZ0cFBXMFQwdnUyazJXTGN2Y1R4X25CUGtjQ19VbDNRZFhrQ3ZlZXY3TWxOcWdUWW54LVdrdlpCeWEzRkZmejh2ajBHQWphVnRCQzVnMElya0xjbVdWWGNtc2kyZDFkU0o2eE41ckY4WGMzSGhnUU13S3FKT1E?oc=5": {
+      "title": "Aneel revoga 1,35 GW em projetos solares em meio a restrições no setor - MegaWhat",
+      "summary": "A **Aneel** revogou autorizações de **1,35 GW** em projetos solares na Bahia, Ceará, Minas Gerais e Rio Grande do Norte, a pedido dos empreendedores. As desistências citam revisões de estratégia, falta de conexão, aumento do **curtailment**, custos elevados e dificuldades de financiamento, impactando usinas com investimentos já realizados, como a UFV Sol do São Francisco (**R$ 4 milhões** investidos).",
+      "source": "",
+      "added_at": "2026-08-25T14:26:07.510558"
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0JxblVXWUpHQXdWM0tZYlBWRzJnenZJajdsNHB6ZHlZR3NIQ2Z4d25LRWpmcXpGckhPSVVuOWZfNWo4UGhaajNKLXJ4a2tPaUdCaC1UbjhOVmFUc3F6VDZnZzlmOEFLM0liSnpwOUl5dWdzTHN1cWNseEtubVFkVk5GbjZnSHE4a2dILWV1VFdMWTdIUUEzQlFha295VnBJNk9UZm5hcVhyOVdMUEFIRHNpSTM2VUFaRkR4ZzJ5YWdReUV6?oc=5": {
+      "title": "Pacto Energia desiste de 4,34 GW em usinas solares por falta de espaço na rede - MegaWhat",
+      "summary": "A **Pacto Energia** desistiu de **4,34 GW** em projetos solares, com a **Aneel** revogando autorizações de **1.562,52 MW** em Minas Gerais. A empresa alega falta de espaço na rede de transmissão (**SIN**), saturação da infraestrutura e custos elevados para obras de reforço, tornando os projetos inviáveis economicamente.",
+      "source": "",
+      "added_at": "2026-08-25T14:26:07.510568"
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclpMajlNU0NONDU4VjBtOFlmQmhIR2o4YmRtMDJxN1kyR0l0TzRwdmUydXFTOWJCQ1Nkb015OFFZMlNCUFRIS1RBSklLMC04VDlDal9rS1EzRDVKczdZRnpRdGZIYWljQ3RSWWtSU1Z0OEc3Z1dyS080WFY0NjNHYzdwU3NOS0pJdzk3YmFPb28tS01EREU1ZFpVbElWeWFSQVFIMzJqVWhTMXd2ZnAwVWlDNGItWkF4NHlxODZWR01ZZw?oc=5": {
+      "title": "Agência recusa pedido e processo contra Enel avança para etapa final – Edição do dia - MegaWhat",
+      "summary": "A **Aneel** negou pedido da **Enel São Paulo** para perícia técnica, avançando o processo que pode levar ao fim antecipado do contrato de concessão da distribuidora. Em paralelo, o líder empresarial Paul Polman defende que o Brasil acelere a conversão para energia verde em vez de investir em fósseis, como na Foz do Amazonas.",
+      "source": "",
+      "added_at": "2026-08-25T14:26:07.510575"
     }
   }
 }
