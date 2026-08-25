@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-25T17:14:17.135397-03:00",
+  "last_updated": "2026-08-25T17:45:15.931914-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Resgate Antecipado Facultativo Total das Debêntures da 4ª Série da 11ª Emissão de Debêntures -",
+      "data_referencia": "20260825 25/08/2026",
+      "data_entrega": "20260825 25/08/2026 17:24",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate Antecipado Facultativo Total das Debêntures da 4ª Série da 11ª Emissão de Debêntures",
+      "protocolo": "1561251",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1561251",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-08-25T20:45:04.089169"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
