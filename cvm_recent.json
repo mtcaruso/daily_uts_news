@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T10:30:20.615280-03:00",
+  "last_updated": "2026-08-26T11:11:53.790816-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -5634,24 +5634,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-07-27T16:32:52.547705"
-    },
-    {
-      "cnpj_short": "00557-6",
-      "empresa_nome": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Renovação da Concessão de distribuição de energia elétricaAta",
-      "data_referencia": "20260724 24/07/2026 11:00",
-      "data_entrega": "20260727 27/07/2026 10:52",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Renovação da Concessão de distribuição de energia elétrica",
-      "protocolo": "1548132",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1548132",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "5576",
-      "first_seen": "2026-07-27T14:05:11.770029"
     }
   ]
 }
