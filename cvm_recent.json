@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-08-26T13:17:57.555134-03:00",
+  "last_updated": "2026-08-26T15:09:57.669416-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Intermediárias",
+      "especie": "Versão em inglês -",
+      "data_referencia": "20260630 30/06/2026",
+      "data_entrega": "20260826 26/08/2026 13:46",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Versão em inglês",
+      "protocolo": "1561527",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1561527",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-08-26T18:09:46.702705"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
@@ -5616,24 +5634,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-07-27T22:04:17.183348"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Participação das Distribuidoras no “MCSDEN A-0”; Celebrações de Contratos pelas Subsidiárias com fornecedoresAta",
-      "data_referencia": "20260723 23/07/2026 08:30",
-      "data_entrega": "20260727 27/07/2026 11:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Participação das Distribuidoras no “MCSDEN A-0”; Celebrações de Contratos pelas Subsidiárias com fornecedores",
-      "protocolo": "1548170",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1548170",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-07-27T16:32:52.547705"
     }
   ]
 }
