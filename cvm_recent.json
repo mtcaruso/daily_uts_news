@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T20:58:15.205947-03:00",
+  "last_updated": "2026-08-28T05:39:40.467376-03:00",
   "items": [
     {
       "cnpj_short": "01444-3",
@@ -5526,42 +5526,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-07-29T11:37:43.738070"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Capitalização -",
-      "data_referencia": "20260728 28/07/2026",
-      "data_entrega": "20260728 28/07/2026 22:21",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Capitalização",
-      "protocolo": "1549007",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549007",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-07-29T03:58:43.690756"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "aumento do capital social da Companhia mediante a emissão de novas ações ordinárias, nominativas e sem valor nominalAta",
-      "data_referencia": "20260728 28/07/2026 14:00",
-      "data_entrega": "20260728 28/07/2026 22:19",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "aumento do capital social da Companhia mediante a emissão de novas ações ordinárias, nominativas e sem valor nominal",
-      "protocolo": "1549006",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549006",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-07-29T03:58:43.690742"
     }
   ]
 }
