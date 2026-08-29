@@ -1,230 +1,6 @@
 {
-  "last_updated": "2026-08-28T21:13:03.768150",
+  "last_updated": "2026-08-29T03:26:22.596901",
   "items": {
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeko4dnNzRHVfLU1KZ2tFV3dSRUw3cEM4ZWpPT1k1Q19tRTNoUUxBTG1vbW90b1hac0Y1OF9CV3RpMFg3ZmVxWFVYc19HUUNjR3VUWGJnYldKT2dMNGJCcGFKeHdWbGtybk9pNjFPbFJVRXF4YmxpQnVWbnk2UEpBeExGSzJYejNKMC1fUWExcWV1YzRvdnpwTDN6N0tQNUN1MTBKZUNzUmplMHZJT3R3Y0g3cDdIaEdMUllyc1BubXBJUGJGZGJDNQ?oc=5": {
-      "title": "70 milhões de medidores inteligentes em 10 anos: o desafio bilionário do Brasil - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-14T21:36:57.940359",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEU2LUdJRFZZRVVKdnFKQTZIX3l2dTFndzV0RXBUX2M0RmlaOE1LeGlhQUJzNVYtbTNnOG5DeGFpaWpYUHYycjVmeFh4bkNBNTJzN0J2bmdLbWRqb0dVLTFoY0tVeDRHWUtXWndseGpQWkZETldvWWZNZkRpTVktOHo5Sm1Fb2NYNnRIOGhfOTJoU1I1b2NZVXctb0JueTN5Rk9Lei1nbFdNNmRNcE95SnE4YkN6Z2pnOF9hc01iSy0?oc=5": {
-      "title": "Petrobras confirma que perfuração na Margem Equatorial encontrou óleo - Estadão",
-      "summary": "Economia Petrobras anuncia ter encontrado petróleo na bacia da Foz do Amazonas, na Margem Equatorial Política Cármen Lúcia diz que liberdade de imprensa ‘não está em questão no Brasil’ Conteúdo Patrocinado Educação Justiça suspende edital da Prefeitura de São Paulo para gestão de escolas por organizações",
-      "source": "",
-      "added_at": "2026-08-14T21:58:31.481240",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQejltcHpkR01EYnQ4RnpBVXVQNzhMVWFLV1AtUGo0V3UtQ2NycHZhbXd1QlFGWW44LXU5dTJLQXZJQmVqcDM0S1hnSUJKb2JfNkprRWVuQjRfOGF1MmdwYml2VDFPYjNJRXRpRVRGeUpBZVBWa3VLR1J2cTdIZW5OVkdrMVh4UkxRQl9TZzh1Q1U0Q29WZHR5aG5hcFRHUFlwU3RVN3F2dURpNVk?oc=5": {
-      "title": "ONS: chance média de acionar Plano de Gestão de Excedentes - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-14T21:58:33.585340",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTURhU3hmMVZiNHU5ZHdJWWRfTlRuYUhxeHFMNGU0RzdWZm85aEt5MUphR2xsTVJfM0NBVXU1TGd5eEtRaFp6QVVJb3N1UWFzc1hFOTlualloY05kQ1FkQVBqTjhfVTZsbXV3LTIxanBON3ZZNzY3QnkwV0VldTg3TndtaTJ0c3RRLTZHQS0wVGNOelhkSUo0dGFQREQ?oc=5": {
-      "title": "PMO de agosto revisa projeção na carga para 5,6% - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-14T22:36:47.653004",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3ZFeUFURzVDcFNQekRYM1UtVUdESGpQZWJ6WW9lRnBPUEZBcGk4UHhPa0RZTzBaWEpjdzFWV2FReEo0WGdfeHVJVHVvSGZ0Yks5VkNRdGJWdDFmXzZpaXBtT1FsMGZEMm1hOE83X0lXejhpQy1UVHc0MjdtcmIwVHpmYWVjLUs4RmY3QW9TQW9GWngtcW1QZGhLNUhQZmtFV1lwaW1NazNMODZuUXJkMk1vd1N6WnE0YTdCZ1l4aktPam5YVzlfaWZzWlNZN2RQ0gHfAUFVX3lxTE5ManVVS0dvMGpfMURNMVI0TnF5WUEyLWtWWXczcFI4TGJEeGh0MWx3bm5YX0RISVBvekhWNHlLNXlBbEpGZGZvR2plMG9aOENFQy1xd1FwUG5la1NZNlRLYXUxbjMwcjNtUnU2dktwTFMxc2x2QUw2RXFncDRWX0RvWWE4MnNjOEdMS09TbW1tUjBzZnpyNjQtS0pWWDl6azFPa1RYdEVoMmFiaWM0RVppZWJvekN4d2VCb0xoa3lhNUNzU1BWN25QNlBzZE1FOVF1UXU3TGRJbDlFSm9sTHM?oc=5": {
-      "title": "Petrobras anuncia descoberta de hidrocarbonetos no Amapá, na Margem Equatorial - Valor Econômico",
-      "summary": "Petrobras anuncia descoberta de hidrocarbonetos no Amapá, na Margem Equatorial A companhia não detalhou qual hidrocarboneto foi encontrado — petróleo ou gás natural A Petrobras afirmou nesta sexta-feira (14) que identificou a presença de hidrocarbonetos no poço Morpho, perfurado no bloco FZA-M-59, na Bacia da Foz do Amazonas, no Amapá. Em nota, a companhia anunciou a descoberta, sem detalhar qual…",
-      "source": "",
-      "added_at": "2026-08-14T22:37:26.085315",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkhhdkxzeXFOdmdIQl9STFBud0NwaDlQRko2UUdPYThjMG16QXk0QllEZ1ZpMlh4UG5IQ2N4TjFicElnaGFqVEhBRUU2NndOcXdhUEJQZUZ1RFdCaVdNLTJIaE1aeW9tYlRha24xODVrajc3MjgwcTdvMExwNWVRUkdwYXFScGpGS3dlVDMxUnlvLTR4UWlmWEJESlp2WEI4ZWpBSlp5TVA3cFQzN2RJaUZDTTZPUQ?oc=5": {
-      "title": "Petrobras confirma que encontrou petróleo na bacia da Foz do Amazonas, na Margem Equatorial - Estadão",
-      "summary": "Gerando resumo RIO - A Petrobras atingiu nesta sexta-feira, 14, o reservatório do poço de Morpho, na bacia da Foz do Amazonas, na Margem Equatorial brasileira, identificando a descoberta de óleo. A informação foi apurada pelo Estadão/Broadcast e confirmada pela estatal minutos depois.",
-      "source": "",
-      "added_at": "2026-08-14T22:37:26.085407",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVlJhMUJhZ0t0RDczYWdkeDU3MkVyQzIycWoyei1yZ2xWOUIyeGdRM29CeFc1MUtjRFVFMnJDOVhWMll0QVEwM1VzWDB1T25VeHUzLURKS0ZLcUozQmY4cTNFSERfbjktbnNXWjRucmR2SEVEWUpBNEdRT254YlNMT3hwb3hWWTZ6X1JLRHp1eVR2cVF2WE5BZ3BMN3VHeG1RYzBuMlM4Q2VCTGFnNU1tZ1MxZ2xoc09TM0JlUFp2SVd5WlJEVHhncWs4STJyd21hb3fSAdcBQVVfeXFMUG92ZnpqY2hVOTAzMUEzOXdMcERqYUpQcTh2V2JpNVN1S01SV0t1LW94eDJHUlJtTG1wM09BTVBQSDIxcjI4ekpGdUU3ZTZUcFBjaW9kdVJtblVRM1ozWlJzSEZEOGotQi02Qkp4WkltUTI1Y2ZpdGtHbUREN2VNcDdJVm5YaW9EVlRKLThEVmdLU2t2elF1ZVptOFFJRVluWWV5cEJXdlZKeVA1SFlNMHpHZEptNWVoak5udXhUN0txcDhPalRNYWxYdzNiUENrLU9PWFpDM3c?oc=5": {
-      "title": "Prefeitura limita velocidade de bicicletas elétricas e patinetes a 20 km/h em ciclovias; veja regras - Estadão",
-      "summary": "Bicicletas disputam espaço com patinetes e outros novos veículos elétricos na Faria Lima Convivência de modais cria conflitos e especialistas veem via saturada; CET diz atuar no monitoramento e na orientação. Crédito: Imagens: Taba Benedicto/Edição: Laís Nagayama Gerando resumo A Prefeitura de São Paulo determinou que o limite de velocidade para a circulação de bicicletas elétricas, patinetes e…",
-      "source": "",
-      "added_at": "2026-08-14T22:37:26.085556",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTJnSE9aekZ0TVdEQTVDS3lidHFjQkFFZ3dOM0VpQkVVVjRfXy1TVmFtSnNZdUxHdkJJR1VEN1d3eEM1aUtLZVliaXRBbVZjTXlpaDEyS29QNE1fODd3TlRkN0JGUFl0eUtIaHlXNFdxT1dCeEtsSkxDU3JpY2ZUeHFvQURvZlNhNC1VcDFrM09Ba0pNSTBzbVQ1VmhGZTA?oc=5": {
-      "title": "Petrobras descobre petróleo na Foz do Amazonas, na Margem Equatorial - Agência iNFRA",
-      "summary": "Gabriel Vasconcelos, da Agência iNFRA A Petrobras informou na noite desta sexta-feira (14) ter identificado a presença de hidrocarbonetos, possível sinal de petróleo, em poço exploratório na costa do Amapá, na Bacia da Foz do Amazonas, uma das cinco que compõem a Margem Equatorial. A companhia começou a perfuração no local após licença emitida pelo Ibama em outubro de 2025, depois de um longo…",
-      "source": "",
-      "added_at": "2026-08-14T22:37:26.085593",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2xTS2JocVZqd3lDMDRSVlQwWF9QSUNyYVhaOWc1RlVWcGo0RXZsZXY5UWVsV3VIYndkRDVXbGR1UVVuNnFxT0FnSllXSjlWNTBCLXU2eTJwU2FKZEVFdnZ3MEpDY29kU2RQQU12RWVhaFpuSndXeEZUYVFqREttX1ZBZmRwZFg1QXM2Zno0NjZJNHlfWXBmZ2NiSk5DeGNJTUJvam90aFVaaUxram13VWV0U2lUeS1iRXlFSHk3aDdjR1ZWODRZ?oc=5": {
-      "title": "Trump anuncia cobrança de tarifa de 100% sobre drones e peças para fabricação - 14/08/2026 - Economia - Folha de S.Paulo",
-      "summary": "O presidente dos EUA, Donald Trump, anunciou nesta quinta-feira (12) a imposição de novas tarifas sobre drones e seus componentes, em uma tentativa de tornar as empresas norte-americanas, as forças de segurança e os governos estaduais e locais menos dependentes da tecnologia chinesa. A Casa Branca afirmou que aplicará tarifas de 100% sobre drones considerados \"particularmente sensíveis\" para a…",
-      "source": "",
-      "added_at": "2026-08-14T22:59:45.041558",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkhhdkxzeXFOdmdIQl9STFBud0NwaDlQRko2UUdPYThjMG16QXk0QllEZ1ZpMlh4UG5IQ2N4TjFicElnaGFqVEhBRUU2NndOcXdhUEJQZUZ1RFdCaVdNLTJIaE1aeW9tYlRha24xODVrajc3MjgwcTdvMExwNWVRUkdwYXFScGpGS3dlVDMxUnlvLTR4UWlmWEJESlp2WEI4ZWpBSlp5TVA3cFQzN2RJaUZDTTZPUdIBuwFBVV95cUxPTHpRXzNtcmF0MXNHLXEyYm1qSnVGcDJVbVJkdzFVUjNfTDMtbEFWZ2RJMDlmQllpT0hCWFN3WGJ0VVd1czZ6SXhCS2ZUU09RZlRBN2U4bkthTEQ5RUwwajBOM2JxQXgyaUZ3a2RDa2d3d3dYMzhGUGZkekloMjhIclZDcFRqOFkzdjFEeW9hWlFNdTFIX1JvVE9jZ1c2c05hc09OZjl6Z2c3VDN3VTRydXN5U1ItZEd1bVQw?oc=5": {
-      "title": "Petrobras anuncia ter encontrado petróleo na bacia da Foz do Amazonas, na Margem Equatorial - Estadão",
-      "summary": "Gerando resumo RIO - A Petrobras anunciou nesta sexta-feira, 14, que identificou a presença de petróleo em um poço exploratório em águas profundas do Amapá, na bacia sedimentar da Foz do Amazonas, na Margem Equatorial brasileira. A descoberta foi feita no poço de Morpho, que está localizado a cerca de 175 km da costa do Estado do Amapá, a uma profundidade de 2.886 metros, segundo nota publicada…",
-      "source": "",
-      "added_at": "2026-08-14T22:59:45.041728",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUJIMnlJSUtMeGthMEVnN1hLX21fR2E5dUVWV2VyNXFWc2MwWklPeEt0aDkwZmVSQ1kwYk84amJyNTJ5Rjltc3BNSUwtYVNHSVVxeGhKWGRJMjJ2M2NLVWRneThpX0pEd3l2ajVycTQyRTFPZkczV05Ua2dIUFI2R1JHZ1JKOTdSb1ZSSjRDUW9MZmZtRlpVMGJjN29KVmIxUHZmNzIxVThhSlAybnVPaXFFTl9wR2s?oc=5": {
-      "title": "Potee 2026 aposta em interligações regionais para reduzir gargalos do SIN - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-15T01:47:11.065155",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNnetIByAFBVV95cUxQU3g4Q05IblpMT1JHRDlwUnU3NENhdjE1X3RweXJYbE1MLUd2djE4WVZHVUtTRnNPU0dnRHhPR2hDTXVsUGdLUXBIU0U3bmU2a3VTbENvdEt1UGxyTkd2RFJqN2ljWGZYVkJLQkVNX2JhaWU4Z0s5Wi1yNlVhNHZUWFlaZnhFY0hGdWI2U1dhaV9BUHY5TnktSVk5YkpYd1BSaUl6ZG1kM0RCX3gyWnFGZWZ1ZTZDSkNvR0VPa2t5WGgxX0F0dzNneg?oc=5": {
-      "title": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre - Valor Econômico",
-      "summary": "Renova Energia amplia prejuízo para R$ 3 milhões no 2º trimestre Montante representa um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período de 2025 A Renova Energia registrou um prejuízo líquido de R$ 3 milhões no segundo trimestre deste ano, representando um aumento de 1.257,3% ante o prejuízo de R$ 222 mil observado em igual período do ano passado. De acordo com a…",
-      "source": "",
-      "added_at": "2026-08-15T01:48:05.126129",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNE5LXzJDXzdjamRrTWtRdE5iZTFZRlNlWDJSalJablB4LTUzRTFlaGtERS1xeE40V2ZzOUZMSmt1V1hDSko5NGMxNUFfcnZqUm9UdncyMXVvVGFta0xYYmZzc2hxdkhQTVU5UXNmZ2JGOUdrZTRfQ255VG5MeTRTWUVWN3NZTEFWcTdSS3lQb3dVYXFKbC1jQjFhSHVrakNleHVEMTJ5ZmE2VWc2VWZ1enFR0gG3AUFVX3lxTFBseHhuOXBuUVNyOE1hOEt0eGRKaHJQM0ZqQmpSQ3h4R3ctNGxrQVNsR2luNUVIQXE1OGE5ZUNjeHZRLTFNTmF6WWNFYmRLNDU1b0xaSDc5NUdGUTdIYVJuNFFrS2dPbDQ0T2pyQ3NSQURJQzRaTVFlZ2Q2UTFtN0RldU05QkYxb0RhVG84MnYxVHlydmhuZVVVUXV6blQybWE1TGlJc3RpUFlZTHRRSDM5TGJIQVJQMA?oc=5": {
-      "title": "Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn - Estadão",
-      "summary": "Gerando resumo RIO - A descoberta de óleo no poço pioneiro Morpho, na Margem Equatorial brasileira, anunciada pela Petrobras nesta sexta-feira, 14, vai mudar a geopolítica nacional se a região virar realmente uma nova província petrolífera do País, avalia o professor do Instituto de Energia da PUC Rio e ex-diretor-geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), David…",
-      "source": "",
-      "added_at": "2026-08-15T01:48:05.126362",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2tqUXdMSWRFMDdMZGdkUzZsUlRySGhqdURWR19VWjR2enMzeVZYY3I2b1I0WmNhVk85MUxESGRQNTE2c1lJZmYtVUx2bC0zN1J0RHA3Mk1GVlVlQTRadTF2VkU1QjNEZlZFT1hpVXRMbVRJTnBGd2RWWlMxY0xvVHlUUjJYSm1NYWp2dlZpSXZtTlhoOGxyelBjUURjVG5TYlAzZi1WVlZpVHdfOEx5U3c1V01qdU1sUEVnUDRqVQ?oc=5": {
-      "title": "O que se sabe e o que falta descobrir sobre a descoberta de petróleo na Margem Equatorial - Estadão",
-      "summary": "Economia O que se sabe e o que falta descobrir sobre a descoberta de petróleo na Margem Equatorial Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’15/08/2026 | Edição das 6h30 00:0000:00 Conteúdo Patrocinado",
-      "source": "",
-      "added_at": "2026-08-15T01:48:05.126427",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaklmZUlJcnVmb1NQMWduYXUwbWtKQVMzaXo3ZlBzSXl6VkNkbnhvRTgxemFUNjZzTndUb1F0TEFrV1lER0tmSVM1aXM4QWtOVmVQaTltWEt5UWE1dVhPNnFBdXlUaGNRNmJDMlJZMHlyOEZ6QzlxejRtT3JZc2FQZS1waHV0UXl6UjFoR1hJakdKZU12ZVdwTlRBUnZpZC1xeHRWb0tfQmdEVVBHQUxUbnBITzfSAboBQVVfeXFMTVhtc1VFcldHZTh0UzRwbmp4cTNyZVctaDY3bTZseW9yMUQzeXR6M19DeVkzYWdYb1AzSEZ4ejBkMGZ6Ni1tb3RoSUM4eHNPYUpkZHRIRkpyNkJ6VHlhREUwV09oT2VRVzhXcVI2OEx3UmFPbWZteXBxRHBuSWxEOXhkcW5YNG5NaDZNTklaN09CX0Q0elpKRzNud29tS09Ka19lTEx4UVhkcVUtcVhybGJNbWJXY05waGdn?oc=5": {
-      "title": "O que se sabe e o que falta descobrir sobre a descoberta de petróleo na Margem Equatorial - Estadão",
-      "summary": "Marina Silva: ‘Defendo que Petrobras seja empresa de geração de energia e não apenas de petróleo’ Ministra do Meio Ambiente falou ao Estadão sobre temas que dividem governo, como exploração de petróleo. Crédito: Reportagem: Juliana Domingos / Fotografia e edição: Everton Oliveira Gerando resumo A Petrobras informou nesta sexta-feira, 14, a descoberta de petróleo na Margem Equatorial, próximo à…",
-      "source": "",
-      "added_at": "2026-08-15T01:48:05.126734",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc21tRVI3aFRacU42VGV1ak1rNTJaZWloZ3BkWmNwRk52QmZEcmUtZHNVbG5TX3FWTzNOaHRMWDdKVFZWajZhWkE5bE1hbWxwdW5JSmRPNDZOb082dlFwZWd3QnR5aFBKSUZxamlRNDN0ZHI0VmxRT0FhZDNRMVNNMHFyeVVPMU95Q2FSczJ1NzBnTURYWEswY2FRTFJxR0ZINWliSFJzZUkwenZHNlJZRF9VQ0tzQTMxSWZvTFZ0bUNwbjcxQkk1cUZoa2Z1NXhacG9DQ0R3?oc=5": {
-      "title": "Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira - Estadão",
-      "summary": "Economia Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’15/08/2026 | Edição das 6h30 00:0000:00 Teatro Cultura Artística inaugura galeria de arte com mostra gratuita e horário alternativo; conheça",
-      "source": "",
-      "added_at": "2026-08-15T01:48:25.684252",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTQ4MlNQZWlfNmVvQ3RpNXlOWlNPQWdQVTZpemNVUjN2U0RPLXQ2eVdrWHp2M1JGVGhkT0VjdVhPZXV0UGMxb0tfcjRGekJwTW81OURPckNTWno1UFRZNWtwZGNCdzA2QmU4Y2pjRkFjTm02YTFCT3VWcThLblRkMnFLSjJkT3MwaHF5OHdCNk5aSTZVOU54eXlnYks4aEc0QUNLTHE5YUtveGlLYnJKcm8xTDBMYl9BYW1LSlAxaUpIRU9PejRPdUw2WdIB0AFBVV95cUxNOU10TjFTRmNqaHc4THBGbVZsSnJFOUpyVEdDUV93aWstRlNHWVJjVXJSTmk1d1FXWFZYWlQ2NHVsZEVHSnQ1MzNrV0U0UWxjZEZxZTZtV196X3dGWTlkLW9tcm5UUkdXdEdKYUJhalVrZDZvR1BsbWplOVNZdXYyNExWeUxCYm52Rm8xVVNTaE1qQThiNnFLc3VaWl93Vmc3bzYwNnpEaWtieU4yOEx0aDdnYlAwRDhzREM4OHF0dXMxR3hPU3lyWDN2c3hYMnpJ?oc=5": {
-      "title": "Descoberta na Margem Equatorial pela Petrobras põe fim a dúvidas sobre nova fronteira - Estadão",
-      "summary": "A Petrobras descobriu óleo no poço Morpho, na Margem Equatorial brasileira, após dez meses de trabalho. A descoberta, anunciada em 13 de agosto, é vista como promissora para a reposição de reservas do Brasil.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:25.684479",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDNzOHloYmRISGVoMkRUSFprNkphN0J1TzZHMUtObXFrTUw3UndMeS1MS1QwalBFdWxMOEkzQWxkbTVKSzBvT19tdkZTS3JxSVNOV01HMUFxYUdIUE9CcFBLOU1NaVZna0VMcHMyeThXYkIwOW1NdlR6czFnWnJZMGc3N1hKZVlpRTZ4eGZuWW8wRHdHRXpkaWZMUkNDZ1RDUE0tVE5iWXA?oc=5": {
-      "title": "Petrobras descobre hidrocarbonetos na Foz do Amazonas, na Margem Equatorial - Agência iNFRA",
-      "summary": "Gabriel Vasconcelos, da Agência iNFRA A Petrobras informou na noite desta sexta-feira (14) ter identificado a presença de hidrocarbonetos, possível sinal de petróleo, em poço exploratório na costa do Amapá, na Bacia da Foz do Amazonas, uma das cinco que compõem a Margem Equatorial. A companhia começou a perfuração no local após licença emitida pelo Ibama em outubro de 2025, depois de um longo…",
-      "source": "",
-      "added_at": "2026-08-15T01:48:25.684884",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnNnUVptRlB3akJ5UWZmTndTbzVKOElucF9RWlEzUW1LS3hsMHJZZ2c1b3FsbVBIbWlUQkstZDhWd29Wd09NTGpRNzBQRm9IdDllUi1yOWJQbHhrQjdYeXgycGttVng3Z1lZT2l1UGtSRnlKVUtNVE5mSUxXV1p5N25uRE9uUmtDZWlFQWs5WFNCcHZFZTItODdwUXo2bzJxdkZQSXRyc1VJS2RXd2VtT1hUSkdhQmxDTmU2MmNQNzN4UDVIWlYwT2lXZ01wVTg?oc=5": {
-      "title": "Conselho da CCEE vai discutir 'anomalias' de segurança de mercado e vaga de novo diretor - MegaWhat",
-      "summary": "O conselho da **CCEE** discutirá em 19 de agosto \"anomalias de segurança de mercado\" e a escolha de um novo diretor de Tecnologia. A pauta também inclui a revisão do estatuto e temas do CMSE, como o aumento de comercializadoras em recuperação judicial, que já afeta **580 contrapartes** e **5,6 mil consumidores**.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:39.019404"
-    },
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXJHUkpranZ2YjkyLUFBSHZST1UzbnhhbjNsV3IxZ2hnbVB6ZF9OMXJXcm8wQk5PTUJxQ1ZkeDdDUU9OXzNDWm85V2xVQng2TGlwNGxiNS05VDBjekFDMnNCUzVhaDNzQ1BWMFJOV3pEZk5iX01aNmJBS0o3WkFjdW9FZE82NlZWbl90djZvMDhXbEJUMVlFUGJNTWpieU9rS1BDemwxa3oxNUdkb0FRZm9POXFjNllTYnBFSUc5Rzh6ZzdfWnlsVU1PM0k0SkZQUFFXLWgxTlNLdzJyaUNUbXhYYkNsTzZOaFE?oc=5": {
-      "title": "CP 001/2026: três pontos que decidem o custo e a operação da medição inteligente na baixa tensão - MegaWhat",
-      "summary": "*Conteúdo oferecido pela Way2 A segunda fase da consulta pública nº 001/2026 da Aneel encerrou em 14 de agosto de 2026, e o que a agência decidir a partir dela define os requisitos mínimos dos sistemas de medição inteligente usados no faturamento do grupo B. A definição chega com o rollout já em curso: desde 1º de março de 2026, a Portaria Normativa MME nº 126/2026 obriga a instalação de…",
-      "source": "",
-      "added_at": "2026-08-15T01:48:39.020188",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnVHTkxQSUNlbHNOLWZiM0VnOVNNZnFOVmVsY1cyOXRSdTBMdG9acWlSTkY5c3BCb3EzVDQ0NTQ5RUhoVW91alNjTkx1Mi1JanZEcEphdjVvWXpIbkhhSUpiS0VhQ3pwX1FaQnluaVViZzREMzVZTXVLMUhmQ0lKMnB0Vjkwd1ktZ3hwMkVtRTJxcnhxSkRVVGUyanZBV3hJVWthWE01WVFteC1JeEJFRFhXTnQ0MUVWdEtWTjQ1MzNacXV1VU9xcQ?oc=5": {
-      "title": "Justiça mantém Máxima Energia na CCEE durante recuperação extrajudicial - MegaWhat",
-      "summary": "A **CCEE** manteve a **Máxima Energia** no mercado, cumprindo decisão judicial que a isenta temporariamente de apresentar certidão negativa de recuperação extrajudicial. A decisão, unânime da diretoria em 4 de agosto, atende a uma tutela de urgência do TJSP de 22 de julho, permitindo a continuidade da comercializadora e evitando o comprometimento de seu plano de recuperação.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:39.020548"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR203VHZmNUt1RU9kVXo2SVlTeU9VcjkwcG1SZzJucEtkRzRnNWoyYmtuQmd4VWNyTEhZME5VUHo4R3JFM21Pek0zWnA0T1c3dG03UDFBOHZoRXAzdU5RWmxSMDFONGlLS3dMclFEOU5Wc0NGcVpSajIxckZzNzJXZEpZVE9WXzByZnBGem4xdlhUZXBMM3NEejViQkx0R3pocm1VREdyU25yM1dreWtYaXk4WVg?oc=5": {
-      "title": "A transição energética precisa de mais realismo e menos slogans - MegaWhat",
-      "summary": "O relatório GenCost 2025-26 da Austrália aponta a energia renovável como de menor custo para neutralidade de carbono, mas levanta questões sobre confiabilidade, custos históricos de ativos e dependência geopolítica. O artigo defende realismo e transparência nas decisões de transição energética, evitando slogans e considerando múltiplos fatores.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:52.087593"
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm14bWpGUmNzYnBKTWdJc04wMFBFazVaNUpZTkk5SlZnZDNaQmdNNmxDdDlzMlRFVWpnZ2Nsa2pESGhXTmRFcEE1dDRDVFlBbzRlZWtzRHB6SmdzWEJ2aXh1QnJnN0dnRUd0RWNFSk1LWXhOWHcydnNrUjNOMm8tOExLNHhTdFB2T2J2dzR4VE5pRExXWk4tTmRJVEZYN0dEdEI2aTNJcw?oc=5": {
-      "title": "Cemig reduz risco na comercialização e projeta até R$ 1,8 bi em 2028 - MegaWhat",
-      "summary": "A **Cemig** está reduzindo sua exposição na comercialização de energia para 2027 e 2028, projetando um resultado entre **R$ 1 bilhão e R$ 1,8 bilhão** para 2028. A empresa também avalia oportunidades em data centers e leilões de transmissão, enquanto negocia a renovação de concessões de três usinas hidrelétricas cujos contratos vencem em 2026 e 2027.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:52.088223"
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmNlcllIQ2ZMMDdSbFYxVXU1ZzlpZlgxZXNyLXhaVjFGZ2xyRW9HOGstZkQtWnhjNktzbFhkdm9LNzJ0WlhCWEJvNFJtVXJNRW1aQUZPM1Q4Wm8zNXNkNnNaZThjdmM5eXRPV2k4MVdJZC1TQWFZODQ3M0hMUnRQamVYcTZ6WlNpYWFPakxDWC1jSjJnbndpbEdyU3Z1bUxMUDhXaUlZd2ZLaWFGaHhlM2hkeXNxdFAwSDNaRlFWTmg?oc=5": {
-      "title": "Renova leva Satoshi a 80 MW em trimestre de alta do curtailment - MegaWhat",
-      "summary": "O projeto **Satoshi**, data center da **Renova Energia**, atingiu **80 MW** de consumo e deve chegar a 90 MW ainda no terceiro trimestre, ajudando a mitigar o aumento de 35,4% nos cortes de geração (curtailment) no segundo trimestre. Apesar de um prejuízo líquido de **R$ 3 milhões** no período, a receita operacional líquida da Renova cresceu 3,1% no semestre, impulsionada pelo projeto.",
-      "source": "",
-      "added_at": "2026-08-15T01:48:52.088535"
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa1dfeXJSbmFMbllKQWJyNEdhR0pOSWRBRVAtTTRaOFJXZ0xlaUY1andsTW55aWI0UTZHNEhsQ1h1aXkxQW1IekRjVFVyUlYyNWVHYWxOc2l1cmR4MmVTMF9GU25NUjE5cms1Ul9yMldRUUdEazZIN2lMLUJiSUsxbkpoeWg0MFI4a1JqMzJJNUJoeURrdjhBOGFEQkV2bGVnWERNNkNmZFJCQUQwVE0yVWtXTjNzRHh4a01wUy0xNzFCb2pYMU53bDdkeVAtQ00?oc=5": {
-      "title": "Raízen avalia dívida para separar empresas de combustíveis e açúcar e etanol - MegaWhat",
-      "summary": "A **Raízen** avalia a estrutura de capital para separar seus negócios de combustíveis e açúcar/etanol, com conclusão prevista para **dezembro de 2027**. A cisão faz parte de um plano para reestruturar mais de **R$ 60 bilhões** em dívidas, buscando otimizar a alavancagem e o custo financeiro das futuras empresas.",
-      "source": "",
-      "added_at": "2026-08-15T01:49:03.618406"
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTNDdElqMkJ0YVU4MFJoOF9vT3BrMlJNR0xiVHNUZ21ObkVOZklKSm8zSTNtZVFEVFZNVWw1T2V0Q3lVbFJ1YWRLa0pUbXhsaW5kRGRiLWw2S2hCTWhuclB4YVpZcE5CN0xiYVpmeVlCLU9Ub19kU0JOSmY4TTRGLUpldmpXNWVuSXBVZXd6d0JNS0FWS3RrYzd6V3RuYkRmZmwya3RrTDBzX0RZZUZvVFJqSQ?oc=5": {
-      "title": "Edge mais que dobra contratos e vira plataforma de crescimento da Compass - MegaWhat",
-      "summary": "A **Edge**, plataforma da **Compass**, mais que dobrou seus contratos no 2º trimestre de 2026, atingindo 61 clientes e expandindo para 11 estados. O volume comercializado aumentou 27%, chegando a **461 milhões de m³**, impulsionado pela migração para o mercado livre e operações de GNL B2B. O Ebitda do segmento cresceu **50%**, para **R$ 140 milhões**.",
-      "source": "",
-      "added_at": "2026-08-15T01:49:03.618437"
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnlHS1dzYkl3TVdncWZvd0k5Y3VqQk5xR1lXUzZBekpEdGVpX3AzcEdVTkFZNVFvMEIzUGN4NWp4Z0VQbGZIejJSYUVCQnZPblE2emgxQzZ5V1FlVzY1LVNnMXF6cFA3M2hZOXBoc2xHOHRfN3N3UVl5aFJPUGxZek5oVEJpWFJwSFU4b1hublZKNFhDU19DMEF0MldwYnd2UTRlRXE4dlgtYnVqWFE?oc=5": {
-      "title": "🎙️Disputa por GNL, planos da Eneva no LRCap e o futuro das usinas da Light - MegaWhat",
-      "summary": "A **Alunorte** importará GNL para retomar produção, em disputa com a **New Fortress**. A **Eneva** se prepara para convocação no **LRCap**, e há impasse regulatório sobre o futuro das usinas da **Light** no Complexo de Lajes.",
-      "source": "",
-      "added_at": "2026-08-15T01:49:03.618445"
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdno3TTFLbnRHVThidWlQWUFVVGlNYjI0aHR1VEhpYml0aUZDei1PVTNlSXlucEozTFU4aFl2WkdKaXFJZEZXakpRanlYTGlwbFlzUGVlaXRmQTg0MnhUUGhJbnVTMDFTUDZPcXZkNXJPdHlkLU03LWVkQ1BVMHFUTm55aHRDUUU5cmh6bmVhOFNDNDhXVzFWMURrVjdMTllGWXJMRGFJVUdORHRtTDhtUmUyZVdHTV9pbDJfTVk0YWR5ak94NDJFRDlZeWtlN0ZXOTItTnZ5clFISFFtZmlMaGhYYmFIdEE?oc=5": {
-      "title": "Petróleo na Margem Equatorial abre fronteira que pode reposicionar Brasil no setor, dizem analistas - Estadão",
-      "summary": "Economia Petróleo na Margem Equatorial abre fronteira que pode reposicionar Brasil no setor, dizem analistas Política Cármen Lúcia diz que liberdade de imprensa ‘não está em questão no Brasil’ Conteúdo Patrocinado Educação Justiça suspende edital da Prefeitura de São Paulo para gestão de escolas por organizações",
-      "source": "",
-      "added_at": "2026-08-15T03:02:22.843904",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMHhoZ2RxOWpmT1RZRXIwejVJejU3MUxpY21qNy1Ba3ZCYjB1RmQ3bmxjUWlZbUlmVjFfS05KZzYySTR5Sk5zblRRbVZ4WGVtUFdLTFJlSHhraFpOTDZxT1J0bnRoNktvOUEzdmlfeF8tMmdVcnoweXRhNFRvQ2VJenJjRFRYZmJpWS05U3VRN0Z2WFBOODRYaHkzSWlPVzNZb0l6VFQxOS1zbXdXbDBick8tc0NuMDduYW50cU1EZ0JtYWpsUVpJRTVXdVhpRTRYcXQxVkp3UTc4dlg30gHiAUFVX3lxTE9sLVdrTkNWTkJuT0x1VGdBOHkyQnptRGZERm1MS1o2MWJhQnhfVlgwcFJ4cUNyM190WElDeUUwUVROM2FDbTRKaFFtSmVfazNFREE1LXBFTHB2ZnV4S25fNWdOQUdvX1RPYlVBR3NaZ3BNUkN1d19OeWp1eXFKRVFoV3d1Tkp5MkxrQ3NsYmFoQVd3MWhEaWY0OUlIQjE3WUVfQjlFc2szNjd5OVd3WlR6d2VoNXNyQzRycEN2LTh0SFJvNVk2dkhjWDlrVTlERTlJTjFSMGFrTEhvZW5CRkNIcFE?oc=5": {
-      "title": "Petróleo na Margem Equatorial abre fronteira que pode reposicionar Brasil no setor, dizem analistas - Estadão",
-      "summary": "Gerando resumo BRASÍLIA, RIO E SÃO PAULO - A descoberta de petróleo na Margem Equatorial, divulgada nesta sexta-feira, 14, foi recebida por autoridades e especialistas como uma oportunidade de levar o Brasil a um novo patamar no setor energético. A Petrobras atingiu o reservatório do poço de Morpho, identificando a descoberta de óleo.",
-      "source": "",
-      "added_at": "2026-08-15T03:02:22.844119",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV96NFRBckxmenV5c00yMEpUMWdPRUVPNkJHLU9pTWZBX2FfUWpsWEMzbG1vc05VWFZSdWtHc3dUMENxMV85ZEdWV2ZxY25JcGQ2bmxVQnF4OFJmX29mdVlEMTFOUFdLTEVFZmVBNENCUmhrVXZJWUt5YkxRTERaVXpTWjBNUGhzZWRfMU9NaG5WRmE1ZzdITA?oc=5": {
-      "title": "Aplicação de reciprocidade contra os EUA amplia risco de tarifas mais altas, diz economista - Estadão",
-      "summary": "Economia Aplicação de reciprocidade contra os EUA amplia risco de tarifas mais altas, diz economista Conteúdo jornalístico resumido por inteligência artificial treinada pelo Estadão. Veja nossa Política de IA OUÇA AGORASeu resumo narrado do dia Hoje em 5’15/08/2026 | Edição das 6h30 00:0000:00 Teatro Cultura Artística inaugura galeria de arte com mostra gratuita e horário alternativo; conheça",
-      "source": "",
-      "added_at": "2026-08-15T03:02:34.802422",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSW5FcmU1RnVZLWtjM2hfZC05VEZpeUhCSjBhTmlsSXRoMmllZmFqTEc2RVV5SERpSGFFS0pEemYyX2NmcEJCaTBiU2Z3bm4zM1BGWGp0S2FaNGctYUp1eWtKSEV2MjRfeDJka19aQjBsMUVsT2lHSENnNHlDNlhNOXlEV0lyTUk5clVMS05Gcmx0eS11ZW93eUt1Q0hVMzVJWFFZSk16UnlYZEhPcWhXNWNfcFNzQU8ta1FMdg?oc=5": {
       "title": "Descoberta de petróleo na Margem Equatorial pode mudar geopolítica nacional, diz Zylberstajn - Estadão",
       "summary": "A descoberta de petróleo na Margem Equatorial pode alterar a geopolítica nacional, segundo **Zylberstajn**. O fato envolve a exploração de novas reservas de petróleo no Brasil, com potencial impacto significativo para o país.",
@@ -4345,7 +4121,7 @@
       "source": "",
       "added_at": "2026-08-28T04:29:27.975594",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWNsYy1nOUZWMlVGemdTaHF5T3V0eVVRd0tKWXdUelFGNk8zVzI1MmVBcDZiU0wtUWRHam91YS0yVkJMaUZZbGJ5RmhZMURrMU9aNThnSGNxZF9sY1NiSHQ4a0g0TXc4NUx0NWlPOWY5MzJacGtpX2JTdjU4RU84UTR6ZFpjbmVEcThvQnM5OHhOaGZzOVE?oc=5": {
       "title": "Carga no SIN sobe 5,93% em setembro, diz ONS - CanalEnergia",
@@ -4353,7 +4129,7 @@
       "source": "",
       "added_at": "2026-08-28T04:29:29.909341",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkRNRXhzS0Y1N2NlaW5Yei1qWDU2MzIyQjZITy1PdEZOTFZfSTR0YWZrbTFZOWFNcTF5OGktNTluNmtYWFVDVGFDNFhfUnN4NkVaMEZYSWRkdXlpckpleGdTYW5PSDNyT1lhc0dnTDdtekVuSEdmeENqc1JvYmN6WXFnOWQzUUN4YWlJbFVlcU4tM05uYXo3dzUwZVdJVEQxQ1k2eGtyV2FZZ9IBuAFBVV95cUxQeWhJdDdPakp2dFNRWWdIRVc4WGdncHZJTlZseFhZZzFUOWV2czlCRlBIVVFFSm1kSHlqTG11NVhHV2ZSQzB2eUFpWTlSQVFWdHJGOUdGUTFRSnZ5Qk93V0RWN1ZHazk4WlFyN3ZVV3RBUXJscUlfNHpOYXIwQkJ1U3g1d2EzZS1KOXNPdW5pNTA3NE1oLVFHcy1IYU9xbHRIeGRKbzdOemx0Zzc4TEE3LXVQWU1LU2lJ?oc=5": {
       "title": "Venda da Origem Energia avança com quatro interessados - Pipeline",
@@ -4389,19 +4165,15 @@
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXpaM2FGcnF6dUhmdDZNSjJwMHNGOGh5azRHOTVKdUc3SDhfNGtZTlhZUFdoUFNlYkpWeXlEaUFjMkhRNUkyNzFPLWxYeF9FRWN2MGdHX21GVm1BS3FCUVA1WktKYWxBWk9YQ3o4QlZJSnRqSGtUNmNvMzZHanJJVGswWnJKaUQ3aFVZQzEzTF9FcG9PWUwtUGFRdFhubXB3Q0RCYW9yTHRnRVk?oc=5": {
       "title": "Carga deve crescer 5,9% em setembro com alta das temperaturas - MegaWhat",
-      "summary": "A carga do Sistema Interligado Nacional (SIN) deve alcançar 85.118 MW médios em setembro, crescimento de 5,93% em relação ao mesmo mês de 2025, diante da expectativa de temperaturas mais elevadas. Para outubro, o Operador Nacional do Sistema Elétrico (ONS) projeta uma aceleração da alta, de 6,65%, para 87.447 MW médios.",
+      "summary": "A carga do Sistema Interligado Nacional (SIN) deve crescer **5,93%** em setembro, atingindo **85.118 MW** médios, impulsionada pelo aumento das temperaturas. Para outubro, a projeção do **ONS** é de **6,65%** de alta.",
       "source": "",
-      "added_at": "2026-08-28T04:32:10.015517",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-28T04:32:10.015517"
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVZpM081OUVjRGZueDJRcm40ZVYzYWhFYkppdWY0X1NlRE9iTkhIMWtCdnZnQkUydXpZbmdLT1A2TGxkX0ZILXM5UnJ3YnhveE90dXVTLXRELUhRYndERmNteWV2YTl6c3NBNUVaanBvSUV0cElyUk9mOG81RV9McTFNOFlXVmdheGtPcUlVaUhmYmhPWC1iY2ZneFZYSnptblFta0hvYndTeU5YWjZ2N1c0YjdvNk9mNThsTGRtUXVjWmoyUmtvTF9CVQ?oc=5": {
       "title": "ROG.e 2026 reúne líderes globais para discutir o futuro da energia no Rio de Janeiro - MegaWhat",
-      "summary": "*Conteúdo oferecido pela ROG.e O futuro da energia será debatido no Rio de Janeiro entre os dias 21 e 24 de setembro. A ROG.e 2026, maior festival de energia do planeta, reunirá lideranças nacionais e internacionais para discutir os principais desafios e oportunidades da agenda energética global.",
+      "summary": "O festival **ROG.e 2026**, promovido pelo **IBP**, ocorrerá no Rio de Janeiro de **21 a 24 de setembro**, reunindo líderes globais como CEOs da **TotalEnergies**, **Galp**, **Shell**, **Prio**, **Petrobras**, entre outros, para discutir o futuro da energia.",
       "source": "",
-      "added_at": "2026-08-28T04:32:10.015784",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-28T04:32:10.015784"
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFNzMkRsaEVtT2xZQTkxYTBEN0FUbklwUG9ucEtZWUZFTWo0WVBWbHNGcThCSEtTUlJGQkdvSGpsQll2MGp6Rl9WWEQzcjNCc2lNMEZnQUw4T1lGNEQxSC1rX2owTERTeUFCb1FsQXNiOHJWWlB0U2V5T0c3dDBSQXYwWDRjV1ptblJiSVgwVGZMZlA4dHVUNEV2MVRPTTdsNmpacHYydzg3VnJlQ0hBOQ?oc=5": {
       "title": "ONS vai apurar inflexibilidade declarada por térmicas contratadas no LRCap - MegaWhat",
@@ -4425,7 +4197,7 @@
       "source": "",
       "added_at": "2026-08-28T04:32:22.210817",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa1pnUEljcU9GT1dUaHJqMW1PbjYwbWNYRktNSkVZZXFHZW1nVmRJQ25FTHYwYkJFTTl1N2VxSVVpalNkY0x6YlE1NDdRRHlnc0hLc2U4aE9sQk5ROGhuRjVEclRmSnRVVnpJV0pvVWp5TDZqTllxY3kxZGJkZXpkZzlRY2pMOWFWQkF4aEJwU3VYRjRBa3h2RkI2ZDBwb1Q1b09vRTdHeGl1Q3BCZkN3aUlmc2c4MWNYZnoxN2FORHJXcG5u?oc=5": {
       "title": "Suape II recebe autorização para carregar gás na rede de transportes - MegaWhat",
@@ -4551,7 +4323,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:42.061093",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS0ZXUDFvUTVGMy1zMnVwUnZRYkgzRGI5UUlTVWgtYVZEdGlSMnNXUWVBdU5yUHludUV5RWpVSW1kODdlT3kxN0NxM1ZSakVaZlluQ2VsT0ZmMlZQN3JjR2Y4Q3dmVnFCZF9sWHV4TjNUUDY5UU1hLVlYYjJRU2owVWF5TmNIMzBFX2hjSDdZcWhHZjRy?oc=5": {
       "title": "Cemig Sim passará por auditoria completa - CanalEnergia",
@@ -4559,7 +4331,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:44.031624",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanlCQVYwVHB0TGp4dm9CaG1RcnFWbmJKRTdCdThjU0dOeFd6c3pTdVdpRmZOLXYxbmltMENfMjlybDJkVk04SzN1Y2N3ZW43UW1saGhzdjlPUFZkQkpMcVhQYWVvYUtYS2NnX19jUm5hcTBRMW5lMWliclU5dVc4b25QVHI3c2x5cWc1RVJqYjg1RzhVNC1yeldWQnhuMUJOczV3WVdBdzg0Rm5qUWk3SA?oc=5": {
       "title": "MME quer concluir regulamentações da lei 15.269 ainda em 2026 - CanalEnergia",
@@ -4567,7 +4339,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:45.936862",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHpxb3Bkcm8ydlcxVUt1cWJZcXdnX1M3Zm1RMmNLOFRjQW9rMkRySk5fdGJVYTVZcUNsSTNYZGtuSDhBYVBpcDI0TnVBLURHaHR5aUtVMXE2OFlEcURyUzd3TUtEODk0MHZDVURhQWNScUx0eWp4VnV5Zi1UNm5LWVFRdmlvdXFMWDVITzZXYTVJYjFOMkFIT3hnNnZOUGwyUUVMM0hwU0w0Z3hrcmM2NXJrM2xGZw?oc=5": {
       "title": "Eficiência energética: um mercado bilionário que avança no Brasil - CanalEnergia",
@@ -4575,7 +4347,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:47.837478",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlFjQmRDQmg4emd1ZnRpcnVrWjlYX0VHeFhEUC12V3dMTUxsaEVZSGxucGIxYU9iTlN6Wnk5SVVsd21hUVpKWXVaYlZMSWF5RHB2MlViNnJXc1pTanRLVmhwaGF4WTlvS3lYNThTVjlsVG5CcXRTTWJOVEF3UlVWRmk1Rk1KaUtabzVpWlNPOXVUcVM1cUR6QkVYNzFTMW12Mi1aaXVkRV9LZE53UUFCYnJkMlBOSnBJT2pv?oc=5": {
       "title": "Cemig garante prorrogação da concessão da UHE Sá Carvalho por 30 anos - CanalEnergia",
@@ -4583,7 +4355,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:49.775404",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmpMdDlkQXFlVXdoYmduYURiOC1NSnI2Nk9ISHZoWURKeHB2TG56TGV5SXFsYnFTQ0NUVHBOdTZpVG1HMEg0aUYxWUo4eloyd1UzS3lBNTdEMkRQandIQlpwNThpY0dNM1Y3aVQxV3JWdHNBcW83UGViSV9IaXF4anRwQ2ZROURzWDFVWFVwQ1p3VTBXaDl6LU5CN2M1dzlvSm1kR0VjVHZvUW5zWmV6UGxXc2xIQQ?oc=5": {
       "title": "Reservatórios do Norte caem 0,5 p.p. e operam com 83,3% da capacidade - CanalEnergia",
@@ -4591,7 +4363,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:51.748765",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSE5yTmFEREtUb0dBZGVnZVpxdmNzRnczMVVIYmRkRDlhNGVBTFZub0M2WHNUNWp6TXJxZWo3Njg1XzdPOFlHQmtwZ0hOa0NOOHVWM3lPNmVtN0RyNXd2WVp4bllqQWpraVZqZjA3VTVnRHV0b1hSdjk2ZnFRZnZ1d3dzMzJEcUJ0RThCXzJHc0w5d2xmeW9raHQ2SVdmNVNueUowVUJmUk1zMEg5WDFPTnlLNGw3blBQZVhJTWdwSE1jMFV5bUoxUndSU2I0ZUVzcms5RkdFUQ?oc=5": {
       "title": "Armor Energia projeta crescimento com abertura do mercado a pequenos consumidores - CanalEnergia",
@@ -4599,7 +4371,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:53.671856",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMktkWTR1b3hlUzczUGtKaU9zbzV6MjI3ZHY4Sjl0RHU5T09XYi0ybFdkaVVuTmdFYnU5QzYyalphT2gtV05HWHBzUXcxNEpfZDNPcHI2UXExTEVkU2RIRDBSLTZiVHo2TXpkaERZbXRsWUMtUURNNDRXblJnbUllYk8tQUdmemE4XzRCS0s3Rk9kcmpNU2dSSmZSRlJkMTFYMmtrNmgwTWtmNFE0R203dHdOR3l6VGpqaEZDWm9OYmNkZ1ZzWm9FaW9fUlRuVHZMTnNyUGduYw?oc=5": {
       "title": "Quando o Lucro Não Basta: O que os defaults das comercializadoras ensinam sobre risco no ACL - CanalEnergia",
@@ -4607,7 +4379,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:55.558341",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQnFNcWNDU3BwWjZ1MFJGRExjNWpncENib2FFd0FTVmw2Q2dnOG1ZRkI1bl9na0ZIcW11M18tV3YtMURZdEZ6TnBqT0lvWXdNWWVZRDliZkI5UGlIOGxxOUZrUVA5SVlRLUFkMmNORDlqRFdxNXZ6WW5jTk9ndmVmN2kzWndMYXhTaEkzQmhxRGNDWEh5NnRhZXpXQzFVZmJiT0pIS3NlOURjX3VyaEVaTk40LU5tZ3JlajVNVFN3RzhxdFNFVDJXMV9NZE5NMllU?oc=5": {
       "title": "Do piloto à escala: como a CPFL está levando a frota elétrica para o trabalho de campo - CanalEnergia",
@@ -4615,7 +4387,7 @@
       "source": "",
       "added_at": "2026-08-28T21:11:57.486901",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wcWoyVmVVc2FOc1I3cEwtZk1oTVktRG04SHJSOXZuZmdEbi1VRDQ1TkpHYVczNk1RSC05YXl0aUtCc3JJY1pnaGlEd2trQ3ZTZk5tOHFFSHNoYXBVcThxeFdvMm05OFZGN21F?oc=5": {
       "title": "Geração - CanalEnergia",
@@ -4631,7 +4403,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:19.305298",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEtFSUNkTXJjOEN0aTJsdGw0MDJoOE5UTldCWkp2MDVnRndOVEZwSzVmNzNGOFZQWGVXdVJtNjkzcG9lblJuYU1XSGd5cGo0T1pkZmgtZTV5NmVIUURsRmNKU0YwNTlIRDNTSlc3Z3ctS2pLNGVoaTBJeE1PTjZBMDB6YXFNc1lXNzVGdDZyTjhvdFlES0pKRzFneHU3WUZtcW55YmF0V3dHQVhLRlJV0gG-AUFVX3lxTE1KUERhODBXN05aUVE0N3lOeU1fbVQ4ck0yblF0TEVudFAxV210NlkwajMxZkZKNnJKbXNHU3BSVmoxVk5BbEd2amk5TGFzRkFwbnRVTjNVdFBQT3I0cGVHdUR2VzJQVDlFVnpINldZNFV0VUZvZUtDVU9KNTNBVTJvUXVnUC1HSzNXMEpKbkNySW5RWHBqUXhmVGZaWXVRWkNrNjhDWXdjZTRZSWsyQlM5QmUwVGlOV2VhOWViV0E?oc=5": {
       "title": "Novo Mercedes-Benz GLA elétrico ganha teto estrelado - Valor Econômico",
@@ -4647,7 +4419,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:19.305631",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnVkNG1nWXNfNHBBR2R5N0NQYjBlNWl4dkZ4Z2Vrb1VmLUFDeU5pOFpMU3dYTXZoTmgtRUFNakpRQS1zSVRROW01VU9vZ0RESktHSldEcTQtQ0JCbjEzTkkwNXlicG14ZFJ6b3IyZUhpcGE1cEdkaXVZaF9SbVduV2RiY21mUTNOXzB4VmIzUEhHQzBpXzhLVXNiY3JyQ0Rh?oc=5": {
       "title": "EXCLUSIVO. Equatorial quer vender a Echoenergia, sua empresa de renováveis - Brazil Journal",
@@ -4655,7 +4427,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:31.602563",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb2VRRmZjVFo1VVF1aTJXMzdlTG9IOExiU21pc1BPOWoxVUd0Z1AySDZNNGc0cnhJNDJZZUktcEdXNkRnLWdkdlJpZ3RhWGZQTFZCNkptLVRxRnJjcl83anFqMzdMUHdLQm0xMVBIRkdOR0o5OXdqLVR4dldDVFROWVRGdUt0N1JuZTFWcTVGQ1hUcDRvUUhLSDVaaVRpMzg5aTJtX2NOZVlXX1MtNExfTVluOUVRNXYxaWRmdC00QWw0WXgwbHNwdFR6dzJkRXBSODU2aVpYZ1NUYmFtRzZLYWZfLVpBZw?oc=5": {
       "title": "Painel S.A.: Empresas brasileira e chinesa assinam memorando para nacionalizar armazenamento de energia - Folha de S.Paulo",
@@ -4663,7 +4435,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:31.602628",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbl90LVlQLXdHbDRFc2pXeDRFRFprT3B6dWdUUmJLRGZtSnowcUpJSnBBM05kQnVKa3d3VEtOYjJLQjhnODI0TVpFT0VSdTBlZm9SNDg0YmEyLWR5bEtPVjJzTkJvVDVyalR2dzBxRXBDQUpvWFIydWoxd1JIaTMyWU1yNU1OTHF6bHU3Rm1admFacTJfMHAwT2lCbHR0TmM4blNhRDE4TThpdDYzNGtwNmcwZEZNSUd6RW02VEE1MXRaUQ?oc=5": {
       "title": "Governo renova concessão de usina hidrelétrica da Cemig por mais 30 anos - Folha de S.Paulo",
@@ -4671,7 +4443,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:31.602689",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONmN4LVJ2RjRuNGJqdERRdGtsV0ljOGlRakFnck53Qm5GQjJ0em04YVdZUkNtZ2t1czI0LVk5Xzg4ZDJfXzMwbFRwcmRMc0lzX2FudFNGR3BCMkpkbXB1R25QZG5sTEZIZlR2MkY2Ui1fbUV3RXpJblhRREFjV2hTX0dDbUd5RXJ6OTdHbmRtLTRfSERVV0xrUi1YYktHMC1RTGs5OTFYZzgxNjJoMGdPM1gzWF9ZVWNVZ3d1aTN0Y0tNNXB2Q0ZNTWRYY0pKelhUNHNzZA?oc=5": {
       "title": "Mercado de baterias para armazenar energia é dominado pela China e vive era da euforia - Folha de S.Paulo",
@@ -4679,7 +4451,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:31.602876",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXJUVmkxNmlNQjNXWUozcmRpVGRzUTE1N0lfYXo0el9nMG1nb0laanZ5RGcxeDkxc0VJY3lGLUlJWEd4eDdsTzZLenBHNE4yc2tQLVdRVGVFaUk5TlhCbGdSalYybVNXcGJHT1VoaVNRaEFwTzczM2tnbkgzell1RE5TMnAwME9hUGdyWmVrLS05UF9GNEY4WXJlSEkxNzRKZmw0bHh3TWVTT2RkSlZ5VmFpMFJaR21sSHE1WHY1Q3VwY0taQjY3UjR0dThZV1Q2WU9XZHpsNU9odUI5aWpsVzVSSmNMbHZsTXdnYXVrSmxaaWpXZktWd0d6LU9uWmRwc3c?oc=5": {
       "title": "A TCL SOLAR maximiza o rendimento solar com sua tecnologia BC avançada na Intersolar South America 2026 - Estadão Blue Studio",
@@ -4687,7 +4459,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:44.005352",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2xMU2VGRUU3VXVDdUV4dHJyUjRwQVBieERUZVFlVHJ5VHhRZEdhc2JFa2hVOTl6cG9tQmpGZDQ2QWlXUUdPdFozVGJfVW02MVJFY3dlUXpMU2RFRERod0pkdFhiRzFWRm1pZFlFdkpNRnk1TURCVkFVRGtGRnZMY05xWFJDdWkzdnNqQmlFTTFFOVlmMG1oWDZIYWlYdHNyX2FZYWtxOWlTVGJfVDE0YlhBaXU0bmdNajdDVkxha05wem83a3BXXzBMNXFjX1BQ?oc=5": {
       "title": "Concessão prevê R$ 3,4 bilhões para ampliar saneamento no Sertão de Pernambuco – Engrenagens do Crescimento - Estadão",
@@ -4695,7 +4467,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:44.005480",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVJOS2dpYTFQazcxR2FjTUZVTC1VZkROUThNN2hCMndQM3NXWlZwNElXZEhyUTdQX1FvTUZncVlDM25Gb1NQZWhNLUIwWk43QUs4OTM5bWs0N3NxQXAtVDVRSjkwWGs3QVJpb0tWcTZqNndBanZ1aWZBX3I1bGctWjduaDFDaFRnQjJMOFBBTGtOMHc0d1lqX2h1WGtzejNMeW54a3lPSzNsSkVrd1cwZkJla2RSX3Nya2gwUzNNbHc0WnVjMzV3TnEzblZIWWZKRmfSAdcBQVVfeXFMTlJhTzZnenRuVEMzSS01R0g1T2VtZFJmTk5uZm5UNWYybzZNc0cyRnF4cXAyY3QzOHIzNjBEeDd1WElvUmRuZXFiR0phWFFkakhFOF9lZVVfUXFVSFU2ZjJzaVJCV3czXzF3VmJGMkJYaEJyUjF0RWJhNDVTVDVVRmNaWXZ3eTEyWE9xeHQtRm9zMzRsWHJjVTNYa2lCbGlHVDdUMUltenJ2ZEc4NkllTkZHdkZVekU3NGpUUEl1c3pVM3ZMLS1WZGJMWDNKb0JKYk5ZaUs0Mjg?oc=5": {
       "title": "SP cria regras para bike elétrica e patinete: são mais ou menos rígidas do que em Paris e Nova York? - Estadão",
@@ -4703,7 +4475,7 @@
       "source": "",
       "added_at": "2026-08-28T21:12:57.539044",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenVIalZ5NUQ0bGF4WWlIM2JNWVZMRnBubTJnMTczV1M3YmJoUXVrSVp5ZVV1SFlZSzZIeTRWa0c3c1k4dGVIckxRX0VwYjc0TE5CWE14clBwSXNSM2ZNeVc2aHB1ODRfWXlCcjhjTURCdTh0UTh4WHQ4ZFhGYXhUNEVzNjBMRmoyVWxRQ0pjb2dseTFnU1VnbndsWXlBMFhyM2NLQVI5NWxWSnl5aFJSV0NRcWNCUkYtWXBHT194STJMZXF3dWtEQm1n0gHPAUFVX3lxTE9PRzhqcmlCd1dLYzNkSnpqd0toQ3Z0azhmZWxTa1BvTWxpNFJKRTBpVVRiNmRhaGZiUXozWmRFTTFidWZaVjRNek10emJ2Q21fWk01elloVEtDc1hjaTY1eWV6OVdKVFhUd1RmY2tzM0dKeUpSN28zRGg5Y3p2cTAyNDRDN3k4cGVGUWpNMWhFNlhCS3hJN2hGbXJRdmJTM3hYQTJxc1AzTEIzMWg5MUh5VTI1X21mSkR2SGJ6UUV5VWlCSU1zbXkzVVVFOUFFTQ?oc=5": {
       "title": "CEO da Cemig pode ser trocado apenas três meses após assumir estatal; ação cai - Estadão",
@@ -4715,27 +4487,269 @@
     },
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjEyX3FCS1BGcjdRamdJb184Mi0xdDIyS2VYNjJHTDJ3T0pDQ0pTZHdZakJHSzJrdnota0o4U2FzRmdRTXFKd1RKb0tqc2xTOW1MeHBmMnF4WVFXNVhFbzJyckpsRzJBYmJhOU1qcElWaWE3Z1EzQlItaWQ2YnJLUnFIZnZ1enEzN1RGNEFhZzdzeEE?oc=5": {
       "title": "Cemig obtém aval para renovar concessão da UHE Sá Carvalho - Agência iNFRA",
-      "summary": "da Agência iNFRA A Cemig obteve autorização do MME (Ministério de Minas e Energia) para renovar por 30 anos a concessão da UHE (Usina Hidrelétrica) Sá Carvalho, cuja concessão terminaria em agosto deste ano. A hidrelétrica possui 78 MW (megawatts) de capacidade instalada.",
+      "summary": "A **Cemig** obteve autorização do MME para renovar por **30 anos** a concessão da Usina Hidrelétrica Sá Carvalho (78 MW), que venceria em agosto. Esta é a primeira de três concessões da companhia com vencimento próximo, representando 55% de seu parque gerador próprio.",
       "source": "",
-      "added_at": "2026-08-28T21:12:57.539164",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-28T21:12:57.539164"
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEhjNG5wcGhWN0U5cUkzc1hlNm1GMFlBSVlieEptNFk4WnBtZzZaTHpuWWpUQ09pTTVjZVdaekNobDN3T2JEWVpiSTBsczVOVEZqbnRWZTY5d0dCdVAxdHBRcC04ZnJMWWRMWTJCNmQ1eDk1Ul9XRjYtekF4eFRNb3ZVZzdCMFdCTjE0RGc1d3RfaWl1TE9HTGxfTzRscDVNdFNmbXpjNlRlWWdkSU5Z?oc=5": {
       "title": "Artigo | Regionalização do saneamento fortalece cooperação entre municípios de SP - Agência iNFRA",
-      "summary": "Esther Assunção* Universalizar o acesso à água e ao esgoto exige planejamento de longo prazo e soluções que ultrapassem os limites de cada cidade. Segundo estudo do Instituto Trata Brasil, em parceria com a EX Ante, as mudanças climáticas podem reduzir em 3,4% a disponibilidade hídrica média nas cidades brasileiras até 2050.",
+      "summary": "A regionalização do saneamento em São Paulo, através das URAEs, fortalece a cooperação entre municípios para universalizar o acesso à água e esgoto. A iniciativa considera as características ambientais, sociais e econômicas de cada território, promovendo diálogo e articulando investimentos e apoio técnico.",
       "source": "",
-      "added_at": "2026-08-28T21:12:57.539270",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-08-28T21:12:57.539270"
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajd2dmllNGdVaDc1alNfTktlY2FHUjFScGx5bTl6WjlBaUQtQlE5Tmh4QzlxdW52NjhES1pPendRZkRVLTdIVDFqVHVobUJvc3pqa2U5bnZDd2dFZ3dkQkdsbDBlMEpmUGR6SEVPMGVUOFhWYVRKZm5vT2xiT25QRnNVLXBYalVZMENfU1g2Y0NEYmkwSHRvSXE1eXduNTF3TUU5UWZ5MVI4dw?oc=5": {
       "title": "Regulação atual não impulsiona enterramento de redes de energia, diz Abradee - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA A regulação existente não tem sido suficiente para impulsionar investimentos em enterramento de redes de energia elétrica pelas distribuidoras, avalia o diretor de Regulação da Abradee (Associação Brasileira de Distribuidores de Energia Elétrica), Ricardo Brandão. A ANEEL (Agência Nacional de Energia Elétrica) abriu consulta pública nesta semana para debater…",
+      "summary": "A **Abradee** avalia que a regulação atual da **ANEEL** não impulsiona o enterramento de redes de energia, apesar da consulta pública. O diretor Ricardo Brandão aponta que os investimentos são pontuais e que redes subterrâneas são de **8 a 10 vezes mais caras**, impactando a tarifa de todos os consumidores.",
       "source": "",
-      "added_at": "2026-08-28T21:12:57.539364",
+      "added_at": "2026-08-28T21:12:57.539364"
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWQxMjJ0Wnl5Y3VSWmlZYVNCVHhLajgxdDFQTVdDYTQ4M1FvVEpFTG5EcXBBUTRjQl9HTUFIQmM1Nl96eGt4aU5TRXJkbVJFM3RlOFJyVkt1a1VpTHhsOFFtS3phTFRsSlhBU0JDX2NVUjFDOVdqNVJjSFVoeTZsYmRXZkZNbjdpcWJPQmZiZUhJX1VHYktXQw?oc=5": {
+      "title": "Aneel mantém a bandeira amarela em setembro - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-29T03:23:14.345511",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzlLTzVLRE9QZXNnMEJCcEJQN0ZOSmQ3Z2xUZEU4SFFnZHE3cDBUeG1NY0hVUzNKeDJRdnFoWEtzOFNpZDdvVjJ6UDQwVW9GeEUyY0NZN2VlZEx1R3EzQThfamh5T1lEVUgybUNmUEdINFpIdFFtY3l5SGtIQ1V3M25sbXFhblVpRDUtVG41UFhQUkl1SXpxYmVhcUVaM201bkhubTlTT0lZbEgz?oc=5": {
+      "title": "ONS indica alta de 5,9% na projeção de carga para setembro - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-29T03:23:16.028413",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnM4d1lqaHp6QTE5d3RNdHd2NldTOGJuR1pMRmlLVnhVcDhwZ1M1Rkd2bzVBTmJLaUhjSVdHdzRIanNPNmFJMUVXYy1mRzZCTDVlanZ6Z1lJdnNmOVlkRVNEd1VVWHhkV05ScGstOWMwVmNOTkctLWtMWmRMM2pNRkVlVEJab2pNWW13Tm9kTUw4MDdkRW5ZSi1lSHQ1Zw?oc=5": {
+      "title": "Abegás quer a inclusão do Gás Natural no Redata - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-08-29T03:23:17.774563",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzNScG91WmZJU29UWGhMd1dHd2MwX19RbUJQLTJBdHdacm5KOExWTnV2LU5jME01SVhXbmRWWGQ1Yzh0eEFseWxzRGFJSWdhVk53RUxfXzFUN0pmcUlhLWpBS2JJS3dWYlU3dHJjUE5peVpTeDdVWmhhXzMwdFlJUnZlYzNxUkZjaFliUkwySzMzTUZJdnVTSDFaTl9OdXJmQWZHMktLUDFKNnNJV2NsZFF2dXhHVXdIeDhEaQ?oc=5": {
+      "title": "Acionistas da Axia Energia aprovam incorporação de 4 controladas | Empresas - Valor Econômico",
+      "summary": "Acionistas da Axia Energia aprovam incorporação de 4 controladas Como a Axia já é a detentora direta ou indireta da totalidade do capital social das controladas, a incorporação será efetivada sem aumento do capital social e sem relação de troca de ações A maioria dos acionistas da Axia Energia aprovou, em assembleia geral extraordinária realizada nesta sexta-feira (28), a incorporação de quatro…",
+      "source": "",
+      "added_at": "2026-08-29T03:24:53.136382",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREtZRWhlMnJnY0h2SkQ5U3Q3SFpFcVpjOTBha0hSX0RvN0ozeGc0U1FpVWlxZ1kzNXlibzVqaW1LOUk5OU1UdGRWRmh3bXJBQmp1RDJCcWtYb1ZXd0FMRFBNdXotNi0tdGJPZHNTMzB2ZUVmakctME8wZ21xSTM2Ri1FSWFuRUFPTU0xUzZsOXNnLTFHaXlxdlNTSDNoOE5NZGVZNW9CQjA1MjF0bllJ0gG-AUFVX3lxTE1nTEloenRGUDQ4YTd5blpKX2lNYXRzbFZ5WnNHLTZCOHAzV1U1dFFwdWpzZUtTZnppYU16NDFVZXVKWllHX0tHdG9qTW1jMXlHU2RzazJqRnpvZmFiZ3ExdWxDdkJvX0tiR3RJR0ZhUFdiVTVEdGpKVUZRZFNUQmNRaS12UEhnR2ZndnEzNnBZNVlZekg0SU1RcjVuYkFreEZVWXVPc3MtQTFxbDJYeUstaDAyZGY5WG54S2xvUnc?oc=5": {
+      "title": "Governo de Minas indica novo presidente para a Cemig - Valor Econômico",
+      "summary": "Governo de Minas indica novo presidente para a Cemig Executivo já foi presidente da Companhia de Saneamento de Minas Gerais (Copasa) e da Companhia de Gás de Minas Gerais (Gasmig). A Companhia Energética de Minas Gerais (Cemig) informou, nesta sexta-feira (28), ter recebido do Estado de Minas Gerais a indicação de Márcio Augusto Vasconcelos Nunes ao cargo de presidente da empresa.",
+      "source": "",
+      "added_at": "2026-08-29T03:24:53.136482",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGt4ZjlZVVFuWGtLUVU0R0YtRU1RT0VOMl9fQTlFeWg2N0V6R29TaGloNmFiWmRBWUt2REI1TEhpaVFuSWxaUG4zSDdCekFONUpwNkJFMjludkV0QVlHd3BpV1pYVzJIVmlyMWtQLXVnSXE3My1VTE1VTDRqbXl3dXJ0UGUxdXg2ejVrTHNSQTVhRVl1X1N4aFdIcjNsNlBzVXZhT2I3UXlYQVA1WlEwcXllekFJMUhtYjlMQUM0blBDemVKbURzNE14aGlwUdIB3AFBVV95cUxPb2lYb2NrTjFTLXFJVHRQdURuTl9jZ3FtWFFFU2liVnN0eXYwWGNQdE50Tkx3VWFYUmpoeS01VEEzTzJMa2JLcWxSUmx5RGV0WklwVko0Q1R3QVktSldsYTF2V3hhRTVSZXdHV2V1aHRYTTU5N29mbW1IQTRfVk9LWGlwTXlmMFh5UXN2NVhsTGI2M0RJelh3Sk1wdGp6TmJSWUVEbHZ3LUJGWVJIT0t1VnFsSHUyWWRjUnk2QXBDV2lhSkhZbS0zUmFSSU56RF9iWUk5ZURRMFkydUpO?oc=5": {
+      "title": "Acionistas da Sabesp elegem para conselho chapa indicada pela administração - Valor Econômico",
+      "summary": "Acionistas da Sabesp elegem para conselho chapa indicada pela administração Segundo a companhia, o presidente do conselho de administração será eleito na primeira reunião do colegiado após a posse dos integrantes A maioria dos acionistas da Sabesp elegeu, em assembleia geral extraordinária realizada nesta sexta-feira (28), a chapa proposta pela administração da companhia ao conselho de…",
+      "source": "",
+      "added_at": "2026-08-29T03:24:53.136606",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk1LMFE1akNjWm9Mb3lpNW9obXNBcHRGYmZ4b25MMW9SckRHYm41S3VsbVI5ZG04dmh4bktQNXYxMTZYaGRXelJXRWFKSnhVMXBMdTFkT2RWUG1oMGRuZ3FVWUVpcVdrTWE4dHBWM0cwU2pPSmhDUDhaemh5V20wU01DV1NqYnRaS2t6a1JXemdrdWo2ek91RDRGeGQ3WnJMaTZBSk11SjVqWFkyOHhDWHlOcW5YeTFfaFRMZUFhM0JMdzBwV3ZqdVJNQ1pXZXp2bHfSAeABQVVfeXFMTW1fUHFBbFZhb084NGNnb3VZaXZTZ0pxaENDUjdHZi1SRUF3cXBxT0NHTHl6Mll2bXEzdkNqUmFpZE5hS1FKZ2REbWo2M2R1SThoQUdLWkZvanE0SGhOUWNtMjVLVFh4aVgxbHgzaHhVTWpPX0Y0eGZueEQzS2lyVFlvcjVkdjNZZ2V2cWhaT1FuNXliTU92RHk5Y25IVTlKU09tTTRQUF9DbUcyX2d3Q0NmTTNzWUlqelNmaUw4R0k1NGsweGgwQnBldlQ0SG5ZbkY2Snd5Z2xvWGxfb0lndXU?oc=5": {
+      "title": "Aneel mantém bandeira amarela e conta de luz segue com taxa adicional em setembro - Valor Econômico",
+      "summary": "Aneel mantém bandeira amarela e conta de luz segue com taxa adicional em setembro A bandeira amarela, com custo adicional, está em vigor desde maio deste ano, devido às restrições para geração A Agência Nacional de Energia Elétrica (Aneel) informou nesta sexta-feira (28) que irá manter a bandeira amarela em vigor no mês de setembro. Com isso, as contas de luz seguem com taxa adicional de R$ 1,885…",
+      "source": "",
+      "added_at": "2026-08-29T03:24:53.136676",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1IMk5FMFE4LURrRmJBQm5rcE1JRnEwSXZoQ19vSHZKeTVwTUFOczNCQ0RhOGUwcFNacGRBMkE1dnp1em1UQUhiS1RVTlNjY05FY012c2ZWSlJOMDNoMXNZQWFpSU82b09WTHlmbDdGMzd6Mnd1Rkd0bkJlNEZoVUVSQm83eE1uejFiSFk5N0xmSzg4Z2tyTTQ2U1dsN3pvZ1plMWVB?oc=5": {
+      "title": "Aneel mantém bandeira tarifária amarela em setembro - 28/08/2026 - Economia - Folha de S.Paulo",
+      "summary": "A Aneel (Agência Nacional de Energia Elétrica) informou nesta sexta-feira (28) que a bandeira tarifária continuará amarela em setembro. Isso significa que a conta de luz terá acréscimo de R$ 1,885 a cada 100 quilowatts-hora (kWh) consumidos.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:04.304843",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHZldk9YUElqaHFvaUdMUW5ZaUFUa0ZtdUhabHBMcnpNaFJHT2RDU0dZT09SeVhIZ3JJaTlNSlNwMkRjTnQ1Z284Yzd5MnFUb0FWWXZNNXZQRWlYQk1IekhtZ0Rsb2xBNm5IN2x3Y1J2dVpSSnB0ckxTdFRuNmNGWmMwX1lfY1pIZXJVSkJKUEZHa3FvcVJiXzNOM3Bfbi1BY3B1R0ljYWIzZk0tTGU3ZTQtZ2ZQdkltN3E0VGtWbExXZ9IBxwFBVV95cUxPbU1HMzVuNjNYZHpjUDFhN1JJZzRpR3ptSUpLZ0hfNzlPNGs3aVpQOG5QX1dlV3B6Tm50a3dGdjE4dE4yaExVLVR1Y3ltMFpXbFRDVU9BSVd6VV9yVXE2ZWJoX0U1TnZnOUQ4eWtQay13dGltMjIxbUt5NkQ5RFRmeU5WU2dHVml5aW9QOFRlNzhwLU1HMlZ0aElRcks2dWo4cG94SFFuaW9YN2VCcHI4VEEta0JHc0xVOFI4YlNVSW42OS01WTZv?oc=5": {
+      "title": "Conta de luz: bandeira tarifária para setembro será amarela; veja de quanto é o adicional - Estadão",
+      "summary": "O Brasil tem a conta de luz mais cara do mundo? Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%, mostra estudo.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:15.769444",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazFkaFc5ekpMeXpTdWlyOF9pelV0RDNUV1pDNTQxRWNqNXJfc3dPOWpiWWpOTVFnV2dNS1lOa1hjMjdLOUx4Y2xjaGtUMTl5UUhVVXc4Vzk3MG5nUTg3c1NfNjl6WWZrMTJlZkZmX2F3S3NJLTF3WTZBQWhJdEVnMHlpVFdUTXVscXJHbUUzNmlqUElNRl9uSg?oc=5": {
+      "title": "Governo de Minas indica Márcio Nunes para presidência da Cemig - Agência iNFRA",
+      "summary": "O governo de Minas Gerais indicou **Márcio Augusto Vasconcelos Nunes** para a presidência da **Cemig**, acionista controlador da companhia. Alexandre Ramos e Sérgio Pessoa de Paula Castro também foram indicados para o Conselho de Administração. As indicações dependem de procedimentos de governança.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:27.115226"
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkFOc3pLS1lkZHZMblZKYk5oS2F6ZDZ3Y18wZUhYYUVaeVZBOFVzUGNLQ2dnTjJqaFp0R0xhMWFlWEZLSUVfbTZCejhlTUJMQjZhZ0x1UTNMY3FyN1dlRkd5ZmRRWjJtR0tGQTUwdWMtYll4TEZOUkJMYlhBdnFYaDJqTzNEMDkyNTNBUW1UMlY?oc=5": {
+      "title": "ONS recebe selo Ouro do Programa Brasileiro GHG Protocol - Agência iNFRA",
+      "summary": "O **Operador Nacional do Sistema Elétrico (ONS)** recebeu o selo **Ouro** do Programa Brasileiro GHG Protocol, o nível mais alto, por sua elaboração e publicação de inventários de emissões de gases de efeito estufa. A certificação representa um avanço em relação ao selo Prata recebido em 2025.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:27.115262"
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVld4VmltZzJJZ3o4Nktoc1lfOG9FOW9YNFJMbGdhaVpmNWJIU0sxZTJyeVljNzBzYjdPWVNvdWd0S05hek05T2dDYXpnR1oxNXdXbGJnMEREeDdFeW5sMTkyakpWY0paN1d0dFBWLXN2TXdSc1NHZ2JDRHBfUUJUaGxfeEdpdVRZdnI4S3FBa1c2aEdaNDc3Q09yOHg?oc=5": {
+      "title": "Conta de luz continua com bandeira amarela em setembro - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) manteve a bandeira tarifária amarela para o mês de setembro de 2026. Com isso, as contas de energia elétrica continuam com acréscimo de R$ 1,885 a cada 100 kWh consumidos.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:38.365466",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckNkN0tzSm1fZGZ4X0VzQjdwRmF0U1pSZmVEYS1Ra1h0LWxscHZVSnZoaTRJdThUWHJxMDhnYnJ2RmtqR2xIX29xMnZubml3M1FOdFk5NlBpN2tBZE5HVmZXSEdzYklpMGRlSlRxSXZyVzJucHI4SU5NSFRYV2hxZ1hTcVI5SGVNbmtHZEdWVU5YVVBCMERCbG9rLXFqTGhvQnZodHh0Wl8zckZi?oc=5": {
+      "title": "PPSA comercializa só 30% da oferta em leilão spot e adia leilão na B3 - MegaWhat",
+      "summary": "O 8º leilão spot da Pré-Sal Petróleo SA (PPSA), estatal que gerencia pela União os contratos no pré-sal, teve como arrematantes a TotalEnergies e a Petrobras. As empresas arremataram quatro dois oito lotes disponíveis, que correspondem a 3,9 milhões dos 12,9 milhões de barris disponibilizados.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:38.365611",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXh1U1REMjVfck5VcFprVFd1VEtRb2Z4ZWVPOWp0aFpobHVST0M2NFAzOFpBUkRsU1BPVHlnZ0oxRGVKem9aTVNnNEkwUnhDajVhMy1zNDNCTktvb2xPNDV1eU8wUjJKc2dac1p2NDJxa2dMdFNYbllLcDVmNnZZeDdvNnJGRXcyak5vakxQVXJ2YzNPRTdpbnRpbHYxdEVvNURfR0o5MWJwRGJTNXJsMXItQXZjeFR2anV3Y2o0QVdLeUVMZEFEQQ?oc=5": {
+      "title": "Lightsource BP tenta evitar perda de R$ 17,4 mi após impasse para conectar solares - MegaWhat",
+      "summary": "A Lightsource BP tenta evitar a execução de R$ 17,4 milhões em garantias de parecer de acesso relativas a usinas do parque solar Bauru, que somam 810,5 MW de potência instalada e enfrentam dificuldades de conexão à rede, apesar de terem pareceres de acesso do Operador Nacional do Sistema Elétrico (ONS). Atualmente, a Lightsource é uma joint venture com 49,9% de participação da Petrobras.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:38.365820",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNktLU2NJeXpCTjZfT3Z6SDRCUVk2OFBUWG5nOFBVWVVNMkNaZVNpT01yZ0ZXc0xWbG1qX2xzVi0xTVkyNDFJcHR4LVQwellJQzEtWEg4ZHZtUmVuRHQxN0xjOEdReU5wY0ozVUdWQ3pTRGEtb0UweEdFMzdjalJXcUZLVEJOVm9qZzdETVJ6U0VybWVuVXBfQ0RVNml5aWF5YldMUk02SEdudWFsY2t2X05JUW5wSEJrenhn?oc=5": {
+      "title": "Justiça aceita pedido de recuperação extrajudicial da Braskem - MegaWhat",
+      "summary": "A 2ª Vara de Falências e Recuperações Judiciais da Comarca de São Paulo aceitou o pedido de recuperação extrajudicial da Braskem e algumas de suas controladas. A companhia terá agora 90 dias para atingir o quórum mínimo de apoio entre seus credores para homologar o plano apresentado, que suspende por 120 dias as execuções contra as empresas.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:38.365890",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TUnBQTmpCZERPeU94SXVCZkNtZGNRamExaWRxMVBGNndiQlVCWk5EcDJjZUp4TFVETjNRWDIwd3VzczlPX09iZmJZLXpSdTVhLWx2ZGgwcFhiR0JBZlRNWGlHZlBrUQ?oc=5": {
+      "title": "Últimas Notícias - MegaWhat",
+      "summary": "Mercado energético Determina revisão de avaliações de SPEs da Eletrobras O Tribunal de Contas da União determinou à Eletrobras que antes de publicar o edital de venda das participações da estatal em 70 sociedades de propósito específico exija do BTG Pactual o detalhamento das bases de cálculo do “Custo de capital próprio” e do “Prêmio de risco em função do tamanho/liquidez” adotados pela…",
+      "source": "",
+      "added_at": "2026-08-29T03:25:38.365937",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SaGdEdUdkVWNCX3dOM3dqY0hDbXJEZ0M4QWxqQWlrSm1WaDJRZjNHNjUtVWdZc3NvdXA2c2ljQlZybnkxMjNFc2NOb08yMi1WOHEzLTFIM2dQV1VvcW9jRTg2Q0xJZWpJcXEwdS1OSkVhQm0wR3FuSlU3X3Y?oc=5": {
+      "title": "Poliana Souto, Autor em MegaWhat - MegaWhat",
+      "summary": "Solar Geração de energia solar aumenta 61% em janeiro, diz CCEE A geração de energia solar fotovoltaica aumentou 60,9% em janeiro, em relação ao mês anterior, totalizando 1.134 megawatts (MW) médios, de acordo com levantamento da Câmara de Comercialização de Energia Elétrica (CCEE), divulgado nesta segunda-feira, 21 de fevereiro. Segundo a CCEE, o estado com a maior participação na geração de…",
+      "source": "",
+      "added_at": "2026-08-29T03:25:50.856650",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2xsbFNMc2VoT3BBdU1oOEF4QXRDZzI5ek5PeENRbzN3eWNxdzFmV2V1d09FYkR3Sk5lZVI1dTR0UkVkNXJVd3ZwTkJ1WG5sZlJVQWVxdDVvVFNJc2NKUXRkOHliR2VkNS1uMmVzS1Y2eERDSEFyakw0LTV1Q0ktRVkxN3dxSnVmZjBzTVR6Nm9xX2ZHNEYyRVliNFl5UWlBRzNMazFVTjV1SHhIVm1hX0RfRmJFaTVmb1hXWVVWblp6eTFnbmc?oc=5": {
+      "title": "Trabalhadores da Eletronuclear anunciam greve por tempo indeterminado - MegaWhat",
+      "summary": "O Sindicato dos Trabalhadores na Indústria de Energia Elétrica dos Municípios de Parati e Angra dos Reis (Stiepar) comunicou à Eletronuclear a decisão da categoria de iniciar uma greve por tempo indeterminado a partir das 0h de 1º de setembro de 2026. Segundo o sindicato, a paralisação foi aprovada diante do risco relacionado à vigência do Acordo Coletivo de Trabalho (ACT) e da ausência de uma…",
+      "source": "",
+      "added_at": "2026-08-29T03:25:50.856755",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3luMW1RcjRHSm1LWmZNX1hmQmpLYXlTUXkxUGg4SmlEMXNEWmE2SngzMkRhOGlQRDNUTGdQeEZ6djVneHdRT3hOZGZmcWQxeENHZTJjemtSc3FjbnJhVC0yejR3c2IwR015eDVNOF9raDBDWHNQNFgzOHBVUVlEZ3hoaDVwN294RmFJWnNsd2xXTng0V3BRcy03SXlDYko2R2hWYTN4N0UxQQ?oc=5": {
+      "title": "GD e agricultura: como o país começa a controlar o excesso de energia - MegaWhat",
+      "summary": "*Massami Uyeda Junior O crescimento exponencial da energia solar fotovoltaica e da geração distribuída (GD) transformou de maneira profunda e definitiva a matriz elétrica brasileira. Se, por um lado, a instalação acelerada de painéis em telhados, comércios e fazendas solares trouxe escala à geração limpa e sustentável no país, por outro criou uma questão inédita para o Operador Nacional do…",
+      "source": "",
+      "added_at": "2026-08-29T03:25:50.856999",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOG53MkhfSXQ2UXl5bGF4U21pY1ZvbzVxNWR1M3BoTmMxbGJtTFFRcldFR21hVUI0YlVDeUlEczd3dkRvU01kMTd6T2NTN3RDTUpUTVhqZk0wU2VsYVJnWkxjYjhEVmU0TE04MmlmdTNsVXZpdGhqVXlmNExNTWF0eHY5N3ZfSS1HXzBqbDlXc0VKSVptOXFJWjJOOFM2ZFdmSHlZQ3RhNmZSV3BzRE1RUGo1ZF96WjFSZkFGT1g3MTY1eUxWcHBQS0ExNA?oc=5": {
+      "title": "Governo de MG propõe troca de Alexandre Ramos para a Cemig SIM em meio a auditoria - MegaWhat",
+      "summary": "O governador de Minas Gerais e candidato à reeleição, Mateus Simões (PSD), afirmou nesta quinta-feira, 27 de agosto, que decidiu recomendar ao conselho de administração da Cemig a transferência do atual presidente da companhia, Alexandre Ramos Peixoto, e do vice-presidente jurídico, Sérgio Pessoa de Castro, para a Cemig Sim, braço da empresa voltado à geração de energia solar. Segundo o…",
+      "source": "",
+      "added_at": "2026-08-29T03:25:50.857163",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdTZ3MlkxNThuUVdKb2Q2ZGpxXzNJMjFmSHB6a0NMeW5YWmZnMlpHZFlSeHl6MG5KUHFGX1MyQ1I2WXlPSVA2NWF5TUVpbjBMVmQ1ZUV4UUE1UXlNQ1VhaDZ2Ul9wckxlSExVSE14QjgyWlloelpGbmVGT3JfT2dTU2Fac09LdEVYdGxnY0hBWm5JWnNSNkVsYTdoSUlqSmdId0NuenBvaTBHQ2Q5WE5TdnBfQjc5S1ByeTBDZWdLODJ2RzFUX1pqMlAzanE?oc=5": {
+      "title": "Governo prorroga imposto sobre exportação de petróleo, mas liminar suspende cobrança - MegaWhat",
+      "summary": "O Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex-Camex) prorrogou por mais 60 dias o imposto de 12% sobre a exportação de petróleo bruto e minerais betuminosos (rochas e substâncias ricas em hidrocarbonetos). A medida passa a valer a partir de 8 de setembro, quando vence o prazo da decisão anterior, em vigor desde julho.",
+      "source": "",
+      "added_at": "2026-08-29T03:25:50.857301",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm1NbU93Z1ZMeGF4MzBYbW8waVI5enNXTWdwQVBpRE4tS0l4MlFsbmgteTdrUS1fVDgtdDdaM1pfN0dELWoyeTdpMGVyMXhxM2kxNE9Lak4yNk1Dc1ZmMDdXaGsyWFZpcDhxTWl4MjlyeUJaTTltRG1qLXBKVnZzNF94RDVuR1hQeUFiamREdF9tQkFHanVRNVB5OGFmT1hPWDJNYnZpUU0?oc=5": {
+      "title": "Voltalia obtém aval para data center de R$ 181,7 bilhões no Pecém - MegaWhat",
+      "summary": "A Voltalia recebeu nesta semana autorização do Conselho Nacional das Zonas de Processamento de Exportação (CZPE) para instalar um data center na ZPE do Pecém, no Ceará. O projeto prevê investimento de R$ 181,7 bilhões, conexão de 322 megawatts (MW) e geração de 2,3 mil empregos durante a implantação e 400 na operação.",
+      "source": "",
+      "added_at": "2026-08-29T03:26:01.632670",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGNJb3hMUTVMRzRRX1NLNWZ6aURraE9uajAtc21kN1dnS19fbW82YzAyaGl5SXpiY1owc0lxNlpvQ3VRalhEcFJIclExY29xTm1HQ243aEtFc0pWcHVUM0hZdEdXUFUzRW5NZUVHSGpZZ0lnNjMydENJV052NmRsalVacFZ1UFNFbDlES2wyNFJmbk10YlFSZXh5UXl4all6eEVKR3YzNnE4MUlGb3hzV3p5OVZFWlNRWlB5clJJSWs0Qm8wb1o5THlfM2NnN0pnM1dLQWhOUzVVQQ?oc=5": {
+      "title": "Armazenamento de energia na América Latina deve saltar para 34 GW até 2035, diz Wood Mackenzie - MegaWhat",
+      "summary": "O mercado de armazenamento de energia da América Latina entrou em uma trajetória de expansão mais acelerada, com o Brasil se preparando para dar um passo importante com os leilões dedicados às baterias, previsto para dezembro de 2026. Segundo a projeção mais recente da Wood Mackenzie, a capacidade acumulada de armazenamento na região deve crescer de 2,5 GW em 2025 para 34 GW em 2035, o que…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:01.632953",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2ZjYnNCV1Y0UE1oVTFVU2poNmtfcTZXRWpHN3YwbFFvbmFoeHNzOEdxTG1zRmJrNXV3SnZSQVluNnNEbUswN3RaWWhZektGTGRVZGxHd0tOMnhLTHNGbkpsWkVKdlBZS1g5OEVaS1Awdk1KOXU2d3ZFby1MRW1tZnJoam1kOXVrVy1LcFhhUkE4SHIyZmFveUxEY2dFcy1UMVZHVXdpR3QxbHNyQ0h2NA?oc=5": {
+      "title": "MME prepara consulta sobre renovação das concessões de geração - MegaWhat",
+      "summary": "O Ministério de Minas e Energia (MME) fará uma consulta pública específica para regulamentar as regras de licitação e prorrogação das concessões de geração previstas na Lei nº 15.269/2025. O tema ficou de fora das três consultas abertas nesta semana porque as discussões internas ainda não atingiram maturidade suficiente para serem submetidas ao mercado, segundo o secretário-executivo adjunto da…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:01.633324",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTA1SU5BRkEyUXh0LTF3TFRCcWhITkxDSEl4T21RVnp4ZUhUQXJyWUdWSTNuaVNRNXBJSC1mS19nRTZnck9zMl80TUc3cklDcHNzX2FhdzBDcXhwNGZTR3VrMFFKWC1fOTNhd1VMc2t0d1dXWmt2LXhQcWVYcXlLd0N6UmxGcTUwMXlHNHVmN0EyN3FJRDN2bFVTSjlkS2JCWWtvWU1ucUhub0ZBdFlVS3JPM2lsX0U?oc=5": {
+      "title": "Sem privatização, cotas viram caminho da Cemig para manter hidrelétricas - MegaWhat",
+      "summary": "Quase 14 anos depois de rejeitar as condições da Medida Provisória (MP) 579 para renovar suas concessões de geração, a Cemig está próxima de formalizar a adesão ao mesmo regime para preservar três hidrelétricas importantes de seu portfólio. O Ministério de Minas e Energia decidiu nesta sexta-feira, 28 de agosto, prorrogar por 30 anos a concessão de Sá Carvalho, de 78 MW, em Minas Gerais.",
+      "source": "",
+      "added_at": "2026-08-29T03:26:01.633585",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWE5nRDF5dkxMRGVKZDBWNWdzeWhaOThzc3BZVTRfeFBOVGxsOV9FbjlHamVmMmdXRndHa1NXRGZKb3g3cTdCbmQ3WVZQR1oyLVRpdTZubmp5d0lfLTFITVhhVWFLRHRkMmhIN2hzSGtwRndrTnBZSmhmWmhOdUVQVW04YXVabzh6TTZ2STdDUUFnTkE3SUtkOVdlUGNkQjVfbmlyZ0hPU2U3M0FWUWRzdkxzUDJvOHNGT3dzQVdpLXhqM0w5bl9TMFRrdi0?oc=5": {
+      "title": "TBG quer ampliar Gasbol para conectar terminal da J&F em SC e atender LRCap - MegaWhat",
+      "summary": "A Transportadora Brasileira Gasoduto Bolívia-Brasil (TBG) solicitou à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) autorização para construir um projeto de US$ 286 milhões que amplia a capacidade de transporte de gás e é considerado necessário para atender a nova demanda termelétrica contratada no Leilão de Reserva de Capacidade (LRCap) realizado em março de 2026…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:01.633909",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1Utb1ZzSVZoa1c1RTVINEFRczZQYjBhYWlNTDFwdVREb2dGM3B6XzJKYklycS1iVVpIZUthNEl1aWp6MTdDMXh6dTdMN0h3NmZQVjEyeTBKeXlkUzIweDJQVnpNWk9WRE9OcUkzeDBRN0FNbHJoazR0WVhCUk02U2ROYjlVT0pkTTlrRHZYb1hyT01uX3lDcWRwTjZCZ3JKa1pMS3FIcU9Gb1NtWmh2TElXX0F5dzRNa09oeWllbktkTXc?oc=5": {
+      "title": "J&F tem aval do Cade para arrendar terminal de gás em Santa Catarina - MegaWhat",
+      "summary": "O Conselho Administrativo de Defesa Econômica (Cade) aprovou nesta sexta-feira, 28 de agosto, o arrendamento, pela J&F, do Terminal Gás Sul, de propriedade e atualmente operado pela New Fortress Energy (NFE). O aluguel da infraestrutura foi anunciada em abril deste ano e tinha como prazo para entrada em vigor o mês de agosto, com previsão de um Ebitda (lucro antes dos juros, impostos, depreciação…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:12.909349",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SMVN0TzljNmpNeFNqUWRnbGdEMTRjcEhvTkdTdlI0SjRXbVl0Qnc3cG16cF9SbGtCV1RoTFJpcDhMMHRiYmJkLXZoUDBlVFBJRzl2SU00bTE?oc=5": {
+      "title": "Tag Pecém - MegaWhat",
+      "summary": "Hidrogênio Projetos de hidrogênio da Fortescue e Solatio recebem aval para acesso à rede Os projetos de hidrogênio da Fortescue e da Solatio localizados, respectivamente, no Ceará e no Piauí, receberam aval da Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (MME) para acesso à rede básica do Sistema Interligado Nacional (SIN). Os parecerem foram…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:12.909401",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGxpaXRXa1FJRlZLcjhtZ2hEOUtrTHhKZ2FBeG1pYWlLa3hWUnFJU0FIblkybmVob2xHOUtmX3E1TWEyRVBBbnBvNkJ4RkVQOEotWlljd2NDcGZ6N3dyYm9GNmlBWDNMa0ZSR09vU2JlT1R3NzhacGVsOXhncmJPX00xUjNSY3BqX0lYLS1IaUNUQU5IQWxBUXMyUHUxNmI0dUZaNllmS3E?oc=5": {
+      "title": "🎙️Sinal de preço para quem tem solar e novos cortes de geração do ONS - MegaWhat",
+      "summary": "No MinutoMega desta sexta-feira, 28 de agosto, a jornalista da MegaWhat Camila Maia explica a possibilidade de novo corte de geração neste domingo e como funciona o mecanismo do ONS para acionar esse plano. O episódio também traz o debate sobre a tarifa horária para consumidores com MMGD e o novo mecanismo de corte automático de geração que o ONS está desenvolvendo para lidar com o excesso de…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:12.909440",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaU9VZW9aNXVEcmhvU242Y3VQUEtlMHdWSkJiUnRXRDctM0pRRWRPX2Y4T0ZkLUc2QkduLTZRemw1RDhtTVpTS1RaR2pyTkZyc2g5Wm5Md0tDcl9yTTFESW90X001dTd0T0M1ZU85emducm84REFqWEZQdGczZGRnRlNSejhiMlFOczBUNndXR1hTdFlyTTJ0SFFldk9YcWs5VXcxQS1sUmI0ZzNJdEhQNGNlVWVNNXJxbElpcy0wd0diR3dhbmlFNUF3?oc=5": {
+      "title": "Relator da Aneel vota para suspender prazos até decisão sobre EPP no LRCAP – Edição do dia - MegaWhat",
+      "summary": "O diretor Gentil Nogueira, da Agência Nacional de Energia Elétrica (Aneel), apresentou voto acolhendo pedido de cautelar da J&F para suspender os prazos de emissão de pareceres de acesso à rede relacionados às usinas do consórcio ION/EPP. Se aprovado, a análise pelo ONS (Operador Nacional do Sistema Elétrico) ficaria suspensa até que a diretoria decida sobre a inabilitação das usinas no LRCAP…",
+      "source": "",
+      "added_at": "2026-08-29T03:26:12.909870",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXRfWWRMNmR0LW8zejZGWld3cEJpWV95dGNXcGlNeXlmT1d6T1RaSUFvdi05VzBlRnlxMXFsUzZrblZQRG9aOGJsMXU3Tm9MNDFxZVlBcTR0WVVfM1BnbThNZm5PR3J2MUE5REpyYmlQVnRSSXNRVktsSW1oTXp5T0lXd3p5c09jMC0yeGdDZDM0YktBbmFHVk9wbEFTQ1pEdGdWNlJQR1JBMWM1UFhBRExoMWFzUHNMWFRJb1ptVDU?oc=5": {
+      "title": "Moura e CATL se unem para disputar leilão de baterias de dezembro - MegaWhat",
+      "summary": "A **Moura** e a **CATL** anunciaram parceria para participar do leilão de reserva de capacidade de baterias em **2 de dezembro**. A união visa combinar a tecnologia da CATL com a experiência da Moura no mercado brasileiro para oferecer soluções com produção nacionalizada.",
+      "source": "",
+      "added_at": "2026-08-29T03:26:22.589886"
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1MFVjcGFnY2VuYUVmSWV3OWRicXVIRkkxMHRfMm4xTHoweXFDbEhGd0JybzJpSnJHckxEOGJZa0VfMFp5NjZhTzFPNFlCa0hOblhR?oc=5": {
+      "title": "Tag Suape II - MegaWhat",
+      "summary": "A **Energética Suape II** recebeu autorização da **ANP** para injetar gás natural na rede de transporte do país. A empresa opera a usina térmica a óleo Suape II.",
+      "source": "",
+      "added_at": "2026-08-29T03:26:22.589926"
     }
   }
 }
