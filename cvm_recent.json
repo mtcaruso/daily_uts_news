@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T11:37:02.406258-03:00",
+  "last_updated": "2026-08-29T14:53:19.350110-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -5436,24 +5436,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-07-30T20:32:52.111919"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Calendário de Eventos Corporativos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20261231 31/12/2026",
-      "data_entrega": "20260730 30/07/2026 09:38",
-      "status": "Ativo",
-      "versao": "4",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1549580",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549580",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-07-30T14:38:28.007649"
     }
   ]
 }
