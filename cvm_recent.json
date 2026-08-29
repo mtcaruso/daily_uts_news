@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T17:04:16.443248-03:00",
+  "last_updated": "2026-08-29T19:38:25.643766-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -5418,24 +5418,6 @@
       "empresa_label": "Light",
       "codigo_cvm": "19879",
       "first_seen": "2026-07-30T22:53:59.598091"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Calendário de Eventos Corporativos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20261231 31/12/2026",
-      "data_entrega": "20260730 30/07/2026 16:58",
-      "status": "Ativo",
-      "versao": "5",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1549778",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1549778",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-07-30T20:32:52.111919"
     }
   ]
 }
