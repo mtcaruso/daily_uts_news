@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T18:31:42.278162-03:00",
+  "last_updated": "2026-08-30T20:50:15.979432-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -5094,42 +5094,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-08-03T21:18:10.913875"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Alienação de Participação Acionária Relevante",
-      "data_referencia": "20260731 31/07/2026",
-      "data_entrega": "20260731 31/07/2026 18:45",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1550666",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550666",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-07-31T22:41:49.204488"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "RTA CSA 2026 -",
-      "data_referencia": "20260731 31/07/2026",
-      "data_entrega": "20260731 31/07/2026 17:56",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "RTA CSA 2026",
-      "protocolo": "1550578",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550578",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-07-31T21:43:52.925849"
     }
   ]
 }
