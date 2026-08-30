@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-08-30T05:19:01.565543",
+  "last_updated": "2026-08-30T14:51:22.153657",
   "items": {
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1hnNVNINENsbTJuS3pPb25YaU5WZkszSnB6MGFzems4Y29BLWRGX2VBXzJrSDNmOWNZeHNqN1dtbWw2bTJzN2hqMm1HYlljNzZVQ2NqMWxOUTY5UXRjaUhKZzBNYVh4TWNEbUdzT1ptZE1ERDU3Q1V1amEwUEk2RVRwYmZpZEpJaWVmVU5DTE8zT1BiMXhWVkQxZ1NYc0VvNmo1OTF6aGpwck0?oc=5": {
-      "title": "'Gato solar' vira nova frente de guerra no setor elétrico - Folha de S.Paulo",
-      "summary": "O setor elétrico brasileiro enfrenta o \"gato solar\", que consiste na expansão irregular de sistemas fotovoltaicos próprios. Empresas distribuidoras e órgãos como a **Aneel** e o **ONS** estão preocupados com o impacto na estabilidade do sistema e o custo para os consumidores, com estimativas de potência irregular variando de **88 MW** a **14,6 GW**.",
-      "source": "",
-      "added_at": "2026-08-16T10:36:22.258879"
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalFNSXpkQnVRY1hEUi1nTTE4dVVKTDBiYUhnNDNvVmwyQ1pLNW5KODJFZHBJUVhlYlhZSkVxYW5qdTNqaHpENWpoRHNkTS1HNDd4bkJ5MHZQLWFNUk1OazFxNy1SYmpucnZrRUZMR28wcFM5aEJOeEFlY0xFc1c4LVRXWFFDWExSMDM1cmVwRTNseEo2eXMzTE52VmtnUnhzUDVyOVVKU1ZzeE5rYjFpcGl6dXhoakFvVXFWeGI1enFHWG1PZHAxUVpsLUVtZw?oc=5": {
-      "title": "Desvantagem tarifária do Brasil salta quase 7 pontos com novas sobretaxas dos EUA - Folha de S.Paulo",
-      "summary": "Novas sobretaxas dos EUA elevam a desvantagem tarifária de produtos brasileiros para **7,5 pontos percentuais**, tornando o Brasil o segundo país com pior acesso ao mercado americano, atrás da China. O economista **Sergio Vale** estima que as exportações brasileiras podem cair entre **US$ 1,7 bilhão** e **US$ 3,6 bilhões** no primeiro ano, com potencial de perda anual de até **US$ 10 bilhões** em quatro anos.",
-      "source": "",
-      "added_at": "2026-08-16T10:36:22.258912"
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnc2NVBiQ3RVOF94NkZ1aWNhOGNBbTRVX2dqZjlDaWIxanh2VnpEcVlGQmJ0aUlKRjJ3TkVYYkRsZno1SlEzcGhmbUJhUU5WNzlZZ3dMMnl4eGNFX3ZmQWdwMzFJTVdHMFlYdm1PNkh5ck95dGliclVKNjFUbTZKYWgwdXFKaTdneVVSOUxlMS0xbW9JTy1EbGJaLXExMExzRnZNbVNwWTRBNVluQXJXQlg4cGxSd0YyR3JwSUhCX2g1bXF5RFN3S0J4dkR2UVo5RjVOaQ?oc=5": {
-      "title": "Governador do Amapá diz que descoberta de petróleo na Margem Equatorial é ‘a notícia do século’ - Estadão",
-      "summary": "O governador do Amapá celebrou a descoberta de petróleo na Margem Equatorial como \"a notícia do século\". A notícia destaca o potencial econômico da região para o estado e para o Brasil.",
-      "source": "",
-      "added_at": "2026-08-16T10:36:22.258921"
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVHlKNS1fcnNaV2NTdDNzdE9WMkFDMDRhSm13XzRKX3ZrOTc4ZE8xU1Z1NW42RUtHSExkVkFlVjBRSEdjTUhkUkpQNjNSWHM2Wm15M2kwczI4bjI2ZXhfcWZXTGtSaDhaSTVQeEdrV2ZNeFZLU1lLa2xZYXpjQ1E?oc=5": {
       "title": "'Gato solar' vira nova frente de guerra no setor elétrico - UOL",
       "summary": "O debate sobre a energia solar distribuída, especialmente a instalação de painéis solares em residências e empresas, está gerando conflitos no setor elétrico brasileiro. Consumidores reclamam de custos e barreiras impostas por concessionárias e órgãos reguladores como a **Aneel** e o **Ministério de Minas e Energia**, enquanto outros defendem a liberdade de geração própria e a possibilidade de sistemas off-grid. Há alegações de subsídios cruzados, com consumidores sem painéis solares arcando com custos relacionados à geração distribuída, estimados em **R$ 14,4 bilhões** em 2025.",
@@ -4711,7 +4693,7 @@
       "source": "",
       "added_at": "2026-08-29T15:02:47.376772",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSktManZtYlZkVWVpTjI5c2VwZXNxd041Vm45SjBIRWtBTlNwcmxwaDdtLTdLZklKaGxCSGtEOG12N2FoVjdYSHhmalRBSXFjWUtzX2dsSHRyckdqWWNwTngtamhCNTVQVXJmRFFGRnNaRm1EVURUNEZRSko2alV2NDdmOGhkcEV1S2UxazFXYzBPSnFXeTl1S2p5VUVwREhnSXpza3doamtxalMwR2xtWFFyeXQ?oc=5": {
       "title": "Alta do petróleo impulsiona venda de carros elétricos no mundo - Folha de S.Paulo",
@@ -4807,11 +4789,23 @@
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTBFLU42T0tPWGVlamxkamNhY3gwU1ZkWlFKTml2VkE5a041SVhwRUw2V3ZjbjJQWmQyM3VtRVdRX20yLWUtMy02Ynd3MFlqd2YxOEJkSTlNNEN2SkdtR1dPUnhndUNmTmdQVGd0MFdUVFN4aUVIcXFHektVQXU4N2JjS2swR0phWk9zWGI2RURDd0hwNy1Jb1JHMk1NMFlBQWtKTUhLaWxqQUVxbVI3cktBUlFEOEhqSnBpZWt2bHhVVVVmTEVlYUJVbk14cHF4a2wxRFNyTHDSAd4BQVVfeXFMT2oxY20yNExFZFlLMG1vNlRJMDc1M3JzUmdRZ1Z3TFU1Uld0bExmUWoweUNMcnpuV2swXy16amJVcEpwUFNBNVpsNUpibmZqU2FDUU00cVIzLTN0eEl6X0VsSHRNQTdoR2FKd01nbTVKYkxsYVkxeEI4ZUdRbzFyM21PWnpIeXVJc29KNjdWVkJ3S00tU0NkbGRjM0tNRHNqVnV4Y0FVZDdZQW4yMUJIVWNkTlFvcU5NYjlZVkEwTzRiaDdlcWJGdGg1V0poZDE1T2xpWGszeWJyODJtMTdn?oc=5": {
       "title": "Agência diz que usina nuclear da Ucrânia está sem energia e usando geradores para resfriar reatores - Estadão",
-      "summary": "Gerando resumo VIENA, Áustria - A usina nuclear de Zaporizhzhia, na Ucrânia, está há mais de uma semana sem fornecimento externo de eletricidade e atualmente depende de geradores a diesel de emergência, informou neste sábado, 29, a Agência Internacional de Energia Atômica (AIEA). A usina, que precisa de energia para manter resfriados seus seis reatores fora de operação, dispõe atualmente de…",
+      "summary": "O que a guerra na Ucrânia e a guerra no Irã têm em comum? Ataque de Kiev a um navio iraniano no mar Cáspio expõe uma rede densa de inteligência militar circulando entre os dois conflitos.",
       "source": "",
       "added_at": "2026-08-30T05:19:01.558390",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnJjTzdldWlrdTh1ZTBNTzRWSkVSY24tR3A5X0wtVVNpVC0zSzFMWGRPbkRycjVybzQxNkI1SGF2QXZ1X3Y4eS01LTdPaWsyYlNhVHVtU1dfNXdlRDFXbm1ZNTBBS21oemZ1UnZrdjNNQmo0THF5bk1FalBxalZOR0hfb08zRUgyNHJwbE5CemJxc040QjhTYy1NOTNoTnhLTXY1TlQ4dENtVzkyRks0SXlxTXVtZE5XUUHSAcgBQVVfeXFMUEFRRktFR25vVmprTFBPSGRYcFFtZXoyM0FZdkp5UjlkNnJWcmxxRUxKb3UtWnlNS1dBZnRleEo1WmNyeFRnY3VfYVBlVDBYMmNKWXYxMVp4cXdmM1FzSTZUVzd6Y0RNc3NxS2JfMEtKSUFYdmVVOHpsNnlmMFlLOWFXNVk5Qk1pUUQxa1pqWWVXMjViNnEzcTFSOW1GNDRxNXp2RE9pbVp1djE2SWZoV1l5aGh0cjJ3b3ItU3hYNnV6WDJiLWZRY2I?oc=5": {
+      "title": "Como a guerra no Irã está redesenhando o mapa global de energia - Valor Econômico",
+      "summary": "A guerra no Irã, com ataques dos EUA e Israel, interrompeu a produção de combustíveis fósseis no Oriente Médio e transformou o Estreito de Ormuz em campo de batalha. Isso levou governos, empresas e consumidores a buscar fontes de energia renovável, com drástica escalada nos preços de combustíveis fósseis.",
+      "source": "",
+      "added_at": "2026-08-30T14:51:22.145813"
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVl83ZnFlTy1odEtKUFJUelpIT2Vxci1MZHlyLVhCNU5HTjFUTGpiakdocGNjSV91OXhLQnZ0RzNJR0lmdkZNOXR1OVY0RFVvZ1poMy1pLWhHSnd5RHFBVUs2ak40WnJGM0hwNjA5UjZQSDVsXzR3X3V4X1BpSW5fYg?oc=5": {
+      "title": "Cotidiano > Falha na transmissão de energia causou apagão, diz CPFL Voltar - UOL",
+      "summary": "Um apagão na rede de energia foi causado por uma falha na transmissão, segundo a **CPFL**. O incidente afetou o fornecimento de eletricidade, mas a causa específica e a extensão dos danos não foram detalhadas.",
+      "source": "",
+      "added_at": "2026-08-30T14:51:22.145845"
     }
   }
 }
