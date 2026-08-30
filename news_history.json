@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-08-30T14:51:22.153657",
+  "last_updated": "2026-08-30T18:36:16.049241",
   "items": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nVHlKNS1fcnNaV2NTdDNzdE9WMkFDMDRhSm13XzRKX3ZrOTc4ZE8xU1Z1NW42RUtHSExkVkFlVjBRSEdjTUhkUkpQNjNSWHM2Wm15M2kwczI4bjI2ZXhfcWZXTGtSaDhaSTVQeEdrV2ZNeFZLU1lLa2xZYXpjQ1E?oc=5": {
-      "title": "'Gato solar' vira nova frente de guerra no setor elétrico - UOL",
-      "summary": "O debate sobre a energia solar distribuída, especialmente a instalação de painéis solares em residências e empresas, está gerando conflitos no setor elétrico brasileiro. Consumidores reclamam de custos e barreiras impostas por concessionárias e órgãos reguladores como a **Aneel** e o **Ministério de Minas e Energia**, enquanto outros defendem a liberdade de geração própria e a possibilidade de sistemas off-grid. Há alegações de subsídios cruzados, com consumidores sem painéis solares arcando com custos relacionados à geração distribuída, estimados em **R$ 14,4 bilhões** em 2025.",
-      "source": "",
-      "added_at": "2026-08-16T17:31:32.777342"
-    },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUJkWHpUVzkwMWMyanp5N1NoMm1JZHJVOVpRb2s4WW9xSUhRV0FDZm12WkpRdXlwWi1nLVMzLTBSS3hKc0s1TDZqWHh0cW14eDVJZGhuYWJpZjlfR0ZIbk5SY3RTSzlueklwZnZlUUtYeVBFUm05QWh2U2ktekNtelR1SXlpb1hNZVZGQmNuN190SlV2aGlLQ0pZZ3ZrcGJFMUlSXy03OA?oc=5": {
       "title": "Energia solar supera marco global e acelera expansão - Folha de S.Paulo",
       "summary": "A energia solar global atingiu **3 terawatts** em 2026, com a **China** liderando a expansão, superando a capacidade instalada em menos de três anos após o marco de 2 terawatts. Projeções da **BloombergNEF** indicam mais de **9 terawatts** até 2036, com países em desenvolvimento aumentando sua participação, apesar de desafios como financiamento e infraestrutura de rede.",
@@ -4693,7 +4687,7 @@
       "source": "",
       "added_at": "2026-08-29T15:02:47.376772",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSktManZtYlZkVWVpTjI5c2VwZXNxd041Vm45SjBIRWtBTlNwcmxwaDdtLTdLZklKaGxCSGtEOG12N2FoVjdYSHhmalRBSXFjWUtzX2dsSHRyckdqWWNwTngtamhCNTVQVXJmRFFGRnNaRm1EVURUNEZRSko2alV2NDdmOGhkcEV1S2UxazFXYzBPSnFXeTl1S2p5VUVwREhnSXpza3doamtxalMwR2xtWFFyeXQ?oc=5": {
       "title": "Alta do petróleo impulsiona venda de carros elétricos no mundo - Folha de S.Paulo",
@@ -4789,11 +4783,9 @@
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTBFLU42T0tPWGVlamxkamNhY3gwU1ZkWlFKTml2VkE5a041SVhwRUw2V3ZjbjJQWmQyM3VtRVdRX20yLWUtMy02Ynd3MFlqd2YxOEJkSTlNNEN2SkdtR1dPUnhndUNmTmdQVGd0MFdUVFN4aUVIcXFHektVQXU4N2JjS2swR0phWk9zWGI2RURDd0hwNy1Jb1JHMk1NMFlBQWtKTUhLaWxqQUVxbVI3cktBUlFEOEhqSnBpZWt2bHhVVVVmTEVlYUJVbk14cHF4a2wxRFNyTHDSAd4BQVVfeXFMT2oxY20yNExFZFlLMG1vNlRJMDc1M3JzUmdRZ1Z3TFU1Uld0bExmUWoweUNMcnpuV2swXy16amJVcEpwUFNBNVpsNUpibmZqU2FDUU00cVIzLTN0eEl6X0VsSHRNQTdoR2FKd01nbTVKYkxsYVkxeEI4ZUdRbzFyM21PWnpIeXVJc29KNjdWVkJ3S00tU0NkbGRjM0tNRHNqVnV4Y0FVZDdZQW4yMUJIVWNkTlFvcU5NYjlZVkEwTzRiaDdlcWJGdGg1V0poZDE1T2xpWGszeWJyODJtMTdn?oc=5": {
       "title": "Agência diz que usina nuclear da Ucrânia está sem energia e usando geradores para resfriar reatores - Estadão",
-      "summary": "O que a guerra na Ucrânia e a guerra no Irã têm em comum? Ataque de Kiev a um navio iraniano no mar Cáspio expõe uma rede densa de inteligência militar circulando entre os dois conflitos.",
+      "summary": "A usina nuclear de **Zaporizhzhia**, na Ucrânia, está sem energia externa há mais de uma semana e depende de geradores a diesel, com combustível para apenas **dez dias**. A **Agência Internacional de Energia Atômica (AIEA)**, liderada por **Rafael Grossi**, busca negociar um cessar-fogo para reparos nas linhas de transmissão após atividade militar na região.",
       "source": "",
-      "added_at": "2026-08-30T05:19:01.558390",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-08-30T05:19:01.558390"
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnJjTzdldWlrdTh1ZTBNTzRWSkVSY24tR3A5X0wtVVNpVC0zSzFMWGRPbkRycjVybzQxNkI1SGF2QXZ1X3Y4eS01LTdPaWsyYlNhVHVtU1dfNXdlRDFXbm1ZNTBBS21oemZ1UnZrdjNNQmo0THF5bk1FalBxalZOR0hfb08zRUgyNHJwbE5CemJxc040QjhTYy1NOTNoTnhLTXY1TlQ4dENtVzkyRks0SXlxTXVtZE5XUUHSAcgBQVVfeXFMUEFRRktFR25vVmprTFBPSGRYcFFtZXoyM0FZdkp5UjlkNnJWcmxxRUxKb3UtWnlNS1dBZnRleEo1WmNyeFRnY3VfYVBlVDBYMmNKWXYxMVp4cXdmM1FzSTZUVzd6Y0RNc3NxS2JfMEtKSUFYdmVVOHpsNnlmMFlLOWFXNVk5Qk1pUUQxa1pqWWVXMjViNnEzcTFSOW1GNDRxNXp2RE9pbVp1djE2SWZoV1l5aGh0cjJ3b3ItU3hYNnV6WDJiLWZRY2I?oc=5": {
       "title": "Como a guerra no Irã está redesenhando o mapa global de energia - Valor Econômico",
