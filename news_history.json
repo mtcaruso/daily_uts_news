@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-08-29T23:35:32.646271",
+  "last_updated": "2026-08-30T05:19:01.565543",
   "items": {
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3kxS2w2UGx0Q1lMUzJzT3V2eFp2b2NKa1dzbXh2Tmp5Qnk1eXF5WkdKbEdFaXJrQnhXSFlZd1FocU9vdmQwNGw0UlZkdENXTXdTbGl2UXR1bE14ZmdyNTJBdDl6MGJCZkQ2TFdBWUJNamYwOGItTGIxOHNPcno4aEttS09GcHVIRXYxaVpJb0tUOXlMMTNEZEcwRGhpUGVFRi11RTJNMzktMmFqbzFJ?oc=5": {
-      "title": "Após grande chuva em SP, canais digitais da Enel ficam fora do ar - Estadão",
-      "summary": "A distribuidora de energia **Enel** teve seus canais digitais (site e aplicativo) fora do ar em **São Paulo** após uma forte chuva na região. A empresa atribuiu a falha a uma instabilidade global nos serviços da **Amazon Web Services (AWS)**, mas a **AWS** negou pane geral em seus sistemas.",
-      "source": "",
-      "added_at": "2026-08-16T01:55:11.650560"
-    },
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZk1PRUZEMmdLWW9XZzdacW5aUER6YkIydm52WFRWTDl6dWN0bWh1b3pMNXY0em50U3BqXzNmQ2trbmxJWEdxVTVMTVJsWXRNd0dLSEFibWRjMjdRS3VrdXhnZS1QNXBBU1VtTGUwMHNNQTAyM0pwWmpHSi1RWUJ0dDA5VnRES1B1a2JVTGxaMUpLWUgzVkMxd0ExVnh2YVpFblF1Y9IBqgFBVV95cUxOc1pUSjN5dE1ENk04TUJ3LWZIcTdsbUJ1Y01rVnJsZmJpUG1faVdxVzU0ajRFUnlHS1h2dWNBUnk3N2doMmZOcFRIVld1NFZDWWZPWTlldmNueGpySUN5M09OSmZnOG1xOC0yX2NlRTk4Nl9xZ3FxS1g1QnZwM0NKQmR6R2tHb1RLUDd6VWI2VzNzV0p1OFV3MGhBTTB3RjVkUW8xOGdIYXpMUQ?oc=5": {
-      "title": "Canais digitais da Enel voltam a funcionar após instabilidade ao longo do dia - Estadão",
-      "summary": "Os canais digitais da **Enel** voltaram a funcionar após ficarem indisponíveis durante o dia **15 de julho**. A empresa informou que a instabilidade foi causada por um problema operacional na **Amazon Web Services (AWS)**, sua fornecedora de infraestrutura. A **Enel** garantiu atendimento por outros canais, como o telefônico, para emergências.",
-      "source": "",
-      "added_at": "2026-08-16T01:55:11.650600"
-    },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1hnNVNINENsbTJuS3pPb25YaU5WZkszSnB6MGFzems4Y29BLWRGX2VBXzJrSDNmOWNZeHNqN1dtbWw2bTJzN2hqMm1HYlljNzZVQ2NqMWxOUTY5UXRjaUhKZzBNYVh4TWNEbUdzT1ptZE1ERDU3Q1V1amEwUEk2RVRwYmZpZEpJaWVmVU5DTE8zT1BiMXhWVkQxZ1NYc0VvNmo1OTF6aGpwck0?oc=5": {
       "title": "'Gato solar' vira nova frente de guerra no setor elétrico - Folha de S.Paulo",
       "summary": "O setor elétrico brasileiro enfrenta o \"gato solar\", que consiste na expansão irregular de sistemas fotovoltaicos próprios. Empresas distribuidoras e órgãos como a **Aneel** e o **ONS** estão preocupados com o impacto na estabilidade do sistema e o custo para os consumidores, com estimativas de potência irregular variando de **88 MW** a **14,6 GW**.",
@@ -4715,7 +4703,7 @@
       "source": "",
       "added_at": "2026-08-29T15:02:32.695669",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTHQyNWp6Z0xDMUQzQmFaeks5UzdiWlk5VHE0Yk5FZ1BKX3BXcXJ0ZHh5NWNDdGVySEI3TVRKMWx2Tm16UDFhSFo3aXlEUXBzMEI0V1lXZ09BQ0xZSWFlYkg2d3dmZU5IRURxVWV3M3VCMWFlQ1ptQ1llWlgwTU5oOExSUEc1Y2wtX3RUZVdvaXBxZ1JHNU84T1p0amNOT29mZnZ0NzBwanFqNTBrYXpXQi1KU0NNU3NiSy05NW5CNm1xOVJtTHlOcXlQSy10Wk5SRnlmTU0wdEw?oc=5": {
       "title": "Comunicado relevante nº 03/2026 - Valor de referência para a 1ª temporada de acesso de 2026 - CanalEnergia",
@@ -4723,7 +4711,7 @@
       "source": "",
       "added_at": "2026-08-29T15:02:47.376772",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSktManZtYlZkVWVpTjI5c2VwZXNxd041Vm45SjBIRWtBTlNwcmxwaDdtLTdLZklKaGxCSGtEOG12N2FoVjdYSHhmalRBSXFjWUtzX2dsSHRyckdqWWNwTngtamhCNTVQVXJmRFFGRnNaRm1EVURUNEZRSko2alV2NDdmOGhkcEV1S2UxazFXYzBPSnFXeTl1S2p5VUVwREhnSXpza3doamtxalMwR2xtWFFyeXQ?oc=5": {
       "title": "Alta do petróleo impulsiona venda de carros elétricos no mundo - Folha de S.Paulo",
@@ -4739,7 +4727,7 @@
       "source": "",
       "added_at": "2026-08-29T15:04:17.108888",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xd3JkNG96amtVZEtEc05MWVZMcUtrcW8zcnRLX2Y2c3dzaERNMndFbHRqTmRIV1hnYjk1Ym52TnZWXzZOSWVtemI4SlUwTW5odmdzZkpKemo1VElYX2VPV3ZhSndMbmtzQzJZb0x2U1lCaWo5N1NyanFLR3pXdjg?oc=5": {
       "title": "Aneel mantém bandeira tarifária amarela em setembro - UOL",
@@ -4763,7 +4751,7 @@
       "source": "",
       "added_at": "2026-08-29T18:25:32.702520",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWdxY0dzZTB2NUwyWThscjNlTVFfdHV2UlJCOVV6Vk9PLTVhQjhqMGlEUjVWRy1wMzl4MC1WMW1XMnJvUHVsUFh2SVo1b243VzN0WHhJcHhQWWhIbEotM0JpaXN0bnQxekk0XzJUdUwzMUpKemFiTGd2bVlFWmhFX0Y2ZXlGOU1fd2tmRXFVMG1rbmUxZ2pGOGJYZw?oc=5": {
       "title": "CIA ENERGETICA DE MINAS GERAIS – CEMIG – 1562249 - estadaori.estadao.com.br",
@@ -4792,6 +4780,38 @@
       "summary": "A usina nuclear de **Zaporizhzhia**, na Ucrânia, está sem energia externa há mais de uma semana e usa geradores a diesel com autonomia de apenas dez dias, alertou a **Agência Internacional de Energia Atômica (AIEA)**. A situação é crítica para o resfriamento dos reatores, e a AIEA busca um cessar-fogo para reparos.",
       "source": "",
       "added_at": "2026-08-29T23:35:32.639379"
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHlFLWVvM0Jxd1ZmX3RldEV6cURvbkFZT2t1VElHRzFMQXBzX3J3OUtFdzZhY1p1YjNvODhrcWs0YzY1MmZrVmhIallra3BxeEtDTzJJZEdqdnNsVmIxUVMzYkQtdUs5aE01TWFVMXIwNkpPRWxhNExTY3hyN0ZLUXBpdExpSjg?oc=5": {
+      "title": "Enel acumula condenações por apagões em São Paulo - UOL",
+      "summary": "Comente* * Apenas para assinantes comentários Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem. - Zelis Pereira FurlanMinas e Energia vai arcar com uma fortuna.",
+      "source": "",
+      "added_at": "2026-08-30T05:19:01.558018",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRThNSU5XdFQ5QmdENklKdHlILTVsMC1nMkZZeEQ0d1pfM1FNWUd6d2xyNkJ0RWFJMy1XTnFEbDBVUlZ3ZkZYUmdvdmJVdGFZLUlaTXhWUFlwLVFreGhKMXI3am05Um1KMUFmMzNLenZhaHYtb19lTE00SVRyRFhaN3RYLW13WTg?oc=5": {
+      "title": "Quebra de contrato da Enel depende de provas de incapacidade operacional e financeira - UOL",
+      "summary": "* Apenas para assinantes comentários Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem. - FERNANDA Salgueiro BorgesNão apenas isso.",
+      "source": "",
+      "added_at": "2026-08-30T05:19:01.558116",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4UlNFTDZHcndQLVB1VGROWXlYRHZTT3d0MFd2WlhoRnpfWXlENXlsbWwxSVVZMjR2UHBBSFVRTVhMVG5XQ0xYVk84V2F0WlhWVnR3cXN1UU42X2V5clpRM1dxTXloS2x5a2Y3aUJESlpLaXZkNlFZ?oc=5": {
+      "title": "Mercado > Aneel anuncia bandeira amarela para maio, e conta de luz terá cobrança extra pela 1ª vez no ano - UOL",
+      "summary": "| Capa | Olá! | Zapping | Nas ruas | Grana | Trabalho | Dicas | Defesa do Cidadão | Editorial | Vencer | Show!",
+      "source": "",
+      "added_at": "2026-08-30T05:19:01.558237",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTBFLU42T0tPWGVlamxkamNhY3gwU1ZkWlFKTml2VkE5a041SVhwRUw2V3ZjbjJQWmQyM3VtRVdRX20yLWUtMy02Ynd3MFlqd2YxOEJkSTlNNEN2SkdtR1dPUnhndUNmTmdQVGd0MFdUVFN4aUVIcXFHektVQXU4N2JjS2swR0phWk9zWGI2RURDd0hwNy1Jb1JHMk1NMFlBQWtKTUhLaWxqQUVxbVI3cktBUlFEOEhqSnBpZWt2bHhVVVVmTEVlYUJVbk14cHF4a2wxRFNyTHDSAd4BQVVfeXFMT2oxY20yNExFZFlLMG1vNlRJMDc1M3JzUmdRZ1Z3TFU1Uld0bExmUWoweUNMcnpuV2swXy16amJVcEpwUFNBNVpsNUpibmZqU2FDUU00cVIzLTN0eEl6X0VsSHRNQTdoR2FKd01nbTVKYkxsYVkxeEI4ZUdRbzFyM21PWnpIeXVJc29KNjdWVkJ3S00tU0NkbGRjM0tNRHNqVnV4Y0FVZDdZQW4yMUJIVWNkTlFvcU5NYjlZVkEwTzRiaDdlcWJGdGg1V0poZDE1T2xpWGszeWJyODJtMTdn?oc=5": {
+      "title": "Agência diz que usina nuclear da Ucrânia está sem energia e usando geradores para resfriar reatores - Estadão",
+      "summary": "Gerando resumo VIENA, Áustria - A usina nuclear de Zaporizhzhia, na Ucrânia, está há mais de uma semana sem fornecimento externo de eletricidade e atualmente depende de geradores a diesel de emergência, informou neste sábado, 29, a Agência Internacional de Energia Atômica (AIEA). A usina, que precisa de energia para manter resfriados seus seis reatores fora de operação, dispõe atualmente de…",
+      "source": "",
+      "added_at": "2026-08-30T05:19:01.558390",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
