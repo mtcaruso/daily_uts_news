@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T21:40:51.138750-03:00",
+  "last_updated": "2026-08-30T02:47:35.427997-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -5256,24 +5256,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-07-31T14:43:39.813963"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Celebração de Contratos de Concessão - Municípios de Contagem e Betim -",
-      "data_referencia": "20260730 30/07/2026",
-      "data_entrega": "20260730 30/07/2026 21:29",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Celebração de Contratos de Concessão - Municípios de Contagem e Betim",
-      "protocolo": "1550031",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550031",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-07-31T01:25:51.631074"
     }
   ]
 }
