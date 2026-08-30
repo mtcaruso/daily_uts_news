@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T07:48:26.322853-03:00",
+  "last_updated": "2026-08-30T12:06:07.258937-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -5238,24 +5238,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-07-31T20:38:48.985290"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Estatuto Social",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260724 24/07/2026",
-      "data_entrega": "20260731 31/07/2026 10:47",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1550179",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1550179",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-07-31T14:43:39.813963"
     }
   ]
 }
