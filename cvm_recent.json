@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T14:11:41.006160-03:00",
+  "last_updated": "2026-09-03T16:48:33.694616-03:00",
   "items": [
     {
       "cnpj_short": "01862-7",
@@ -5328,24 +5328,6 @@
       "empresa_label": "Eneva",
       "codigo_cvm": "21237",
       "first_seen": "2026-08-04T22:03:01.160672"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalEdital de Convocação",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260804 04/08/2026 12:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1551621",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1551621",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-04T17:47:11.913901"
     }
   ]
 }
