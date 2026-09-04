@@ -1,68 +1,6 @@
 {
-  "last_updated": "2026-09-03T23:17:42.384982",
+  "last_updated": "2026-09-04T04:25:24.494698",
   "items": {
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTJuYTNBeWRKbmFrRno0bUZ6Z18zTVhkeUN6MGprWm1ZWDc5VFBTV1JfR2hiQnZBWTlPMnNRMWRoNllKNXo5TXg5ZFlfYjBKODhNRVF2QWVmemEyUmZza0xHY3I3UEphb01MNjBwaEJNR2g1QTdPRFFSQjVLaFE0amtSdVI5azBmLUhEbU1Qb0tNMFJBbXJIWlVOUmptRnMyaXVoNWZtYldSZjBySGEzWkt3UkhIMVNjX0lwTHd0bHFkRTRpazZvS0dDcXFHcGx6azViQ0s4TFBQbkJJcTVmZ19Dc9IB8gFBVV95cUxOYWVVT3lhNjdfSjJzS1JYT2Qyek1tSk9pWVQ5eFFsSXRKWkVaVUYzcVpfT0ctaEJhWS1BMU15ekN2dGJXSlgtOEpuczgyWnphZ29ISklwMENxZ2h3b2dZVlo2c2hBZVJpNlJWQnVIZUhhRlpac2g2X2JXRzVOSUY2U1NWX2RKRkZiSnpPTlF3UkVpUEw5SWdHZEt6V01kcnZhUVMxdG8yQlp4MHAydVYwNkNuRnJmY1ZCTHRFaENadG92QTVwcmpkRy1jLTRlTV9iYzZSSlc2ei1qRzRIYVpERTZBNDRYOUhiTkpGT0RZOXN5Zw?oc=5": {
-      "title": "Axia Energia transfere ações em tesouraria para recompor estoque e elimina R$ 1,1 bi do passivo - Valor Econômico",
-      "summary": "Axia Energia transfere ações em tesouraria para recompor estoque e elimina R$ 1,1 bi do passivo Segundo a empresa, a medida não produzirá impactos no seu resultado, mas reduzirá a oscilação econômica frente à variação da cotação dessas ações O conselho de administração da Axia Energia aprovou, nesta quinta-feira (20), a transferência de cerca de 18,6 milhões de ações ordinárias e 4,45 milhões de…",
-      "source": "",
-      "added_at": "2026-08-21T02:00:39.673684",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdVRzM0xmN3RpQ2RoemdlMUhURXlHR041ekJzTHBJME9OcTN4aDZYc2Zrb3RnWGUyQ1FENGJXdlZfOUNNYmlSWkNWRVpRakhhWC1KUENFbXAydVRYbUZyb1c0clRmTzc0UnpTX29nWmQ0LS04MDB4azRqVUcwSkxUWmdXTGpGYnpmZHN1eWo1cjk2LTlfY2JlbDFXOGh3YkxLWUFHdy12N2NkRnhaQWVIMFY1ZWVPeDM2Q0xfNE1XTTR5c3I5bnAw?oc=5": {
-      "title": "Corte automático de geração solar remota será testado até fim do ano, diz ONS - Folha de S.Paulo",
-      "summary": "O ONS (Operador Nacional de Sistema Elétrico) começará a testar até o fim deste ano os cortes automáticos de geração distribuída solar remota. O mecanismo adicionará uma nova camada de proteção contra apagões no setor elétrico nacional, disse nesta quinta-feira (20) o diretor de planejamento da instituição, Alexandre Zucarato.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:39.674153",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFByRkdxb1Ftd0hNM2xDUjItcDNfaVJJOUFrSndwVFNJMFVoU1RFWjhnU2d0MnR4LUtQVUVfalkza29nSXIyWGk2QTU3X0ZDTlV4LTdPT2FhNGlvUWZVc29VcUJod3VxR0V1N3dQRHpsRmdxSElXaEV4VFJuMjBscnM?oc=5": {
-      "title": "Concessionárias de saneamento pedem à Justiça suspensão de flúor na água, que previne cáries - UOL",
-      "summary": "* Apenas para assinantes comentÃĄrios Os comentÃĄrios nÃĢo representam a opiniÃĢo do jornal; a responsabilidade ÃĐ do autor da mensagem. - Israel de MedeirosLogo vÃĢo propor que cada um trate a sua ÃĄgua em casa, mas a conta , com lucros recordes para atender ao mercado, serÃĄ a mesma , vale salientar; privatiza que piora.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:39.674335",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDVIVW5lSlI0dk9HTkY4N0lpLVpyZ0NQeUdyOEk5cmpSbXZhUDhMbDdSMGFwUmpNMndqMERTamVSR3Z6YnJVTEVHdWpyUXFpVTdHTFFYX010MV9QdDIzbV84b0Y1OEo4WHBnMUp0Z0tDbnhkYXU0eHhiRllCVm8tMGV0enBhWkJqb1U3aXlkQ2tGbDBzWnE0ajFEN2JUS21mNFpFZnI2WXFicW9JMzBrbHFSa2VYY3l4Y1hGTklObjIxR2lyd2x6bUpB0gHPAUFVX3lxTE9MQkFfdWNfcFltVVRfTjZGS3hvSnlxWlA3NXg1djczQVhZWFM1U01LRHhiQ2NrbmtmN0k0WHQ1Wk9rSWtLMkVrUFVsY21TcDM2dkhHZHE1WGwta1FWZF9YSUgzazR3bG4xMTdJR3lBdmc3U0hDQmVCZk10WXlCNmpMN2lCRDJ1R2pJWVF4b2FEd18xTjlzLVQyN2o3Zlc2RHNwNjg3bkIwWVE5dDhYTFdjS0c2Z3FzMDJzRkhBSFBwQm1nSWphR2psWktEV0Qzaw?oc=5": {
-      "title": "Pedido da Enel em SP de prova pericial é ‘diferente e estranho’, diz diretor de agência federal - Estadão",
-      "summary": "A **Aneel** considerou \"diferente e estranho\" o pedido de prova pericial da **Enel SP** no processo que avalia a caducidade do contrato de concessão. A agência técnica e a Procuradoria já opinaram pela improcedência do pedido, que busca analisar falhas na prestação do serviço após eventos climáticos. A decisão final sobre a rescisão da concessão cabe ao governo federal, e o Brasil nunca rescindiu uma concessão de distribuição de energia.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:51.551996"
-    },
-    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DNFJvR2htU2dFdmhnQ21qRE5WdXhhZEZDcFJJOGVaRmlaNXNBaXMtamI3eVVzaGJVZVEtemFPZ0l6RGlOaU4xYXhzdjRCOFJv?oc=5": {
-      "title": "Tag Gerusa - MegaWhat",
-      "summary": "A diretora da **CCEE**, Gerusa, afirmou que as vantagens do mercado livre de energia para o consumidor vão além do preço, destacando o poder de escolha como principal benefício.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:51.552047"
-    },
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4V3NncG1YOHFVclpEREN1TXJBWngtMGY2NVp1N0V4dVU2bjYwZ3NyOFlXZlRIZ1F5LTA3MW9PSEFCMmtEOTRRaUprLVNwelpQbUlKU1FMdW5HVGIxUXhTUDdn?oc=5": {
-      "title": "Tag Evandro Vasconcelos - MegaWhat",
-      "summary": "O vice-presidente da **CTG Brasil**, Evandro Vasconcelos, avalia que há uma \"falsa impressão de sobreoferta de energia\" no Brasil, projetando um aumento nos preços devido à oferta de contratos, especialmente para a grande indústria.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:51.552056"
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mc0NKOXNCQ2lQVkQzZnJMVkQzSUtsNjJjUW05Rzh3TDVGSjFQa3M3V25HNHRHMlpkZVJXbWxELUFyZy1vcXJ3VnQwWURLMkJjZUFTMzFhOENaRVk?oc=5": {
-      "title": "Tag Tiago Medeiros - MegaWhat",
-      "summary": "Pedro Vidal sugere que a criação de uma clearing para o mercado de energia pode destravar a liquidez e reduzir o risco no Brasil, trazendo padronização para os contratos, mas exigirá adaptação dos agentes e novas regras de operação.",
-      "source": "",
-      "added_at": "2026-08-21T02:00:51.552061"
-    },
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfd0tKaWdCYXZtWDJhYmhuTGFHNmp0ajhKMG5JcmtYVy1SS042Yzg2ZUVJLUFDOVNqMzlQSkJFSGNnRTZLMEFtVUNLcHdZdS1xdnpZNjUzTTRDNzZVY1E1U1dXNzJUQTRESmxuLVcwemxZVW1kdXc5Z2R0Yw?oc=5": {
-      "title": "Maria Clara Machado, Autor em MegaWhat - MegaWhat",
-      "summary": "Planejamento Tolmasquim defende investimentos em transmissão para acelerar a transição energética O diretor de Transição Energética e Energias Renováveis, Maurício Tolmasquim, ressaltou a importância das linhas de transmissão para a transição energética no Brasil. Segundo o executivo, o momento de investir em uma estrutura robusta de transição é agora.",
-      "source": "",
-      "added_at": "2026-08-21T03:14:01.826708",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03UnRmYUo1SmdIcEJzNDk2cjRQdUY4MUhoSERzM091ZTBxYTA2R3Z4T09lLXd4NG1UN3ZPLXU3ekYxZHRRTFJJbzZoZUozZkpMMkd2aXZpWVk5TjVUMHNFVw?oc=5": {
-      "title": "Tag Micropower Energia - MegaWhat",
-      "summary": "Executivos do setor de energia alertam que o Brasil pode enfrentar um **déficit de energia em 2030** se não houver uma revisão dos sinais de preço do mercado. Distorções no modelo atual podem levar a decisões ineficientes de expansão e dificultar a preparação do sistema para maior flexibilidade.",
-      "source": "",
-      "added_at": "2026-08-21T03:14:01.826759"
-    },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTZZWVdBY2djYWtGS2VwUFExVVBkNFFOQndkQnNnVWd2M2JrbXJZOURVdFNkcC1RMkRVajk4ZzdwNGgtaWVRTk5DdlJ0UEROdHhRc3lqeTJ1WUdDWWlua1pSOWs5YTBKUWF2cTRDd1NuS3l5R2J6NnYtZ1FacVVyaEZVazdoX1NXczFnQTJscjBaTzJ0OXB6MTZDY0dFQ09wSkxhTk5DQ0tTM0FwQmRzcnpzc2U2NDlZcUw3N2JoSEdPWmt6dU82YnM1ZENNdEhlRXJBdVNyallsTG1oTUVZWHFQaw?oc=5": {
       "title": "Petrobras acha petróleo na Margem Equatorial e ações sobem; veja o que pode mudar para a companhia - Estadão",
       "summary": null,
@@ -3461,7 +3399,7 @@
       "source": "",
       "added_at": "2026-09-01T14:49:58.289410",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeEtMZEdFWjZnVklpZWhySGIxaURFOUxTRGpGemdOLWtHMXFfbkgtbWVaMERQSV9rODNWTGN2bS1vQVNUMTdyVzJGd0hOOGw2SDdQS0Ffa0t5TktJZzFyUE9hVHZCZ1lpX0NlUm5FTmNBZkFzd0xXdl9idmczZXBvN3lGazBjZDZTVS1GNjlfUW1oNEhwdmY2QS11SHNnU1VNN0JZU3R5ck41dG5SM0Z1a2JjRXFnQ0UzVmZ1NlpGNA?oc=5": {
       "title": "Setor quer aproveitar esforço concentrado para rever ERCAP de geradores - CanalEnergia",
@@ -4125,7 +4063,7 @@
       "source": "",
       "added_at": "2026-09-03T04:17:31.966432",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhIWEdTWGxpSUFIYWV5QkFmaG1fM25jQVJPVlVHWmVYXzktT19MWjM5R2gwenFxNkE2QW5DX3k0VEJkcXZIeEFPT19CcTV6WkdVejN2U0dRekhuTnJIeFhWbTItZ1VVS3pFN0lEejhrTUJCREl1bWlKdDNNN0RieThielVzNWI4ekYzcW84dUtydGpyN3hrekxmSHhiSGxoMlZvVXE3cW80SUJ3cFNJaHYwVXVkMmptMGxtNA?oc=5": {
       "title": "Gás natural será uma das frentes para atrair data centers, diz Silveira - CanalEnergia",
@@ -4133,7 +4071,7 @@
       "source": "",
       "added_at": "2026-09-03T04:17:33.603667",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQelJRMUlnZjBmb2Y3SUY0RjZ5cnJFeVF2RFhyWjNtUU5KMTByLWQ1TzdVNllSbk01Uldka0FxdFU2U3d1UjFkcXFQZFJYTVlWNGk0LV9JS1lPMjdfZFJLams2c3hjcVJvVnZ0Q0dGUXJ0SV9oOHM4OUlDdWhBZGszcFZIMlJ3bE11VHJGNDc0ajJ2RFEySkxPekotdnNMQzg4RjQyYVk3bUoyYko2MTNQMDNqWQ?oc=5": {
       "title": "Modulação de contratos penaliza solar centralizada, mostra Dcide - CanalEnergia",
@@ -4141,7 +4079,7 @@
       "source": "",
       "added_at": "2026-09-03T14:29:43.136034",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3ZFb2gwQzZVVk9UdzZOQmprSW1zXzJMY3ZWLVdqcXpyQnE4X2pjWUZ2WWRqTDNzYzF3VGVIU25pbk4tTS16UW1CY296LWRiNU51Q3FtcHVHWmpZOFlvcVp6UnY1Z09uUVkwbXJxblhmcEQtY25Pek42WVkyZDdlUW9GV3RyVEhZNEYtVy0xeWhuTnZQUHlMNDlSSng4VllsdXdyWHk4Sy1QYVhjbFlJ?oc=5": {
       "title": "Ausência de biogás limita alternativas no leilão de potência - CanalEnergia",
@@ -4263,7 +4201,7 @@
       "source": "",
       "added_at": "2026-09-03T20:58:33.828447",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblJWY1N4d0hqV1NTcmFjb0tzUVlfMkNiWmVMbFFIaVpMLTNvcnItblJ4bkt2Zm9IZ042Z3NzSk9xSkJ2bmdwWllCTlRxSzF3S2htT1E0bzNtRkk0cUVTUnZ1c2lCYnVIbEU4aVRlUVphNmlndl9xUTE3YU9EbDBIcjlxXzBXOEFUczBmSkdxT3I5bkYwWkEyVTVyV0g2LW9FYUlVOFJ6RHA0S0pJbThReDhOSjhaVm8zZ0toONIBywFBVV95cUxOT0N6eGRGVHd4Tk5pdXB4ZTJYNzNTTHZJc0lmQlowU1d6aUFCMHZFdXBMYzNaWmU5RlpDREx6QXVWM0pyWlRJMEhucUhLRlVlaTFOc3ZvTVF0WmRGSGVyUVNRXzY4MDhnY1doem1oT1lCN29pOTVsRVhtYlVyMjhzZXEtWHNsS0ZSRk1fbVEtaGI2bTc2bDd3c0dDdWtEcjlOMDNyRWZnejJ2cVc4LTc4QTBsZGJ1V1hMYUFzcGxUS0puWG9abE9hSkMyVQ?oc=5": {
       "title": "IA amplia demanda por energia e desafia data centers - Valor Econômico",
@@ -4271,7 +4209,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:22.113203",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1ppZVh3cnp3Y001bWpIdlVHRTc5ZVVELVZfVG1BemhlMGFtS3d5Zmx2VzdnUGRKLTRzWU1UQmE0d2Fyc1laOEZLN3B6X2RwRkZkS0RlRE5qM0FCNHBjVmZwS0lrMUc5MzJhSGh0anRDb0dUTVB2NHp4RHFFQklydDZrQXdRUUUyc2tYcW5Qcl94RWJ3UjhRNzY0MkhnUQ?oc=5": {
       "title": "ANEEL altera estrutura organizacional e atualiza regimento interno - Agência iNFRA",
@@ -4279,7 +4217,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:44.400252",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0VoV1ZmZ2FqQUZSdzkzbXVWa1Z2TUVtYzhFc3dNbnNveWlEdmdTcGwyaERYTzVPWmpfdXpvaHhnSVpFTXNWNkRVcWV3Ymc4ZnJ4Z3VIZTZNRVE3aEtpTmRfUjBlUWJicnRsVGlrMXkwbk95NGw0Z2hhX0tNWHAxbGljZUNnSDZJWWVLTg?oc=5": {
       "title": "BYD lidera emplacamento de ônibus elétricos em agosto - Agência iNFRA",
@@ -4287,7 +4225,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:44.400295",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ0loWUxnb1Q3YU9POEJuSzRfaXdPV0N0TUotM2JvckZKZHVpYVNuT05YVDRkMXNwSmZJYjktWElUOWJNekJYRjFyVHlDVWdZcGk4a241ck4yUnpLSlN3X05DU2pSTC1lWnZxNUNac0g4VUlJek5sVVIxeFRnSUY5THVoQkJ3RE5Xd25UN2VpS2ZfSGhrMEhpRUM0SmNhMllZNVVHVGxBQkpPZW42UDc1aTJESDhXczI4aFZqRnYxek0yaTln?oc=5": {
       "title": "Conta Bandeiras repassa R$ 232 milhões a distribuidoras de energia em setembro - MegaWhat",
@@ -4295,7 +4233,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:44.400367",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUxMbG5EWEJ3QWlzX2FUWU9uX2NVbDlrV3NsU2UtdWttMGRNOW56QjRvLU9kWEx5Mm9WRy1rZ0YtOGJ1bzFEZUx4Z1JXYTFkT1h0TjNtcFJwX0c0VjRSRnhsSmI4TUlyaEhFUl83cFBUWVpHV2xIQWRva1ZENDJrTFBOaTRtUW4tQWtpWkp4WTZ0WW5pUllmaXhMRDJLc19R?oc=5": {
       "title": "Usina Paciência, da Cemig, retoma operação comercial - MegaWhat",
@@ -4303,7 +4241,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:44.400450",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWdtZ19LS3ZWTDJzTk94cF9aQWdqNTMtMTFwTGN1Z1JuTnQ5MWVCSUZIYzE5UXF0QzVha0w2RlBIRDY5WTNyc29ydHNFMjBvNXExZlRMekg1RFBkYUtWLTkwX1dYY3N1U0xiZXFSVkhsWUFmSU9CbTlvSzlzcmxCdW1tZmRtVVpwZjAwU0xwaThlRUVPWGRKOWFyTk5tMkxSajZidWJETTRydw?oc=5": {
       "title": "CCEE coloca mais cinco comercializadoras em operação balanceada - MegaWhat",
@@ -4311,7 +4249,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:55.277510",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWc5Ty1KZzh3bU05RTZxQ25GbUVTVVFIU1d1LXVnSU0xUVBIaHhSNlhaWE40ZmphYzNaX1ZpaWl5SXlFX0YwcHVQSk5fUWJ5dHRtbkk2VnJrREs1WDVvclRsVHd5OXQzbTR5N2tNVUw5N3U5T1ZXTWtYUUZIUUV6clR1QUNMV1ZhZ0lMdUxJX2ZkSUhQVElxVnppM2VickgwNWIyNU1SMGx3bHNDNm9Gag?oc=5": {
       "title": "Petrobras reduz projeção de GNL importado para térmicas em pedido à ANP - MegaWhat",
@@ -4319,7 +4257,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:55.277623",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkb3ZyNGVlaFVHcGNXdHAzWDRfbkhMeEpoLUlHWEJPYjNWOUNBZGx3M3VWd1BVNTRtWXdLUUFKbUFDRWxzUC14UE1VMEVQYTQ?oc=5": {
       "title": "Tag Padis - MegaWhat",
@@ -4335,7 +4273,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:55.277782",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUh3ZXRjbmFndno0T3JJM1VVQVg1YjJBQ01LTkpGSTllWjdOdVhMc3BiaXdiU0p1WG1oZjRIUzVnNzR5NHFMSTFuTUk5U0NfcW4tYngzMWpkMTlqLWsyOG9FU2VJaURHa2ZZV3hEU1IzLUsxOFRHczlDYmZxcU5xdVpfek94RWtZRWctRlNuT25RSFJ0eGczWjdlWmlEbXJOVFdHMHJRSGRfanVi?oc=5": {
       "title": "Comissão da Aneel detalha fundamentos para inabilitação da EPP no LRCap - MegaWhat",
@@ -4343,7 +4281,7 @@
       "source": "",
       "added_at": "2026-09-03T21:00:55.278000",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWh1MWU1bUdBVFFsd0E2QTZxVXIwNEV3enMxRVBrUTl2anIxWkRyVjV0S0dzMXhlbXMyVTV2MXdWeFRzLXlaV0FhRUc5Z1JJemcxSjVEXzZ3V3BPcmRHMEU2eHlqRS1Yam9jeVhOSjRMTnBCMFdzVWR0bjdTTDREZU03UHVNY2tZOTlNV3h5UjBJYzF3ajJ1emNmQmZsbGVwbGxQdy1DYnlHZWJDcWM4dlNMSzJPVDY1SFE3VQ?oc=5": {
       "title": "Preço do gás para indústria sobe 16,2% apesar de maior produção, diz Ineep - MegaWhat",
@@ -4351,7 +4289,7 @@
       "source": "",
       "added_at": "2026-09-03T21:01:08.142493",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PNTJNLWpCT1hBUVB4NUh2cFF0Skd2ZEhiOTZsOG9jRDB6RHJtbWlzY2tyZVBSODRzQ2ViN2JPY1hjcmRLRlpVYjZMN3EzcGVYZThHbm9R?oc=5": {
       "title": "Tag CP 17/2026 - MegaWhat",
@@ -4359,15 +4297,13 @@
       "source": "",
       "added_at": "2026-09-03T21:01:08.142555",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUNTUEcyWkVmQmZnTTNFcEVpcFFkQkNQd1Y0ZGFWX09idms0a0w1bmIzajdyWUluRmRQcHNqdHhzakpkRmY4aVdkTzk4T1dlZUVfZmtIcW5KZ0NibWQ4WF9LekY0Wi14OWtVSVhlN0JHUHZDRmNUbllGN3JFZEplaWExanNxT0F6OFV3dG9kTVJ5ZlRCQ29HYS11aDNfLWtJc1NQUmlQU040UlFsWjBnSzFIQ01ock52ajQxSTdn?oc=5": {
       "title": "CCEE defende autonomia para sancionar agentes em casos de irregularidades - MegaWhat",
-      "summary": "A Câmara de Comercialização de Energia Elétrica (CCEE) pediu à Agência Nacional de Energia Elétrica (Aneel) autonomia para aplicar medidas cautelares antes de comunicar a agência e insistiu na manutenção dos termos de compromisso e de regularização no novo Processo Sancionador de Monitoramento (PSM). As propostas constam da contribuição apresentada pela CCEE na Consulta Pública 17/2026, cujo…",
+      "summary": "A **CCEE** solicitou à **Aneel** autonomia para aplicar medidas cautelares antes de comunicar a agência e defendeu a manutenção dos Termos de Compromisso e Regularização no novo Processo Sancionador de Monitoramento (PSM). A proposta visa agilizar a resposta a riscos e irregularidades no mercado de energia, evitando o agravamento financeiro de agentes. A consulta pública para sugestões encerrou em **24 de agosto**.",
       "source": "",
-      "added_at": "2026-09-03T21:01:08.142749",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-03T21:01:08.142749"
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTdnYXktRURzMTRBNjZWWm1DeTVhRGwtWkdoS2ZoZ3hoMXh5WnpmV2otdlJLYVliMkQtNmtUZ2lzZ1RqYjV2RUZUR2hjemw0dEJNaEc0WDF6SkJTbkdieS1fZlRyd19tS0xLVGRpdFRUb3NiNEx5Zm81Z1c4NFNmU05FaWlVMi1MWWJRRDVXaEpLSE5aaF9VZkNNMVlBUGtubV96U0UwRnBSa1k?oc=5": {
       "title": "Aneel muda comando nas superintedências de geração e redes - MegaWhat",
@@ -4489,13 +4425,45 @@
       "source": "",
       "added_at": "2026-09-03T23:16:44.418256",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVZOdTZKR2xQeldhdjZUUGhRRkg1dllYSjlnbmFWSkg4ZkhfMFlBaERZaFl4MUlZVkxOcG9nNHBFeDE0NU9felA4X2lRbHdhOGJoQVk0WE0wX1JpOXpGNTZmazBaT2NjbDA3RGE3QlYySFp0Q2pCamZiWmpFUjZRME1ydHMwR2FOR2lPdmczOFVxc0xHYVVJNU1VSHJLSkhFMmhqbFJoV3c?oc=5": {
       "title": "Leilão de baterias: agentes pedem edital sem menção a custeio por geradores - Agência iNFRA",
       "summary": "Geraldo Campos Jr., da Agência iNFRA Associações e empresas dos segmentos de armazenamento e geração de energia pedem que a ANEEL (Agência Nacional de Energia Elétrica) não faça nenhuma menção no edital do primeiro leilão de baterias fixando os geradores como responsáveis pelo custeio do encargo. O pleito é que o tratamento no texto seja mais amplo e genérico, diante da possibilidade de mudanças…",
       "source": "",
       "added_at": "2026-09-03T23:16:57.483709",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NFVGQ2M1bkRoWmJkY0dKUW91Wk9yMVJBa2JRMTUtd0dpRTNVS3hZY3dYTjh2TUhXbnByR0dBdVZtR3kzeHFRMVg4NHhxSTVxQkJrTXVob0NlTWY3WGM4VkpuZjE2NmRvVmpEOEg3a1dIQ1hZQ2xibFZXc29RSk0?oc=5": {
+      "title": "Natália Bezutti, Autor em MegaWhat - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-04T04:24:24.172380",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEg1b2ptREx5NDB6Zm81el9SUmxURlNkMFJranBWS1RnUTdTT3VOTV9PamVHbGxzdkVzeERuR0JmWkktTklFR2VwLTZPVDVZNk5oVFRTSXdrQTEyUmgzLUVVQ1NZUUxDYVlCTk1IZWtSX2hoM1o5ZnlQYWNXekszZmYzZE1MRXJsUDQ4OEstR2hRenhRUXFMTThWaEVydw?oc=5": {
+      "title": "Âmbar prevê R$ 5,5 bilhões para modernizar rede elétrica do Amazonas - Agência iNFRA",
+      "summary": "da Agência iNFRA A Âmbar Energia apresentou nesta quinta-feira (3), na Aleam (Assembleia Legislativa do Amazonas), um plano de R$ 5,5 bilhões para modernizar o sistema elétrico do Amazonas até 2031. Do total, R$ 3,9 bilhões serão de capital próprio.",
+      "source": "",
+      "added_at": "2026-09-04T04:24:55.871674",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzM5V0wtLXppYXpyang5d3d6MU14ck5YRktPZXNqNlRzMERFajJvaDNBYWIwaW1uNUF2UVpyeThMLU81ZFA0ZjdIbl9NRUd4UkdOYXRCbWdSTk8zU1FpUWVHc0U1OGJ4TXU3TlBxQVBfVUNsaXRJRGxqR3otQUsyVm5NQUlHRzhOWXVLMmFtSjQtd1Q4c2wzXw?oc=5": {
+      "title": "Luciana Maia assume diretoria financeira e de RI na Neoenergia - Agência iNFRA",
+      "summary": "da Agência iNFRA A Neoenergia anunciou nesta quinta-feira (3) mudanças na diretoria financeira e de Relações com Investidores de cinco empresas do grupo. Luciana Maximino Maia foi eleita para substituir Renato de Almeida Rocha, que apresentou renúncia ao cargo de diretor de Relações com Investidores.",
+      "source": "",
+      "added_at": "2026-09-04T04:24:55.871748",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FNDdVLVZSY1J3NTdaSThrLW1zRWFTbkZmd1dGSUtFckNxbFlsRllDOUNlRkJCdlBDcjhDZmd0OWo1NkVTbXljenlPM21ub2RScGlkejBaVHBVRW43SGRVREQxNGc1RmJvbjdCc3hR?oc=5": {
+      "title": "MegaCast Convida - MegaWhat",
+      "summary": "MegaCast Convida MegaCast Convida: Derivativos de energia O podcast desta semana da MegaWhat debateu os novos instrumentos que devem chegar em breve ao mercado de energia brasileiro: os derivativos. Para debater o assunto, recebemos o presidente do BBCE, Carlos Ratto, para uma conversa.",
+      "source": "",
+      "added_at": "2026-09-04T04:25:07.739382",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
