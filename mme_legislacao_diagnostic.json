@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-04T14:22:03.901592",
+  "last_run": "2026-09-04T18:24:28.760145",
   "total_collected": 238,
   "by_category": {
     "portarias": 200,
@@ -7,9 +7,9 @@
     "portarias-interministeriais": 10,
     "leis": 5
   },
-  "new_items": 1,
-  "pending": 11,
-  "done": 1,
+  "new_items": 0,
+  "pending": 10,
+  "done": 0,
   "failed": 0,
   "pruned": 0
 }
