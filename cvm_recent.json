@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-04T14:54:38.645671-03:00",
+  "last_updated": "2026-09-04T16:57:59.540129-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Dividendos/Juros sobre Capital Próprio -",
+      "data_referencia": "20260904 04/09/2026",
+      "data_entrega": "20260904 04/09/2026 15:16",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Dividendos/Juros sobre Capital Próprio",
+      "protocolo": "1565092",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565092",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-09-04T19:57:55.148654"
+    },
     {
       "cnpj_short": "01862-7",
       "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
@@ -5400,60 +5418,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-08-05T20:53:26.744693"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260701 07/2026",
-      "data_entrega": "20260805 05/08/2026 15:59",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1552495",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552495",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-08-05T19:54:47.697665"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260805 05/08/2026 15:58",
-      "status": "Ativo",
-      "versao": "3",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1552494",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552494",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-08-05T19:54:47.697662"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260601 06/2026",
-      "data_entrega": "20260805 05/08/2026 15:51",
-      "status": "Inativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1552493",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552493",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-08-05T19:54:47.697653"
     }
   ]
 }
