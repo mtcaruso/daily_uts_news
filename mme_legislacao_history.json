@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T04:32:53.981806",
+  "last_updated": "2026-09-04T14:22:03.897233",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3371,6 +3371,19 @@
       "summary": "Regulamenta abertura do mercado de energia para consumidores de baixa tensão (< 2,3 kV) e suprimento de última instância. Define regras para o setor, conforme Lei nº 9.074/1995.",
       "added_at": "2026-08-13T15:14:52.777478",
       "summarized_at": "2026-08-13T15:15:13.449842"
+    },
+    "leis_lei-n-15-496-2026": {
+      "category": "leis",
+      "label": "Lei",
+      "slug": "lei-n-15-496-2026",
+      "title": "Lei nº 15.496/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-15-496-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-15-496-2026.pdf",
+      "date_modified": "04/09/2026",
+      "ementa": "Institui o Programa de Desenvolvimento da Indústria de Fertilizantes (Profert); e dá outras providências.",
+      "summary": "Institui o **Programa de Desenvolvimento da Indústria de Fertilizantes (Profert)**. O ato normativo também trata de outras providências relacionadas ao setor.",
+      "added_at": "2026-09-04T14:21:55.708650",
+      "summarized_at": "2026-09-04T14:22:03.396890"
     }
   },
   "first_run_done": true
