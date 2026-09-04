@@ -1,60 +1,6 @@
 {
-  "last_updated": "2026-09-04T20:46:01.732981",
+  "last_updated": "2026-09-04T23:02:31.726733",
   "items": {
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkFzcVFrS0t3eXAxRUFhMjNMMDVseWhTSEd6OEVfZE5JbUZqTnRiZGRVd3VyZ2tlZVlRbFk2WjZtUmxlQjZUSTdXZVRLZHhNZ050NENZSlV5WjZKNHE4Z2JzdGpxaDM5MUtNUm1iOF85VnpaLW5yQ1NVcVlJMnQ2U2pQcGVudmdVeS1pYnpFeU1BREZhRE9EanVRSWtwUE1teDlVUzBnb3F5Rkk?oc=5": {
-      "title": "‘Precisamos usar nossa energia limpa como base para uma nova indústria’, diz Marina Grossi - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-21T21:35:35.435845",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdjNfOW9jYnBPNU9oUk90RllXTzhqakZUcXdrQ1UxdDJGOVRCUTRJbkRDOGpyOV83N0hrSnFVRjBVUTFId3FROHR2TWcwRzZHZVhNc0s5cFIzRm1jMEJ5SFdLdll1eWRyQjlkS05XQXgydU5fSEI2djhDai1rR3BISy1UcWdLcnFHWXUtYTNXUVNyNkgyMVJLeG1uZzgzeUhYNTBqQlJuaGF6dw?oc=5": {
-      "title": "Carga no SIN em agosto terá crescimento de 6,3%, aponta ONS - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-21T21:35:41.926885",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmJGQ3d5Y3ZlR1lOTUpLYUZ0OHNmd3ZwRHpGa1N3eEJyeFhDellLU3MwNGIzeXBlanpwdHFHLXM2X0dSYzhqc3IzM2dOckhsb1lhSzJrMXgzZl84ZTdFTTNiWWw2WEVVZ2lra0YxVi1hVDhGeksydHU2b2h1djZrUHBjVGlWbUdsSTh1aDVBelVpQktlNnNKdm5YTENQNkE40gGmAUFVX3lxTE1LeU91S0VkNWZlajVNMzFhTWFEdF9yR3lxaWVXNUZCQ20zV1VxdnAzd3VQR3JYaFpQakp3VTNrcmVJZklZQzR0UDZQSjRHMnRxcW92RzVwaEQ5UU9DOExHYjRoTjFhTVY0U2djVThJYVg3SlJqSTFWVWZhdWFnaHFTOXliZ3FjdW9seHc2TkU0SmUybUpOTUZGYlNEM1hDMUpOUjJQaGc?oc=5": {
-      "title": "‘Precisamos usar nossa energia limpa como base para uma nova indústria’, diz Marina Grossi - Estadão",
-      "summary": "Gerando resumo Um dos caminhos que o Brasil pode seguir para conciliar desenvolvimento e preservação ambiental é, na visão de Marina Grossi, presidente do Conselho Empresarial para o Desenvolvimento Sustentável (CEBDS), conseguir valorizar a matriz energética limpa que o País tem e embuti-la no preço final de suas produções. Segundo ela, no Brasil se usa energia de fontes renováveis, com pouca…",
-      "source": "",
-      "added_at": "2026-08-21T21:36:03.940946",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEVkN0hPclhCZVFyRGVqaWNZX1hHTW1vNm5iM2Y3di14WUkyUzctdEZDSkNuRVQ1UlRFZ1VOeEl1cEJOU1lBNmU2czBuNGlPTkpyT1FtYlVBcGo0U09XdUFFNGZ2LXBuZVozNTVYeGFPeW9XN2kzMjRZYktKUWRiNnl4U2ZZRnl3b2cydjEyUlNqUVRLM21yQ3BVS0Y1MTQ?oc=5": {
-      "title": "ANEEL sorteia na segunda (24) relator de custos do leilão de baterias - Agência iNFRA",
-      "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) sorteará na segunda-feira (24) a relatoria do processo que tratará dos encargos do leilão de baterias, previsto para dezembro. O item foi incluído na pauta de sorteio e caberá ao relator levar proposta de abertura de consulta pública ao colegiado para deliberação.",
-      "source": "",
-      "added_at": "2026-08-21T21:36:03.941010",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1lKaEc2VHdLSXVpQWZSRUpWQUl1QzdINGZqUGl5U2Y4d2RCQ2RtcWtXZ0Rfc2s2a3NvOGJXZE5CdnNHN1ZLd0wya1pWOFliVU9xaWdsRGVQZl9qUFpqOFllWEJ0aXhuTFJfT1JmcEhmNGhYaXp1M3FiaEtaRGNYcU1DQnNyRlJiMGE1QzRUZzI1OVc4c3VlRjBrYUVQRklfRUdpME9vSG5uOWtmRHRIcWN3WGd4bmVja0xFZnhOeW1VUGJRTVlIdzdfa3o?oc=5": {
-      "title": "🎙️Por que os data centers são o teste mais difícil do sistema elétrico hoje - MegaWhat",
-      "summary": "No MinutoMega desta sexta-feira, 21 de agosto, a jornalista da MegaWhat Camila Maia traz os principais pontos discutidos na terceira edição do MinutoMega Talks, em São Paulo. O episódio percorre o debate sobre flexibilidade, data centers e baterias, explicando por que o porte dessas novas cargas muda os critérios de operação e planejamento do sistema, e como elas podem se tornar parte da solução…",
-      "source": "",
-      "added_at": "2026-08-21T21:36:03.941436",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDhvanNqQVNBR2owYXlGMklzd29kQ2QtOWRGWURObFVQSzlSSEhvckkxV1Rtb2tyMkpMWUcwSnp3cG5jLUJOWWN1RENWTUtLSml0X2E0djRXcXF3UG1kaDBpaWpiODJQWXVmWkRablFIRGJPd1oyR2owUzExSE9XdVNrZTFEdkpJU2NkRzhZTDhDanVCMUx3N0twVEstd2xJZWRTUlJVck56NWFtQS12OXJOeFJDWWZkMlE?oc=5": {
-      "title": "Axia Energia transfere ações em tesouraria e fecha acordo de R$ 1,3 bi - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-08-21T22:37:47.284936",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVTVXUW92MHB4UDRZZTlzT0lmUlpybU5NOEg4QUI2YjFtN05SZDNoLVdBWHFrR05UWXdmeXk0eG5TMmtJTHUtdmRab19Xc0h4M3Fsb004MUxLQWlvcUpGMm9rVVBHS3N3WEFVYUZrX2RQV0JyRU83RTBLYU41RVJmZDEtRTR0YkRKX004QnNjOEJtbC1XZGxSdUF6MTBqR3U5Sm9UOFhFSDlMUmQ0TmZJdnVuVng3cDhrQ05LUXdjRDFtUTZ4YTU40gHWAUFVX3lxTFBmZWlnQThYb1hSdTdqaGxINEg3WlpWUkNwUzM0d1pKenYwYldPNXJzanNlakRBYTJJdlNJR2JDR3VBaGt3ellTYTRIdlhHcEF4MktVNDRLQkdZdF9NZVE3RENXNmd3MDgxQ3I1NXlEeV82UGdWTVg1UDZmMzlZcl9jcVlTdFJjREE3akoyY3VzcWhtUnR5OWtjV3JZdjNsOEl0SXNhTU5naUF3YUgzTmM5OFBBTHdVTjdYVWRUTmNFLUN2YzJOeTBuMER0b0JUdUdUTUZ0Znc?oc=5": {
-      "title": "Eneva antecipa recebíveis da Porto de Sergipe I e levanta até R$ 3 bilhões - Valor Econômico",
-      "summary": "A **Eneva** antecipou recebíveis da usina Porto de Sergipe I, levantando até **R$ 3 bilhões**. Os recursos serão usados em investimentos, incluindo novos projetos do leilão de reserva de capacidade de 2026.",
-      "source": "",
-      "added_at": "2026-08-21T22:38:08.773646"
-    },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWkVrU24tWURITnhVTEhuLXkzYWxHWnhTbVJ0M0ZFTkZ5ZHpJMUo3X2dBV01YSGhjUll1Y2k0dWRtQW1Ja1RrQmF0N2o5eTFURUlDUjUtWXpMOHd6MTh2aVc0S1lHQ0ZWSkYxMDIySHZuRDd2cndUd2szTV9aeW1PRUNraWluVHdHZWMzMUZFZC0yc0FwU3BCX0x5T29memRoa3hydnNGY196dlNleDdzSTlkZw?oc=5": {
       "title": "Combustível para energia na região Norte está na mira da Aneel - CanalEnergia",
       "summary": null,
@@ -4039,7 +3985,7 @@
       "source": "",
       "added_at": "2026-09-04T04:24:24.172380",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEg1b2ptREx5NDB6Zm81el9SUmxURlNkMFJranBWS1RnUTdTT3VOTV9PamVHbGxzdkVzeERuR0JmWkktTklFR2VwLTZPVDVZNk5oVFRTSXdrQTEyUmgzLUVVQ1NZUUxDYVlCTk1IZWtSX2hoM1o5ZnlQYWNXekszZmYzZE1MRXJsUDQ4OEstR2hRenhRUXFMTThWaEVydw?oc=5": {
       "title": "Âmbar prevê R$ 5,5 bilhões para modernizar rede elétrica do Amazonas - Agência iNFRA",
@@ -4101,7 +4047,7 @@
       "source": "",
       "added_at": "2026-09-04T14:20:02.245774",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMENUMXc2a1BBdGx0ZnpSbDB0VHVJbWttRC01N25WUnk2ZXNka2JfTkUxeEIwLWVEMkcyM2xYa1c5VjFvamE4emhDSVlLay1BRmNFMUtNQ1RKeU9kU0ZZMFFTNmcyYlQ3Nm9UckRzOHBFcmlaNldEdC1LQmtxRGQ3TWxBVDlTbjhuY240NEFRZC1Tem1vVU9zeUt4RS1XN3hMQjhzNWllOGZLbnpaWTdMU19ZUVFFWHNxSFRrNnhYcmdDWUgwRUdjTF85OEJlaXVDZDYxTUFCNDRMa2g2ak5NejhmM20?oc=5": {
       "title": "Enel aponta falta de análise sobre alternativas à caducidade e pede anulação de processo à Aneel - Folha de S.Paulo",
@@ -4199,7 +4145,7 @@
       "source": "",
       "added_at": "2026-09-04T17:47:52.776033",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYV9pS3UxSUVtWDJUdktBcmVUTTlLQ244TDBkemNRMl95WlZGR21CWVl0WUxmV2lkVXlZT0w4S1BxN1daRzFJUkN0aVdjZ2RWaEdCSHdIN3ZTUkMxQWx0N19HM3VSTDRvVUFGcmZkMzdqTFdGV2RSamxjanBzd3RHU0dvSmI5SXRndHlCcVhDM3RGMjVjdllyN3cwQ1ZGQ3pIUXdqaktId3lJZw?oc=5": {
       "title": "Distribuidoras podem controlar 13 GW de MMGD com revisão de norma, diz ANEEL - Agência iNFRA",
@@ -4231,7 +4177,7 @@
       "source": "",
       "added_at": "2026-09-04T17:48:16.583692",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2dVbFJBTUNoRHpEUnUteFh4ZXIxa2Rpb0dBOWVIOU10ZFdSRmJGWngxODFGbDBIcjNkQktpaXQ3X1E0aTRKSWRVdl9iaUFfNmxfT0c3SjNYVTdtb2FWb1JZLW5vcHFMMURMX0tHY3BGVk9NZkh3VGcza3hTdGJSaWtseEhyeU93Qmx3QXBhRTg4V3Raa0ZsUV9xTkJIR2JybDdMSkNWZUFGVHE1Sl8tOGY3UDlhUWQxc2hMY2dHMmJsS1B3QTI1aWJHUlQ5aVozSnNkS2h5bW8?oc=5": {
       "title": "MPF questiona Ibama após divergência sobre projeto de perfuração na Foz do Amazonas - MegaWhat",
@@ -4239,31 +4185,25 @@
       "source": "",
       "added_at": "2026-09-04T17:48:28.504515",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUE2TlZUTWRSSzg3YS1WTnVUdE5xOGYzU0EzWE4xV01xcUJ2eTc5djBRREhBV2s1MzFSMVRqTVRMOWhiU1l2UFR3a3diSURleEVUY29zYlVsUE5wWTc4Sk45NkhHZXZTSmZ3c0h1S3RJWURualBwUHJmWFNWS0U1ZGx6UC0wOHJ1cFFGcGU5VVBaZjJoUVZDdFNiWUQ?oc=5": {
       "title": "ANP amplia comercialização de gás da usina térmica GNA I - MegaWhat",
-      "summary": "A usina termelétrica GNA I, que já tem autorização da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) para comercialização de gás natural, solicitou à agência a vinculação de sua filial UTE GNA I Filial à outorga para venda da molécula. A agência anuiu a solicitação e emitiu uma nova autorização, vinculando a filial ao mesmo registro de agente vendedor da empresa principal…",
+      "summary": "A **ANP** autorizou a vinculação da filial da usina termelétrica **GNA I** (1,3 GW) à sua outorga de comercialização de gás natural. A **GNA I**, localizada no Porto do Açu e controlada pela **Prumo Logística**, opera desde 2021 e é abastecida por GNL.",
       "source": "",
-      "added_at": "2026-09-04T17:48:28.504636",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-04T17:48:28.504636"
     },
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FYnFfTHpjTXRZWVpJcGVOTzVXT1VmZy11NlRUMXNUblQ2TEpHcnNfZ0F0eXE5ZTRhQVMtcXRLY1pIcWJ0cWhFQ3k4SVZRSGRJU1FCVlAtODRobmVaVmEzSjF4WjljUQ?oc=5": {
       "title": "Tag Âmbar Amazonas Energia - MegaWhat",
-      "summary": "Interrupção de energia Amazonas tem novo corte de energia com desligamento de térmicas da J&F O sistema elétrico do Amazonas registrou uma nova ocorrência com interrupção de carga e desligamento de usinas da J&F na noite de quinta-feira, 3 de setembro, cerca de duas semanas após um evento que havia interrompido 294 MW no estado. Desta vez, foram interrompidos 169,4 MW de carga após o desligamento…",
+      "summary": "O sistema elétrico do **Amazonas** sofreu nova interrupção de carga, com o desligamento automático de **169,4 MW** em usinas da **J&F** na noite de 3 de setembro. Este é o segundo evento em poucas semanas.",
       "source": "",
-      "added_at": "2026-09-04T17:48:28.504670",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-04T17:48:28.504670"
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTdPNzdFZXVSRUk4UEk2RVNTd09UWi1EeHE1YXY5a2k5S3ZEV3UwZlZrV2ZEMkVxYWY2ME95WUR6elFIT3ZQaWtPNXB2NXNuRDJTOXhCaWtybVgzbEhFaHZxTXpra0tyT2JyMzU5VjlQX0FUaXVVZjREM3I0S2wySW5DRXVoQmdTYU1mczhyYVRCcXNIZEVleVRvMHFsNW5SdjB6NlprNk5leTVLdjdfQmJFejd0Uk9TN2dJRWk2UXAzZGVHOGxZR1FuSUlVbGE1?oc=5": {
       "title": "🎙️Mais comercializadoras na mira da CCEE e abuso de poder de mercado em debate - MegaWhat",
-      "summary": "No MinutoMega desta sexta-feira, 4 de setembro, a jornalista da MegaWhat Camila Maia explica o fundamento técnico da inabilitação dos consórcios da EPP no LRCap e o que pode acontecer se a decisão for mantida. O episódio também traz a colocação de cinco comercializadoras em operação balanceada pela CCEE, incluindo empresas com vínculos societários que chamam atenção no contexto da crise do…",
+      "summary": "A **CCEE** colocou cinco comercializadoras em operação balanceada, e a **Procuradoria** liberou a **Aneel** para avançar em processos sobre abuso de poder de mercado por distribuidoras. O debate também envolve a inabilitação de consórcios no **LRCap**.",
       "source": "",
-      "added_at": "2026-09-04T17:48:40.235308",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-04T17:48:40.235308"
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1FtbXZIc01YcUc4UXBHdWZHRDhIZVZQSnZwNXNDdUI5OV8xdTVlbUR5WGMwcTh5aWtoRnZfeFZubHVXdGVwdVFEQS12Qk85Wlp6RkZOLWFKdlNkWXVyYlk5QXFHR2FCb3I4dno3OHp6aXhWZlhzeW52MldqWnVwaU13WDNmaUtJM1A2b3BlcWRNRGpHMlduU1h2d080R281S1dvZzNB?oc=5": {
       "title": "🎙️O que por trás dos riscos crescentes da MMGD - MegaWhat",
@@ -4289,7 +4229,7 @@
       "source": "",
       "added_at": "2026-09-04T20:45:19.324386",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXRiUDBhM3lkYnJiNEo5Y0ZEVUFwSDN3UmdDU2VPQktZbGN5bXpXdVk1ZkZJVGZOdmEtblROamdJUEhza09lWEZQMDFRbjg3YUtsVWk2RDJxcWJtdU9OdTA1bDZOQzBqVWtLTWFZTUFwMktSS2hEemhNVVpSOVZpRGpnbkVoRDlfVndiRG8tVnpSX3VPT001dmQ1S09MSVA2OV9wNUpjSWpBNlU?oc=5": {
       "title": "Ibama autoriza Petrobras a furar mais três poços na Foz do Amazonas - MegaWhat",
@@ -4297,7 +4237,7 @@
       "source": "",
       "added_at": "2026-09-04T20:45:19.324489",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHc4czFhTzluY1ZLd0xhODc0NmFGRmtZWmtISlZRS1ZuTGZYS1VLRDVYQVJ2aVZrcFctR044c0lDU3p5RUZ2TUVRRWZRVlY3VkxCcVpCNXhrRHNydkt2TENPeEtrbktyR2F6a2pQMTZzZm9FU2s4VGgwbkN0QzFTLWk3UWZKVXJ4dENoQmRUZ2Z2cm9kNFNoR1VyLWREYVhEbE1QUHlTVFhNb3FzOU4tVF95aWFnWlVqZEI4SW5BT2U1ZkVqS1h3?oc=5": {
       "title": "Aneel restabelece operação de 136,9 MW e cancela autorização para outros 174,4 MW - MegaWhat",
@@ -4305,7 +4245,7 @@
       "source": "",
       "added_at": "2026-09-04T20:45:19.324551",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHRWMmVFVFF4bHB6a29oaTVQdEZ1ekUzZUdDNXVCelFwek1Qa2NtYUtlSGM5UTZfSVE4RExDNk1HdWh1U3FOa3pYRlhVV1l3ai1ZbHBybDEwNGZycEJaLTdJRUp3blphcFFxR3JyalV2cFZLNlN2RnRBWWcycWZqcHFUWVpuUG1KY1kzWTRoUmw0YjdRemxhZUprYnVNZUZsSmpaekNhYXhKcDNrVl9TM1V2S194U2s?oc=5": {
       "title": "Mercado livre vai exigir nova forma de vender energia, diz Echoenergia - MegaWhat",
@@ -4313,7 +4253,7 @@
       "source": "",
       "added_at": "2026-09-04T20:45:19.324639",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPSlY1UXBJT2lxSVduX3J5S3hoX25iNkQyTnRxdVhUeGtocEstYXdYY1JfN3JPT25POG1fanVHcWZ3aVNJVkQ1OGo1dmNRQlpCT2tRMjNDU0k0RGtoaW8tMGFONTZxRzRa?oc=5": {
       "title": "Tag PCH Salto do Passo Velho - MegaWhat",
@@ -4335,9 +4275,23 @@
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb0xiNkhIb2FwenVuZjlZNWtqWTExOHhjSE1DdnVWTWpwalZ0c2tqU0JtY2twSXYtQlVnR28xNFhwbVFDMUk0V0FfWmRWYWZNY2F5WE9TckxsTmZMQXpoVGZ4T0VxNGlneGpRel9NRk1aeDREM18wRkgwTkpETXFJMVN1TWtucUlxVUJDNUE5YVoxZkZISTNSb2ltN3h0ckFBb0R5cDgtQ0NmVjQ2X3ZQbHRmY2FFZ2tRY21ZdFU5SmtHaXVlSnRCMlM0cklOYVIyb1lPTTNSMUgzaEE5VWs5UFUtdDluV0pnb05V?oc=5": {
       "title": "Taesa vê queda inevitável de receita dos atuais contratos e busca saída para concessões vincendas - MegaWhat",
-      "summary": "A Taesa espera a publicação, até o fim de 2026, de uma portaria com as condições para o tratamento das concessões de transmissão vincendas, em meio à perspectiva de redução da Receita Anual Permitida (RAP) e à possibilidade de uma discussão judicial. Segundo o diretor-presidente da Taesa, Rinaldo Pecchio, a transmissora trabalha para encontrar alternativas com o governo e demais órgãos do setor…",
+      "summary": "A **Taesa** prevê queda na Receita Anual Permitida (RAP) dos contratos de transmissão vincendos até **2026** e busca alternativas com o governo, sem descartar judicialização. A empresa também avalia aquisições e participação em leilões, como o de baterias em dezembro.",
       "source": "",
-      "added_at": "2026-09-04T20:45:52.598995",
+      "added_at": "2026-09-04T20:45:52.598995"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXNMSEV6U0tIZWFadlE4VWE3eDNHMmVKTzJlTnQyN1BiVVpBVktzZGJwd3hLTUFLMk1WZ0RvcGhuUGtnbFJ5X2RZcEdWdEFadUsxcTVQZUZPOGV4aG4ya3dKclpyeVdycV8wVnBQbFpucnYteUdWZHk5UlFPY1JrSmtaV0wxRWhZYWl0eklhMkI1NkZQZ3ZqSWRteGZ5NEdUMktfbTNjVjBCUmVkbkpKUTdRWlZERHRTRS1OY2p3a1d0c08tcWVn?oc=5": {
+      "title": "Polícia inicia caça ao homem que assumiu sabotagens à rede elétrica na Alemanha - Folha de S.Paulo",
+      "summary": "A polícia da Alemanha está à procura de um homem que enviou cartas assumindo a responsabilidade por uma série de ataques de sabotagem contra a rede elétrica nesta semana, após encontrar o que pareciam ser explosivos na residência dele nesta sexta-feira (4). Nas cartas, enviadas a autoridades e veículos de imprensa, o homem de 48 anos afirmou que sua oposição aos combustíveis fósseis motivou os…",
+      "source": "",
+      "added_at": "2026-09-04T23:02:09.245532",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWRXcGlrZXpJUTJRTk04WDdkRVdlRWhra0JnMjI5cjgzeV85RWlRSHpxelJBNnpETHcwRV9CM1drcDdDbWNTdExtVWFmOXY0emJWeXBEaFBaclNhMmI4RFkyVjE0QVlLb0VwQWhDMC1yeld2N3F4T09KbkE4Yy0wNmt6QjUxSTVxVFBvZTdSVl84c1ZHVm5zczZwUTY2amtibmdLbzM5VEMwaV9RQWZ1SHhJaHBYbGNRdkVvUG91MnJybmkxZnJfaVZQeFbSAdIBQVVfeXFMTkdDNUM3YVFOMHBmdnQwWTJ2X0ZFVzdLSEs4YVVUZWplMW96ajllOGpYUzJZNFFORXFrRDB3cGp5b3NsWGk4NU90Smhnb1o4M0MtSW90N29fbkQyRjVDSVZHSndOeUlEbnZORDZlbGJ3T3lXSFdTUGtWTW1fcE9yQV9VLWs5Mjl4SE00aFpJZEFWWGpPRzBjemJBbWxfVWllVGtGMzQ0TWRESlViaHZhYk9MM2NpeWgzLUNzVHhIYkxaWXU3eWNOUlhjUm9KOVEyeHB3?oc=5": {
+      "title": "Em discurso de 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial - Estadão",
+      "summary": "Em discurso de 7 de Setembro, o presidente Lula destacará a defesa dos minerais críticos e a descoberta de petróleo na Margem Equatorial, ressaltando seu potencial para gerar desenvolvimento e empregos. Criticará tarifas dos EUA, defendendo o livre comércio e a soberania brasileira.",
+      "source": "",
+      "added_at": "2026-09-04T23:02:09.245711",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
