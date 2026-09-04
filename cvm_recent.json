@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-04T08:12:42.874720-03:00",
+  "last_updated": "2026-09-04T11:56:43.725629-03:00",
   "items": [
+    {
+      "cnpj_short": "01553-9",
+      "empresa_nome": "NEOENERGIA S.A.",
+      "categoria": "Calendário de Eventos Corporativos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261231 31/12/2026",
+      "data_entrega": "20260904 04/09/2026 10:58",
+      "status": "Ativo",
+      "versao": "5",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1564999",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564999",
+      "empresa_label": "Neoenergia",
+      "codigo_cvm": "15539",
+      "first_seen": "2026-09-04T14:56:34.160360"
+    },
+    {
+      "cnpj_short": "02680-8",
+      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Aviso aos Debenturistas - Pagamento de juros / remuneração (CPLD38 ) -",
+      "data_referencia": "20260904 04/09/2026",
+      "data_entrega": "20260904 04/09/2026 10:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aviso aos Debenturistas - Pagamento de juros / remuneração (CPLD38 )",
+      "protocolo": "1564994",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564994",
+      "empresa_label": "Copel",
+      "codigo_cvm": "26808",
+      "first_seen": "2026-09-04T14:56:31.299370"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
@@ -5472,24 +5508,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-08-05T15:24:49.473153"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalProposta da Administração",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260805 05/08/2026 09:34",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1552290",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1552290",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-05T13:10:02.073488"
     }
   ]
 }
