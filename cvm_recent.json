@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T08:54:17.036397-03:00",
+  "last_updated": "2026-09-05T11:04:51.166512-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -4968,60 +4968,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-08-06T15:35:40.241680"
-    },
-    {
-      "cnpj_short": "01862-7",
-      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260701 07/2026",
-      "data_entrega": "20260806 06/08/2026 09:43",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1553094",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1553094",
-      "empresa_label": "Sanepar",
-      "codigo_cvm": "18627",
-      "first_seen": "2026-08-06T13:15:40.222747"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação de Resultados 2T26 -",
-      "data_referencia": "20260806 06/08/2026",
-      "data_entrega": "20260806 06/08/2026 09:42",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação de Resultados 2T26",
-      "protocolo": "1553072",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1553072",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-08-06T13:15:40.773741"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Apresentação dos Resultados 2T26 -",
-      "data_referencia": "20260806 06/08/2026",
-      "data_entrega": "20260806 06/08/2026 09:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação dos Resultados 2T26",
-      "protocolo": "1553068",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1553068",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-08-06T13:15:28.593982"
     }
   ]
 }
