@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T05:26:46.352028-03:00",
+  "last_updated": "2026-09-05T08:54:17.036397-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -5022,42 +5022,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-08-06T13:15:28.593982"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Aviso aos Acionistas",
-      "tipo": "Outros avisos",
-      "especie": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário -",
-      "data_referencia": "20260806 06/08/2026",
-      "data_entrega": "20260806 06/08/2026 08:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário",
-      "protocolo": "1553029",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1553029",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-06T11:30:28.480027"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "2ª operação de resgate ou conversão das ações PNC -",
-      "data_referencia": "20260806 06/08/2026",
-      "data_entrega": "20260806 06/08/2026 08:00",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "2ª operação de resgate ou conversão das ações PNC",
-      "protocolo": "1553028",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1553028",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-06T11:30:28.480015"
     }
   ]
 }
