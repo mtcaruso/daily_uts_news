@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-05T16:14:40.728819",
+  "last_updated": "2026-09-05T18:34:07.599528",
   "items": {
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWdWdVFreVpFMHdIYXIxWngycWltN2xadmtlUmhkbVpTOGpCa2U4cnRpM191c3VCNzhLUGNGRG1EVHZDQ1FJRXI4UmNfWnI4V3l4UGJNTWN3S1pwejNGT1N1d2t1Nmw0Yld4cVpaVW1jZU5mV0F2cDlPcHlKRDd2enZn?oc=5": {
-      "title": "Cotidiano > Sabesp cobra tarifa de esgoto acima do permitido para imóveis sem ligação, dizem moradores de SP - UOL",
-      "summary": "Moradores de São Paulo acusam a **Sabesp** de cobrar tarifa de esgoto acima do permitido para imóveis sem ligação. A alegação é de que a cobrança indevida estaria ocorrendo mesmo para residências que não possuem o serviço de esgoto conectado à rede da companhia.",
-      "source": "",
-      "added_at": "2026-08-22T17:33:13.722055"
-    },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjU1b09LOG5pNHk4dFRMZURrZktiM3lnN1Q1ZHVDa3JoTll3b05SQ0t5REFKT0pxWjROZ251WDBQZjBZcEpwTHFaazFsdWU2UlhaSURSYVJDM3BiQlM5bW50OERwRGtDeU5haE5sbXBIUWtGZ0NGUnlBZHdWZWliWkRQY3J5azVsYWY0N1pIRDd0Y0hVOFotYkFuSTNuNlQ2eEpsV25nWFVLMDdYeHp1MnFxZTZWSEJiN2dFVFpBVjUtVkRBRHN5RlNZY1hGUQ?oc=5": {
       "title": "Decreto garante isenção fiscal a projetos de hidrogênio verde só até o fim do ano - Folha de S.Paulo",
       "summary": "O **governo federal** publicou um decreto que regulamenta incentivos fiscais para o **hidrogênio verde**, mas a isenção de impostos federais (PIS/Cofins) só vale até **31 de dezembro**. O setor, representado pela **ABIHV**, critica a limitação temporal, pois a lei previa benefícios até **2034**, e questiona as exigências de conteúdo local para os projetos.",
@@ -4235,7 +4229,7 @@
       "source": "",
       "added_at": "2026-09-05T13:27:00.850838",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMzZqSFZ5dnVyM083Y3FsSnkxSEhMSjFpcHZ6MWdLN2pjYlBTWFVjQTVjRS1pUlFNVjU3ZW50TWZRMVBBaDhTR2ZZNWlrM1FLSFRBZTdnUzk1bUdEbGVwMHdOaFBodFd5eWJhWlZmOFhpUUJHbGxaWlhtckl3TzFwTldRQ3JzLV95WDQxbWhYUktsQTdhSTJsVWZZWF96Y3dLQ0NKN2ExeTFLTGYzUGZEeTczWHdjNk81ODQ1MzAyVS1renBLVDJTd1ljUUVxX1dGaF9z?oc=5": {
       "title": "Nova Caloi Mobylette elétrica chega por menos de R$ 5 mil e não exige CNH para pilotar - Estadão",
@@ -4243,7 +4237,7 @@
       "source": "",
       "added_at": "2026-09-05T16:14:28.780323",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ2YxcGppLU1wVFJwZXcyRFdfRGk3dUxtMjZTZ29LdmUzSEdkQTFpNzROYW9Nb1d4cm12ZTN5UFBIamE2Rm83NHU5OU44YVc0V0NNZ2s4STRxZmh5ZTdYSWVDOERxTEpQTDlaTklPYy0tMXJfT0hPWnhid2F4Y0t3bmhHOGlsb1ZEb0tVdXMxckRmNjdDQmdUUHdDaGdPa05BZE5OXzJfTDFhMGhQMVhOQTk4TmF5a1FpcEJ1VVZPUGVRNGZnbkFwVDlmdUVOVzdEVTFfN1k2TU4xN2ZBdTNsM05jbEp2d1pf0gHoAUFVX3lxTE1nZjFwamktTXBUUnBldzJEV19EaTd1TG0yNlNnb0t2ZTNIR2RBMWk3NE5hb01vV3hybXZlM3lQUEhqYTZGbzc0dTk5TjhhVzRXQ01nazhJNHFmaHllN1hJZUM4RHFMSlBMOVpOSU9jLS0xcl9PSE9aeGJ3YXhjS3duaEc4aWxvVkRvS1V1czFyRGY2N0NCZ1RQd0NoZ09rTkFkTk5fMl9MMWEwaFAxWE5BOThOYXlrUWlwQnVVVk9QZVE0ZmduQXBUOWZ1RU5XN0RVMV83WTZNTjE3ZkF1M2wzTmNsSnZ3Wl8?oc=5": {
       "title": "Enel aponta à Aneel falta de análise sobre alternativas à caducidade e pede anulação - Valor Econômico",
@@ -4256,6 +4250,14 @@
       "summary": "A **Caloi** lançou a nova Mobylette elétrica, com motor de **500 W**, custando a partir de **R$ 4.499,10** à vista. O modelo não exige CNH e visa o mercado de entrada, com vendas de ciclomotores elétricos sem CNH crescendo **87,2%** no primeiro semestre de 2026.",
       "source": "",
       "added_at": "2026-09-05T16:14:40.722577"
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMG43QXk2NUVrRXZaMkF5NnZoMDFmbDNuUWF3LU5VaUI5NnlXZzBRMF9WeVJ5Y3NDUjJNR2xjemZrNmlSTGxxTDlxU3R2RkN3UURvRm9CalljWlAxUjFxNXZHUUd1UTRhVW9SNUgzNWJaRHBBWWRKaVdOakswSHhPdTFNV3lwU0h6bjFha3dlYTZ6eGdObUJwNVJhcm1yY0NvOGY4Y21TaG5RekdnaXczVWpvd2VSMVNRVjc4bk1JcmxHWEcyZF8yV0JUY0lVSl82SUFjcEZSbzRLeWRVREVPUmlSOElHVHYzUnhkQm5Pd9IB_gFBVV95cUxNZ3NhdUVhVnJyWVVHS3FRVk9XY3k2YVl4SmVuQ21WWlpBZVYzNHczWlFpenlIYWc2NTVnNEQwbEN2MXZFcC1ZVlhlMFk5VUFtaUZfaEJmWHJ4S2pSYjIxV2M2dGNScHo2Q2NlMzZBeVh5RU1BaF81aUdLZ0plOFVaUWVEaXZFNFo1cndidTJ2VlBCTm1sc1Y2VW1lR193UjJJMkZmSXFCUUZHVTlaN3g0YnFORWgwektmRzR3R2JxSV9LTk1Kb2FSTnMtLTN4aDZ4UTh2NnJXRjVuWTZpclFHV29uNVQ3ZVlwa19UNC1wLS1wR19ZNVBCd0hFb2JKQQ?oc=5": {
+      "title": "ANP aprova inclusão de 24 blocos de petróleo da Bacia Potiguar, na Margem Equatorial, na oferta permanente - Valor Econômico",
+      "summary": "ANP aprova inclusão de 24 blocos de petróleo da Bacia Potiguar, na Margem Equatorial, na oferta permanente Os blocos só poderão ser colocados para negociação em leilão da oferta permanente após a conclusão do 6º ciclo A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) aprovou na sexta-feira (4) a indicação de 24 blocos de petróleo na Bacia Potiguar, entre o Ceará e o Rio Grande…",
+      "source": "",
+      "added_at": "2026-09-05T18:34:07.593200",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
