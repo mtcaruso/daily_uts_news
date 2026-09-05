@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-09-05T04:20:09.068438",
+  "last_updated": "2026-09-05T13:27:00.856731",
   "items": {
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RWHJ6cndzbDJhQU1hZ1BBaUl6RWNqZ2RCV0FjOS1weThIeFgwQjNtb09VMW5iQlJ2ckVmTElBU1R4UDdCMTczdXR5ZVFzLU1WU3hoeEhCYXlfU2RFVGJ1VVFTQ1ZjbUt5dGZzcGNlWFFXRjlUV2tEQjQ0aWtIQQ?oc=5": {
-      "title": "Axia, antiga Eletrobras, é acusada de cometer manobra judicial - UOL",
-      "summary": "A **Axia** (antiga Eletrobras) é acusada de manobra judicial para diluir o capital da União. Críticos apontam que a manobra beneficiou acionistas sem o pagamento de Participação nos Lucros e Resultados (PLR) aos trabalhadores.",
-      "source": "",
-      "added_at": "2026-08-22T10:37:06.946752"
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUllnc3JERU5oUk4zcUVpaFZOTnpscER4cEdJRmVORkR1cFFDc3BqWEdqRUl4SFdwYXNYMlBTaUdkUEpvM3RMVTU2NHBGM3pzTVduRVd5V2xVZWY5Nmg3dGxvNExjT2NRSW05VjdKbGY2TVBBS1psQVZCSnVMdkZPR0podEFUOHY5bkUwU0QtOW5pcEpTODNzY092YlFUc1J4VDZfUmFMYjliVmxSbXczM1RqQUNDV1RYczZGbi1NalpnRXBmb1REWUdZdw?oc=5": {
-      "title": "Tarifas de 50% dos EUA sobre Canadá entram em vigor após fracasso em negociações - Folha de S.Paulo",
-      "summary": "Os **Estados Unidos** aplicaram tarifas de **50%** sobre produtos canadenses totalizando **US$ 20 bilhões**, após o fracasso das negociações. O Canadá, liderado pelo primeiro-ministro **Mark Carney**, se recusou a aceitar os termos e prometeu retaliação, buscando diversificar sua economia para reduzir a dependência dos EUA.",
-      "source": "",
-      "added_at": "2026-08-22T11:32:18.700298"
-    },
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTWjNwVTZidi1yS3lkbE9VTmVPdlEwaUQ1clFlNGtKelZIVEtDbEg2QXhOYUFBRFdoMmQyd0Z0MTV6N20xR0I5cHFpMHI5Y0dtQS1VV2xTWUUyTF94d1FSWmVCekJ0cHIzZWw1clUtLTNCS0JaODhtVWJaWDVYUQ?oc=5": {
-      "title": "Antiga Eletrobras foge de tributo sobre dividendos, mas pode ter que arcar com PLR sobre R$ 30 bi - UOL",
-      "summary": "A **Eletrobras** tenta evitar o pagamento de tributos sobre dividendos e Participação nos Lucros e Resultados (PLR) sobre cerca de **R$ 30 bilhões**. A questão está sendo decidida pela Justiça.",
-      "source": "",
-      "added_at": "2026-08-22T11:54:58.858874"
-    },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNVBhTGpZUTZoeEVaZlBkb2p3eWZrY3J5ZDlQc0tTT2F5NU1famI2Unc4T21nLTJSRUpHRmUtb3BhQWpfRTlsSXJFNUpzLTYteFREZ2RZaHFFMkl1LVY3M1dzSlp4RjlqektfeGNMNDYxbndXRVhuN2xJM042U1k?oc=5": {
-      "title": "Alckmin critica Petrobras e setor elétrico na abertura da Agrishow - UOL",
-      "summary": "O vice-presidente **Geraldo Alckmin** criticou a **Petrobras** e o setor elétrico durante a abertura da Agrishow. Ele também mencionou problemas de gerenciamento e falta de planejamento hídrico em São Paulo, citando a **Sabesp**.",
-      "source": "",
-      "added_at": "2026-08-22T11:54:58.858906"
-    },
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE43T0VHWXhjR3lNREVXUjAwYnhfbDdfRGthX3BrelJFQzJWcDVmTmNjMGs2M2NFUmstdU9INWh6ZGU3dkNhTy1OMFlGZVN4X3U4dzFEc3pyWXlaN2VNUFhDTGpNbVB6WVhtZ0U0enFjTU5wNjhseWZLTmpTaURhZw?oc=5": {
       "title": "Consultoria projeta que um quarto da inflação será de energia - UOL",
       "summary": "A consultoria projeta que **energia** será responsável por um quarto da inflação. O texto discute que impostos e subsídios, que representam mais de **50%** do valor da fatura, são os principais vilões, e não o sistema de bandeiras tarifárias.",
@@ -4267,7 +4243,7 @@
       "source": "",
       "added_at": "2026-09-04T23:02:09.245532",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWRXcGlrZXpJUTJRTk04WDdkRVdlRWhra0JnMjI5cjgzeV85RWlRSHpxelJBNnpETHcwRV9CM1drcDdDbWNTdExtVWFmOXY0emJWeXBEaFBaclNhMmI4RFkyVjE0QVlLb0VwQWhDMC1yeld2N3F4T09KbkE4Yy0wNmt6QjUxSTVxVFBvZTdSVl84c1ZHVm5zczZwUTY2amtibmdLbzM5VEMwaV9RQWZ1SHhJaHBYbGNRdkVvUG91MnJybmkxZnJfaVZQeFbSAdIBQVVfeXFMTkdDNUM3YVFOMHBmdnQwWTJ2X0ZFVzdLSEs4YVVUZWplMW96ajllOGpYUzJZNFFORXFrRDB3cGp5b3NsWGk4NU90Smhnb1o4M0MtSW90N29fbkQyRjVDSVZHSndOeUlEbnZORDZlbGJ3T3lXSFdTUGtWTW1fcE9yQV9VLWs5Mjl4SE00aFpJZEFWWGpPRzBjemJBbWxfVWllVGtGMzQ0TWRESlViaHZhYk9MM2NpeWgzLUNzVHhIYkxaWXU3eWNOUlhjUm9KOVEyeHB3?oc=5": {
       "title": "Em discurso de 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial - Estadão",
@@ -4275,13 +4251,21 @@
       "source": "",
       "added_at": "2026-09-04T23:02:09.245711",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xaGRhVHhwbzZiYWxmSkVWMVlUbjlVcDdOaFg4UnFNTlhIMnFXelNrY1NKQVBBX285WUlrT29fckRCTDlkY3BPb1BncWd1Zw?oc=5": {
       "title": "Tag cp 7 - MegaWhat",
       "summary": "Open Energy Abradee critica restrições a distribuidoras e cita Cade em defesa de marcas A Associação Brasileira de Distribuidores de Energia Elétrica (Abradee) criticou as propostas de técnicos da Agência Nacional de Energia Elétrica (Aneel) para que sejam aprovadas regras que restringem o uso de marcas comuns e o compartilhamento de recursos entre distribuidoras e comercializadoras do mesmo…",
       "source": "",
       "added_at": "2026-09-05T04:20:01.538512",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2MxU3NlYTdzLTA2QnJmM29ZYjVfeHItY21iYmN5QWdZWURRWno2RHhXX0ZNQUg3UlhibFh3SjdRSmNVNThTR0lSU0NOU2ZfZktQWVdibHpmbC0yWXVNWklZaWotUGllQ1N2cTMtemZfcXFsRkdpWk9kR2tLWnBhZzJKR2ZCWHlWNWxHNGNYbjY2cWNoMWhQdUpKejVub0RYQ3dmNkhxT3ZuV3F2NXFqa0dkUFlTSG9wcWJ6bVRTdGpkdi1ZNkVsetIBzgFBVV95cUxNRENrRlRKVjJaN2VRLUlFZ2tWUExCYXpwdzlMSzRFV21EQzI2azFzOVdFV1g2aGdrd09WVkkwTzRmRUQ5WDByLTB3aWVMT3ZNdTlhZl94SVJ6MWJlTmJTeUZyOVRJb1hfN1lXQjlCRWt0VmpiVEJKWFZ5RlhnSXJrSU9KZVRZeXBmYzNnRkt0RmlIWWlaVHdtT2xISC1OQjI2MXhLVEx2U3J6TE1lbkdrbXl0T2JZZFlrWS1XODk1YnoyaDdhVlNLVkVveGkyZw?oc=5": {
+      "title": "Nova Caloi Mobylette elétrica chega por menos de R$ 5 mil e não exige CNH para pilotar - Estadão",
+      "summary": "Como é feita a Honda CB300F Twister: vimos a 1ª unidade sair da linha de montagem Pela primeira vez em 50 anos, Honda abriu a fábrica de Manaus para um jornalista acompanhar o nascimento de uma nova moto. Crédito: Jornal do Carro Gerando resumo O mercado de bicicletas e ciclomotores elétricos que dispensam CNH segue em forte expansão no Brasil.",
+      "source": "",
+      "added_at": "2026-09-05T13:27:00.850838",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
