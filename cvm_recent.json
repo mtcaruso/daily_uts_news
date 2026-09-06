@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T12:35:17.414070-03:00",
+  "last_updated": "2026-09-06T14:41:10.648032-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -4536,42 +4536,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
       "first_seen": "2026-08-07T18:11:51.075504"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Relatório Proventos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260805 08/2026",
-      "data_entrega": "20260807 07/08/2026 13:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554111",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554111",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-08-07T17:30:10.831271"
-    },
-    {
-      "cnpj_short": "02149-0",
-      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
-      "categoria": "Relatório Proventos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260806 08/2026",
-      "data_entrega": "20260807 07/08/2026 12:59",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554090",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554090",
-      "empresa_label": "Alupar",
-      "codigo_cvm": "21490",
-      "first_seen": "2026-08-07T16:31:03.566176"
     }
   ]
 }
