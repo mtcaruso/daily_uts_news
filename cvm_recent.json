@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T14:41:10.648032-03:00",
+  "last_updated": "2026-09-06T16:29:34.426957-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -4518,24 +4518,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "18309",
       "first_seen": "2026-08-07T19:57:41.605882"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Relatório Proventos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260806 08/2026",
-      "data_entrega": "20260807 07/08/2026 15:03",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554177",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554177",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-08-07T18:11:51.075504"
     }
   ]
 }
