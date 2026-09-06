@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T09:25:23.882736-03:00",
+  "last_updated": "2026-09-06T12:35:17.414070-03:00",
   "items": [
     {
       "cnpj_short": "02339-6",
@@ -4572,24 +4572,6 @@
       "empresa_label": "Alupar",
       "codigo_cvm": "21490",
       "first_seen": "2026-08-07T16:31:03.566176"
-    },
-    {
-      "cnpj_short": "01525-3",
-      "empresa_nome": "ENERGISA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação de resultados 2T26 -",
-      "data_referencia": "20260807 07/08/2026",
-      "data_entrega": "20260807 07/08/2026 11:14",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Apresentação de resultados 2T26",
-      "protocolo": "1554003",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554003",
-      "empresa_label": "Energisa",
-      "codigo_cvm": "15253",
-      "first_seen": "2026-08-07T14:37:05.022394"
     }
   ]
 }
