@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-06T23:08:26.139370",
+  "last_updated": "2026-09-07T04:30:04.681194",
   "items": {
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zUV82TER4RzdJbm1kWC1KdVZITks0SFpyejE3X2sxbUZkbDZZQ2R6Q1JFQUdiWmlpT3Z1aDJTNThpdEhmRVpWcUktcGdnWV9TeXh3bFZBb0dGWjJka3V0MmpOZzh2bFhhMVFseEJ1SUhGQVh0WE5JWDdjV19Ndw?oc=5": {
-      "title": "Energia é principal gargalo para avanço de data centers, diz Ascenty - UOL",
-      "summary": "A **Ascenty**, especializada em data centers de IA, aponta a energia como principal gargalo para o avanço do setor no Brasil. Um único data center pode consumir até **19 milhões de litros de água** por dia, e a energia elétrica brasileira, uma das mais caras do mundo, pode exigir subsídios para a instalação dessas unidades.",
-      "source": "",
-      "added_at": "2026-08-24T01:54:45.545482"
-    },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHVUMFE3RzJqVUROSXItUFZIS1oyY2Jsd1dKd05teFpObEhmTEoyUmlOR2pJZEsyR0ZINGJheEZycGd1eWp2aW1FeEF0bV81Wm9vc3hlNVRCd3gzRUlfbElBV05KWHhfa3Q1NzBxemlkM0FRa2hKNEVpVUtKelJlX2ZsdTF2QmQwOHNn?oc=5": {
       "title": "O Brasil tem políticas de Estado? - CanalEnergia",
       "summary": null,
@@ -4159,13 +4153,19 @@
       "source": "",
       "added_at": "2026-09-06T13:39:19.225988",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNXzVqSXEtUEdJdS1mZXNYQXZqVlp1V2tDeF9jczktbTJWR1FXV0FrMXB2QTByajQ3Z1JZN1Z1UjBtbDg1ZVlYRjFVWVhaV2I3SUJnbW9UQkN3WHYzMG1JQ01aMUxRUXJQc1FkUVF6UGhMT0F1aDZndG5sU09CM1p4bDk4VG5wV0pZVW9iTVhqOFJYVWgyMlJHckRfYjdnSURnTi1zbzBDOG5NM0IxYUoxRjdRNC1EMFAtVXNCLUlfMkZDaHJGd2FiSk1aTmxRT0Q4cDA2WGdISXh4empWQWxpclRMLVN6eVZpOXpXTg?oc=5": {
       "title": "Ibama recomenda análise de riscos do El Niño em licenças de hidrelétricas, portos e linhas de transmissão - Folha de S.Paulo",
       "summary": "O **Ibama** recomenda a inclusão de análises de risco do **El Niño** em licenças ambientais para **hidrelétricas, portos e linhas de transmissão**. Os guias orientam adaptação a secas e chuvas extremas, visando aumentar a resiliência de infraestruturas, embora não sejam obrigatórios.",
       "source": "",
       "added_at": "2026-09-06T16:59:04.162027"
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2diMU9XRlJmNTU5NEd0V19kaVJVWG1pTzlhZXBHVVYzekFtX1lfT0doOXBwclEtOXN1TFVTc1RPMGs3Q0l0bVBXVTlUMGdzMFpQQVJBeTNyZlJEUHk0ZHd4ZmVJUjVTWkhBOVBMUXJ0a2N6d0Y4QldibzYzM0ZJdGZsZFdaOWJPV3hWRGNVbzJsRVkwWWRfYXJBejlTRVZjVmZMNndfVQ?oc=5": {
+      "title": "Opinião - VÁRIOS AUTORES: As metas do saneamento se decidem no próximo mandato - Folha de S.Paulo",
+      "summary": "O setor de saneamento brasileiro, representado por **Abes**, **Abcon Sindcon**, **Aesbe**, **Asfamas** e **Instituto Trata Brasil**, apresentou uma agenda com 15 propostas aos candidatos à Presidência para as eleições de 2026. O objetivo é garantir o cumprimento das metas de universalização do acesso à água (99%) e coleta/tratamento de esgoto (80%) até **2033**, conforme o Marco Legal do Saneamento. A agenda foca em segurança jurídica, financiamento, desburocratização, tributação, planejamento e mão de obra, visando destravar investimentos e assegurar políticas de Estado para o setor.",
+      "source": "",
+      "added_at": "2026-09-07T04:30:04.674154"
     }
   }
 }
