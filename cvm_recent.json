@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-08T06:38:20.723490-03:00",
+  "last_updated": "2026-09-08T10:51:16.954597-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "UBS Global Emerging Markets Conference -",
+      "data_referencia": "20260908 08/09/2026",
+      "data_entrega": "20260908 08/09/2026 08:41",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "UBS Global Emerging Markets Conference",
+      "protocolo": "1565414",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565414",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-09-08T13:50:56.482310"
+    },
     {
       "cnpj_short": "02339-6",
       "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
