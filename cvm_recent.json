@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T06:44:03.686016-03:00",
+  "last_updated": "2026-09-09T10:55:34.491479-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4500,60 +4500,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-08-10T16:28:54.289940"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260701 07/2026",
-      "data_entrega": "20260810 10/08/2026 09:44",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554694",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554694",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-08-10T13:39:34.385708"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260701 07/2026",
-      "data_entrega": "20260810 10/08/2026 09:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554672",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554672",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-08-10T13:39:56.483737"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260701 07/2026",
-      "data_entrega": "20260810 10/08/2026 09:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1554671",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554671",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-08-10T13:39:56.483725"
     }
   ]
 }
