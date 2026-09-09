@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-09T10:55:34.491479-03:00",
+  "last_updated": "2026-09-09T14:23:10.158058-03:00",
   "items": [
+    {
+      "cnpj_short": "00320-4",
+      "empresa_nome": "CPFL TRANSMISSÃO S.A.",
+      "categoria": "Estatuto Social",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260831 31/08/2026",
+      "data_entrega": "20260909 09/09/2026 14:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1566074",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1566074",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "3204",
+      "first_seen": "2026-09-09T17:23:07.119806"
+    },
+    {
+      "cnpj_short": "00245-3",
+      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260801 08/2026",
+      "data_entrega": "20260909 09/09/2026 11:58",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1566026",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1566026",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "2453",
+      "first_seen": "2026-09-09T17:22:52.764241"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
@@ -4482,24 +4518,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "5576",
       "first_seen": "2026-08-10T17:24:24.661110"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Eleição de Diretor de Operação e Manutenção da Copel Geração e Transmissão S.A.Ata",
-      "data_referencia": "20260803 03/08/2026 08:30",
-      "data_entrega": "20260810 10/08/2026 12:19",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Diretor de Operação e Manutenção da Copel Geração e Transmissão S.A.",
-      "protocolo": "1554796",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1554796",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-08-10T16:28:54.289940"
     }
   ]
 }
