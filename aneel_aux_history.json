@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T00:04:02.967531",
+  "last_updated": "2026-09-10T04:31:05.348264",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1535,6 +1535,19 @@
       "start_date": "24/08/2026",
       "fonte": "MME",
       "sei_processo": "48340.000950/2026-57"
+    },
+    "partic_mme_cp_230": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 230",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/230",
+      "summary": "Normas complementares para o Leilão de Oferta de Gás Natural Processado da União pela **PPSA**, com entrega de **2026 a 2030**, em conformidade com a **Resolução CNPE nº 15/2026**.",
+      "added_at": "2026-09-10T04:31:04.847995",
+      "objeto": "Consulta Pública sobre proposta de Portaria Normativa que estabelece normas complementares para a realização, pela Pré-Sal Petróleo S.A. (PPSA), do Leilão de Oferta de Gás Natural Processado da União, com entrega prevista para o período de 2026 a 2030, em conformidade com a Resolução CNPE nº 15, de 30 de julho de 2026, que dispõe sobre a política de oferta e comercialização de gás natural da União.",
+      "deadline": "14/09/2026",
+      "start_date": "10/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48380.000370/2017-01"
     }
   }
 }
