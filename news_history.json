@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T18:44:55.613065",
+  "last_updated": "2026-09-12T21:25:38.270867",
   "items": {
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTBFLU42T0tPWGVlamxkamNhY3gwU1ZkWlFKTml2VkE5a041SVhwRUw2V3ZjbjJQWmQyM3VtRVdRX20yLWUtMy02Ynd3MFlqd2YxOEJkSTlNNEN2SkdtR1dPUnhndUNmTmdQVGd0MFdUVFN4aUVIcXFHektVQXU4N2JjS2swR0phWk9zWGI2RURDd0hwNy1Jb1JHMk1NMFlBQWtKTUhLaWxqQUVxbVI3cktBUlFEOEhqSnBpZWt2bHhVVVVmTEVlYUJVbk14cHF4a2wxRFNyTHA?oc=5": {
       "title": "Agência diz que usina nuclear da Ucrânia está sem energia e usando geradores para resfriar reatores - Estadão",
@@ -3253,11 +3253,11 @@
     },
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rdWk2ellWb01mRlF4b01iSWNybFZnajMxZ0Q4LWU0MnJ0czk2Sm9WYkN2VXNLVWY4YzBweHZDeVpoZWw1dGpBSkIyZEJuZm9aYWlhblY5RndENDhDc1I2LUx3VUNCNU5NcjBmenVEOG9TMDM1VVF3NGVYbw?oc=5": {
       "title": "Maria Clara Machado, Autor em MegaWhat - MegaWhat",
-      "summary": null,
+      "summary": "Empresas Novos campos de petróleo têm menor emissão de gases causadores de efeito estufa, diz Petrobras Em meio às discussões sobre exploração na Foz do Amazonas, que teve o primeiro pedido de licenciamento negado pelo Ibama, a gerente executiva de Mudança Climática da Petrobras, Viviana Coelho, declarou que novos campos representam uma produção com menos emissões. Segundo a executiva, a…",
       "source": "",
       "added_at": "2026-09-12T13:36:37.440748",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaElrcWRTSUVuYnZTUmhNT0FPWlhFTWhKdExIbkVabzUxcHF1UmVPREtpN09jTWIxTE1FRmxFNXNlNjNaOVFyQS1HMTZrdnZYYWZEdWlQemNBR0FFZVUzRXBDTHlYM181TGNJeWZHNzlTNHU5Y2JWT3NvMUhidFF6YzJlaGpyZVB6MF9oSFBGNjhXN0lWeXFxQVAyWFVFTDJ5dXlUZ3Z1VlFVei1yejJyLURB?oc=5": {
       "title": "Justiça nega pedido de eólicas e solares por ressarcimento do curtailment - megawhat.uol.com.br",
@@ -3299,13 +3299,21 @@
       "source": "",
       "added_at": "2026-09-12T16:29:44.234856",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTFHNF9oTXJ5cFBfWU9mSnNRTjJ2NGk0anl3ckcwWVlCNTJsRjNXRFhEendxb2NNZXNFcXBfVzNPcHFkckNXbi1Fak5NTkhMVWd3RUc0S3BrNUtjZF9HcV9vZ0QtOEd2aFBsS1RrR2JTY0lTRHBvUDhLTFp3UDU2RFI0WUNUY0h0WkRrclVvR3NUMlhqeEFfWkFvMDBkSW5OTWp5WlFGelpGdy16UTgtYW9WOURJMnpBYWc?oc=5": {
       "title": "Brics condena tarifas unilaterais e avança no uso de moedas locais - Folha de S.Paulo",
       "summary": "Em uma resposta ao avanço do protecionismo e das sanções econômicas, os líderes do Brics aprovaram neste sábado (12) a Declaração de Nova Déli, na qual condenam tarifas e barreiras comerciais unilaterais e decidem aprofundar o uso de moedas locais no comércio e nos investimentos entre os países do bloco do qual o Brasil faz parte. \"O sistema multilateral de comércio chegou a uma encruzilhada…",
       "source": "",
       "added_at": "2026-09-12T18:44:55.605872",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE82Q3NrSkVhaFFINy1ZaHBaTlFlUUQyRVl2bnN0RjRZT0RYNzFwNmFqNzI4akpYVUFZaGZUM0gxQ1hIY2ZzLWVyRldOSUJTNWYzVWV0cXJnSkxDRS1yV0E1ZzNab1cyM0VEbzJIRTRjN0JZWlpQeDRtbXlCeWp0Vmh6OFZqXzFnUjZKMWlIQlFLa041cGhicDdURm9fYnNvM1huOEJrMNIBrAFBVV95cUxOY1h2aC1oVkR0azNWbnZCS3RFUXlnOWN2N0NTWHJ0VEZ1OUhiNnZVYUhtc3ozdU8ySHhfcGNqeS13aXZhRkVkbUE4RXVPbkJraEZYbWlXTkFIYW1ZZW85Z29vOXVPNDFQaXVJRG1jak1zcWd1SXFhOTJXZ1VrejM3YWlzV0Q3NlYyYVEwLW5TWkNNRm1kc3Ewdk1pdXItSkFidDNhSjFwRUFvV3JP?oc=5": {
+      "title": "Farizon apresenta mini truck elétrico por R$ 240 mil - Estadão",
+      "summary": "Micro-ônibus Volare Attack 10 híbrido etanol O primeiro micro-ônibus com tração elétrica e motor a etanol para gerar eletricidade do mundo é brasileiro!. Crédito: Leo Doca A Farizon, fabricante chinesa de elétricos de cargas do Grupo Geely, anunciou seu terceiro lançamento para o mercado brasileiro, de olho nas entregas urbanas e no mercado de última milha e encomendas expressas.",
+      "source": "",
+      "added_at": "2026-09-12T21:25:38.264787",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
