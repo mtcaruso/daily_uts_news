@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T19:13:50.652538-03:00",
+  "last_updated": "2026-09-12T20:59:40.378353-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -4302,60 +4302,6 @@
       "empresa_label": "Light",
       "codigo_cvm": "19879",
       "first_seen": "2026-08-14T00:03:29.341602"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Participação de subsidiárias em leilão de energia existente; Declaração de dividendos de subsidiárias; Celebração de contratos com fornecedoresAta",
-      "data_referencia": "20260813 13/08/2026 08:30",
-      "data_entrega": "20260813 13/08/2026 19:41",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Participação de subsidiárias em leilão de energia existente; Declaração de dividendos de subsidiárias; Celebração de contratos com fornecedores",
-      "protocolo": "1557389",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557389",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-08-13T23:22:46.869557"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Press-release",
-      "especie": "Resultados 2T26 -",
-      "data_referencia": "20260630 30/06/2026",
-      "data_entrega": "20260813 13/08/2026 19:32",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resultados 2T26",
-      "protocolo": "1557383",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557383",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-08-13T22:38:41.509052"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Demonstrações Financeiras Adicionais",
-      "especie": "Demonstrações Financeiras em IFRS - Versão em InglêsDemonstrações Financeiras em Padrões Internacionais",
-      "data_referencia": "20260630 30/06/2026",
-      "data_entrega": "20260813 13/08/2026 19:30",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Demonstrações Financeiras em IFRS - Versão em Inglês",
-      "protocolo": "1557379",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557379",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-08-13T22:38:41.509043"
     }
   ]
 }
