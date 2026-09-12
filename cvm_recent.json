@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T14:58:26.970052-03:00",
+  "last_updated": "2026-09-12T17:06:06.380769-03:00",
   "items": [
     {
       "cnpj_short": "00245-3",
@@ -4500,60 +4500,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-08-13T20:17:47.488888"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho Fiscal",
-      "especie": "1 - Exame das Informações Trimestrais do 2º Trimestre de 2026; 2 – Exame da Execução Orçamentária; 3 – Impacto tributário sobre o ganho do pré-pagamento das concessões; 4 – Atualização dos processos judiciais; 5 – Atualização sobre as novas regras do Curtailment (Portaria Normativa MME nº 140/2026); 6 – Atualização da transferência da participação societária da Jirau Energia S.A., da ENGIE Brasil Participações Ltda. (“EBP”) para a; 7 – Assuntos GeraisAta",
-      "data_referencia": "20260805 05/08/2026 14:00",
-      "data_entrega": "20260813 13/08/2026 15:54",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1 - Exame das Informações Trimestrais do 2º Trimestre de 2026; 2 – Exame da Execução Orçamentária; 3 – Impacto tributário sobre o ganho do pré-pagamento das concessões; 4 – Atualização dos processos judiciais; 5 – Atualização sobre as novas regras do Curtailment (Portaria Normativa MME nº 140/2026); 6 – Atualização da transferência da participação societária da Jirau Energia S.A., da ENGIE Brasil Participações Ltda. (“EBP”) para a; 7 – Assuntos Gerais",
-      "protocolo": "1557041",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557041",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-08-13T19:41:07.621852"
-    },
-    {
-      "cnpj_short": "02474-0",
-      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS REFERENTES AO PERÍODO FINDO EM 30.06.2026Ata",
-      "data_referencia": "20260805 05/08/2026 11:00",
-      "data_entrega": "20260813 13/08/2026 15:49",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS REFERENTES AO PERÍODO FINDO EM 30.06.2026",
-      "protocolo": "1557035",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557035",
-      "empresa_label": "Copel",
-      "codigo_cvm": "24740",
-      "first_seen": "2026-08-13T19:41:05.944683"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS REFERENTES AO PERÍODO FINDO EM 30.06.2026Ata",
-      "data_referencia": "20260805 05/08/2026 10:00",
-      "data_entrega": "20260813 13/08/2026 15:47",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "DEMONSTRAÇÕES FINANCEIRAS INTERMEDIÁRIAS REFERENTES AO PERÍODO FINDO EM 30.06.2026",
-      "protocolo": "1557032",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1557032",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-08-13T19:41:05.380876"
     }
   ]
 }
