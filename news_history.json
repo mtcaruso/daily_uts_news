@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T04:48:49.189069",
+  "last_updated": "2026-09-14T16:23:10.917840",
   "items": {
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFA1ODRaMDRxNVJxRmpSazNJQXVjZ2xWMkpYakxhT1M4TDB5RnpESVQyUGVWTHZBTFZvNkU0QU5NRnExMnFyYk1qVV9FTUc2TTJKc3YxWV9XQ1R3cF9WMVlZRXRLN2U5MHhhQzRuX1RoMWdSaXlLNHdaSnhFVkZObEJwRURSWWg0eDM5cm5ZNC15aGpvYlBrcVkyZGF4eXM?oc=5": {
       "title": "CNPE amplia prazo para grupo de eólicas offshore - CanalEnergia",
@@ -3281,7 +3281,7 @@
       "source": "",
       "added_at": "2026-09-14T04:48:39.961672",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUJ4c2JCVWFEd2tWVG4yVUcxa3ZFcnRKZzJyZlVZNEVJc185N0RoNUZMYlBtdS1SdFloajZyZDZzdWRyYk9QdmoxYTJfdmU3M3B5OE1ndWotUUFZVzRTLUVSNVNXQ2xydTVyb2xQRGFCOWJ6SzBIb0pIRWtNczhJb2tkbWowNC1ic3BTd0ZEV2IwM3M4RXNhWHozMmlVWmExRGFmYmxiaXBtUWEtQzRWMmhPX2o3RU9ZV2FfNk9OZ3pQSXRy?oc=5": {
       "title": "BYD lidera as vendas de ônibus elétricos e São Paulo é a principal cliente - Estadão",
@@ -3289,13 +3289,155 @@
       "source": "",
       "added_at": "2026-09-14T04:48:46.013592",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUJWaGJObjBoNW82UktUc05URWJUdkNBQ0NRNzJkYl93THFEemp0RkdTN0VJQ01HeTg5VE95Z3FxVWZfb0Q2NWFHTk0xSDhtTm1nMlVtLWhhYTdaLTBKWExsTkNXcmpRUVJUS0ZMSEVzVXVWdm9CRUhHTEd3SnFJaFN6YXdpT3hObU5XNHNLdmNSSjUwT2tKQllGNU96b2U0b2ZBenEtU2hWWHNjSlVTStIBtgFBVV95cUxNNHJNZ0dBeTRtT3gtbTQwZnNySUdXUWF6bzk2UDV2MnRiVFplNS1hR2dYUWZsdWdEMThmREpsSWI4MHg3TmRWdk5EaHMxWDNNTG5OY05PanlCVllNS3BMam5FT3ZVU181LThycWZVNVBOaWJtdXZiNEN6eWFhOHpyd1VsbXp3Y1dIVzllUWs3SkQtWWNpYzZ2UEY0MWhITkNDcmNDRkNSRUNKbWRUM0g0QnRfQUhFdw?oc=5": {
       "title": "Sabesp: leitor reclama de tampa de bueiro solta em via de SP - Estadão",
       "summary": "Um leitor reclamou de uma tampa de bueiro solta da **Sabesp** na Rua Prof. Filadelfo Azevedo, em São Paulo, há meses, causando barulho e risco. A **Sabesp** informou que o reparo no poço de visita foi realizado.",
       "source": "",
       "added_at": "2026-09-14T04:48:49.185584"
+    },
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54aW5fVjYwU1o5YW1FN2twYW03STJCSGVtZi1rVE9URUd6eU11cDdoLW1XZnduSXZqVVhEanY3bmlJVjZXWjc2cmg1aTNfNms?oc=5": {
+      "title": "Tag Chuna - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-14T16:22:11.531971",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRjd6ckYwS0tiYjl0Sk1hRTNIY3JpX1JzVTdMZWRZaENTQmpjUFRnaU53SjhGR1lVSVBIbkJLU1pYbHVQRFBxOUJ5Ui1RQlp1TWpReDhXTmU0NU1GRGVIN2d6WEVkdGE3TThNLXF3SU9xa09MenJsLXFSdUlFeC1EWnB3b2M4dE9lS3pMRDlUWEtVMlFmVWZvTEl4SnhFYmoxamZaN0V6ZkZPM2ItTjBlSlJfMmJGYzc4aUV4QjNpZWl4RlUtTWI5cjMwdHF4bjNmQ2l3QXFCQlJOUU5X0gHrAUFVX3lxTE5jWFpKN1FfMU54U04wZmpVM3J2Q0wtVjBPSjNfaWNSWloySWNJZWFSQWtnckJTYjdiZGJtOEFsSnp0anR3eDY3amJWblpONDdTd1l5d3BhWE05LXNGTHhITWl2eVZySXdzODE3TTNCM0Zzb3Q2ajJhUi1ucFowdnVUSWFQSEh5ZDRLVFd1QzF5V2JMczRYWlVPaFdEOVpKUVhGODc4aUtEQkotVFhhZDNTY3ZyWTNwTDJvSWdJM0FEWDFhcF81Vngtdlg0UTZKcF9ZU2l3VzZEOV9HSl9TRlRqZlBEeU1vYnNXOFk?oc=5": {
+      "title": "Trump diz que Ucrânia e Rússia concordaram em interromper ataques contra alvos de energia - Valor Econômico",
+      "summary": "Trump diz que Ucrânia e Rússia concordaram em interromper ataques contra alvos de energia Presidente dos EUA também atribuiu alta global do diesel principalmente à guerra no leste europeu, e não ao conflito com o Irã Por Valor, com Reuters — São Paulo Atualizado O presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira que Rússia e Ucrânia concordaram em interromper ataques…",
+      "source": "",
+      "added_at": "2026-09-14T16:22:34.773676",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVDhyUUl0X2F0NWl5c0hnSmJfRFJNMFRMY0gxb2FVTHZLdkVTaWhUc0tYbHN6UWJ3NmZraVBvQVhJSGpvcndvam1LTGdnZGJVakd0dXZXWXlJLU42d2tFMzBJZ0s4ZFNZVnVaNnJiSi0wb2dLTElraVVDRGxRQnp0dGplcWRVY2Jwek1DV2MzWkRRRldEa01LdVpKZ2Y0RG44V0wyNTloNEx0ODJyUXV0eGRMcElwWEtHOTgzdFoyOFFxUWY5UDZnWVNicWRUdDhuMlpyeElaenQzYWRaVVBHeQ?oc=5": {
+      "title": "Governo Trump deve acabar com restrições à emissão de gases de efeito estufa de usinas de energia | Mundo - Valor Econômico",
+      "summary": "Governo Trump deve acabar com restrições à emissão de gases de efeito estufa de usinas de energia Hoje, setor elétrico é a segunda maior fonte de dióxido de carbono e de outros gases poluentes nos EUA Por Valor — São Paulo Atualizado O governo do presidente Donald Trump planeja anunciar nesta segunda-feira que os Estados Unidos deixarão de limitar as emissões de usinas movidas a carvão e gás que…",
+      "source": "",
+      "added_at": "2026-09-14T16:22:34.773891",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcU1NakhyREY4N0dodnZtbEt6Mlp6RXEtRFRNVXNLLUc0Y3FkaEpaRExxSFBPWDcxdEtnZ25Ya1dsbnZUSWs2RnhHR1NQa2pyZjQ4NkdjTi1DaTh4REVfNURQZllKdDRQNF9Hc0ZfaG82WXlmWGVYLVIyYnRWTUpEa3BkWFpqUUd0QXpFcl9hRndqd29acnZqSmpURHlOTGNDUXM1ZXNzU29CcS1WV2RJUDJvemY5c0hkT0Z0bU8tc3VkaUF1b2lOa0VEeEt2QXY1NWxTV9IB4wFBVV95cUxPSlJycHM5ajR5NThkRUZoQ0Z3TGpqRldHR0pIbVdzcEk0TjQyMDh1cEZHTGQ2dHdwR284Y2tsdGJpb2dMbVR6dmNsQlRvWkw5UHNDVVpWaGtRNll3QmQ5RTZqdl9KdHQ1LS1BWHdha0JOT2lFeTRYUlpwMHU4M1JkdTBGVlBfZGYxMzhWMkxqbmdnMEFUYVROUXlRaTZtbjlraEhid1F0bFlRdkpuVVJLWFBHSjEwU0FtRk83WnVpR3o5STk4NVc0Z2FRSUNnd1Y0NGktbElpOVdJZGp4S0NxZ1cwVQ?oc=5": {
+      "title": "Moody’s Local reitera nota de crédito nacional da Taesa e mantém perspectiva estável - Valor Econômico",
+      "summary": "Moody’s Local reitera nota de crédito nacional da Taesa e mantém perspectiva estável Segundo analistas, a nota da Taesa reflete seu perfil de negócios forte, sustentado pela elevada previsibilidade dos fluxos de caixa provenientes de ativos de transmissão de energia A Moody’s Local Brasil reiterou a nota de crédito nacional “AAA.br” da Taesa e manteve a perspectiva estável inalterada. Confira…",
+      "source": "",
+      "added_at": "2026-09-14T16:22:34.773962",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVJBWVNXbl9HSDVQTmlUSlpleFNqaXRVbS02WkxvSTI5TGFqbUZ3TUk5ZUk5X3pTQmZJU2ZpcWZNT0xPd1BUSnlzNG1vUHhCVi1VMTlNOEVuSTlLb2FMWWp1Q1paZU9uNDVrTzhCX0RvZ2VMYWFOXzljaHBiYjhpVks0RTlsS1I0MVNFdmx6d0JNUnBJU0cyUGw5MlREQzlmSkxGRU0yOUQ2YTc4MTBUQlhzTy1YdENZcXfSAcgBQVVfeXFMUDVFNHdBdzQ5clJpdHlqWHpSVG85M2kyaElMM1Mta3I0bUMxVDROQmNSUzRNdlZ3OVNBa2MtbXNqSnR5cFAyQXVpbjdJV01wTGdNU1pROHp3VDh6SllLeWRsb01jZS1XaC1zZWRpUjlOUTZWUkJvMkVVdEJDLWlQVXc1dTdCM0Zram1aZTJIN0RUR0J0ZlNFTUllZE9jOGdmT1NhNmZHSF9kSEluYTFpSlFodHFXZUtNYVo5YnQ4cHNJZE1yQkJsbkw?oc=5": {
+      "title": "WDC acerta compra de distribuidora de software por R$ 900 mil - Valor Econômico",
+      "summary": "WDC acerta compra de distribuidora de software por R$ 900 mil O objetivo é ampliar a atuação na distribuição de soluções de software e cibersegurança A WDC Networks firmou uma proposta vinculante para a aquisição da totalidade da distribuidora de software Teki por R$ 900 mil. A informação foi divulgada pela antiga Livetech nesta segunda-feira (14), em comunicado ao mercado.",
+      "source": "",
+      "added_at": "2026-09-14T16:22:34.774009",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEZaM1I1TWJQVEc2aW91RTFVRjh0OEM5MzFUeUthNER1UmZQYzFvN2ZkdHlodEZFZy1GR3lCX0pQWTllUnNNeUJOWVVKZk1NeFRoZGtSMlBRNm1GWG1JQ1R4YXFWTndIX0xRZGgzNFpuU0J3d1JodkZSX0VCVUdUbmZhVjNhVnFjXzhRUC12dGtpYWtrYkFWazJCbGw2ckhYT2cyTlduNDlBazR6dHV0U3lkaTJGZTNXaTk0c2lQMl9CR0FfMk1LcEdKR1I1WjNHc2lVdEVCazJMZXVw0gHrAUFVX3lxTE9pN2lyblI1dVF4ZFdtSkhsSEFXTDU1aUgtaHM5Mk5ERThiLXVIczBtR3dkU1hhN2Z2U3VhWjJ6Y0REbXBmanZNSkFYM2RsWnRwZ0dwSzNTQjBHUXNOZHVjR3FUamUtQWY2WGdSMElOLU1EQjE1NWRseEZCbEhzY0lIbkxuX2l3ZGk3b1BjUDNRU3BCSDhXR2x5cXhoWWptcFBqOXlSbk1GT3QwdklDUERVTzFoQWc5dVRxUXJUR0lfWFlwOThpblBzV3BacWF4cTEwLXNvYVVjeklKMEhtWkdfX0J2SEJvXzhuWmc?oc=5": {
+      "title": "Gazprom suspende gás para a Armênia por 10 dias em meio a tensões nos mercados de energia - Valor Econômico",
+      "summary": "Gazprom suspende gás para a Armênia por 10 dias em meio a tensões nos mercados de energia Sem saída para o mar, a Armênia mantém uma dependência estrutural do fornecimento energético de Moscou A subsidiária armênia da gigante russa de energia Gazprom anunciou nesta segunda-feira que suspenderá temporariamente o fornecimento de gás natural da Rússia para a Armênia por um período de 10 dias, em…",
+      "source": "",
+      "added_at": "2026-09-14T16:22:34.774028",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS05FaEZQSzBULXJBNVBuVUNOLTlvSnlkQnlPdGUweS1BbkZURmx3WEx1MXh6YU5KcnV5TGlKVGpsUUJjQjZyNWdJZGFMUmRDZk1FM08yeVgwVVNMdm1lRWxRcHhDMjloRlNPWDIzYkNHLU0xZzNOWWdndkZ5MnJ1QjQ5VFh3eXpwaVJNNzZtYzZSR2N1T183dHFmQUNYaHZ6b05BdzBnWk55aWd6MnE0V9IBvwFBVV95cUxPR0hNUDRYNzVONFFSYjZ0aDh1QmhEa3RRVktyTF9VMnMtNi1TMWt0cmhnYlVFNFpCd3hTYjJUWHpCRGJ1X2VwUmNoX3pQX3d3WWIxN3FuVVJSdXhaTmJhM2R2OVJrM3pMRFIyeTI1bi0wMlpmYUNEOTJNSU42UVJFZ3ladWNHVjRlOUNXaDYxOElVYnIxQ3JRMUxfdWkySTNnakg3bi0tVUZfa0dZZ044N2xkUnVmb2lsUHhONXA4TQ?oc=5": {
+      "title": "Tarifa adicional opõe Aegea e grandes clientes no Rio - Valor Econômico",
+      "summary": "Tarifa adicional opõe Aegea e grandes clientes no Rio Operadora diz que cobrança se baseia em lei e laudos prévios; consumidores colocam em xeque avaliação prévia e cálculo Grandes consumidores de água se preparam para questionar a cobrança de uma tarifa adicional adotada pela Águas do Rio 4, concessionária da Aegea no Rio de Janeiro, referente ao despejo de poluentes no esgoto. A princípio, a…",
+      "source": "",
+      "added_at": "2026-09-14T16:22:50.678918",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVhtaUw2ajd3Rk9CT2xwWWp5bG9QTkdDVmw0bU5tcG1fdDBnaFk4a3dDMlNKeEhyVmRuY0MxMlYzQ0xKakhjTy1ZZ2x5SlRGeTU3am9CTjNJYTYxVFpuSlZWR1hVNTE2MmNYMGE4ZkJyX2Itektub3ZoVlVoX0NFNEtIMm5IeXFGSGpFcFJFaURGYTFFd20wR2JmeThZbmVpcy02Q0N1eXY0bHV2blFF?oc=5": {
+      "title": "Rússia e Ucrânia param ataques ao setor de energia, diz Trump - Folha de S.Paulo",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, disse nesta segunda-feira (14) que a Ucrânia e a Rússia concordaram em suspender os ataques ao setor de energia um do outro. Ainda não há confirmação de Kiev e Moscou.",
+      "source": "",
+      "added_at": "2026-09-14T16:22:50.679054",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQS1zTkQtczJuQnFNaTlKelRJeFNlRFp1Q2tLLW1tcGxVcVUzMUR3MGFFZW9zSE41VGx5LUZZd1U4bm1UV1Fndl9EN29XcG53bFZnaHJnbkJtY3VQdHJDWXh2WE40RjhENlRfVERTS29wX1k4X1FvVl8zem0wbVZ1WVNxeFFYN0xvdkRSWGt4ZGFlUjVVYXJEMVR2cHBDdWlQLWdHZ21rNzNESFo0WncxX2hRMXhEczYxY3NEcGx1YTZraWtSM2h5OXZnQm9GMTA5cldSRy1zaGlacGxpdmJkU2hGcXJTTzlkc2VF?oc=5": {
+      "title": "Chuvas no PR destroem trechos de rodovias, e cidades estão sem água e energia; dois estão desaparecidos - Folha de S.Paulo",
+      "summary": "As fortes chuvas que atingem o Paraná desde quarta-feira (9) provocaram a cheia de rios que cortam a região do Vale do Ribeira e deixaram destruição em redes de abastecimento de água e energia, além de interdições em rodovias. Em todo o estado, 2.468 precisaram deixar suas casas, segundo boletim da Defesa Civil divulgado na manhã desta segunda-feira (14).",
+      "source": "",
+      "added_at": "2026-09-14T16:22:50.679178",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclFEOWl1MGhqdElXNEx5WDdqa1cwdEVUNUxoclc5QkVqNFBjVEFxS0pkYkt4bHpkM3lXMWZZVXViSXA2NnN0Y0hOdk1CMWd3Q3Q2VUI1ZjBERTFsRGNtQml5aVpzZ2hGSTVpdDZURTAzblg1S2hxUjJ2M2lPVDl4TGZUNVdRMGl4aDFTN0o4WVNvRW1MSG0tRTYyZEJhS0c3OTJpM3JnLXlwdzNmSmxsZ1NxYnB1a0lNbHJoVEEtLUxWa09XemdldFBBX3FLN2VmWS1Z?oc=5": {
+      "title": "Por que fico exausto após o almoço? A ciência por trás da queda de energia da tarde - Folha de S.Paulo",
+      "summary": "Você acabou de almoçar e voltou à sua mesa, pronto para mergulhar no restante do trabalho do dia. No entanto, por volta das 15h, percebe que seus olhos começam a pesar.",
+      "source": "",
+      "added_at": "2026-09-14T16:22:50.679438",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDFNMWdRVHB6SnJVXzhOV2U5TUlXNlExajd6VURzWWRCcEVScUMwRzIycU9OMG5YVWFWUXFQejF3NXBzNlZKMWxZc3NyY09pcEN4QVVMVXQ3cnhVTHBYbm9xdlllaW55TWg5cS15ejI5UFcxb3FWU25McWNuZVFHU3ZRMl83WmJ6WlUxR2Nrb1JzaVFHV0xiYXVNeTJya09IbUU0TEdXaThGSDVBYkdVcWNpWdIBuAFBVV95cUxNNjlKSXJTQUQxMWU4bWJRdzU2VEtwNnlFNXp6aW5uc2t1akM4cUV6MURDWEtxZVItT1FzMEdLd1E0WUdKUnI0Tk1IN19VRV8wZDNFZ2JrY05JU0JCZmRqaWdrZjJpS3pTTlhYVkJBeEMwUDROcFBmQnF0VWo4d29tdV9XUFBLaUNKVEJvQmdTMEVHUDVyVjQydXljVWdtSi1vTTM0UzlEOERGRURsbGFDQTFIbU1Fc29T?oc=5": {
+      "title": "Estilo Mobylette: 4 bicicletas elétricas no estilo para usar na cidade - Estadão",
+      "summary": "Gerando resumo A Caloi Mobylette a gasolina, produzida no Brasil entre 1975 e 2002, marcou época ao misturar referências de bicicleta e ciclomotor. Em 2022, o nome voltou em uma bicicleta elétrica.",
+      "source": "",
+      "added_at": "2026-09-14T16:22:50.679559",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pZcHRPU0x3ZXpTQjdGekx1SWQ3b0ZVLWdkSVdpXzVCRW80dlBfTC1GTmYxRjBzSXhFWDlqNXNNZ1E4OENMRkVXRHFNUXFmY0x2WmJKNUNpTnFNRmhXNmhxbnZaTUR0WlV6bWlwbzhKY1RlT2IyRGEyRVN6WklLQ1k3RTNMakk?oc=5": {
+      "title": "Axia Energia fará a sua 13ª emissão de debêntures, no valor de R$ 1,5 bilhão - estadaori.estadao.com.br",
+      "summary": "O conselho de administração da Axia Energia aprovou a 13ª emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, em série única, no valor de R$ 1,5 bilhão, podendo chegar a R$ 2 bilhões. Serão emitidos 1,5 milhão de títulos pelo valor nominal unitário de R$ 1 mil e prazo de sete anos, vencendo, portanto, em 15 de setembro de 2033.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:02.830018",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDk2OU5DMzlhU29lTWE3T2d6MVFlbGpHVkFGamxDTlFvM1pjRUVnNWNQbDRnUDRYanE2dEZlMk1Ic2psNkNuWmNfYlpCQzFXT2Z1X1JmR1hyZjBMVGdqTnE0ZnNjVHQ5czk0TW9CLVVXVklwdzFtNkFZOThHd1ZuYkRseW9kSzRPLWxXVmFqVDZNcVdzcHhDZzc4S0UtUTVNV1pxUGRn?oc=5": {
+      "title": "Corrida por minerais críticos aumenta procura por acesso à rede elétrica - Agência iNFRA",
+      "summary": "Rafael Bitencourt, da Agência iNFRA Com a corrida pelos minerais críticos no país, os principais projetos em desenvolvimento no Brasil entraram na fila de acesso à infraestrutura de energia, seja na conexão à distribuidora ou diretamente na rede das transmissoras. Para especialistas ouvidos pela Agência iNFRA, ainda que em menor proporção, o desafio é semelhante ao enfrentado pelo setor de data…",
+      "source": "",
+      "added_at": "2026-09-14T16:23:02.830249",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzkxNlFOOEEzQlpVOE43ZzVxUjRaVDVkYTQ0R242MGxCMHlCYUc1a0YyY0lpS1ZOWnBRdHBXckI2ZXNab3dmTWJHT2J2eTZFbEpuQlJvZkN1aDMwemxneW1EYU54Z3pSZko5R1RNdkVNZDZmSWVFSlFuTVZnS3J6c3A1VVBWdlY2bTJka3ZhMlpRZDF6WHhXTXd2akpJMVNvX3REMw?oc=5": {
+      "title": "Leilão de baterias é incluído na carteira do Novo PAC - MegaWhat",
+      "summary": "O Leilão de Reserva de Capacidade de armazenamento de energia por baterias foi incluído no Novo Programa de Aceleração do Crescimento (PAC). A medida foi formalizada por meio de resolução aprovada pelo Comitê Gestor do Programa de Aceleração do Crescimento (CGPAC), que estabelece a inclusão de ações no Novo PAC.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:02.830369",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnNsUi1xazh0OXdTYkRLVjNneEZJNnNIYW4tc3Z3RDhqaFFfUF96QXdwaUhuYjF6OUN2WmoyS3hvbE40cG5GbmloSlNydTBGaEQ1M0syYmd2THJLRkttdkYtMVJ3S29nR202Y3EzOEM3Skp6WnpCV2dNX2dPTGJDZS1oUFJEU1NCQWU4MGg3ZkxZLTc1X3czVHg4QlRlVFN0VDBDbkFqc3lTbmRPQzFWLVQzRUNTZjFwa1VJeFlEYXZXNU1HaFFRdF9PWm5yaE1hNzRuZDhMSG9DZw?oc=5": {
+      "title": "Mercado de baterias para armazenar energia é dominado pela China e vive era de euforia – Edição do dia - MegaWhat",
+      "summary": "Reportagem da Folha de S. Paulo destaca que um dos assuntos da vez hoje no setor elétrico são as baterias.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:02.830578",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnhGNjh0b053ejJocGlxZWhSU2NLREZNV0xnSlVHbUtwcXdTX2F0Q2N4X1l4clFrbHlkTHFINlZCTEZpUEQxWjA0dWllYWJaQWlZWGF6MGZlNVNRQVhHc2xvUzVLTjd5cW1CR2pYVDVSRkNobFJYNkwzRWpwUDd3bVA0UFI5anRvcmJleDRhZ3lNalgtMVk3MlhjcC1IeC1LOVVTOTBIaDlpTjBaUTJRdTBDNVphMVFsbWotc0g0TjU?oc=5": {
+      "title": "Preços de energia caem na BBCE com hidrologia favorável no radar - MegaWhat",
+      "summary": "*Conteúdo oferecido pela BBCE Os preços de energia negociados no EHUB, plataforma de negociação da BBCE, encerraram a semana de 7 a 11 de setembro em queda, com as maiores retrações concentradas nos contratos de entrega futura para 2026. Entre os produtos convencionais com entrega no Sudeste, o destaque foi o contrato de outubro de 2026, que recuou 15,44%, de R$ 193,35/MWh para R$ 163,50/MWh.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:02.830665",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU284d3RuQmp6YjViM3VEd0NsaDM4Zjkzbzc4RzdXal9nVXJ6NHhuamREMmRRd21kUUkzb3k2dUszWGtDWnpSeWN5NEhRLURodTd4d21hOU1UbU5LVmhicS0wRkZ3U2laM05QYmF0YmhPMmxZYW9lclNlMlBwNDcyS20xamM4WXNzQTA2bEppZWJXUkJldmZuTFNweWhkZ094YWdndF95eXhIZE9vcTk4amhueXdCR0tHcjVZZEVXaS1BRlU?oc=5": {
+      "title": "Renova terá até 2027 para adequar percentual de ações em circulação - MegaWhat",
+      "summary": "A B3 prorrogou até 31 de dezembro de 2027 o prazo para que a Renova Energia se enquadre no percentual mínimo de ações em circulação, o chamado free float. Segundo a companhia, a extensão foi concedida de forma automática e extraordinária pela bolsa diante do cenário macroeconômico.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:10.913578",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVFPZ3l0aVVBWENWWGJLaHR1YXhnZmtmTUJodlkzd3oxUEh1TWZYOUlZckNvLVgtVHozbm13ZmRlMzhscGd0aFZjdGU2b2hKS0E2UnRiVzJzbTluN21jTUZpZks4QXFmajk0dmpybG81b2U2eVFwaV90bUFMb3FvMlJxUnlKQjdqUTliRkhhZ3RfUjJsa1ZRWDMzWGdudEgtMEtlVU5tUEwtZEwyNjRJYUphNnNET3pFN1dF?oc=5": {
+      "title": "Cemig elege novo presidente; Alexandre Ramos fica com conselho - MegaWhat",
+      "summary": "A **Cemig** elegeu **Marco Aurélio Martins da Costa Vasconcelos** como novo presidente, substituindo Alexandre Ramos, que agora liderará o conselho de administração. A mudança ocorre em meio a uma auditoria na subsidiária **Cemig SIM**, após denúncias envolvendo negócios com o Banco Master.",
+      "source": "",
+      "added_at": "2026-09-14T16:23:10.913609"
     }
   }
 }
