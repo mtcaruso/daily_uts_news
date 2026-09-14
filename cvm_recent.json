@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-14T03:13:02.102702-03:00",
+  "last_updated": "2026-09-14T09:42:07.381198-03:00",
   "items": [
+    {
+      "cnpj_short": "00382-4",
+      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Anúncio de Encerramento de Distribuição Pública",
+      "especie": "Oferta Pública de Distribuição de Debêntures Simples - 19ª Emissão - Anúncio de Encerramento -",
+      "data_referencia": "20260911 11/09/2026",
+      "data_entrega": "20260914 14/09/2026 08:44",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Oferta Pública de Distribuição de Debêntures Simples - 19ª Emissão - Anúncio de Encerramento",
+      "protocolo": "1567759",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1567759",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "3824",
+      "first_seen": "2026-09-14T12:42:03.730006"
+    },
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Corporate Presentation sep/26 -",
+      "data_referencia": "20260914 14/09/2026",
+      "data_entrega": "20260914 14/09/2026 08:32",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Corporate Presentation sep/26",
+      "protocolo": "1567755",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1567755",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-09-14T12:41:48.257845"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
