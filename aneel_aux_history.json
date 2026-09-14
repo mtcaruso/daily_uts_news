@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T04:42:53.362357",
+  "last_updated": "2026-09-14T16:18:14.082498",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1556,6 +1556,19 @@
       "link": "https://consultas-publicas.mme.gov.br/home/consulta/10230",
       "summary": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
       "added_at": "2026-09-11T14:17:16.797047",
+      "objeto": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
+      "deadline": "28/09/2026",
+      "start_date": "11/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48370.000672/2017-90"
+    },
+    "partic_mme_cp_231": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 231",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/231",
+      "summary": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
+      "added_at": "2026-09-14T16:18:13.582269",
       "objeto": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
       "deadline": "28/09/2026",
       "start_date": "11/09/2026",
