@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T04:43:17.003706",
+  "last_updated": "2026-09-15T14:51:17.572234",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1574,6 +1574,19 @@
       "start_date": "11/09/2026",
       "fonte": "MME",
       "sei_processo": "48370.000672/2017-90"
+    },
+    "partic_mme_cp_232": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 232",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/232",
+      "summary": "Metas globais de descarbonização da matriz de combustíveis para o ciclo **2027-2036** são submetidas à consulta pública. A ação se insere na **Política Nacional de Biocombustíveis (RenovaBio)**.",
+      "added_at": "2026-09-15T14:51:17.071867",
+      "objeto": "Proposta de metas globais de descarbonização da matriz de combustíveis - Ciclo 2027-2036, submetida à consulta pública, no âmbito da Política Nacional de Biocombustíveis (RenovaBio).",
+      "deadline": "29/10/2026",
+      "start_date": "15/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48380.000158/2026-26"
     }
   }
 }
