@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-15T15:19:57.996557-03:00",
+  "last_updated": "2026-09-15T18:32:41.299743-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Relato Integrado",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20251231 31/12/2025",
+      "data_entrega": "20260915 15/09/2026 15:33",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1568291",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568291",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-09-15T21:32:40.999376"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
