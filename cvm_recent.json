@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-15T11:27:23.725185-03:00",
+  "last_updated": "2026-09-15T15:19:57.996557-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Pagamento de juros/remuneração -",
+      "data_referencia": "20260915 15/09/2026",
+      "data_entrega": "20260915 15/09/2026 11:46",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Pagamento de juros/remuneração",
+      "protocolo": "1568241",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568241",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-09-15T18:19:47.610939"
+    },
     {
       "cnpj_short": "02474-0",
       "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
