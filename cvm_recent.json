@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-14T18:47:02.266106-03:00",
+  "last_updated": "2026-09-14T21:03:02.803891-03:00",
   "items": [
+    {
+      "cnpj_short": "02474-0",
+      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
+      "categoria": "Termo de Emissão de Nota Comercial",
+      "tipo": "-",
+      "especie": "Termo da 2ª emissão de notas comerciais escriturais -",
+      "data_referencia": "20260914 09/2026",
+      "data_entrega": "20260914 14/09/2026 19:14",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Termo da 2ª emissão de notas comerciais escriturais",
+      "protocolo": "1568138",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568138",
+      "empresa_label": "Copel",
+      "codigo_cvm": "24740",
+      "first_seen": "2026-09-15T00:02:48.973968"
+    },
+    {
+      "cnpj_short": "02474-0",
+      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Aviso ao Mercado",
+      "especie": "Aviso ao Mercado - Anúncio de Início de Distribuição Pública - 2ª emissão de notas comerciais escriturais -",
+      "data_referencia": "20260914 14/09/2026",
+      "data_entrega": "20260914 14/09/2026 18:58",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aviso ao Mercado - Anúncio de Início de Distribuição Pública - 2ª emissão de notas comerciais escriturais",
+      "protocolo": "1568101",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568101",
+      "empresa_label": "Copel",
+      "codigo_cvm": "24740",
+      "first_seen": "2026-09-15T00:02:48.973980"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
