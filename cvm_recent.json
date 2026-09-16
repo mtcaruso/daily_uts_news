@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T13:48:19.114032-03:00",
+  "last_updated": "2026-09-16T16:46:58.002350-03:00",
   "items": [
     {
       "cnpj_short": "02001-0",
@@ -3870,42 +3870,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-08-17T21:02:08.989980"
-    },
-    {
-      "cnpj_short": "02474-0",
-      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Pagamento de juros/remuneração -",
-      "data_referencia": "20260817 17/08/2026",
-      "data_entrega": "20260817 17/08/2026 16:03",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Pagamento de juros/remuneração",
-      "protocolo": "1558572",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558572",
-      "empresa_label": "Copel",
-      "codigo_cvm": "24740",
-      "first_seen": "2026-08-17T19:04:33.178699"
-    },
-    {
-      "cnpj_short": "01830-9",
-      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
-      "categoria": "Relatório Proventos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260814 08/2026",
-      "data_entrega": "20260817 17/08/2026 15:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1558544",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558544",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "18309",
-      "first_seen": "2026-08-17T18:18:58.060993"
     }
   ]
 }
