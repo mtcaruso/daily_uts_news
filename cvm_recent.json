@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-16T03:43:27.325747-03:00",
+  "last_updated": "2026-09-16T09:03:34.694471-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Reajuste Tarifário - Equatorial Pará -",
+      "data_referencia": "20260916 16/09/2026",
+      "data_entrega": "20260916 16/09/2026 07:51",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Reajuste Tarifário - Equatorial Pará",
+      "protocolo": "1568523",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568523",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-09-16T12:03:18.484889"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
