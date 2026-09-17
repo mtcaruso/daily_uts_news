@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T18:45:20.465674-03:00",
+  "last_updated": "2026-09-17T20:42:05.903088-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -3978,24 +3978,6 @@
       "empresa_label": "Sanepar",
       "codigo_cvm": "18627",
       "first_seen": "2026-08-19T11:58:05.770923"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Elevação de Rating pela Fitch Ratings -",
-      "data_referencia": "20260818 18/08/2026",
-      "data_entrega": "20260818 18/08/2026 19:34",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Elevação de Rating pela Fitch Ratings",
-      "protocolo": "1559187",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559187",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-08-18T22:38:15.575329"
     }
   ]
 }
