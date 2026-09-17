@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T06:08:56.366141",
+  "last_updated": "2026-09-17T15:00:48.835423",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3384,6 +3384,45 @@
       "summary": "Institui o **Programa de Desenvolvimento da Indústria de Fertilizantes (Profert)**. O ato normativo também trata de outras providências relacionadas ao setor.",
       "added_at": "2026-09-04T14:21:55.708650",
       "summarized_at": "2026-09-04T14:22:03.396890"
+    },
+    "decretos_decreto-n-13-118-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-118-2026",
+      "title": "Decreto nº 13.118/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-118-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-118-2026.pdf",
+      "date_modified": "17/09/2026",
+      "ementa": "Regulamenta a Lei nº 15.506, de 16 de setembro de 2026, para dispor sobre o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos, e institui o Grupo de Assessoramento sobre Minerais Críticos e Estratégicos.",
+      "summary": "Regulamenta a **Lei nº 15.506/2026** sobre o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos. Institui o Grupo de Assessoramento sobre Minerais Críticos e Estratégicos.",
+      "added_at": "2026-09-17T15:00:32.912016",
+      "summarized_at": "2026-09-17T15:00:38.506783"
+    },
+    "decretos_decreto-n-13-119-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-119-2026",
+      "title": "Decreto nº 13.119/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-119-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-119-2026.pdf",
+      "date_modified": "17/09/2026",
+      "ementa": "Dispõe sobre a concessão de subvenção econômica aos produtores e às cooperativas de produtores de biocombustíveis destinados ao consumo final, nos termos do disposto no art. 2º, § 5º e § 6º, da Lei Complementar nº 235, de 27 de agosto de 2026.",
+      "summary": "Concede subvenção econômica a produtores e cooperativas de biocombustíveis para consumo final, conforme **Lei Complementar nº 235/2026**.",
+      "added_at": "2026-09-17T15:00:32.912016",
+      "summarized_at": "2026-09-17T15:00:43.393661"
+    },
+    "leis_lei-n-15-506-2026": {
+      "category": "leis",
+      "label": "Lei",
+      "slug": "lei-n-15-506-2026",
+      "title": "Lei nº 15.506/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-15-506-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/leis/lei-n-15-506-2026.pdf",
+      "date_modified": "17/09/2026",
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE) e o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE); altera a Lei nº 11.488, de 15 de junho de 2007, a Lei nº 13.334, de 13 de setembro de 2016, a Lei nº 13.575, de 26 de dezembro de 2017, e a Lei nº 14.801, de 9 de janeiro de 2024; e dá outras providências.",
+      "summary": "Institui a **Política Nacional de Minerais Críticos e Estratégicos (PNMCE)** e o **Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE)**. Altera leis relacionadas à mineração e industrialização.",
+      "added_at": "2026-09-17T15:00:32.912016",
+      "summarized_at": "2026-09-17T15:00:48.335050"
     }
   },
   "first_run_done": true
