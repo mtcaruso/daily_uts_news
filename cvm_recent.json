@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-09-16T19:26:26.009435-03:00",
+  "last_updated": "2026-09-16T21:42:45.697754-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Resgate Antecipado da 10ª Emissão de Debêntures -",
+      "data_referencia": "20260916 16/09/2026",
+      "data_entrega": "20260916 16/09/2026 20:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate Antecipado da 10ª Emissão de Debêntures",
+      "protocolo": "1568897",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568897",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-17T00:42:40.675113"
+    },
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Resgate Antecipado da 8ª Emissão de Debêntures -",
+      "data_referencia": "20260916 16/09/2026",
+      "data_entrega": "20260916 16/09/2026 20:24",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate Antecipado da 8ª Emissão de Debêntures",
+      "protocolo": "1568896",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568896",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-17T00:42:40.675111"
+    },
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Resgate Antecipado da 11ª Emissão de Debêntures -",
+      "data_referencia": "20260916 16/09/2026",
+      "data_entrega": "20260916 16/09/2026 20:22",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate Antecipado da 11ª Emissão de Debêntures",
+      "protocolo": "1568895",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568895",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-17T00:42:40.675097"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
@@ -3906,24 +3960,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-08-18T19:03:40.656664"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Relatório de Agência de Rating",
-      "especie": "ublicação de Relatório da S&P Global Ratings - Manutenção de Rating ‘brAAA’ com perspectiva estável -",
-      "data_referencia": "20260817 17/08/2026",
-      "data_entrega": "20260817 17/08/2026 19:24",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "ublicação de Relatório da S&P Global Ratings - Manutenção de Rating ‘brAAA’ com perspectiva estável",
-      "protocolo": "1558776",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1558776",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-08-17T22:41:32.948081"
     }
   ]
 }
