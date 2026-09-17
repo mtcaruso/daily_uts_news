@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-17T07:09:21.369125-03:00",
+  "last_updated": "2026-09-17T11:57:30.247451-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação ENGIE DAY 2026 -",
+      "data_referencia": "20260917 17/09/2026",
+      "data_entrega": "20260917 17/09/2026 10:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação ENGIE DAY 2026",
+      "protocolo": "1568954",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568954",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-09-17T14:57:18.551371"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
