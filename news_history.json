@@ -1,20 +1,6 @@
 {
-  "last_updated": "2026-09-17T22:09:13.717387",
+  "last_updated": "2026-09-18T00:19:21.184931",
   "items": {
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkgtNjhnbngtTGhRUkNqS2ZpTEFYV29pLXJGVk40Z2FlWm90eHFZRDBwaElsOEluTGpKVWstYkJLRUNhak9zZjZfenNfaGNSYlNmaEs5SThtTWlYT2ZsWDBXNzVhNUgtOGctU3lXcWxQTEZ3Wi1xSFhqSzhjVlZHYTVEVVpTQ1g5V05idGNXMUZFeDZHcE1Fb3lDQnJSWVAzZEhJeExNSFczWlJnU0FianFIZ19IdjFpQkE?oc=5": {
-      "title": "Opinião - Bibi Bailas: Dos átomos a Marte: uma viagem movida a energia nuclear - Folha de S.Paulo",
-      "summary": "A **Nasa** planeja lançar a nave Freedom no fim de **2028** para testar propulsão elétrica nuclear, usando energia atômica para viagens espaciais. A nave levará três helicópteros robóticos para explorar Marte em **2029/2030**.",
-      "source": "",
-      "added_at": "2026-09-03T23:16:44.418256"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVZOdTZKR2xQeldhdjZUUGhRRkg1dllYSjlnbmFWSkg4ZkhfMFlBaERZaFl4MUlZVkxOcG9nNHBFeDE0NU9felA4X2lRbHdhOGJoQVk0WE0wX1JpOXpGNTZmazBaT2NjbDA3RGE3QlYySFp0Q2pCamZiWmpFUjZRME1ydHMwR2FOR2lPdmczOFVxc0xHYVVJNU1VSHJLSkhFMmhqbFJoV3c?oc=5": {
-      "title": "Leilão de baterias: agentes pedem edital sem menção a custeio por geradores - Agência iNFRA",
-      "summary": "Geraldo Campos Jr., da Agência iNFRA Associações e empresas dos segmentos de armazenamento e geração de energia pedem que a ANEEL (Agência Nacional de Energia Elétrica) não faça nenhuma menção no edital do primeiro leilão de baterias fixando os geradores como responsáveis pelo custeio do encargo. O pleito é que o tratamento no texto seja mais amplo e genérico, diante da possibilidade de mudanças…",
-      "source": "",
-      "added_at": "2026-09-03T23:16:57.483709",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NFVGQ2M1bkRoWmJkY0dKUW91Wk9yMVJBa2JRMTUtd0dpRTNVS3hZY3dYTjh2TUhXbnByR0dBdVZtR3kzeHFRMVg4NHhxSTVxQkJrTXVob0NlTWY3WGM4VkpuZjE2NmRvVmpEOEg3a1dIQ1hZQ2xibFZXc29RSk0?oc=5": {
       "title": "Natália Bezutti, Autor em MegaWhat - MegaWhat",
       "summary": null,
@@ -2877,7 +2863,7 @@
       "source": "",
       "added_at": "2026-09-17T18:59:42.500494",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUJyQlNlNjF2ZTE4eUxwODg5NHRrMG1hVnNHR0V6ajFmcVk4UC1iZ0JRQ3ZGOGFJQnpnVVZ6ZXpVTC14REQ3VXBfWWlEejdVREd1RzJEMTZiaTlqV2tPUklFUV9hdmlZOFZSR2tmaHIwSFVoRjJMakhLRnpQOThCZnBRYVJJdmRxSUg0eXNLVkRwTTJTUWs3bHd5OVR2a2V5V09STjgya0plQ195Slp5bktDWGwyWl8zU2VkNzNzNUFTUDR2OFVV0gHWAUFVX3lxTE5SbmhrQmNmZHJCYjcwMnhQS1UzU1NHYWxOeE9BdWF2LWs0QzZnLWVGcUU0Wkd6cHg0dnZvaW1jQ1labkZmcmlOZ29JUHdvSW52VUlKaEpPdUNJZ1p3eFVNWnd3Zmhza2p5Q0JwQXJuZjJSbUhpTDRxUFhmQTY3UlVtcU0yaFZ3TktCU3JmSzNXQ0duaUJNMU1QU1NnNjVNNWMwM0pfeG5pNFY4el9wRWI5OVlCdk9BaWhKekdPc1d0QUxNUUU4VzU5QmNMSkpRLUliVmxhMHc?oc=5": {
       "title": "Debate avalia efeitos da Reforma Tributária no setor energia - Valor Econômico",
@@ -2885,7 +2871,7 @@
       "source": "",
       "added_at": "2026-09-17T19:00:39.078172",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWVoaW5uM0pNQm5wNFFjcGNCWm1tQXFxYk1zUGF4a2NPZnZ4cmNQT2c2akI4WVg4NVh4REQwbVpmd0hUeXRwOU8tc0w4MW9FcWpfUWZkUExRMEVtME40OE5PcFZQb0FJMUxTVXEwZ25MRlJlckhQUDVMYV9XYS1rNU1fc0FyZnBZU3E1XzNrVVdwM3RieExKWVFQQTNSSkhteFZDVUMtZkF5Wlc3QkU0NUJ0RnV1UlhielBFTnVQanU1LTRzcmRUcmdRcFR1bUxUb0ktS09nVzdqOG8?oc=5": {
       "title": "Reajuste do Bolsa Família vai custar R$ 22,7 bi em 2027, e governo precisará ajustar Orçamento - Folha de S.Paulo",
@@ -2893,7 +2879,7 @@
       "source": "",
       "added_at": "2026-09-17T19:00:39.078321",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQi1aRUhOTkpuLTlZY04xM3VVUEtLUUlhTzVUdmZrV2NCV3ZiNk4wZE1jWkdGeEV0V012aXFBVWU1eE5KclRsbkVCWW52OXpZVmEyOWtkR1NKbmRNZnFBR0R5RUlhQzVCT0h2TG1Bd2RXcFl3NTFnNWFLTTA1MWtjYXNqWXdnOUpCLWNIV3VURWZyeDJjR0lfNzFFd3hXazlnUGxuOVpYak00RnE3OEJ1NDBJNDd2VFhXYUk1ekY3aWIxakdHNlA5VThGRWVLTmFyR0VzZHlB?oc=5": {
       "title": "Dólar sobe e Bolsa cai com juros no radar e reação negativa a reajuste do Bolsa Família - Folha de S.Paulo",
@@ -2909,7 +2895,7 @@
       "source": "",
       "added_at": "2026-09-17T19:01:04.533775",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk1yb3JVZl9wT3BlZWlYQXhvb3FnTld1TjZNc1V0akJFTlhFZkJrWk1DNmxxWjRDWHBKRk1xLW1OS2FpZnFZZjFJV0hwMGMyM3dqZjVEcU1faUNKRHRyUUNCYzRZTWpZUFdHLWhSSnZIWHRkUmZKUE45UUhCWUlMbGp2c3BiNUw0OTNiS0Z1WGlzYUVDVlpVSlAxSkUtUDdPd1E?oc=5": {
       "title": "Setor nuclear defende usar energia de Angra para atender data centers - Agência iNFRA",
@@ -2917,7 +2903,7 @@
       "source": "",
       "added_at": "2026-09-17T19:01:04.533924",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVRRb2w1N3NIcHlpWGZvTi1xeVp0VGJWeXllRzd2UjJ6b3I0UU9GWVpGVUxnMEJid3I0Q210RWFucTctd1VwZzM3c29SMllJb0FDOGxFenFXc2YxTHRhc2Y1OV81WV9OTGZMTkZZemxTbzhvOXlYWHlwTnAtNG9Sc1BNVkw2blRMN21yeHZtZm5mamFHeHhZMmhWTjdJaHgxcmN1d1Fxd0JZZUtzLUgzYUhROG5ISURMWHNlMEhRb2FQb3J6WmZHMmRfajMwcllIaTNJ?oc=5": {
       "title": "Engie mira M&A em hidrelétricas e eólicas e avalia converter UHEs em reversíveis - MegaWhat",
@@ -2925,23 +2911,19 @@
       "source": "",
       "added_at": "2026-09-17T19:01:16.801334",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZTB1VVNnMjVxVzU2WDhxMlpwZEc4Vkt2cERKNTdZUk0wVUMxMXhMS2l1Rjk0MEgtOHprcThMZkVEdlhqNzg0SHlqSHVfLTdEQ3FzWXgxSU1SMUhiN2dGQm00UFFvWUw2UlpFS3gzTldhRXhuQkJDcXFBSWJuZG9qWVN2bFZWdlRCaVB4S2hCRDVrTS1WNGxkODh5Q3p2M1NWRW5jaDBFSTExQXh6Nll5clE2alN4WW5CX09LRElOZDE2UV9RRXdiR2F3Nk9adw?oc=5": {
       "title": "BYD diz que impasse no acesso à energia ameaça expansão de fábrica na Bahia - MegaWhat",
-      "summary": "Depois de perder sucessivos prazos para regularizar a conexão da sua fábrica de Camaçari, na Bahia, com a Rede Básica, a BYD pediu uma “solução excepcional” da Agência Nacional de Energia Elétrica (Aneel) para ampliar a demanda de energia contratada. Em carta enviada à agência, a empresa disse que o impasse pode comprometer o cronograma de expansão do complexo, que envolve investimentos de R$ 5,5…",
+      "summary": "A **BYD** solicitou uma solução excepcional à **Aneel** para aumentar sua demanda de energia de 1,5 MW para 25 MW em sua fábrica na Bahia, alegando que o impasse na conexão à Rede Básica ameaça investimentos de **R$ 5,5 bilhões** e o cronograma de expansão. A demanda atual já excede o contratado, gerando multas mensais.",
       "source": "",
-      "added_at": "2026-09-17T19:01:16.801591",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-17T19:01:16.801591"
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmJKbWQ5MldFUUk5ZVpSUDU1cWlzY1NJNXpBUG1OMzBYaFVCVGY4VTZfRHQ5MlBSSHhBSmtpTXVXbkZvYUk0cmJEZGtSUW5YcTlPaU9ieDA5c05qWGZHT0lUQlV2S2Z4ZGxyRUxOeXFwaUx2OU1pZmJjS0RuNEg4MWRydGhLdWVwdHBlOXB3Z0o2ZkxiX1N5ZndzUEFOOGh3eWx0bjZuYjViTzlSV1JYWDVSTnNZbDlYeS0zcURNVlFwLTlYWDlnV01UbzRzOFh3U2V3?oc=5": {
       "title": "Confiabilidade de data centers com renováveis depende de arquitetura do projeto, diz Axia - MegaWhat",
-      "summary": "A Axia Energia avalia que a energia renovável pode ocupar a “centralidade” de projetos de data center, e que a confiabilidade do abastecimento pode ser garantida pela arquitetura de cada projeto. A defesa vem após a sanção do Regime Especial de Tributação para Serviços de Datacenter (Redata).",
+      "summary": "A **Axia Energia** defende que a energia renovável pode ser central em data centers, com confiabilidade garantida pela arquitetura do projeto, mesmo com a possibilidade de inclusão de gás natural no **Redata**. A empresa vê a sanção da política como positiva e destaca a necessidade de planejamento de rede e sinais de preço corretos para investimentos.",
       "source": "",
-      "added_at": "2026-09-17T19:01:16.801768",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-17T19:01:16.801768"
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3hxeTZaOUxOYzYxTGxyeWlEdnBaRG9MVmxHRTJNTWk1OXZOU1RiZEpyODQ3REFpMWNrSm1vdDJDLXdtdjRxbVpaWVFDUkpaLUNWb0R6T1pTTzZzNmxzYk42WFoteUhwd2EyMWtrbW5mMTNCZWoxcWdJUzVWcGotYVI3Qm0zby1uN29IbHB0NVdiQmV6c1gzS1l2VGcwa1MzN3lCMGM1S1ZqNkwtMW16MGdCM0FDZV9lYXJKcFVxbHR1d1lIaHfSAdQBQVVfeXFMUHhtRF9CQ18zTUh6RW1VT3ctaEZRcHNSVFZWYmt2X0JDTDBxdWQyVl9EWWRaWndCRnRkSWdBWVAxX1RldXhnc3JJYXJIT3M2TV9wTVZkYjVPVVFWVGk5RE9vRjQ5bHRZZXJlWWlERWJzYUk1cXJ0VjJtVUFoVktDbGtHMnR1QTNqR1lDOXIyVGFJdkpPYUZjQmlEOEZBUmh0YWVmRDBRSXB3N1B3bzNvWV9PbURaSnZHaEdzcFJXWk1ueWlVY1dwSkZ5VnVxRi1Rak1VOEs?oc=5": {
       "title": "Palco de 40 ambientes, CASACOR Minas aposta em energia limpa - Valor Econômico",
@@ -2957,7 +2939,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:21.240105",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMHJ3d191VEEyNjdnYUdYVlY3X080d25qLURHZG52QTMyVnhNcHVRSnhCd0o2dlcwSFktR3I1Y0RwNTVpNXpHU013b0E5ZkxsNFNJSFpKcUhjNjlHT09XRDAwZWh5UHlFNG56UTI0YWE1Zmo3X0tZUzhCZ1hraWhrREpWdjVyVFJVZ3puR2dSUUhoOFIyUm5LZkZPckFNWGI5N1VwWGM3N2RMdTgxaXNjQTBmbUhiNTJNYTJUR0hPdEY0UHZkQ2ZoRlBHcUF4cWNSYzUtLVlnZ3cwUUVpb0R3SQ?oc=5": {
       "title": "BNDES começa a receber pedidos para empresas afetadas por tarifas dos EUA nesta quinta-feira (17) - Folha de S.Paulo",
@@ -2973,7 +2955,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:33.657690",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2E5VnZtRDNYS2lzUzN1cGJ4dTN4VndmckZZQ3QyOTlXeGQ5S1UyZ2xhMmtCajBXUjliTENYOGJpMmVSZnpjYjVYV3VEZ1Rva3oyTVVpUHR3QjgyU0hmQVJ4NnZkLU52OEVRb3A5dS12a3d4bl81WFZyeEFGc3I5RENRTXA0bklPcjBnUTJxaVJEdVM1aF9yTw?oc=5": {
       "title": "ANEEL aprova projeto para levar energia a comunidades isoladas - Agência iNFRA",
@@ -2981,7 +2963,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:46.954045",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZThfQVhTcGlmbHlRLTU4NTJXNHhuVEFCTE1fTmRfM0Z5LUtPdjVrM2lMeHBXSXdJeVVvc3Z2eTlWaGl2Uy1LY2JHUmxlakx4RnEtNTVLbTlJblJfaGNTY3F6cVBWZkw1RzlQVFJfSGtNc2lvNnNjUnVJMTROcEsyRzJBRUJVZ05SeTVnUmpSYjJXZjJFQlVvbmdXRkw4YV90Vl9vMy0tMnY?oc=5": {
       "title": "OceanPact e CBO concluem combinação de negócios - MegaWhat",
@@ -2989,7 +2971,7 @@
       "source": "",
       "added_at": "2026-09-17T22:09:00.698066",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTdvUXI1bGh3T096RHh1WnZXY09nZXB3aFNrS2Vjbk1qSFowTmRySFNZSzBpTnl2NS1aWUxMNHJpdVBxVDJJODc0QzdhYjRWMVMyVzZRRm9NWmtpcl9DY0I0RjZvSWZOMFg3MUI0TUNnZFl3WXgyV29BTFY5RHFGN2tqSjF4TTBfMUQyUkpDR2ZidUs0cVkxSlJpckthTzVPYXNjU3BDdnFYc29fME9IemJfdlQ?oc=5": {
       "title": "Com chuvas do El Niño, PLD médio na primavera deve ser de R$ 170/MWh - MegaWhat",
@@ -2997,13 +2979,45 @@
       "source": "",
       "added_at": "2026-09-17T22:09:00.698355",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXhBWVVqTVR0TlNKOXZScElyOXplZnJyMWxPTXZrdGYxcFp6b0FpdGlNaXFQanExalFZb0NNUnBvXzB0bHZvQ2dLLXpiY20yV3R4OEtWWE5MMXQzMWpGYXdyNkw2cEtmVkZrTTRMWDdDaElJRDc3bVRtejU5R0t5WHVHQ3VuX1F3VW1kWXc0b201eS16VVN0eFpTd1l2TFYyNmc4bUZvbW96bTE0R2JtaUpSaVhxc0ptV3ZSazR5V3pOTUE?oc=5": {
       "title": "Axia e Cepel criam ferramenta para apoiar meta de net zero até 2030 - MegaWhat",
       "summary": "A Axia Energia desenvolveu, em parceria com o Centro de Pesquisa de Energia Elétrica (Cepel), uma ferramenta para apoiar a trajetória climática da companhia rumo à meta de net zero até 2030. A Calculadora de Pegadas, de uso interno, estima as emissões associadas aos ativos de geração e transmissão da empresa.",
       "source": "",
       "added_at": "2026-09-17T22:09:00.698465",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG1EX0JDXzNNSHpFbVVPdy1oRlFwc1JUVlZia3ZfQkNMMHF1ZDJWX0RZZFpad0JGdGRJZ0FZUDFfVGV1eGdzcklhckhPczZNX3BNVmRiNU9VUVZUaTlET29GNDlsdFllcmVZaURFYnNhSTVxcnRWMm1VQWhWS0Nsa0cydHVBM2pHWUM5cjJUYUl2Sk9hRmNCaUQ4RkFSaHRhZWZEMFFJcHc3UHdvM29ZX09tRFpKdkdoR3NwUldaTW55aVVjV3BKRnlWdXFGLVFqTVU4S9IB1AFBVV95cUxQeG1EX0JDXzNNSHpFbVVPdy1oRlFwc1JUVlZia3ZfQkNMMHF1ZDJWX0RZZFpad0JGdGRJZ0FZUDFfVGV1eGdzcklhckhPczZNX3BNVmRiNU9VUVZUaTlET29GNDlsdFllcmVZaURFYnNhSTVxcnRWMm1VQWhWS0Nsa0cydHVBM2pHWUM5cjJUYUl2Sk9hRmNCaUQ4RkFSaHRhZWZEMFFJcHc3UHdvM29ZX09tRFpKdkdoR3NwUldaTW55aVVjV3BKRnlWdXFGLVFqTVU4Sw?oc=5": {
+      "title": "Palco de 40 ambientes, CASACOR Minas aposta em energia limpa - Valor Econômico",
+      "summary": "Palco de 40 ambientes, CASACOR Minas aposta em energia limpa ClickLivre Energia assina a solução de energia limpa do evento em Minas, que acontece até outubro no Circuito Liberdade A energia move o mundo. E, mais do que nunca, ganha protagonismo - não apenas pela demanda crescente, mas também pela expansão de energia limpa.",
+      "source": "",
+      "added_at": "2026-09-18T00:18:48.803283",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR09ESUJHTE5OdXVvdEI1RVctYUM5dm1xZlAtMmdaaUEtVEsyTzRMVkFSVkNLSWFkWE05YWptY3VBWkM0UU5JTXdtcFB6cGZ2MjltelI2NWtfREJDSEs0STE0aVlhTDRjeWI3UGFodk82dXFseldxLUF6Vl9pVHFWTFhNc1RzYlpCOEZtUHFTR0lpMjQ1UDZncVhnVHBfX3BVN1Z3YTA4TFRXTk9WNjJQbVFvWnRLOWhBTkFwaFFFcDE4clVGTXZ0aTA5WkxuTFlzVVJiR3FScy12VzA?oc=5": {
+      "title": "Mendonça rejeita pedido de aliado de Flávio Bolsonaro para barrar reajuste no Bolsa Família - Folha de S.Paulo",
+      "summary": "O ministro André Mendonça, do TSE (Tribunal Superior Eleitoral), rejeitou um pedido do deputado Zé Trovão (PL-SC) para barrar o reajuste do Bolsa Família anunciado pelo presidente Luiz Inácio Lula da Silva (PT) nesta quinta-feira (17). Na decisão, o ministro não analisou o mérito da questão.",
+      "source": "",
+      "added_at": "2026-09-18T00:18:48.803776",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSThLTFFFaTFiamtXSFVVOHEwbnlXX1lYX2l6X0pkTHE2MDQ0X3hnSVEtcERCRVNhbnJBY2tzYzU0MXkxdG5MRG9Yd0oxUEFSdkdwREYzNllvTWtwa1BKQ1I3ay1vWDhFOG0zdkFnNXFIbndya1l1X191M3hLOG9KS1V5c3lHcGo3aXdFcTAyR0Y5Tno1b0otOFY5bU1nX21JVlZLZVM1M3RZR3BqanBxMDNn0gG3AUFVX3lxTE9idzNaY3VjRjQyVUx6TnU5ZXo1VE9zRlZ6UUZoSVBIYVZPQ3RHN19CSFhocnFHNDFVRkR5VzNoRXhCRWx2MUhwZzJ2U19uMnMyWE1NbjRfVDJUWnFFb1A4UlNIbVlPTGgybzlJRHhZemNKNklEbVI4RXl2VXNzRTZhUVI3ZlFIVlk5bnJXSllseVhhN0JKT0lMcE56Sm9yZVRFWldIdmxsUl9nNVllbWp4NEZmaU5EUQ?oc=5": {
+      "title": "China acumulou estoques de petróleo e agora pode dominar o cenário energético - Estadão",
+      "summary": "Gerando resumo Uma das lições mais importantes da guerra com o Irã é uma que poucos previram. O conflito deixou claro que a China, que há muito tempo é altamente vulnerável a choques no fornecimento de petróleo, conseguiu transformar essa fragilidade em uma surpreendente fonte de poder geopolítico.",
+      "source": "",
+      "added_at": "2026-09-18T00:19:01.280169",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPendpSGdKSUZ1Q2JlVkhiVl9RdHZTbVMwUk80bzJ3c1EyQmdwcVpjX0dmM0JSUURhYk5TTDQ2SU9ISUxEbXZNQzlzWC16dlBnckVfTWpFb1B3cVBDS01EVVNFNmJyWFFHbHJoQlUzc1psQzFRODJramVqWXNKWkFkb29zNUk3aVVqM0dqR29EZzJDNUVpTldCUnU5YnVsa2NpenR6UDNn?oc=5": {
+      "title": "CCEE convoca assembleia para votar indicação de Elisa Bastos à diretoria - Agência iNFRA",
+      "summary": "da Agência iNFRA A CCEE (Câmara de Comercialização de Energia) convocou assembleia geral extraordinária para a próxima sexta-feira (25). Na ocasião, será deliberada a indicação de Elisa Bastos para ocupar a Diretoria de Tecnologia.",
+      "source": "",
+      "added_at": "2026-09-18T00:19:01.280374",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
