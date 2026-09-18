@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-18T12:05:27.992266-03:00",
+  "last_updated": "2026-09-18T15:24:02.043136-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação Corporativa 2T26 -",
+      "data_referencia": "20260918 18/09/2026",
+      "data_entrega": "20260918 18/09/2026 13:33",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação Corporativa 2T26",
+      "protocolo": "1569440",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1569440",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-09-18T18:23:57.815920"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
