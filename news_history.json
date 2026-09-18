@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-09-18T00:19:21.184931",
+  "last_updated": "2026-09-18T05:10:25.354213",
   "items": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE95NFVGQ2M1bkRoWmJkY0dKUW91Wk9yMVJBa2JRMTUtd0dpRTNVS3hZY3dYTjh2TUhXbnByR0dBdVZtR3kzeHFRMVg4NHhxSTVxQkJrTXVob0NlTWY3WGM4VkpuZjE2NmRvVmpEOEg3a1dIQ1hZQ2xibFZXc29RSk0?oc=5": {
-      "title": "Natália Bezutti, Autor em MegaWhat - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-04T04:24:24.172380",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEg1b2ptREx5NDB6Zm81el9SUmxURlNkMFJranBWS1RnUTdTT3VOTV9PamVHbGxzdkVzeERuR0JmWkktTklFR2VwLTZPVDVZNk5oVFRTSXdrQTEyUmgzLUVVQ1NZUUxDYVlCTk1IZWtSX2hoM1o5ZnlQYWNXekszZmYzZE1MRXJsUDQ4OEstR2hRenhRUXFMTThWaEVydw?oc=5": {
-      "title": "Âmbar prevê R$ 5,5 bilhões para modernizar rede elétrica do Amazonas - Agência iNFRA",
-      "summary": "da Agência iNFRA A Âmbar Energia apresentou nesta quinta-feira (3), na Aleam (Assembleia Legislativa do Amazonas), um plano de R$ 5,5 bilhões para modernizar o sistema elétrico do Amazonas até 2031. Do total, R$ 3,9 bilhões serão de capital próprio.",
-      "source": "",
-      "added_at": "2026-09-04T04:24:55.871674",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzM5V0wtLXppYXpyang5d3d6MU14ck5YRktPZXNqNlRzMERFajJvaDNBYWIwaW1uNUF2UVpyeThMLU81ZFA0ZjdIbl9NRUd4UkdOYXRCbWdSTk8zU1FpUWVHc0U1OGJ4TXU3TlBxQVBfVUNsaXRJRGxqR3otQUsyVm5NQUlHRzhOWXVLMmFtSjQtd1Q4c2wzXw?oc=5": {
-      "title": "Luciana Maia assume diretoria financeira e de RI na Neoenergia - Agência iNFRA",
-      "summary": "da Agência iNFRA A Neoenergia anunciou nesta quinta-feira (3) mudanças na diretoria financeira e de Relações com Investidores de cinco empresas do grupo. Luciana Maximino Maia foi eleita para substituir Renato de Almeida Rocha, que apresentou renúncia ao cargo de diretor de Relações com Investidores.",
-      "source": "",
-      "added_at": "2026-09-04T04:24:55.871748",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FNDdVLVZSY1J3NTdaSThrLW1zRWFTbkZmd1dGSUtFckNxbFlsRllDOUNlRkJCdlBDcjhDZmd0OWo1NkVTbXljenlPM21ub2RScGlkejBaVHBVRW43SGRVREQxNGc1RmJvbjdCc3hR?oc=5": {
-      "title": "MegaCast Convida - megawhat.uol.com.br",
-      "summary": "O podcast MegaCast da MegaWhat discutiu a chegada de derivativos ao mercado de energia brasileiro. O convidado foi Carlos Ratto, presidente do **BBCE**, com mais de 25 anos de experiência no mercado financeiro.",
-      "source": "",
-      "added_at": "2026-09-04T04:25:07.739382"
-    },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVBTNXhHU1VfanQ4NF9LcFM5VDRXWnpoelo0VVZndjV6cVpqc0pMUElYb0NEc3B3MGpabDU2dlpoamNCRDZGdVhRREYyeVZSdXNyY1ZlaWN6TGcyVXRReGhUYmdGUGJrcVZhdjNXM2k1LWJzMGdDaUNuTXk0SVlaM2xLVUhWLWNvNjJCZTBkYzhZU2d5S3JMNjhTd0ZQZjlDb2J3?oc=5": {
       "title": "Novos distribuidores de combustíveis terão metas obrigatórias de CBIOs - Agência iNFRA",
       "summary": null,
@@ -2863,7 +2833,7 @@
       "source": "",
       "added_at": "2026-09-17T18:59:42.500494",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUJyQlNlNjF2ZTE4eUxwODg5NHRrMG1hVnNHR0V6ajFmcVk4UC1iZ0JRQ3ZGOGFJQnpnVVZ6ZXpVTC14REQ3VXBfWWlEejdVREd1RzJEMTZiaTlqV2tPUklFUV9hdmlZOFZSR2tmaHIwSFVoRjJMakhLRnpQOThCZnBRYVJJdmRxSUg0eXNLVkRwTTJTUWs3bHd5OVR2a2V5V09STjgya0plQ195Slp5bktDWGwyWl8zU2VkNzNzNUFTUDR2OFVV0gHWAUFVX3lxTE5SbmhrQmNmZHJCYjcwMnhQS1UzU1NHYWxOeE9BdWF2LWs0QzZnLWVGcUU0Wkd6cHg0dnZvaW1jQ1labkZmcmlOZ29JUHdvSW52VUlKaEpPdUNJZ1p3eFVNWnd3Zmhza2p5Q0JwQXJuZjJSbUhpTDRxUFhmQTY3UlVtcU0yaFZ3TktCU3JmSzNXQ0duaUJNMU1QU1NnNjVNNWMwM0pfeG5pNFY4el9wRWI5OVlCdk9BaWhKekdPc1d0QUxNUUU4VzU5QmNMSkpRLUliVmxhMHc?oc=5": {
       "title": "Debate avalia efeitos da Reforma Tributária no setor energia - Valor Econômico",
@@ -2882,12 +2852,12 @@
       "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQi1aRUhOTkpuLTlZY04xM3VVUEtLUUlhTzVUdmZrV2NCV3ZiNk4wZE1jWkdGeEV0V012aXFBVWU1eE5KclRsbkVCWW52OXpZVmEyOWtkR1NKbmRNZnFBR0R5RUlhQzVCT0h2TG1Bd2RXcFl3NTFnNWFLTTA1MWtjYXNqWXdnOUpCLWNIV3VURWZyeDJjR0lfNzFFd3hXazlnUGxuOVpYak00RnE3OEJ1NDBJNDd2VFhXYUk1ekY3aWIxakdHNlA5VThGRWVLTmFyR0VzZHlB?oc=5": {
-      "title": "Dólar sobe e Bolsa cai com juros no radar e reação negativa a reajuste do Bolsa Família - Folha de S.Paulo",
-      "summary": "O dólar oscila nesta quinta-feira (17), com investidores repercutindo as decisões de juros no Brasil e nos Estados Unidos . Às 15h08, a moeda norte-americana registrava leve queda de 0,07%, a R$ 5,148.",
+      "title": "Dólar cai e Bolsa sobe com reajuste do Bolsa Família e eleições no radar - Folha de S.Paulo",
+      "summary": "O dólar fechou em queda de 0,25%, cotado a R$ 5,139, nesta quinta-feira (17), com investidores repercutindo as decisões de juros no Brasil e nos Estados Unidos e acompanhando as preocupações com o cenário fiscal após o anúncio do presidente Luiz Inácio Lula da Silva (PT) de um reajuste de 15,04% no Bolsa Família. O aumento foi anunciado a 17 dias do primeiro turno das eleições presidenciais.",
       "source": "",
       "added_at": "2026-09-17T19:00:51.657534",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlBZY0dnWHpKdUNPMi0yYm9maENkSFVkbm5hUU5YLWtLWmlBRDQ1N1dfMXhlNFRSMUl3eTdzMHlaTEJ0R0dGM2hEdHJBaTVLZ1gyMktRandWTzV6M2k1WC10SVBCSm1zYzg2aEJMejROUHFXTmw0T1BUX3lESU9QOVFvTzkzTkNwaWl1bzg2UkJtTUhlWEdSa0JRWDVJQU9GX0ZtSg?oc=5": {
       "title": "iNFRAideias: Sabesp acelera investimentos para antecipar universalização - Agência iNFRA",
@@ -2939,7 +2909,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:21.240105",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMHJ3d191VEEyNjdnYUdYVlY3X080d25qLURHZG52QTMyVnhNcHVRSnhCd0o2dlcwSFktR3I1Y0RwNTVpNXpHU013b0E5ZkxsNFNJSFpKcUhjNjlHT09XRDAwZWh5UHlFNG56UTI0YWE1Zmo3X0tZUzhCZ1hraWhrREpWdjVyVFJVZ3puR2dSUUhoOFIyUm5LZkZPckFNWGI5N1VwWGM3N2RMdTgxaXNjQTBmbUhiNTJNYTJUR0hPdEY0UHZkQ2ZoRlBHcUF4cWNSYzUtLVlnZ3cwUUVpb0R3SQ?oc=5": {
       "title": "BNDES começa a receber pedidos para empresas afetadas por tarifas dos EUA nesta quinta-feira (17) - Folha de S.Paulo",
@@ -2955,7 +2925,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:33.657690",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2E5VnZtRDNYS2lzUzN1cGJ4dTN4VndmckZZQ3QyOTlXeGQ5S1UyZ2xhMmtCajBXUjliTENYOGJpMmVSZnpjYjVYV3VEZ1Rva3oyTVVpUHR3QjgyU0hmQVJ4NnZkLU52OEVRb3A5dS12a3d4bl81WFZyeEFGc3I5RENRTXA0bklPcjBnUTJxaVJEdVM1aF9yTw?oc=5": {
       "title": "ANEEL aprova projeto para levar energia a comunidades isoladas - Agência iNFRA",
@@ -2963,7 +2933,7 @@
       "source": "",
       "added_at": "2026-09-17T22:08:46.954045",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZThfQVhTcGlmbHlRLTU4NTJXNHhuVEFCTE1fTmRfM0Z5LUtPdjVrM2lMeHBXSXdJeVVvc3Z2eTlWaGl2Uy1LY2JHUmxlakx4RnEtNTVLbTlJblJfaGNTY3F6cVBWZkw1RzlQVFJfSGtNc2lvNnNjUnVJMTROcEsyRzJBRUJVZ05SeTVnUmpSYjJXZjJFQlVvbmdXRkw4YV90Vl9vMy0tMnY?oc=5": {
       "title": "OceanPact e CBO concluem combinação de negócios - MegaWhat",
@@ -2971,7 +2941,7 @@
       "source": "",
       "added_at": "2026-09-17T22:09:00.698066",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTdvUXI1bGh3T096RHh1WnZXY09nZXB3aFNrS2Vjbk1qSFowTmRySFNZSzBpTnl2NS1aWUxMNHJpdVBxVDJJODc0QzdhYjRWMVMyVzZRRm9NWmtpcl9DY0I0RjZvSWZOMFg3MUI0TUNnZFl3WXgyV29BTFY5RHFGN2tqSjF4TTBfMUQyUkpDR2ZidUs0cVkxSlJpckthTzVPYXNjU3BDdnFYc29fME9IemJfdlQ?oc=5": {
       "title": "Com chuvas do El Niño, PLD médio na primavera deve ser de R$ 170/MWh - MegaWhat",
@@ -2979,15 +2949,13 @@
       "source": "",
       "added_at": "2026-09-17T22:09:00.698355",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXhBWVVqTVR0TlNKOXZScElyOXplZnJyMWxPTXZrdGYxcFp6b0FpdGlNaXFQanExalFZb0NNUnBvXzB0bHZvQ2dLLXpiY20yV3R4OEtWWE5MMXQzMWpGYXdyNkw2cEtmVkZrTTRMWDdDaElJRDc3bVRtejU5R0t5WHVHQ3VuX1F3VW1kWXc0b201eS16VVN0eFpTd1l2TFYyNmc4bUZvbW96bTE0R2JtaUpSaVhxc0ptV3ZSazR5V3pOTUE?oc=5": {
       "title": "Axia e Cepel criam ferramenta para apoiar meta de net zero até 2030 - MegaWhat",
-      "summary": "A Axia Energia desenvolveu, em parceria com o Centro de Pesquisa de Energia Elétrica (Cepel), uma ferramenta para apoiar a trajetória climática da companhia rumo à meta de net zero até 2030. A Calculadora de Pegadas, de uso interno, estima as emissões associadas aos ativos de geração e transmissão da empresa.",
+      "summary": "**Axia Energia** e **Cepel** criaram a 'Calculadora de Pegadas', uma ferramenta interna para estimar emissões de GEE e apoiar a meta de **net zero** da **Axia** até **2030**. A ferramenta também mede emissões evitadas para clientes do mercado livre e avalia o impacto de novos investimentos.",
       "source": "",
-      "added_at": "2026-09-17T22:09:00.698465",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-17T22:09:00.698465"
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG1EX0JDXzNNSHpFbVVPdy1oRlFwc1JUVlZia3ZfQkNMMHF1ZDJWX0RZZFpad0JGdGRJZ0FZUDFfVGV1eGdzcklhckhPczZNX3BNVmRiNU9VUVZUaTlET29GNDlsdFllcmVZaURFYnNhSTVxcnRWMm1VQWhWS0Nsa0cydHVBM2pHWUM5cjJUYUl2Sk9hRmNCaUQ4RkFSaHRhZWZEMFFJcHc3UHdvM29ZX09tRFpKdkdoR3NwUldaTW55aVVjV3BKRnlWdXFGLVFqTVU4S9IB1AFBVV95cUxQeG1EX0JDXzNNSHpFbVVPdy1oRlFwc1JUVlZia3ZfQkNMMHF1ZDJWX0RZZFpad0JGdGRJZ0FZUDFfVGV1eGdzcklhckhPczZNX3BNVmRiNU9VUVZUaTlET29GNDlsdFllcmVZaURFYnNhSTVxcnRWMm1VQWhWS0Nsa0cydHVBM2pHWUM5cjJUYUl2Sk9hRmNCaUQ4RkFSaHRhZWZEMFFJcHc3UHdvM29ZX09tRFpKdkdoR3NwUldaTW55aVVjV3BKRnlWdXFGLVFqTVU4Sw?oc=5": {
       "title": "Palco de 40 ambientes, CASACOR Minas aposta em energia limpa - Valor Econômico",
@@ -2995,7 +2963,7 @@
       "source": "",
       "added_at": "2026-09-18T00:18:48.803283",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR09ESUJHTE5OdXVvdEI1RVctYUM5dm1xZlAtMmdaaUEtVEsyTzRMVkFSVkNLSWFkWE05YWptY3VBWkM0UU5JTXdtcFB6cGZ2MjltelI2NWtfREJDSEs0STE0aVlhTDRjeWI3UGFodk82dXFseldxLUF6Vl9pVHFWTFhNc1RzYlpCOEZtUHFTR0lpMjQ1UDZncVhnVHBfX3BVN1Z3YTA4TFRXTk9WNjJQbVFvWnRLOWhBTkFwaFFFcDE4clVGTXZ0aTA5WkxuTFlzVVJiR3FScy12VzA?oc=5": {
       "title": "Mendonça rejeita pedido de aliado de Flávio Bolsonaro para barrar reajuste no Bolsa Família - Folha de S.Paulo",
@@ -3003,7 +2971,7 @@
       "source": "",
       "added_at": "2026-09-18T00:18:48.803776",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSThLTFFFaTFiamtXSFVVOHEwbnlXX1lYX2l6X0pkTHE2MDQ0X3hnSVEtcERCRVNhbnJBY2tzYzU0MXkxdG5MRG9Yd0oxUEFSdkdwREYzNllvTWtwa1BKQ1I3ay1vWDhFOG0zdkFnNXFIbndya1l1X191M3hLOG9KS1V5c3lHcGo3aXdFcTAyR0Y5Tno1b0otOFY5bU1nX21JVlZLZVM1M3RZR3BqanBxMDNn0gG3AUFVX3lxTE9idzNaY3VjRjQyVUx6TnU5ZXo1VE9zRlZ6UUZoSVBIYVZPQ3RHN19CSFhocnFHNDFVRkR5VzNoRXhCRWx2MUhwZzJ2U19uMnMyWE1NbjRfVDJUWnFFb1A4UlNIbVlPTGgybzlJRHhZemNKNklEbVI4RXl2VXNzRTZhUVI3ZlFIVlk5bnJXSllseVhhN0JKT0lMcE56Sm9yZVRFWldIdmxsUl9nNVllbWp4NEZmaU5EUQ?oc=5": {
       "title": "China acumulou estoques de petróleo e agora pode dominar o cenário energético - Estadão",
@@ -3018,6 +2986,22 @@
       "summary": "da Agência iNFRA A CCEE (Câmara de Comercialização de Energia) convocou assembleia geral extraordinária para a próxima sexta-feira (25). Na ocasião, será deliberada a indicação de Elisa Bastos para ocupar a Diretoria de Tecnologia.",
       "source": "",
       "added_at": "2026-09-18T00:19:01.280374",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxc3NKQlZlZHpBd0o5VEEyRk15YWgwZlFfRWdaajIyNjNPSEJ6bUpocEVVa3ZNdEU5TjV0R25ydWxMX2NfeGtLVWxaazhidXlfQzFEaA?oc=5": {
+      "title": "Tag Sattamini - MegaWhat",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-18T05:10:01.432573",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0Rpdl9vdTJscUFkN05TUEIwLV9uNVZUVGI0OFhzV1o0c3pBNDJHcUN2TEU3YVQ0TXQ4LUFzYTRFWUdVVzRza3VxX3dPZHJiMkllMk1xb0FqSzEwZEZzZzVNQmRnTjhpekRKbnMwOURwVUY3aGpNbmRvUnFLUE5yVWRJam91M1h3Zmx5REtkRFR1WDFJbzdNZA?oc=5": {
+      "title": "Brava cancela processo de venda de 11 concessões onshore no RN - Agência iNFRA",
+      "summary": "da Agência iNFRA A Brava Energia informou, em fato relevante divulgado nesta quinta-feira (17), o encerramento da venda de onze concessões de óleo e gás onshore na Bacia Potiguar, no Rio Grande do Norte, ao consórcio formado por Azevedo e Travassos Petróleo e Petro-Victory Energy Corp. A companhia informou que exerceu o direito de encerrar a transação porque o prazo final previsto em contrato foi…",
+      "source": "",
+      "added_at": "2026-09-18T05:10:19.174146",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
