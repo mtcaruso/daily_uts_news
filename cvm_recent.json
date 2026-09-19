@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T18:31:47.601735-03:00",
+  "last_updated": "2026-09-19T20:30:46.070241-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -3960,78 +3960,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-08-20T23:36:27.142363"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Recomposição de estoque de ações – Empréstimo compulsório -",
-      "data_referencia": "20260820 20/08/2026",
-      "data_entrega": "20260820 20/08/2026 19:52",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Recomposição de estoque de ações – Empréstimo compulsório",
-      "protocolo": "1560021",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560021",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-20T23:02:33.521189"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Energização de Saíra (conversora Garabi 2) -",
-      "data_referencia": "20260820 20/08/2026",
-      "data_entrega": "20260820 20/08/2026 18:23",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Energização de Saíra (conversora Garabi 2)",
-      "protocolo": "1559988",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559988",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-08-20T21:49:37.041139"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Aviso aos Acionistas",
-      "tipo": "Outros avisos",
-      "especie": "Aumento de Capital Privado - Bônus de subscrição (Anexo E) -",
-      "data_referencia": "20260820 20/08/2026",
-      "data_entrega": "20260820 20/08/2026 18:20",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aumento de Capital Privado - Bônus de subscrição (Anexo E)",
-      "protocolo": "1559984",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559984",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-08-20T21:49:34.770556"
-    },
-    {
-      "cnpj_short": "01987-9",
-      "empresa_nome": "LIGHT S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Aumento de Capital Privado - Homologação Bônus de SubscriçãoAta",
-      "data_referencia": "20260820 20/08/2026 16:00",
-      "data_entrega": "20260820 20/08/2026 18:20",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aumento de Capital Privado - Homologação Bônus de Subscrição",
-      "protocolo": "1559985",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559985",
-      "empresa_label": "Light",
-      "codigo_cvm": "19879",
-      "first_seen": "2026-08-20T21:49:34.770564"
     }
   ]
 }
