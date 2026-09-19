@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-18T23:18:43.002106",
+  "last_updated": "2026-09-19T04:34:24.542786",
   "items": {
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xaGRhVHhwbzZiYWxmSkVWMVlUbjlVcDdOaFg4UnFNTlhIMnFXelNrY1NKQVBBX285WUlrT29fckRCTDlkY3BPb1BncWd1Zw?oc=5": {
-      "title": "Tag cp 7 - MegaWhat",
-      "summary": "A **Abradee** criticou propostas da **Aneel** que restringem o uso de marcas e o compartilhamento de recursos entre distribuidoras e comercializadoras do mesmo grupo econômico. A associação citou o **Cade** em defesa das marcas no contexto da Consulta Pública **7/2025**.",
-      "source": "",
-      "added_at": "2026-09-05T04:20:01.538512"
-    },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2MxU3NlYTdzLTA2QnJmM29ZYjVfeHItY21iYmN5QWdZWURRWno2RHhXX0ZNQUg3UlhibFh3SjdRSmNVNThTR0lSU0NOU2ZfZktQWVdibHpmbC0yWXVNWklZaWotUGllQ1N2cTMtemZfcXFsRkdpWk9kR2tLWnBhZzJKR2ZCWHlWNWxHNGNYbjY2cWNoMWhQdUpKejVub0RYQ3dmNkhxT3ZuV3F2NXFqa0dkUFlTSG9wcWJ6bVRTdGpkdi1ZNkVsetIBzgFBVV95cUxNRENrRlRKVjJaN2VRLUlFZ2tWUExCYXpwdzlMSzRFV21EQzI2azFzOVdFV1g2aGdrd09WVkkwTzRmRUQ5WDByLTB3aWVMT3ZNdTlhZl94SVJ6MWJlTmJTeUZyOVRJb1hfN1lXQjlCRWt0VmpiVEJKWFZ5RlhnSXJrSU9KZVRZeXBmYzNnRkt0RmlIWWlaVHdtT2xISC1OQjI2MXhLVEx2U3J6TE1lbkdrbXl0T2JZZFlrWS1XODk1YnoyaDdhVlNLVkVveGkyZw?oc=5": {
       "title": "Nova Caloi Mobylette elétrica chega por menos de R$ 5 mil e não exige CNH para pilotar - Estadão",
       "summary": "A **Caloi** lançou a nova Mobylette elétrica, sem necessidade de CNH, por menos de **R$ 5 mil** (a partir de **R$ 4.499,10** à vista). O modelo possui motor de **500 W** e autonomia estimada de **60 km**, visando o mercado de entrada e-bikes que cresceu **87,2%** no primeiro semestre de 2026.",
@@ -2833,15 +2827,13 @@
       "source": "",
       "added_at": "2026-09-18T17:52:26.203381",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NNellONnJTcW1veHU0NnBpeXNVbmpUUkVKa1hmTFBFb0IyOUtGdEs2M3oyaDdfOVJJYVA3SWhWeVRWLS1pX2Z0QVVpZERURDVpZkVpT1ZZR2kzdkVqVXhmSXNrTExNelc0b1dBQnZ2OFBBSDM0MW5jQldJVEtiWU5JaGFmcXJucUVSSEoxOW51QXJ4bjZFV0lnMEpnbGY4bUFaSQ?oc=5": {
       "title": "ONS e ANEEL selecionam 5 distribuidoras para testar corte de MMGD solar - Agência iNFRA",
-      "summary": "Lais Carregosa, da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) e a ANEEL (Agência Nacional de Energia Elétrica) escolheram cinco distribuidoras para iniciar testes de operação de MMGD (Micro e Minigeração Distribuída) solar em suas concessões. As empresas são: Cemig-D, Energisa MT, Neoenergia Elektro, CPFL Paulista e Copel.",
+      "summary": "O **ONS** e a **ANEEL** selecionaram cinco distribuidoras (**Cemig-D**, **Energisa MT**, **Neoenergia Elektro**, **CPFL Paulista** e **Copel**) para testar o corte de MMGD solar em um \"sandbox\" regulatório. Os testes, que iniciam em breve, visam estudar a operação de DSOs e a regulamentação de cortes em tempo real ou por programação.",
       "source": "",
-      "added_at": "2026-09-18T17:52:38.766825",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-18T17:52:38.766825"
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb05XVU9yQkN0ZmpNVG9lZlJTc0I3V0MtY1BVaFROakNJZ2p2VEtrdVN6ZFNNb3RkdEsxeHJoQlNCOHFTUEh2MU83b2tKMUNWbWNBNTBtUm1GdGxpVmVrenRrbHNFZENFMnBXcXExNzhtMW4wb2ZZd3RlMmpBbWNKZV92Sm9kWU0wUUlqTjNMbDhtbHVaYV9nXzBOOXZEeTlCeVJNdFF0MW0yc3dYbEhmTnBpYllZZEs3X2JBaFc2Sk5MX2J5N2Rn?oc=5": {
       "title": "Governo pede plano para garantir segurança do sistema elétrico durante eleições - MegaWhat",
@@ -2849,7 +2841,7 @@
       "source": "",
       "added_at": "2026-09-18T17:52:51.224487",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjhseVo4ZnowRUdQVWFHOTNPTXprcVRUTmZ1TUprUnJkYXJ6MkJwcFRUanMzRkM0a29TajIzM1p4VWI4U1FMdF9zTGhkZGd5OFpCLXdOT1NvUk1pZk1CRUI5SkYxc0ZmM0lMQXVOa3NxSFpmaXEwMFJ2aVFKbUd4WmJmUm9LeWdQZmpURk41cDNPU2RJVFkwcEItS0pjM1k?oc=5": {
       "title": "Sowitec desiste de 500 MW em usinas solares em MG - MegaWhat",
@@ -2857,15 +2849,13 @@
       "source": "",
       "added_at": "2026-09-18T17:52:51.224525",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFkzZDFCMjF6OHQxS1ZYUnY3eHF0dnltTUhmSGJVR09VOGRxdjRjU3I2NEJkb3U4UWpQeFZQaVRkcWpONG1naTRRUkxXMVVZekJIakt1Z3l4TWlfMmRUaGx2V1lrZnpOSXJGX1ZLb0JyWGlvXy1HSFVKZC1nbXUwUnR4M2R5U09IQlJXb1lQc0oxcXgzQzVxVUgxNFI2SG8zbDBsdDlqbTFhc1hQb09hdmVERDh3VGc5SktF?oc=5": {
       "title": "BBCE atinge R$ 10 bilhões em estoque de derivativos de energia - MegaWhat",
-      "summary": "A BBCE encerrou agosto com R$ 10 bilhões em derivativos de energia em estoque, alta de 230% em relação ao mesmo período do ano passado. O estoque corresponde a 56 TWh em contratos vigentes na plataforma, volume equivalente a cerca de cinco semanas do consumo de energia de todo o Brasil.",
+      "summary": "A **BBCE** atingiu **R$ 10 bilhões** em estoque de derivativos de energia em agosto, um aumento de **230%** em relação ao ano anterior. O volume representa **56 TWh** em contratos vigentes, equivalente a cerca de cinco semanas do consumo nacional. A CEO da BBCE, Camila Batich, atribui o recorde ao amadurecimento do mercado e à necessidade de hedge contra volatilidade e riscos operacionais.",
       "source": "",
-      "added_at": "2026-09-18T17:52:51.224575",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-09-18T17:52:51.224575"
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHFiY1h1Rk9uUm5hQnlpVXJ3N2NVOE5ncHlUS1ltVnVpY19FZEI3dkQ1ekV5bThudkdwOENoanRmeTR1QkFxeENrRXFUN3J6X2U5clNJUG9fOGl3RElyLVpCNzZYYXh0M213R3otcjdyOUUtdXhvbEd6VVQwYzZOakh3SmlXYjNsZVdRTlFKcDRKOUZzRVlYazR3bw?oc=5": {
       "title": "🎙️O clima nos preços de energia e o impasse da BYD na Bahia - MegaWhat",
@@ -2885,7 +2875,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:28.910958",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTFVaWRZSnkzQTRYMWIyU2plMU9MQ0xTRlpIbkhoX2lSVElTX0Z2Tmt1Si1uNDE5WmFpQTFVcHJBSnE0X2dPM1htY3dDUTI4RHNPZDM3R0RGMDBIekpyc29FX3FnVEJoZ3ZXOXY5Z3drd0FRVkNaa0FvbVg2Vk1JYS04Nkx3MTdCVmRJSU9LRC1aWmdtX25KaU5oYi1NREh2SllzNUJUS3ltSzJ6QjFUQzJMNVhGMlRjbXo1dnduZzBsQdIB0AFBVV95cUxPbHlfd01sNDVRUl9CQ01TZjNlZXFDWndZRHZOcUZGOU4tQUI4ZGtEdFFpZjgwclQtQVdhZ2RyNlh4SHA4Q0MxRmhFWFhDRUEyVlEtajNzaFpDV1hqX1psX3FEck4zb0E2Z3dESUh5bUtHSFJyd0tzMklaRmVQaUFVY0NZU0pFWWotd21PYy1QOWpKdTg0ZGoxVXR1R2VobTVhWlZ2OVFxajFGRTdVLVRuOXlkTk94WHRUYS1GWWw5NF91X1o2cWJyWFgxYzBOLUNI?oc=5": {
       "title": "Passivo ambiental já é aproveitado como fonte de energia - Valor Econômico",
@@ -2893,7 +2883,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:28.911106",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXV5bDZiYXhzRHpackpJZ0p3bnlDNWZqLVVHVDdZVF9vUTFFcE9sN09aVVVFZVkyTE0wSVFfX0pDZHRvRm1KekgwODQwNk9WSVdoS2ZnOUExSVZTb01oZllYejQ1VUdPOWZVb19VS0ZWR3FWb1NBWDZqaFF0bG91d1p2UVY4eUNhZFpvN0hVeHhNRWhQVktZZmxNSTJKR3I4TTc0MGJMajNKUdIBuAFBVV95cUxQOU1WcGF1TXJLdmpMZTBxRFh2SVNuSHlMUkpfczgwVGI3MHZqclBFTVFNMUktSzU5YVhoM0FYR1hHQnpoSXF1aWlvdXhyZ2ZSQW40MERfdUpZZjZGV2sxaTA0N3d1SU56YXJWM19PMnF6UGFRY042dS04LThRQ1BmWFVzYnIxQmZ4aWp3cWpvN3BBQkZnQm9jNWVRNlc1ZUw1c3RIVERKY3RtWUxKYVZTY1FZM21ERjJu?oc=5": {
       "title": "Cuba tem apagão após colapso total do sistema elétrico - Valor Econômico",
@@ -2901,7 +2891,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:28.911155",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMEhQT0x5UmJwLTQ3dFVIOC1uc0Q5Zkh2OUhfTzhVZUdYWTNzbmM4YmJHRUE3Q1FXeEg1cGEwbDNPNkNuME5YdHpHLTI1cXZ1YWJDbGcyOFdxU2lHUUFBOTg3YjdBSS1YQkNON2tBM3c3bmdZNVFoSzY2Q1o4bEF1R3Rxb2NKMTNhTXNnSU5LR1hkbGZxdGhLUUdhZ3JuZFNxZ214dm1kei1yZFJlV1Y5Vm42eTRGeTlYUEhRbnR6RXNIWU44V1BjSy1KWHVUUlpybzdITlR0MFN1MmRIeGpSRVRhUmcyc00tWEFsS0lSa9IB_gFBVV95cUxOMFA5YlYtdlJtaTNlXzliWWE3VDB4M1FTdExlM0xtcG5YLWE2eV8tVEViUUhpbXM0WHdDS3BQMkZwSUZSQXQySjZiVlUzdjRraXo5ZWxpM1ZIdVhiSllvbVhIcUVxU3BDTkF4QnFWYWljcnNiTlNRMmdybVZPUTRqWWUxSkFEdHRsM2hCOV8tU0xjYVNQU1NJekh2N3A3UHFESDZsaTZGemVtUUhyQmhFbFBWQmlqMm9rN3BlRVI2Nkh1dFV2R0Uwd21PS3NsdU5nTVZKa050UXN1TE5EengyakxxQ0o0UVdiX2c3alVyOWVvN2dqZkpPNGV0SGJIQQ?oc=5": {
       "title": "Estudo propõe conclusão de arcabouço de segurança antes da abertura do mercado de energia de baixa tensão - Valor Econômico",
@@ -2909,7 +2899,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:28.911178",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2FXX0pTODRGQ2VpYklpUFBQQjNaYm9kT0RZSGFmRkZibVhJV05nVHp3RDB6SElqdnAtbkNDdzJieHV0TS1NTlNaRFRJbFAyRHNHUzc5Um5neTZEMnpuazVDeU03U3R3YjJVSmJtOGQ4YjF6NjE1VjdNMzJnbHVBaktmVV9fN20tNl9rbnRZZWRzZVhmSFI0VUkzcXpuOXpwdVpOLWFxbDNJNzhEeTl6UkNWc0VBMTkyY0xITA?oc=5": {
       "title": "Cuba sofre seu sétimo apagão no ano, e crise energética se agrava - Folha de S.Paulo",
@@ -2917,7 +2907,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:42.681143",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE93NFNVZjJ6cHg2NkVUS2ZxQkRISldQcWw0bTVRdjNKUy11dG5vREdlVkNYVU5kZWttTk90TWIzMlNjVG1qLXhiYUlpT3Z2Yk9PdUc0SWtqa0xwUnAtV2V4bHBSUEg2UTFWZlphSkRsZzJXU2gweGhYN2kzWjZObEE?oc=5": {
       "title": "Sindicatos de trabalhadores de energia pedem suspensão de pagamento de R$ 2,3 bi a acionistas da Axia - UOL",
@@ -2925,7 +2915,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:42.681186",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejRsVkI0MldBbVFyQjIwYVBWT3FJRFVRZFBBQUh2SEZFNFpRTEJXejlhWS1FSW5hZ3hRTC1vTmZ0cllYLWZjVHc2OXlreFA5VFdnX2dZTjZhcGhiOVBtQ0t5YWFIVWZkd1dtLTBRVXgzSl81QWRVdUUzNkVkb3dRSzYtY0V3M00weUwxTVhXTVZUbi05SkhZaWZ6S3VBWGN1UVlNOXExMF9fdmVDZDZSRjBhUGI2VnRCaGFtMFVxMDlQYXlNdFBZdFZRZXUyU3Nj0gHWAUFVX3lxTE5OTGJmNU1teUpOLWw2ZzdMQ0trdjBLNTZvUlhRSnI0TFFXLWtxTnRsYm9tMS13NWE2VE9tMk1XdDRTRTFoTU9yZFk5ZFpnREticnVTVTRiXzFfZUQzWG45TlBMUlZocGNFc2hPVFZMNWs2MU5fdngzem1Wdk94QUFrdVpLcU0yWWdQeVd1NlNYNGVqWldJU2hqeWlrYWpiZXduTHd0cGFSODEteTlTSG1NMjVTYXRUb01qV05vUi1qMWh3NVJON3hCRUF5dDIxLUlMVV81b1E?oc=5": {
       "title": "Sabesp é multada em R$ 29,9 milhões por falhas em estações de esgoto e descumprir prazos para obras - Estadão",
@@ -2933,7 +2923,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:57.488883",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUNQUTYydFdBcUhmcFFYRWR1NnFtTVd1b3VvbmpQWEYtdDdubEhWWFFyeXhoNUFuWk1vN0U3M3VzcVlxRzlEV2h4LXd4WlA0YU56cm9hcFE0d0VUcHliZHZ4elNrWm9wbnUzMXJNZG9tZTVTR1Y3akhzR3FacEFrcXJuWWxuaGFwRGp4eXdqV2ZhV3QteE5iNlRRaVRNcWcwTm95aFFwblRrOFh0YWpzRDVyTnZlZ1EyUi1pV3VQcmpON3hUN1J6Uzl6czFGOFk?oc=5": {
       "title": "O boom do mercado livre de energia no Brasil e a busca por contratos verdes – Engrenagens do Crescimento - Estadão",
@@ -2941,7 +2931,7 @@
       "source": "",
       "added_at": "2026-09-18T23:17:57.488903",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnNFMUs2dFJhcWNqNXRfWjJSODFmS0RFTlgxNTJrMXlQY1NLVUFPM3g3ZFpFcTFoTjAzdUJWdGQ2c2dTcVVudWlVV3Y4aWJtQTNLVk42WnhFR0pGSHF2dnVHaEUzdXVIekFzSnc4TjBRMGxRZ0NLZmV1VkF3ZnF0NWRwZEV1QTU3YllyVzlXOWVyWXBQa1NsZmxGZDIyNVNLR1pqZVltcHZCNWZV?oc=5": {
       "title": "Nova política de acesso à transmissão já viabilizou 30,7 GW em pedidos, diz MME - Agência iNFRA",
@@ -2953,59 +2943,45 @@
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1pvR2szQ291cEN1czNjOExUV255Smp6a20yVVNvOGNFNzk0Z1VNdHdwQWJfaHdjM282aFN1cmx2N3RZeXVDNnVCTUJOSUF3WU1BNjlXNXZ2cjY3REJQMkZHbUEzNTVpV2RLRnFnWVB6ejJFTlV4MlpOcHliOF9zQkxta2FUQnRJZUJCQ0x3QnhEQmdJMW1zUU5GSjNRcGxaUFBPNw?oc=5": {
       "title": "Aneel eleva previsão de alta da conta de luz para 9,4% em 2026 - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) revisou para 9,4% a previsão de alta média das tarifas de energia no Brasil em 2026, mesmo após incorporar no cálculo o efeito redutor dos recursos da repactuação do Uso de Bem Público (UBP), desconto bilionário bancado por hidrelétricas para aliviar a conta de consumidores atendidos por distribuidoras das regiões Norte e Nordeste. A nova estimativa…",
+      "summary": "A **Aneel** elevou a previsão de alta média das tarifas de energia para **9,4% em 2026**, mesmo com a incorporação de **R$ 5,2 bilhões** da repactuação do Uso de Bem Público (UBP). Encargos setoriais e custos de energia pressionam os reajustes.",
       "source": "",
-      "added_at": "2026-09-18T23:18:09.546791",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:09.546791"
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3dyWnljWE5ZdkROM1lzYUh0Y2VWekxtMzhuYkx0UC1Da0lhd2MydEw3bnZ3OUVkR0xmaDZiM2ZjTUQzc2czaHBweDVleEdsdV8tUFdpT3hqa2cyaW1kWW5qSDdJYkt4MFNpZjZBZzlGSWFHWWZ5MmdxZTRJV3kzN25FNk44cnZGNTFPRm43VmtETklsQ0pmWnRxQi12bnJp?oc=5": {
       "title": "Disputa na 1ª Temporada de Acesso cai de 3 GW para 451 MW - MegaWhat",
-      "summary": "A primeira Temporada de Acesso de 2026 terá 451 MW em pedidos de consumidores disputando 228 MW de capacidade remanescente na transmissão em São Paulo. O resultado, divulgado nesta sexta-feira, 18 de setembro, foi consolidado pelo Operador Nacional do Sistema Elétrico (ONS) após a etapa de manifestações dos agentes, encerrada em 11 de setembro.",
+      "summary": "A primeira Temporada de Acesso de **2026** terá **451 MW** em disputa por **228 MW** de capacidade de transmissão em São Paulo, segundo o **ONS**. O volume é menor que os **2,94 GW** inicialmente previstos, com a disputa concentrada em quatro pontos paulistas.",
       "source": "",
-      "added_at": "2026-09-18T23:18:09.546901",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:09.546901"
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGcnAwNzRKM3JkakhNaS1HX0laMklIdlRaZGx1eWpBYXdwNVJrMXJEOFdBQmNnN2xpcGtsVExBaHpYWmNBdGdOUE52VDhyaUFOc1B4enF0eHRJUklDa3EzXzcybmFmVnZHUTM3YXlFOHhWX2Vh?oc=5": {
       "title": "Empresas - MegaWhat",
-      "summary": "Empresas Copel lança novo PDV voltado para funcionários com mais de 25 anos de casa A Companhia Paranaense de Energia (Copel) lançou novo Programa de Demissão Incentivada, com potencial de redução de custos de R$ 168,7 milhões anualmente a partir de 2021 e estimativa de R$ 74,8 milhões em indenizações. O programa será feito em duas fases.",
+      "summary": "A **Copel** lançou um novo Programa de Demissão Incentivada (PDV) para funcionários com mais de 25 anos de casa, visando uma redução de custos anual de **R$ 168,7 milhões** a partir de 2021 e estimando **R$ 74,8 milhões** em indenizações.",
       "source": "",
-      "added_at": "2026-09-18T23:18:09.546923",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:09.546923"
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZkR3RzRrYTR0NGJJeHdYNWN4cFZrNk1mRHNCbGRIVUkycDEyNXRLTjJ6UUpidjdCOFhMMHdqZUN0VnY2aF81MlhCblAtX0hrUmk5XzZiTjA0LTRlVlhxQm1pYnh2YTlyMDNPekY4czlFX21FQ3hZV1lrLTFWb09XVFFDU2xGUUUtX2ZVVS1SUnZLSk9aZVFXb3NmWVVuWHczU0dkMzJyWTFWX3JfUzViV2pYWnJJX2FuYXZ0dE9kOEI5aTRoUzhtY3FnOA?oc=5": {
       "title": "Integração entre mercado físico e financeiro ‘veio para ficar’, diz Abraceel - MegaWhat",
-      "summary": "A integração entre o mundo físico da energia e o mercado financeiro “veio para ficar”, afirmou Alessandro Cantarino, vice-presidente executivo da Associação Brasileira dos Comercializadores de Energia (Abraceel). Segundo ele, o setor elétrico terá de lançar mão de produtos financeiros para auxiliar a gestão dos riscos físicos observados no sistema.",
+      "summary": "Alessandro Cantarino, vice-presidente executivo da **Abraceel**, afirmou que a integração entre o mercado físico e financeiro de energia é permanente, destacando a necessidade de produtos financeiros para gerenciar riscos no setor elétrico.",
       "source": "",
-      "added_at": "2026-09-18T23:18:20.928852",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:20.928852"
     },
     "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FbWllMVVOMGpERGZFZElLMUpRbVJUTUg3cUV4ci15ZEwzMkV5YjdQTTFFQ0ZFNFQ2S2RfamxiM2VkNkIyd1hXQzU0R3Q?oc=5": {
       "title": "Tag CCP - MegaWhat",
-      "summary": "Clearing CCEE vê espaço para N5X operar de forma complementar ao mercado A Câmara de Comercialização de Energia Elétrica (CCEE) vê espaço para que novas infraestruturas de mercado, como a contraparte central em desenvolvimento pela N5X, atuem de forma complementar aos mecanismos já existentes no setor. Em uma discussão sobre a integração entre regulação, mecanismos de mercado e instrumentos…",
+      "summary": "A **CCEE** considera que novas infraestruturas de mercado, como a contraparte central em desenvolvimento pela **N5X**, podem atuar de forma complementar aos mecanismos existentes no setor elétrico.",
       "source": "",
-      "added_at": "2026-09-18T23:18:20.928891",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:20.928891"
     },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadlZ0VldGanFCV0VWc1BZRDZhanpFZHhZV2NYLVg4Z293aC1BUzRId2tQNHdkbUMxTHZWNHhnY2hWNWdFeE5oOHBvMzRFX3BobFdRMWhYR3RuQW9kbm9zT091UQ?oc=5": {
       "title": "Tag Maurício Nichterwitz - MegaWhat",
-      "summary": "Opinião da Comunidade Crescimento de renováveis demanda novo desenho de mercado e disciplina na execução de projetos para garantir segurança energética Avanço das renováveis pressiona sinais econômicos do setor elétrico, exigindo mecanismos que garantam capacidade e flexibilidade, enquanto projetos recentes enfrentam desafios críticos de capex, logística e execução",
+      "summary": "O crescimento das energias renováveis exige um novo desenho de mercado e disciplina na execução de projetos para garantir a segurança energética, segundo Maurício Nichterwitz, pois avanços pressionam sinais econômicos e exigem mecanismos de capacidade e flexibilidade.",
       "source": "",
-      "added_at": "2026-09-18T23:18:20.928903",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:20.928903"
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR01IOVdwWFBIUDVDVERwQVpQYm4wRXA2V2ZqWW9NbHFuV3FzOXN4eFAtaGJEd0hrSjd1dGN3ekIzX0t6dUROQU9SUzBzcnhJQ2FiZWxSU2ZpR3dRRTY2eHRpQk9fOUgwemNWTHRvM0NpVUhkSmQtdFhlbUpyUVA1VTRScUdabDJPNjI2cmVLSmxUX3dn?oc=5": {
       "title": "CCEE vê espaço para N5X operar de forma complementar ao mercado - MegaWhat",
-      "summary": "A Câmara de Comercialização de Energia Elétrica (CCEE) vê espaço para que novas infraestruturas de mercado, como a contraparte central em desenvolvimento pela N5X, atuem de forma complementar aos mecanismos já existentes no setor. Em uma discussão sobre a integração entre regulação, mecanismos de mercado e instrumentos financeiros de gestão de risco, o diretor de Segurança de Mercado da CCEE…",
+      "summary": "A **CCEE** vê espaço para a **N5X** operar de forma complementar ao mercado, com o diretor Eduardo Rossi afirmando que a entidade deve se abrir para a conexão de novas infraestruturas. A **N5X** solicitou autorização ao Banco Central e CVM para operar derivativos com contraparte central. A **Aneel** e o **MME** estudam a redução dos prazos de liquidação do mercado de curto prazo para até uma semana a partir de 2029.",
       "source": "",
-      "added_at": "2026-09-18T23:18:20.929098",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-09-18T23:18:20.929098"
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRy11eHlXQWZxbkRVQ1hKR21peUxsYWlZUnNpSldENE5wRE5TOGRvU25DMjdLdzhrLXlBYkpEWW4xRjNkT2VlWVg4cnROTS1ZZExGMGdJMVFBNG93TF91ZG9Rbkk5bkVlMlQtMDdXTVNKRTZlM2hIQVQ1cUdyclVWZWJZVTdxMHEwd211d0o1S1BQR0ZnakVjdk5sWlNPV0dtYy0wWXNoSC1NUjJRNExpNF9SVQ?oc=5": {
       "title": "CCEE vê complementaridade com novas infraestruturas e cita conexão com N5X - MegaWhat",
@@ -3021,7 +2997,7 @@
       "source": "",
       "added_at": "2026-09-18T23:18:34.353149",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHFvYVd0QUd1OEUxRDFtbEtOOHBoZHcyRjcwb0dZU3FnVkF4bThTNlg1Uk5QVmZUNjhHXzZ4dTZNRW1jSEtDNkN6X0ZhY3p0bFlyOEVUOGVka0I1Rm81WVhJSUV4MjREajZNUC1KOThVa2JoVjNCWl9DX2lRcXNlcnRZWGNGZ19Ra1ZmSnJSOV9NbGFwT0Vsa2lZY3BSRWxrQ1JyR3hXY2d0OVpQSHBiS3FzQQ?oc=5": {
       "title": "EPE cria modelo para medir déficit de flexibilidade no sistema elétrico - MegaWhat",
@@ -3029,7 +3005,7 @@
       "source": "",
       "added_at": "2026-09-18T23:18:34.353312",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyQ1oxemdWM0lsRzdDMW45NzJGUmhFMEdLRWdUUWJHODY0VnJERnA4bXQtRTRlWFJUbDNhVFNDM1F0X280ZWZmOFhscElaVi1nZXRGR25OeHd3aWtrOU5RZnJtOGJ4TXFTN19RRnZ2dUhpdzFpTnpV?oc=5": {
       "title": "Redação, Autor em MegaWhat - MegaWhat",
@@ -3042,6 +3018,34 @@
       "summary": "O **Ministério de Minas e Energia (MME)**, através do secretário **Rodrigo Limp**, aposta na aprovação e aprimoramento da **MP 998** pelo Congresso até o prazo, visando o alívio nas tarifas de energia.",
       "source": "",
       "added_at": "2026-09-18T23:18:42.999229"
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejVVN3hmblViMmRnR3AxMEZXTWxSWEVGX2s4UTRNcFFxOUQ0cHJTTjc5bTNVR2hPSkRVd0cwemxUNDh2MGoyUThJc2RKdUh2S2luS2dkSDZhaWZXd0hpNVA1aWV6TmdJajZ2UmJOcUZTZG1tZzA5ZU5wTFVZbWtxc2N0YVlKcE1hSWV1enF6T3dFSkZLRTRrVEVHOHhCWEVucHRJ?oc=5": {
+      "title": "MME: nova política de transmissão já viabilizou acesso à rede de 30,7 GW - Agência iNFRA",
+      "summary": "da Agência iNFRA A Pnast (Política Nacional de Acesso ao Sistema de Transmissão) já viabilizou o acesso de 30,7 GW (gigawatts) ao sistema de transmissão em 2026, segundo o MME (Ministério de Minas e Energia). Desde a criação do modelo, em dezembro de 2025, mais de 43 GW pedidos de geradores e de grandes consumidores interessados em utilizar a rede básica já foram encaminhados ao ONS (Operador…",
+      "source": "",
+      "added_at": "2026-09-19T04:33:43.756044",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lX1ZkZFluUG00S0dONy10bVZlbjBsYmhhUi0tQUdSZG5tU3MtSW14WUxoUFViWkZ4cC1UNFYyOVRDaWdHbm9LTFlldnZfZnI5MlR6cFROR3VRZUx2dFpQa2N0dlotVkI5?oc=5": {
+      "title": "Economia e Política - MegaWhat",
+      "summary": "Um estudo da **International Energy Agency** aponta que a energia eólica no Brasil tem potencial para gerar **200 mil empregos**. O país já possui uma matriz energética com mais de **80%** de fontes renováveis, destacando-se globalmente.",
+      "source": "",
+      "added_at": "2026-09-19T04:33:55.539160"
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKR2NQb2NRLTJDX0xkYlVpaF9MVF9TUUExdThObFYxRVZxMS1XOGZEZm1WZTFQYTA3V3FWLXVtQklrTUVBWlFfcUFnU3N4cDBLcW5ITzdSSTQxNkxjdFE?oc=5": {
+      "title": "Tag baterias - MegaWhat",
+      "summary": "Apesar das chuvas recentes, os reservatórios das hidrelétricas do Sudeste e Centro-Oeste atingiram o nível mais baixo desde **2015**, segundo o **ONS**. A situação preocupa quanto ao abastecimento e à geração de energia no país.",
+      "source": "",
+      "added_at": "2026-09-19T04:33:55.539174"
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNUGF1dXZFaU4zRE5DT0loWmZtNzNQM1Nya09US2FZUlpWQl9hZW9oeEpURENpcFZKTUhQclVtakpadFgtVDcxbktKSjU?oc=5": {
+      "title": "Tag MAR - MegaWhat",
+      "summary": "Planejamento EPE cria modelo para medir déficit de flexibilidade no sistema elétrico A Empresa de Pesquisa Energética (EPE) propôs incorporar a flexibilidade operativa como uma terceira dimensão da garantia de suprimento do sistema elétrico brasileiro, ao lado dos critérios de energia e potência. A ideia central é avaliar se os recursos de geração e armazenamento conseguem responder, na…",
+      "source": "",
+      "added_at": "2026-09-19T04:34:18.110507",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
