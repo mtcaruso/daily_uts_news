@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-18T20:15:49.843588-03:00",
+  "last_updated": "2026-09-18T22:18:35.764191-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Apresentação Corporativa - Setembro/2026 -",
+      "data_referencia": "20260918 18/09/2026",
+      "data_entrega": "20260918 18/09/2026 20:37",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação Corporativa - Setembro/2026",
+      "protocolo": "1569715",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1569715",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-19T01:18:30.078337"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
@@ -4158,60 +4176,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-08-20T12:01:01.765807"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Escrituras e aditamentos de debêntures",
-      "tipo": "-",
-      "especie": "Emissão de Valores Mobiliários -",
-      "data_referencia": "20260817 17/08/2026",
-      "data_entrega": "20260819 19/08/2026 20:35",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Valores Mobiliários",
-      "protocolo": "1559652",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559652",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-20T00:32:50.764393"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Documentos de Oferta de Distribuição Pública",
-      "tipo": "Aviso ao Mercado",
-      "especie": "AVISO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 40ª EMISSÃO DE DEBÊNTURES SIMPLES -",
-      "data_referencia": "20260819 19/08/2026",
-      "data_entrega": "20260819 19/08/2026 20:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "AVISO AO MERCADO DA OFERTA PÚBLICA DE DISTRIBUIÇÃO DA 40ª EMISSÃO DE DEBÊNTURES SIMPLES",
-      "protocolo": "1559651",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559651",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-19T23:34:10.650037"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Emissão de Valores MobiliáriosAta",
-      "data_referencia": "20260817 17/08/2026 10:00",
-      "data_entrega": "20260819 19/08/2026 20:30",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Emissão de Valores Mobiliários",
-      "protocolo": "1559650",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1559650",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-19T23:34:10.650049"
     }
   ]
 }
