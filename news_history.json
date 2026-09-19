@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-19T19:34:57.806493",
+  "last_updated": "2026-09-19T21:45:22.502441",
   "items": {
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMG43QXk2NUVrRXZaMkF5NnZoMDFmbDNuUWF3LU5VaUI5NnlXZzBRMF9WeVJ5Y3NDUjJNR2xjemZrNmlSTGxxTDlxU3R2RkN3UURvRm9CalljWlAxUjFxNXZHUUd1UTRhVW9SNUgzNWJaRHBBWWRKaVdOakswSHhPdTFNV3lwU0h6bjFha3dlYTZ6eGdObUJwNVJhcm1yY0NvOGY4Y21TaG5RekdnaXczVWpvd2VSMVNRVjc4bk1JcmxHWEcyZF8yV0JUY0lVSl82SUFjcEZSbzRLeWRVREVPUmlSOElHVHYzUnhkQm5Pdw?oc=5": {
-      "title": "ANP aprova inclusão de 24 blocos de petróleo da Bacia Potiguar, na Margem Equatorial, na oferta permanente | Brasil - Valor Econômico",
-      "summary": "A **ANP** aprovou a inclusão de **24 blocos de petróleo** na Bacia Potiguar (Margem Equatorial) na oferta permanente. Os blocos só poderão ser leiloados após a conclusão do 6º ciclo em **7 de outubro**, dependendo de análises ambientais e manifestação conjunta de ministérios.",
-      "source": "",
-      "added_at": "2026-09-05T20:43:04.013515"
-    },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcW80TzgyX2JwRnJVd1hLSkhUWmRObHFWUFp5MkNFOHFqcWZ1bTFubW8tSHRHVkUxOFpacFlReVlURjE3TFBScHBDZzN2aHlLYXdHbkd0N2l4TG5JTElKQUhfTXZCekZ6TG5paV9ZOXI4NzBVY0tHcEtKOF9vSHgzclI0RXBPMnpCaGZTYzJWT0YzbU9ka3k0aS15ZEVtN05pUldNd2ZvVENmOGJfSk1kajVEYmN6VlppLUI0OUNOdkZHMUtMUjlCNnJXTVlDdWIxVFp6elN5dw?oc=5": {
       "title": "Em discurso de 7 de setembro, Lula mandará recado aos EUA e citará petróleo na Margem Equatorial - Estadão",
       "summary": null,
@@ -3057,7 +3051,21 @@
       "source": "",
       "added_at": "2026-09-19T17:14:51.649156",
       "error": "no_article",
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTNjdzdJOF9tUUpyWC1JZzdQYXZya3JWc0RWUlB6OEZEY2g2blBzSXRyZ2hrVEN0d0VEMTdNR2traUVPVnRJb3lYVm1HUm5CSU9TalhGb2JjY3NPQy1POGtyTzc1UGtIdjZPcWFMQ3V0WWNUUFpibTdqejhsdUFVMjdMUzlNb0dPYzFiRW9GRXFvb0d2OVlyV2RYd09iekVZdllIMTNYZVRYNVVySzBBTlRBOHpNVEE2NlN0Rlp2YkU?oc=5": {
+      "title": "Cinco carros clássicos que renasceram como elétricos - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-19T21:45:17.203237",
+      "error": "no_article",
       "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNEEwYUJXVWFCYmJGcDF4R25XRHd0S1NPVVVMQVo1RXcwMmFtMkk1M2lCQU1OZWhXVjN1b3A3dS1JclhPX2NrcmluVnAyLUF0bjhGenpiOHFGTV9kY2puSXFxZlVHQWtLVG5iWkJtazV0OFFtS2wwSjFESE52UFo3aFVWdnNGWHFyM3FsZTUzTEpvRzFDWnVYTU53X1lIZUw0QVFEYXJqOWJkeHgzXzhwd1lHYzdXV0RtSGJkX2VHZ29DRk5JR2hueVFSUW1ZeU1HRWJKbzVDVGVqcmhxMzdmSDdmOTlVSFktd1E5c18xbw?oc=5": {
+      "title": "Alemanha inaugura parque eólico no mar para fornecer energia para 1,1 milhão de residências - UOL",
+      "summary": "A Alemanha inaugurou o parque eólico offshore \"He Dreiht\" no Mar do Norte, com capacidade de **960 MW** e custo de **€2,4 bilhões** (**US$ 2,8 bilhões**). A **EnBW** operadora, com apoio do ministro Carsten Schneider, busca atingir a meta de triplicar a capacidade eólica offshore para **30 GW** até **2030**, apesar de incertezas no setor e a ausência de subsídios estatais.",
+      "source": "",
+      "added_at": "2026-09-19T21:45:22.497486"
     }
   }
 }
