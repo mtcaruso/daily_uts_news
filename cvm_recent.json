@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T15:14:15.721203-03:00",
+  "last_updated": "2026-09-20T17:48:32.595760-03:00",
   "items": [
     {
       "cnpj_short": "02123-7",
@@ -3798,42 +3798,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "25577",
       "first_seen": "2026-08-21T20:57:28.888399"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicação sobre demandas societárias",
-      "tipo": "-",
-      "especie": "Comunicação de demanda societária -",
-      "data_referencia": "20260821 21/08/2026",
-      "data_entrega": "20260821 21/08/2026 17:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Comunicação de demanda societária",
-      "protocolo": "1560335",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560335",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-21T20:40:23.198557"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "Apresentação Site Visit CEEE-D -",
-      "data_referencia": "20260821 21/08/2026",
-      "data_entrega": "20260821 21/08/2026 16:47",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "Apresentação Site Visit CEEE-D",
-      "protocolo": "1560227",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1560227",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-08-21T19:56:11.128690"
     }
   ]
 }
