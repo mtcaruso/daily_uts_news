@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T13:56:41.621529",
+  "last_updated": "2026-09-21T20:30:52.983379",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1049,6 +1049,83 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-conclui-calculo-das-tarifas-de-transmissao-para-o-ciclo-2026-2027-com-maior-estabilidade-e-sinal-economico-mais-eficiente",
       "summary": "A **ANEEL** concluiu o cálculo das tarifas de transmissão para o ciclo **2026/2027**, com receitas totais de **R$ 54,95 bilhões** para 258 empresas. O novo cálculo, com vigência de 1º de julho de 2026 a 30 de junho de 2027, busca maior estabilidade e um sinal econômico mais eficiente, com impacto médio de **1,1%** para os consumidores.",
       "added_at": "2026-06-24T13:50:36.610272"
+    },
+    "partic_ap_007_2026": {
+      "type": "partic_ap",
+      "title": "Audiência Pública nº 007/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/audiencias-publicas?p_auth=sA48cEhy&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4042&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão Tarifária Periódica de 2026 da **CEEE-D** — busca aprimoramento da proposta para vigor a partir de **22 de novembro de 2026**.",
+      "added_at": "2026-09-21T20:30:32.283238",
+      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Companhia Estadual de Distribuição de Energia Elétrica – CEEE-D, a vigorar a partir de 22 de novembro de 2026.",
+      "deadline": "08/10/2026",
+      "start_date": "08/10/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_mme_cp_232": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 232",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/232",
+      "summary": "Metas globais de descarbonização da matriz de combustíveis para o ciclo **2027-2036** são submetidas à consulta pública no âmbito do **RenovaBio**. A proposta visa definir os objetivos de redução de emissões para os próximos dez anos.",
+      "added_at": "2026-09-21T20:30:37.376053",
+      "objeto": "Proposta de metas globais de descarbonização da matriz de combustíveis - Ciclo 2027-2036, submetida à consulta pública, no âmbito da Política Nacional de Biocombustíveis (RenovaBio).",
+      "deadline": "29/10/2026",
+      "start_date": "15/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48380.000158/2026-26"
+    },
+    "partic_mme_cp_231": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 231",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/231",
+      "summary": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
+      "added_at": "2026-09-21T20:30:37.880036",
+      "objeto": "Orçamento da CDE para a execução do Programa Luz para Todos no ano de 2026",
+      "deadline": "28/09/2026",
+      "start_date": "11/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48370.000672/2017-90"
+    },
+    "partic_mme_cp_229": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 229",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/229",
+      "summary": "Aprimoramentos na contratação de reserva de capacidade na forma de potência são o foco desta consulta pública. A ANEEL busca subsídios para otimizar os processos de contratação.",
+      "added_at": "2026-09-21T20:30:42.419534",
+      "objeto": "Documentação com proposta de aprimoramentos referentes à contratação de reserva de capacidade na forma de potência.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48340.000950/2026-57"
+    },
+    "partic_mme_cp_228": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 228",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/228",
+      "summary": "Revisão do **Decreto nº 5.163/2004** e **Decreto nº 2.655/1998** para adequação regulatória.",
+      "added_at": "2026-09-21T20:30:47.419190",
+      "objeto": "Proposta de revisão do Decreto nº 5.163, de 30 de julho de 2004, e do Decreto nº 2.655, de 2 de julho de 1998.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48330.000169/2026-00"
+    },
+    "partic_mme_cp_227": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 227",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/227",
+      "summary": "Regulamenta taxa de fiscalização para comercializadores de energia elétrica, conforme **Lei 15.269/2025**.",
+      "added_at": "2026-09-21T20:30:52.476561",
+      "objeto": "A Nota Técnica nº 27/2026/SAER/SE, apresenta proposta de diretrizes para o tratamento da regulamentação da taxa de fiscalização aplicável aos agentes comercializadores de energia elétrica, instituída pela Lei 15.269, de 24 de novembro de 2025.",
+      "deadline": "08/10/2026",
+      "start_date": "24/08/2026",
+      "fonte": "MME",
+      "sei_processo": "48300.001356/2026-50"
     }
   }
 }

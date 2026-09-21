@@ -593,7 +593,7 @@
     "documento_count": 467,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-09-21T19:57:57.400385",
+    "last_check_at": "2026-09-21T20:31:01.387370",
     "last_andamentos_top10": [
       {
         "datahora": "21/09/2026 15:53",
@@ -777,7 +777,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-09-21T19:58:01.444090",
+    "last_check_at": "2026-09-21T20:31:07.120679",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1518,6 +1518,76 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "8d92f4221d5f",
+      "85268efa0055",
+      "31520190732b",
+      "7dcf2af933c1",
+      "1bdee9050816",
+      "b502bb3aac96",
+      "fa3b3c13161f",
+      "8a4c5ec21847",
+      "913ed2b15c7a",
+      "a46363df53cc",
+      "9b89e99c29a5",
+      "5693f90b6e6e",
+      "ca10254412a1",
+      "cea67fdcf39c",
+      "09abcb820968",
+      "c2b0fd87a2eb",
+      "df109c8b7422",
+      "1bb87707a3cb",
+      "96d5f62aa3aa",
+      "7539e8f4551e",
+      "604851681f98",
+      "777ba27ad107",
+      "e4255ac22289",
+      "929c3d268104",
+      "83ab9094aad8",
+      "fb72c6ab9a96",
+      "81565750c294",
+      "e44806608689",
+      "92015e3a6296",
+      "cf086b82462f",
+      "7b01a3dd76bb",
+      "b8b7f7557307",
+      "3e8997b952d3",
+      "53670982af22",
+      "7d85fdd1882d",
+      "2777f7dc7bc4",
+      "2e0aafbb719d",
+      "b850a26c2acb",
+      "2893d2020d06",
+      "e79ec834941b",
+      "a88200a1d346",
+      "4d5e89fd7c88",
+      "4836cbb9b6cc",
+      "e9f39bdd4eb4",
+      "5fb8fe65ae4b",
+      "9734baede797",
+      "6ec8bba3695b",
+      "31c314c5f6de",
+      "5b274d91bdd0",
+      "b1f3196d662e",
+      "4090cdde42a7",
+      "8f1dbb11945c",
+      "8fd1a0c16c70",
+      "9357d92a70cf",
+      "49d11569a38b",
+      "a4d93e7913e4",
+      "47e658f74e2a",
+      "acf6aef74e0d",
+      "49bf297aafad",
+      "da584de0e0d7",
+      "31db29e76203",
+      "92f04cc239cd",
+      "aaf2a99c0ec9",
+      "ba063246ae32",
+      "60e4f605cea1",
+      "bc9a1f738642",
+      "51545bb9b3ba",
+      "f7cb7d5b8b82",
+      "a6aa8516347b",
+      "ced05e87fe27",
       "f1bae2a9e44e",
       "3c6fc9bc81b3",
       "b69252609981",
@@ -1541,69 +1611,69 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 20,
-    "documento_count": 15,
-    "last_check_at": "2026-06-24T09:01:49.441608",
+    "andamento_count": 90,
+    "documento_count": 56,
+    "last_check_at": "2026-09-21T20:31:25.658200",
     "last_andamentos_top10": [
       {
-        "datahora": "22/06/2026 08:38",
-        "unidade": "SGE -SORTEIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "f1bae2a9e44e"
+        "datahora": "21/09/2026 12:21",
+        "unidade": "STR",
+        "descricao": "Processo recebido na unidade",
+        "hash": "8d92f4221d5f"
       },
       {
-        "datahora": "11/06/2026 23:55",
-        "unidade": "SGE - PUBLICAÇÃO",
+        "datahora": "21/09/2026 11:58",
+        "unidade": "STR",
+        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+        "hash": "85268efa0055"
+      },
+      {
+        "datahora": "18/09/2026 15:58",
+        "unidade": "GAB V - WMF",
         "descricao": "Conclusão do processo na unidade",
-        "hash": "3c6fc9bc81b3"
+        "hash": "31520190732b"
       },
       {
-        "datahora": "10/06/2026 15:44",
-        "unidade": "DIR - GNSJ",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "b69252609981"
+        "datahora": "18/09/2026 15:58",
+        "unidade": "GAB V - WMF",
+        "descricao": "PROCESSO DELIBERADO COM A PAUTA DA 18ª RPO EM 08/09/2026, SEGUE PARA A CONCLUSÃO DE PROCEDIMENTOS.",
+        "hash": "7dcf2af933c1"
       },
       {
-        "datahora": "10/06/2026 15:43",
-        "unidade": "DIR - GNSJ",
-        "descricao": "PROCESSO DELIBERADO COM A PAUTA DA 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA, REALIZADA EM 02/06/2026. SEGUE PARA CONCLUSÃO DOS PROCEDIMENTOS.",
-        "hash": "7cb7e563f76c"
-      },
-      {
-        "datahora": "09/06/2026 17:07",
+        "datahora": "15/09/2026 11:05",
         "unidade": "SGE - PUBLICAÇÃO",
         "descricao": "Processo recebido na unidade",
-        "hash": "106a4cdd803c"
+        "hash": "1bdee9050816"
       },
       {
-        "datahora": "09/06/2026 15:55",
+        "datahora": "15/09/2026 10:45",
         "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo remetido pela unidade DIR - GNSJ",
-        "hash": "3c2ca5683895"
+        "descricao": "Processo remetido pela unidade GAB V - WMF",
+        "hash": "b502bb3aac96"
       },
       {
-        "datahora": "02/06/2026 18:13",
-        "unidade": "ASD - APOIO",
+        "datahora": "09/09/2026 10:23",
+        "unidade": "STR",
+        "descricao": "Processo 48500.025214/2026-21 anexado",
+        "hash": "fa3b3c13161f"
+      },
+      {
+        "datahora": "28/08/2026 11:27",
+        "unidade": "GAB - APOIO",
         "descricao": "Conclusão do processo na unidade",
-        "hash": "8663007f0c6e"
+        "hash": "8a4c5ec21847"
       },
       {
-        "datahora": "02/06/2026 18:04",
-        "unidade": "ASD - APOIO",
+        "datahora": "28/08/2026 08:38",
+        "unidade": "GAB - APOIO",
         "descricao": "Reabertura do processo na unidade",
-        "hash": "1a0c24c8a32b"
+        "hash": "913ed2b15c7a"
       },
       {
-        "datahora": "02/06/2026 09:59",
-        "unidade": "DIR - GNSJ",
-        "descricao": "Processo 48500.015376/2026-51 anexado",
-        "hash": "1daaddd3fba2"
-      },
-      {
-        "datahora": "29/05/2026 14:19",
-        "unidade": "DIR - GNSJ",
-        "descricao": "Processo 48500.015372/2026-73 anexado",
-        "hash": "822a3e794ee4"
+        "datahora": "24/08/2026 10:37",
+        "unidade": "GAB V - WMF",
+        "descricao": "Processo recebido na unidade",
+        "hash": "a46363df53cc"
       }
     ],
     "last_documentos_top10": [

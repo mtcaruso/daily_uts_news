@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T20:35:18.005563-03:00",
+  "last_updated": "2026-09-21T20:32:24.330856-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -17,7 +17,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1570241",
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
-      "first_seen": "2026-09-21T23:34:59.525369"
+      "first_seen": "2026-09-21T20:32:06.417236"
     },
     {
       "cnpj_short": "02474-0",
@@ -35,7 +35,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1570211",
       "empresa_label": "Copel",
       "codigo_cvm": "24740",
-      "first_seen": "2026-09-21T23:35:06.477463"
+      "first_seen": "2026-09-21T20:32:10.966611"
     },
     {
       "cnpj_short": "02123-7",
@@ -53,7 +53,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1570208",
       "empresa_label": "Eneva",
       "codigo_cvm": "21237",
-      "first_seen": "2026-09-21T23:35:13.295135"
+      "first_seen": "2026-09-21T20:32:15.506376"
     },
     {
       "cnpj_short": "02123-7",
@@ -71,7 +71,7 @@
       "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1570205",
       "empresa_label": "Eneva",
       "codigo_cvm": "21237",
-      "first_seen": "2026-09-21T23:35:13.295098"
+      "first_seen": "2026-09-21T20:32:15.506351"
     },
     {
       "cnpj_short": "02001-0",
