@@ -6,6 +6,139 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "737ce35bc431",
+      "b006cad662ab",
+      "5a96e7565da8",
+      "f66887696ec8",
+      "746535075e28",
+      "2f43cb9f7813",
+      "7817c7d1b49e",
+      "1557158c1e4d",
+      "2027df5050e9",
+      "97ad5657290d",
+      "50d791fc98cb",
+      "717a33ca31ef",
+      "2e48d178a71b",
+      "157d246a10ed",
+      "0f02f1ca3282",
+      "b836d0ef14e1",
+      "825a68436c64",
+      "3f662d379595",
+      "327d7f9c24a7",
+      "17cdcd17ce89",
+      "50a7f8c90ebd",
+      "0202889708e9",
+      "2e8a8ba05be7",
+      "2e44bf077b3b",
+      "98690e0fb736",
+      "1518376fd2c7",
+      "821f06dd8905",
+      "e32e38c3a4d9",
+      "d45073729a01",
+      "7455f098c923",
+      "b7171c29d745",
+      "b0823fe2de63",
+      "dc3f2f1ac0a4",
+      "fb6b798e906b",
+      "ff397ddba6a7",
+      "7cf0fca65a1c",
+      "382cc3256fa0",
+      "793f04924503",
+      "bbce55a73be9",
+      "fd04d88d3fcb",
+      "aa860aaa6960",
+      "d3d9df35b943",
+      "6e4ec8aab5cb",
+      "20f46cd77229",
+      "5981c5d4fbc9",
+      "5ee919047177",
+      "cf9c521fa932",
+      "9291e5d0908a",
+      "a585bfc73be4",
+      "7152cbe1d804",
+      "66bca8d3784d",
+      "d988168140c5",
+      "c24343c0009a",
+      "43becb49201a",
+      "475fd4ed0fd9",
+      "b1f230266a82",
+      "51e2f58c9747",
+      "70557e73c7f7",
+      "d3c90d36e1be",
+      "437730b9dbbe",
+      "96a4ba7573d7",
+      "63a3a0545379",
+      "147cb3884b4a",
+      "ab7781744a82",
+      "023634a69004",
+      "5890e7b7753c",
+      "c676bf916269",
+      "d4a6f75a0c12",
+      "0149dd8da692",
+      "27da7cd1fc5e",
+      "ee34038785e0",
+      "ea2b4062ca25",
+      "f2563e00bf48",
+      "e7f04ce359cb",
+      "39f955231231",
+      "013eb7fee6b3",
+      "c181feece102",
+      "e222ba33c87f",
+      "f283656507b7",
+      "5c84ccd96280",
+      "05f31bc34107",
+      "3f12bb410920",
+      "cca0c31012c2",
+      "8f82418bfefc",
+      "98bf2e07901d",
+      "a46dc0d67141",
+      "bc33fcafaf0a",
+      "9ddd8f5fab26",
+      "dbc75347d94f",
+      "79e6a8aa9e54",
+      "395f9160b878",
+      "c8dbe96fcfd5",
+      "c2cd9342de53",
+      "4bc2903b2322",
+      "5a757e987944",
+      "b4beed4182f2",
+      "3d3fdb330015",
+      "9598d8d3b901",
+      "81f6e52eef81",
+      "a9eaa706c7de",
+      "ddfb3ff71799",
+      "1ed206e0cf9d",
+      "2d5112dcced9",
+      "7dad5c8ded10",
+      "b8ef74b27635",
+      "65e65af1c4c1",
+      "8a5bf4777721",
+      "254f6a1893a2",
+      "9919529f57cc",
+      "38f0784de2ab",
+      "b5c4f68f263c",
+      "3bec24623ae3",
+      "aac878d96917",
+      "1178b6d03c52",
+      "73158aa2b424",
+      "fda5712f85e1",
+      "b0963c0fc272",
+      "facfadba4553",
+      "54529897b3ba",
+      "67104ebdaf0a",
+      "2a20498dbab8",
+      "22dd1235e8a5",
+      "2a508af10649",
+      "8a800f37f2d0",
+      "1fd169ca7c64",
+      "aadacaba7df5",
+      "d3d2a4ef4237",
+      "f86db2b75ddf",
+      "38b1ef7a8f9c",
+      "a0871f0a905e",
+      "66cbb1360b40",
+      "add33cf9fbe9",
+      "9b9f4e21e936",
       "4fce22528a10",
       "7016a6e0bf98",
       "ad5c0796fe56",
@@ -456,71 +589,71 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 449,
-    "documento_count": 381,
+    "andamento_count": 582,
+    "documento_count": 467,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-06-24T09:01:36.268267",
+    "last_check_at": "2026-09-21T19:57:57.400385",
     "last_andamentos_top10": [
       {
-        "datahora": "23/06/2026 13:11",
-        "unidade": "CPL",
-        "descricao": "Processo 48500.017649/2026-01 anexado",
-        "hash": "4fce22528a10"
-      },
-      {
-        "datahora": "18/06/2026 16:41",
+        "datahora": "21/09/2026 15:53",
         "unidade": "CPL",
         "descricao": "Processo recebido na unidade",
-        "hash": "7016a6e0bf98"
+        "hash": "737ce35bc431"
       },
       {
-        "datahora": "18/06/2026 16:00",
+        "datahora": "21/09/2026 15:52",
         "unidade": "CPL",
         "descricao": "Processo remetido pela unidade SEL",
-        "hash": "ad5c0796fe56"
+        "hash": "b006cad662ab"
       },
       {
-        "datahora": "18/06/2026 15:59",
+        "datahora": "21/09/2026 15:27",
         "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "9984a5c0d62f"
+        "descricao": "Processo 48500.026381/2026-90 anexado",
+        "hash": "5a96e7565da8"
       },
       {
-        "datahora": "18/06/2026 15:56",
+        "datahora": "21/09/2026 15:23",
         "unidade": "SEL",
-        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "d0bba00dca6f"
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "f66887696ec8"
       },
       {
-        "datahora": "18/06/2026 10:34",
-        "unidade": "CPL",
+        "datahora": "21/09/2026 09:47",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo 48500.027451/2026-27 anexado",
+        "hash": "746535075e28"
+      },
+      {
+        "datahora": "18/09/2026 17:14",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo 48500.027485/2026-11 anexado",
+        "hash": "2f43cb9f7813"
+      },
+      {
+        "datahora": "17/09/2026 09:32",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "7817c7d1b49e"
+      },
+      {
+        "datahora": "15/09/2026 17:23",
+        "unidade": "STD",
         "descricao": "Processo recebido na unidade",
-        "hash": "0ac33f80ae92"
+        "hash": "1557158c1e4d"
       },
       {
-        "datahora": "18/06/2026 10:16",
-        "unidade": "CPL",
-        "descricao": "Processo remetido pela unidade SEL",
-        "hash": "dc08a5cea237"
+        "datahora": "15/09/2026 17:21",
+        "unidade": "STD",
+        "descricao": "Processo remetido pela unidade CPL",
+        "hash": "2027df5050e9"
       },
       {
-        "datahora": "18/06/2026 10:10",
-        "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "619355062b66"
-      },
-      {
-        "datahora": "18/06/2026 05:07",
-        "unidade": "SEL",
-        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "277c4306133c"
-      },
-      {
-        "datahora": "17/06/2026 17:42",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo recebido na unidade",
-        "hash": "cd6abd0b5298"
+        "datahora": "15/09/2026 11:24",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo 48500.027078/2026-12 anexado",
+        "hash": "97ad5657290d"
       }
     ],
     "last_documentos_top10": [
@@ -533,7 +666,7 @@
       },
       {
         "protocolo": "0224955",
-        "tipo": "Portaria Normativa MME nº 118",
+        "tipo": "Portaria",
         "data": "23/10/2025",
         "data_inclusao": "24/10/2025",
         "unidade": "SEL"
@@ -644,7 +777,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-24T09:01:41.149536",
+    "last_check_at": "2026-09-21T19:58:01.444090",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -824,7 +957,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-06-24T09:01:43.696083",
+    "last_check_at": "2026-09-21T19:58:04.036631",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -967,6 +1100,19 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "4d58e52ce028",
+      "693a62a767e3",
+      "34d07d555f25",
+      "fcf729e2c855",
+      "aa6ac5989664",
+      "8fe4e68ac65a",
+      "fe0b6d31649b",
+      "5a80b9cb33d1",
+      "533a29ac5bbb",
+      "34a6abf3239d",
+      "bdf289b9e95d",
+      "ef89dbd2e536",
+      "248f44215509",
       "6b2b4e40a5e6",
       "b9cb00b708da",
       "cf7f1a90cdcf",
@@ -1225,71 +1371,71 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 257,
-    "documento_count": 137,
+    "andamento_count": 270,
+    "documento_count": 140,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-06-24T09:01:47.013540",
+    "last_check_at": "2026-09-21T19:58:07.401926",
     "last_andamentos_top10": [
       {
-        "datahora": "24/06/2026 06:41",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "6b2b4e40a5e6"
-      },
-      {
-        "datahora": "12/06/2026 14:30",
-        "unidade": "SGE - PUBLICAÇÃO",
+        "datahora": "18/08/2026 10:14",
+        "unidade": "GAB III - LLS",
         "descricao": "Conclusão do processo na unidade",
-        "hash": "b9cb00b708da"
+        "hash": "4d58e52ce028"
       },
       {
-        "datahora": "12/06/2026 08:39",
-        "unidade": "SFT",
+        "datahora": "18/08/2026 10:13",
+        "unidade": "GAB III - LLS",
         "descricao": "Processo recebido na unidade",
-        "hash": "cf7f1a90cdcf"
+        "hash": "693a62a767e3"
       },
       {
-        "datahora": "12/06/2026 07:55",
+        "datahora": "18/08/2026 09:17",
+        "unidade": "GAB III - LLS",
+        "descricao": "Processo remetido pela unidade GAB III - FLMFS",
+        "hash": "34d07d555f25"
+      },
+      {
+        "datahora": "07/08/2026 17:05",
+        "unidade": "STR",
+        "descricao": "Processo recebido na unidade",
+        "hash": "fcf729e2c855"
+      },
+      {
+        "datahora": "06/08/2026 10:21",
+        "unidade": "GDG",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "aa6ac5989664"
+      },
+      {
+        "datahora": "05/08/2026 11:37",
+        "unidade": "GDG",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "8fe4e68ac65a"
+      },
+      {
+        "datahora": "30/06/2026 12:04",
+        "unidade": "SFT",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "fe0b6d31649b"
+      },
+      {
+        "datahora": "30/06/2026 09:00",
         "unidade": "SGI",
         "descricao": "Processo recebido na unidade",
-        "hash": "b9d5c50198ed"
+        "hash": "5a80b9cb33d1"
       },
       {
-        "datahora": "12/06/2026 00:27",
+        "datahora": "29/06/2026 14:42",
         "unidade": "SGI",
         "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "9bb77a29349a"
+        "hash": "533a29ac5bbb"
       },
       {
-        "datahora": "12/06/2026 00:23",
-        "unidade": "SFT",
-        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "24d590a94a83"
-      },
-      {
-        "datahora": "12/06/2026 00:22",
+        "datahora": "29/06/2026 14:41",
         "unidade": "SGE - PUBLICAÇÃO",
         "descricao": "Reabertura do processo na unidade",
-        "hash": "80b237e56fcd"
-      },
-      {
-        "datahora": "02/06/2026 11:21",
-        "unidade": "DIR - WMF",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "d7e8773cc6fe"
-      },
-      {
-        "datahora": "26/05/2026 19:15",
-        "unidade": "ASD - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "f6f724a72516"
-      },
-      {
-        "datahora": "26/05/2026 19:10",
-        "unidade": "ASD - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "48eac262d182"
+        "hash": "34a6abf3239d"
       }
     ],
     "last_documentos_top10": [
