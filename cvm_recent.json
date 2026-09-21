@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-21T13:40:28.364705-03:00",
+  "last_updated": "2026-09-21T17:33:57.825305-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "WACC regulatório -",
+      "data_referencia": "20260921 21/09/2026",
+      "data_entrega": "20260921 21/09/2026 17:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "WACC regulatório",
+      "protocolo": "1569972",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1569972",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-09-21T20:33:40.814263"
+    },
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Política de Divulgação de Ato ou Fato Relevante",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20230425 25/04/2023 14:00",
+      "data_entrega": "20260921 21/09/2026 17:05",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1569971",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1569971",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-09-21T20:33:40.814252"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
