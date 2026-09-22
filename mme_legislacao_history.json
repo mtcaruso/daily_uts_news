@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T04:56:02.236410",
+  "last_updated": "2026-09-22T14:54:01.503389",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -3423,6 +3423,19 @@
       "summary": "Institui a **Política Nacional de Minerais Críticos e Estratégicos (PNMCE)** e o **Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE)**. Altera leis relacionadas à mineração e industrialização.",
       "added_at": "2026-09-17T15:00:32.912016",
       "summarized_at": "2026-09-17T15:00:48.335050"
+    },
+    "decretos_decreto-n-13-121-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-121-2026",
+      "title": "Decreto nº 13.121/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-121-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-121-2026.pdf",
+      "date_modified": "22/09/2026",
+      "ementa": "Regulamenta a Medida Provisória nº 1.391, de 11 de setembro de 2026, que autoriza a concessão de subvenção econômica aos produtores e importadores de óleo diesel e suas correntes, com a finalidade de garantir o fornecimento de óleo diesel e suas correntes em todo o território nacional, enquanto houver instabilidade na oferta de combustíveis decorrentes de conflitos geopolíticos.",
+      "summary": "Regulamenta a **MP nº 1.391/2026**, autorizando subvenção econômica a produtores e importadores de óleo diesel para garantir o fornecimento nacional. A medida visa mitigar instabilidade de oferta por conflitos geopolíticos.",
+      "added_at": "2026-09-22T14:53:55.188571",
+      "summarized_at": "2026-09-22T14:54:01.003072"
     }
   },
   "first_run_done": true
