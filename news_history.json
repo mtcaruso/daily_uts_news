@@ -1,88 +1,6 @@
 {
-  "last_updated": "2026-09-23T00:28:44.507494",
+  "last_updated": "2026-09-23T05:08:46.053786",
   "items": {
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUM1VTUzVFRLNGFac3VGMXJGeWJiQk03cm1HMkhsMS1qWUtGelM2eHZnX2Jmd1NXRVRaOEJwSkZ2bmVJWlNEVjZoTlhhT0loU0ZQcEsxWFhRWF9sX1RVWWZrTzZuT1V1ZU5IOFAyNGVjRTItYXV1cU55YUZyckJxbEJrSzhxM3ZwME8yREJRcm5TaDVyMnFWa0VoS09FTHoyUEZ0ZUNDWXJ4Rkx4emszUTd6cTZWcC1VbkRHM0lRay1qdGhmOHpKeGtTZ1pRTnUw?oc=5": {
-      "title": "China: Preços ao consumidor e ao produtor sobem em agosto pressionados por energia | Mundo - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-09T04:34:29.335573",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWFJfNGJJMlhNN2N3T19XcXRBVVBsdVZNT3R2NS13SVc3VVBlaTc4SnA1aGxiaFpkUmFfbnotOFlBdHhERlQ4R2tPc1NFMGh4WXRfdDNHSC0wUEJMT2JzRXpYZ2lSQW1VaFRxelhaeFFnRDQ0ekIzWkRR?oc=5": {
-      "title": "Camila Maia, Autor em MegaWhat - megawhat.uol.com.br",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-09T04:35:17.363218",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbFNzMXBmV0FIWmhHXzFfbFEwSFd0TTRtd0ZrU09JSkI0S2NLMVIzQ2lWZk15UFo3d19pczFXc3BZMkllRTBscGwwZ05UbUh3dW5iRi1xMnFWWFhxNW8wR3F4djl3ZDJvZXg3SkwycDhOQ0hqcTZGcmFUa0M2ZkJmd0k0TFlMSlNuUHFQWkpnS3M4ckNlYURyTnBTS3VPXzhnNVUxWlpWM2FNZld2ZDdZY3BCaGNTcXUyUnNSbWkwVF9udnpZd0ZIQTdlR2x1WWJxODZOV3JzUlBZV2FzM09PaVZrWdIB4wFBVV95cUxQbFNzMXBmV0FIWmhHXzFfbFEwSFd0TTRtd0ZrU09JSkI0S2NLMVIzQ2lWZk15UFo3d19pczFXc3BZMkllRTBscGwwZ05UbUh3dW5iRi1xMnFWWFhxNW8wR3F4djl3ZDJvZXg3SkwycDhOQ0hqcTZGcmFUa0M2ZkJmd0k0TFlMSlNuUHFQWkpnS3M4ckNlYURyTnBTS3VPXzhnNVUxWlpWM2FNZld2ZDdZY3BCaGNTcXUyUnNSbWkwVF9udnpZd0ZIQTdlR2x1WWJxODZOV3JzUlBZV2FzM09PaVZrWQ?oc=5": {
-      "title": "Valor 1000: CPFL alcança sexto título em energia elétrica e reforça resiliência - Valor Econômico",
-      "summary": "Valor 1000: CPFL alcança sexto título em energia elétrica e reforça resiliência Companhia reforça iniciativas climáticas, aposta em transmissão e antecipa geração 100% renovável Quando as águas cobriram bairros inteiros no Rio Grande do Sul em 2024, a CPFL Energia buscou analisar e mapear o que poderia ser feito para reforçar a resiliência dos seus ativos. As enchentes tinham atingido 8% das…",
-      "source": "",
-      "added_at": "2026-09-09T04:35:48.345845",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORmVrSkVaWVNqQ0hmSDhXYTZjeTBsWHVKb2JHVktRQktVVGF2Y2pTV0Q5MUMzQ21KU3A3bmFrSXUtRjNUTmxQbWNmMnFyMkdNZHJMYjBCbVcyaTZDc0F1QjBsb1BFbXdMWFJNeUhmYzhjdC1ZQ2dScldObVJiNWFPT3BjSG5CZFlEcjhOWU5iLWdqVUVPaHQ0MnI3Uy1DTFp4MmpQd2ZtTFVSSFQ2VE1tSjIxZU44eUVCZ1lDX3hWazVOSkHSAdIBQVVfeXFMUHdmUlotczFXdUI0SEp5dDgxdEVkTW9mRWdGYkFqanN4QVBpb3Q5cEJodzNtQTFzclBWRE1Td2FYZ0dKeXp6OXFiWE5rSG5Ic05aQlYwbTdzdU9kc2VKV3dRNHdKeTMwRjlnemZubFRpNWtKaXBGRDVlTEdxN1pGeXZ0RGlrUmoxMkxrUlhrVUdmd09ENlB2empJLXJpNEVUQVlpa20xZ2JxM3NXT3N3RllaeGNuQ19vUmp1WGoxbUw1SEItREtXSjdMWV9lN0ZsTmh3?oc=5": {
-      "title": "Valor 1000: CPFL Energia é campeã no setor de Energia Elétrica em 2026 - Valor Econômico",
-      "summary": "Valor 1000: CPFL Energia é campeã no setor de Energia Elétrica em 2026 Por Valor — São Paulo Atualizado A CPFL Energia é a campeã do setor Energia Elétrica, de acordo com o ranking Valor 1000 de 2026. A empresa foi homenageada em evento em São Paulo, que marca a 26ª edição da pesquisa que analisa os resultados das maiores e melhores companhias do país.",
-      "source": "",
-      "added_at": "2026-09-09T04:35:48.345942",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNakdJdllOS3ktWjMtaWwtNm5oZm5rUXR3bmdmdXg0ZlpaNGVUODVXUU5hU2kyOTVsckl5UTVxWFdXRVo1UG9pUGVabURXczJiMVFwX29qNUZyZEhnUHpwblBBYjk1bGNvSXZVSElJT3ZfZ2xlTUxKVkRXb1l4UzhwVEVqeTZIdi1KZ0U0NDJYdldNQXdMYldSVmJuYVVkRE5JU0lQRzA4cHdKSXVWNDJieE1wOGUtbFloM2N5SVExQmlYSkFvQmRYVURKcm80T3Flc3I2dEY5ajhlZWg4LWw2VzhlWjk1NHlXb2l3eTdoWURjejjSAYICQVVfeXFMTXkwSExoQ04wX3RXbnpSdE0tak5hSGNGTG9YTUhCV0puNkFNNlBaUEtjUGVMbGEyOVNTamp1X0QxcXlhVGx6Yy1pUGtCWjdxdTNDcWVCb2tldjNSZXRjTjc0aE00emVHcFVsSHZFdEJYZ3pySTJDRHlqRFE3ZnhvZnVoWENyXy1IZjZuUndWX0VkeWlqelZBeTUyUzlmTENZeGlKV1l3UnBKRmFNc0NTdzVReHlTSVBFZEpOb1laZ0x5dlJrdmdvUnh4Sy1yaXdjNlBxTVI0SUpiNjFKVG13cGhza0tyZmVtaU9xVlE5elJmdlNOS09JTEZRLVlpQ0NvVGJ3?oc=5": {
-      "title": "Valor 1000: Intelbras, vencedora do setor de eletroeletrônica, integra segurança, energia e conectividade - Valor Econômico",
-      "summary": "Valor 1000: Intelbras, vencedora do setor de eletroeletrônica, integra segurança, energia e conectividade Companhia aposta na integração de tecnologias e investe com foco em rentabilidade e eficiência Atualizado Com uma estratégia baseada em rentabilidade, eficiência e disciplina financeira, a Intelbras vem preservando a competitividade mesmo diante de um ambiente macroeconômico mais desafiador.…",
-      "source": "",
-      "added_at": "2026-09-09T04:35:48.346285",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR2JjYmpWTkdjMDRrYnhxbll6dnBqLXZQQnA4SnpTN1k0QkY0OUs4WWpqMFRUOGdFVDA0eFBJUDFsdjk2SEZiUmY0Q2JkRTlyTGMyQWdsME1Vc0NjMlFJRjRzc3hFTDMxbDZYYnRzY2NMTS1aLXdFaEJMSnV6TWc2WlYzS2lmc3o2OGdYRGp5NmpHNjFOS2hiMTljZ2RGTzNJekMtMWV0UUxyM2NOZGhNVm13TU9IYUotcXdWY3hiYmJFNFlCWUpGRWlzRGJGZlFWcWtyQUFabmVnaGNQb0hhWVg4MmliOUFDdDgzeW5ESXJDWXJ0Z3RyVWpkYW1rRDhYUjQw0gGDAkFVX3lxTE9HYmNialZOR2MwNGtieHFuWXp2cGotdlBCcDhKelM3WTRCRjQ5SzhZamowVFQ4Z0VUMDR4UElQMWx2OTZIRmJSZjRDYmRFOXJMYzJBZ2wwTVVzQ2MyUUlGNHNzeEVMMzFsNlhidHNjY0xNLVotd0VoQkxKdXpNZzZaVjNLaWZzejY4Z1hEank2akc2MU5LaGIxOWNnZEZPM0l6Qy0xZXRRTHIzY05kaE1WbXdNT0hhSi1xd1ZjeGJiYkU0WUJZSkZFaXNEYkZmUVZxa3JBQVpuZWdoY1BvSGFZWDgyaWI5QUN0ODN5bkRJckNZcnRndHJVamRhbWtEOFhSNDA?oc=5": {
-      "title": "Valor 1000: Sabesp, líder do setor de água, saneamento e serviços ambientais, acelera para antecipar metas - Valor Econômico",
-      "summary": "Valor 1000: Sabesp, líder do setor de água, saneamento e serviços ambientais, acelera para antecipar metas Empresa foca em modernização, investimentos e disciplina financeira para adiantar universalização Atualizado A Sabesp estima em R$ 70 bilhões o investimento necessário para antecipar a meta de universalização dos serviços de abastecimento de água potável e de coleta e tratamento de esgoto…",
-      "source": "",
-      "added_at": "2026-09-09T04:35:48.346655",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcUptXzRhS19nUUhoMmVyNnh0eEZ2Mkt0S3laY1NIdkNsc2FUbE5lejlFZ3hVQ1FaaDVVWUc1WWtOLThwdmU0Q2xRWk54azM0WGxsVUNtQkYzNC1Bc2M0Yk1FbzdKdUxueUt3VnVDbko5dm1ONFh6alRtRk5EUmd0VVl4WHFERmtZcjlYbUsxVVdRSEMxVm9rcVhVNFRyUndlTU9HQ0hPaHJSQlVmaGxiU1NvbWZ3T0VJd1ZwSWVIQXM2V3dMVUVRb2diQ1Atd1IteUZpb2N3RkJDeFhEUnpzM1ZEQ0nSAeQBQVVfeXFMT3FKbV80YUtfZ1FIaDJlcjZ4dHhGdjJLdEt5WmNTSHZDbHNhVGxOZXo5RWd4VUNRWmg1VVlHNVlrTi04cHZlNENsUVpOeGszNFhsbFVDbUJGMzQtQXNjNGJNRW83SnVMbnlLd1Z1Q25KOXZtTjRYempUbUZORFJndFVZeFhxREZrWXI5WG1LMVVXUUhDMVZva3FYVTRUclJ3ZU1PR0NIT2hyUkJVZmhsYlNTb21md09FSXdWcEllSEFzNld3TFVFUW9nYkNQLXdSLXlGaW9jd0ZCQ3hYRFJ6czNWRENJ?oc=5": {
-      "title": "Valor 1000: Sabesp é campeã do setor de Água, Saneamento e Serviços Ambientais em 2026 - Valor Econômico",
-      "summary": "Valor 1000: Sabesp é campeã do setor de Água, Saneamento e Serviços Ambientais em 2026 Por Valor — São Paulo Atualizado A Sabesp é a campeã do setor de Água, Saneamento e Serviços Ambientais, de acordo com o ranking Valor 1000 de 2026. A empresa foi homenageada em evento em São Paulo, que marca a 26ª edição da pesquisa que analisa os resultados das maiores e melhores companhias do país.",
-      "source": "",
-      "added_at": "2026-09-09T04:35:48.346792",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmtkbTZaNFQwVi1NZXdPS1hGQmowazNmUkhoZWV3RmFVcEFMV1F4WW93ejJSdVhsYkpPNkNHRlg2RnFqRmlfSnFOS3lXZEFyTGRaS2sxX21TR0Z3ZEE5LWo3NnVFWG1OSnV2RjJScUhSdHU5VnRRX3hJOUhfZmViSm5NTDFKbnZoekNodldoRkVRWERHcW5aSFBDQkNfT1NUY0dKYnpqUy01N1VLNVNsc2t1VVVNTlk3YlUtX05mNXExN0kydFVHYkFONjZpcDQ?oc=5": {
-      "title": "Justiça reconhece falha da Enel durante apagão de 6 dias em SP - estadao.com.br",
-      "summary": "E+ E+ Boni revela qual foi a demissão mais difícil que fez na Globo O programa de Dercy era ao vivo e alvo de intervenções da censura do governo militar, que passou a exigir que a atração fosse gravada. Com os cortes, a emissora deixou de ter conteúdo para exibir e não conseguia manter os patrocínios, tornando a atração insustentável.",
-      "source": "",
-      "added_at": "2026-09-09T04:36:02.396144",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92YWFkM0NWVm9DRUpqZzdKX1NaNXVvM3ZhdjNzX0VGcFdZRU5mZ0lCdHNwUnN1LThIV0JvLUFjeW03emM4UHlVSUx3TmRsQ3hENGdoTDZ4NC0?oc=5": {
-      "title": "Geração - megawhat.uol.com.br",
-      "summary": "A energia eólica no Brasil tem potencial de gerar **200 mil empregos**, segundo estudo da International Energy Agency. O país já possui uma matriz energética com mais de **80%** de fontes renováveis, índice significativamente superior à média mundial de **33%**.",
-      "source": "",
-      "added_at": "2026-09-09T04:36:15.438061"
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIN3RYbHBOODdHbjlhSnM4V3prbTZBQ0FYYkZZd1paX1dFMUFBSW1aN3pzcWhjeTJXMU5mangzek9JSmJWNGZVTmxCWWJEUzc0Z1d5RU1OYUs?oc=5": {
-      "title": "Tag CCEE - MegaWhat",
-      "summary": "Um estudo da **MegaWhat** aponta uma redução de **79 GW médios** até 2023, indicando que a expectativa de crescimento acelerado do setor elétrico no início do ano não se concretizou. O texto também explica o que é o fundo setorial CDE, responsável por remunerar programas do governo e subsídios tarifários.",
-      "source": "",
-      "added_at": "2026-09-09T04:36:25.703515"
-    },
-    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ0swZ2I5anJ0QWR2VFFDZ0VvVTRCY245VlhTZTRxZzlWSkFVNW9ObDRDakpkY1oxUXpxWHVBVnVtZWdHQlNqelZGaXc4bUJzRHFF?oc=5": {
-      "title": "Tag Cerpaolo - MegaWhat",
-      "summary": "A **Electra Comercializadora de Energia** foi multada em aproximadamente **R$ 23,8 milhões** pela rescisão antecipada de contrato com a **Cerpalo**. O valor pode aumentar caso a cooperativa precise repor a energia por um preço maior.",
-      "source": "",
-      "added_at": "2026-09-09T04:36:25.703553"
-    },
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEODlVTEsxeG5HTUMwc1dNMklYSkY0UVdBemVoekJ5SVRwbXl4Yl9QXzZxOE1DVXJRanJpQ2sxZV9MbVNRcDExclpfMWRiV2F0UEdOdFNoU1UyMWFPVXc?oc=5": {
       "title": "Tag eletroenergético - MegaWhat",
       "summary": null,
@@ -2977,7 +2895,7 @@
       "source": "",
       "added_at": "2026-09-22T04:47:38.970584",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjRCdG1XS1g2a0tnOElCT19mNzJSUU5mMGV0WVBWQnVYWU1pR0tXUWU0S3hoTGNVUEdaUmhoTHN0ejZZVWQ2OUV0Z0FSYm1HQXRJc19KVzd4UVY5eW9sTy1JT2dWb0llZ2lCVmx0dl9JOHd4NWVBYU9vbzI5ZVZsQ0V5MTkyZWVhYVJsV2xLQkdkX3JMV0JIeGJ0RWpDMGxXbWUxOGM2em9RRU1RelViaXM0cW1mdWVMaEJlaFZYVXdYdHV2X182VUQ4Q2l4WXMxUmtpOFlTMVRXX05NUHc?oc=5": {
       "title": "Governo Lula terá de assumir a ferrovia Malha Oeste após impasse com concessionária - UOL",
@@ -2985,7 +2903,7 @@
       "source": "",
       "added_at": "2026-09-22T04:47:51.517811",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFXSExMVWJtUThzYk8wTnJnaVljUkEzWDl6WjNWMjA2NmpnWEE2VFQ0R2FmV1FaUkFWWV9yeVdKdTV6RGx2amhac1ppQTJuNl9MYVZzNnVOU0N4aGRoSnYtOWtYTjBqQjRmRmVXSVBkU2NyR3VRa1BfWXkzNUxEMlZoOEhqUE8ySzB6UU5OTG51bWk1WUpZQThmUlJxM1E2RFRlWVRyMmxFVGZ2MTlFOXhIeDJEY0tBSC1YVlRRUms?oc=5": {
       "title": "Cadillac retorna ao Brasil com SUVs elétricos e aposta em vitrine na F1 - Folha de S.Paulo",
@@ -3001,7 +2919,7 @@
       "source": "",
       "added_at": "2026-09-22T14:47:39.545586",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHl1anpMSDgyUHkwelByUnN3c1VxUnZnS1RseG9LRm5vdUtMbUpMN3g4bWtmQlMwc2hwVnU0OF85WUhReEw4SEpWZGRVTjB0LWVvODVGemhVTDhHMERKRkNyUThBUDVpTnFIUmVJYU5CSWZ0RW9xRS1JV1hoQ1RwNmVzeXlaNWFRZVJHUWJ5ajE0aF9EZGZXTlF1M01jQVVGZ094bllDWHpnU0IzYXFybWJ4T2psUC1ZUGNTR0JIbTR1a3c2Q25j0gHWAUFVX3lxTE1YTFFpS0RlazZfNjVTMS0zM09nUmN3Vm9KZGxHUFMxLUZJM1NIUTJZZlRKUUtoQXZaSnFGN0ZKMlVBUmpvUUhCUkNTcldDa2hlSzM0VzU1Sm91aTREbEVTNDAzbG9wQ3lXb01qUVNteGYyTkRSbjE4ajlZM1F1dFJCVU5ZNnZKUi1vN2FrcHAycnhHbExIeVFzM2h1T2tRbEFQeUdHUV9XZl9JRkF6WkViTlFLSXg3ZTA0LVNvMkxLR0pKcnkycDhiQ2dTSlZTTXRscjdqTkE?oc=5": {
       "title": "Falta de energia causa filas e atrasos em voos no Aeroporto de Viracopos - Valor Econômico",
@@ -3009,7 +2927,7 @@
       "source": "",
       "added_at": "2026-09-22T14:47:41.079323",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcW82MlpKQU9PcmtLdHFhVHFkbE1qbm9fZHF3cWthN1VmWUk1V184ZHBIOTlPV01CMUlGVk9COElNaDZDay15cUpka0JFdEhUTHlEb3RWbGxxWll3d1hzTWFrZ1lZNlBWQmw2M0JTeHprd0pBbnRLX2lDOTl3YXRDOG5kZzZmTk5Yb3gzSEtkQkVfUThqOGZiQnBaajBfWXRTcEdSd2lqdmJzX3dqeXZNeERHZzNQM2pUeHg5cndvekMxZDBleXlRUjBJQUdOSlJ4dFHSAeABQVVfeXFMUFVuNlRYbTdvdFdOM1lzV2kyYm53cVdRR1c4Q2ZNVFdCN2c2bUFrOERyR0ZkeVpCM2VTT0FFTHVxR0xQQWdHaXJYSW1WcGw2ZjFiQzY3bTJTdEVfODBWT1lJUUdFcHpYZmZDVm1BNlRCV25pMHJsZ2pDUVQyLU9VaFdZcUVYdmN4aEhUU3hWR0tFMVdJLXNIc2l6UXcyWDJQMXU5czRWeExpX0hxYjZfTWxfQzY5MjNPOW5ONGdyRU5rWEItLXY2V1lEZFk2aHA0dVpRN1M3U195UnR2VXo2bHA?oc=5": {
       "title": "‘Crack spreads’ explodem e mostram que choque de energia vai além do petróleo - Valor Econômico",
@@ -3017,15 +2935,15 @@
       "source": "",
       "added_at": "2026-09-22T14:47:42.659666",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHhhYzBIclpva3NHYWYycFFMc2ZqQnA2ajNQTmd0Yy1GN0ltckNBVjlIMjY4OHZ1OFhVUnlWSk9zblhNMjdZNTlwVHotYkY0ZkRzT0N5MlNqWGpjYWZuSjBLLW9iMjZNUFZodXpVYllueTJrMUxYZElIQmdEQXV4a2xjXzRvbDlKVjhWXy1nMTRKTDJneUhWOGxwU1R0VVcyVGFmME85TFlQYmJYNVVZNGtrQlVPelh6ZVpXOUl4RHlyRTBrellOSkZKT3AwYWdC?oc=5": {
-      "title": "Adoção de energia renovável precisa dobrar para atingir meta de 2030, diz relatório - Folha de S.Paulo",
+      "title": "Adoção de energia renovável precisa dobrar para atingir meta de 2030, diz relatório - folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-09-22T14:47:55.284853",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnZseXdnZEVlMmpBdXlyd01XYUFRcVJsdG1MN2tuU21SanROTTZrY1JKb3NwaERDSFc2ck5US1Y2a1dVdHRrN0xrdnVTcTVKNWI3dHBUQWVvYW12MHZsa1Fkc2hKUWREbmxSM0t4Q0Nuc3JadndkZ3hXeld3cFdSOXFwUzJiQUwwZTZQTmhTdW9aRDBkS3RxVy12WkZGb1ZEczdVQ2VUMDU4VndUdDJjdGZzRGthSXhTc0MxYmtMTUEtcERMYmM00gHWAUFVX3lxTE1DWW1icUtxYVNRVUxWZHlNQnFmNzNyLUJGRDR1S0VCQkZzdWVDN3FwdW41QUlmTmJ1NFJuZk04dmVPNkpvMjRraHI5UFNjOE1hSk5jREZ3bjdXQ1hvNzVuc2lvN1gyM2tQVDRwUUtkMnpBU3JWQXBQcV9WX0JoQ3dRazJNMlVNcDVwbWU5SWYzYXU2M3pDdWl5SnluRklYTWNJaUtuNEJ1V2dwVkhBQi1WcmoyM1BvNHl2cFlWLVZtLVVfVGxqZEppVi1fZ1FVSjg4dGVmRFE?oc=5": {
       "title": "Aumento na conta de luz reforça viabilidade da energia solar - Valor Econômico",
@@ -3033,15 +2951,15 @@
       "source": "",
       "added_at": "2026-09-22T18:49:41.369058",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQTlrSWR3ZGpnU253bGp4NUhGQUVqSVZodm9sNWV0U0E0SDdLY3p2elN2UEFpNFAtZWhhaV95bm14ZURVazZ2YTh6dHFTNnRyVVAwRXBnZkU4OXE1aDJwakxXZzR4eE1rOXktMGgtQlh1cWd4TFZZWlExR2ZhbjR6a2ZVMzUtUzBGSml5aHVfS3BhbEVHMWVINDlKQ1hNa1loejBVUXZqWVlxbEhfUU9Bc2xMVDBDRmVBc2plNFM5ZUgzWlUyd3pRTzlQUHR4dWNqMzBfSWFwWVlZazZ5aElPNk1VZkxaR3p2RUNz?oc=5": {
-      "title": "Mônica Bergamo: Executivo da Neon, distribuidora de 'O Agente Secreto', participará da Mostra de Cinema de SP - Folha de S.Paulo",
+      "title": "Mônica Bergamo: Executivo da Neon, distribuidora de 'O Agente Secreto', participará da Mostra de Cinema de SP - folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-09-22T18:49:55.697241",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd2Z5QTBpTkRYakVjVVRnV2s3QV9oYlVWTk04STRzMkNBUmw5X2ptZGJXT1U2YWRlUmVxeE9CVHJaUF9fYzNBdENCRnh2N19hXzhjVG4xeEtIUjFqb1dpVXRvSEctYVcwb0poMTc5VmFyZ09lM2xKLXc5RkdZOHZ2Zk9jS3FBOTMwNTVMUy01azVWNmRKcVl2WjdrRExDck9NOG9SZHNuYVdzcnVZRkl3VnJJcm9xbklxNnJUeTRYTUJmalBZa2R2TkxFTjBXbmoyUHljRdIB4wFBVV95cUxPQUotaUl5TnNUY1FSdGpOMVNFb09qR2pZaUt3NDB0c25ISEZTdnQzUVMza3VFa2hUbXJMeXQzQkRaTXpNeTVQOXhhUU1zUGhaMnFRbTdXZzNxdmVGN2ZnN2o5dElwd3JZRTRfVDh0RHpWUk5KMmdTNVp1WHdxN29BbWt6T1phc2ZWeFJoUmdiVzl4N1M0cDhySkZSa25hX1d0dFIyRDVObE9rblE5RGNwU3JHb2tTMS1ZUmN6TmZ1M2t2eU9nZEZ6OHZIdTExcHRheE5mV1ktbGFmMzRkRlY5UHVkWQ?oc=5": {
       "title": "Aneel rejeita mudanças em contratos e futuro de acordo da Eneva no TCU fica incerto - Valor Econômico",
@@ -3049,37 +2967,53 @@
       "source": "",
       "added_at": "2026-09-22T22:02:49.238049",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0NRUGpmMWNoWHZFTGlucHl6a0RRVmh0Z3psOGh0aklESWxmZ1l5NlJ1Njg5TUNrQ2VHWktKam54R2hFVXRweFRNSHMweUdrdGYtdUlzWWtJdlVLSlFDSG1naGhjMVJHcWpjU2QzcG0wTVJGNlFpU2VDaWd5ME43RDlZZzJJTkZGdjdFMV9GaHBOcXh5RVVaM3FhQ1MtRTFKb3lRSjJ3YWtFUGo5UjFVd2pEZEFGUQ?oc=5": {
-      "title": "Leilão de saneamento de Rondônia não recebe propostas - c-level.folha.uol.com.br",
+      "title": "Leilão de saneamento de Rondônia não recebe propostas - UOL",
       "summary": null,
       "source": "",
       "added_at": "2026-09-22T22:03:03.925668",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WXV2VHhrdnZMYTFKSEs1cXplWUtLa1VJMVNjVDM1VWlZeHljSEM4Rjh5d295a3czek5XNnlZMzE5eXNsMUtsVVVROGpVcG5oeV9YVS1wNnVkRTRBQnJWRkVlN1FqamY0MjM2cmRnMFlLUWJHbG9tZmlvM0ZLSVE?oc=5": {
-      "title": "Executivo da Neon, distribuidora de 'O Agente Secreto', participará da Mostra de Cinema de SP - comentarios1.folha.uol.com.br",
+      "title": "Executivo da Neon, distribuidora de 'O Agente Secreto', participará da Mostra de Cinema de SP - UOL",
       "summary": null,
       "source": "",
       "added_at": "2026-09-22T22:03:05.378490",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZWZhSTRvaEtqYjIya0NfUUlqczNpelpzU1gyaWE0UFZjWXVlNjltdTRjczJSU21CQjUzV0o3Y2RpNTJnQVgxOWZLNTdCS2phOGtxY2c1dUczeDMxLTJNQUZnbDRLdERCTVZQNkJaUW50QWhONmh6RS1aSFBLcnBFbUU5eGpqb0wxR01ydEVDMUZMSHFuTTZlbXVKb1dFWHVYdXl2MTdrTU9EN3d6ekxtb3J2OWJVeklteGk3R2I1dmRuQlMzb0FGN1h4cllrYUlyaDFGMjhWU2c?oc=5": {
-      "title": "EUA rejeitam pedido da China para participar com Brasil de consultas na OMC sobre tarifas - Folha de S.Paulo",
+      "title": "EUA rejeitam pedido da China para participar com Brasil de consultas na OMC sobre tarifas - folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-09-22T22:03:06.867407",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWFRcW12WHJZZFVIWU16YXZCd1RVbVo2SjFrNGpQelNhcERjdHFMQXdoTkVaQ2VOUzV0S1Bmcm01OGpmOThJODFva2V4RDF5MEdsbXBXVUdUSkZGZFRwS1BRS2I2cmpPSUx2UnpsclNFcjI0WUM0OERRMHVIS3VCWi1FajF2WFh1ZjhlZlBRQmJuWTV5aFJsTHVwRUs3clZQWGdTMTduVktYbGFJV1JCSFVjb0ZMZ9IBxAFBVV95cUxPcndQYS1Ka1Y5Mm5xTUJLYUw4ZUNSSENXMG1XQU1uTC0zSkVSRVJuMDdSWHdQczNiQS1PYkJQVnhWbWV5ZnM4TTI1Zm9NZ0c5SU4wQ0tPMG9NelpuRGFJRTZXdl9jcmNMNzFnZVl3QU1FbGVpNTVxRW5MZTBUWExFYlVFZzN2bm5NVktNWnhIYTJZUU1fM2t0ZE4yVWtPeF9zc3pnWjdwZTNaVkFzbGRhMTVETnl4emdTWERMRTh1Z0psYm1u?oc=5": {
       "title": "PLOA 2027 prevê 51,4% mais recursos para transição energética - Valor Econômico",
       "summary": null,
       "source": "",
       "added_at": "2026-09-23T00:28:31.113997",
+      "error": "no_article",
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHdsamd3U05xZE91ckQzU0lsVlE4d0pUcmJMLW9DSEhyZnI4NllhQzNINW45NWstME5nTlNUZHYyek03eHJxRGt6WU1rUnM0blExVXNJN2lkNHlSLUo3UTF5cXEzNW9ZSURWQms1UDhXY1FRMG9zUmxxRXVNWV9UR2FsTURCb2FPa1FBOVNDZ094YVRjZVdhRTU5ZjVBVnQ3bEFYRlUxR3hJSWcyOTB0OWFONTJiV243eTQzdXZSYjI5VVJjak5UMkQxQ3YxN3VVcWlPSlJsYmFUSEHSAeoBQVVfeXFMTm1zSTFKc3pmTUs3cDAyVEJMQjRObXozNFZOSm9ZdFlLaGdJUS14YkJSMjZoX1VfYUxIakM3Q0NHWjk2dzhKYmFITTRwRWlEdUVmMUxMZ0UyOUl3ODdmdmN3WTBLNk8xVmZBMUM5aXhIdmsxZEF4aHRvVkgtMjJidGNkd2xGOVFqN2R3QkxDdVZVMThRVmEycTliT1VIVGowQi1acVF6b0hxalh6bGJHRWwxSFZUNW8zTVpWQ1c2cWFESENaTmxfY3lWeEtZQlRBcElXUjQ1TWtyb0VwRXR3NkZsZ0VDUGo0ajd3?oc=5": {
+      "title": "Acordo para alterar contratos de térmicas da Eneva se encerra no TCU após rejeição da Aneel - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-23T05:08:23.549547",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0RSSFFBbjhSOEFyaldaQVJfam5RRGFVd0tXUms3QXBhQ1ZGZFlaTl82V3JNQVVVY3N2U0szQ3JsOHpKRUh2a25QVEw1X0lxVHJMRUd6bnZqYWlOeGVhal90eG9jSlpvS0hpd09hQW5OTFFaYnhKbzFkYzhoZ3lzVHFxRnptRTRZWllkU1dfV3NrX29aZlNXdmxTVTJ4djlSZUdBUGZxZWJsZk4zemVITjlRZFp4cm1YZ0NjNW9ydUFJUWVuM3NDVnlBMWtZc3ItUjJZSVF2NDFmak5HeDgyckNR?oc=5": {
+      "title": "Novo governo terá desafio de recuperar planejamento do setor de energia e deter escalada de preços - folha.uol.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-09-23T05:08:36.409920",
       "error": "no_article",
       "attempts": 1
     }
