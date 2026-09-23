@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T05:49:32.239287",
+  "last_updated": "2026-09-23T14:52:55.240910",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1126,6 +1126,19 @@
       "start_date": "24/08/2026",
       "fonte": "MME",
       "sei_processo": "48300.001356/2026-50"
+    },
+    "partic_mme_cp_233": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 233",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/233",
+      "summary": "Diretrizes para licitação e prorrogação de outorgas de usinas hidrelétricas, em conformidade com a **Lei nº 15.269/2025** e a **Lei nº 12.783/2013**, serão submetidas à consulta pública.",
+      "added_at": "2026-09-23T14:52:54.740619",
+      "objeto": "Trata-se de Nota Técnica elaborada para submissão, à consulta pública, de diretrizes aplicáveis aos processos de licitação e prorrogação das outorgas de usinas hidrelétricas considerando o arcabouço de alterações promovidas pela Lei nº 15.269, de 24 de novembro de 2025, na Lei nº 12.783, de 11 de janeiro de 2013.",
+      "deadline": "23/10/2026",
+      "start_date": "23/09/2026",
+      "fonte": "MME",
+      "sei_processo": "48300.001516/2026-61"
     }
   }
 }
