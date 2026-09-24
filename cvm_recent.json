@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-09-24T06:31:39.132965-03:00",
+  "last_updated": "2026-09-24T11:25:26.493289-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Aprovar o aumento do capital socia da Companhia.; Autorizar a Diretoria a representar a Companhia para participação no 6º Ciclo de Oferta Permanente da ANP.Ata",
+      "data_referencia": "20260922 22/09/2026 10:00",
+      "data_entrega": "20260924 24/09/2026 10:57",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Aprovar o aumento do capital socia da Companhia.; Autorizar a Diretoria a representar a Companhia para participação no 6º Ciclo de Oferta Permanente da ANP.",
+      "protocolo": "1571094",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571094",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-24T14:25:20.685613"
+    },
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Eneva conclui etapa de operação de Liability Management -",
+      "data_referencia": "20260924 24/09/2026",
+      "data_entrega": "20260924 24/09/2026 09:55",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eneva conclui etapa de operação de Liability Management",
+      "protocolo": "1571082",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571082",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-09-24T14:25:20.685602"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
