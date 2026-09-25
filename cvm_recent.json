@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-25T06:05:05.567889-03:00",
+  "last_updated": "2026-09-25T11:34:52.484561-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "Aprovação do capital alocável -",
+      "data_referencia": "20260925 25/09/2026",
+      "data_entrega": "20260925 25/09/2026 08:13",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aprovação do capital alocável",
+      "protocolo": "1571417",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571417",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-09-25T14:34:31.801198"
+    },
     {
       "cnpj_short": "00803-6",
       "empresa_nome": "LIGHT SERVICOS DE ELETRICIDADE S.A.",
