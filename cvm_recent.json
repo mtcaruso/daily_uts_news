@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T10:52:59.156923-03:00",
+  "last_updated": "2026-09-26T14:26:54.989228-03:00",
   "items": [
     {
       "cnpj_short": "01944-5",
@@ -4554,42 +4554,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-08-27T23:57:55.451597"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Mapa sintéticoMapa Sintético Consolidado",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260827 27/08/2026 09:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Mapa sintético",
-      "protocolo": "1561849",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1561849",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-27T14:37:56.097878"
-    },
-    {
-      "cnpj_short": "01862-7",
-      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "1. Deliberar sobre a proposta de alteração da Tabela de Limites de Competência da Sanepar.Ata",
-      "data_referencia": "20260824 24/08/2026 17:00",
-      "data_entrega": "20260827 27/08/2026 08:39",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1. Deliberar sobre a proposta de alteração da Tabela de Limites de Competência da Sanepar.",
-      "protocolo": "1561838",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1561838",
-      "empresa_label": "Sanepar",
-      "codigo_cvm": "18627",
-      "first_seen": "2026-08-27T14:37:57.427999"
     }
   ]
 }
