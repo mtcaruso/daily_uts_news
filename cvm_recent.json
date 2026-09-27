@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T16:06:18.005543-03:00",
+  "last_updated": "2026-09-27T19:05:17.560100-03:00",
   "items": [
     {
       "cnpj_short": "01944-5",
@@ -4392,78 +4392,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-08-29T02:51:35.678259"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Aprovação das incorporações pela AGE -",
-      "data_referencia": "20260828 28/08/2026",
-      "data_entrega": "20260828 28/08/2026 17:03",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aprovação das incorporações pela AGE",
-      "protocolo": "1562622",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562622",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-28T20:21:17.553748"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "AGE - Mapa Final de Votação ResumidoMapa Final de Votação Resumido",
-      "data_referencia": "20260828 28/08/2026 14:00",
-      "data_entrega": "20260828 28/08/2026 17:01",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "AGE - Mapa Final de Votação Resumido",
-      "protocolo": "1562620",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562620",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-28T20:21:17.553752"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Incorporação de subsidiáriasAta",
-      "data_referencia": "20260828 28/08/2026 14:00",
-      "data_entrega": "20260828 28/08/2026 17:00",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Incorporação de subsidiárias",
-      "protocolo": "1562618",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562618",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-08-28T20:21:17.553735"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Prorrogação da Concessão da UHE Sá Carvalho -",
-      "data_referencia": "20260828 28/08/2026",
-      "data_entrega": "20260828 28/08/2026 09:34",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Prorrogação da Concessão da UHE Sá Carvalho",
-      "protocolo": "1562249",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562249",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-08-28T20:21:22.047920"
     }
   ]
 }
