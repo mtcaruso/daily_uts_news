@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T21:39:58.505826-03:00",
+  "last_updated": "2026-09-28T02:50:03.044557-03:00",
   "items": [
     {
       "cnpj_short": "01944-5",
@@ -4320,78 +4320,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-09-01T00:35:31.314282"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Indicações pelo Acionista Controlador para o Conselho de Administração e Presidência da CEMIG -",
-      "data_referencia": "20260828 28/08/2026",
-      "data_entrega": "20260828 28/08/2026 20:47",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Indicações pelo Acionista Controlador para o Conselho de Administração e Presidência da CEMIG",
-      "protocolo": "1562820",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562820",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-08-29T02:51:22.054554"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Mapa de Votação ResumidoMapa Final de Votação Resumido",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260828 28/08/2026 20:16",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Mapa de Votação Resumido",
-      "protocolo": "1562815",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562815",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-29T02:51:35.678246"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de membros do Conselho de AdministraçãoMapa Final de Votação Detalhado",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260828 28/08/2026 20:16",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de membros do Conselho de Administração",
-      "protocolo": "1562816",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562816",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-29T02:51:35.678258"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Eleição de Membros dos Conselhos de Administração e FiscalAta",
-      "data_referencia": "20260828 28/08/2026 11:00",
-      "data_entrega": "20260828 28/08/2026 20:16",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição de Membros dos Conselhos de Administração e Fiscal",
-      "protocolo": "1562817",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1562817",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-08-29T02:51:35.678259"
     }
   ]
 }
