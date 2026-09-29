@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-28T20:55:27.984095-03:00",
+  "last_updated": "2026-09-28T23:57:18.446782-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Nova Composição do Conselho de Administração e da Diretoria Executiva -",
+      "data_referencia": "20260928 28/09/2026",
+      "data_entrega": "20260928 28/09/2026 21:47",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Nova Composição do Conselho de Administração e da Diretoria Executiva",
+      "protocolo": "1572255",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1572255",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-09-29T02:57:17.035218"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
