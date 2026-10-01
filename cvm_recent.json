@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-01T08:55:41.874505-03:00",
+  "last_updated": "2026-10-01T14:37:04.245257-03:00",
   "items": [
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Estatuto Social",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20260429 29/04/2026",
+      "data_entrega": "20261001 01/10/2026 14:36",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1573263",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1573263",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-10-01T17:37:03.267874"
+    },
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Assembleia",
+      "tipo": "AGO/E",
+      "especie": "Tomada de Contas-Votação do Relatório da Administração e das Demonstrações Financeiras; Eleição de Membros dos Conselhos de Administração e Fiscal; Remuneração dos Administradores e Conselheiros; Destinação dos Resultados; Reforma Estatutária; Distribuição de Dividendos/Juros sobre Capital PróprioAta",
+      "data_referencia": "20260429 29/04/2026 11:00",
+      "data_entrega": "20261001 01/10/2026 14:35",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Tomada de Contas-Votação do Relatório da Administração e das Demonstrações Financeiras; Eleição de Membros dos Conselhos de Administração e Fiscal; Remuneração dos Administradores e Conselheiros; Destinação dos Resultados; Reforma Estatutária; Distribuição de Dividendos/Juros sobre Capital Próprio",
+      "protocolo": "1573238",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1573238",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-10-01T17:37:03.267887"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
