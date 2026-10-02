@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-10-02T01:39:32.852546",
+  "last_updated": "2026-10-02T08:26:00.808306",
   "items": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxc3NKQlZlZHpBd0o5VEEyRk15YWgwZlFfRWdaajIyNjNPSEJ6bUpocEVVa3ZNdEU5TjV0R25ydWxMX2NfeGtLVWxaazhidXlfQzFEaA?oc=5": {
-      "title": "Tag Sattamini - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-18T05:10:01.432573",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0Rpdl9vdTJscUFkN05TUEIwLV9uNVZUVGI0OFhzV1o0c3pBNDJHcUN2TEU3YVQ0TXQ4LUFzYTRFWUdVVzRza3VxX3dPZHJiMkllMk1xb0FqSzEwZEZzZzVNQmRnTjhpekRKbnMwOURwVUY3aGpNbmRvUnFLUE5yVWRJam91M1h3Zmx5REtkRFR1WDFJbzdNZA?oc=5": {
-      "title": "Brava cancela processo de venda de 11 concessões onshore no RN - Agência iNFRA",
-      "summary": "da Agência iNFRA A Brava Energia informou, em fato relevante divulgado nesta quinta-feira (17), o encerramento da venda de onze concessões de óleo e gás onshore na Bacia Potiguar, no Rio Grande do Norte, ao consórcio formado por Azevedo e Travassos Petróleo e Petro-Victory Energy Corp. A companhia informou que exerceu o direito de encerrar a transação porque o prazo final previsto em contrato foi…",
-      "source": "",
-      "added_at": "2026-09-18T05:10:19.174146",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tSG5oQ3l1TmNXUkNwWWlIWWhiMXNrQ2JQaGo1M3NlUVhCMVZ2djVkYkhIUjdNZE1OWlpVajhMQTVqSkJqYkhxRXNHai02UWRGd01RSw?oc=5": {
       "title": "Tag renovávis - MegaWhat",
       "summary": null,
@@ -1861,7 +1845,7 @@
       "source": "",
       "added_at": "2026-10-01T17:00:33.089436",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVNRSmRnR0NmVm9UN0tLeVVWX0N2Y0pQVkoycjN0Q3prYnloT0ZQb0QtaEhZYTlxanNETVNLTDhhTkx3R1RLYjNGcmt5SjM5UDI1UW1ST3h2SXVlR2VlOWFVd2UwdWtKclBZa3dtRUFZa3FKVlhJWXZPR3lNVFF1R0t4eS1lNXQ5MjNjOGMyVlFpSmJGck5sM2VVeGM0UVFocjV3clZPYV9lRk9YbDNDSTlrOWQ?oc=5": {
       "title": "Setor de petróleo da Venezuela esbarra em crise de energia - UOL",
@@ -1917,7 +1901,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:29.357205",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkxPdDlnWVNucjFCRURIMHphVTJFVWxyU2dQQzFsUHBQNmphdnlOX2JidTF6V29OaVhpT2tVbjZIeXgzcFFLRVpCVUJqbkpPM1pNSzlXS2QzWTR5dE9BU2dyaHk1czBLcnlSeTBWQTB6R0N6OTdQVDNxamVVYzUyZWs3ZWpmOS13YkM2S1MxTWN1NlhKOWk4dG4zaDdfZnpCNkZDT1l1dUFRSC0wYXB6N09YVXU0eGlSZ1pZUm41RQ?oc=5": {
       "title": "Energia - Valor Econômico",
@@ -1925,7 +1909,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:30.806320",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1lBMjhNM3kweFREbkFFaTBYaFZGdnUzU1JacVBfNDlvY3pONVZNRmVydi1Xb21wSVJGcExwU2JJdXQyT21IQm5FZ2JtbkpMcXUzSzJCZWo3eUhBazlNWFZ3Zmo4Tm4zODBZbGpOQ29DeE9nRlNOTHpyVUVOMUZISVE4OEp6RWp6RlgyTnFIcE80SGdSR2RaZHR1bkR3eTZ4bVJLcVhTbXV4TlBsNElfN2lVY0hucEtHcGhUYkVtVU03SjJsZE9EcTIwOEdOaEFybFB3eWFkclIyUdIB6AFBVV95cUxOcXJzYkdBZlZOMVl1VFN3cHZGRmNnR09yaXhYNXBjY2lNLXNlTm83aklrY1hUbkFnN0NLeWxWZV9ZajhtTVVxQll5VEZkQmFMVGdJTnd0YzdyWV9YckxhdGo3MVgyRmVzWGVfLUtQS2F2UjlFeGxTcTZRc2EzZnc0dTBsNV9KVF91b2lleUkwN1ZmMEpVWF9GbWtUMTJiUW93amNtbkJkbVNleEhBVTJtR1RuT0lNNWpMaHZYUElaRnlQTlNtOXA1ajE3WWF4bGoxWEEtRjYwZWNwTFVFU2NMU1Ria1gxSU0y?oc=5": {
       "title": "Coalizão liderada pela Arábia Saudita diz que houthis atacaram estação de energia em Medina - Valor Econômico",
@@ -1933,7 +1917,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:32.255146",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1oxaTBBZDlDbkdwREtsTkhJa1lQTWdrdzhzTzF1ZlJMVDFWRzdtLXJCTmMzTjNaRTRfQXRsTFd2RTNYYi1GNGRnMTZ2WVJValFIMnpEcW9iWllidC04V0JnRnRKa01LVkhmbHk2ZmxSVkt6MzNzbjBvcVpMdFBPUHZhb2s5MEVSYXRxSWJ3ZXBVZTlpQ2wyUWdR?oc=5": {
       "title": "Enel em SP: agência federal marca votação de processo sobre rompimento de contrato - Estadão",
@@ -1941,7 +1925,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:48.347666",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaS1pNzlWV1dpX2lPVEI4WWV1NElYSklnMUNEVGs5ejl4bkdYY1VfNlBISEhNYlhJb3U3MGJ0T3ZiMXUtS0dJY2xoNFNvZVdjUWtmSkVRLVVBZEQxNTZzbEdTNF9nUFBPemd2SjdaYmg0S1JmVGpYNFRrUl9BNEdsZzlzakhkMVZCOG1iN0tFWdIBlAFBVV95cUxOV3Z6Q05iU1VSbUpFeUtNUlo5TllvVVptaXRvUi1ZU0VQR3J5LUdWanExWmtSdDNXb0phOW5COFlyQnNBOW1xQkNPVWtHVXJjYjl2dDJibVIxcU16ZkJobnVfWVB5QWdyMVozMmRJby1fcU52TVpwYjRDOGdtVmR1MzhZNDRPbG0xTFFLcm5zZ29xTjlZ?oc=5": {
       "title": "Enel em SP: agência federal marca votação de processo sobre rompimento de contrato - Estadão",
@@ -1949,7 +1933,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:49.784615",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNalNQUVpUZ2pIOWQ2VjNqR3ZxTFNhUl93cElIUFVWRmxlcGkxeVBFTXF2TUctc2NnaG1ISGRmU0g2OTdvZ2hRMHZTU0s2aUZDUXQzUjE1MG1haGlCaFNiRTkzalVkcUF2OTJpVUMzT0lQTHNJaXBoVE9uSXlZRVZ1Y2NnRXFGQldxMVIyTlhEY2RuYTMydWIxMDh1cE9rM2Y4ZXY0YjVJc2UxQ2t0cEx2eFAxZ0Y1Vm8yaHl2SVg5bDhUNm5GaVlnbW1jVmZsc2lUZDZYaE1XRnNmbE1LUlRSbmNOTHE3QnA2SjhHNUFqQdIB_gFBVV95cUxPSDI3SmhIdldwbkFFZWR1YkRIaVJRc3hFNUFkV3BpbmF1Z0xMV0hkT0l1YWsxLWp2SWZoUjVPLWdkN2x1RkRldUVhRGp1OTh0ZklOUm80U2JSeU52QlNrQU5nWlJreThKUUZtQW15UklWQzJmN0hBY3hLc0ZvLXFyTm5mN0dyQmptclN0dnhqdTBaM3BGbWNGSXB1NzhPUU4zcExEczhsa2JabzhNYkpFbEFTS0E4VHotOFc4eHdiU3FOeGlyVFVPQlhOMmJVeEJqN0s0eFpYTWlvVTJqcXM0aFdTTVhYOGJmX1lwZXc3aVg2SGtsSExocmtnWVFaQQ?oc=5": {
       "title": "Aneel deve julgar processo que pode levar a Enel São Paulo a perder concessão na próxima terça-feira - Valor Econômico",
@@ -1957,7 +1941,7 @@
       "source": "",
       "added_at": "2026-10-02T01:39:12.286829",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHRQc3UtejBEWC04bXRnLXBNMkdsMDNyMV9DMzJvQzNIcnNreUZWaWRsMGpEdFFJYXdGN25BSEFGbzhLMkJFTWphd0pfdUdaOXdtN0x2cFp1dV9iOHllY01mdVA2d0F6THBaSlpVb0N6NjZoaDVoU0xOWHNUZFQ0ampBWHM2dEpWSVZPaVdiQWsxWVFSbVFraVFFMm1Wd1VwNlRUVFdOeEJQeXp0Um8zTGFLSWVxVFJrdzdfNmF6SUJDRVJBc3hLcVNiUXQ5WlJvc0o3QVU2aUJUZ0w5MzBhS2V3?oc=5": {
       "title": "CPFL Energia ainda tem fôlego na Bolsa? Itaú BBA revisa projeções para a companhia - Estadão",
@@ -1965,13 +1949,61 @@
       "source": "",
       "added_at": "2026-10-02T01:39:31.390637",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVmxTbXJjUXFFc0RwWk1KdU11VVhlbXdlbDdFdW1OdnJXaS1UbU5HS0V6V3I2dWIyOV9help3NUoxbjlrQ0plWkhCSlF2RTFiNEgyM2JWZmlKN2lHX29KUklmd2FZdW9TTXItU21KVzNlSUVWN205eTFPUmU5aGNhV3lwVjFjT0Z3Wk1fQ0xzSGQxSmhNUXhFcE1DN0RkS2c1WUstZWk2ZFdxMTZ5ZFV1NlVhVDRPN29WZC0yNEswYzM1OGttdjZLeGdRWVRmWDF6dUozeVhvRdIB3AFBVV95cUxNY1RfM3JHSVVsZ25KWm5UU3U1amFsVGJnU0tvemUxTlRwTTU1ckktN2lzOUxZWXpzNkRsY2pERnlMQ1JwUllRQnZCZWpFM05EclI3eUl6aEF6MmctNTRXQ3JyLXVpWnFZQ1owYmhVTHVoSktHNjNUckh0SV9NazYtcHhrYkE0VEF4aV9yeFg2MThjaDB2QmFudHljSFBwbTFaMWkwVXIySVctdjJ1RkhJOERfakZBLVhOVXRCUVhJLUFWZGFHa05OVEJJYXhxVy1tMjhlQUZKNzI2RkpH?oc=5": {
       "title": "CPFL Energia ainda tem fôlego na Bolsa? Itaú BBA revisa projeções para a companhia - Estadão",
       "summary": null,
       "source": "",
       "added_at": "2026-10-02T01:39:32.852397",
+      "error": "no_article",
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUU1jb2Fvelk1dnNlX3JhSXZyUGYwUEtYdGN3enNkMGpRZmoySHU3MFZiYjdzX1REWk5HV0tTSktHVzJCWk1fcjVqRnUyVFBnZ29ERW5YeUJoQVM5OVNLYkRSNllYMUROUmJ1c3UwMExpN1AwTFpIY3NPZ21vR2FOSGxKNmIzTm9RREMxUG1hUHVYamFMbXFyejJUaTU4M3VmNW1sbGhPejY1YUpOZy1NbUdzbU5sdktNOUFqN0VZaDJRSVotTGtDVm1ncnBzTW1HV2ZnUUF1MVZONjRZdFZDNU9wc0RLdTB3UFVJ?oc=5": {
+      "title": "Prefeitura de Porto Alegre leva a mercado projeto de R$ 7 bi com foco em drenagem e saneamento - UOL",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:25:45.439911",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVnU4WDFuRHllVTBxSWxRbUlXUEdBR0ZyWVFESnZvaUFNTzE1RjRTYl84UnVnTU9WM0NRR19jZ3UwU3AzcXM0SUIwTjRnN3FEY1p1ZzgwcUVyNG9IWlJueV9CdklOZWJHUVU3bUpaM2RmZTFoTjVWQm4yMFZCbDA3Rzc4RlNUTkJIMWRtOHdQSm5SSFkwRmNNcTJCYzM2T3ZSaVpObFJfbXU4cy15VFNRbG12UzQxdlNhempwSmFtMzVnQXlqT1E4YktyUUEzWjhaQ3NUU2tUdU5iS1RCRWZIUGNyTmRnSFBKdG5pZHpiOHR4aG41N2ZVY0pldVo?oc=5": {
+      "title": "Maioria dos presidenciáveis apoia investimento em petróleo e gás; veja planos de transição energética - UOL",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:25:46.976480",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSW9qck9oYkktX1M5QUVSV2JHRGhZTWppUnFBRHFEdVFKYXFnaFR3em9QQ2pTamp4SklGYkZyM2VwNWNHSXFBMTkxZDZSMWNqMTN5ZzB6Tmlza3RIWFZBWUh5WjdwV3JXZk9vWlpuUzJVU014WGxxczZHQ1NKeFp6LXozdW1FYmxpMnE0Z2xZeTJoY3J4REVvbHVJQ2F0ZDBVOEhr?oc=5": {
+      "title": "MME planeja leilão de gás da União de 2027 sem intermédio da Petrobras - Agência iNFRA",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:25:56.254047",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTZSUmtXdTRoY0tsdHRWcldVbGh4Ymp0bzFyc2d1ZkhkZWhFSFZrdWI3ak92WS0zWFE4ZkI5a1FOZEJFY3NnVHdNZ2VVal9YdTVGQzEyNlhxUWlsckI4SF9xQU9ucExPcjNpOTFWUzhTdTYwaXUyOUF4QU55c0I5MGpETjc5eHVNT2dzeE9sSENfeEU?oc=5": {
+      "title": "ANEEL pauta processo de caducidade da Enel SP para terça (6) - Agência iNFRA",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:25:57.771964",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFFRc0I2WjNpUnh1dnV2M2JpS2I0dUx2UzBFOU5fdm9MY1FMX0FVWjhlQ3RXcHctY3VNWHJydHprYjNKdzl5WTVkdHQwYVMtdmtQbWd6dWx5UGNoVlZ3ZHJMWFR5aG1WaE5pbXJkTWtjLWszekNyeXF6ZWZHOFRLeDlrY2E2ek1CNGE5UnlXV3V6MXZtVTBXTF9NZFMxWW5rQWVmVEJjSjJqM1dSTk1z?oc=5": {
+      "title": "BNDES já credenciou dez fornecedores para leilão de baterias - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:25:59.286404",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGd2em5fcTYxNm01c1NXSkVrNmJVZ0lBV1EtTVB6WDBuUnU5ZGFqcmxleUNxQVJPM2FiaFBmZHVoOHBmQnF6eGNMWTRoS3JrcklEX3c4eTFiVjdOUW9NcUVWaFlFNXlET3ZBM3BLbXBNV3ZxZlhCalFydjg5bVY4a2FON200SUlZX3F2dWtVQWM4ZHdEOXFERzgxT2ZlMHlEbGRLcWxoa043aXNa?oc=5": {
+      "title": "Neoenergia amplia parceria com GIC em redes de transmissão - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T08:26:00.808172",
       "error": "no_article",
       "attempts": 1
     }
