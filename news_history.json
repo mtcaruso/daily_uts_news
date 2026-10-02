@@ -1,110 +1,6 @@
 {
-  "last_updated": "2026-10-02T08:26:00.808306",
+  "last_updated": "2026-10-02T16:15:14.592153",
   "items": {
-    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tSG5oQ3l1TmNXUkNwWWlIWWhiMXNrQ2JQaGo1M3NlUVhCMVZ2djVkYkhIUjdNZE1OWlpVajhMQTVqSkJqYkhxRXNHai02UWRGd01RSw?oc=5": {
-      "title": "Tag renovávis - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-18T14:29:07.948552",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVZIWEJkc1pkQlhzQXJhT2U1cndKd0pKeGk4VU9tNjBEbmtXSk9Hc002SGtiUW9HZXp4SWY5akpNWUxoYWlYTFA1WFFOUmdIV3dacmNjOXEwWGNlRk91aUhQZjJiNHZJRU5MQ0NxcHBfalFXVFA4aG8yd2otTXMweVI1a1dqSmlMeV82VkwzS1poMlc2UHhueHdyYjcxR2FmaGNpejliVUV3UnlLWjFUbXRsbm1lNHhBU3FsR2pTb21qemR5NnhVZnNITkY5c3NzMF9iU2tR0gHkAUFVX3lxTE45YlU5NHBoUllnMWw0MEJYMGxubEx2aTQ2Y1prbURYV21kYmhGZVFULVlCNjByd04xT0pjZEN3MUNnQWdFTVFlNlkwcU01eGV2R0NvU0RwZFRvQUpFZ1VCWHgtUlJjQk9HeHBmTEZ4NjBDMUxOT21KQkdlMDN5YjduSGVYSmlyRVdzN215QlA0cDJ0eXZvLWZIclFjS3NKZmJNRXFjMHR6cEpSTmpLWUJjUXhxMERIcW53eWJ6Qm9CcTJ6bTl0aVZnMFBJWVJQZjVUcTRKVU5HelFqSTlvakNFY1RiNw?oc=5": {
-      "title": "TotalEnergies obtém US$ 1,8 bilhão em acordo de infraestrutura energética na África - Valor Econômico",
-      "summary": "TotalEnergies obtém US$ 1,8 bilhão em acordo de infraestrutura energética na África O acordo prevê que a gigante francesa de energia pague uma tarifa baseada no volume de movimentação (throughput) por um período de até 15 anos A TotalEnergies informou que um fundo da BlackRock investirá US$ 1,8 bilhão em um portfólio de seus ativos de infraestrutura de petróleo e gás na África.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:17.967035",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXR4TFdma2J6SFNkOUJ3WWpRZk1rX0xMZWsxM3pDeVdlOG9pSDBUcHNwN1J6UWxmNU5GVy1USzAtbDBseTVTRVltY08tU3o5UU5SWUtsaE5odnB0T3lDRkk1cDdSZFFhYk1PeVQtUlNqQWVwbDBtVlE3VW5rQl9XZ2d4eGlOTm12Nzh6Q0hqWXUtVHpXYS1NODIxUG1pS0JSMTd1N0NsSUppSXJqNEVCNmRIQdIBwgFBVV95cUxOcm1rSGRGTU1CM3ZFOU1jU1NXaGpkcm1JT1hlRTRtUGVNVnVDMjk1cTQ0ckNVYWF4RERHLTBtN1BIWXdBUHNrLWN3cVg5ZTRNOEs3OFY0S3hmLXF6cHpXWWlFckN6MWY4SFRrb25BcjFHanF1VXBrc2NfZDN6QmFFUk5Ebi1rTDdvaHEzMUIweE9GTGZQSGdMS2RkaHBEaEplaUlEaFFSVEhERnl3eDlMVHRPZW1BcDdwdjdYN2w3ajRFZw?oc=5": {
-      "title": "Distribuidora de filmes vence no STJ disputa sobre IR - Valor Econômico",
-      "summary": "Distribuidora de filmes vence no STJ disputa sobre IR 2ª Turma entendeu que valores enviados ao exterior pelo licenciamento de obras audiovisuais estão sujeitos a 15% de imposto A 2ª Turma do Superior Tribunal de Justiça (STJ) decidiu que os valores enviados ao exterior pelo licenciamento de obras audiovisuais estão sujeitos à alíquota de 15% do Imposto de Renda Retido na Fonte (IRRF), e não à de…",
-      "source": "",
-      "added_at": "2026-09-18T14:29:17.967099",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTVVkaEVxV1ZRTi01aVRpa294Umdtc2JxM0RUXzBkZDFTRmlVaU1sNFdRN1lDWmgxQnhTaS0yUkZydHZFdktNSEF1R2lidFRzM0kwc2NiUGhva0hRWDBGWlRZWTVmRUZOd2ktOUtfS21abXZ6RXhNTW5kcmFfelBUUTlNMFN3NWx6cVdSbnlVUGNyT3JIMjlrZEdURWRjZ2pVaUVYdHd4N2RyUlpHVlc5UlBHSF9HcUtpem1PVzAwVUhpcXFITi1YalhQeTZpdkRVeklMWDRZbTNHSENtcmNvQTdfUVAySC1z?oc=5": {
-      "title": "Redução de R$ 11,5 bi em gasto com Previdência abriu caminho para reajuste do Bolsa Família, diz governo - Folha de S.Paulo",
-      "summary": "A redução de R$ 11,5 bilhões na estimativa de gastos com benefícios previdenciários neste ano abriu caminho para a concessão do reajuste do Bolsa Família, afirma à Folha o ministro Bruno Moretti (Planejamento e Orçamento). A medida foi anunciada nesta quinta-feira (17) pelo presidente Luiz Inácio Lula da Silva (PT) a 17 dias do primeiro turno das eleições 2026.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:17.967521",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSGhMMUM1V1p3OXJXd2hyQzk0TjVDeFZpcERtRTluMFpMSy0yMFRxc3p0M3BkOHEya3JYRHVvQXdyeGZJMEhUU1hvTTNfbDNYSTZ1ZmxZR0s2bGI5TmpXZ2NHVk9kSEJkY3h6dkZydlNqTk5IQUNsLVVsVEVsYnBaWEoxY28tSDVKaVFYeDY3QjFydENXOEl0OHpNd2xrQm9TeUphOXRyQmZlYWJTVEFkOS1CTVJGWTlvM2dkUzh2cUlmYnBJdExnMlJ3?oc=5": {
-      "title": "Renan Santos pede que TSE suspenda reajuste do Bolsa Família assinado por Lula - Folha de S.Paulo",
-      "summary": "O candidato à Presidência Renan Santos (Missão) pediu na noite de quinta-feira (17) ao TSE (Tribunal Superior Eleitoral) que suspenda o reajuste de 15% nos benefícios do Bolsa Família determinado em decreto assinado pelo presidente Luiz Inácio Lula da Silva. O postulante argumenta que a medida, tomada a 17 dias do primeiro turno da eleição presidencial, é ilegal, inconstitucional e \"desequilibra…",
-      "source": "",
-      "added_at": "2026-09-18T14:29:17.967735",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazJ3clAtbG9nTC1vQmRham9RdUtjS1A2blpiSWhhd09HTHlTZWpuRjJ4bno4cHh5anE0aTNKME5RcElFb1NkTGJvYmZ5bWxwTWNVQzVmZmtBU2NiWDNTc1dlaEtRMUp2TGd1SWEwX3RtSEtYY040ZGNQOWpkcEpvVzh2S2Izdjl2MEU5anpfNVpGMVdLc0g3T25seFAySWxTMXNEMWJR?oc=5": {
-      "title": "Reforma tributária pode elevar impostos na energia em 2027, dizem agentes - Agência iNFRA",
-      "summary": "Geraldo Campos Jr. e Marisa Wanzeller, da Agência iNFRA Especialistas do setor elétrico alertam para possível aumento na conta de luz com a vigência da Reforma Tributária, a partir de janeiro de 2027.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:31.314601",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFg0V2xmS3NmR1ZjZlc1WGl6SmdCdmRyLU5UcTNmbFhUZzBkQV8wQXoxQS1XUDVkVHZ3SDN5SXlHRWdVYkJYTzBURlhSbHkxVF9wTmZ3UWJXUGtpb09YVWRDRy1Ua2JSemVPMEdaRERncnJhblc2NzlpSHM3ZEpvMTZOQWdMSW05TTA1Qi05c0JEYm9yOVNHQXBPY25YUFdf?oc=5": {
-      "title": "Senador consegue liminar para ANEEL fiscalizar a Âmbar Energia no AM - Agência iNFRA",
-      "summary": "da Agência iNFRA O senador Eduardo Braga (MDB-AM) obteve uma liminar contra a Âmbar Energia, do grupo J&F, para suspender cláusula do novo contrato de concessão, que dá seis anos para a empresa regularizar os seus indicadores de qualidade no Amazonas sem penalizações. A decisão também determina que a ANEEL (Agência Nacional de Energia Elétrica) abra um processo de fiscalização para apurar a…",
-      "source": "",
-      "added_at": "2026-09-18T14:29:44.940742",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGljelIyWmVESFlyeG1KNlJOSm1mX1puak1QR01DYzZLLXl6aG1mZVd0ejRuSTZFc1FkcWJyUHgzRi1WdmdVYWE4bE5UWm9ENmNkc0NCOU1XZEJFNkQxUTFHWndiWFFGdkxQdHhYcGN3dkkwVVZIOUtYRjlucGRyemMtazl0V2tsVWx1RDUwbGFjbzBPUXh2c2dnaDFfMVhFTGtSbFVPLU4tYk1VZmc?oc=5": {
-      "title": "CCEE confirma AGE para eleição de diretoria em 25 de setembro - MegaWhat",
-      "summary": "A **CCEE** confirmou a Assembleia Geral Extraordinária (AGE) para **25 de setembro**, que elegerá um novo diretor de Tecnologia do Mercado, com indicação de **Elisa Bastos**. A assembleia também definirá suplentes para o Conselho de Administração e Conselho Fiscal.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:44.940960"
-    },
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVRnX0JkYnhOU0V0YllDNzRWd3UwOVpteWpUZUZKNDFKWFpERTB2RXVBVHZvcENEY3RrZXdrbEZnSnFpbUpkYlBDMUZmajQ3SzdlSXQxV2gwNkppVFA0TnQ2MklicklZdmUtQkVWZHppcVVsQmhLNnRfcWpDOV96VUlYX0F3OVh2WklLbXQ0MWc5MHk4Y3dYbkNpRDhhMFBtQUJxT2x0R2w1OFdJcWdzaTQ4XzNxbVJLZVVET1VnLVVZTW5telNBdVVVdWZQdw?oc=5": {
-      "title": "Chuvas de setembro elevam reservatórios, mas El Niño severo pode mudar cenário – Edição do dia - MegaWhat",
-      "summary": "Chuvas de setembro elevaram reservatórios no Sul/Sudeste, mas um **El Niño** severo pode impactar o cenário energético nas próximas semanas. O **Linhão de Tucuruí** reduziu em 99% os desligamentos automáticos no Norte após conexão ao SIN em setembro de 2025. A **Acelen** busca **US$ 1,5 bilhão** no exterior para recompor dívida. A **China** acumulou estoques de petróleo, aumentando seu poder geopolítico.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:44.941243"
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1A0SE55eHRhYi1mVGtJODB5VV9QX2tOZmdVZVF2NFdJYThEYnJ4TTN2cW13RkM0ZnNUUndsNDl4SDFOWnZLbVVfcl94NEI3V1pKdnA1STFENmpUSldkdU5xX0p1RUZjaE1GV3dfRHcwX2RKMWlvQmxtUTB4TndnLUdTTnM1ZktMZHhOSUppUFBYUUE1WEdLLQ?oc=5": {
-      "title": "ONS propõe teste de modelo DSO com cinco distribuidoras - MegaWhat",
-      "summary": "O **ONS** propôs um sandbox regulatório com cinco distribuidoras (**Neoenergia Elektro**, **CPFL Paulista**, **Cemig-D**, **Energisa Mato Grosso** e **Copel**) para testar a gestão descentralizada da rede (DSO) e o despacho de recursos energéticos distribuídos em tempo real. A proposta, enviada à **Aneel**, prevê um teste de **12 meses** com remuneração apenas para adequações de instalações.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:55.229021"
-    },
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YR0NKMnlIcjNpMUxVVDJXVVdxMDJmMDlQTC1TYmt2RG9xR0RNMms2VmJraU9pOVdWRmt0WWhTM2kySk5yUHhqaVhaQTMtYWtfV3NmbE5wWi1JQQ?oc=5": {
-      "title": "Tag Flávio Loução - MegaWhat",
-      "summary": "A **Axia Energia** defende que a confiabilidade de data centers com energia renovável depende da arquitetura do projeto, após a sanção do Regime Especial de Tributação para Serviços de Datacenter (**Redata**).",
-      "source": "",
-      "added_at": "2026-09-18T14:29:55.229059"
-    },
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjbzNBdzEwSzdmUnRtNFNIbEltb21pWHdSaU1Vckg3dDlKTVdYRGVBYzZXbzZlYTlTcXU0cTlEVTExZlYwclJOdHptUzlyLTY3T3c2a0NUTlpKa2M?oc=5": {
-      "title": "Tag El Niño - MegaWhat",
-      "summary": "O verão de **2025** deverá ser chuvoso e ameno, com bons ventos para a energia eólica, segundo a **Nottus**. Chuvas podem impactar a geração solar distribuída, mas com menor intensidade no norte de Minas Gerais e Nordeste. A carga para setembro deve variar negativamente em **-0,1%**.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:55.229072"
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4dUdzODlXQk45Q3hqS25DRW94SnJITXRzNkNteXlGaE5lYV9Od29BMF9nV3RHZzlaYTJnVDByUTUybk5SamZoTGxPRmJMWXdyVmJQLUg4SkJVcEI2YjVEZ2kwQm9LUQ?oc=5": {
-      "title": "Últimas Notícias - MegaWhat",
-      "summary": "O **TCU** determinou à **Eletrobras** que exija do **BTG Pactual** o detalhamento das bases de cálculo de custo de capital e prêmio de risco antes de publicar o edital de venda de participações em **70 sociedades de propósito específico**.",
-      "source": "",
-      "added_at": "2026-09-18T14:29:55.229081"
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmbldTdzZZalpnWHRnQ0l3SERDVVlzYlRPWWQzdUtSMHhGNUFHLTEwR282THZUQmFqVkp1b3I2M1lwZURjMlg1QllKWFhCWFJTYTI5X3dnaEhha183?oc=5": {
-      "title": "Tag MegaWhat - MegaWhat",
-      "summary": "O podcast **MegaCast Convida** discutiu o início do período chuvoso em novembro e seu impacto nos preços de energia com **Rafael Mathias** (Capitale) e **Bruno de Campos** (MegaWhat).",
-      "source": "",
-      "added_at": "2026-09-18T14:29:55.229088"
-    },
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BYzhVTnhUSUZDT2VTVzI2WXZTd0hLQUhiX1JLS3dUaU5sMEFmbXhTbzlrWXFkRkppQTE4YWJkYzY0dmpnT1VUNFlfckVsRktDNDlJSmFWRlNjdkFpWlhv?oc=5": {
-      "title": "Tag Guilherme Ferrari - MegaWhat",
-      "summary": "A **Engie** avalia investir em usinas hidrelétricas reversíveis e oportunidades de M&A em hidrelétricas e eólicas. A empresa defende que os custos do leilão de baterias sejam divididos entre geradores e consumidores.",
-      "source": "",
-      "added_at": "2026-09-18T14:30:00.897551"
-    },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcjNidWEtWkR2UjBjRXdBRVBpZXROenM2OEgyUkJEbDU4VmxUQjN5MkhYa0ZGb3hTNWo1akdkNy1vZWhHZmlDMWhKWVA1d2Q2UE9XaGRLczlZWVRsOFRTSnVaTGtPS2FDQ1oyUE5jVlNaVldvRFBNWkxSVjYxcjBVWVAzNFJzcEhiZUxMaENybGtPM0wtWlR2dk45VTctMm5vQndvMWZkV1JXcWtHSS1vS29pMXBHSXVTOTA5MXh2M2tNQ0VvVHJhMlE0dzViUTJBYjVhZ1lZTmFHU2lBMnlpZVloTHhLd1YwaVZqMFdJdVN2Zw?oc=5": {
       "title": "Painel S.A.: Sindicatos de trabalhadores de energia pedem suspensão de pagamento de R$ 2,3 bi a acionistas da Axia - Folha de S.Paulo",
       "summary": "Trinta e quatro sindicatos de trabalhadores do setor elétrico pediram à 80ª Vara do Trabalho do Rio de Janeiro que seja suspenso o pagamento de cerca de R$ 2,3 bilhões que a Axia Energia programa fazer a acionistas na próxima terça-feira (22). O pedido urgente é um desdobramento de ação que já tramita na Justiça e cobra diferenças de PLR (Participação nos Lucros e Resultados) referentes aos…",
@@ -1821,7 +1717,7 @@
       "source": "",
       "added_at": "2026-10-01T17:00:22.342031",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa3ZSR3NzeVFUYUNseDZpNElVdF9kcDRTWEFFcFpsbll2WU4tclY0UHFYSVZfUm5yVUktUXg0dlFnMWMwVVFuSWc3aWd1MVU5bkNkcVQxZHJDV3RtNjJhZDZFMDVnZ01hZFVOa2NZb1A1SFJXQnJvSTJiU2N5SkNVTlVEZ3lvV3N1WjhKQXduckMzMlZkQlVUSXF5Q2hqamYzUWpSN21CSnVucjV2RjJnYzVsM0hUUEF4dkN6TEFzSHJwUEtVRTRicTE5QTQ0SFJG0gHfAUFVX3lxTE9CLUlkMjhCdFU0WWtqd0tqb3lCY2R5QWtxVlBpa25WNTBjbHBZa0hBS2JOQk8wMjVpNzlZdFRvbTUzWlFJQTJ3eWpfT2JhQXJkY183OXBVdm1NSG9xYjduS2hYQnR3N3pjbXFTNWV0ak8tVjRTU09YTXFpOFZ0dzVEb3JNNW5rdTUxSHlJRHd0dVJ1SGxUTm1VdVlZRkRxNGdTV1BFX0RJQUJqN3RmZ1dyVWtScDZpSXV6cVBfNnl5dWIwY1R0TkNEVW1ZR2tLTGdZSy1kUXBLTXhJb2lMcE0?oc=5": {
       "title": "Inflação da Suíça sobe 1,0% ao ano em setembro, puxada por custos de energia - Valor Econômico",
@@ -1840,12 +1736,12 @@
       "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOFNLY1hFMUYzNDJpeW9IZldmRTdTWW1qel9JbjF3anJva0tCMUdycS1nTXhNSDFUUWFkSzZSWkNvQnJfRmNfaTRBTDRyV1UtSHJTMUFqcFIyQU5kZWpLaVpLYkNORFZTeVNtT1FKX2QzeFNTT2VsNUd4SEtYeWJ1SVhiRWFTZUJoTElGWnRMeFptazkxaldCVFJ3MXFaVjNSZkhvUkphUUhLdXNLbzNqQnZIclloRTZPVWpZNmVyV2NlNHhpVEowVk90ZkJ2c2E2WHBsMk5vLVExWHVoRFBmdzg5aUJDc1BUYmNuaHZpMFM4eEgxajgycQ?oc=5": {
-      "title": "Preço de painéis solares cai e amplia geração de energia pelo mundo, mas analistas ponderam riscos - UOL",
+      "title": "Preço de painéis solares cai e amplia geração de energia pelo mundo, mas analistas ponderam riscos - c-level.folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-10-01T17:00:33.089436",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVNRSmRnR0NmVm9UN0tLeVVWX0N2Y0pQVkoycjN0Q3prYnloT0ZQb0QtaEhZYTlxanNETVNLTDhhTkx3R1RLYjNGcmt5SjM5UDI1UW1ST3h2SXVlR2VlOWFVd2UwdWtKclBZa3dtRUFZa3FKVlhJWXZPR3lNVFF1R0t4eS1lNXQ5MjNjOGMyVlFpSmJGck5sM2VVeGM0UVFocjV3clZPYV9lRk9YbDNDSTlrOWQ?oc=5": {
       "title": "Setor de petróleo da Venezuela esbarra em crise de energia - UOL",
@@ -1901,7 +1797,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:29.357205",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkxPdDlnWVNucjFCRURIMHphVTJFVWxyU2dQQzFsUHBQNmphdnlOX2JidTF6V29OaVhpT2tVbjZIeXgzcFFLRVpCVUJqbkpPM1pNSzlXS2QzWTR5dE9BU2dyaHk1czBLcnlSeTBWQTB6R0N6OTdQVDNxamVVYzUyZWs3ZWpmOS13YkM2S1MxTWN1NlhKOWk4dG4zaDdfZnpCNkZDT1l1dUFRSC0wYXB6N09YVXU0eGlSZ1pZUm41RQ?oc=5": {
       "title": "Energia - Valor Econômico",
@@ -1909,7 +1805,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:30.806320",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1lBMjhNM3kweFREbkFFaTBYaFZGdnUzU1JacVBfNDlvY3pONVZNRmVydi1Xb21wSVJGcExwU2JJdXQyT21IQm5FZ2JtbkpMcXUzSzJCZWo3eUhBazlNWFZ3Zmo4Tm4zODBZbGpOQ29DeE9nRlNOTHpyVUVOMUZISVE4OEp6RWp6RlgyTnFIcE80SGdSR2RaZHR1bkR3eTZ4bVJLcVhTbXV4TlBsNElfN2lVY0hucEtHcGhUYkVtVU03SjJsZE9EcTIwOEdOaEFybFB3eWFkclIyUdIB6AFBVV95cUxOcXJzYkdBZlZOMVl1VFN3cHZGRmNnR09yaXhYNXBjY2lNLXNlTm83aklrY1hUbkFnN0NLeWxWZV9ZajhtTVVxQll5VEZkQmFMVGdJTnd0YzdyWV9YckxhdGo3MVgyRmVzWGVfLUtQS2F2UjlFeGxTcTZRc2EzZnc0dTBsNV9KVF91b2lleUkwN1ZmMEpVWF9GbWtUMTJiUW93amNtbkJkbVNleEhBVTJtR1RuT0lNNWpMaHZYUElaRnlQTlNtOXA1ajE3WWF4bGoxWEEtRjYwZWNwTFVFU2NMU1Ria1gxSU0y?oc=5": {
       "title": "Coalizão liderada pela Arábia Saudita diz que houthis atacaram estação de energia em Medina - Valor Econômico",
@@ -1917,7 +1813,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:32.255146",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1oxaTBBZDlDbkdwREtsTkhJa1lQTWdrdzhzTzF1ZlJMVDFWRzdtLXJCTmMzTjNaRTRfQXRsTFd2RTNYYi1GNGRnMTZ2WVJValFIMnpEcW9iWllidC04V0JnRnRKa01LVkhmbHk2ZmxSVkt6MzNzbjBvcVpMdFBPUHZhb2s5MEVSYXRxSWJ3ZXBVZTlpQ2wyUWdR?oc=5": {
       "title": "Enel em SP: agência federal marca votação de processo sobre rompimento de contrato - Estadão",
@@ -1933,7 +1829,7 @@
       "source": "",
       "added_at": "2026-10-01T21:47:49.784615",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNalNQUVpUZ2pIOWQ2VjNqR3ZxTFNhUl93cElIUFVWRmxlcGkxeVBFTXF2TUctc2NnaG1ISGRmU0g2OTdvZ2hRMHZTU0s2aUZDUXQzUjE1MG1haGlCaFNiRTkzalVkcUF2OTJpVUMzT0lQTHNJaXBoVE9uSXlZRVZ1Y2NnRXFGQldxMVIyTlhEY2RuYTMydWIxMDh1cE9rM2Y4ZXY0YjVJc2UxQ2t0cEx2eFAxZ0Y1Vm8yaHl2SVg5bDhUNm5GaVlnbW1jVmZsc2lUZDZYaE1XRnNmbE1LUlRSbmNOTHE3QnA2SjhHNUFqQdIB_gFBVV95cUxPSDI3SmhIdldwbkFFZWR1YkRIaVJRc3hFNUFkV3BpbmF1Z0xMV0hkT0l1YWsxLWp2SWZoUjVPLWdkN2x1RkRldUVhRGp1OTh0ZklOUm80U2JSeU52QlNrQU5nWlJreThKUUZtQW15UklWQzJmN0hBY3hLc0ZvLXFyTm5mN0dyQmptclN0dnhqdTBaM3BGbWNGSXB1NzhPUU4zcExEczhsa2JabzhNYkpFbEFTS0E4VHotOFc4eHdiU3FOeGlyVFVPQlhOMmJVeEJqN0s0eFpYTWlvVTJqcXM0aFdTTVhYOGJmX1lwZXc3aVg2SGtsSExocmtnWVFaQQ?oc=5": {
       "title": "Aneel deve julgar processo que pode levar a Enel São Paulo a perder concessão na próxima terça-feira - Valor Econômico",
@@ -1941,7 +1837,7 @@
       "source": "",
       "added_at": "2026-10-02T01:39:12.286829",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTHRQc3UtejBEWC04bXRnLXBNMkdsMDNyMV9DMzJvQzNIcnNreUZWaWRsMGpEdFFJYXdGN25BSEFGbzhLMkJFTWphd0pfdUdaOXdtN0x2cFp1dV9iOHllY01mdVA2d0F6THBaSlpVb0N6NjZoaDVoU0xOWHNUZFQ0ampBWHM2dEpWSVZPaVdiQWsxWVFSbVFraVFFMm1Wd1VwNlRUVFdOeEJQeXp0Um8zTGFLSWVxVFJrdzdfNmF6SUJDRVJBc3hLcVNiUXQ5WlJvc0o3QVU2aUJUZ0w5MzBhS2V3?oc=5": {
       "title": "CPFL Energia ainda tem fôlego na Bolsa? Itaú BBA revisa projeções para a companhia - Estadão",
@@ -1957,23 +1853,23 @@
       "source": "",
       "added_at": "2026-10-02T01:39:32.852397",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUU1jb2Fvelk1dnNlX3JhSXZyUGYwUEtYdGN3enNkMGpRZmoySHU3MFZiYjdzX1REWk5HV0tTSktHVzJCWk1fcjVqRnUyVFBnZ29ERW5YeUJoQVM5OVNLYkRSNllYMUROUmJ1c3UwMExpN1AwTFpIY3NPZ21vR2FOSGxKNmIzTm9RREMxUG1hUHVYamFMbXFyejJUaTU4M3VmNW1sbGhPejY1YUpOZy1NbUdzbU5sdktNOUFqN0VZaDJRSVotTGtDVm1ncnBzTW1HV2ZnUUF1MVZONjRZdFZDNU9wc0RLdTB3UFVJ?oc=5": {
-      "title": "Prefeitura de Porto Alegre leva a mercado projeto de R$ 7 bi com foco em drenagem e saneamento - UOL",
+      "title": "Prefeitura de Porto Alegre leva a mercado projeto de R$ 7 bi com foco em drenagem e saneamento - c-level.folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-10-02T08:25:45.439911",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVnU4WDFuRHllVTBxSWxRbUlXUEdBR0ZyWVFESnZvaUFNTzE1RjRTYl84UnVnTU9WM0NRR19jZ3UwU3AzcXM0SUIwTjRnN3FEY1p1ZzgwcUVyNG9IWlJueV9CdklOZWJHUVU3bUpaM2RmZTFoTjVWQm4yMFZCbDA3Rzc4RlNUTkJIMWRtOHdQSm5SSFkwRmNNcTJCYzM2T3ZSaVpObFJfbXU4cy15VFNRbG12UzQxdlNhempwSmFtMzVnQXlqT1E4YktyUUEzWjhaQ3NUU2tUdU5iS1RCRWZIUGNyTmRnSFBKdG5pZHpiOHR4aG41N2ZVY0pldVo?oc=5": {
-      "title": "Maioria dos presidenciáveis apoia investimento em petróleo e gás; veja planos de transição energética - UOL",
+      "title": "Maioria dos presidenciáveis apoia investimento em petróleo e gás; veja planos de transição energética - c-level.folha.uol.com.br",
       "summary": null,
       "source": "",
       "added_at": "2026-10-02T08:25:46.976480",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSW9qck9oYkktX1M5QUVSV2JHRGhZTWppUnFBRHFEdVFKYXFnaFR3em9QQ2pTamp4SklGYkZyM2VwNWNHSXFBMTkxZDZSMWNqMTN5ZzB6Tmlza3RIWFZBWUh5WjdwV3JXZk9vWlpuUzJVU014WGxxczZHQ1NKeFp6LXozdW1FYmxpMnE0Z2xZeTJoY3J4REVvbHVJQ2F0ZDBVOEhr?oc=5": {
       "title": "MME planeja leilão de gás da União de 2027 sem intermédio da Petrobras - Agência iNFRA",
@@ -2004,6 +1900,46 @@
       "summary": null,
       "source": "",
       "added_at": "2026-10-02T08:26:00.808172",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTFxRmdPbWNrUFBaeGNBY2FyS0FhQ3hNWlBMRkVNbjNsTWV6cXoxQm5sdXhVYUZiQ3hOcTdvQ2ZzVVFLdk9GaU9POEdvV1Iyd1dJMkpmZ2x6SzJiM1UwOHh6NjVKckl1b0hWRVBUN1ZmVVNvd0s1d0d6dFE5ZlRsZWc2UTNTX3ZmRnZGaGNWZzdicURxcXRSaXczY2RXSGtMTUtLSWUwd2dyOFVnbzM3WGJjdndranNXZHR1WURqTXZ5dE42OWgtaEMxSm5nZnB0THVKa1pXazhWZ2JM0gHrAUFVX3lxTE9HM2VtWk41eGpBdVpHVE8tT2p0QVBMVE52VnZjVHkxa0tfZW41a0xvekljeVhXTUtTUWFnOGV5b2YzTHVzcUVMRlUtSHdNZC1iNUlOVzJVVm1KcE9fZEs4d2JfTFZmZUpJNExHd0tDdHczU01xTUFqeE1HcDRjcWtKMzRGX1k3ZWZFYmFETUFvQUc1MndMV09zWnl2TDFQZ0Jhc0VmZ19Yb3p5TmlRTW1wdnFSX0twOGhnZVRHcnRCRExqUkMwM1Zab1J6OV8xMG82Q2hXRmcyeHhTbDNubWJQeVZ1VGlCS0ZUeVE?oc=5": {
+      "title": "ANP inclui novos setores na Margem Equatorial em mapa de expansão de fronteira petrolífera - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T16:14:52.748221",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSzR0eTRFd2poZlJlY3R4V3J1VjVHbXZjR2RIUkk5VXNGdEJiZWoyaENNWW1Ga3RNa3FTZXdlX2ZIWUpreEJoelprZVprWWJLLWdWZXp2a3hZZGQ0T2RmSHh2SUR1MUdNakVOOXdYeVhEMzRBNmZPY3Z1YmQ2ZDNIa0V4UkJVal9SNF9zZ01CZ2tsekdQQ1dtVVpULTBnVm5jSVk2blJ5ZVdwX3Zaa01idDN2eDlYOTM3ZGdGLUxvWUt4MmpKX0M0U3FyQTF0Y1NiN2F1MmxCR21wd9IB6AFBVV95cUxPSlZkY0tZbGZhTDFuZU9xQl9qM3FjNmg5WHhsMlUyRGNfb29yTERsMy1yeWk1dVNCYVVFNXV2YkwzWHVWNDNndlUwbWZCdFU2WnB5dXZGYlFqU0FXak5UTTRwallhcHByVHVIcVJkbW1fdXN5NU51cklGaHp5M0ktOU9YTThqNkd0NGlEY3R0bUI4V1dxdTZCZm0tcm9zbWh0UjJUdmZiS2dGNDVITmZmTm5fNXRBOEx3SVBkYTMwRXd6c0wxNzQ4N19PS2R2aFE1TzNTR0hPZmNNZm95NmptUDIxd1RrRzNS?oc=5": {
+      "title": "Petrobras faz nova descoberta de petróleo em águas ultraprofundas na Margem Equatorial - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T16:14:54.312946",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbEgxZEdIcXQ4UjNpcER0TlEwbDdvMFQxUURSQ3llb3FqN3oxeWRkMC1ZN1NFWTVZdW05a2c3RU83NVcwVERBU2p4andYSFNhSHNEdTR4eXFoaENXakZlRldfcldfZ0pfTWVqanRBY2Z6MWxXMVgxTGFaT0tDZ3R1X0hnM0djdnY2aTNWOTlVX0pUTV90clNmcWU2Qmp0SFJORUlZNE1VdHViRWRDcFhadXhLQl9HMGpBR0xDVmlLXzlVeUFmQ3c4WGJrVnktelM4U1JQTmNlVHZIUEJ1QXVpc3g5dkxxSDczMlQxaGxlQdIB_gFBVV95cUxOUklfUVFVNHYxZFFuTTV6d3F5REZPMXV0R1NOa0tad3lYMFN6ckFnU3M2SzQzSU9Nb280MTV3cVZaTUlEZmRxSGw1WFZmZ0dNZHZXZDNmNXVWY0tsTXJZWkhnVFMtZm1MMTJPa0VlaUhDb1RQQ053WllQU3g0UjJxclltNUFaT1RlSkc5bUVwRjVkT1dBMEFUZU9JNnIybll6OFlnTktvWnkxcHAwLXZQZ3dqdUMyTlN6V0hnV09FWVZwaTRCcGhDWm9RSzA1SjhaSmpBdnlYUHBCLW1NZ01LMXFIOS1BUlBDdWlVX0l1d2pVUWEzdHJGaWRtUXpEQQ?oc=5": {
+      "title": "AWS investirá mais de US$ 1 bi nos EUA para conter reação a consumo de energia e água de data centers - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T16:14:55.852490",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaklteS1ORHJrNHR5ZWthTUVDWVAxY3daUFN2Nkc1UTZiSXhzN1pGdy0zSTBodnIyNUFKTld0UlBHQkhUTlZxR1BBbzBjRmdlMkt0TkJ2UnN2TnlMTXRaWVZWWC10c01JWXJyeVk0dktsQzR4LXI1dldLX0pxakRzNmFVUnpZNzhNOVdBVHl4M2FXWGFEYmotT1JXdzZRSlBGNU5jVTZ6N0M5UVBMeEZsamNpeEVpajdCbHNXVzQ2U05XRkhFSTZXTV9zWV8wblk?oc=5": {
+      "title": "Inflação na zona do euro atinge 3,8% ao ano em setembro puxada por energia | Mundo - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T16:14:57.379778",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFJDNEgxNFE2dzE4d0RuS2Q1R2d3cy1RalJ4UmdhU3F1OURnajlHRk1EVEFUdC1NSnNRVW03UUJXMThfRFRXdzhiX1lIWDV6OS04NVZLcVVtaEstWkt6UWQyNi1raWp1QlRCUGRqWmIzV0NPRWd2bFVXalZqSlo4MkdzSlhHejdpdWJDdkFpX2FMV29uTUdrUlQ0aDNabFFvcll5LVJvcXZlRkJqdS1rMW85RVZubmNsTUY5RGQ1SmtkRFZEOUcxNld1RTJHcVZiN2dzY1RJY2Z5Zw?oc=5": {
+      "title": "Governo estuda 501 novos blocos para exploração de petróleo na margem equatorial - c-level.folha.uol.com.br",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-02T16:15:06.915118",
       "error": "no_article",
       "attempts": 1
     }
