@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T09:00:15.963155-03:00",
+  "last_updated": "2026-10-03T12:50:04.284390-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5148,78 +5148,6 @@
       "empresa_label": "Copel",
       "codigo_cvm": "14311",
       "first_seen": "2026-09-03T21:57:31.032704"
-    },
-    {
-      "cnpj_short": "01862-7",
-      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "1. Deliberar sobre da proposta e assinatura do 1º Termo Aditivo ao Termo de Compromisso Ambiental - TCA.Ata",
-      "data_referencia": "20260902 02/09/2026 14:00",
-      "data_entrega": "20260903 03/09/2026 09:22",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "1. Deliberar sobre da proposta e assinatura do 1º Termo Aditivo ao Termo de Compromisso Ambiental - TCA.",
-      "protocolo": "1564398",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564398",
-      "empresa_label": "Sanepar",
-      "codigo_cvm": "18627",
-      "first_seen": "2026-09-03T13:40:14.928917"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "TAESA Apresentação Eficiencia para Transmitir o Futuro_PressTrip -",
-      "data_referencia": "20260903 03/09/2026",
-      "data_entrega": "20260903 03/09/2026 08:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "TAESA Apresentação Eficiencia para Transmitir o Futuro_PressTrip",
-      "protocolo": "1564384",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564384",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-09-03T13:40:07.018115"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Aviso aos Acionistas",
-      "tipo": "Outros avisos",
-      "especie": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário -",
-      "data_referencia": "20260903 03/09/2026",
-      "data_entrega": "20260903 03/09/2026 08:29",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário",
-      "protocolo": "1564380",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564380",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-09-03T13:39:57.345042"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "3ª operação de resgate ou conversão das ações PNC -",
-      "data_referencia": "20260903 03/09/2026",
-      "data_entrega": "20260903 03/09/2026 08:28",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "3ª operação de resgate ou conversão das ações PNC",
-      "protocolo": "1564379",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564379",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-09-03T13:39:57.345056"
     }
   ]
 }
