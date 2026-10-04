@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T12:52:38.357005-03:00",
+  "last_updated": "2026-10-04T15:51:42.660383-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4842,42 +4842,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-09-04T19:57:55.148654"
-    },
-    {
-      "cnpj_short": "01862-7",
-      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260801 08/2026",
-      "data_entrega": "20260904 04/09/2026 14:23",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1565054",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565054",
-      "empresa_label": "Sanepar",
-      "codigo_cvm": "18627",
-      "first_seen": "2026-09-04T17:54:37.708962"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260801 08/2026",
-      "data_entrega": "20260904 04/09/2026 13:56",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1565047",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565047",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-09-04T17:54:19.706017"
     }
   ]
 }
