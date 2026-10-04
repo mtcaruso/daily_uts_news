@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T08:24:32.960835-03:00",
+  "last_updated": "2026-10-04T12:52:38.357005-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4878,42 +4878,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-09-04T17:54:19.706017"
-    },
-    {
-      "cnpj_short": "01553-9",
-      "empresa_nome": "NEOENERGIA S.A.",
-      "categoria": "Calendário de Eventos Corporativos",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20261231 31/12/2026",
-      "data_entrega": "20260904 04/09/2026 10:58",
-      "status": "Ativo",
-      "versao": "5",
-      "modalidade": "RE",
-      "assunto": "",
-      "protocolo": "1564999",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564999",
-      "empresa_label": "Neoenergia",
-      "codigo_cvm": "15539",
-      "first_seen": "2026-09-04T14:56:34.160360"
-    },
-    {
-      "cnpj_short": "02680-8",
-      "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Aviso aos Debenturistas - Pagamento de juros / remuneração (CPLD38 ) -",
-      "data_referencia": "20260904 04/09/2026",
-      "data_entrega": "20260904 04/09/2026 10:10",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aviso aos Debenturistas - Pagamento de juros / remuneração (CPLD38 )",
-      "protocolo": "1564994",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1564994",
-      "empresa_label": "Copel",
-      "codigo_cvm": "26808",
-      "first_seen": "2026-09-04T14:56:31.299370"
     }
   ]
 }
