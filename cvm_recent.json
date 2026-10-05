@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T19:02:46.754737-03:00",
+  "last_updated": "2026-10-04T21:52:36.969943-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4770,24 +4770,6 @@
       "empresa_label": "CTEEP / ISA",
       "codigo_cvm": "18376",
       "first_seen": "2026-09-08T13:50:56.482310"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Aumento de capital social da Companhia mediante a emissão de novas ações ordinárias, nominativas e sem valor nominal.Ata",
-      "data_referencia": "20260904 04/09/2026 10:00",
-      "data_entrega": "20260904 04/09/2026 19:37",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aumento de capital social da Companhia mediante a emissão de novas ações ordinárias, nominativas e sem valor nominal.",
-      "protocolo": "1565336",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565336",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-09-05T00:00:46.463154"
     }
   ]
 }
