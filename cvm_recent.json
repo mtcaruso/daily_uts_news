@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-06T05:54:52.093811-03:00",
+  "last_updated": "2026-10-06T12:30:30.389042-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Calendário de Eventos Corporativos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261231 31/12/2026",
+      "data_entrega": "20261006 06/10/2026 12:16",
+      "status": "Ativo",
+      "versao": "8",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1574599",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1574599",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-10-06T15:30:28.778867"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
