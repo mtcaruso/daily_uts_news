@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-06T12:30:30.389042-03:00",
+  "last_updated": "2026-10-06T17:28:49.275566-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Comunicação sobre Transação entre Partes Relacionadas",
+      "tipo": "-",
+      "especie": "Transações entre partes relacionadas -",
+      "data_referencia": "20260929 29/09/2026",
+      "data_entrega": "20261006 06/10/2026 15:58",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Transações entre partes relacionadas",
+      "protocolo": "1574643",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1574643",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-10-06T20:28:39.483274"
+    },
+    {
+      "cnpj_short": "01862-7",
+      "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20260901 09/2026",
+      "data_entrega": "20261006 06/10/2026 13:37",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1574617",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1574617",
+      "empresa_label": "Sanepar",
+      "codigo_cvm": "18627",
+      "first_seen": "2026-10-06T20:28:48.418715"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
