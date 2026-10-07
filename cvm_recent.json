@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-07T20:16:02.088982-03:00",
+  "last_updated": "2026-10-07T20:46:16.655955-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGDEB",
+      "especie": "Aprovar alterações nos eventos de inadimplemento e índices financeiros das debêntures, incluindo revisão de cláusulas e exclusão de dispositivos correlatos.; Autorizar a Companhia e o Agente Fiduciário a praticarem os atos necessários para implementar as deliberações, incluindo a celebração do 3º aditamento à Escritura de Emissão.Proposta da Administração",
+      "data_referencia": "20261009 09/10/2026 10:00",
+      "data_entrega": "20261007 07/10/2026 20:28",
+      "status": "Ativo",
+      "versao": "3",
+      "modalidade": "RE",
+      "assunto": "Aprovar alterações nos eventos de inadimplemento e índices financeiros das debêntures, incluindo revisão de cláusulas e exclusão de dispositivos correlatos.; Autorizar a Companhia e o Agente Fiduciário a praticarem os atos necessários para implementar as deliberações, incluindo a celebração do 3º aditamento à Escritura de Emissão.",
+      "protocolo": "1575262",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575262",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-07T20:46:15.265151"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",

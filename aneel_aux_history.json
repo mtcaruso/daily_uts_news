@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T20:08:14.957136",
+  "last_updated": "2026-10-07T20:31:01.994499",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1366,9 +1366,8 @@
       "title": "PAUTA/ATA DO 12º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
       "date": "21/07/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14781&idAreaNoticia=425",
-      "summary": null,
-      "added_at": "2026-10-07T20:08:14.456640",
-      "error": "no_body"
+      "summary": "- **ADS ER Eólica Vento Aragano I S.A.**: Recurso contra multa por perturbação no SIN, processo nº 48500.003867/2024-98.\n- **Ibitu Energias Renováveis S.A.**: Pedidos de reconsideração sobre valores das Tarifas de Uso do Sistema de Transmissão (TUSTs) para os ciclos 2023-2024, 2024-2025 e 2025-2026.\n- **Axia Energia Nordeste S.A. (Chesf)**: Pedido de reconsideração sobre autorização para melhorias em transmissão e Receita Anual Permitida (RAP), processo nº 48500.003484/2026-81.\n- **Interligação Elétrica do Madeira S.A. (IE Madeira)** e outras: Pedidos de medida cautelar para manutenção da cobertura tarifária integral da RAP no ciclo 2026-2027.\n- **Centrais Elétricas da Paraíba (Epasa)**: Pedido de medida cautelar para antecipação do término de vigência de outorga de UTEs e suspensão de encargos rescisórios.",
+      "added_at": "2026-10-07T20:31:01.493715"
     },
     "pauta_14778": {
       "type": "pauta_rd",
@@ -1393,6 +1392,102 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14772&idAreaNoticia=425",
       "summary": "- **Cocel**: Revisão Tarifária Periódica de 2026, processo nº **48500.030070/2025-44**.\n- **ANEEL**: Abertura de Consulta Pública para revisão da metodologia do Fator X (Produtividade), processo nº **48500.027624/2025-26**.\n- **Leilão nº 2/2026**: Homologação parcial do resultado e adjudicação do Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026, para **Consórcio EBRASIL/CELNE**, processo nº **48500.032821/2025-67**.\n- **Energisa Tocantins**: Reajuste Tarifário Anual a vigorar a partir de 4 de julho de 2026, processo nº **48500.030910/2025-79**.\n- **Enel Distribuição São Paulo**: Reajuste Tarifário Anual a vigorar a partir de 4 de julho de 2026, processo nº **48500.030915/2025-00**.",
       "added_at": "2026-10-07T07:31:53.541748"
+    },
+    "partic_cp_035_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 035/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4053&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Definição de critérios e metodologia para extensão de prazo de concessões de geração hidrelétrica, visando amortização de investimentos e aproveitamento ótimo do potencial hidráulico, conforme § 7º do art. 26 da **Lei nº 9.427/1996**.",
+      "added_at": "2026-10-07T20:30:19.164712",
+      "objeto": "obter subsídios para a definição dos critérios e da metodologia aplicáveis à extensão de prazo prevista no § 7º do art. 26 da Lei nº 9.427/1996, referente à prorrogação por prazo suficiente à amortização dos investimentos de acréscimo de capacidade de geração, objetivando o aproveitamento ótimo do potencial hidráulico.",
+      "deadline": "30/10/2026",
+      "start_date": "01/10/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_034_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 034/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4051&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento da classificação de modalidades de operação de usinas conectadas ao sistema, com alteração dos Procedimentos de Rede e contemplando diversos submódulos, conforme minuta do **ONS**.",
+      "added_at": "2026-10-07T20:30:24.255545",
+      "objeto": "obter subsídios para o aprimoramento da proposta de alteração dos Procedimentos de Rede associada à revisão da classificação das modalidades de operação de usinas conectadas ao sistema, contemplando os Submódulos 1.2, 2.1, 2.4, 2.12, 2.14, 2.15, 3.1, 3.4, 3.5, 3.9, 3.10, 4.1, 4.2, 4.4, 4.5, 6.1, 6.9, 7.1, 7.2, 7.4, 7.11 e 7.13, nos termos das minutas encaminhadas pelo ONS.",
+      "deadline": "02/11/2026",
+      "start_date": "17/09/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_033_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 033/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4048&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento do Módulo 3 do PRODIST para requisitos de observabilidade, operabilidade e controlabilidade de REDs, incluindo AIR para interoperabilidade do parque existente.",
+      "added_at": "2026-10-07T20:30:29.240308",
+      "objeto": "obter subsídios para o aprimoramento do Módulo 3 dos Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional – PRODIST para estabelecimento de requisitos de observabilidade, operabilidade e controlabilidade dos Recursos Energéticos Distribuídos (REDs), bem como do Relatório de Análise de Impacto Regulatório – AIR, que trata da aplicação dos requisitos de interoperabilidade ao parque existente de REDs. \"IMPORTANTE: As contribuições deverão ser enviadas em formato Word e utilizando o \"Modelo para envio de contribuições\" na seção \"Documentos disponibilizados\".",
+      "deadline": "09/11/2026",
+      "start_date": "10/09/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_032_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 032/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4047&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento da minuta do Edital e Anexos do Leilão nº **1/2027-ANEEL**. Obtenção de subsídios para ajustes no processo licitatório.",
+      "added_at": "2026-10-07T20:30:35.026098",
+      "objeto": "obter subsídios para o aprimoramento da minuta do Edital e dos Anexos do Leilão nº 1/2027-ANEEL.",
+      "deadline": "26/10/2026",
+      "start_date": "10/09/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_031_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 031/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4044&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento do Indicador de Atendimento de Mercado (IAM) e sua regulamentação. Contribuições em Word, usando modelo específico, são solicitadas.",
+      "added_at": "2026-10-07T20:30:40.058842",
+      "objeto": "obter subsídios para aprimoramento da Resolução Normativa e do Relatório de AIR, que estabelecem o Indicador de Atendimento de Mercado (IAM). IMPORTANTE: As contribuições deverão ser enviadas em formato Word e utilizando o \"Modelo para envio de contribuições\" na seção \"Documentos disponibilizados\".",
+      "deadline": "19/10/2026",
+      "start_date": "03/09/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_029_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 029/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4041&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Atualização regulatória dos padrões de rede para aumentar a resiliência dos sistemas de distribuição de energia elétrica. Busca subsídios para avaliar a necessidade e conveniência da intervenção.",
+      "added_at": "2026-10-07T20:30:45.057290",
+      "objeto": "obter subsídios e informações adicionais para avaliar a necessidade e conveniência de intervenção regulatória para atualizar o aparato regulatório relativo aos padrões de rede com vistas ao aumento da resiliência dos sistemas de distribuição de energia elétrica.",
+      "deadline": "12/10/2026",
+      "start_date": "27/08/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_028_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 028/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4040&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Aprimoramento da revisão normativa para Encargo de Complemento de Recursos (ECR) e Teto da CDE, conforme **Lei nº 15.269/2025**. Nova estrutura orçamentária para a CDE/2027 em análise.",
+      "added_at": "2026-10-07T20:30:50.875172",
+      "objeto": "obter subsídios para aprimorar a proposta de revisão normativa para implementação do Encargo de Complemento de Recursos – ECR e do Teto da Conta de Desenvolvimento Energético – CDE, nos termos do artigo 7º da Lei nº 15.269 de 24 de novembro de 2025, com aplicação provisória dos elementos e nova estrutura orçamentária para fins de instrução do processo da CDE/2027.",
+      "deadline": "09/10/2026",
+      "start_date": "26/08/2026",
+      "fonte": "ANEEL"
+    },
+    "partic_cp_027_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 027/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=568TnpEJ&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4039&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão Tarifária Periódica da **CEEE-D** para vigor a partir de **22 de novembro de 2026**. Busca subsídios para aprimorar a proposta.",
+      "added_at": "2026-10-07T20:30:55.918850",
+      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Companhia Estadual de Distribuição de Energia Elétrica – CEEE-D, a vigorar a partir de 22 de novembro de 2026.",
+      "deadline": "09/10/2026",
+      "start_date": "26/08/2026",
+      "fonte": "ANEEL"
     }
   }
 }
