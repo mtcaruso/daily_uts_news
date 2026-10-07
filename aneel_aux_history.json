@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T07:00:21.697799",
+  "last_updated": "2026-10-07T07:31:54.042591",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1272,6 +1272,127 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL"
+    },
+    "pauta_14817": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DA 20ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026 (PRÉVIA)",
+      "date": "06/10/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14817&idAreaNoticia=425",
+      "summary": "- **Leilões de Energia Existente**: Aprovação dos **Leilões nº 7/2026-ANEEL**, **nº 8/2026-ANEEL** e **nº 9/2026-ANEEL** (A-1, A-2 e A-3).\n- **Enel Distribuição São Paulo**: Avaliação de recomendação de caducidade do contrato de concessão nº **162/2008-ANEEL**.\n- **Compartilhamento de Postes**: Atualização da regulamentação para telecomunicações e energia elétrica.\n- **Redução de Geração no SIN**: Resultado da Consulta Pública nº **45/2019** sobre critérios operativos.\n- **Armazenamento de Energia**: Proposta de Consulta Pública para base de custeio e rateio do Encargo de Reserva de Capacidade.",
+      "added_at": "2026-10-07T07:30:34.487749"
+    },
+    "pauta_14814": {
+      "type": "pauta_rd",
+      "title": "PAUTAATA DO 17º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026.",
+      "date": "29/09/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14814&idAreaNoticia=425",
+      "summary": "- **ANEEL**: abertura de Consulta Pública para aprimoramentos regulatórios do Decreto nº 12.772/2025.\n- **ANEEL**: abertura de Consulta Pública para critérios de extensão de prazo para amortização de investimentos em geração hidráulica.\n- **Aratu Geração S.A.**: recurso contra multa por transferência de controle societário sem anuência da ANEEL.\n- **Eneva S.A.**: recurso contra indeferimento de isenção de Encargos de Uso do Sistema de Transmissão (EUST).\n- **Diversas Transmissoras**: recursos administrativos sobre Receitas Anuais Permitidas (RAP) para o período 2026/2027.",
+      "added_at": "2026-10-07T07:30:39.948725"
+    },
+    "pauta_14810": {
+      "type": "pauta_rd",
+      "title": "PAUTA\\ATA DA 19ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "22/09/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14810&idAreaNoticia=425",
+      "summary": "- **MEZ 2 Energia S.A.**: Recurso contra despacho que negou ressarcimento por reforço provisório em tarifa, processo nº **48500.002865/2025-62**.\n- **Leilão nº 4/2026-ANEEL**: Aprovação do edital para concessões de transmissão em sete estados, processo nº **48500.004996/2026-65**.\n- **UHEs (várias)**: Reprocessamento de cálculos para extensão de outorga, considerando nova data de término, processos nº **48000.004931/1993-31**.\n- **Salgueiro I, II e III Energias Renováveis S.A.**: Recurso contra reclassificação de planta fotovoltaica de operação, processo nº **48500.002264/2026-31**.\n- **Transmissora Aliança de Energia Elétrica S.A. – Taesa**: Recurso contra indeferimento de isenção de PVI por desligamento intempestivo, processo nº **48500.001843/2025-85**.",
+      "added_at": "2026-10-07T07:30:45.783314"
+    },
+    "pauta_14807": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DO 16º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "15/09/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14807&idAreaNoticia=425",
+      "summary": "- **Equatorial Pará Distribuidora**: Reajuste Tarifário Anual, processo nº 48500.030939/2025-51.\n- **Projeto Energias da Floresta**: Resultado da Consulta Pública nº 2/2026, processo nº 48500.036730/2025-09.\n- **Procedimentos de Rede**: Proposta de Consulta Pública para alteração na classificação de operação de usinas, processo nº 48500.033896/2025-65.\n- **Neoenergia Guanabara Transmissora**: Retificação de Termos de Liberação Definitivos, processo nº 48500.014308/2026-75.\n- **Energisa Mato Grosso do Sul**: Pedido de Reconsideração sobre Reajuste Tarifário Anual, processo nº 48500.030641/2025-41.",
+      "added_at": "2026-10-07T07:30:51.398180"
+    },
+    "pauta_14804": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DA 18ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "08/09/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14804&idAreaNoticia=425",
+      "summary": "- **Agenda Regulatória**: Primeira Revisão da Agenda Regulatória da ANEEL do biênio 2026-2027, processo nº **48500.023180/2025-50**.\n- **Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição e abertura de mercado, processo nº **48500.000503/2024-56**.\n- **Transmissão**: Proposta de abertura de Consulta Pública para o Edital do **Leilão nº 1/2027** (1º Leilão de Transmissão), processo nº **48500.023277/2026-43**.\n- **Geração Distribuída**: Proposta de Consulta Pública para aprimoramento do PRODIST sobre requisitos para Recursos Energéticos Distribuídos (REDs), processo nº **48500.002211/2026-10**.\n- **Fiscalização**: Requerimentos administrativos de **Powertech Engenharia**, **Aggreko Energia** e **Oliveira Energia** sobre custos extraordinários no Amazonas, processo nº **48500.005756/2026-88**.",
+      "added_at": "2026-10-07T07:30:57.528542"
+    },
+    "pauta_14801": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DO 15º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "01/09/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14801&idAreaNoticia=425",
+      "summary": "- **Axia Energia Norte S.A. (Eletronorte)**: ressarcimento de custos da UTE Araguaia, processo nº **48500.004592/2015-19**.\n- **Energisa Tocantins**: regularização contratual na Subestação Miracema e celebração de CUSD, processo nº **48500.010531/2025-62**.\n- **Regras de Comercialização**: proposta de Consulta Pública para aprimoramento da versão 2027, processo nº **48500.017724/2026-25**.\n- **Roraima Energia S.A.**: Pedidos de Reconsideração contra reajuste tarifário homologado, processo nº **48500.030634/2025-49**.\n- **Argo VII Transmissão de Energia S.A.**: recurso contra autorização de reforços em transmissão e valores de RAP, processo nº **48500.000319/2026-78**.",
+      "added_at": "2026-10-07T07:31:03.228400"
+    },
+    "pauta_14797": {
+      "type": "pauta_rd",
+      "title": "PAUTA\\ATA DA 17ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "24/08/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14797&idAreaNoticia=425",
+      "summary": "- **Pacto Energia Distribuição Paraná**: aprovação provisória da Base de Remuneração Regulatória e fiscalização de ativos BESS.\n- **Energisa Paraíba** e **Equatorial Maranhão**: reajustes tarifários anuais a vigorar em agosto de 2026.\n- **CEEE-D**: proposta de abertura de Consulta Pública para Revisão Tarifária Periódica de 2026.\n- **Enel Distribuição São Paulo**: requerimento para produção de prova pericial em processo de caducidade de concessão.\n- **Light, Neoenergia e Copel**: resultado da Consulta Pública sobre Revisão Tarifária Extraordinária pós-pandemia.",
+      "added_at": "2026-10-07T07:31:08.523559"
+    },
+    "pauta_14793": {
+      "type": "pauta_rd",
+      "title": "PAUTA\\ATA DO 14° CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "18/08/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14793&idAreaNoticia=425",
+      "summary": "- **Celesc Distribuição**: Resultado da Revisão Tarifária Periódica, após Consulta Pública nº 14/2026.\n- **Enel Distribuição Ceará**: Recursos administrativos sobre devolução de valores faturados a maior.\n- **Karpowership Brasil Energia**: Recursos contra despachos sobre Parcela de Custos Fixos de UTEs.\n- **Axia Energia (Eletrobras)**: Recurso sobre suspensão da Parcela Variável por Indisponibilidade de linha de transmissão.\n- **Light Energia**: Pedido de reconsideração sobre prazo de conclusão de obra em UHE.",
+      "added_at": "2026-10-07T07:31:13.938595"
+    },
+    "pauta_14790": {
+      "type": "pauta_rd",
+      "title": "PAUTA\\ATA DA 16ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "11/08/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14790&idAreaNoticia=425",
+      "summary": "- **Equatorial Pará Distribuidora**: reajuste tarifário anual, processo nº **48500.030939/2025-51**.\n- **TermoG SPE Ltda.**: recurso contra inabilitação no **Leilão nº 2/2026-ANEEL** (LRCAP), processo nº **48500.032821/2025-67**.\n- Diversas eólicas e a **Prolagos S.A.**: recursos contra multas por perturbação no SIN em 15/08/2023, processos nº **48500.002737/2024-38**, **48500.001692/2024-84**, **48500.001585/2024-56**, **48500.002576/2024-82** e **48500.002628/2024-11**.",
+      "added_at": "2026-10-07T07:31:19.658414"
+    },
+    "pauta_14787": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DO 13º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "04/08/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14787&idAreaNoticia=425",
+      "summary": "- **Equatorial Pará Distribuidora**: Reajuste tarifário anual, com vigência a partir de 7 de agosto de 2026, no processo **48500.030939/2025-51**.\n- **Energisa Mato Grosso**: Recurso administrativo contra Auto de Infração da AGER-MT sobre cobrança de ICMS retroativo para micro e minigeração distribuída, no processo **48500.017235/2025-92**.\n- **ISA Energia Brasil**: Recurso administrativo contra indeferimento de afastamento da Parcela Variável por Indisponibilidade (PVI) em linhas de transmissão, no processo **48500.005830/2025-85**.\n- **Argo VI Transmissão de Energia**: Recurso administrativo contra indeferimento de conexão de novos acessantes à Subestação Monte Verde, no processo **48500.006620/2026-95**.\n- **Duo Comercializadora de Energia Elétrica**: Pedido de Reconsideração contra despacho que manteve Termo de Intimação para revogação de outorga, no processo **48500.003906/2024-57**.",
+      "added_at": "2026-10-07T07:31:25.712341"
+    },
+    "pauta_14784": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DA 15ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "28/07/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14784&idAreaNoticia=425",
+      "summary": "- **Leilão de Reserva de Capacidade (LRCAP) 2026**: Proposta de abertura de Consulta Pública para aprimoramento do edital de armazenamento em baterias.\n- **Neoenergia Distribuição Brasília**: Proposta de abertura de Consulta Pública para a Revisão Tarifária Periódica de 2026.\n- **Leilão nº 2/2026-ANEEL**: Homologação parcial do resultado e adjudicação de produtos de potência para o LRCAP 2026.\n- **EDP Espírito Santo**: Reajuste Tarifário Anual a vigorar a partir de 07/08/2026.\n- **Canoas e outras empresas**: Recurso Administrativo contra multas por não conformidades no SIN.",
+      "added_at": "2026-10-07T07:31:31.304411"
+    },
+    "pauta_14781": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DO 12º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "21/07/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14781&idAreaNoticia=425",
+      "summary": null,
+      "added_at": "2026-10-07T07:31:40.039218",
+      "error": "no_body"
+    },
+    "pauta_14778": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DA 14ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "14/07/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14778&idAreaNoticia=425",
+      "summary": "- **Energisa Sul-Sudeste**: Resultado da Revisão Tarifária Periódica após Consulta Pública nº 10/2026 (processo nº 48500.030071/2025-99).\n- **Fator X**: Proposta de abertura de Consulta Pública para revisão da metodologia de Produtividade (processo nº 48500.027624/2025-26).\n- **Redes de Distribuição**: Proposta de Consulta Pública para avaliação de redes subterrâneas e resiliência climática (processo nº 48500.006650/2023-59).\n- **Ventos de São Vítor e Sol do Sertão**: Recurso Administrativo contra multas por perturbação no SIN (processo nº 48500.002008/2024-81).\n- **Engie Brasil Energia**: Prorrogação da concessão da UHE Salto Santiago (processo nº 48500.000001/1997-09).",
+      "added_at": "2026-10-07T07:31:42.215780"
+    },
+    "pauta_14775": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DO 11º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "07/07/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14775&idAreaNoticia=425",
+      "summary": "- **Leilões de Energia Existente**: proposta de Consulta Pública para aprimorar editais dos leilões A-1, A-2 e A-3 de 2026.\n- **Fiscalização e Multas**: Recurso Administrativo da **Equatorial Alagoas** contra Auto de Infração por qualidade de fornecimento.\n- **Regulação de Transmissão**: Recurso Administrativo da **Epesa** contra indeferimento de isenção de encargos rescisórios de CUST.\n- **Concessão de Geração**: Recurso Administrativo da **CEEE-G** contra suspensão da operação comercial da UHE Jacuí.\n- **Medida Cautelar**: Pedido de suspensão de Avisos de Débito de encargos rescisórios pela **MS Energia Limpa**.",
+      "added_at": "2026-10-07T07:31:47.622911"
+    },
+    "pauta_14772": {
+      "type": "pauta_rd",
+      "title": "PAUTA\\ATA DA 13ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "30/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14772&idAreaNoticia=425",
+      "summary": "- **Cocel**: Revisão Tarifária Periódica de 2026, processo nº **48500.030070/2025-44**.\n- **ANEEL**: Abertura de Consulta Pública para revisão da metodologia do Fator X (Produtividade), processo nº **48500.027624/2025-26**.\n- **Leilão nº 2/2026**: Homologação parcial do resultado e adjudicação do Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026, para **Consórcio EBRASIL/CELNE**, processo nº **48500.032821/2025-67**.\n- **Energisa Tocantins**: Reajuste Tarifário Anual a vigorar a partir de 4 de julho de 2026, processo nº **48500.030910/2025-79**.\n- **Enel Distribuição São Paulo**: Reajuste Tarifário Anual a vigorar a partir de 4 de julho de 2026, processo nº **48500.030915/2025-00**.",
+      "added_at": "2026-10-07T07:31:53.541748"
     }
   }
 }
