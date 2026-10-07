@@ -6,6 +6,15 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "6b066c075d2e",
+      "92273a2d26cc",
+      "878f6dade938",
+      "7f640fb36249",
+      "ce84a49643bc",
+      "df678fe75588",
+      "db056ab2e643",
+      "e08b90cb4c9d",
+      "aae7701e11b5",
       "737ce35bc431",
       "b006cad662ab",
       "5a96e7565da8",
@@ -589,71 +598,71 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 582,
-    "documento_count": 467,
+    "andamento_count": 591,
+    "documento_count": 469,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-09-21T21:00:20.772275",
+    "last_check_at": "2026-10-06T19:52:43.623206",
     "last_andamentos_top10": [
+      {
+        "datahora": "05/10/2026 15:18",
+        "unidade": "CPL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "6b066c075d2e"
+      },
+      {
+        "datahora": "05/10/2026 10:13",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "92273a2d26cc"
+      },
+      {
+        "datahora": "01/10/2026 16:00",
+        "unidade": "CPL",
+        "descricao": "Processo remetido pela unidade SEL",
+        "hash": "878f6dade938"
+      },
+      {
+        "datahora": "01/10/2026 15:41",
+        "unidade": "SEL",
+        "descricao": "Disponibilizado acesso externo para MINISTÉRIO PÚBLICO FEDERAL ( [email&#160;protected] ) até 23/03/2032 (2000 dias). Com visualização integral do processo. Atendimento à solicitação constante do OFÍCIO Nº 7139/2026 - LLO/PRDF/MPF.",
+        "hash": "7f640fb36249"
+      },
+      {
+        "datahora": "01/10/2026 14:56",
+        "unidade": "SEL",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "ce84a49643bc"
+      },
+      {
+        "datahora": "25/09/2026 17:33",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo 48500.028241/2026-56 anexado",
+        "hash": "df678fe75588"
+      },
+      {
+        "datahora": "23/09/2026 15:06",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo 48500.027840/2026-52 anexado",
+        "hash": "db056ab2e643"
+      },
+      {
+        "datahora": "22/09/2026 16:56",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "e08b90cb4c9d"
+      },
+      {
+        "datahora": "22/09/2026 14:25",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "aae7701e11b5"
+      },
       {
         "datahora": "21/09/2026 15:53",
         "unidade": "CPL",
         "descricao": "Processo recebido na unidade",
         "hash": "737ce35bc431"
-      },
-      {
-        "datahora": "21/09/2026 15:52",
-        "unidade": "CPL",
-        "descricao": "Processo remetido pela unidade SEL",
-        "hash": "b006cad662ab"
-      },
-      {
-        "datahora": "21/09/2026 15:27",
-        "unidade": "SEL",
-        "descricao": "Processo 48500.026381/2026-90 anexado",
-        "hash": "5a96e7565da8"
-      },
-      {
-        "datahora": "21/09/2026 15:23",
-        "unidade": "SEL",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "f66887696ec8"
-      },
-      {
-        "datahora": "21/09/2026 09:47",
-        "unidade": "GAB IV - GNSJ",
-        "descricao": "Processo 48500.027451/2026-27 anexado",
-        "hash": "746535075e28"
-      },
-      {
-        "datahora": "18/09/2026 17:14",
-        "unidade": "GAB IV - GNSJ",
-        "descricao": "Processo 48500.027485/2026-11 anexado",
-        "hash": "2f43cb9f7813"
-      },
-      {
-        "datahora": "17/09/2026 09:32",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "7817c7d1b49e"
-      },
-      {
-        "datahora": "15/09/2026 17:23",
-        "unidade": "STD",
-        "descricao": "Processo recebido na unidade",
-        "hash": "1557158c1e4d"
-      },
-      {
-        "datahora": "15/09/2026 17:21",
-        "unidade": "STD",
-        "descricao": "Processo remetido pela unidade CPL",
-        "hash": "2027df5050e9"
-      },
-      {
-        "datahora": "15/09/2026 11:24",
-        "unidade": "GAB IV - GNSJ",
-        "descricao": "Processo 48500.027078/2026-12 anexado",
-        "hash": "97ad5657290d"
       }
     ],
     "last_documentos_top10": [
@@ -957,7 +966,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-09-21T19:58:04.036631",
+    "last_check_at": "2026-10-06T19:52:56.199109",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1375,7 +1384,7 @@
     "documento_count": 140,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-09-21T21:00:38.238635",
+    "last_check_at": "2026-10-06T19:52:59.712167",
     "last_andamentos_top10": [
       {
         "datahora": "18/08/2026 10:14",
@@ -1613,7 +1622,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 90,
     "documento_count": 56,
-    "last_check_at": "2026-09-21T20:31:25.658200",
+    "last_check_at": "2026-10-06T19:53:02.397036",
     "last_andamentos_top10": [
       {
         "datahora": "21/09/2026 12:21",
