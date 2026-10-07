@@ -27,6 +27,11 @@ jobs:
         run: python mme_legislacao.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Alertas de Portaria/Decreto/Lei nova (notify.py; ntfy vai sempre)
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
       - name: Commit mme_legislacao_history.json
         if: always()
         run: |

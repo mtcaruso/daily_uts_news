@@ -20,10 +20,12 @@ Estrutura das listagens (Plone CMS) — DUAS variantes:
 
 Persiste em mme_legislacao_history.json, keyed por slug normalizado.
 Resume cada item novo via Gemini Flash (markdown **bold** padrão).
-Notifica ntfy quando aparece item NOVO (após a primeira run).
+Alerta (notify.send → ntfy/Telegram/WhatsApp) cada Portaria/Decreto/Lei nova,
+menos atos de pessoal (Designa/Dispensa/Nomeia/Exonera…) — ver notify_new().
 
-Roda no workflow mme-legislacao.yml (2x/dia, Seg-Sex) e também via
-local_refresh.bat como backup.
+Roda no workflow mme-legislacao.yml (1h, 07-23h BRT, Seg-Sex) e também via
+local_refresh.bat como backup. Só o Actions DISPARA alerta (tem os secrets
+dos canais); a run local só coleta e deixa o alerta pendente pro Actions.
 """
 import html as _html_mod
 import json
@@ -31,7 +33,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from curl_cffi import requests as cf_requests
@@ -50,10 +52,28 @@ HISTORY_FILE = Path("mme_legislacao_history.json")
 DIAGNOSTIC_FILE = Path("mme_legislacao_diagnostic.json")
 HISTORY_RETENTION_DAYS = 365  # 1 ano de histórico de legislação MME
 MAX_SUMMARIZE_PER_RUN = 50
-MAX_PAGES_PER_CATEGORY = 10  # safety cap
+# Safety cap de paginação (20 itens/página). A listagem /portarias/{ano} é em
+# ordem CRESCENTE — os itens novos ficam na ÚLTIMA página. Com cap 10 (=200
+# itens) o scraper ficou cego a portarias novas de 07/07 a 07/10/2026 (2026
+# passou de 200 portarias). 40 páginas = 800/ano; se bater, avisa no log +
+# diagnostic (page_cap_hit) em vez de cegar calado.
+MAX_PAGES_PER_CATEGORY = 40
+_PAGE_CAP_HIT = []
 
-NTFY_TOPIC = "utl-mtc-621qmvsd"
-NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
+# === ALERTAS (notify_new) ===
+NOTIFY_CATEGORIES = {"portarias", "decretos", "leis"}
+# Só alerta item com data na listagem dentro dessa janela — evita despejar
+# backlog (ex.: o buraco jul-out acima) e itens antigos re-capturados.
+NOTIFY_MAX_AGE_DAYS = 5
+NOTIFY_CAP_PER_RUN = 10  # excedente fica pendente pra próxima run
+BRT = timezone(timedelta(hours=-3))
+# Atos de pessoal (~75% das portarias) — ficam no dashboard, mas sem alerta.
+_PESSOAL_RE = re.compile(
+    r"^\s*(?:designa|dispensa|nomeia|exonera|anui\s+com\s+a\s+(?:requisi|cess)|permuta\s+cargo"
+    r"|efetiva\b[^.]*\bcess|cede\b|requisita\b|concede\b[^.]*\b(?:afastamento|licen|aposentadoria)"
+    r"|ficam?\s+(?:designad|dispensad|nomead|exonerad))",
+    re.IGNORECASE,
+)
 
 BASE = "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao"
 
@@ -309,6 +329,11 @@ def fetch_category(slug: str, label: str, strategy: str) -> list:
                 break
             b_start += 20
             time.sleep(0.5)
+        else:
+            # Saiu pelo cap, não por fim da listagem → itens mais novos ficaram de fora.
+            _PAGE_CAP_HIT.append(slug)
+            print(f"  ⚠ [{slug}] atingiu MAX_PAGES_PER_CATEGORY={MAX_PAGES_PER_CATEGORY} — "
+                  f"itens mais novos estão ficando de fora, aumente o cap", file=sys.stderr)
     elif strategy == "flat_recent":
         last_start = _find_last_page_start(slug)
         url = (
@@ -359,25 +384,56 @@ def summarize(item: dict, label: str) -> str | None:
         return None
 
 
-# ============== NTFY ==============
+# ============== ALERTAS ==============
 
-def notify_ntfy(new_items: list):
-    """Push de legislação nova. DESLIGADO a pedido do usuário (11/06/2026): só
-    FR/Comunicado e Top do Dia >=60 notificam. O scraper segue rodando e
-    atualizando o histórico MME (dashboard continua), só o push foi cortado.
-    Pra reativar, remova o return abaixo."""
-    return
-    if not new_items:
-        return
-    n = len(new_items)
-    title = f"📜 MME: {n} ato{'s' if n > 1 else ''} de legislação"
-    lines = []
-    for it in new_items[:5]:
-        lines.append(f"{it.get('label', '')} {it.get('title', '')[:60]}")
-    if n > 5:
-        lines.append(f"...e mais {n - 5}")
-    body = "\n".join(lines)
-    notify.send(title, body, tags=["scroll"])
+def _listing_date(entry: dict):
+    try:
+        return datetime.strptime(entry.get("date_modified") or "", "%d/%m/%Y").date()
+    except ValueError:
+        return None
+
+
+def notify_new(history: dict) -> int:
+    """Alerta 1 msg por Portaria/Decreto/Lei nova (reativado a pedido, 07/10/2026,
+    via notify.send → ntfy + Telegram + WhatsApp). Pula atos de pessoal.
+
+    Varre o HISTÓRICO (não só os novos desta run) atrás de entries sem
+    `notified_at`: assim um item que a run local (sem secrets) viu primeiro
+    ainda é alertado pela próxima run do Actions. Falha de envio → fica
+    pendente e tenta de novo na próxima run (dentro da janela)."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        print("[mme_legislacao] run local — alertas ficam pendentes pro Actions", file=sys.stderr)
+        return 0
+    cutoff = datetime.now(BRT).date() - timedelta(days=NOTIFY_MAX_AGE_DAYS)
+    pending = []
+    for entry in history["items"].values():
+        if entry.get("category") not in NOTIFY_CATEGORIES:
+            continue
+        if entry.get("notified_at") or entry.get("notify_skipped"):
+            continue
+        d = _listing_date(entry)
+        if not d or d < cutoff:
+            continue
+        if _PESSOAL_RE.search(entry.get("ementa") or ""):
+            entry["notify_skipped"] = "pessoal"
+            continue
+        pending.append(entry)
+
+    sent = 0
+    for entry in pending[:NOTIFY_CAP_PER_RUN]:
+        body = (entry.get("summary") or entry.get("ementa") or "").replace("**", "").strip()
+        if len(body) > 300:
+            body = body[:297].rstrip() + "…"
+        ok = notify.send(
+            f"📜 {entry['title']}",
+            body or "Ato publicado — toque pra ver",
+            click=entry.get("pdf_url") or entry.get("url"),
+            tags=["scroll"],
+        )
+        if ok:
+            entry["notified_at"] = datetime.now().isoformat()
+            sent += 1
+    return sent
 
 
 # ============== MAIN ==============
@@ -512,6 +568,10 @@ def main():
                 "added_at": prev_added,
                 "summarized_at": datetime.now().isoformat() if summary else None,
             }
+            # Re-resumo sobrescreve a entry — preserva o estado de alerta, senão realerta.
+            for k in ("notified_at", "notify_skipped"):
+                if k in history["items"].get(key, {}):
+                    entry[k] = history["items"][key][k]
             if summary_source == "extractive":
                 entry["summary_source"] = "extractive"  # re-resume com LLM depois
             if not item.get("ementa"):
@@ -544,11 +604,11 @@ def main():
             print(f"[mme_legislacao] checkpoint salvo ({done} ok)", file=sys.stderr)
         time.sleep(0.5)
 
-    # Items novos pra notificar via ntfy — só após primeira run
-    if history["first_run_done"] and new_items:
-        notify_ntfy(new_items)
-        print(f"[mme_legislacao] ntfy enviado: {len(new_items)} novos", file=sys.stderr)
-    elif not history["first_run_done"]:
+    # Alertas — só após primeira run (na primeira, tudo é "novo")
+    if history["first_run_done"]:
+        sent = notify_new(history)
+        print(f"[mme_legislacao] {sent} alertas enviados", file=sys.stderr)
+    else:
         print(f"[mme_legislacao] primeira run — {len(new_items)} items capturados (sem ntfy)", file=sys.stderr)
         history["first_run_done"] = True
 
@@ -578,6 +638,7 @@ def main():
         "done": done,
         "failed": failed,
         "pruned": pruned,
+        "page_cap_hit": _PAGE_CAP_HIT,
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
