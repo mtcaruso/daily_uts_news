@@ -1,7 +1,7 @@
 """
 Sistema de alertas. Roda a cada 30min via GitHub Actions, checa news/DOU
-contra config (alerts_config.py) + ranking (nota do Top do Dia), e envia push
-via notify.py (WhatsApp CallMeBot + ntfy, com retry/fallback).
+contra config (alerts_config.py) + ranking (nota do Top do Dia) + consultas
+públicas do MME, e envia push via notify.py (ntfy + Telegram + WhatsApp).
 
 State commitado em alerts_state.json (próximo run não realerta o mesmo item).
 
@@ -18,6 +18,8 @@ import json
 import sys
 from datetime import datetime
 from pathlib import Path
+
+import requests
 
 import notify
 from alerts_config import CONFIG
@@ -49,7 +51,8 @@ def load_state() -> dict:
 
 def save_state(state: dict) -> None:
     for key in state:
-        state[key] = state[key][-STATE_CAP:]
+        if isinstance(state[key], list):  # mme_cp é dict (por id de CP)
+            state[key] = state[key][-STATE_CAP:]
     STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
@@ -223,6 +226,78 @@ def alert_dou(config: dict, state: dict, dry: bool) -> int:
     return len(new_matches)
 
 
+# ============== MME CONSULTAS PÚBLICAS ==============
+# API JSON pública que o próprio site (Angular) usa; ordenada por id desc.
+MME_CP_API = ("https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/"
+              "listagem-sem-filtros?pageNumber=0&pageSize=40&sortBy=id&sortDirection=desc")
+MME_CP_SITE = "https://consultas-publicas.mme.gov.br/"
+# Só energia elétrica (a pedido, 07/10/2026): fora petróleo/gás/biocombustíveis
+# (SNPGB; SPG é o nome antigo) e mineração (SGM). Denylist DE PROPÓSITO: o campo
+# área é bagunçado (SNEE, SE, "Secretaria Executiva", DPUE, LEGADO…) — área
+# nova/renomeada alerta em vez de sumir calada.
+MME_CP_EXCLUDED_AREAS = {"SNPGB", "SPG", "SGM"}
+
+
+def alert_mme_cp(state: dict, dry: bool) -> int:
+    """CP nova, prazo alterado/reaberta e documento novo em CP existente.
+
+    State['mme_cp'] = {id: {"fim", "status", "docs": [ids de arquivo]}} de TODAS
+    as CPs da janela (inclusive áreas excluídas). Sem ele (1ª run ou state
+    perdido) só semeia, em silêncio. "Nova" exige id > maior id já visto —
+    um retorno parcial da API nunca vira enxurrada de CPs antigas."""
+    try:
+        r = requests.post(MME_CP_API, json={}, timeout=30)
+        r.raise_for_status()
+        cps = r.json().get("content") or []
+    except Exception as e:
+        print(f"[mme_cp] erro: {e}", file=sys.stderr)
+        return 0
+
+    seen = state.get("mme_cp")
+    seed = not isinstance(seen, dict) or not seen
+    seen = {} if seed else dict(seen)  # cópia: exceção no meio não suja o state
+    max_seen = max((int(k) for k in seen), default=0)
+
+    msgs = []
+    for cp in cps:
+        if cp.get("isDeleted"):
+            continue
+        key = str(cp["id"])
+        docs = {a["id"]: (a.get("titulo") or "").strip()
+                for a in cp.get("arquivosConsultasPublicas") or [] if not a.get("deletar")}
+        cur = {"fim": cp.get("dtFim"), "status": cp.get("status"), "docs": sorted(docs)}
+        prev = seen.get(key)
+        seen[key] = cur
+        area = (cp.get("area") or "").split("/")[0].strip().upper()
+        if seed or area in MME_CP_EXCLUDED_AREAS:
+            continue
+
+        num = f"CP MME nº {cp['id']}"
+        titulo = (cp.get("titulo") or "").strip()[:250]
+        if prev is None:
+            if cp["id"] > max_seen:
+                msgs.append((f"🗳️ {num} · nova",
+                             f"{titulo}\nContribuições até {cp.get('dtFim')} · {cp.get('area')}"))
+            continue
+        if prev.get("fim") != cur["fim"]:
+            reaberta = prev.get("status") != "ABERTA" and cur["status"] == "ABERTA"
+            msgs.append((f"⏳ {num} · {'reaberta' if reaberta else 'prazo alterado'}",
+                         f"{titulo}\nPrazo: {prev.get('fim')} → {cur['fim']}"))
+        novos = [docs[d] for d in cur["docs"] if d not in set(prev.get("docs", []))]
+        if novos:
+            lista = "\n".join(f"• {t[:120]}" for t in novos[:5])
+            msgs.append((f"📎 {num} · {len(novos)} documento{'s' if len(novos) > 1 else ''} novo{'s' if len(novos) > 1 else ''}",
+                         f"{titulo}\n{lista}"))
+
+    if not dry:
+        for title, body in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=MME_CP_SITE, tags=["ballot_box"])
+
+    state["mme_cp"] = seen
+    print(f"[mme_cp] {len(cps)} CPs lidas, {len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -237,6 +312,12 @@ def main():
     # funções seguem definidas (fácil reativar), mas não são chamadas. FR/
     # Comunicado continuam vindo do cvm_realtime/cvm_fast.
     total += alert_news_score(news_items, state, dry=False)
+    # Consultas públicas do MME (a pedido, 07/10/2026). try: um erro aqui não
+    # pode impedir o save_state do news_score acima (senão realerta notícias).
+    try:
+        total += alert_mme_cp(state, dry=False)
+    except Exception as e:
+        print(f"[mme_cp] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 
