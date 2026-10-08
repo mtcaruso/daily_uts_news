@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T05:52:03.518506",
+  "last_updated": "2026-10-08T17:22:38.216648",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1532,6 +1532,20 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14820&idAreaNoticia=425",
       "summary": "- **EDP São Paulo Distribuição**: Reajuste Tarifário Anual no processo **48500.030953/2025-54**.\n- **CPFL Piratininga**: Reajuste Tarifário Anual no processo **48500.030955/2025-43**.\n- **Energisa Mato Grosso**: Recurso Administrativo contra Auto de Infração da AGER-MT no processo **48500.017235/2025-92**.\n- **Axia Energia Nordeste (Chesf)**: Recurso Administrativo sobre fiscalização de P&D no processo **48500.006437/2020-02**.\n- **Engie Brasil Energia e outras**: Recurso Administrativo sobre restrições de transmissão no processo **48500.018805/2025-61**.",
       "added_at": "2026-10-07T21:30:30.024124"
+    },
+    "partic_mme_cp_235": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 235",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/235",
+      "summary": "Consulta Pública sobre a minuta do Relatório Síntese do Plano Decenal de Expansão de Energia **2036 (PDE 2036)**. O documento apresenta as projeções e diretrizes para o setor elétrico brasileiro até **2036**.",
+      "added_at": "2026-10-08T17:22:37.708610",
+      "objeto": "Consulta Pública, minuta do Relatório Síntese do Plano Decenal de Expansão de Energia 2036 - PDE 2036",
+      "deadline": "06/11/2026",
+      "start_date": "08/10/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000343/2026-59",
+      "first_seen": "2026-10-08T17:22:37.708626"
     }
   }
 }
