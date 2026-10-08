@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-07T23:05:48.240636-03:00",
+  "last_updated": "2026-10-08T05:53:40.967411-03:00",
   "items": [
+    {
+      "cnpj_short": "01830-9",
+      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Mapa de Votação Sintético Consolidado EQPAMapa Sintético Consolidado",
+      "data_referencia": "20261009 09/10/2026 14:00",
+      "data_entrega": "20261008 08/10/2026 00:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Mapa de Votação Sintético Consolidado EQPA",
+      "protocolo": "1575281",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575281",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "18309",
+      "first_seen": "2026-10-08T08:53:24.054266"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
