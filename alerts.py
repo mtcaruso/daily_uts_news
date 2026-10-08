@@ -19,6 +19,7 @@ import html
 import json
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -576,6 +577,97 @@ def alert_arsae(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== SEI (processos escolhidos em sei_watch.txt) ==============
+# Andamento de tramitação não alerta: é ~90% do histórico (medido em 5 processos
+# ANEEL, 07/10/2026). O resto é texto escrito à mão ("PROCESSO DELIBERADO COM A
+# PAUTA DA 18ª RPO…", "EM ATENÇÃO PARECER…", "Recurso - 1º LRCAP").
+_SEI_ROTINA = re.compile(
+    r"^\s*(?:processo\s+(?:recebido|remetido)\b|conclus[ãa]o\s+do\s+processo|reabertura\s+do\s+processo"
+    r"|processo\s+[\d./-]+\s+(?:anexado|desanexado)|processo\s+p[úu]blico\s+gerado"
+    r"|(?:disponibilizad[oa]|cancelad[oa])\b.*acesso\s+externo)",
+    re.IGNORECASE,
+)
+
+
+def alert_sei(state: dict, dry: bool) -> int:
+    """Documento novo + andamento fora da rotina, uma mensagem por processo.
+
+    Lê o SEI direto (link público com hash). Se não conseguir (Cloudflare no
+    IP do Actions, SEI fora), usa o que o refresh do PC commitou em
+    sei_processes.json. State['sei'][id] = {"and": hashes dos andamentos mais
+    recentes, "docs": TODOS os protocolos (doc novo pode entrar no meio da
+    lista)}. Processo sem state (inclusive recém-adicionado) só semeia."""
+    import sei_monitor  # curl_cffi + parser; import tardio: só quem usa paga
+
+    st_all = state.get("sei") if isinstance(state.get("sei"), dict) else {}
+    novo_state, msgs = {}, []
+    processos = [p for p in sei_monitor.load_processes() if p.get("url") and p.get("ntfy_enabled", True)]
+    for i, p in enumerate(processos):
+        if i:
+            time.sleep(2)  # gentil com o SEI
+        try:
+            d = sei_monitor.parse_process(p["url"])
+            if not d["andamentos"] and not d["documentos"]:
+                raise ValueError("página sem andamentos nem documentos (bloqueio?)")
+            ands, docs = d["andamentos"], d["documentos"]
+            and_hashes, protos = [a["hash"] for a in ands], [x["protocolo"] for x in docs]
+            numero = d.get("processo") or p.get("processo")
+        except Exception as e:
+            if "documentos_protocolos" not in p:  # PC ainda não coletou no formato novo
+                print(f"[sei] {p.get('label') or p['url'][-12:]}: sem leitura ({e})", file=sys.stderr)
+                if p["id"] in st_all:
+                    novo_state[p["id"]] = st_all[p["id"]]
+                continue
+            ands, docs = p.get("last_andamentos_top10") or [], p.get("last_documentos_top10") or []
+            and_hashes, protos = p.get("andamentos_seen") or [], p["documentos_protocolos"]
+            numero = p.get("processo")
+
+        prev = st_all.get(p["id"])
+        # Andamentos vêm do mais novo pro mais velho: guarda os 60 mais recentes
+        # (união com o anterior, senão um fallback mais velho "esquece" o que já foi avisado).
+        novo_state[p["id"]] = {
+            "and": list(dict.fromkeys(and_hashes[:60] + (prev or {}).get("and", [])))[:120],
+            "docs": sorted(set(protos) | set((prev or {}).get("docs", []))),
+        }
+        if prev is None:
+            continue  # seed silencioso
+
+        vistos_and, vistos_docs = set(prev.get("and", [])), set(prev.get("docs", []))
+        det_and = {a["hash"]: a for a in ands}
+        det_doc = {x["protocolo"]: x for x in docs}
+        linhas, anexados = [], 0
+        for proto in protos:
+            if proto in vistos_docs:
+                continue
+            x = det_doc.get(proto)
+            if "/" in proto:  # processo anexado (recurso, requerimento…) — vira contagem
+                anexados += 1
+            elif x:
+                linhas.append(f"📄 {x.get('tipo')} — {x.get('unidade')} ({x.get('data')})")
+            else:
+                linhas.append(f"📄 documento {proto}")
+        for h in and_hashes[:30]:
+            a = det_and.get(h)
+            if h in vistos_and or not a or _SEI_ROTINA.match(a.get("descricao") or ""):
+                continue
+            linhas.append(f"📝 {(a.get('datahora') or '')[:10]} {a.get('unidade')}: {(a.get('descricao') or '')[:140]}")
+        if anexados:
+            linhas.append(f"+ {anexados} processo{'s' if anexados > 1 else ''} anexado{'s' if anexados > 1 else ''}")
+        if not linhas:
+            continue
+        corpo = "\n".join(linhas[:8]) + (f"\n…e mais {len(linhas) - 8}" if len(linhas) > 8 else "")
+        titulo = p.get("label") or numero or "processo"
+        msgs.append((f"📂 SEI · {titulo}", (f"{numero}\n" if numero and numero not in titulo else "") + corpo, p["url"]))
+
+    if not dry:
+        for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=link, tags=["open_file_folder"])
+
+    state["sei"] = novo_state  # processo tirado da lista sai do state
+    print(f"[sei] {len(processos)} processos, {len(msgs)} alertas")
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -606,6 +698,11 @@ def main():
         total += alert_arsae(state, dry=False)
     except Exception as e:
         print(f"[arsae] falhou: {e}", file=sys.stderr)
+    # Processos SEI escolhidos em sei_watch.txt (a pedido, 07/10/2026). Mesmo motivo.
+    try:
+        total += alert_sei(state, dry=False)
+    except Exception as e:
+        print(f"[sei] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 

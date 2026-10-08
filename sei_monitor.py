@@ -1,10 +1,14 @@
-"""SEI ANEEL processo monitor (acesso público por link com hash).
+"""SEI processo monitor (acesso público por link com hash).
 
-Lê lista de processos em sei_processes.json e checa novos andamentos/documentos.
-Notifica via ntfy quando aparece movimento novo.
+QUAIS processos: sei_watch.txt (uma linha "apelido | link" por processo; é
+onde o user inclui/remove). sei_processes.json é o ESTADO derivado (metadados +
+últimos andamentos/documentos pro dashboard), sincronizado com a lista.
+
+Coleta aqui; o ALERTA (documento novo + andamento fora da rotina) é do
+alerts.alert_sei(), que reusa parse_process/load_processes.
 
 NÃO requer login nem captcha — usa o endpoint público md_pesq_processo_exibir.php
-com hash compartilhável.
+com hash compartilhável (SEI é o mesmo software em ANEEL, MME, ANA…).
 
 Roda local (via local_refresh.bat) — Cloudflare bloqueia POST/captcha de datacenter
 mas o GET com hash funciona de qualquer IP.
@@ -20,11 +24,8 @@ from pathlib import Path
 
 from curl_cffi import requests as cf
 
-import notify
-
 PROCESSES_FILE = Path("sei_processes.json")
-NTFY_TOPIC = "utl-mtc-621qmvsd"
-NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
+WATCH_FILE = Path("sei_watch.txt")
 MAX_RETRIES = 3
 
 
@@ -138,10 +139,45 @@ def parse_process(url: str) -> dict:
 
 # ============== MONITOR ==============
 
+def _read_watch() -> list:
+    """[(apelido, url)] do sei_watch.txt. Linha sem "|" = só o link."""
+    entries = []
+    for line in WATCH_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        label, _, url = line.rpartition("|")
+        url = url.strip()
+        if url.startswith("http"):
+            entries.append((label.strip(), url))
+    return entries
+
+
 def load_processes() -> list:
-    if not PROCESSES_FILE.exists():
-        return []
-    return json.loads(PROCESSES_FILE.read_text(encoding="utf-8"))
+    """Estado (sei_processes.json) sincronizado com a lista do user
+    (sei_watch.txt): link novo vira processo novo, linha apagada sai, apelido
+    editado atualiza o label. Sem sei_watch.txt, usa o JSON como está."""
+    processes = []
+    if PROCESSES_FILE.exists():
+        processes = json.loads(PROCESSES_FILE.read_text(encoding="utf-8"))
+    if not WATCH_FILE.exists():
+        return processes
+    by_url = {p["url"]: p for p in processes if p.get("url")}
+    out, seen = [], set()
+    for label, url in _read_watch():
+        if url in seen:
+            continue
+        seen.add(url)
+        p = by_url.get(url) or {
+            "id": "sei_" + hashlib.md5(url.encode("utf-8")).hexdigest()[:10],
+            "url": url,
+            "ntfy_enabled": True,
+            "added_at": datetime.now().isoformat(),
+        }
+        if label:
+            p["label"] = label
+        out.append(p)
+    return out
 
 
 def save_processes(processes: list):
@@ -150,22 +186,10 @@ def save_processes(processes: list):
     )
 
 
-def notify_ntfy(label: str, new_andamentos: list, processo: str):
-    """Manda notificação pro canal. DESLIGADO a pedido do usuário (11/06/2026):
-    só FR/Comunicado e Top do Dia >=60 notificam. O scraper segue rodando e
-    atualizando sei_processes.json (o dashboard continua mostrando), só o push
-    foi cortado. Pra reativar, remova o return abaixo."""
-    return
-    n = len(new_andamentos)
-    title = f"📋 SEI {processo}: {n} movimento{'s' if n > 1 else ''}"
-    # Body: até 3 andamentos mais recentes
-    body_lines = [f"[{label}]"]
-    for a in new_andamentos[:3]:
-        body_lines.append(f"{a['datahora']} {a['unidade']}: {a['descricao'][:80]}")
-    if n > 3:
-        body_lines.append(f"...e mais {n - 3}")
-    body = "\n".join(body_lines)
-    notify.send(title, body, tags=["page_facing_up"])
+def _inclusao(doc: dict) -> str:
+    """'25/09/2026' → '20260925' (ordenável)."""
+    d = doc.get("data_inclusao") or doc.get("data") or ""
+    return d[6:10] + d[3:5] + d[0:2]
 
 
 def monitor_all():
@@ -201,12 +225,10 @@ def monitor_all():
         new_andamentos = [a for a in data["andamentos"] if a["hash"] not in seen_hashes]
 
         if new_andamentos and p.get("andamentos_seen"):
-            # Tem histórico (não é primeira run) e tem coisa nova → alerta
+            # Tem histórico (não é primeira run) e tem coisa nova (o alerta é do alerts.py)
             print(f"  ✨ [{label}] {len(new_andamentos)} andamento(s) novo(s)", file=sys.stderr)
             for a in new_andamentos[:5]:
                 print(f"     {a['datahora']} {a['unidade']}: {a['descricao'][:80]}", file=sys.stderr)
-            if p.get("ntfy_enabled", True):
-                notify_ntfy(label, new_andamentos, data["processo"] or "?")
             total_new += len(new_andamentos)
         elif not p.get("andamentos_seen"):
             print(f"  + [{label}] primeira run — {len(all_hashes)} andamentos capturados (sem alerta)", file=sys.stderr)
@@ -217,9 +239,14 @@ def monitor_all():
         p["documento_count"] = len(data["documentos"])
         p["last_check_at"] = datetime.now().isoformat()
 
-        # Salva timeline completa pra UI ler
+        # Salva timeline pra UI ler. Andamentos vêm do mais novo pro mais velho;
+        # documentos NÃO (ordem crescente, e nem sempre por inclusão) — antes o
+        # "Últimos 10 documentos" do dashboard mostrava os 10 mais ANTIGOS.
         p["last_andamentos_top10"] = data["andamentos"][:10]
-        p["last_documentos_top10"] = data["documentos"][:10]
+        p["last_documentos_top10"] = sorted(data["documentos"], key=_inclusao, reverse=True)[:10]
+        # Todos os protocolos: o alerts.py compara conjuntos (doc novo pode
+        # entrar no meio da lista) quando não consegue ler o SEI direto.
+        p["documentos_protocolos"] = [d["protocolo"] for d in data["documentos"]]
 
         time.sleep(2)  # gentle ao SEI
 

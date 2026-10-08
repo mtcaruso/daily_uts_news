@@ -1,0 +1,15 @@
+# Processos SEI monitorados: alerta no Telegram (documento novo e andamento fora da rotina)
+# e aba SEI do dashboard. Uma linha por processo:
+#
+#   apelido | link público do processo
+#
+# Como pegar o link: Pesquisa Pública do SEI (ANEEL, MME, ANA…) → resolva o captcha →
+# abra o processo → copie a URL da barra do navegador (md_pesq_processo_exibir.php?…).
+# Processo novo começa em silêncio: só alerta o que acontecer DEPOIS de entrar aqui.
+# Para parar de monitorar, apague a linha (ou comece com #).
+
+Leilão LRCAP 2025 (geração reserva de capacidade) | https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_
+Curtailment / Constrained-off — Regulação Geração (base REN 1.030/2022 e 1.073/2023) | https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl
+Curtailment — Metodologia de Ressarcimento (votado 40ª RPO dez/2025) | https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs
+Armazenamento de Energia (regulação SRG — base das CPs 39/2023 e 2/2025) | https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs
+Reajuste Anual RAP 2026 — Transmissão | https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT
