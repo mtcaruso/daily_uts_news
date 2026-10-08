@@ -29,6 +29,7 @@ import trafilatura
 from curl_cffi import requests as cf_requests
 
 import gemini_util
+import notify
 
 HISTORY_FILE = Path("aneel_aux_history.json")
 DIAGNOSTIC_FILE = Path("aneel_aux_diagnostic.json")
@@ -53,6 +54,13 @@ MME_CP_API_URL = (
     "listagem-sem-filtros?pageNumber=0&pageSize=200&sortBy=id&sortDirection=desc"
 )
 MME_CP_DETAIL_TPL = "https://consultas-publicas.mme.gov.br/home/consulta/{id}"
+
+# === ALERTAS de participação pública ANEEL (notify_partic; a pedido, 07/10/2026) ===
+# AP fica de fora (escolha do user). CPs do MME são alertadas pelo alerts.py.
+PARTIC_ALERT_TYPES = {"partic_cp": "Consulta Pública", "partic_ts": "Tomada de Subsídios"}
+# Link do alerta = listagem: o link de detalhe carrega p_auth (token de sessão).
+PARTIC_LISTING_URL = {f"partic_{kind}": url for kind, url, _ in PARTIC_URLS}
+PARTIC_ALERT_CAP = 10  # excedente fica pendente pra próxima run
 
 HEADERS = {
     "User-Agent": (
@@ -117,23 +125,28 @@ def fetch_news_list():
     return items
 
 
-def _liferay_get(url, max_attempts=3):
+def _liferay_get(url, max_attempts=6):
     """GET pra Liferay com múltiplas impersonations + retry.
-    Liferay anti-bot é flaky mesmo de IP residencial."""
+    Liferay anti-bot é flaky mesmo de IP residencial: o Cloudflare devolve 403
+    em rajadas (medido 07/10/2026: ~20% dos GETs, às vezes 4 seguidos). Com 3
+    tentativas a listagem de CPs falhava em toda run — CPs 018-035/2026 nunca
+    entraram no histórico. 6 tentativas com backoff (≤35s) atravessam a rajada."""
     impersonations = ["chrome120", "chrome116", "edge99"]
+    status = None
     for attempt in range(max_attempts):
         imp = impersonations[attempt % len(impersonations)]
         try:
             r = cf_requests.get(url, impersonate=imp, timeout=30)
             if r.status_code == 200:
                 return r
+            status = r.status_code
             if attempt < max_attempts - 1:
-                time.sleep(3 + attempt * 2)  # 3s, 5s, 7s entre tentativas
+                time.sleep(3 + attempt * 2)  # 3s, 5s, 7s, 9s, 11s entre tentativas
         except Exception as e:
+            status = e
             if attempt < max_attempts - 1:
                 time.sleep(3)
-            else:
-                print(f"[liferay] {e}", file=sys.stderr)
+    print(f"[liferay] {url}: desistiu após {max_attempts} tentativas ({status})", file=sys.stderr)
     return None
 
 
@@ -212,12 +225,20 @@ def fetch_pauta_detail(url):
 def _fetch_partic_detail(session, detail_url):
     """Visita página de detalhe da CP/AP/TS no Liferay e extrai
     período de contribuição (start_date, end_date) em formato DD/MM/YYYY.
-    Retorna (start, end) ou (None, None) se não encontrar."""
-    try:
-        r = session.get(detail_url, timeout=30)
-        if r.status_code != 200:
-            return None, None
-    except Exception:
+    Retorna (start, end) ou (None, None) se não encontrar.
+    Retry: o mesmo 403 em rajada da listagem (ver _liferay_get) deixava ~60%
+    das CPs sem prazo."""
+    r = None
+    for attempt in range(3):
+        try:
+            r = session.get(detail_url, timeout=30)
+            if r.status_code == 200:
+                break
+        except Exception:
+            pass
+        r = None
+        time.sleep(2 + attempt * 2)
+    if r is None:
         return None, None
     html_text = r.text
     clean = re.sub(r"<[^>]+>", " ", html_text)
@@ -293,8 +314,10 @@ def fetch_partic_list():
                 time.sleep(0.8)  # gentle ao Liferay
 
             # Fallback: regex no texto do bloco se detail falhou
+            deadline_source = "detalhe" if deadline else None
             if not deadline:
                 deadline = _extract_partic_deadline(blk)
+                deadline_source = "texto" if deadline else None
 
             items.append({
                 "type": f"partic_{kind}",
@@ -305,6 +328,9 @@ def fetch_partic_list():
                 "objeto": objeto,
                 "start_date": start_date,
                 "deadline": deadline,
+                # Só prazo "detalhe" atualiza o histórico/alerta de prorrogação —
+                # o regex no texto pode pegar outra data do objeto.
+                "deadline_source": deadline_source,
             })
     return items
 
@@ -473,6 +499,60 @@ def _save(history):
     )
 
 
+# ============== ALERTAS ==============
+
+def _dmy(s):
+    try:
+        return datetime.strptime(s or "", "%d/%m/%Y")
+    except ValueError:
+        return None
+
+
+def _resumo(entry: dict, limit: int) -> str:
+    s = (entry.get("summary") or entry.get("objeto") or "").replace("**", "").strip()
+    return s if len(s) <= limit else s[:limit - 1].rstrip() + "…"
+
+
+def notify_partic(history: dict) -> int:
+    """Alerta CP/TS da ANEEL: NOVA (entry com `first_seen` e sem `notified_at`)
+    e PRAZO PRORROGADO (deadline > `notified_deadline`).
+
+    Só o Actions dispara (tem os secrets). Na prática quem COLETA é a run local
+    (o Liferay da ANEEL bloqueia IP de datacenter); o Actions alerta a partir do
+    histórico que ela commitou. Itens de antes dos alertas não têm `first_seen`
+    → nunca viram "nova", só ganham baseline de prazo em silêncio."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        print("[aneel_aux] run local — alertas de CP/TS ficam pendentes pro Actions", file=sys.stderr)
+        return 0
+    msgs = []
+    for key, e in history["items"].items():
+        label = PARTIC_ALERT_TYPES.get(e.get("type"))
+        if not label:
+            continue
+        num = "/".join(key.rsplit("_", 2)[-2:])  # partic_cp_035_2026 → 035/2026
+        fim, avisado = e.get("deadline"), e.get("notified_deadline")
+        # Prorrogação só confia em prazo lido no detalhe (regex no texto pode errar).
+        confiavel = fim if e.get("deadline_source") == "detalhe" else None
+        if e.get("first_seen") and not e.get("notified_at"):
+            body = _resumo(e, 300) + (f"\nContribuições até {fim}" if fim else "")
+            msgs.append((e, True, f"🏛️ ANEEL · {label} nº {num}", body))
+        elif _dmy(confiavel) and _dmy(avisado) and _dmy(confiavel) > _dmy(avisado):
+            msgs.append((e, False, f"⏳ ANEEL · {label} nº {num} · prazo prorrogado",
+                         f"{_resumo(e, 150)}\nPrazo: {avisado} → {confiavel}"))
+        elif confiavel and not avisado:
+            e["notified_deadline"] = confiavel  # baseline silenciosa
+
+    sent = 0
+    for e, nova, title, body in msgs[:PARTIC_ALERT_CAP]:
+        if notify.send(title, body, click=PARTIC_LISTING_URL[e["type"]], tags=["classical_building"]):
+            if nova:
+                e["notified_at"] = datetime.now().isoformat()
+            if e.get("deadline_source") == "detalhe":
+                e["notified_deadline"] = e["deadline"]
+            sent += 1
+    return sent
+
+
 def main():
     if not _gemini_client():
         print("[aneel_aux] GEMINI_API_KEY não setada — vou coletar mas não resumir", file=sys.stderr)
@@ -524,6 +604,15 @@ def main():
     # Marca fonte ANEEL nos items que não vieram do MME (pra compat com items antigos)
     for it in partic:
         it.setdefault("fonte", "ANEEL")
+    # Prazo atual dos itens JÁ no histórico (o loop abaixo só reprocessa quem
+    # não tem resumo) — alimenta o alerta de prorrogação e o prazo do dashboard.
+    # Só prazo lido na página de detalhe (o regex no texto pode errar a data).
+    for it in partic:
+        e = history["items"].get(it["id"])
+        if e and it.get("deadline_source") == "detalhe":
+            e["deadline"], e["deadline_source"] = it["deadline"], "detalhe"
+            if it.get("start_date"):
+                e["start_date"] = it["start_date"]
     all_items = news + pautas + partic + partic_mme
 
     # Retry: items do histórico SEM summary que sumiram da listagem atual
@@ -605,6 +694,8 @@ def main():
                 entry["objeto"] = item["objeto"]
             if item.get("deadline"):
                 entry["deadline"] = item["deadline"]
+                if item.get("deadline_source"):
+                    entry["deadline_source"] = item["deadline_source"]
             if item.get("start_date"):
                 entry["start_date"] = item["start_date"]
             if item.get("fonte"):
@@ -615,6 +706,19 @@ def main():
                 entry["error"] = "no_body"
             elif not summary:
                 entry["error"] = "summarize_failed"
+
+            # Reprocesso reescreve a entry: preserva estado de alerta e prazo
+            # (retry de histórico não traz deadline). first_seen só nasce em item
+            # inédito — é o que marca CP/TS "nova" pro notify_partic.
+            prev_entry = history["items"].get(item["id"])
+            if prev_entry is None:
+                if item["type"].startswith("partic_"):
+                    entry["first_seen"] = datetime.now().isoformat()
+            else:
+                for k in ("first_seen", "notified_at", "notified_deadline",
+                          "deadline", "deadline_source", "start_date"):
+                    if k in prev_entry and k not in entry:
+                        entry[k] = prev_entry[k]
 
             history["items"][item["id"]] = entry
 
@@ -638,6 +742,9 @@ def main():
             print(f"[aneel_aux] checkpoint salvo ({done} ok)", file=sys.stderr)
         time.sleep(0.5)
 
+    sent = notify_partic(history)
+    print(f"[aneel_aux] {sent} alertas CP/TS enviados", file=sys.stderr)
+
     # Prune retention
     cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     before = len(history["items"])
@@ -655,6 +762,9 @@ def main():
         "last_run": datetime.now().isoformat(),
         "news_count": len(news),
         "pautas_count": len(pautas),
+        # Por tipo (cp/ap/ts): partic_cp=0 por semanas = listagem bloqueada de novo.
+        "partic_by_type": {t: sum(1 for it in partic if it["type"] == t)
+                           for t in ("partic_cp", "partic_ap", "partic_ts")},
         "pending": len(pending),
         "done": done,
         "failed": failed,
