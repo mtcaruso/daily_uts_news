@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T21:30:30.525078",
+  "last_updated": "2026-10-08T00:40:27.558593",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1164,7 +1164,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_038_2026": {
       "type": "partic_ts",
@@ -1177,7 +1178,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_037_2026": {
       "type": "partic_ts",
@@ -1190,7 +1192,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_036_2026": {
       "type": "partic_ts",
@@ -1203,7 +1206,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_035_2026": {
       "type": "partic_ts",
@@ -1216,7 +1220,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_034_2026": {
       "type": "partic_ts",
@@ -1229,7 +1234,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_033_2026": {
       "type": "partic_ts",
@@ -1242,7 +1248,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_032_2026": {
       "type": "partic_ts",
@@ -1255,7 +1262,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_031_2026": {
       "type": "partic_ts",
@@ -1268,7 +1276,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_ts_030_2026": {
       "type": "partic_ts",
@@ -1281,7 +1290,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "pauta_14817": {
       "type": "pauta_rd",
@@ -1414,7 +1424,8 @@
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "30/10/2026"
     },
     "partic_cp_034_2026": {
       "type": "partic_cp",
@@ -1427,7 +1438,8 @@
       "deadline": "02/11/2026",
       "start_date": "17/09/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "02/11/2026"
     },
     "partic_cp_033_2026": {
       "type": "partic_cp",
@@ -1440,7 +1452,8 @@
       "deadline": "09/11/2026",
       "start_date": "10/09/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "09/11/2026"
     },
     "partic_cp_032_2026": {
       "type": "partic_cp",
@@ -1453,7 +1466,8 @@
       "deadline": "26/10/2026",
       "start_date": "10/09/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "26/10/2026"
     },
     "partic_cp_031_2026": {
       "type": "partic_cp",
@@ -1466,7 +1480,8 @@
       "deadline": "19/10/2026",
       "start_date": "03/09/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "19/10/2026"
     },
     "partic_cp_029_2026": {
       "type": "partic_cp",
@@ -1479,7 +1494,8 @@
       "deadline": "12/10/2026",
       "start_date": "27/08/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "12/10/2026"
     },
     "partic_cp_028_2026": {
       "type": "partic_cp",
@@ -1492,7 +1508,8 @@
       "deadline": "09/10/2026",
       "start_date": "26/08/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "09/10/2026"
     },
     "partic_cp_027_2026": {
       "type": "partic_cp",
@@ -1505,7 +1522,8 @@
       "deadline": "09/10/2026",
       "start_date": "26/08/2026",
       "fonte": "ANEEL",
-      "deadline_source": "detalhe"
+      "deadline_source": "detalhe",
+      "notified_deadline": "09/10/2026"
     },
     "pauta_14820": {
       "type": "pauta_rd",
