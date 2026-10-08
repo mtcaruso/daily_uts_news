@@ -706,6 +706,11 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
         st = {"avisados": [k for k, e in itens.items() if e.get("notified_at")],
               "prazos": {k: e["notified_deadline"] for k, e in itens.items() if e.get("notified_deadline")}}
     avisados, prazos = set(st.get("avisados", [])), dict(st.get("prazos", {}))
+    # Referência de prazo SÓ da listagem. A listagem e o DOU às vezes divergem em
+    # 1 dia (CP 036/2026: DOU 22/11, listagem 23/11), e comparar entre fontes dava
+    # falso "prorrogado". `prazos` (compartilhado) segue como o último prazo
+    # anunciado: aparece no "antes" e evita repetir prorrogação que o DOU já deu.
+    ref = dict(st.get("prazos_listagem", {}))
 
     def _resumo(e, limit):
         s = (e.get("summary") or e.get("objeto") or "").replace("**", "").strip()
@@ -722,17 +727,23 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
         if e.get("first_seen") and k not in avisados:
             corpo = _resumo(e, 300) + (f"\nContribuições até {e['deadline']}" if e.get("deadline") else "")
             msgs.append((k, fim, f"🏛️ ANEEL · {rotulo} nº {num}", corpo, link))
-        elif _dmy(fim) and _dmy(prazos.get(k)) and _dmy(fim) > _dmy(prazos[k]):
-            msgs.append((k, fim, f"⏳ ANEEL · {rotulo} nº {num} · prazo prorrogado",
-                         f"{_resumo(e, 150)}\nPrazo: {prazos[k]} → {fim}", link))
-        elif fim and k not in prazos:
-            prazos[k] = fim  # baseline silenciosa
+            continue
+        if not _dmy(fim):
+            continue
+        if not _dmy(ref.get(k)) or _dmy(fim) < _dmy(ref[k]):
+            ref[k] = fim  # 1ª leitura (ou correção pra menos): referência silenciosa
+        elif _dmy(fim) > _dmy(ref[k]):
+            if _dmy(prazos.get(k)) and _dmy(prazos[k]) >= _dmy(fim):
+                ref[k] = fim  # o DOU já anunciou esse prazo (ou um maior): não repete
+            else:
+                msgs.append((k, fim, f"⏳ ANEEL · {rotulo} nº {num} · prazo prorrogado",
+                             f"{_resumo(e, 150)}\nPrazo: {prazos.get(k) or ref[k]} → {fim}", link))
 
     for k, fim, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
         if not dry and notify.send(title, body, click=link, tags=["classical_building"]):
             avisados.add(k)
             if fim:
-                prazos[k] = fim
+                prazos[k] = ref[k] = fim  # falha no envio = referência velha, tenta de novo
 
     # Guarda os avisados de QUALQUER origem: a notícia e o DOU avisam CP que o PC
     # ainda nem coletou. Podar pelo histórico do PC apagava esses avisos e a
@@ -740,7 +751,8 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
     # que é de ano anterior ao passado (o id termina no ano: partic_cp_036_2026).
     ano_min = str(datetime.now().year - 1)
     state["aneel_partic"] = {"avisados": sorted(a for a in avisados if a[-4:] >= ano_min),
-                             "prazos": {k: v for k, v in prazos.items() if k[-4:] >= ano_min}}
+                             "prazos": {k: v for k, v in prazos.items() if k[-4:] >= ano_min},
+                             "prazos_listagem": {k: v for k, v in ref.items() if k[-4:] >= ano_min}}
     print(f"[aneel_partic] {len(msgs)} alertas")
     return len(msgs)
 
