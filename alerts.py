@@ -14,10 +14,12 @@ import os
 os.environ.setdefault("RESEND_API_KEY", "_unused_by_alerts")
 os.environ.setdefault("DIGEST_TO", "_unused_by_alerts")
 
+import hashlib
+import html
 import json
 import re
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -430,6 +432,150 @@ def alert_arsesp(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== ARSAE-MG (Copasa / Copanor / Gasmig) ==============
+# Uma página WordPress (tema Divi) por ano, editada à mão: cada CP é um módulo
+# "tabs" com título "Consulta e Audiência Pública nº 70 – Tema" e a lista de
+# documentos (preliminares, finais, resolução). Tudo da ARSAE alerta, Gasmig
+# inclusive (a pedido, 07/10/2026).
+ARSAE_PAGE = "https://www.arsae.mg.gov.br/consultas-publicas-{ano}/"
+# Só a data de modificação (resposta minúscula): baixa os ~240KB do HTML só
+# quando a página mudou.
+ARSAE_MODIFIED = ("https://www.arsae.mg.gov.br/wp-json/wp/v2/pages"
+                  "?slug=consultas-publicas-{ano}&_fields=modified_gmt")
+_ARSAE_MODULO = re.compile(r'<div id="[^"]*" class="et_pb_module et_pb_tabs')
+_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
+
+
+_ARSAE_INTERMEDIARIO = Path(__file__).with_name("certs") / "sectigo_dv_r36.pem"
+_arsae_ca_bundle = None
+
+
+def _arsae_get(url: str, timeout: int):
+    """GET com a cadeia TLS consertada. O servidor da ARSAE manda o intermediário
+    ERRADO (o antigo, da Valid, depois da renovação de 04/09/2026) e o Python não
+    completa a cadeia sozinho (o Windows/curl sim). Bundle = certifi + o
+    intermediário certo, guardado em certs/."""
+    global _arsae_ca_bundle
+    if _arsae_ca_bundle is None:
+        import certifi
+        import tempfile
+        with tempfile.NamedTemporaryFile("w", suffix=".pem", delete=False, encoding="utf-8") as f:
+            f.write(Path(certifi.where()).read_text(encoding="utf-8") + "\n"
+                    + _ARSAE_INTERMEDIARIO.read_text(encoding="utf-8"))
+        _arsae_ca_bundle = f.name
+    try:
+        return requests.get(url, headers=_UA, timeout=timeout, verify=_arsae_ca_bundle)
+    except requests.exceptions.SSLError:
+        # Certificado renovado de novo (o atual vence em 03/2027) e a cadeia
+        # continua quebrada: página pública e só leitura, então segue sem
+        # verificar em vez de ficar cego calado, avisando no log.
+        print("[arsae] cadeia TLS quebrada de novo — lendo sem verificação; atualizar certs/", file=sys.stderr)
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        return requests.get(url, headers=_UA, timeout=timeout, verify=False)
+
+
+def _txt(fragmento: str) -> str:
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", fragmento)).split()).strip(" ;.,")
+
+
+def _arsae_parse(pagina: str) -> dict:
+    """{num: {"titulo", "docs": {href: texto}}}. O índice do ano (módulo sem
+    "nº") é pulado; o HTML é cortado no <footer> (senão o último bloco leva os
+    links de rodapé: Facebook, Spotify…)."""
+    pagina = pagina.split("<footer", 1)[0]
+    starts = [m.start() for m in _ARSAE_MODULO.finditer(pagina)]
+    out = {}
+    for a, b in zip(starts, starts[1:] + [len(pagina)]):
+        bloco = pagina[a:b]
+        m = re.search(r'et_pb_tabs_controls.*?<a href="#">(.*?)</a>', bloco, re.S)
+        titulo = _txt(m.group(1)) if m else ""
+        num = re.search(r"n[º°o]\s*(\d+)", titulo)
+        if not num:
+            continue
+        docs = {}
+        for href, inner in re.findall(r'<a[^>]+href="([^"#][^"]*)"[^>]*>(.*?)</a>', bloco, re.S):
+            href = html.unescape(href)
+            docs[href] = docs.get(href) or _txt(inner)  # mesmo link 2x, um sem texto
+        out[num.group(1)] = {"titulo": titulo, "docs": docs}
+    return out
+
+
+def _h(href: str) -> str:
+    return hashlib.sha1(href.encode()).hexdigest()[:10]  # state enxuto
+
+
+def alert_arsae(state: dict, dry: bool) -> int:
+    """CP/AP nova e documentos novos (agrupados por CP) nas páginas do ano
+    atual e do anterior (CP de dezembro ganha documento em janeiro).
+
+    State['arsae'] = {"mod": {ano: modified_gmt}, "cps": {num: [hash de href]}}.
+    Sem state → só semeia, em silêncio. Página que muda mas não rende nenhuma
+    CP (layout mudou?) não avança "mod": tenta de novo e avisa no log."""
+    ano = (datetime.now(timezone.utc) - timedelta(hours=3)).year
+    st = state.get("arsae")
+    seed = not isinstance(st, dict) or not st
+    mod = {} if seed else dict(st.get("mod", {}))
+    cps = {} if seed else {k: list(v) for k, v in st.get("cps", {}).items()}
+
+    msgs = []
+    for a in (ano, ano - 1):
+        try:
+            r = _arsae_get(ARSAE_MODIFIED.format(ano=a), timeout=20)
+            lst = r.json() if r.ok else None
+        except Exception:
+            lst = None  # REST fora → baixa a página do mesmo jeito
+        if lst == []:
+            continue  # página do ano ainda não existe (início de janeiro)
+        atual = lst[0].get("modified_gmt") if lst else None
+        if atual and mod.get(str(a)) == atual:
+            continue
+        try:
+            r = _arsae_get(ARSAE_PAGE.format(ano=a), timeout=30)
+            if r.status_code == 404:
+                continue
+            r.raise_for_status()
+        except Exception as e:
+            print(f"[arsae] {a}: erro {e}", file=sys.stderr)
+            continue
+        r.encoding = "utf-8"
+        pagina = _arsae_parse(r.text)
+        if not pagina:
+            print(f"[arsae] {a}: página sem nenhuma CP reconhecida — layout mudou?", file=sys.stderr)
+            continue
+        link = ARSAE_PAGE.format(ano=a)
+        for num, cp in pagina.items():
+            hashes = {_h(h): t for h, t in cp["docs"].items()}
+            # "Consulta e Audiência Pública nº 70 – Cofaturamento…" → rótulo + tema
+            # (às vezes sem espaço antes do traço: "nº 51– Definição…")
+            partes = re.split(r"\s*[–—-]\s+", cp["titulo"], maxsplit=1)
+            rotulo, tema = partes[0], (partes[1] if len(partes) > 1 else "")
+            if num not in cps:
+                if not seed:
+                    msgs.append((f"🚰 ARSAE-MG · {rotulo}",
+                                 f"{tema}\n{len(hashes)} documento{'s' if len(hashes) != 1 else ''} publicado{'s' if len(hashes) != 1 else ''}",
+                                 f"{link}#CP{num}"))
+            else:
+                novos = [t or "(documento)" for h, t in hashes.items() if h not in set(cps[num])]
+                if novos:
+                    n = len(novos)
+                    lista = "\n".join(f"• {t[:100]}" for t in novos[:6]) + (f"\n…e mais {n - 6}" if n > 6 else "")
+                    msgs.append((f"📎 ARSAE-MG · {rotulo} · {n} documento{'s' if n > 1 else ''} novo{'s' if n > 1 else ''}",
+                                 f"{tema[:120]}\n{lista}", f"{link}#CP{num}"))
+            cps[num] = sorted(set(cps.get(num, [])) | set(hashes))
+        if atual:
+            mod[str(a)] = atual
+
+    if not dry:
+        for title, body, click in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=click, tags=["potable_water"])
+
+    state["arsae"] = {"mod": mod, "cps": cps}
+    print(f"[arsae] {len(cps)} CPs no state, {len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -455,6 +601,11 @@ def main():
         total += alert_arsesp(state, dry=False)
     except Exception as e:
         print(f"[arsesp] falhou: {e}", file=sys.stderr)
+    # ARSAE-MG Copasa/Copanor/Gasmig (a pedido, 07/10/2026). Mesmo motivo.
+    try:
+        total += alert_arsae(state, dry=False)
+    except Exception as e:
+        print(f"[arsae] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 
