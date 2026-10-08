@@ -29,7 +29,6 @@ import trafilatura
 from curl_cffi import requests as cf_requests
 
 import gemini_util
-import notify
 
 HISTORY_FILE = Path("aneel_aux_history.json")
 DIAGNOSTIC_FILE = Path("aneel_aux_diagnostic.json")
@@ -55,12 +54,6 @@ MME_CP_API_URL = (
 )
 MME_CP_DETAIL_TPL = "https://consultas-publicas.mme.gov.br/home/consulta/{id}"
 
-# === ALERTAS de participação pública ANEEL (notify_partic; a pedido, 07/10/2026) ===
-# AP fica de fora (escolha do user). CPs do MME são alertadas pelo alerts.py.
-PARTIC_ALERT_TYPES = {"partic_cp": "Consulta Pública", "partic_ts": "Tomada de Subsídios"}
-# Link do alerta = listagem: o link de detalhe carrega p_auth (token de sessão).
-PARTIC_LISTING_URL = {f"partic_{kind}": url for kind, url, _ in PARTIC_URLS}
-PARTIC_ALERT_CAP = 10  # excedente fica pendente pra próxima run
 
 HEADERS = {
     "User-Agent": (
@@ -105,8 +98,11 @@ def fetch_news_list():
     items = []
     # Padrão Plone: <h2><a href="...noticias/AAAA/slug">TÍTULO</a></h2>
     # Data fica em irmão próximo (geralmente "Publicado em DD/MM/AAAA")
+    # A pasta nem sempre é só o ano: no período eleitoral virou
+    # "2026-defeso-eleitoral" e o scraper ficou cego de 24/06 a 08/10/2026.
+    # Aceita qualquer pasta que comece pelo ano.
     matches = re.findall(
-        r'<h[1-3][^>]*>\s*<a[^>]*href="(https?://www\.gov\.br/aneel/pt-br/assuntos/noticias/(\d{4})/([^"/]+))"[^>]*>([^<]+)</a>',
+        r'<h[1-3][^>]*>\s*<a[^>]*href="(https?://www\.gov\.br/aneel/pt-br/assuntos/noticias/(\d{4})[^"/]*/([^"/]+))"[^>]*>([^<]+)</a>',
         r.text,
     )
     seen = set()
@@ -499,60 +495,6 @@ def _save(history):
     )
 
 
-# ============== ALERTAS ==============
-
-def _dmy(s):
-    try:
-        return datetime.strptime(s or "", "%d/%m/%Y")
-    except ValueError:
-        return None
-
-
-def _resumo(entry: dict, limit: int) -> str:
-    s = (entry.get("summary") or entry.get("objeto") or "").replace("**", "").strip()
-    return s if len(s) <= limit else s[:limit - 1].rstrip() + "…"
-
-
-def notify_partic(history: dict) -> int:
-    """Alerta CP/TS da ANEEL: NOVA (entry com `first_seen` e sem `notified_at`)
-    e PRAZO PRORROGADO (deadline > `notified_deadline`).
-
-    Só o Actions dispara (tem os secrets). Na prática quem COLETA é a run local
-    (o Liferay da ANEEL bloqueia IP de datacenter); o Actions alerta a partir do
-    histórico que ela commitou. Itens de antes dos alertas não têm `first_seen`
-    → nunca viram "nova", só ganham baseline de prazo em silêncio."""
-    if os.environ.get("GITHUB_ACTIONS") != "true":
-        print("[aneel_aux] run local — alertas de CP/TS ficam pendentes pro Actions", file=sys.stderr)
-        return 0
-    msgs = []
-    for key, e in history["items"].items():
-        label = PARTIC_ALERT_TYPES.get(e.get("type"))
-        if not label:
-            continue
-        num = "/".join(key.rsplit("_", 2)[-2:])  # partic_cp_035_2026 → 035/2026
-        fim, avisado = e.get("deadline"), e.get("notified_deadline")
-        # Prorrogação só confia em prazo lido no detalhe (regex no texto pode errar).
-        confiavel = fim if e.get("deadline_source") == "detalhe" else None
-        if e.get("first_seen") and not e.get("notified_at"):
-            body = _resumo(e, 300) + (f"\nContribuições até {fim}" if fim else "")
-            msgs.append((e, True, f"🏛️ ANEEL · {label} nº {num}", body))
-        elif _dmy(confiavel) and _dmy(avisado) and _dmy(confiavel) > _dmy(avisado):
-            msgs.append((e, False, f"⏳ ANEEL · {label} nº {num} · prazo prorrogado",
-                         f"{_resumo(e, 150)}\nPrazo: {avisado} → {confiavel}"))
-        elif confiavel and not avisado:
-            e["notified_deadline"] = confiavel  # baseline silenciosa
-
-    sent = 0
-    for e, nova, title, body in msgs[:PARTIC_ALERT_CAP]:
-        if notify.send(title, body, click=PARTIC_LISTING_URL[e["type"]], tags=["classical_building"]):
-            if nova:
-                e["notified_at"] = datetime.now().isoformat()
-            if e.get("deadline_source") == "detalhe":
-                e["notified_deadline"] = e["deadline"]
-            sent += 1
-    return sent
-
-
 def main():
     if not _gemini_client():
         print("[aneel_aux] GEMINI_API_KEY não setada — vou coletar mas não resumir", file=sys.stderr)
@@ -709,7 +651,7 @@ def main():
 
             # Reprocesso reescreve a entry: preserva estado de alerta e prazo
             # (retry de histórico não traz deadline). first_seen só nasce em item
-            # inédito — é o que marca CP/TS "nova" pro notify_partic.
+            # inédito — é o que marca CP/TS "nova" pro alerts.alert_aneel_partic().
             prev_entry = history["items"].get(item["id"])
             if prev_entry is None:
                 if item["type"].startswith("partic_"):
@@ -741,9 +683,6 @@ def main():
             _save(history)
             print(f"[aneel_aux] checkpoint salvo ({done} ok)", file=sys.stderr)
         time.sleep(0.5)
-
-    sent = notify_partic(history)
-    print(f"[aneel_aux] {sent} alertas CP/TS enviados", file=sys.stderr)
 
     # Prune retention
     cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()

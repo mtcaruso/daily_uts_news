@@ -1,0 +1,97 @@
+name: Alerts Loop (alertas a cada 15min, sem depender do agendador)
+
+# O agendador do GitHub DESCARTA a maioria dos crons frequentes: em 08/10/2026 o
+# Alerts de 30min rodou 4 vezes no dia e o MME Legislação de 1h rodou 2 — uma
+# CP da ANEEL passou sem alerta. Aqui é UM job longo em loop (~5h30) que, ao
+# terminar, dispara o próximo elo por workflow_dispatch. O GITHUB_TOKEN PODE
+# disparar workflow_dispatch (é a exceção à regra anti-recursão do GitHub),
+# então a corrente se mantém sozinha. O cron de 2h só ressuscita a corrente se
+# ela quebrar. Repo público = Actions ilimitado.
+#
+# Por ciclo de 15min: alerts.py (Top do Dia, CPs MME, ARSESP, ARSAE, SEI, CP/TS
+# ANEEL). De hora em hora, 07-23h BRT, seg-sex: mme_legislacao.py (portarias,
+# decretos, leis). alerts.yml e mme-legislacao.yml ficaram só com disparo manual
+# (rodando junto com o loop, alertariam em dobro).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 */2 * * *"
+
+permissions:
+  contents: write
+  actions: write  # disparar o próximo elo
+
+# Sem cancel-in-progress: o cron de ressurreição NUNCA mata um elo no meio de um
+# ciclo (alerta enviado e state ainda não commitado = alerta em dobro). Com a
+# corrente viva, ele fica pendente e é substituído pelo próximo elo.
+concurrency:
+  group: alerts-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pandas
+      - name: git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Loop (~5h30)
+        env:
+          # lidos pelo digest.py no import do alerts.py (mesmo sem usar)
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set +e  # o runner usa bash -e: um erro avulso não pode matar a corrente
+          # Mesmo esquema do cvm_fast: pull --rebase -X theirs antes e depois
+          # (alerts_state.json tem vários escritores: cvm_fast, cvm-realtime, PC).
+          sync() {
+            git pull -q --rebase -X theirs --autostash origin main || { git rebase --abort 2>/dev/null; return 1; }
+          }
+          publish() {  # $1 = mensagem do commit, resto = arquivos
+            msg="$1"; shift
+            git add "$@"
+            git diff --cached --quiet && return 0
+            git commit -qm "$msg [skip ci]"
+            for i in 1 2 3; do
+              sync && git push -q && return 0
+              sleep 10
+            done
+            echo "::warning::push falhou 3x ($msg) — tenta de novo no próximo ciclo"
+          }
+          end=$(( $(date +%s) + 19800 ))  # ~5h30 (folga pro timeout de 355min)
+          last_mme=""
+          while [ "$(date +%s)" -lt "$end" ]; do
+            t0=$(date +%s)
+            sync || true
+            python alerts.py || echo "::warning::alerts.py falhou"
+            publish "Update alerts state" alerts_state.json
+            # MME só publica em dia útil, em horário comercial
+            if [ "$(TZ=America/Sao_Paulo date +%u)" -le 5 ] \
+               && [ "$(TZ=America/Sao_Paulo date +%-H)" -ge 7 ] \
+               && [ "$(TZ=America/Sao_Paulo date +%Y%m%d%H)" != "$last_mme" ]; then
+              last_mme=$(TZ=America/Sao_Paulo date +%Y%m%d%H)
+              python mme_legislacao.py || echo "::warning::mme_legislacao.py falhou"
+              publish "Update MME legislação history" mme_legislacao_history.json mme_legislacao_diagnostic.json
+            fi
+            resto=$(( 900 - ($(date +%s) - t0) ))
+            [ $(( $(date +%s) + resto )) -ge "$end" ] && break
+            [ "$resto" -gt 0 ] && sleep "$resto"
+          done
+      - name: Dispara o próximo elo
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run alerts-loop.yml --ref main

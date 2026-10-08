@@ -668,6 +668,75 @@ def alert_sei(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== ANEEL CP / Tomada de Subsídios ==============
+# Quem COLETA é o aneel_aux.py na run do PC (o Liferay da ANEEL bloqueia IP do
+# Actions: 0 itens em todo run do GitHub) e commita aneel_aux_history.json.
+# Aqui só se LÊ esse arquivo: o alerta sai no 1º ciclo do alerts-loop depois do
+# commit do PC. AP fica de fora (escolha do user).
+ANEEL_HISTORY = Path("aneel_aux_history.json")
+ANEEL_PARTIC_TIPOS = {"partic_cp": "Consulta Pública", "partic_ts": "Tomada de Subsídios"}
+# Link = listagem: o link de detalhe carrega p_auth (token de sessão).
+ANEEL_PARTIC_LISTAGEM = {"partic_cp": "https://antigo.aneel.gov.br/consultas-publicas",
+                         "partic_ts": "https://antigo.aneel.gov.br/tomadas-de-subsidios"}
+
+
+def _dmy(s):
+    try:
+        return datetime.strptime(s or "", "%d/%m/%Y")
+    except ValueError:
+        return None
+
+
+def alert_aneel_partic(state: dict, dry: bool) -> int:
+    """CP/TS nova (entry com first_seen — só nasce em item inédito — ainda não
+    avisada) e prazo prorrogado (só prazo lido na página de detalhe).
+
+    State['aneel_partic'] = {"avisados": [ids], "prazos": {id: prazo avisado}}.
+    Sem state, herda o que o alerta antigo (dentro do aneel_aux, até 08/10/2026)
+    gravou no próprio histórico: notified_at / notified_deadline."""
+    if not ANEEL_HISTORY.exists():
+        return 0
+    itens = json.loads(ANEEL_HISTORY.read_text(encoding="utf-8")).get("items", {})
+    st = state.get("aneel_partic")
+    if not isinstance(st, dict):
+        st = {"avisados": [k for k, e in itens.items() if e.get("notified_at")],
+              "prazos": {k: e["notified_deadline"] for k, e in itens.items() if e.get("notified_deadline")}}
+    avisados, prazos = set(st.get("avisados", [])), dict(st.get("prazos", {}))
+
+    def _resumo(e, limit):
+        s = (e.get("summary") or e.get("objeto") or "").replace("**", "").strip()
+        return s if len(s) <= limit else s[:limit - 1].rstrip() + "…"
+
+    msgs = []
+    for k, e in itens.items():
+        rotulo = ANEEL_PARTIC_TIPOS.get(e.get("type"))
+        if not rotulo:
+            continue
+        num = "/".join(k.rsplit("_", 2)[-2:])  # partic_cp_036_2026 → 036/2026
+        fim = e.get("deadline") if e.get("deadline_source") == "detalhe" else None
+        link = ANEEL_PARTIC_LISTAGEM[e["type"]]
+        if e.get("first_seen") and k not in avisados:
+            corpo = _resumo(e, 300) + (f"\nContribuições até {e['deadline']}" if e.get("deadline") else "")
+            msgs.append((k, fim, f"🏛️ ANEEL · {rotulo} nº {num}", corpo, link))
+        elif _dmy(fim) and _dmy(prazos.get(k)) and _dmy(fim) > _dmy(prazos[k]):
+            msgs.append((k, fim, f"⏳ ANEEL · {rotulo} nº {num} · prazo prorrogado",
+                         f"{_resumo(e, 150)}\nPrazo: {prazos[k]} → {fim}", link))
+        elif fim and k not in prazos:
+            prazos[k] = fim  # baseline silenciosa
+
+    for k, fim, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+        if not dry and notify.send(title, body, click=link, tags=["classical_building"]):
+            avisados.add(k)
+            if fim:
+                prazos[k] = fim
+
+    # item que saiu do histórico (retenção de 180 dias) sai do state
+    state["aneel_partic"] = {"avisados": sorted(a for a in avisados if a in itens),
+                             "prazos": {k: v for k, v in prazos.items() if k in itens}}
+    print(f"[aneel_partic] {len(msgs)} alertas")
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -703,6 +772,11 @@ def main():
         total += alert_sei(state, dry=False)
     except Exception as e:
         print(f"[sei] falhou: {e}", file=sys.stderr)
+    # CP/TS ANEEL coletadas pelo PC (movido do aneel_aux em 08/10/2026). Mesmo motivo.
+    try:
+        total += alert_aneel_partic(state, dry=False)
+    except Exception as e:
+        print(f"[aneel_partic] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 

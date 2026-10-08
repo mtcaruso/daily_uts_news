@@ -1,9 +1,9 @@
 name: Alerts (30min push notifications)
 
+# Desde 08/10/2026 quem roda o alerts.py é o alerts-loop.yml (loop a cada 15min,
+# não depende do agendador, que descartava ~90% destes crons). Aqui ficou só o
+# disparo manual: os dois rodando juntos alertariam em dobro.
 on:
-  schedule:
-    # A cada 30 minutos
-    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
