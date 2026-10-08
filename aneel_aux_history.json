@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T20:59:51.214032",
+  "last_updated": "2026-10-07T21:30:30.525078",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1163,7 +1163,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Empresa Força e Luz de Urussanga Ltda. – EFLUL.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_038_2026": {
       "type": "partic_ts",
@@ -1175,7 +1176,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Copel Distribuição S.A. – COPEL-DIS.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_037_2026": {
       "type": "partic_ts",
@@ -1187,7 +1189,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Companhia Hidroelétrica São Patrício – CHESP.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_036_2026": {
       "type": "partic_ts",
@@ -1199,7 +1202,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Energisa Minas Rio - Distribuidora de Energia S.A. - EMR, para os anos de 2027 a 2031.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_035_2026": {
       "type": "partic_ts",
@@ -1211,7 +1215,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Neoenergia Distribuição Brasília S.A. - Neoenergia Brasília, para os anos de 2027 a 2031.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_034_2026": {
       "type": "partic_ts",
@@ -1223,7 +1228,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Pacto Energia PR, para os anos de 2027 a 2031.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_033_2026": {
       "type": "partic_ts",
@@ -1235,7 +1241,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Energisa Sul-Sudeste - Distribuidora de Energia S.A.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_032_2026": {
       "type": "partic_ts",
@@ -1247,7 +1254,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Empresa Força e Luz João Cesa LTDA – EFLJC.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_031_2026": {
       "type": "partic_ts",
@@ -1259,7 +1267,8 @@
       "objeto": "obter subsídios para estabelecimento dos limites de continuidade DEC e FEC dos conjuntos da Concessionária de Serviço Público de Distribuição de Energia denominada Dcelt Distribuidora Catarinense de Energia Elétrica S/A – DCELT.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_ts_030_2026": {
       "type": "partic_ts",
@@ -1271,7 +1280,8 @@
       "objeto": "obter subsídios para aprimoramento da estrutura de dados da Base de Dados Geográfica da Distribuidora - BDGD, com aderência ao Manual de Controle Patrimonial do Setor Elétrico, MCPSE, e Manual de Dados da SFF, versão 1.3.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "pauta_14817": {
       "type": "pauta_rd",
@@ -1403,7 +1413,8 @@
       "objeto": "obter subsídios para a definição dos critérios e da metodologia aplicáveis à extensão de prazo prevista no § 7º do art. 26 da Lei nº 9.427/1996, referente à prorrogação por prazo suficiente à amortização dos investimentos de acréscimo de capacidade de geração, objetivando o aproveitamento ótimo do potencial hidráulico.",
       "deadline": "30/10/2026",
       "start_date": "01/10/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_034_2026": {
       "type": "partic_cp",
@@ -1415,7 +1426,8 @@
       "objeto": "obter subsídios para o aprimoramento da proposta de alteração dos Procedimentos de Rede associada à revisão da classificação das modalidades de operação de usinas conectadas ao sistema, contemplando os Submódulos 1.2, 2.1, 2.4, 2.12, 2.14, 2.15, 3.1, 3.4, 3.5, 3.9, 3.10, 4.1, 4.2, 4.4, 4.5, 6.1, 6.9, 7.1, 7.2, 7.4, 7.11 e 7.13, nos termos das minutas encaminhadas pelo ONS.",
       "deadline": "02/11/2026",
       "start_date": "17/09/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_033_2026": {
       "type": "partic_cp",
@@ -1427,7 +1439,8 @@
       "objeto": "obter subsídios para o aprimoramento do Módulo 3 dos Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional – PRODIST para estabelecimento de requisitos de observabilidade, operabilidade e controlabilidade dos Recursos Energéticos Distribuídos (REDs), bem como do Relatório de Análise de Impacto Regulatório – AIR, que trata da aplicação dos requisitos de interoperabilidade ao parque existente de REDs. \"IMPORTANTE: As contribuições deverão ser enviadas em formato Word e utilizando o \"Modelo para envio de contribuições\" na seção \"Documentos disponibilizados\".",
       "deadline": "09/11/2026",
       "start_date": "10/09/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_032_2026": {
       "type": "partic_cp",
@@ -1439,7 +1452,8 @@
       "objeto": "obter subsídios para o aprimoramento da minuta do Edital e dos Anexos do Leilão nº 1/2027-ANEEL.",
       "deadline": "26/10/2026",
       "start_date": "10/09/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_031_2026": {
       "type": "partic_cp",
@@ -1451,7 +1465,8 @@
       "objeto": "obter subsídios para aprimoramento da Resolução Normativa e do Relatório de AIR, que estabelecem o Indicador de Atendimento de Mercado (IAM). IMPORTANTE: As contribuições deverão ser enviadas em formato Word e utilizando o \"Modelo para envio de contribuições\" na seção \"Documentos disponibilizados\".",
       "deadline": "19/10/2026",
       "start_date": "03/09/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_029_2026": {
       "type": "partic_cp",
@@ -1463,7 +1478,8 @@
       "objeto": "obter subsídios e informações adicionais para avaliar a necessidade e conveniência de intervenção regulatória para atualizar o aparato regulatório relativo aos padrões de rede com vistas ao aumento da resiliência dos sistemas de distribuição de energia elétrica.",
       "deadline": "12/10/2026",
       "start_date": "27/08/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_028_2026": {
       "type": "partic_cp",
@@ -1475,7 +1491,8 @@
       "objeto": "obter subsídios para aprimorar a proposta de revisão normativa para implementação do Encargo de Complemento de Recursos – ECR e do Teto da Conta de Desenvolvimento Energético – CDE, nos termos do artigo 7º da Lei nº 15.269 de 24 de novembro de 2025, com aplicação provisória dos elementos e nova estrutura orçamentária para fins de instrução do processo da CDE/2027.",
       "deadline": "09/10/2026",
       "start_date": "26/08/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
     },
     "partic_cp_027_2026": {
       "type": "partic_cp",
@@ -1487,7 +1504,16 @@
       "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Companhia Estadual de Distribuição de Energia Elétrica – CEEE-D, a vigorar a partir de 22 de novembro de 2026.",
       "deadline": "09/10/2026",
       "start_date": "26/08/2026",
-      "fonte": "ANEEL"
+      "fonte": "ANEEL",
+      "deadline_source": "detalhe"
+    },
+    "pauta_14820": {
+      "type": "pauta_rd",
+      "title": "PAUTA DO 18º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "07/10/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14820&idAreaNoticia=425",
+      "summary": "- **EDP São Paulo Distribuição**: Reajuste Tarifário Anual no processo **48500.030953/2025-54**.\n- **CPFL Piratininga**: Reajuste Tarifário Anual no processo **48500.030955/2025-43**.\n- **Energisa Mato Grosso**: Recurso Administrativo contra Auto de Infração da AGER-MT no processo **48500.017235/2025-92**.\n- **Axia Energia Nordeste (Chesf)**: Recurso Administrativo sobre fiscalização de P&D no processo **48500.006437/2020-02**.\n- **Engie Brasil Energia e outras**: Recurso Administrativo sobre restrições de transmissão no processo **48500.018805/2025-61**.",
+      "added_at": "2026-10-07T21:30:30.024124"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T21:09:58.701530",
+  "last_updated": "2026-10-07T21:35:24.733548",
   "items": {
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalNYS2ZvM0NnWjBSb0pTakgzdDM2bmhJdDdUYzltZlk3NUpfWTR4TU1zRXNiMVBKM24xSlZycTRVYmhIaFppUXJnYl9aTktNeFdfZmNDSDZjbHJCTFNTbWlqeXlrNlhTa0NzTVg1RHVfVXJ2dUpGY3FjRDBfMWhaajdMdU15cWpUVVF6SU1XUk54dmhuc21jNEdXeEp6dTMwY292TElielM3a29WTmJpay1mOGlmcjU3cU01cThmaUI4MEVGcGdRadIB1wFBVV95cUxNcDdZU2gyNUpHREs1U3NQTHYySXIzdm9wLTBnWjA3dTROWnA4MDIzR2RfeGFFbUVXcmVqVnI1ZUNfTU5FM2NMb3RNc0hQZS1GTnR5cHBJcW8wT0x1dm8zSklSYXV0Zk1SVHRYR2IybGRxMkp6NHhTd2xFa0NKZGZuaGc5eEt1aExvRUhMMTY1QXBwNUF5bk55NWZfdDBlQk1wOEdnOTV4bDFTZXFNN3VoMmxtOG5PdUpEQW9kdThveFREdlNQWDBkX3k2UVBKLU85Wk52aDkzYw?oc=5": {
       "title": "TCU cobra análise sobre impactos antes de eventual caducidade da Enel SP - valor.globo.com",
@@ -1917,7 +1917,7 @@
       "source": "",
       "added_at": "2026-10-07T20:17:52.765397",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWndoQXNKN2RGd3RYdUZZSVJPWjJZRDBZUHFOS3VVTXVmd0tvM2tRWHZhSS1rbmRfZHltMXhEOFNKc0dqQXpPS2xvdE05UEZaUXFka2hmR1V1YS1tQVFqNURCLWtfd3dpNnFCN1dxckxNdTBwSkxxU0phRXRkYmpJS3dDWXpxUXYxVnZrWkQ5V2pmQjM1REs4SDVxUEZGVmNscnRwdW9PM2MzUGNwS0VaMFgwVQ?oc=5": {
       "title": "FERREIRA GOMES ENERGIA S.A. - Estadão RI",
@@ -2253,7 +2253,15 @@
       "source": "",
       "added_at": "2026-10-07T20:49:09.604692",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmNBendTbWZualZRUnNDT0I2Uk8ya0prV2lub2pNeG1pdTdkNms0Y3BodnNRNnJfVFZ0T3lCbFQxa3JtcEZ6Q2Rsc2tYSWRmcWxOdTkyMGdSUGRkMGVqdVdjN2l6S3ZCcjVWcDAwVG5WRnRmRnZRRFoyT2tOYU12R0xkdW5NeUE2ejRHTEJzSndWTklWTHVhTVVrYmJ1WktUM2dHcE1ZZ3VUMjd5STV1NWNmQWNBTkxhUmpsaU1tcnowclRybGNRaWhid3c0UzZh0gHQAUFVX3lxTE9SY0F6d1NtZm5qVlFSc0NPQjZSTzJrSmtXaW5vak14bWl1N2Q2azRjcGh2c1E2cl9UVnRPeUJsVDFrcm1wRnpDZGxza1hJZGZxbE51OTIwZ1JQZGQwZWp1V2M3aXpLdkJyNVZwMDBUblZGdGZGdlFEWjJPa05hTXZHTGR1bk15QTZ6NEdMQnNKd1ZOSVZMdWFNVWtiYnVaS1QzZ0dwTVlndVQyN3lJNXU1Y2ZBY0FOTGFSamxpTW1yejByVHJsY1FpaGJ3dzRTNmE?oc=5": {
+      "title": "Data centers vencem disputa por acesso à transmissão de energia elétrica - Valor Econômico",
+      "summary": "Data centers vencem disputa por acesso à transmissão de energia elétrica As empresas Pahlavan One, Pahlavan Three e Digital DC Brasil arremataram toda a capacidade disponibilizada em quatro pontos de conexão localizados no Estado de São Paulo Três empresas com projetos de data centers venceram a primeira disputa competitiva pelo acesso à rede de transmissão de energia elétrica realizada pelo…",
+      "source": "",
+      "added_at": "2026-10-07T21:35:24.727208",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
