@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T00:57:13.839416",
+  "last_updated": "2026-10-08T02:43:05.382575",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -4972,7 +4972,9 @@
       "date_modified": "30/09/2026",
       "ementa": "Aprova o Plano Nacional de Energia 2055 - PNE 2055.",
       "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-normativa-mme-n-142-2026": {
       "category": "portarias",
@@ -4983,8 +4985,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-142-2026.pdf",
       "date_modified": "30/09/2026",
       "ementa": "Altera a Portaria Normativa MME nº 87, de 30 de outubro de 2024.",
-      "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "summary": "Altera a **Portaria Normativa MME nº 87/2024**.",
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:20.577975"
     },
     "portarias_portaria-normativa-mme-n-143-2026": {
       "category": "portarias",
@@ -4995,8 +4998,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-normativa-mme-n-143-2026.pdf",
       "date_modified": "30/09/2026",
       "ementa": "Estabelece o cronograma estimado de promoção dos Leilões para Contratação de Reserva de Capacidade, dos Leilões de Compra de Energia Elétrica Proveniente de Novos Empreendimentos de Geração e de Empreendimentos de Geração Existentes e dos Leilões para Suprimento aos Sistemas Isolados para 2027, 2028 e 2029.",
-      "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "summary": "Define cronograma estimado para Leilões de Reserva de Capacidade, Novos Empreendimentos de Geração, Geração Existente e Sistemas Isolados para **2027**, **2028** e **2029**.",
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:25.460835"
     },
     "portarias_portaria-gm-mme-n-104-2026": {
       "category": "portarias",
@@ -5007,8 +5011,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-104-2026.pdf",
       "date_modified": "01/10/2026",
       "ementa": "Exonera GUILHERME PINHEIRO CABRAL DE ULYSSÉA, CPF nº ***.741.697-**, do Cargo Comissionado Executivo de Assistente do Departamento de Políticas Setoriais da Secretaria Nacional de Energia Elétrica, código CCE 2.07.",
-      "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "summary": "Exonera **GUILHERME PINHEIRO CABRAL DE ULYSSÉA** do Cargo Comissionado Executivo de Assistente do Departamento de Políticas Setoriais da Secretaria Nacional de Energia Elétrica.",
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:30.304083"
     },
     "portarias_portaria-gm-mme-n-105-2026": {
       "category": "portarias",
@@ -5019,8 +5024,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-105-2026.pdf",
       "date_modified": "01/10/2026",
       "ementa": "Nomeia FABIANA ANGÉLICA AIRES, CPF nº ***.886.136-**, para exercer o Cargo Comissionado Executivo de Assistente do Departamento de Políticas Setoriais da Secretaria Nacional de Energia Elétrica, código CCE 2.07.",
-      "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "summary": "Nomeia **FABIANA ANGÉLICA AIRES** para o Cargo Comissionado Executivo de Assistente do Departamento de Políticas Setoriais da Secretaria Nacional de Energia Elétrica.",
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:35.147802"
     },
     "portarias_portaria-mme-n-156-2026": {
       "category": "portarias",
@@ -5032,7 +5038,9 @@
       "date_modified": "01/10/2026",
       "ementa": "Altera a Portaria MME nº 40, de 23 de maio de 2025.",
       "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-940-2026": {
       "category": "portarias",
@@ -5043,8 +5051,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-940-2026.pdf",
       "date_modified": "01/10/2026",
       "ementa": "Estabelece critérios, procedimentos e orientações para a proposição e a execução, no orçamento de 2027, de programações financiadas por emendas parlamentares individuais e coletivas, lastreadas nas ações sob a gestão do Ministério de Minas e Energia e de suas entidades vinculadas.",
-      "summary": null,
-      "added_at": "2026-10-07T21:01:01.592280"
+      "summary": "Estabelece critérios para programações orçamentárias de 2027 financiadas por emendas parlamentares, sob gestão do **MME** e vinculadas. Orienta a proposição e execução dessas programações.",
+      "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:40.018828"
     },
     "portarias_portaria-gm-mme-n-106-2026": {
       "category": "portarias",
@@ -5055,8 +5064,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-106-2026.pdf",
       "date_modified": "02/10/2026",
       "ementa": "Exonera MIRIA CRISTINA BERNARDES DE SOUSA, CPF nº ***.770.601-**, do Cargo Comissionado Executivo de Chefe da Divisão de Pagamento da Coordenação de Administração de Pessoas, da Coordenação-Geral de Gestão de Pessoas, da Subsecretaria de Planejamento, Orçamento e Administração, da Secretaria-Executiva, código CCE 1.07, a partir de 28 de setembro de 2026, data de sua aposentadoria pelo Instituto Nacional do Seguro Social - INSS.",
-      "summary": null,
+      "summary": "Exonera **MIRIA CRISTINA BERNARDES DE SOUSA** do Cargo Comissionado Executivo de Chefe da Divisão de Pagamento, a partir de **28 de setembro de 2026**, data de sua aposentadoria pelo **INSS**.",
       "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:50.131827",
       "notify_skipped": "pessoal"
     },
     "portarias_portaria-gm-mme-n-107-2026": {
@@ -5068,8 +5078,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-107-2026.pdf",
       "date_modified": "02/10/2026",
       "ementa": "Designa MAXWELL DE ALENCAR MENESES, matrícula SIAPE nº 1874966, para exercer o encargo de substituto do Coordenador de Governança e Análise de Dados da Coordenação-Geral de Dados e Inteligência, da Subsecretaria de Tecnologia e Inovação, da Secretaria de Executiva, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
-      "summary": null,
+      "summary": "Designa **MAXWELL DE ALENCAR MENESES** para substituto do Coordenador de Governança e Análise de Dados.",
       "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:55.006923",
       "notify_skipped": "pessoal"
     },
     "portarias_portaria-mme-n-157-2026": {
@@ -5081,8 +5092,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-157-2026.pdf",
       "date_modified": "02/10/2026",
       "ementa": "Designa CLARISSA MARIA DE SOUZA MENEZES LIMA DE MENDONCA, matrícula SIAPE nº 1535808, para exercer o encargo de substituta do Coordenador-Geral de Governança das Entidades Vinculadas da Subsecretaria de Governança, da Secretaria-Executiva, código FCE 1.13, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
-      "summary": null,
+      "summary": "Designa **CLARISSA MARIA DE SOUZA MENEZES LIMA DE MENDONCA** (matrícula **1535808**) como substituta do Coordenador-Geral de Governança das Entidades Vinculadas.",
       "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:42:59.912602",
       "notify_skipped": "pessoal"
     },
     "portarias_portaria-mme-n-158-2026": {
@@ -5096,7 +5108,9 @@
       "ementa": "Altera a Portaria MME nº 46, de 31 de março de 2026.",
       "summary": null,
       "added_at": "2026-10-07T21:01:01.592280",
-      "notified_at": "2026-10-08T00:57:05.664243"
+      "summarized_at": null,
+      "notified_at": "2026-10-08T00:57:05.664243",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-942-2026": {
       "category": "portarias",
@@ -5107,8 +5121,9 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-942-2026.pdf",
       "date_modified": "06/10/2026",
       "ementa": "Fica divulgada, para Consulta Pública, a proposta referente à meta de redução de emissões de gases causadores do efeito estufa - GEE no mercado de gás natural, para o ano de 2027, a ser cumprida por meio da participação do biometano em seu consumo, em atendimento ao art. 17º da Lei nº 14.933, de 8 de outubro de 2024.",
-      "summary": null,
+      "summary": "Divulga proposta de meta de redução de emissões de GEE no mercado de gás natural para **2027**, com participação do biometano. Cumprimento em atendimento ao art. **17º** da **Lei nº 14.933/2024**.",
       "added_at": "2026-10-07T21:01:01.592280",
+      "summarized_at": "2026-10-08T02:43:04.873265",
       "notified_at": "2026-10-08T00:57:13.838637"
     }
   },
