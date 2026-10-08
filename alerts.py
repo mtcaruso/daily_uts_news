@@ -741,6 +741,130 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ---- DOU Seção 3: o aviso OFICIAL de abertura (a garantia) ----
+# Toda CP/TS da ANEEL sai como "AVISO DE CONSULTA PÚBLICA Nº 36/2026" / "AVISO DE
+# TOMADA DE SUBSÍDIOS Nº 29/2026" na Seção 3, no mesmo dia em que entra no site
+# de consultas (medido 10/08-08/10/2026: CPs 27-37 e TSs 20-39, todas lá). O
+# Actions lê o in.gov.br; filtrando por órgão, o dia inteiro da ANEEL cabe numa
+# resposta (máx. 19 atos/dia) — a paginação da busca do DOU não funciona.
+DOU_BUSCA = "https://www.in.gov.br/consulta/-/buscar/dou"
+_DOU_NUM = re.compile(r"(consulta\s+p[úu]blica|tomada\s+de\s+subs[íi]dios)\s+n[ºo°.]*\s*(\d{1,3})/(\d{4})", re.IGNORECASE)
+_DOU_ABERTURA = re.compile(r"^\s*aviso\s+de\s+(?:consulta\s+p[úu]blica|tomada\s+de\s+subs[íi]dios)\b", re.IGNORECASE)
+# "Período para envio: 1º/10/2026 a 30/10/2026" (dia 1 vem com ordinal)
+_DOU_PERIODO = re.compile(r"Per[íi]odo[^:]{0,40}:\s*(\d{1,2}º?/\d{1,2}/\d{4})\s*a\s*(\d{1,2}º?/\d{1,2}/\d{4})", re.IGNORECASE)
+
+
+def _dou_aneel_secao3(dia: str) -> list:
+    """Todos os atos da ANEEL na Seção 3 do dia ('dd-mm-aaaa')."""
+    r = requests.get(DOU_BUSCA, timeout=40, headers={"User-Agent": "Mozilla/5.0"}, params={
+        "q": "*", "s": "do3", "exactDate": "personalizado", "publishFrom": dia, "publishTo": dia, "delta": 50,
+        "orgPrin": "Ministério de Minas e Energia", "orgSub": "Agência Nacional de Energia Elétrica"})
+    r.raise_for_status()
+    m = re.search(r'_BuscaDouPortlet_params"[^>]*>\s*(\{.*?\})\s*</script>', r.text, re.S)
+    if not m:
+        raise ValueError("busca do DOU sem o JSON de resultados (layout mudou?)")
+    return json.loads(m.group(1)).get("jsonArray", [])
+
+
+def alert_aneel_dou(state: dict, dry: bool) -> int:
+    """Aviso de abertura de CP/TS e aviso de prorrogação, do DOU (hoje e o dia útil
+    anterior, o que cobre fim de semana e loop parado). Abertura de CP/TS já
+    avisada pela notícia ou pela listagem não repete, mas o prazo do DOU vira a
+    referência pra prorrogação. Várias TS no mesmo dia (lote de DEC/FEC) = 1
+    mensagem. State['aneel_dou'] = urlTitles já processados; sem state, semeia.
+    Aviso que gera alerta só vira "visto" depois de enviado."""
+    import dou_mme  # _fetch_full_dou: texto completo (tem o "Período para envio")
+
+    hoje = (datetime.now(timezone.utc) - timedelta(hours=3)).date()
+    anterior = hoje - timedelta(days={0: 3, 6: 2}.get(hoje.weekday(), 1))  # seg→sex, dom→sex
+    atos = []
+    for d in (anterior, hoje):
+        try:
+            atos += _dou_aneel_secao3(d.strftime("%d-%m-%Y"))
+        except Exception as e:
+            print(f"[aneel_dou] {d}: {e}", file=sys.stderr)
+            return 0  # sem o dia completo, não marca nada como visto
+    seed = not isinstance(state.get("aneel_dou"), list)
+    vistos = list(state.get("aneel_dou") or [])
+    partic = state.get("aneel_partic") if isinstance(state.get("aneel_partic"), dict) else {"avisados": [], "prazos": {}}
+    avisados, prazos = set(partic.get("avisados", [])), dict(partic.get("prazos", {}))
+
+    def visto(uid):
+        if uid not in vistos:
+            vistos.append(uid)
+
+    novos, prorrogs = [], []
+    for a in atos:
+        uid = a.get("urlTitle")
+        if not uid or uid in vistos:
+            continue
+        titulo = re.sub(r"<[^>]+>", "", a.get("title") or "").strip()
+        m = _DOU_NUM.search(f"{titulo} {re.sub(r'<[^>]+>', ' ', a.get('content') or '')}")
+        prorroga = bool(re.search(r"prorroga", f"{a.get('artType')} {titulo}", re.IGNORECASE))
+        if seed or not m or not (prorroga or _DOU_ABERTURA.match(titulo)):
+            visto(uid)  # retificação, extrato, resultado…
+            continue
+        tipo = "partic_cp" if m.group(1).lower().startswith("consulta") else "partic_ts"
+        link = f"https://www.in.gov.br/web/dou/-/{uid}"
+        completo, objeto = dou_mme._fetch_full_dou(link)
+        corpo = " ".join((objeto or completo or "").split())
+        p = _DOU_PERIODO.search(corpo) or _DOU_PERIODO.search(completo or "")
+        ini, fim = (_dmy(p.group(1).replace("º", "")), _dmy(p.group(2).replace("º", ""))) if p else (None, None)
+        item = {"uid": uid, "k": f"{tipo}_{int(m.group(2)):03d}_{m.group(3)}", "tipo": tipo,
+                "num": f"{int(m.group(2)):03d}/{m.group(3)}", "pub": a.get("pubDate"), "link": link,
+                "inicio": ini.strftime("%d/%m/%Y") if ini else None, "fim": fim.strftime("%d/%m/%Y") if fim else None,
+                "objeto": _DOU_PERIODO.sub("", corpo).replace("Modalidade:Intercâmbio de documentos.", "").strip(" .")}
+        if prorroga:
+            prorrogs.append(item)
+        elif item["k"] in avisados:  # notícia/listagem já avisou: só guarda o prazo oficial
+            if item["fim"]:
+                prazos.setdefault(item["k"], item["fim"])
+            visto(uid)
+        else:
+            novos.append(item)
+
+    msgs = []  # (itens, título, corpo, link)
+    for tipo in ("partic_cp", "partic_ts"):
+        grupo = sorted((i for i in novos if i["tipo"] == tipo), key=lambda i: i["k"])
+        rotulo = ANEEL_PARTIC_TIPOS[tipo]
+        if len(grupo) > 3:  # lote (ex.: 15 TS de DEC/FEC no mesmo dia)
+            plural = {"partic_cp": "Consultas Públicas", "partic_ts": "Tomadas de Subsídios"}[tipo]
+            linhas = "\n".join(f"• nº {i['num']}: {i['objeto'][:90]}" for i in grupo[:5])
+            fims = {i["fim"] for i in grupo if i["fim"]}
+            nums = ", ".join(i["num"].split("/")[0] for i in grupo)
+            msgs.append((grupo, f"🏛️ ANEEL · {len(grupo)} {plural} (DOU)",
+                         f"nºs {nums}/{grupo[0]['num'].split('/')[1]}\n{linhas}"
+                         + (f"\n…e mais {len(grupo) - 5}" if len(grupo) > 5 else "")
+                         + (f"\nContribuições até {next(iter(fims))}" if len(fims) == 1 else ""), grupo[0]["link"]))
+        else:
+            for i in grupo:
+                quando = f"\nContribuições: {i['inicio']} a {i['fim']}" if i["fim"] else ""
+                msgs.append(([i], f"🏛️ ANEEL · {rotulo} nº {i['num']}",
+                             f"{i['objeto'][:280]}{quando}\n(aviso no DOU de {i['pub']})", i["link"]))
+    for i in prorrogs:
+        antes = prazos.get(i["k"])
+        msgs.append(([i], f"⏳ ANEEL · {ANEEL_PARTIC_TIPOS[i['tipo']]} nº {i['num']} · prazo prorrogado",
+                     i["objeto"][:200] + (f"\nPrazo: {antes} → {i['fim']}" if antes and i["fim"] else "")
+                     + f"\n(aviso no DOU de {i['pub']})", i["link"]))
+
+    enviados = 0
+    for itens, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+        if dry or not notify.send(title, body, click=link, tags=["classical_building"]):
+            continue  # não marca como visto: tenta no próximo ciclo
+        for i in itens:
+            visto(i["uid"])
+            avisados.add(i["k"])
+            if i["fim"]:
+                prazos[i["k"]] = i["fim"]
+        enviados += 1
+
+    partic.update(avisados=sorted(avisados), prazos=prazos)
+    state["aneel_partic"] = partic
+    state["aneel_dou"] = vistos[-500:]
+    print(f"[aneel_dou] {len(atos)} atos ANEEL na Seção 3, {enviados} alertas" + (" (seed silencioso)" if seed else ""))
+    return enviados
+
+
 # Título fala de CP/TS (e não de audiência) → candidata. Sai a notícia de
 # encerramento/resultado ("ANEEL encerra Consulta Pública e aprova regras…").
 # Medido em 08/10/2026: 16 títulos de CP/TS (jan-out), 15 aberturas — muitas sem
@@ -862,6 +986,12 @@ def main():
         total += alert_aneel_partic(state, dry=False)
     except Exception as e:
         print(f"[aneel_partic] falhou: {e}", file=sys.stderr)
+    # Aviso oficial de CP/TS no DOU Seção 3 — a garantia, sem PC (a pedido, 08/10/2026).
+    # Antes da notícia: se as duas virem a mesma CP no ciclo, sai a versão com prazo.
+    try:
+        total += alert_aneel_dou(state, dry=False)
+    except Exception as e:
+        print(f"[aneel_dou] falhou: {e}", file=sys.stderr)
     # CP/TS ANEEL pelas notícias do gov.br, sem depender do PC (a pedido, 08/10/2026).
     # Depois da listagem: se as duas virem a mesma CP no ciclo, sai só o alerta com prazo.
     try:
