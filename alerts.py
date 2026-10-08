@@ -15,8 +15,9 @@ os.environ.setdefault("RESEND_API_KEY", "_unused_by_alerts")
 os.environ.setdefault("DIGEST_TO", "_unused_by_alerts")
 
 import json
+import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
@@ -298,6 +299,137 @@ def alert_mme_cp(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== ARSESP (saneamento / Sabesp) ==============
+# API REST do SharePoint do site (anônima). /Lists/ConsultasPublicas tem CPs E
+# APs; documentos ficam em listas separadas, ligadas pelo ID do item.
+ARSESP_API = "https://www.arsesp.sp.gov.br/_api/web/GetList('{lista}')/items"
+ARSESP_SITE = "https://www.arsesp.sp.gov.br/SitePages/Consultas-Audiencias-Publicas.aspx"
+ARSESP_DETALHE = "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?{param}={id}"
+# Só saneamento, sem item de outra concessionária nem de resíduos sólidos (a
+# pedido, 07/10/2026), a não ser que também cite a Sabesp. Denylist de propósito:
+# concessionária nova alerta em vez de sumir calada.
+_ARSESP_OUTRAS = re.compile(
+    r"brk|saneaqua|mairinque|gertrudes|\bsaeg\b|guaratinguet"
+    r"|res[ií]duos\s+s[oó]lidos|smrsu|limpeza\s+urbana",
+    re.IGNORECASE,
+)
+
+
+def _arsesp_get(lista: str, select: str, top: int, expand: str = None) -> list:
+    # Sem $select a lista de documentos dá HTTP 500 (campo URL "Documento" quebra).
+    params = {"$top": top, "$orderby": "ID desc", "$select": select}
+    if expand:
+        params["$expand"] = expand
+    r = requests.get(ARSESP_API.format(lista=lista), params=params, timeout=30,
+                     headers={"Accept": "application/json;odata=nometadata"})
+    r.raise_for_status()
+    return r.json()["value"]
+
+
+def _arsesp_no_escopo(it: dict) -> bool:
+    # Setor vem sujo: "Saneamento", "Saneamento Básico", "SANEAMENTO BÁSICO", "Sanemaneto Básico".
+    if not re.match(r"\s*san", it.get("Setor") or "", re.IGNORECASE):
+        return False
+    texto = " ".join([it.get("Descricao") or "",
+                      (it.get("Assunto") or {}).get("Title") or "",
+                      (it.get("RevisaoTarifaria") or {}).get("Title") or ""])
+    return "sabesp" in texto.lower() or not _ARSESP_OUTRAS.search(texto)
+
+
+def _brt(iso: str, hora: bool = False) -> str:
+    """'2026-09-28T21:00:00Z' (UTC) → '28/09/2026' (BRT)."""
+    try:
+        d = datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ") - timedelta(hours=3)
+    except (TypeError, ValueError):
+        return "?"
+    return d.strftime("%d/%m/%Y %Hh%M" if hora else "%d/%m/%Y")
+
+
+def alert_arsesp(state: dict, dry: bool) -> int:
+    """CP/AP nova de saneamento e documentos novos (deliberação, nota técnica,
+    contribuições…) agrupados por CP/AP. Sem alerta de prazo (escolha do user).
+
+    State['arsesp'] = marcas d'água por ID (as 3 listas têm ID crescente) +
+    IDs já alertados. Item é reavaliado enquanto está na janela: um que nasce
+    sem setor e é editado pra Saneamento depois ainda alerta. Sem state → só
+    semeia, em silêncio."""
+    try:
+        itens = _arsesp_get(
+            "/Lists/ConsultasPublicas",
+            "ID,TipoItem,Setor,Numero,DataDeAbertura,DataDeEncerramento,Descricao,"
+            "IdConsultasPublicas,IdAudiencia,Assunto/Title,RevisaoTarifaria/Title",
+            60, expand="Assunto,RevisaoTarifaria")
+        docs = [(d["ID"], d.get("ConsultasPublicasId"), d.get("Title"), "doc_cp")
+                for d in _arsesp_get("/Lists/ConsultasPublicasDocumentos", "ID,Title,ConsultasPublicasId", 100)]
+        docs += [(d["ID"], d.get("idAudienciasId"), d.get("Titulo"), "doc_ap")
+                 for d in _arsesp_get("/Lists/bdAudienciasPublicasDocumentos", "ID,Titulo,idAudienciasId", 100)]
+    except Exception as e:
+        print(f"[arsesp] erro: {e}", file=sys.stderr)
+        return 0
+
+    topo = {"item": max((it["ID"] for it in itens), default=0)}
+    for lista in ("doc_cp", "doc_ap"):
+        topo[lista] = max((i for i, _, _, l in docs if l == lista), default=0)
+    st = state.get("arsesp")
+    if not isinstance(st, dict) or not st:
+        state["arsesp"] = {"item_seed": topo["item"], "alertados": [], "doc_cp": topo["doc_cp"], "doc_ap": topo["doc_ap"]}
+        print(f"[arsesp] {len(itens)} itens lidos — seed silencioso")
+        return 0
+
+    por_id = {it["ID"]: it for it in itens}
+    alertados = set(st.get("alertados", []))
+
+    def _rotulo(it):
+        return f"{it.get('TipoItem') or 'Consulta Pública'} nº {it.get('Numero')}"
+
+    def _link(it):
+        if it.get("IdConsultasPublicas"):
+            return ARSESP_DETALHE.format(param="idItemC", id=int(it["IdConsultasPublicas"]))
+        if it.get("IdAudiencia"):
+            return ARSESP_DETALHE.format(param="idItemA", id=int(it["IdAudiencia"]))
+        return ARSESP_SITE
+
+    def _assunto(it, limit):
+        s = " ".join((it.get("Descricao") or (it.get("Assunto") or {}).get("Title") or "").split())
+        return s if len(s) <= limit else s[:limit - 1].rstrip() + "…"
+
+    msgs, novos = [], set()
+    for it in reversed(itens):  # mais antigo primeiro
+        if it["ID"] <= st["item_seed"] or it["ID"] in alertados or not _arsesp_no_escopo(it):
+            continue
+        novos.add(it["ID"])
+        alertados.add(it["ID"])
+        if "Audi" in (it.get("TipoItem") or ""):
+            quando = f"Audiência em {_brt(it.get('DataDeAbertura'), hora=True)}"
+        else:
+            quando = f"Contribuições: {_brt(it.get('DataDeAbertura'))} a {_brt(it.get('DataDeEncerramento'))}"
+        msgs.append((f"💧 ARSESP · {_rotulo(it)}", f"{_assunto(it, 300)}\n{quando}", _link(it)))
+
+    grupos = {}
+    for doc_id, pai, titulo, lista in sorted(docs):
+        if doc_id > st.get(lista, 0):
+            grupos.setdefault(pai, []).append((titulo or "(sem título)").strip())
+    for pai, titulos in grupos.items():
+        it = por_id.get(pai)
+        # Doc de CP/AP nova nesta run já vem coberto pelo alerta de "nova".
+        if not it or pai in novos or not _arsesp_no_escopo(it):
+            continue
+        n = len(titulos)
+        lista = "\n".join(f"• {t[:100]}" for t in titulos[:6]) + (f"\n…e mais {n - 6}" if n > 6 else "")
+        msgs.append((f"📎 ARSESP · {_rotulo(it)} · {n} documento{'s' if n > 1 else ''} novo{'s' if n > 1 else ''}",
+                     f"{_assunto(it, 120)}\n{lista}", _link(it)))
+
+    if not dry:
+        for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=link, tags=["droplet"])
+
+    state["arsesp"] = {"item_seed": st["item_seed"], "alertados": sorted(alertados),
+                       "doc_cp": max(st.get("doc_cp", 0), topo["doc_cp"]),
+                       "doc_ap": max(st.get("doc_ap", 0), topo["doc_ap"])}
+    print(f"[arsesp] {len(itens)} itens, {len(docs)} docs lidos, {len(msgs)} alertas")
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -318,6 +450,11 @@ def main():
         total += alert_mme_cp(state, dry=False)
     except Exception as e:
         print(f"[mme_cp] falhou: {e}", file=sys.stderr)
+    # ARSESP saneamento/Sabesp (a pedido, 07/10/2026). Mesmo motivo do try acima.
+    try:
+        total += alert_arsesp(state, dry=False)
+    except Exception as e:
+        print(f"[arsesp] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 
