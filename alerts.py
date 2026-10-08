@@ -734,9 +734,13 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
             if fim:
                 prazos[k] = fim
 
-    # item que saiu do histórico (retenção de 180 dias) sai do state
-    state["aneel_partic"] = {"avisados": sorted(a for a in avisados if a in itens),
-                             "prazos": {k: v for k, v in prazos.items() if k in itens}}
+    # Guarda os avisados de QUALQUER origem: a notícia e o DOU avisam CP que o PC
+    # ainda nem coletou. Podar pelo histórico do PC apagava esses avisos e a
+    # listagem realertaria quando o PC coletasse (bug de 08/10/2026). Só sai o
+    # que é de ano anterior ao passado (o id termina no ano: partic_cp_036_2026).
+    ano_min = str(datetime.now().year - 1)
+    state["aneel_partic"] = {"avisados": sorted(a for a in avisados if a[-4:] >= ano_min),
+                             "prazos": {k: v for k, v in prazos.items() if k[-4:] >= ano_min}}
     print(f"[aneel_partic] {len(msgs)} alertas")
     return len(msgs)
 
