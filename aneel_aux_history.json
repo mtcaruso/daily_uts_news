@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T23:19:49.699248",
+  "last_updated": "2026-10-08T19:34:52.241410",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1552,40 +1552,41 @@
       "title": "ANEEL realiza audiência pública para debater revisão tarifária da CEEE-D em Porto Alegre (RS)",
       "date": "08/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realiza-audiencia-publica-para-debater-revisao-tarifaria-da-ceee-d-em-porto-alegre-rs",
-      "summary": "A **ANEEL** realizou audiência pública para debater a revisão tarifária da **CEEE-D**, com proposta de aumento médio de **22,31%** para consumidores cativos no Rio Grande do Sul. O índice final será deliberado em novembro, com entrada em vigor em **22/11**.",
-      "added_at": "2026-10-08T23:17:23.191804"
+      "summary": null,
+      "added_at": "2026-10-08T19:32:20.357044",
+      "error": "summarize_failed"
     },
     "noticia_2026_audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs": {
       "type": "noticia",
       "title": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "date": "07/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs",
-      "summary": "A **ANEEL** realizará Audiência Pública em 8/10 para discutir a revisão tarifária da **CEEE-D**, com propostas de aumento médio de **22,31%** para cerca de **2,03 milhões** de consumidores no RS, a partir de 22/11/2026.",
-      "added_at": "2026-10-08T23:17:28.227012"
+      "summary": "A **ANEEL** realizará Audiência Pública para discutir a revisão tarifária da **CEEE-D**, que atende 2,03 milhões de consumidores no RS. As tarifas propostas, com efeito médio de **22,31%**, entram em vigor em **22 de novembro de 2026**.",
+      "added_at": "2026-10-08T19:32:25.654044"
     },
     "noticia_2026_custeio-de-sistemas-de-armazenamento-de-energia-em-baterias-entra-em-consulta": {
       "type": "noticia",
       "title": "Custeio de sistemas de armazenamento de energia em baterias entra em consulta",
       "date": "07/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/custeio-de-sistemas-de-armazenamento-de-energia-em-baterias-entra-em-consulta",
-      "summary": "A **ANEEL** abriu consulta pública (nº 37/2026, de **08/10 a 06/11/2026**) sobre o custeio de sistemas de armazenamento de energia em baterias (Ercap-SAE). A proposta visa definir a base de cálculo e rateio do encargo entre agentes da **CCEE**, excluindo micro e minigeração.",
-      "added_at": "2026-10-08T23:17:33.524227"
+      "summary": "A **ANEEL** abriu consulta pública (nº 37/2026) sobre a base de custeio e rateio do **Ercap-SAE** para sistemas de armazenamento em baterias. A proposta, com duração de **30 dias (08/10 a 06/11/2026)**, visa garantir a sustentabilidade desses projetos, essenciais para a expansão de renováveis.",
+      "added_at": "2026-10-08T19:32:30.994151"
     },
     "noticia_2026_aneel-aprova-regras-para-cadastro-de-agentes-e-representantes-nos-procedimentos-de-rede": {
       "type": "noticia",
       "title": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede",
       "date": "07/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regras-para-cadastro-de-agentes-e-representantes-nos-procedimentos-de-rede",
-      "summary": "A **ANEEL** aprovou novas regras para o cadastro de agentes e representantes no portal do **ONS (SINtegre)**, visando maior segurança e transparência. As novas regras entram em vigor em **1º de janeiro de 2027**.",
-      "added_at": "2026-10-08T23:17:38.537577"
+      "summary": "A **ANEEL** aprovou novas regras para o cadastro de agentes e representantes no portal do **ONS (Sintegre)**, visando maior segurança e transparência. As novas regras entram em vigor em **1º de janeiro de 2027**, após consulta pública com 21 participantes.",
+      "added_at": "2026-10-08T19:32:36.410739"
     },
     "noticia_2026_agencia-aprova-edital-dos-leiloes-de-energia-existente-a-1-a-2-e-a-3": {
       "type": "noticia",
       "title": "Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3",
       "date": "06/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-aprova-edital-dos-leiloes-de-energia-existente-a-1-a-2-e-a-3",
-      "summary": "A **ANEEL** aprovou o edital dos Leilões de Energia Existente A-1, A-2 e A-3, com sessão pública em **13 de novembro de 2026**. Os leilões preveem preços teto de **R$ 290,00/MWh (A-1)**, **R$ 270,00/MWh (A-2)** e **R$ 245,00/MWh (A-3)**, com início de suprimento em janeiro de 2027, 2028 e 2029, respectivamente.",
-      "added_at": "2026-10-08T23:17:43.681237"
+      "summary": "A **ANEEL** aprovou o edital dos Leilões de Energia Existente A-1, A-2 e A-3, com início de suprimento em **janeiro de 2027**, **2028** e **2029**, respectivamente. Os preços teto definidos pelo **MME** são de **R$ 290,00/MWh** (A-1), **R$ 270,00/MWh** (A-2) e **R$ 245,00/MWh** (A-3).",
+      "added_at": "2026-10-08T19:32:41.628262"
     },
     "noticia_2026_agencia-reduz-quotas-de-custeio-do-proinfa-para-o-ano-de-2026": {
       "type": "noticia",
@@ -1593,47 +1594,47 @@
       "date": "06/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-reduz-quotas-de-custeio-do-proinfa-para-o-ano-de-2026",
       "summary": "A **ANEEL** reduziu as quotas de custeio do **Proinfa** para 2026 em **R$ 804,06 milhões**, dispensando as concessionárias de distribuição do recolhimento em novembro e dezembro. A decisão impacta os processos tarifários das distribuidoras ainda não homologados em 2026.",
-      "added_at": "2026-10-08T23:17:48.709331"
+      "added_at": "2026-10-08T19:32:46.850112"
     },
     "noticia_2026_aneel-aprova-regra-para-organizar-cortes-de-geracao": {
       "type": "noticia",
       "title": "ANEEL aprova regra para organizar cortes de geração",
       "date": "06/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regra-para-organizar-cortes-de-geracao",
-      "summary": "A **ANEEL** aprovou nova regra para cortes obrigatórios de geração, definindo a ordem e priorizando alívio de custos. A participação hidráulica será escalonada em **quatro anos**, com aplicação definitiva da regra em **18 meses** após publicação.",
-      "added_at": "2026-10-08T23:17:53.752300"
+      "summary": "A **ANEEL** aprovou nova regra para cortes obrigatórios de geração (curtailment), definindo a ordem e priorizando alívio de custos. A participação da geração hidráulica com EVT será escalonada em **quatro anos**, com aplicação definitiva da regra **18 meses** após publicação.",
+      "added_at": "2026-10-08T19:32:52.073345"
     },
     "noticia_2026_aneel-abre-consulta-publica-para-aprimorar-regras-em-funcao-da-implantacao-de-politica-nacional-de-acesso-ao-sistema-de-transmissao": {
       "type": "noticia",
       "title": "ANEEL abre Consulta Pública para aprimorar regras em função da implantação de Política Nacional de Acesso ao Sistema de Transmissão",
       "date": "06/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-aprimorar-regras-em-funcao-da-implantacao-de-politica-nacional-de-acesso-ao-sistema-de-transmissao",
-      "summary": "A **ANEEL** abriu Consulta Pública (nº 36/2026) para aprimorar regras de acesso ao sistema de transmissão, em decorrência da Política Nacional de Acesso ao Sistema de Transmissão (PNAST). As contribuições podem ser enviadas de **8 de outubro a 22 de novembro de 2026**.",
-      "added_at": "2026-10-08T23:17:58.673611"
+      "summary": "A **ANEEL** abriu Consulta Pública (**nº 36/2026**) para aprimorar regras de acesso ao sistema de transmissão, em função da nova Política Nacional de Acesso ao Sistema de Transmissão (PNAST). As contribuições podem ser enviadas de **8 de outubro a 22 de novembro de 2026**.",
+      "added_at": "2026-10-08T19:32:57.295476"
     },
     "noticia_2026_aneel-abre-tomadas-de-subsidios-sobre-limites-de-dec-e-fec-de-14-distribuidoras": {
       "type": "noticia",
       "title": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
       "date": "02/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-tomadas-de-subsidios-sobre-limites-de-dec-e-fec-de-14-distribuidoras",
-      "summary": "A **ANEEL** abriu Tomadas de Subsídios para definir limites de continuidade (DEC e FEC) para **14 distribuidoras**, incluindo **CEEE Equatorial**, **CPFL Santa Cruz**, **Celesc**, **Energisa Sul Sudeste**, **Neoenergia Brasília**, **Copel**, entre outras. As contribuições podem ser enviadas até **30 de outubro**, para o período de **2027 a 2031**.",
-      "added_at": "2026-10-08T23:18:03.846284"
+      "summary": "A **ANEEL** abriu Tomadas de Subsídios para definir limites de continuidade (DEC e FEC) para **14 distribuidoras**, incluindo **CEEE Equatorial** e **Neoenergia Brasília**. As contribuições podem ser enviadas até **30 de outubro**, visando o período de **2027 a 2031**.",
+      "added_at": "2026-10-08T19:33:02.518039"
     },
     "noticia_2026_tomada-de-subsidios-aberta-para-aprimoramento-da-estrutura-de-dados-da-bdgd": {
       "type": "noticia",
       "title": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
       "date": "01/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/tomada-de-subsidios-aberta-para-aprimoramento-da-estrutura-de-dados-da-bdgd",
-      "summary": "A **ANEEL** abriu Tomada de Subsídios para aprimorar a estrutura de dados da BDGD, envolvendo as distribuidoras. Contribuições podem ser enviadas de **1º a 30 de outubro**.",
-      "added_at": "2026-10-08T23:18:08.832463"
+      "summary": "A **ANEEL** abriu Tomada de Subsídios para aprimorar a estrutura de dados da **BDGD**, com contribuições aceitas de **1º a 30 de outubro**. O objetivo é adequar a base de dados aos manuais do **MCPSE** e da **SFF**.",
+      "added_at": "2026-10-08T19:33:07.646393"
     },
     "noticia_2026_aneel-ons-e-epe-divulgam-nota-tecnica-sobre-capacidade-para-conexao-de-sistemas-de-armazenamento-nos-leiloes-de-reserva-de-capacidade-2026": {
       "type": "noticia",
       "title": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026",
       "date": "30/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-ons-e-epe-divulgam-nota-tecnica-sobre-capacidade-para-conexao-de-sistemas-de-armazenamento-nos-leiloes-de-reserva-de-capacidade-2026",
-      "summary": "A **ANEEL**, **ONS** e **EPE** divulgaram nota técnica definindo a capacidade remanescente para conexão de sistemas de armazenamento de energia nos Leilões de Reserva de Capacidade de 2026. O documento, publicado em **30/09**, detalha os quantitativos para o Sistema Interligado Nacional (SIN).",
-      "added_at": "2026-10-08T23:18:13.909847"
+      "summary": "A **ANEEL**, **ONS** e **EPE** divulgaram nota técnica definindo a capacidade remanescente do SIN para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade de 2026. O documento, publicado em **30/09**, detalha os quantitativos para conexões diretas e indiretas.",
+      "added_at": "2026-10-08T19:33:12.918750"
     },
     "noticia_2026_aneel-firma-acordo-para-formar-agentes-comunitarios-de-energia-na-amazonia-legal": {
       "type": "noticia",
@@ -1641,111 +1642,111 @@
       "date": "30/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-firma-acordo-para-formar-agentes-comunitarios-de-energia-na-amazonia-legal",
       "summary": "A **ANEEL**, em parceria com o **ICPF** e o **Senai-RN**, firmou um acordo para capacitar e certificar Agentes Comunitários de Energia em comunidades da Amazônia Legal. O objetivo é fortalecer a autonomia local na gestão de sistemas energéticos, visando combater a pobreza energética e promover uma transição justa.",
-      "added_at": "2026-10-08T23:18:18.957186"
+      "added_at": "2026-10-08T19:33:18.051043"
     },
     "noticia_2026_consulta-publica-propoe-metodologia-para-amortizacoes-de-investimentos-em-geracao": {
       "type": "noticia",
       "title": "Consulta pública propõe metodologia para amortizações de investimentos em geração",
       "date": "29/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-propoe-metodologia-para-amortizacoes-de-investimentos-em-geracao",
-      "summary": "A **ANEEL** abriu consulta pública (**CP 035/2026**) para definir metodologia de amortização de investimentos em geração, baseada em Fluxo de Caixa Descontado. A proposta visa estender prazos de outorgas de usinas hidrelétricas com acréscimo de capacidade, com contribuições aceitas de **1 a 30 de outubro**.",
-      "added_at": "2026-10-08T23:18:24.097181"
+      "summary": "A **ANEEL** abriu consulta pública para definir metodologia de amortização de investimentos em geração, baseada em Fluxo de Caixa Descontado. A proposta visa estender prazos de outorgas de usinas hidrelétricas que aumentaram capacidade, com contribuições aceitas de **1 a 30 de outubro**.",
+      "added_at": "2026-10-08T19:33:23.233770"
     },
     "noticia_2026_aneel-nega-recurso-da-enel-sp-contra-decisao-que-indeferiu-pericia-tecnica-relacionada-aos-eventos-climaticos-extremos": {
       "type": "noticia",
       "title": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
       "date": "29/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-recurso-da-enel-sp-contra-decisao-que-indeferiu-pericia-tecnica-relacionada-aos-eventos-climaticos-extremos",
-      "summary": "A **ANEEL** negou recurso da **Enel SP** contra indeferimento de perícia técnica sobre eventos climáticos extremos. A Agência considerou a perícia desnecessária, pois a **Enel SP** não apresentou fatos novos ou a necessidade de conhecimento especializado.",
-      "added_at": "2026-10-08T23:18:29.076765"
+      "summary": "A **ANEEL** negou recurso da **Enel SP** contra o indeferimento de perícia técnica sobre eventos climáticos extremos. A Agência considerou a perícia desnecessária, pois a **Enel SP** não apresentou fatos relevantes não esclarecidos ou dependentes de conhecimento especializado.",
+      "added_at": "2026-10-08T19:33:28.317051"
     },
     "noticia_2026_eleicoes-2026-aneel-determina-planos-especiais-de-atendimento-para-garantir-energia-durante-o-periodo": {
       "type": "noticia",
       "title": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período",
       "date": "29/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/eleicoes-2026-aneel-determina-planos-especiais-de-atendimento-para-garantir-energia-durante-o-periodo",
-      "summary": "A **ANEEL** determinou que **geradoras, transmissoras e distribuidoras** implementem planos especiais de atendimento para garantir o fornecimento de energia durante as Eleições Gerais de 2026, nos dias **4 e 25 de outubro**. As medidas incluem a suspensão de intervenções não emergenciais e o reforço de equipes, com atenção especial a locais de votação e órgãos eleitorais.",
-      "added_at": "2026-10-08T23:18:34.143377"
+      "summary": "A **ANEEL** determinou que **geradoras, transmissoras e distribuidoras** criem planos especiais de atendimento para garantir energia durante as Eleições Gerais de 2026, nos dias **4 e 25 de outubro**. As medidas incluem suspensão de intervenções não emergenciais e reforço de equipes, com atenção especial a locais de votação e órgãos eleitorais.",
+      "added_at": "2026-10-08T19:33:33.547030"
     },
     "noticia_2026_outubro-tera-bandeira-verde-contas-de-luz-sem-custo-extra": {
       "type": "noticia",
       "title": "Outubro terá bandeira verde: contas de luz sem custo extra",
       "date": "25/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/outubro-tera-bandeira-verde-contas-de-luz-sem-custo-extra",
-      "summary": "A **ANEEL** anunciou a bandeira verde para **outubro**, sem custo extra nas contas de luz. Isso se deve ao aumento das chuvas no **Sul e Sudeste**, reduzindo a necessidade de usinas termelétricas mais caras.",
-      "added_at": "2026-10-08T23:18:39.092702"
+      "summary": "A **ANEEL** anunciou a **bandeira verde** para **outubro**, sem custo extra nas contas de luz. Isso se deve ao aumento das chuvas no Sul e Sudeste, reduzindo a necessidade de usinas termelétricas mais caras.",
+      "added_at": "2026-10-08T19:33:38.666052"
     },
     "noticia_2026_portaria-que-inclui-a-aneel-no-sistema-brasileiro-de-inteligencia-e-publicada": {
       "type": "noticia",
       "title": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "date": "22/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/portaria-que-inclui-a-aneel-no-sistema-brasileiro-de-inteligencia-e-publicada",
-      "summary": "A **ANEEL** foi incluída no Sistema Brasileiro de Inteligência (Sisbin) como órgão associado, formalizada por portaria publicada em **18 de agosto**. A participação visa reforçar a proteção de infraestruturas críticas do setor elétrico, essencial para a segurança nacional.",
-      "added_at": "2026-10-08T23:18:44.076983"
+      "summary": "A **ANEEL** foi incluída no Sistema Brasileiro de Inteligência (Sisbin) como órgão associado, formalizada por portaria publicada em **18 de agosto**. A medida visa fortalecer a proteção de infraestruturas críticas do setor elétrico, essencial para a segurança nacional.",
+      "added_at": "2026-10-08T19:33:43.887738"
     },
     "noticia_2026_agencia-adia-aprovacao-da-representacao-do-programa-de-resposta-da-demanda": {
       "type": "noticia",
       "title": "Agência adia aprovação da representação do programa de Resposta da Demanda",
       "date": "22/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-adia-aprovacao-da-representacao-do-programa-de-resposta-da-demanda",
-      "summary": "A **ANEEL** adiou a aprovação do Programa de Resposta da Demanda, dando **90 dias** ao **ONS** e **CCEE** para aperfeiçoar a divulgação e transparência do programa. A decisão visa ampliar o acompanhamento dos resultados e benefícios do programa, que incentiva a redução voluntária do consumo de energia por grandes consumidores.",
-      "added_at": "2026-10-08T23:18:49.045775"
+      "summary": "A **ANEEL** adiou a aprovação do Programa de Resposta da Demanda, dando **90 dias** ao **ONS** e à **CCEE** para aperfeiçoar a divulgação e transparência do programa. A decisão visa ampliar informações e permitir o acompanhamento dos resultados e benefícios.",
+      "added_at": "2026-10-08T19:33:49.110075"
     },
     "noticia_2026_leilao-de-transmissao-e-confirmado-para-30-de-outubro-com-previsao-de-r-8-9-bilhoes-em-investimentos": {
       "type": "noticia",
       "title": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "date": "22/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/leilao-de-transmissao-e-confirmado-para-30-de-outubro-com-previsao-de-r-8-9-bilhoes-em-investimentos",
-      "summary": "A **ANEEL** confirmou o Leilão de Transmissão nº 4/2026 para **30 de outubro**, com **R$ 8,9 bilhões** em investimentos. O leilão ofertará oito lotes em sete estados, visando a construção de 1.866 km de novas linhas e 12.694 MVA em transformação.",
-      "added_at": "2026-10-08T23:18:54.135228"
+      "summary": "A **ANEEL** confirmou o Leilão de Transmissão nº 4/2026 para **30 de outubro**, com previsão de **R$ 8,9 bilhões** em investimentos. O leilão ofertará oito lotes em sete estados, visando a construção de novas linhas e subestações, com prazos de conclusão entre 42 e 60 meses.",
+      "added_at": "2026-10-08T19:33:54.248924"
     },
     "noticia_2026_aneel-aprova-alteracoes-nas-regras-de-comercializacao-para-usinas-termeletricas": {
       "type": "noticia",
       "title": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "date": "22/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-alteracoes-nas-regras-de-comercializacao-para-usinas-termeletricas",
-      "summary": "A **ANEEL** aprovou alterações nas Regras de Comercialização para usinas termelétricas, definindo critérios para o Custo Variável Unitário (CVU). A **CCEE** será responsável pela operacionalização e acompanhamento, com o objetivo de substituir a atual solução provisória por uma permanente.",
-      "added_at": "2026-10-08T23:18:59.123385"
+      "summary": "A **ANEEL** aprovou alterações nas Regras de Comercialização para usinas termelétricas, definindo critérios para o Custo Variável Unitário (CVU). A **CCEE** será responsável pela operacionalização e acompanhamento, com o objetivo de substituir a solução provisória por uma permanente.",
+      "added_at": "2026-10-08T19:33:59.444642"
     },
     "noticia_2026_aneel-divulga-terceira-edicao-de-2026-do-boletim-infotarifas": {
       "type": "noticia",
       "title": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "date": "18/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-divulga-terceira-edicao-de-2026-do-boletim-infotarifas",
-      "summary": "A **ANEEL** divulgou o boletim InfoTarifas 2026, com um efeito tarifário médio de **9,4%** para este ano. A decisão inclui o repasse de **R$ 5,5 bilhões** às distribuidoras da **Sudam** e **Sudene**, beneficiando **22 concessionárias**.",
-      "added_at": "2026-10-08T23:19:04.101695"
+      "summary": "A **ANEEL** divulgou o boletim InfoTarifas 2026, com efeito médio tarifário de **9,4%** para o ano. A decisão inclui o repasse de **R$ 5,5 bilhões** às distribuidoras da **Sudam** e **Sudene**, visando modicidade tarifária.",
+      "added_at": "2026-10-08T19:34:04.561260"
     },
     "noticia_2026_aneel-abre-consulta-publica-para-aprimorar-classificacao-operacional-de-usinas-do-sin": {
       "type": "noticia",
       "title": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "date": "15/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-aprimorar-classificacao-operacional-de-usinas-do-sin",
-      "summary": "A **ANEEL** abriu consulta pública para aprimorar a classificação operacional de usinas do **SIN**, considerando novas modalidades e avaliações conjuntas. As contribuições podem ser enviadas de **17 de setembro a 2 de novembro**.",
-      "added_at": "2026-10-08T23:19:09.049449"
+      "summary": "A **ANEEL** abriu consulta pública até **2 de novembro** para aprimorar a classificação operacional de usinas do **SIN**, incluindo a avaliação conjunta de empreendimentos. O objetivo é adaptar os critérios às transformações do setor, como o crescimento da geração renovável.",
+      "added_at": "2026-10-08T19:34:09.700986"
     },
     "noticia_2026_aprovadas-as-novas-tarifas-da-equatorial-para": {
       "type": "noticia",
       "title": "Aprovadas as novas tarifas da Equatorial Pará",
       "date": "15/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-as-novas-tarifas-da-equatorial-para",
-      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **Equatorial Pará**, com aumento médio de **6,94%** para seus 3,12 milhões de consumidores em 228 municípios do Pará. O novo valor entra em vigor após publicação no Diário Oficial.",
-      "added_at": "2026-10-08T23:19:14.008814"
+      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **Equatorial Pará**, com efeito médio de **6,94%** para os consumidores. O novo valor, impactado por custos de aquisição de energia e encargos, será aplicado a partir da publicação no Diário Oficial da União.",
+      "added_at": "2026-10-08T19:34:14.843789"
     },
     "noticia_2026_experimento-energias-da-floresta-busca-levar-energia-a-populacoes-isoladas": {
       "type": "noticia",
       "title": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "date": "15/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/experimento-energias-da-floresta-busca-levar-energia-a-populacoes-isoladas",
-      "summary": "A **ANEEL** aprovou as regras do Sandbox Regulatório Energias da Floresta para testar o fornecimento de energia a populações isoladas na Amazônia Legal. A iniciativa, com parceiros como **IEMA** e **BID**, visa universalizar o acesso à energia, com foco em comunidades indígenas e quilombolas.",
-      "added_at": "2026-10-08T23:19:19.063306"
+      "summary": "A **ANEEL** aprovou as regras para o **Sandbox Regulatório Energias da Floresta**, um ambiente temporário para testar projetos de energia elétrica em populações isoladas na Amazônia Legal. A iniciativa, que visa a universalização do acesso à energia, permitirá a participação de comunidades tradicionais e agricultores familiares, com apoio de parceiros como **IEMA** e **BID**.",
+      "added_at": "2026-10-08T19:34:20.139364"
     },
     "noticia_2026_expansao-da-matriz-eletrica-em-agosto-e-de-quase-2-gw": {
       "type": "noticia",
       "title": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "date": "11/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/expansao-da-matriz-eletrica-em-agosto-e-de-quase-2-gw",
-      "summary": "A **ANEEL** anunciou a expansão da matriz elétrica brasileira em **quase 2 GW** em agosto, com destaque para **usinas solares fotovoltaicas**. A expansão total no ano até agosto foi de **4.852,78 MW**, com **Mato Grosso do Sul** liderando em novos empreendimentos.",
-      "added_at": "2026-10-08T23:19:24.056478"
+      "summary": "A **ANEEL** anunciou a expansão da matriz elétrica brasileira em **1.968,37 MW** em agosto, com a entrada de 20 novas usinas, principalmente solares. A expansão acumulada no ano até 31 de agosto foi de **4.852,78 MW**, com destaque para usinas em **Mato Grosso do Sul**, **Pará** e **Rio Grande do Norte**.",
+      "added_at": "2026-10-08T19:34:25.282753"
     },
     "noticia_2026_aneel-aprova-transferencia-de-controle-indireto-de-26-concessionarias-de-transmissao": {
       "type": "noticia",
@@ -1753,39 +1754,39 @@
       "date": "11/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-transferencia-de-controle-indireto-de-26-concessionarias-de-transmissao",
       "summary": "A **ANEEL** aprovou a transferência do controle indireto de **26 concessionárias de transmissão** de energia elétrica. O controle passará a ser conjunto da **Caisse De Dépot Et Placement Du Québec** e do **Grupo Energía Bogotá**. A implementação tem prazo de até **120 dias**.",
-      "added_at": "2026-10-08T23:19:29.013812"
+      "added_at": "2026-10-08T19:34:30.477113"
     },
     "noticia_2026_aneel-assina-novos-contratos-de-geracao-e-transmissao-de-energia-eletrica": {
       "type": "noticia",
       "title": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "date": "10/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-assina-novos-contratos-de-geracao-e-transmissao-de-energia-eletrica",
-      "summary": "A **ANEEL** assinou contratos de geração e transmissão de energia elétrica, resultantes de leilões realizados em **2026**. Os contratos garantem **2,5 GW** de potência para o SIN e estabelecem investimentos de **R$ 1,75 bilhão** em quatro lotes de transmissão nos estados de **Mato Grosso, Mato Grosso do Sul e São Paulo**.",
-      "added_at": "2026-10-08T23:19:34.162895"
+      "summary": "A **ANEEL** assinou contratos de geração e transmissão de energia elétrica resultantes de leilões de 2026. Foram contratados **2,5 GW** de potência em hidrelétricas e **quatro lotes de transmissão** em MT, MS e SP, com investimentos de **R$ 1,75 bilhão**.",
+      "added_at": "2026-10-08T19:34:35.573806"
     },
     "noticia_2026_aneel-realiza-cerimonia-para-assinatura-de-contratos-de-geracao-e-transmissao-de-energia": {
       "type": "noticia",
       "title": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "date": "09/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realiza-cerimonia-para-assinatura-de-contratos-de-geracao-e-transmissao-de-energia",
-      "summary": "A **ANEEL** assinou contratos de geração e transmissão de energia decorrentes de leilões. Foram negociados 2,5 GW de potência para o SIN e quatro lotes de transmissão em MT, MS e SP, com investimentos de **R$ 1,75 bilhão**.",
-      "added_at": "2026-10-08T23:19:39.115497"
+      "summary": "A **ANEEL** assinou contratos de geração e transmissão de energia, decorrentes do Leilão de Reserva de Capacidade e do Leilão de Transmissão. Os contratos envolvem a expansão de usinas hidrelétricas (2,5 GW) e quatro lotes de transmissão em **Mato Grosso, Mato Grosso do Sul e São Paulo**, com investimentos de **R$ 1,75 bilhão**.",
+      "added_at": "2026-10-08T19:34:40.711845"
     },
     "noticia_2026_aneel-aprova-primeira-revisao-da-agenda-regulatoria-para-o-bienio-2026-2027": {
       "type": "noticia",
       "title": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "date": "09/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-primeira-revisao-da-agenda-regulatoria-para-o-bienio-2026-2027",
-      "summary": "A **ANEEL** revisou sua Agenda Regulatória para **2026-2027**, reduzindo o total de atividades de 59 para **54**. A revisão, aprovada em 8/9, prioriza entregas e ajusta prazos, com **21 atividades** previstas para 2026 e **31 para 2027**.",
-      "added_at": "2026-10-08T23:19:44.102348"
+      "summary": "A **ANEEL** revisou sua Agenda Regulatória para **2026-2027**, reduzindo o total de atividades de 59 para 54. A revisão, que envolveu **remanejamento, inclusão e exclusão de atividades**, visa otimizar recursos e priorizar entregas no setor elétrico.",
+      "added_at": "2026-10-08T19:34:45.913511"
     },
     "noticia_2026_aneel-propoe-novas-regras-para-preparar-a-rede-eletrica-para-geracao-solar-baterias-e-veiculos-eletricos": {
       "type": "noticia",
       "title": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
       "date": "08/09/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-propoe-novas-regras-para-preparar-a-rede-eletrica-para-geracao-solar-baterias-e-veiculos-eletricos",
-      "summary": "A **ANEEL** propôs novas regras para a conexão de geração solar, baterias e veículos elétricos, visando modernizar a rede elétrica. A **Consulta Pública 033/2026**, aberta por **60 dias** (de **10 de setembro a 9 de novembro de 2026**), envolve consumidores, distribuidoras e especialistas, com foco em observabilidade e controle dos Recursos Energéticos Distribuídos.",
-      "added_at": "2026-10-08T23:19:49.199007"
+      "summary": "A **ANEEL** propôs novas regras para a conexão de geração solar, baterias e veículos elétricos, visando modernizar a rede elétrica. A **Consulta Pública 033/2026** ficará aberta por **60 dias**, de **10 de setembro a 9 de novembro de 2026**, para receber contribuições de consumidores, distribuidoras e especialistas.",
+      "added_at": "2026-10-08T19:34:51.739823"
     }
   }
 }
