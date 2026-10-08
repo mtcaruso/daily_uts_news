@@ -669,10 +669,14 @@ def alert_sei(state: dict, dry: bool) -> int:
 
 
 # ============== ANEEL CP / Tomada de Subsídios ==============
-# Quem COLETA é o aneel_aux.py na run do PC (o Liferay da ANEEL bloqueia IP do
-# Actions: 0 itens em todo run do GitHub) e commita aneel_aux_history.json.
-# Aqui só se LÊ esse arquivo: o alerta sai no 1º ciclo do alerts-loop depois do
-# commit do PC. AP fica de fora (escolha do user).
+# Dois caminhos, que compartilham state['aneel_partic']['avisados'] (o mesmo nº
+# de CP/TS nunca alerta duas vezes):
+#  1. alert_aneel_noticias: as notícias da ANEEL no gov.br, que o Actions LÊ.
+#     Não depende do PC e sai 1-2 dias ANTES da listagem oficial.
+#  2. alert_aneel_partic: a listagem oficial (Liferay antigo.aneel), que bloqueia
+#     o Actions (0 itens em todo run do GitHub); só o PC coleta e commita
+#     aneel_aux_history.json. Reforço, e é o que traz o prazo e a prorrogação.
+# AP fica de fora (escolha do user).
 ANEEL_HISTORY = Path("aneel_aux_history.json")
 ANEEL_PARTIC_TIPOS = {"partic_cp": "Consulta Pública", "partic_ts": "Tomada de Subsídios"}
 # Link = listagem: o link de detalhe carrega p_auth (token de sessão).
@@ -737,6 +741,87 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# Título fala de CP/TS (e não de audiência) → candidata. Sai a notícia de
+# encerramento/resultado ("ANEEL encerra Consulta Pública e aprova regras…").
+# Medido em 08/10/2026: 16 títulos de CP/TS (jan-out), 15 aberturas — muitas sem
+# verbo de abertura ("Consulta Pública vai tratar…", "Consulta discutirá…").
+_NOT_TEMA = re.compile(r"consulta|tomadas?\s+de\s+subs[íi]dios?", re.IGNORECASE)
+_NOT_AP = re.compile(r"audi[êe]ncia", re.IGNORECASE)
+_NOT_FECHA = re.compile(r"encerr|conclu[íi]|resultado|\bap[óo]s\b", re.IGNORECASE)
+_NOT_APROVA = re.compile(r"\baprova", re.IGNORECASE)
+_NOT_ABRE = re.compile(r"\babr(?:e|em|iu)\b|abert[ao]s?\b|abertura", re.IGNORECASE)
+_NOT_NUM_CP = re.compile(r"(?:Consulta\s+P[úu]blica|\bCP)\s*(?:n[ºo°.]*\s*)?(\d{1,3})/(\d{4})", re.IGNORECASE)
+_NOT_NUM_TS = re.compile(r"(?:Tomadas?\s+de\s+Subs[íi]dios?|\bTS)\s*(?:n[ºo°.]*\s*)?(\d{1,3})/(\d{4})", re.IGNORECASE)
+ANEEL_NOTICIA_MAX_DIAS = 4  # 1ª run / loop parado: não despeja notícia velha
+
+
+def alert_aneel_noticias(state: dict, dry: bool) -> int:
+    """CP/TS anunciada nas notícias da ANEEL (gov.br). 1 request pela lista e 1
+    por notícia candidata ainda não vista. O nº da CP/TS vem do texto ("Consulta
+    Pública nº 37/2026", "CP 035/2026") e entra em aneel_partic.avisados, o que
+    silencia o alerta da listagem quando o PC coletar a mesma CP depois.
+
+    State['aneel_noticias'] = ids de notícia já processados. Notícia com mais de
+    ANEEL_NOTICIA_MAX_DIAS só é marcada como vista."""
+    import aneel_aux  # parser da lista + detalhe (trafilatura); import tardio
+
+    lista = aneel_aux.fetch_news_list()
+    if not lista:
+        print("[aneel_noticias] lista vazia (gov.br fora ou layout mudou?)", file=sys.stderr)
+        return 0
+    vistos = list(state.get("aneel_noticias") or [])
+    ja = set(vistos)
+    partic = state.get("aneel_partic") if isinstance(state.get("aneel_partic"), dict) else {"avisados": [], "prazos": {}}
+    avisados = set(partic.get("avisados", []))
+    hoje = (datetime.now(timezone.utc) - timedelta(hours=3)).date()
+
+    msgs = []
+    for it in lista:
+        if it["id"] in ja:
+            continue
+        titulo = it["title"].strip()
+        fecha = _NOT_FECHA.search(titulo) or (_NOT_APROVA.search(titulo) and not _NOT_ABRE.search(titulo))
+        if not _NOT_TEMA.search(titulo) or _NOT_AP.search(titulo) or fecha:
+            vistos.append(it["id"]); ja.add(it["id"])
+            continue
+        try:
+            data, corpo = aneel_aux.fetch_news_detail(it["link"])
+        except Exception as e:
+            print(f"[aneel_noticias] {it['link'][-50:]}: {e}", file=sys.stderr)
+            continue  # tenta de novo no próximo ciclo
+        if not corpo:
+            continue
+        d = _dmy(data)
+        # nº/ano da própria CP/TS (o texto às vezes cita CPs antigas: só vale o ano da notícia)
+        ids = [f"partic_cp_{int(n):03d}_{a}" for n, a in _NOT_NUM_CP.findall(corpo) if d and int(a) == d.year]
+        ids += [f"partic_ts_{int(n):03d}_{a}" for n, a in _NOT_NUM_TS.findall(corpo) if d and int(a) == d.year]
+        ids = list(dict.fromkeys(ids))
+        velha = not d or (hoje - d.date()).days > ANEEL_NOTICIA_MAX_DIAS
+        if velha or (ids and all(i in avisados for i in ids)):  # velha, ou a listagem (PC) já avisou
+            vistos.append(it["id"]); ja.add(it["id"])
+            continue
+        partes = [f"{ANEEL_PARTIC_TIPOS[i.rsplit('_', 2)[0]]} nº {i.rsplit('_', 2)[1]}/{i.rsplit('_', 2)[2]}" for i in ids[:3]]
+        rotulo = " + ".join(partes) or ("Consulta Pública" if re.search(r"consulta", titulo, re.I) else "Tomada de Subsídios")
+        # trecho logo depois do título no texto da notícia
+        resto = corpo[corpo.find(titulo) + len(titulo):] if titulo in corpo else corpo
+        resto = re.sub(r"Publicado em \S+ \S+|Atualizado em \S+ \S+", " ", resto)
+        resto = " ".join(resto.split())
+        trecho = resto if len(resto) <= 240 else resto[:239].rstrip() + "…"
+        msgs.append((it["id"], ids, f"🏛️ ANEEL · {rotulo}", f"{titulo}\n{trecho}\n(notícia de {data})", it["link"]))
+
+    # Só vira "vista" depois de enviada: falha no envio = tenta no próximo ciclo.
+    for nid, ids, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+        if not dry and notify.send(title, body, click=link, tags=["classical_building"]):
+            avisados.update(ids)
+            vistos.append(nid)
+
+    partic["avisados"] = sorted(avisados)
+    state["aneel_partic"] = partic
+    state["aneel_noticias"] = vistos[-300:]
+    print(f"[aneel_noticias] {len(lista)} notícias, {len(msgs)} alertas")
+    return len(msgs)
+
+
 # ============== MAIN ==============
 def main():
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
@@ -777,6 +862,12 @@ def main():
         total += alert_aneel_partic(state, dry=False)
     except Exception as e:
         print(f"[aneel_partic] falhou: {e}", file=sys.stderr)
+    # CP/TS ANEEL pelas notícias do gov.br, sem depender do PC (a pedido, 08/10/2026).
+    # Depois da listagem: se as duas virem a mesma CP no ciclo, sai só o alerta com prazo.
+    try:
+        total += alert_aneel_noticias(state, dry=False)
+    except Exception as e:
+        print(f"[aneel_noticias] falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 
