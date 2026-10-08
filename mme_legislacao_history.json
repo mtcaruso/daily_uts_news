@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T02:43:05.382575",
+  "last_updated": "2026-10-08T17:25:03.090206",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5125,6 +5125,34 @@
       "added_at": "2026-10-07T21:01:01.592280",
       "summarized_at": "2026-10-08T02:43:04.873265",
       "notified_at": "2026-10-08T00:57:13.838637"
+    },
+    "portarias_portaria-gm-mme-n-108-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-108-2026",
+      "title": "Portaria GM/MME nº 108/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-108-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-108-2026.pdf",
+      "date_modified": "08/10/2026",
+      "ementa": "Designa DIEGO FABIÃO GOMES MOREIRA LEITÃO, matrícula SIAPE nº 1476396, para exercer o encargo de substituto do Coordenador de Fiscalização e Gestão de Informações da Coordenação-Geral de Monitoramento e Transparência, do Departamento de Políticas Sociais para o GLP e Promoção do Cozimento Limpo, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **DIEGO FABIÃO GOMES MOREIRA LEITÃO** como substituto do Coordenador de Fiscalização e Gestão de Informações. O encargo é para os afastamentos, impedimentos ou vacância do titular.",
+      "added_at": "2026-10-08T17:24:48.545627",
+      "summarized_at": "2026-10-08T17:24:57.616609",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-109-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-109-2026",
+      "title": "Portaria GM/MME nº 109/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-109-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-109-2026.pdf",
+      "date_modified": "08/10/2026",
+      "ementa": "Designa LUCIANA BARBOSA DE CARVALHO, matrícula SIAPE nº 1542477, para exercer o encargo de substituta do Coordenador de Articulação Intersetorial da Coordenação-Geral de Política Pública e Articulação Institucional, do Departamento de Políticas Sociais para o GLP e Promoção do Cozimento Limpo, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **LUCIANA BARBOSA DE CARVALHO** para substituir o Coordenador de Articulação Intersetorial. O encargo é para afastamentos, impedimentos ou vacância da função.",
+      "added_at": "2026-10-08T17:24:48.545627",
+      "summarized_at": "2026-10-08T17:25:02.514242",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
