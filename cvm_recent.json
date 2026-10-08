@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-08T19:36:30.725633-03:00",
+  "last_updated": "2026-10-08T20:33:14.182490-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "ATUALIZAÇÃO DO CRONOGRAMA ESTIMADO DA INCORPORAÇÃO DE AÇÕES -",
+      "data_referencia": "20261008 08/10/2026",
+      "data_entrega": "20261008 08/10/2026 20:30",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "ATUALIZAÇÃO DO CRONOGRAMA ESTIMADO DA INCORPORAÇÃO DE AÇÕES",
+      "protocolo": "1575714",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575714",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-08T20:33:12.717638"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Divulgação de alienação de participação acionária relevante pela GQG Partners -",
+      "data_referencia": "20261008 08/10/2026",
+      "data_entrega": "20261008 08/10/2026 20:08",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Divulgação de alienação de participação acionária relevante pela GQG Partners",
+      "protocolo": "1575697",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575697",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-10-08T20:33:01.661023"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",

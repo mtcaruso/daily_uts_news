@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T19:34:52.241410",
+  "last_updated": "2026-10-08T20:31:45.359931",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1552,9 +1552,8 @@
       "title": "ANEEL realiza audiência pública para debater revisão tarifária da CEEE-D em Porto Alegre (RS)",
       "date": "08/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realiza-audiencia-publica-para-debater-revisao-tarifaria-da-ceee-d-em-porto-alegre-rs",
-      "summary": null,
-      "added_at": "2026-10-08T19:32:20.357044",
-      "error": "summarize_failed"
+      "summary": "A **ANEEL** realizou audiência pública para debater a revisão tarifária da **CEEE-D**, com propostas de aumento médio de **22,31%** para consumidores cativos no Rio Grande do Sul. O índice final será deliberado em novembro, com vigência a partir de **22/11**.",
+      "added_at": "2026-10-08T20:31:34.543186"
     },
     "noticia_2026_audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs": {
       "type": "noticia",
@@ -1787,6 +1786,34 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-propoe-novas-regras-para-preparar-a-rede-eletrica-para-geracao-solar-baterias-e-veiculos-eletricos",
       "summary": "A **ANEEL** propôs novas regras para a conexão de geração solar, baterias e veículos elétricos, visando modernizar a rede elétrica. A **Consulta Pública 033/2026** ficará aberta por **60 dias**, de **10 de setembro a 9 de novembro de 2026**, para receber contribuições de consumidores, distribuidoras e especialistas.",
       "added_at": "2026-10-08T19:34:51.739823"
+    },
+    "partic_cp_037_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 037/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=OBMEoBGv&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4070&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Ajuste regulatório para custeio e rateio do Encargo de Reserva de Capacidade de sistemas de armazenamento de energia em baterias, com base na AIR **nº 5/2026** e minuta de Resolução Normativa.",
+      "added_at": "2026-10-08T20:31:39.702731",
+      "objeto": "obter subsídios para o aprimoramento da proposta sugerida pelo Operador Nacional do Sistema Elétrico, do Relatório de Análise de Impacto Regulatório – AIR nº 5/2026 e da minuta de Resolução Normativa destinada a alterar as Resoluções Normativas ANEEL nº 1.009, de 22 de março de 2022, e nº 957, de 7 de dezembro de 2021, bem como a adequar o modelo do Contrato de Uso de Potência para Reserva de Capacidade, para disciplinar a base de custeio e a metodologia de rateio do Encargo de Reserva de Capacidade associado à contratação de sistemas de armazenamento de energia em baterias.",
+      "deadline": "06/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "08/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-08T20:31:39.702764"
+    },
+    "partic_cp_036_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 036/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=OBMEoBGv&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4069&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Revisão dos Módulos 1 e 5 das Regras de Transmissão (REN nº **905/2020**) busca subsídios para minutas de Resolução Normativa. Ação baseada na Nota Técnica nº **97/2026-STD/ANEEL**.",
+      "added_at": "2026-10-08T20:31:44.858881",
+      "objeto": "obter subsídios para subsídios acerca das minutas de Resolução Normativa e de revisão dos Módulos 1 e 5 das Regras dos Serviços de Transmissão, aprovadas pela REN nº 905/2020, nos termos originais previstos na Nota Técnica nº 97/2026-STD/ANEEL.",
+      "deadline": "23/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "08/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-08T20:31:44.858913"
     }
   }
 }
