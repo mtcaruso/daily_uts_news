@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-08T05:53:40.967411-03:00",
+  "last_updated": "2026-10-08T12:55:01.743822-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Eleição dos membros dos comitêsAta",
+      "data_referencia": "20260922 22/09/2026 09:00",
+      "data_entrega": "20261008 08/10/2026 09:50",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eleição dos membros dos comitês",
+      "protocolo": "1575328",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575328",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-08T15:54:59.429786"
+    },
     {
       "cnpj_short": "01830-9",
       "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
@@ -5238,24 +5256,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-09-08T20:14:57.231353"
-    },
-    {
-      "cnpj_short": "01837-6",
-      "empresa_nome": "ISA ENERGIA BRASIL S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Apresentações a analistas/agentes do mercado",
-      "especie": "UBS Global Emerging Markets Conference -",
-      "data_referencia": "20260908 08/09/2026",
-      "data_entrega": "20260908 08/09/2026 08:41",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "UBS Global Emerging Markets Conference",
-      "protocolo": "1565414",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1565414",
-      "empresa_label": "CTEEP / ISA",
-      "codigo_cvm": "18376",
-      "first_seen": "2026-09-08T13:50:56.482310"
     }
   ]
 }
