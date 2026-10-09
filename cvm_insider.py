@@ -39,11 +39,16 @@ import os
 import sys
 import zipfile
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
 import requests
+
+# Fuso explícito: o GHA roda em UTC e o PC em BRT — datetime.now() sem fuso
+# gravava horários em fusos diferentes no mesmo campo (a interface não tinha
+# como saber qual era, e janelas curtas/banners de frescor erravam em 3h).
+BRT = timezone(timedelta(hours=-3))
 
 # UTF-8 no stderr pra Windows console
 try:
@@ -197,7 +202,7 @@ def aggregate_year(con_df: pd.DataFrame, cnpj_to_label: dict) -> dict:
 
 
 def main():
-    current_year = datetime.now().year
+    current_year = datetime.now(BRT).year
     years = list(range(current_year - YEARS_ROLLING + 1, current_year + 1))
     print(f"[cvm_insider] Baixando VLMO pros anos {years}", file=sys.stderr)
 
@@ -257,7 +262,7 @@ def main():
 
     # Salva
     output = {
-        "last_updated": datetime.now().isoformat(),
+        "last_updated": datetime.now(BRT).isoformat(),
         "years_covered": years,
         "n_companies": len(aggregated),
         "by_company": dict(aggregated),
@@ -267,7 +272,7 @@ def main():
     )
 
     DIAGNOSTIC_FILE.write_text(json.dumps({
-        "last_run": datetime.now().isoformat(),
+        "last_run": datetime.now(BRT).isoformat(),
         "years": years,
         "companies_with_data": len(aggregated),
         "total_buckets": total_buckets,
