@@ -88,7 +88,7 @@ CATEGORIES = [
     ("leis", "Lei", "flat_recent"),
 ]
 
-CURRENT_YEAR = datetime.now().year
+CURRENT_YEAR = datetime.now(BRT).year
 
 HEADERS = {
     "User-Agent": (
@@ -431,7 +431,7 @@ def notify_new(history: dict) -> int:
             tags=["scroll"],
         )
         if ok:
-            entry["notified_at"] = datetime.now().isoformat()
+            entry["notified_at"] = datetime.now(BRT).isoformat()
             sent += 1
     return sent
 
@@ -439,7 +439,7 @@ def notify_new(history: dict) -> int:
 # ============== MAIN ==============
 
 def _save(history):
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -497,7 +497,7 @@ def main():
     # Sem isso, items pendentes além do MAX_SUMMARIZE_PER_RUN reapareceriam como
     # "novos" run após run, disparando ntfy duplicado.
     new_items = []
-    now_iso = datetime.now().isoformat()
+    now_iso = datetime.now(BRT).isoformat()
     for it in all_items:
         key = f"{it['category']}_{it['slug']}"
         if key not in history["items"]:
@@ -554,7 +554,7 @@ def main():
                 summary_source = "extractive" if summary else "llm"
 
             # Preserva added_at original (do placeholder) se já existir
-            prev_added = history["items"].get(key, {}).get("added_at") or datetime.now().isoformat()
+            prev_added = history["items"].get(key, {}).get("added_at") or datetime.now(BRT).isoformat()
             entry = {
                 "category": item["category"],
                 "label": item.get("label"),
@@ -566,7 +566,7 @@ def main():
                 "ementa": item.get("ementa"),
                 "summary": summary,
                 "added_at": prev_added,
-                "summarized_at": datetime.now().isoformat() if summary else None,
+                "summarized_at": datetime.now(BRT).isoformat() if summary else None,
             }
             # Re-resumo sobrescreve a entry — preserva o estado de alerta, senão realerta.
             for k in ("notified_at", "notify_skipped"):
@@ -613,7 +613,7 @@ def main():
         history["first_run_done"] = True
 
     # Prune retention
-    cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
+    cutoff = (datetime.now(BRT) - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     before = len(history["items"])
     history["items"] = {
         k: v for k, v in history["items"].items()
@@ -630,7 +630,7 @@ def main():
 
     # Diagnóstico
     DIAGNOSTIC_FILE.write_text(json.dumps({
-        "last_run": datetime.now().isoformat(),
+        "last_run": datetime.now(BRT).isoformat(),
         "total_collected": total_collected,
         "by_category": {k: len(v) for k, v in all_items_by_cat.items()},
         "new_items": len(new_items),

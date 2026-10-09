@@ -19,10 +19,15 @@ import os
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from curl_cffi import requests as cf
+
+# Fuso explícito: o GHA roda em UTC e o PC em BRT — datetime.now() sem fuso
+# gravava horários em fusos diferentes no mesmo campo (a interface não tinha
+# como saber qual era, e janelas curtas/banners de frescor erravam em 3h).
+BRT = timezone(timedelta(hours=-3))
 
 PROCESSES_FILE = Path("sei_processes.json")
 WATCH_FILE = Path("sei_watch.txt")
@@ -65,7 +70,7 @@ def parse_process(url: str) -> dict:
     html = r.text
     result = {
         "url": url,
-        "fetched_at": datetime.now().isoformat(),
+        "fetched_at": datetime.now(BRT).isoformat(),
         "processo": None,
         "tipo": None,
         "data_geracao": None,
@@ -172,7 +177,7 @@ def load_processes() -> list:
             "id": "sei_" + hashlib.md5(url.encode("utf-8")).hexdigest()[:10],
             "url": url,
             "ntfy_enabled": True,
-            "added_at": datetime.now().isoformat(),
+            "added_at": datetime.now(BRT).isoformat(),
         }
         if label:
             p["label"] = label
@@ -237,7 +242,7 @@ def monitor_all():
         p["andamentos_seen"] = all_hashes
         p["andamento_count"] = len(data["andamentos"])
         p["documento_count"] = len(data["documentos"])
-        p["last_check_at"] = datetime.now().isoformat()
+        p["last_check_at"] = datetime.now(BRT).isoformat()
 
         # Salva timeline pra UI ler. Andamentos vêm do mais novo pro mais velho;
         # documentos NÃO (ordem crescente, e nem sempre por inclusão) — antes o

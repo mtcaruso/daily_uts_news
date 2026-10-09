@@ -11,7 +11,7 @@ import json
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -21,6 +21,11 @@ from googlenewsdecoder import gnewsdecoder
 import gemini_util
 from digest import fetch_source as fetch_news
 from sources import SOURCES
+
+# Fuso explícito: o GHA roda em UTC e o PC em BRT — datetime.now() sem fuso
+# gravava horários em fusos diferentes no mesmo campo (a interface não tinha
+# como saber qual era, e janelas curtas/banners de frescor erravam em 3h).
+BRT = timezone(timedelta(hours=-3))
 
 # cloudscraper bypassa Cloudflare quando regular requests é bloqueado por IP
 # (caso do Canal Energia em GHA). Lazy import — se faltar, só não usa fallback.
@@ -267,7 +272,7 @@ def _record_success(history, url, item, title, summary, source):
         "title": title,
         "summary": summary,
         "source": item.get("source", ""),
-        "added_at": _prev.get("added_at") or datetime.now().isoformat(),
+        "added_at": _prev.get("added_at") or datetime.now(BRT).isoformat(),
     }
     if source == "extractive":
         entry["summary_source"] = "extractive"
@@ -283,7 +288,7 @@ def _record_failure(history, url, item, title, error):
         "title": title,
         "summary": None,
         "source": item.get("source", ""),
-        "added_at": _prev.get("added_at") or datetime.now().isoformat(),
+        "added_at": _prev.get("added_at") or datetime.now(BRT).isoformat(),
         "error": error,
         "attempts": int(_prev.get("attempts") or 0) + 1,
     }
@@ -352,8 +357,8 @@ def main():
     #     produzir nada; 8 tentativas a 30min de cadência cobrem ~4h de problema
     #     transitório (503, cota por minuto) com folga.
     MAX_ITEM_ATTEMPTS = 8
-    _err_cutoff = (datetime.now() - timedelta(days=3)).isoformat()
-    _extractive_cutoff = (datetime.now() - timedelta(days=RERESUME_WINDOW_DAYS)).isoformat()
+    _err_cutoff = (datetime.now(BRT) - timedelta(days=3)).isoformat()
+    _extractive_cutoff = (datetime.now(BRT) - timedelta(days=RERESUME_WINDOW_DAYS)).isoformat()
     seen_urls = {
         url for url, v in history.get("items", {}).items()
         if (v.get("summary") and v.get("summary_source") != "extractive")
@@ -423,7 +428,7 @@ def main():
     done = _summarize_fetched_in_batches(history, fetched)
 
     # Prune itens antigos (retention)
-    cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
+    cutoff = (datetime.now(BRT) - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     before = len(history["items"])
     history["items"] = {
         url: v for url, v in history["items"].items()
@@ -438,7 +443,7 @@ def main():
 
     # Dump diagnóstico pra debug remoto (commitado junto)
     diag = {
-        "last_run": datetime.now().isoformat(),
+        "last_run": datetime.now(BRT).isoformat(),
         "source_counts": source_counts,
         "all_items_total": len(all_items),
         "pending_count": len(pending),
@@ -452,7 +457,7 @@ def main():
 
 
 def _save(history):
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
     )

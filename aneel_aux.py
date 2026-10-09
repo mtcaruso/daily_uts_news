@@ -18,7 +18,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -29,6 +29,11 @@ import trafilatura
 from curl_cffi import requests as cf_requests
 
 import gemini_util
+
+# Fuso explícito: o GHA roda em UTC e o PC em BRT — datetime.now() sem fuso
+# gravava horários em fusos diferentes no mesmo campo (a interface não tinha
+# como saber qual era, e janelas curtas/banners de frescor erravam em 3h).
+BRT = timezone(timedelta(hours=-3))
 
 HISTORY_FILE = Path("aneel_aux_history.json")
 DIAGNOSTIC_FILE = Path("aneel_aux_diagnostic.json")
@@ -489,7 +494,7 @@ def summarize(title, body, kind):
 # ============== MAIN ==============
 
 def _save(history):
-    history["last_updated"] = datetime.now().isoformat()
+    history["last_updated"] = datetime.now(BRT).isoformat()
     HISTORY_FILE.write_text(
         json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -625,7 +630,7 @@ def main():
                 "date": date or item.get("date"),
                 "link": item["link"],
                 "summary": summary,
-                "added_at": datetime.now().isoformat(),
+                "added_at": datetime.now(BRT).isoformat(),
             }
             if summary_source == "extractive":
                 entry["summary_source"] = "extractive"  # re-resume com LLM depois
@@ -655,7 +660,7 @@ def main():
             prev_entry = history["items"].get(item["id"])
             if prev_entry is None:
                 if item["type"].startswith("partic_"):
-                    entry["first_seen"] = datetime.now().isoformat()
+                    entry["first_seen"] = datetime.now(BRT).isoformat()
             else:
                 for k in ("first_seen", "notified_at", "notified_deadline",
                           "deadline", "deadline_source", "start_date"):
@@ -685,7 +690,7 @@ def main():
         time.sleep(0.5)
 
     # Prune retention
-    cutoff = (datetime.now() - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
+    cutoff = (datetime.now(BRT) - timedelta(days=HISTORY_RETENTION_DAYS)).isoformat()
     before = len(history["items"])
     history["items"] = {
         k: v for k, v in history["items"].items()
@@ -698,7 +703,7 @@ def main():
 
     # Diagnóstico
     DIAGNOSTIC_FILE.write_text(json.dumps({
-        "last_run": datetime.now().isoformat(),
+        "last_run": datetime.now(BRT).isoformat(),
         "news_count": len(news),
         "pautas_count": len(pautas),
         # Por tipo (cp/ap/ts): partic_cp=0 por semanas = listagem bloqueada de novo.
