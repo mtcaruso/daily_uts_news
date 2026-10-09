@@ -4,5 +4,7 @@ pandas>=2.0.0
 google-genai>=1.0.0
 trafilatura>=1.12.0
 googlenewsdecoder>=0.1.7
+# selectolax 1.0 (03/10/2026) removeu selectolax.parser, que o googlenewsdecoder importa
+selectolax<1.0
 cloudscraper>=1.2.71
 curl_cffi>=0.7.0
