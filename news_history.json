@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T16:36:02.042317",
+  "last_updated": "2026-10-09T18:39:32.292656-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUhWYzBod212N2lDNHU4dkFXU1dDMVlUa0FRZG9ybHI2MFNkMUZMY3ZZTWtTZ0ktY194VE9ONmg5VzJxeFdsOThUTFNzUk9sZ0lPQ0hzRHlSaUp6eldNWW80eDZNOTk2cDBiZk9KdTlIcVNtNTNTSmlpYXNkRmtZYjZTamJMT2xoaDV1UmRUUDdnbGtVcmlIb2kyaFhIQ25nd2VJUF9iQ1ZvMlowc3FuWm04RGdrUdIBxAFBVV95cUxQdXhmejVMQk4zcnlsZWJIRFdkcTNIVE5OOFg5cVl3VmVXY2Q2WlYwUDNPSzEyTDNKNGwweExtNTNLZ1NHZmVuN2xOSGVoaW1lbVJDR180OXREdkgwaHphTXFGdXB3aExjSmNIamRjeEZpTnFON3NQU1pBbXZWSVg1ajBnY0dwMmVDc1VueWhDN2ktT2tVeEktTl8xSmswRkVEWDJ5bk9scTVRbF8zNWRJNk5DLWJoMWlkZWFhY0oxWHFtVzhS?oc=5": {
       "title": "Rio prevê investimento de R$ 509 milhões em 175 ônibus elétricos - Valor Econômico",
@@ -2083,7 +2083,7 @@
       "source": "",
       "added_at": "2026-10-08T19:44:59.238494",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZUZvQUg2dDBrdEd5OXNZMTYzcEdkcE01THdETEJGbUh5a1VDZzlqRUVLbW9SRUVkbENNWVZSTWVmWHkzVm1IVVdBczNia1JvVWR6Z0Z5VHhEQ0ZUQmVRbVJVd2Mxc3lmRFRPbTJsdklnSUdRXzlUX2ZwcnE3eU5VTTNhS1piNzRYV1AzOVVyNC1fVHJUQ0NPTW5MWWMwaEVFdWc1Y04tSFJtRWFaMkktQXFxeXBhVWpwRzN5ZU11RFlVRXRUckVjc1h6UXUtc1FuV0Joc3Bwc1VVZUd1Zmg1N1VfSXJkV3M0MnNKc1YzbU5nV1BIdXYtSmZBbF92eDdrVmJkQtIBkwJBVV95cUxOQ2NKUjBOLTJkMzlqak5VQ3VWTmVzS21rRXdKdkVWVHlxZ01ZRWI0TmNQX3ZiOXlZUlVERXRFSDlObjJpeHhJZTdVUFpha3IyTWMwc3F1Uk8xbE5MakpJT3VtNnFHSFRHMlRKVC1HOUpvYjlNYTJRa3dnMmVlWDA5ZU5Gc2ItTl93a3F2eDY1X1hTcE9YcU9qcmQ1LWxwd2JzZk1XM2RvZmctck1WZnV6RWVxMUx0ZHRSMXRINUlDNXpqT01qbzcwY25BUlZFVEdEUnROSjRPYk9iX2RQSFBkMFpEcVBDb3RGTE1WX2tyNU44dVJ0LVFIV0JVeFRMeVJnSmFJbDFMU0FDckRRYndMV3l4OA?oc=5": {
       "title": "Consórcio com dona da Equipav vence disputa por privatização da Água e Saneamento Argentinos, que atende Buenos Aires - Valor Econômico",
@@ -2724,6 +2724,78 @@
       "summary": "A Agência Nacional de Energia Elétrica (Aneel) negou o pedido de medida cautelar apresentado pela J&F para suspender a exigência de garantia prévia para Celebração do Contrato de Uso do Sistema de Transmissão (GPC) da usina termelétrica Uruguaiana, de 639,9 MW e localizada no Rio Grande do Sul. A empresa queria assinar o contrato permanente de uso da rede de transmissão sem apresentar previamente…",
       "source": "",
       "added_at": "2026-10-09T16:35:51.093895",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54SGZQWHZsbnVkcjBoZGx6OC1zWmZNUEdXdjZJUHJmUDZtbHVULS1La19oVGlHMDdLWTVuWVZUeUZodWdQczNUVTBwaGN1Zw?oc=5": {
+      "title": "Sanepar - Brazil Journal",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-09T18:38:54.897823-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZjN1R1lGMV8xTFJEWWRldzlJb3FGdUk5bWVIaTdsQUtvWkZuNWw4RUFBZ090VFJueWRPbnRFMDRUZ2w4ZHAtSXUxUFZ5Q05FbnBTT25jSy1TMTJaWXVtaTJ0eFEzZ21WNFliWHp6ZVJiVU5CUGxrUEVYRGE2WG5vSXdDYTdSbnRNZVhMQzNhb05adms1Q3J4ZFZFU1J4eGxZUEVPRUxqdDJmdUdfR3dPR2lYcGEzc1ZPNlpCTnRnY2s4T2V5NHR2VWFhRlZxYTJkX214dEd5MHBDSHI3TFBMRDh1cw?oc=5": {
+      "title": "O que líderes globais discutiram em NY que pode mexer com energia, IA e investimentos - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-09T18:38:57.049771-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWFvYWMzTDFYcVNRNTk2TVljTEJybUUtMURDTDZKZjFNSUprWmZNMlRzMHhBSmIyMDc1bEZYeWxSV19heC1iUjRMTmxQN0dqd0l6SXV3cWNaMzFVNGRBZnBkcDFObG4wcU5RWmJjSFFSRTV6ZjhqVnFNcy14SUt6TDllT1ZZX2VrdVE2RDVqazUtalQ2M1U0ZVVEU0gzLVY1eHFnT05HTEZlQXlIbzR3aA?oc=5": {
+      "title": "ONS vê desaceleração no ritmo de crescimento da carga para 3,8% - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-09T18:39:03.374872-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOGRvVVhoazM3NnFnajJCSmo4bGlXNzNxT2g4RFZJTHY3c3JmZU5EdTVqUEwxWDRJcEpvMXVaamVnNm9ieHpJX3NId3otMjlhczNxT1J4QlNNZ0FtZUJMeXJvQ3JNWHJSVE9idTJsOWUzOXNfcjN0Q25KTW16bF93aHFVX2JTVzRJYXZKaXNUaVZBcmlJcmJfU29JR09SZzM0WmlnQ1ZHVlB2cUJiZTJMd2hnMXFVaG5wcDdZSGpMZzdfc29XNFNTaTE3eHU?oc=5": {
+      "title": "Cemig abre chamada pública de R$ 150 milhões para projetos de eficiência energética - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-09T18:39:04.999494-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3E4S0xOWkI0RHBWejFQT0RreG9LUkEzYkNEdks1QjQ1ckJYY0JhMDRnSXRfTk9IaEJYdmVhWmF6cE5IWldXY2xjS3MyYi0zVWhXQ1h0V01yX2xNRDNRRDltWnJaZXJ6T0lZYm1pNldsUk1JaGNoRXQwOENQRlFWMjY4R0ZHMDR6VXVQeG5XOU5tWE56eHU4XzBKcDRSc2M5akw5QWpnSEFIeVVVSWRlbzBCTWd1UEtyRDI2ejdkVXhQTnhucHN5SWdFcHptZXFNTlZJVjRwWi3SAd4BQVVfeXFMT1ZrdDlXc2N1emJpNTB2ZHFNanhJaG94dlY4eUJicFllVWVFdzJJZlZFYkVQdFRLM0E5Qk1GclZIV24yaW8yekxLXzgzUzQtWFRrNDcxb3BHSnVVSThwNnNIbVRnVUVFbHNrOFdXbmtGOTA3ZUJfZmc2VmhqR21uTzBqMVFkLUM3MklOdFhaajV1NlctUWtKdWdEem1pcTlGNTYzYk5sdUdkdzFLTTdObUJTbmo0NEI1dTlFNE40SndtX1QwUUhodmg2a1NuWnhIa1dNZ2tXaWNoVzBjYWRB?oc=5": {
+      "title": "O que líderes globais discutiram em NY que pode mexer com energia, IA e investimentos - Estadão",
+      "summary": "No dia 20 de setembro, desembarquei no aeroporto JFK para o meu primeiro New York Climate Week (NYCW), que reúne anualmente líderes, acadêmicos, governos, empresas e sociedade civil para discutir as prioridades da agenda climática. Já havia trabalhado com empresas que se preparavam para o evento, mas nunca como representante de uma organização com um papel relevante na agenda.",
+      "source": "",
+      "added_at": "2026-10-09T18:39:26.541357-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxORTVwRjlzWkc4VDk3ZE1oNk9jc2twcVJ1bWpucFROSWdhTXhtQXhOUDE3Sk0yd053TjZ4T0U3dEc2cGtjZDR4VFZXb2ZFLXBueTNrbU03Q3lKWXMtN0UtXzlHeF91ajJtMVlCdXA4VG0xa3RsREZvSTZ0czJDUklySksxX2J0RW1VWURveU9jeDJsVkliNGtiZEFiVGVaZw?oc=5": {
+      "title": "Neoenergia investe R$ 868 milhões em novas subestações e ampliações - Agência iNFRA",
+      "summary": "da Agência iNFRA A Neoenergia investiu R$ 868 milhões na construção de 12 novas subestações de energia e na ampliação de outras 33 unidades. Até o momento, foram entregues três novas subestações e concluídas seis obras de ampliação.",
+      "source": "",
+      "added_at": "2026-10-09T18:39:26.541444-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91ajJ5c0YwMnBmNVBnUWJlU3dHWXlrTHE1UTg3TF96TnlYbXMxVy1fS2wxX0k2UWh5NGRLUmpmQlZzREwyUm9XcEw4QUJSRFVoTW53QjhPd3YtVC10bVFMTEdtTV9JMFk?oc=5": {
+      "title": "MinutoMega - MegaWhat",
+      "summary": "01/07/22 Distribuição MinutoMW - Por que é tão difícil para a Light reverter as perdas comerciais No MinutoMW desta sexta-feira, 1º de julho, o jornalista Rodrigo Polito comenta sobre o tombo das ações da Light na bolsa, após a renúncia do presidente, e a dificuldade histórica da empresa em reverter perdas de energia, além do resultado do leilão de transmissão, que marcou a volta da Eletrobras…",
+      "source": "",
+      "added_at": "2026-10-09T18:39:26.541490-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PMVhiUUg1NVlET1dEWWlNb21VbGJ6VGlVZ3ZxQjZia3lZT0p4SXY4WDkxa2N1X21YSlhka1J5UFVjY0dJNW56LVRWeTRkS2RpNENiWDU4LXZlYndSM2F5Wlo3MUF4Zw?oc=5": {
+      "title": "Últimas Notícias - MegaWhat",
+      "summary": "16/10/17 Mercado energético Príncipe saudita diz que reino cumpre promessa de compensar perdas do Irã, diz Bloomberg 5 Out (Reuters) – O príncipe herdeiro da Arábia Saudita, Mohammed bin Salman, disse que o reino está cumprindo totalmente as promessas de compensar a perda de oferta do Irã devido a sanções dos Estados Unidos, segundo entrevista à Bloomberg publicada nesta sexta-feira. O príncipe…",
+      "source": "",
+      "added_at": "2026-10-09T18:39:26.541541-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hSEtGSU1oNDBmVVlXQjZOc3Jlb2l5SUVWSU44MlVIWDA1VGZPRnVIVTRDdTBpeVB5Wkx4UmFOaVRTcW1ZRm8xanoxTzZoMXo0WFQ0TGJnSUVoVENaRF9LVVViV3JQY1ps?oc=5": {
+      "title": "Economia e Política - MegaWhat",
+      "summary": "09/10/20 Distribuição Resultado operacional da Neoenergia mostra que pior da covid-19 já passou, diz Credit Suisse Os resultados operacionais da Neoenergia no terceiro trimestre do ano, informados ontem ao mercado, indicam que os impactos da pandemia do covid-19 estão quase todos superados, segundo análise do Credit Suisse. “Nós acreditamos que os resultados da Neoenergia serão beneficiados pela…",
+      "source": "",
+      "added_at": "2026-10-09T18:39:32.288349-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
