@@ -149,7 +149,11 @@ def _resolve_url(google_news_url):
     """Decodifica URL encriptada do Google News pra URL real."""
     try:
         result = gnewsdecoder(google_news_url, interval=1)
-        if result.get("status") and result.get("decoded_url"):
+        # googlenewsdecoder 0.1.x retorna "status"; 0.2.x (set/2026) trocou pra
+        # "success". Checar só "status" fazia TODO resolve falhar no GHA (que
+        # instala a 0.2.x) — 0 resumos por run desde 20/09, em silêncio.
+        ok = result.get("success", result.get("status"))
+        if ok and result.get("decoded_url"):
             return result["decoded_url"]
     except Exception:
         pass
