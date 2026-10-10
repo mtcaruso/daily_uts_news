@@ -1,62 +1,6 @@
 {
-  "last_updated": "2026-10-09T22:45:16.729039-03:00",
+  "last_updated": "2026-10-10T05:26:58.929562-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPR0lIay1NZDNwNV92cXpHNUp1WnFlaFBTOHlsemNwQ2ZEc3B5eHRxS0h2dm1hWXFFWlp3bHB2bUNRZXI2Uy1NUGV5QUdybUdTZVZzMDJtLVdWSjJQR3ZEcVU4cmkwYVFaSUk0VGZweEs2bkhmT2w0V2loSDBTWVJMTkR2WW0xTlJQSVdINHZSVmhPdjZXREtva0dJeFVROHc1akVZSGV6UGludDV6b3BOREZJMG9ta21ReUV2c0NjSVQzTWEtMkJ0WUdRbEdhOHJ5T28way03TU1nRk1MdVVQTzRLaFdIRnpkRG9B?oc=5": {
-      "title": "Aneel aciona bandeira verde em outubro, e conta de luz não terá custo extra pela primeira vez desde maio - Folha de S.Paulo",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-25T22:47:42.690438",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTXNNbGNhN0gyZlg0WXhfaUl4UnB5MjU0QjlkLWhVWUk2Z1VtQm9PTDA1OHBQQU11dWZaLVhRck5EWmlMcFVXSnhOcjh3UUR5b3RoUlo5YnRhdXlVRGYtMWl6REpxRzA3MEJyeVA3NG9QOWxOR0Q5VWRNYVNpSHRmZV9Hcm9Jcko3N1Nfa3NrTmVGUU1idTFzWmF2dnZtTzRSalVKTEJyd3J5TWhoMUlBNElzUC1vUUs5Uk93NGFUb0ZSS1BKbDZWdF9TT0gxOGtFeTF1VkNR?oc=5": {
-      "title": "Axia Energia abre prazo para conversão de ações; veja as datas - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-25T22:47:48.853803",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTkRxN1hmYm5UdUF4VjBEenNydWhmNW5IVXBZUWsxanFSLTNtYXVaVFFUWjRQeG1HbDVLZzNDcTAwTXByZzBzSlFmNWdtejFwSDlVSS1mSE5DMXV3bW8xVTVBTTI4OVpOaldXX0ZEbG1RX0J6cy1BU2J5c01MVHRRYWhYTmFKT1F4TFNLWm1HQ3RDYy1lVUxLQWZzUHVsUFNJaHp1ZllvUzJrZnZOcWl2Z2EwQmctS0xuU2lRMVBmbHZ6aTdyZTFSVDdWSmJIczN4V1dXVEI4a3ZjUDV6WXVMWVBtSXdxWnRa?oc=5": {
-      "title": "Abertura do mercado de energia vai acelerar atualização da estrutura tarifária, diz CEO da Light | Empresas - valor.globo.com",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-26T04:50:39.161300",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWTk1S0lkd0s1ZWd5RlE2RzJmVjdGTkdqQVYzUFFISkkyZ3pLaGZ1NW9MT3RQWFBFZTlhdHYxY1BFY3A4QkJvSW41SURNdWRnZ0dTaTBJTnRxQnRxaWdxN1lqeFhQRFl6V1dDOHVSTnBXMDN6V2lldnM5ZGwtWnBKSGYtTVlKTnVCcks1Y0RHcTVfSmZxWm9zb0J4WDlHVEM1bUxwQlprblRnLXUxQ0hDT0FTQ0lZamh3a1dlbFlnVV9RclluMHVpMjFZSdIB0AFBVV95cUxPYl9zMTcyYkpueHd1RUpPUnAxTlNLVFhTQURPVXBUYjV5Qk5tMEJqZUI2dG5MdGJ6TXZkamZUTzBTUG5fSVM0dmxtM3lWa25hX29wemNRVXRkSkxYRVBuZXhOZEg1TWZCVWktaXdfU3dQc2hnTjlNbWRyaHo2TVZ2Nkh6clZ1SndtR0FQQWlPQXdvbnRYM1JYUTdmQ2dnUGJzYi10RVVSeDBvOW9Xa3BxOGkwZTA3QVJzU1dqamJMZFYxZV9kN050ZFlIaXdVRVpQ?oc=5": {
-      "title": "Axia Energia abre prazo para conversão de ações; veja as datas - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-26T04:50:46.573820",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZmFaNml2ME43M1dDV3BkbE5QcmFUYzdLcDdiWG1icTB2LXVDNHo5NWVock4xNW9MQW9pUTUyMVpPel9Ka3lhaFF3a1ZwX3hIaURqYzA3YW4yaEhtcDdFNld4MThZcmJaNUd2SVdNNzFkazFpOHhpUGJQUHM1WFh0amlIS3FVRGtTSWFITy1oaXZjMk8ya01fTlpZNWtxMFdEeVBlSUdTa3hCSm1BaDVzc2x2dHFtdjYta0ltelVsYllTaFFlMHFpR25kVdIB0AFBVV95cUxOQjc1M3dxcTltNVhkTWhBejEzbWRnTXFVbGdvaUhYV2J5S1BBLTVCYWRzOC1uc2xXczkxa3hBWDU2YlQzaURfdVc0ODQ5Z2ZPSnZjdTM0bnQ5RnRjUmpCTzJvNlBkQ2pTY0l4bGkxXzBxcUZJWWs2T1FkUm5uUElkeEhqUEVtQ2dHQzdFUjhGWG1wX2xMSzRMLUV0U3ExOWlnclpuTU5weGFMckRzRDE1OXRyUTZmVkxqdDdrMGFBVU94eUZGZ1VvNVcyS0dsWDlp?oc=5": {
-      "title": "Bandeira tarifária em outubro será verde, sem adicional na conta de luz, após 5 meses de amarela - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-26T04:50:48.041421",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkNfeXJHalc5XzN0ekhNYTQ1RWxHcUtjVUE5ZTRpazA0aWxlSTBSV3BfUUdfaWZjSmVPS0tQUkUwS284UXJOajMwaHBXY1U2UGNpbzltd2N2VDNFU1VzQVY2eTJldFZMSlhUb0lteUQ3M0M2anlBS01ibmh6dHhycnF5bE1GNFViYXlZdTl0WDdoelJpOGVqenBXOFpyX2RpUFhWWTNn?oc=5": {
-      "title": "Copasa informa intenção de investidora de rescindir acordo de acionistas - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-26T04:50:50.993048",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXQ1QVJPUzlJeDBmem5FdVlDbkh4akx5d1RZMmFaRDA1QThreHhzTnozOE5vUzhOdnNnVEdLRkZmT1EyWllYSjRFcFoxaTVKVzRXcFJRUXFHT2ktWmwydDJLZnJNaXhFazhuT0RpRGhtanIzeUwtbUkxcUpEVHRpTVZvMEtneXRRbTJrYnRzNk0tNVRXZVVYRDFmUm1UZw?oc=5": {
-      "title": "Antes da ANEEL, ministro Silveira anuncia bandeira verde em outubro - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-26T04:50:52.489327",
-      "error": "no_article",
-      "attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVJmaVJOY2VmdlcySTdLTGlSelRLTEFUM2p0RVlkNjBIZ2h1MDB5OFU1UElGcnRDcUl3OUFQTi1nVXo5d3lBWjRhT1UyUkxMTDk5dlNrSVdMNFZYNDA1RzlGWEt3YnhnTmVSM3RTZUFULVV0Q3hFamY5OExYcHZuN3pHV3U0bDhKVEdFa0JmemM4WlVYVDBrVGhxWnVxWkNTcGhtclpB0gG0AUFVX3lxTFAxRHpRbENpbUJUb1ZHZ0Jkald2VFN1Mm50Q1ZxTFRnNkUxSnZ3OW5UZDdVSlZVcmExS2FFVVlfMnN2TmtXWDVTNVNOa1hLVlp5RUI3VEExSHBpUGMtQjhFN2p3bDB4cDJUelh0QjV2WDFvQ3VMU2ZGUUhMRW5vUjlCc1ZkNU4zSUEzUDBNNGZtMW1vRzVqd3ktalc0YUVlSVh0TzNVQ0lqWXV3aWdqR3p1UkktQw?oc=5": {
       "title": "Tesla inicia entregas do caminhão elétrico Semi - Valor Econômico",
       "summary": null,
@@ -2707,7 +2651,7 @@
       "source": "",
       "added_at": "2026-10-09T18:38:54.897823-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZjN1R1lGMV8xTFJEWWRldzlJb3FGdUk5bWVIaTdsQUtvWkZuNWw4RUFBZ090VFJueWRPbnRFMDRUZ2w4ZHAtSXUxUFZ5Q05FbnBTT25jSy1TMTJaWXVtaTJ0eFEzZ21WNFliWHp6ZVJiVU5CUGxrUEVYRGE2WG5vSXdDYTdSbnRNZVhMQzNhb05adms1Q3J4ZFZFU1J4eGxZUEVPRUxqdDJmdUdfR3dPR2lYcGEzc1ZPNlpCTnRnY2s4T2V5NHR2VWFhRlZxYTJkX214dEd5MHBDSHI3TFBMRDh1cw?oc=5": {
       "title": "O que líderes globais discutiram em NY que pode mexer com energia, IA e investimentos - Estadão",
@@ -2715,7 +2659,7 @@
       "source": "",
       "added_at": "2026-10-09T18:38:57.049771-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWFvYWMzTDFYcVNRNTk2TVljTEJybUUtMURDTDZKZjFNSUprWmZNMlRzMHhBSmIyMDc1bEZYeWxSV19heC1iUjRMTmxQN0dqd0l6SXV3cWNaMzFVNGRBZnBkcDFObG4wcU5RWmJjSFFSRTV6ZjhqVnFNcy14SUt6TDllT1ZZX2VrdVE2RDVqazUtalQ2M1U0ZVVEU0gzLVY1eHFnT05HTEZlQXlIbzR3aA?oc=5": {
       "title": "ONS vê desaceleração no ritmo de crescimento da carga para 3,8% - CanalEnergia",
@@ -2723,7 +2667,7 @@
       "source": "",
       "added_at": "2026-10-09T18:39:03.374872-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOGRvVVhoazM3NnFnajJCSmo4bGlXNzNxT2g4RFZJTHY3c3JmZU5EdTVqUEwxWDRJcEpvMXVaamVnNm9ieHpJX3NId3otMjlhczNxT1J4QlNNZ0FtZUJMeXJvQ3JNWHJSVE9idTJsOWUzOXNfcjN0Q25KTW16bF93aHFVX2JTVzRJYXZKaXNUaVZBcmlJcmJfU29JR09SZzM0WmlnQ1ZHVlB2cUJiZTJMd2hnMXFVaG5wcDdZSGpMZzdfc29XNFNTaTE3eHU?oc=5": {
       "title": "Cemig abre chamada pública de R$ 150 milhões para projetos de eficiência energética - CanalEnergia",
@@ -2731,7 +2675,7 @@
       "source": "",
       "added_at": "2026-10-09T18:39:04.999494-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3E4S0xOWkI0RHBWejFQT0RreG9LUkEzYkNEdks1QjQ1ckJYY0JhMDRnSXRfTk9IaEJYdmVhWmF6cE5IWldXY2xjS3MyYi0zVWhXQ1h0V01yX2xNRDNRRDltWnJaZXJ6T0lZYm1pNldsUk1JaGNoRXQwOENQRlFWMjY4R0ZHMDR6VXVQeG5XOU5tWE56eHU4XzBKcDRSc2M5akw5QWpnSEFIeVVVSWRlbzBCTWd1UEtyRDI2ejdkVXhQTnhucHN5SWdFcHptZXFNTlZJVjRwWi3SAd4BQVVfeXFMT1ZrdDlXc2N1emJpNTB2ZHFNanhJaG94dlY4eUJicFllVWVFdzJJZlZFYkVQdFRLM0E5Qk1GclZIV24yaW8yekxLXzgzUzQtWFRrNDcxb3BHSnVVSThwNnNIbVRnVUVFbHNrOFdXbmtGOTA3ZUJfZmc2VmhqR21uTzBqMVFkLUM3MklOdFhaajV1NlctUWtKdWdEem1pcTlGNTYzYk5sdUdkdzFLTTdObUJTbmo0NEI1dTlFNE40SndtX1QwUUhodmg2a1NuWnhIa1dNZ2tXaWNoVzBjYWRB?oc=5": {
       "title": "O que líderes globais discutiram em NY que pode mexer com energia, IA e investimentos - Estadão",
@@ -2739,15 +2683,13 @@
       "source": "",
       "added_at": "2026-10-09T18:39:26.541357-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxORTVwRjlzWkc4VDk3ZE1oNk9jc2twcVJ1bWpucFROSWdhTXhtQXhOUDE3Sk0yd053TjZ4T0U3dEc2cGtjZDR4VFZXb2ZFLXBueTNrbU03Q3lKWXMtN0UtXzlHeF91ajJtMVlCdXA4VG0xa3RsREZvSTZ0czJDUklySksxX2J0RW1VWURveU9jeDJsVkliNGtiZEFiVGVaZw?oc=5": {
       "title": "Neoenergia investe R$ 868 milhões em novas subestações e ampliações - Agência iNFRA",
-      "summary": "da Agência iNFRA A Neoenergia investiu R$ 868 milhões na construção de 12 novas subestações de energia e na ampliação de outras 33 unidades. Até o momento, foram entregues três novas subestações e concluídas seis obras de ampliação.",
+      "summary": "**Neoenergia** investiu **R$ 868 milhões** na construção de 12 novas subestações e ampliação de 33 unidades, visando reforçar a rede para **1,7 milhão** de clientes em cinco estados e no DF. As obras, com conclusão prevista para dezembro deste ano, aumentam a capacidade instalada e a robustez da rede. A empresa planeja investir **R$ 50 bilhões** até 2030.",
       "source": "",
-      "added_at": "2026-10-09T18:39:26.541444-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-10-09T18:39:26.541444-03:00"
     },
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91ajJ5c0YwMnBmNVBnUWJlU3dHWXlrTHE1UTg3TF96TnlYbXMxVy1fS2wxX0k2UWh5NGRLUmpmQlZzREwyUm9XcEw4QUJSRFVoTW53QjhPd3YtVC10bVFMTEdtTV9JMFk?oc=5": {
       "title": "MinutoMega - MegaWhat",
@@ -2773,7 +2715,7 @@
       "source": "",
       "added_at": "2026-10-09T22:44:17.823305-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGJVVGFhN1duOWQxZ1lnVDFvTGotNW9zd1dIRXNGRjJ6WmxxNEk5YlhrTVdFLWJldzdCSy02NDZraVAwa3hWdzdOVi1wRG1Ia1Bsem9jZ2lQZFdUdFhCMjlrck4tZ0NIMnhqXy1OMWFuSzh5aU41YmF6a1F6LUxFTlpuS2dvRlFyNVZYNV9DX3g4YnNEc2RfNW1TSWtxRnJMS3hadGV0S19nNFJadjJsWFlMc3V1UlJu?oc=5": {
       "title": "Sabesp afirma que água de Itapeva está dentro dos padrões após casos de gastroenterite - Estadão",
@@ -2781,7 +2723,7 @@
       "source": "",
       "added_at": "2026-10-09T22:44:26.688545-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjl6MFBvVnFESTByajJsejdTZGF3cS1KSXJWbXF6Rlh3Z2RLU2tNdUh4Z1RGQTBocmxudUNadHQtM0IyalZLeWRXV2xtRm5NWVJUTmNpNnVCWHRla05vZE5KX1BVMzB5Y0lFdXNvcDdleGFEVjItWlFXaWlEQWJwR0ZqeTZxM2ZuUnNHbDdldVZOYWNSc2V5dEN6bkFscDJLM3Zzcg?oc=5": {
       "title": "Governo e o dilema entre prorrogar ou relicitar UHEs - CanalEnergia",
@@ -2789,7 +2731,7 @@
       "source": "",
       "added_at": "2026-10-09T22:44:37.659568-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOERhUWF3Qmt4d21yb0RsMVVtaVZKUnhwbWdrS28wVGExSlowSTdneVhBdFY1Q29xenpzUm5yOU1tNWM0SGl1dS0xVmVIc1NlM1B2UkNvN2QyRHlBZVRnY2dPb0trbHdzM2FTeWt0R0RSVXNkczlwR00zS1c1MEg3WDVuZUVCbTRkMFZyelEzRENVQkhWLWxVUWIxTFpONEM2VnUwOVpobEwxRFF3ZkR2LURRWGJxRzBhVUNNX0VyZ0dtQQ?oc=5": {
       "title": "Setor de armazenamento foca no pós-LRCAP para consolidar presença no país - CanalEnergia",
@@ -2797,7 +2739,7 @@
       "source": "",
       "added_at": "2026-10-09T22:44:39.285260-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQml1UG1ZdFNnX1M0ODlXbVJUZUZxTnpJYUZUU3NWbW5peUl6VlRralNILW1iNV82QmVlUl9IZHVNTHJvOUNyeEI1RGR4VjdxWnJUd2FCZXVPUVdPeUkwWGdBa2JOOVg5RTZ6Rg?oc=5": {
       "title": "Operação - CanalEnergia",
@@ -2805,7 +2747,7 @@
       "source": "",
       "added_at": "2026-10-09T22:44:44.198197-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxORm1maEUyandjelR1UnJraHJlT2xGODd1ZVA4WS1ITVhKWkpCUnhWTWQtWFE3VEkxVGdVc3FocUJRSGQwYVVRcnlta0ZhdS1YOUtLeFYxNEdXN1QzdkZvVmJkMWxMdnRPV05yelpUZEtMZ1RHZFhqQjJjOFZINmVRMVFwaHVPZkZMTW1WY1F6cVVFMWlXU0VSRnRObi13NG5SbklJOFd3Y2N4X1l3VF9pOVhCQ1ZmVGNnWV82TlFKU2xLU2pYMTNMa2JMQ3DSAdsBQVVfeXFMUEszVVNkVUE3b3pWUGtjNTl1ZXJmQUVvUG5YUW9tVnhvOTlrLXVoVlNWblJmbWZmR1dyUHFQS0l3SVo5Nk5WdjRjWWtPaUZURUhsYlIzWlRjcEJ2eU9lTmRMcmJLSGxwcFpxLTZ6OGZDMEFkN0xZcW1BbzBPbVZNb0tSb0VBZ0FBUzVJX0VfY1VlbmlXcXZUVXVZa2lPaHl6RjI1N1dXN1NoQU50dDk4TFgwRVF0TTBGeFNxMU93S2dVTlN3TkhwUVEzRzZXYmVKaXJWTmFyZkZfaUNZ?oc=5": {
       "title": "Copasa tem crescimento nos volumes de água e esgoto durante o 3º trimestre - Valor Econômico",
@@ -2813,7 +2755,7 @@
       "source": "",
       "added_at": "2026-10-09T22:45:06.308236-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2RMdGU4QnhDaFJCb0pSVXBsWG16djk4eVc4dGN5NE5jSi01XzNwenc2c1k4Y3BoRHZmQUREVUZ3R0J2d09OTHJDNkVuMUxLa3lpR3lqZ2Z3cE1ITXBrQWIzVWNFOWtDRDBKX1E0a0R1UFNEaHFCMk55RWtNcEhrWjhqR2V2WTR3cktYMldSOGxCcGxhWDJ4cWJNaDROQmZYQlRDa2hoUVh3R1o5M1RwdmZYOFRLYU1waVAzNTFMTWw5VWNnSGZnRHJOZEtVeWpma1loYg?oc=5": {
       "title": "Prefeitura de SP ultrapassa marca histórica de 2.000 ônibus elétricos - Estúdio Folha",
@@ -2821,7 +2763,7 @@
       "source": "",
       "added_at": "2026-10-09T22:45:06.308455-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjZJUTMzN3NTMVhFUzRJOThTX3BUMldiQkVYQnFCZUp4OXQ2VGNuZmVrX1dpU1dmUTFpMkdHUTBGVUZaWVBnX3A3Q3VzTlNYdDlJZnpzZnU3UE1MNFI2ZzZGVmhVcEdOMmxNTFAzOFlFdGZ6NGdRV1pBeGNwSWFoZWlpM3ZraWZYcTVvZE5xRlhRaWhwV3hhQkZsdDNnenViRENxdko0Q2NKTVg4TFHSAbMBQVVfeXFMUEFPUXhISmF6eC1FZE8wbjUzVVBKbWQ2cWVNVjRENUxYQWFOWUZBeEdlMWtfVVVacHcwOUdFNTVSSmtUZE1CUHhqUXozdFdkbEtwNWdYUzViU25FLUZQVmktUlFJWnRrNTJEZmpTUDM2N1Fqb0d1RWNubjRvWlk1UFBWX2hsWXVqQ2RBcjU0cnVzaEFaVnphekFtaGpuY0JTcDRmanZZUVEyMDFnRDRLYThrckU?oc=5": {
       "title": "Sabesp afirma que água de Itapeva está dentro dos padrões após casos de gastroenterite - Estadão",
@@ -2829,13 +2771,43 @@
       "source": "",
       "added_at": "2026-10-09T22:45:06.308571-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wNGJ6N2dHWk5yN2lXaG5mNUVQbEZKVzQ5Tmk1dmFBRUtzaXFIRTVPYWFmYjlqNGlCTVAtcGwxdUhPOXlwbnROYWNaMmJrekxwRDExZlZaNnNhZVhtZElYU3dPX1Z0ZXhKc0QwYkd1SUh2TDZo?oc=5": {
       "title": "Empresas - MegaWhat",
       "summary": "A **Oliveira Energia** está finalizando a aquisição da participação da Atem nas distribuidoras **Amazonas Energia** e **Roraima Energia**. A empresa planeja implementar novos conselhos e diretorias de ponta nas companhias, conforme apurado pela MegaWhat.",
       "source": "",
       "added_at": "2026-10-09T22:45:16.724619-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SM1gwa0JIQ3hKQ3ZYX2h2SHR2cGplSzh4WlZnTGlBU3Q4bXdqeWlaZDdwaTlCdFlMY2dnSUpPdVl2TjVLYk84cUJYS2ItQnJJWm1DREdB?oc=5": {
+      "title": "Brava Energia - Brazil Journal",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-10T05:26:09.007317-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFZfSUZTOElvYUtiN2FvcWczdEduSnVYM0w3bE1wOWhyUjB6LUlHbXl5N0IwWWRLV0p2S1NXaXhjNF9lNFNaUjJiSndzWmV6N1ZucnNPTzd6bjRERGJpZm40RE84dTRBV2tELXRlbXlZN1R5a0ROQ0FrS2JCeWRGME4zSkgybWh1Wkd0ZGhSY0ZQMVcxVjk4RW84RmxkVTJ4SUVxNi1fN0NEaGFTX29Ob01zSmRRQQ?oc=5": {
+      "title": "Negócios na BBCE saltam 53,8% em setembro com forte queda de preços - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-10T05:26:32.691410-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlJMM3p1aTRtOWVZdndvWXlvRG1yMXdVb3NhQlpKRGdEUFo0aEYzT1dLRVc5UWJOcVozMFRJY1ZtbllaeDFySlhONWlUejNtaWdqcDJwSXU3d3NORTZRSmtIYktRcmNaY2xaaUdfNVhkdFZoNHUyaXpWT2hsZk5VRDNhaHNlQUtXcV9feG5sUG5ZSXRYczZXLWZKdHhMTEw0UnhkWmRvUTNDRm4tMG5DaVd0V1J1MmhReVJ2QTVmNXpCU3lqamt5RlFB?oc=5": {
+      "title": "Como reajuste pelo INCC pode virar armadilha para quem compra imóvel na planta - Folha de S.Paulo",
+      "summary": "Comprar um imóvel na planta costuma ser uma forma de diluir o pagamento ao longo da obra. Mas um detalhe que passa despercebido para muitos consumidores pode fazer o saldo devedor crescer muito além da inflação e acrescentar dezenas de milhares de reais ao preço final do apartamento.",
+      "source": "",
+      "added_at": "2026-10-10T05:26:51.309671-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZbW5DeFltTlhkaksyb2xpWlZhTzhpRllHZlVub2owUW96cEM1ZjZxNVg1Q3JHU2hET0Z3aXoyNENoa3FlcFpkeHU4Q3ZWWjdleXlNdnFJMjVZUHFROElR?oc=5": {
+      "title": "Solar - MegaWhat",
+      "summary": "A geração de energia eólica em operação comercial no Sistema Interligado Nacional (SIN) cresceu **26,5%** em 2017, totalizando **4.619 MW** médios, segundo a CCEE. Este dado consolida o avanço da fonte eólica no mercado de energia brasileiro.",
+      "source": "",
+      "added_at": "2026-10-10T05:26:58.925096-03:00"
     }
   }
 }
