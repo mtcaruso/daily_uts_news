@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-10-11T02:39:11.594790-03:00",
+  "last_updated": "2026-10-11T13:18:37.274778-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yYVAwQTNXX3BSS2xoTTFaT1hudUpvMmJLZHFmTnh2U0JPa3hZLWViWjdsX1h2d0otekFnWXBvSXZOYUlWY1REZzFQdDQ4cHNWU3hRM3pTU3pVR0NFcW1xWjhhenQteF9I?oc=5": {
-      "title": "Economia e Política - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-27T05:12:56.690109",
-      "error": "no_article",
-      "attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUF9iU2ZsMUMwdjZrSm16Rk50ZGwxVHdGWWdFeHU4SElubzg4TzRMVWRpU1BNX0VQTkpNbllQZ1JFak9ScGFNMUw2ODd6cmFtbTRlTlVGVE91SHEzcG5lTHctd0ZuTFVpcF92TGh2S1lxenVHLXRkS2U5QUlDZlpNckhIZTVpSG5Od0Z2S1c3cl9VZTRxc3FlaHdsVkFzbzR2TjFwTUl5anJ0STZmRkJoRU1mZ0d5WVF6eDh3RzgwNXJzSDI4Zkx3bVZDZkhLdmYwUEtVYlpqT2pyUUw2anZ6bA?oc=5": {
       "title": "Hotel na Guiné Equatorial transformado em prisão vira pesadelo para imigrantes deportados dos EUA - folha.uol.com.br",
       "summary": null,
@@ -2738,6 +2730,30 @@
       "summary": "O furacão Isaías resultou em quatro mortes e deixou aproximadamente **670 mil** pessoas sem energia elétrica nos EUA, afetando Flórida, Alabama, Geórgia e Mississippi. Além disso, a tempestade interrompeu **69%** da produção de petróleo e **57%** da produção de gás natural no Golfo do México.",
       "source": "",
       "added_at": "2026-10-10T20:30:54.164329-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmE1N0ZNX0Q1REFJWmhIc1VHeGxKbmFoQkJseXhxSGwtaG5KV3N2SFB3S2x6WFp1RGxrUW9vejYwb09CaFdENGVtNG5XWFlMWFpEb2x6allRaGZIX3pUU3dERG43NzBYTzZidjN6UTdoNDFvRnc4MUFYYnNRU3g0VkdxdXV4Y2lheFVQSjcxMEVDd0dIWWQwSkU1ZkFBQU1Zc2JhN3hfaW9qeWRNOWc3OEdJNldtbks3ZndZTdIBywFBVV95cUxOczhibzh6MElIMHNDSDN6MWxsbG16anN2SmEtaUM5SDJTeVg2bk1zclZTU3o1TzUwNDlWMDMyVlZhYXh0XzlwMWhpMWhWOHpaSmQ2MHBJVDJHZDdCc2R6Z19kVzFZRWp1ejNwbmEtYzdmcHBQYjF2WW1tajJ4TF9KRHhiTDRxZlhxTW8yU1p5bXJrM01idW1GUTNndUVvOU1McmV4WEJhc010WUU4cG4tTGNPNjJoeEtxbzg4Qk1rSWtZeFVQVUJvRENrYw?oc=5": {
+      "title": "Trump diz que Rússia e Ucrânia chegaram a um ‘cessar-fogo na energia’ - Valor Econômico",
+      "summary": "Trump diz que Rússia e Ucrânia chegaram a um ‘cessar-fogo na energia’ Presidente da Ucrânia, Volodymyr Zelensky, disse, contudo, que não estava ciente do acordo O presidente dos Estados Unidos, Donald Trump, disse neste domingo que a Ucrânia e a Rússia haviam concordado com o que ele descreveu como um \"cessar-fogo energético\", horas depois de o líder ucraniano, Volodymyr Zelensky, ter resistido à…",
+      "source": "",
+      "added_at": "2026-10-11T13:18:37.269947-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZzNqV0JtTE8zOEF2dk5GRXpXQ2QtSVhkSi0wajNWNW96WEZBQjZ5RGJTTElXRXJuMDlnbzVHYVd6S1N0cHZyWkJkR1V5OTZSSGdvX0l2blhxbmFDM0ZCS2s1R0x2R3VkRGlOQUNqMHZmX29JMWc2VXlyR09fSXZXYi1iTHBMTWtsa2U3aHJHTzU1X0RQWE1IeS1PVTFZRlpOTmxRWjZRS0lLeUV3cktBaUgyc29GeHVDdjZWRVBXOEhIaTNiT3JOaXViSnRlR18wQWpnNUdNZlV5ckFaYUdVeFV4ajVHZ9IB9AFBVV95cUxOdlNJdTVkRjdlUHhXRXZOMGZFc004RlF2cll4a0ZBSC1rQUtzUlp6bTNEZjl1XzdwQnZ6cGdmd0J5WG5lbGhHVXhlUnZlWU1nMms2NlBKYmxmYmVRaDFfLVVXcXFfdE5tYlhtaENfV0p4VHFhaExxX0hVejRTQ25qVkZDNndaMm9ZNUZzT3l4NldNV1o2NmM1ejRZNC04a0ppQWtoaGtiOXRJbi1wWU02aWl4ME9yWXhsT1h3US1aZDk2YTlDM2t0dXl2bmRlUlh2OUw2MnhORjBZbnpCZVJqLXNOZWVnN2paZDFkVGVXNFU5RlRG?oc=5": {
+      "title": "Ucrânia deixará de atacar refinarias se Rússia interromper ataques ao setor de energia, diz Zelensky - Valor Econômico",
+      "summary": "Ucrânia deixará de atacar refinarias se Rússia interromper ataques ao setor de energia, diz Zelensky Forte alta nos preços globais do diesel, ocorrida após o início da guerra envolvendo o Irã, em fevereiro, tornou-se um problema político para o Partido Republicano de Trump A Ucrânia está pronta para interromper os ataques a refinarias de petróleo russas se Moscou cessar seus próprios ataques à…",
+      "source": "",
+      "added_at": "2026-10-11T13:18:37.270104-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRXh1LWpUNEV3Vkw2R1REVXBPanJVaE9aODRWaERpbm4wQWxOV2ZlS0NxdlZBa2c0dF9TdUZ2bHZDSU9IOW1lcWNvMnE3OF9wVm5UZTlOdHpWUHM0Ti1sMXBfaENIb1RQT0xlX19ZVVk0N1ZhYWRlenpJaGhpR25MVFZLWElMVE1hT194OC1rTFJUclo0R1JHV0ZsTkNaa1ctLTlaUEtHdXBPbC1YMVg3aDNzV3d5Wmk5VnA2SWVTdUJZUmJDX0pVenNYZW1TcU96d0hPa21LbDhpQ0c4cUpJVU5FaE1wNm1FaTRLbkVn?oc=5": {
+      "title": "A KAPSARC participará do 25º Congresso de Energia da WPC em Riade como parceira nacional - Estadão Blue Studio",
+      "summary": "A KAPSARC participará do 25º Congresso de Energia da WPC em Riade como parceira nacional AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 11 de outubro de 2026 RIAD, Arábia Saudita, 11 de outubro de 2026 /PRNewswire/ — A KAPSARC participa como Parceira Nacional no 25º Congresso de Energia da WPC em Riad, trazendo seus líderes e especialistas para discussões que abordam algumas das…",
+      "source": "",
+      "added_at": "2026-10-11T13:18:37.270420-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
