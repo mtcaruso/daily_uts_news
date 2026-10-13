@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T23:01:44.439483-03:00",
+  "last_updated": "2026-10-13T07:05:02.716359-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5153,6 +5153,20 @@
       "added_at": "2026-10-08T17:24:48.545627",
       "summarized_at": "2026-10-08T17:25:02.514242",
       "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-941-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-941-2026",
+      "title": "Portaria MME nº 941/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-941-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-941-2026.pdf",
+      "date_modified": "13/10/2026",
+      "ementa": "Ficam divulgadas, para Consulta Pública, documentação técnica e propostas sobre a regulamentação dos arts. 2º e 5º da Resolução CNPE nº 1, de 12 de março de 2024.",
+      "summary": "Divulga documentação técnica e propostas para regulamentar os arts. 2º e 5º da Resolução CNPE nº 1/2024. Abre Consulta Pública sobre a matéria.",
+      "added_at": "2026-10-13T07:04:45.811281-03:00",
+      "summarized_at": "2026-10-13T07:04:54.841816-03:00",
+      "notified_at": "2026-10-13T07:05:02.715635-03:00"
     }
   },
   "first_run_done": true
