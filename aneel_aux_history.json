@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T14:33:13.007078-03:00",
+  "last_updated": "2026-10-13T19:37:22.902451-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1828,6 +1828,22 @@
       "fonte": "MME",
       "sei_processo": "48330.000273/2026-96",
       "first_seen": "2026-10-13T14:33:12.506841-03:00"
+    },
+    "noticia_2026_reajuste-tarifario-da-edp-sao-paulo-e-aprovado-pela-aneel": {
+      "type": "noticia",
+      "title": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
+      "date": "13/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/reajuste-tarifario-da-edp-sao-paulo-e-aprovado-pela-aneel",
+      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **EDP São Paulo Distribuição de Energia S.A. (EDP SP)**, com efeito médio de **3,16%** para os consumidores, a partir de **23 de outubro de 2026**. O reajuste impacta cerca de **2,24 milhões** de unidades consumidoras atendidas pela distribuidora.",
+      "added_at": "2026-10-13T19:37:17.391741-03:00"
+    },
+    "noticia_2026_aprovadas-novas-tarifas-para-consumidores-atendidos-pela-cpfl-piratininga": {
+      "type": "noticia",
+      "title": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga",
+      "date": "13/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-cpfl-piratininga",
+      "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **CPFL Piratininga**, com efeito médio de **5,41%** para cerca de **2,05 milhões** de consumidores. As novas tarifas entram em vigor a partir de **23 de outubro**, com a concessão prorrogada até **2058**.",
+      "added_at": "2026-10-13T19:37:22.402171-03:00"
     }
   }
 }
