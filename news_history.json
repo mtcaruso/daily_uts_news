@@ -1,54 +1,6 @@
 {
-  "last_updated": "2026-10-12T22:59:44.852623-03:00",
+  "last_updated": "2026-10-13T06:20:59.705079-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRThwR2FFNDc0UHplZ2owcHcwbGN4TWN2LVQzbmFmLVpUMWpUbjBXb25QckVya1NNR184MGFHbnljQjBsbnhMYmg4VEZrVlFCMVlhTlhuRUhJa0o3SVJ0M01Ta1NOQ3JzNjJBc2RmNEZCSE1kRkVEQnJpMWFrR2x5ZThCaUhzTXBua3FqaHRWNUY0aG44VGVGS0pjVdIBoAFBVV95cUxQODZuRHFuVHNjS2tzWENITlBWTEFpYlJQZW9EZXhYeWFWYk84Yl9PelNzTW10WGNCa1JYMGlKeHVOLTlFcEFpQ0pMTlE1RjFqRzVkOEthWEk5WnlFX0M3SS1pVjJtZXBtTUdtU0VHSFpWNXhqU1RrT2tYZWM3WnlBM19uTGRZRXpwR3FveW1oM2p1YURNU3g5UTZveGRLSGto?oc=5": {
-      "title": "Carro elétrico e bicicleta elétrica: um exclui o outro? - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-28T23:29:48.219421",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2ZINEg3VlZSaU1tTU1ZZ3YzSEtoTndtOXBvQVRUeGt2TkxocjlqWEFBUWNNVkZydUZNalhSdHplTG1QT20tT0RZbk9tRXJQZzRqYUI4VjhjU0FSRHEyRG5jOUJuQWhzMHpZalpaQkRBT3l4cWJvOWhJOVBOMloxanJnQVVSTEE4VlhjbkF2OXVPdlRoRUlMdFpSSjhtdjc4c2swZHNnRDBJUnBFQkdkQjZ6U2pEZHZVS1NMRmp5eVVfTFlSakpwNXVvTFhpbEHSAdQBQVVfeXFMUFZ2RmhuTXQzSUUta09yTkF3VGpBcE9Eb1R4aGhEY2Z1dU9OZTctOF9UYUo1ZDRJSXk0UndHWFlQYVFqMThtbGJYblVnX0lMMjJ5ZkpZSk05a1gzc2x1MUItbjVMSDh5T1FHUzlxOENZaS1PNWRkcVhoWjdFdWdPSVB1b0tjbmFLSEdRWk1ySVRRU2d4NmpFcUJpNEhJNXEzQkNyOGpzVFJwcGhLSkFJRkpxU2RmQnpQTXVHWFFLQjdPYXFSUXZxdWJuUy0tOHNxU0Fpdlk?oc=5": {
-      "title": "Leapmotor B10 agora tem versão Reev, híbrido com sensação de elétrico e autonomia de 900 km - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-28T23:29:49.755420",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbC01YkhISzJVWDRDVU5iZktoUEg4TU1veXhXeGRfX1VQM05wbVhpNjF0clNTUGxWcTZWUkpVY2ZiR29SdXM4bzdCMUtJeTJGcFJEdVVWaUdlWDZkbnk5ZExJcVlkdmhCdmZoRnc1YkNZMlNmeFE3M2ZiODQxVEZONmI5a0lmSHRPVzdONDREOG9tNnhvbEJLbHlxRWNJQjVqSzlzYzdLN25ILXlyVFU1YXNTYTJWUGdaN294aU43WVB0Zk8yTlpEb2xtSXdTdGpz?oc=5": {
-      "title": "Leapmotor B10: o híbrido que usa gasolina para gerar energia e move só com motor elétrico - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-28T23:29:51.309773",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0V0MWtRZEJrRXpaeHNCQ1N1c3QwNTFpaFlib1dXVWszbHJBM2owSF9QcVF6Sl9TdEFKNjVKWkFKT1h0anFRSHRrakE3bXVfMW1IWVFfTWF5eHJMMXJIbXktTk1nVGpVeVBoSThqWndsOV9LdUZaUGtPRnJzajYxRWUzRm0tVTQwbm1Jay13ZHZXZGtHSDBfRmd3RE9kNERrSlNoT2htQ0gtWEVCZ0V4eVhucHpISGE5NWVBemtuRi1EZ2Ja0gHKAUFVX3lxTE1kRTNXN2F4MnhDOXppOTVBTmI0MzY5d2E1eWd4SUxmNFBCejZCeXhwZzFpdUQtNGoxcUNHay00aXJ6M25aelBqOFlBM3h6eW9WMXBIeFBrbGxRdDRYRVlkLURJZ25LSFJCa0w5elBpbDFJazZoY1RPaHJUMEpkVGNyYUFtOGliYXFpa1duNXdsTVdnRjBvOXBMcVkzQUR4bGNaa0ljR0RHeEdMbVM5eDNBS1dfUjhWMll0SkpqOUU0Rk5aUnlTTlBqSWc?oc=5": {
-      "title": "Tarifas e guerra no Oriente Médio seguem pressionando inflação nos EUA, diz Raphael Bostic - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-28T23:29:52.858562",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTGdvNjNnbURSc0g4VDd0YlVZOGctTnNPdEpDVGVWUGwwQ3lIMzZpTzd2dGZSNkg3eDZWdkZWQ1locVdpUmd2RFhWbHc2N1QxZ2tEbTJsMDJoZjdoeHFsd2xXWVdZanBLekRQWTBoeDM4c2F6ZFhqWnZ3VDgxamZIQ0Mwc1ZPQllwdXY5aFpGWDBnQWNWbVRXYUx0QlgyU2c1T2RBQ3FCc3hMM1dxWl91MkxKUVFndU5NOWNJazF1aXFFSHkyUTBHaVpTTDk1UnVzZkRMR2VvaFVPS1VJYjNXQVM1cw?oc=5": {
-      "title": "Ford Pro adianta na Alemanha os modelos da elétrica Transit City que virão para o Brasil - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-28T23:29:55.950171",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGFlcWhlaFk0aUFlWTRocTBUNURVaGZLejh2UjIwT0daY1ZSVUo3ZEg0a2FjNDlRREFrdlBhV0V4RGF3WGJfQWpDYVlicTRnTWdWVk85dGlvZENXbUxBcDk2ZnBtSy05ejdEQ29fQzdJWU11anpqcUhKLXRGRS1RVkNxWk5CMFg4cnh5Rkc0czd1dkU?oc=5": {
-      "title": "Setor de saneamento registra alta de 20% no emprego em 2026 - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-09-29T05:38:23.139731",
-      "error": "no_article",
-      "attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXlUNTJ5V0p4Z2ViRm5TeTVHQ0wtc3V1QmtUQ2N3SDIyb1k1QjFnZlF2ME1mOVFURzBrOHpnU0FZQVAwdW9BaTVEOXpvMWhITlZoNS0tNUp3YnN3MWFjT0FtMmlpaEg0SWRWcGsyWlpPbzZLWGI5MmFGNGlVanRXVkNWcW9POG93SlZmYkItZ1VlR2xwc1FFc1FQazRCZzhMNU9YQXBqMUlseXZadUN3ZzhGV1gybFBRdG8zWlFRcVVNTERoQnBCaFYzYlJIdWhMd0VfMHBQUGFtQlJvUzk1cW4tM3pzeXNWMXBMWDNoeUjSAf8BQVVfeXFMTm1wbm85d2VwUlRYcWE3MWtVWVpweGtJMmNfUlVoZTVSTmMteHFuM1ltU05nQmMzeXI1OUhJcmpZUlo3bU9nbmEwazZPOTBPZDFmRm5pQ1RSaDV2R3k4TGZBbGprMUVlbVU2Vnpuc3U0NzRhdjE2ak44dV9CaTFkZk5aRXRsM21nLTJ6UTVza0xic2IxQUpESkxYVE9UcXR2MUQ1UXJscFBsQ05VRExQNzQ3Szd2UVA1ZGhVNHFJenJDOGlPLUxvSDJ4Z1BsQ3B6OVBNVGtqb1lFeFd4VFgxaGxZOUFKcDBqU3huUGE4ZlpYcF9xTTBiRmwwVmtKRnBR?oc=5": {
       "title": "Setor de minerais críticos e Minas e Energia firmarão parceria para impulsionar pesquisa e exploração - Valor Econômico",
       "summary": null,
@@ -2647,7 +2599,7 @@
       "source": "",
       "added_at": "2026-10-12T16:47:17.527916-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZU51cXV1LUM2eWxMQ21pLU9ycDdWLS14N2xYX0xRMV9vUlFXbkxRdWtXb2hXQjFMNGlwOTJyNmlvcXdSTEY0NktmdjUyUmtXeTVoMVY5dmhBNmUzY0xaMVRhYmpGLXFSY1Znc0g5cUVBeEhkdFg1YkZQTWMteVJrZnNmclFCR3NmaDJpaDNfWUYzeXZiZjZXWlpINHo3ZjRkOWdTQ2lpNmFFSDNqMER3cUdkMVRQVFZrOWs4UzBpd3dpV2E4V2FJVGloeks0M2NWQzBtZ1p1NGpoVGE0YS1rcXBNR1pMTlZWLXhSSmpVQQ?oc=5": {
       "title": "África bate recorde de energia solar, mas dados oficiais não registram avanço, diz relatório - UOL",
@@ -2655,15 +2607,13 @@
       "source": "",
       "added_at": "2026-10-12T16:47:17.528172-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTUpDZWk2RWM0TVg1d3dWbjdScGVWVjAyWFVMOHJDNl9JTG1hOGw4Zm85dTNpZWhoNk9xeVFGdTdEei1uRmRuTms0Y0szTkxMa3VPMHRQQnVBN1VoNTQ0OExSUVBReXBZRjVRTFJVRnJ6OFJvekQ3WWNlRmtlMGFpa1RkbE5OYnMxdklHXzZ3WHFUNXM4enVHcml4Y2pCSVY5MjZUWkZFSjFVRFZfVzFkWG91M3VhMUZCOTA2OXZFM19vbVE5UEVtb0VqQ2xGWUtBN3E0b0VYbThKVFQ4X3ZmMFFkaHRVSzJYcGtPak1hRFBQWEdvOWdBNGhJZw?oc=5": {
       "title": "A série TK estreia na Europa, abrindo um novo capítulo na globalização dos veículos de nova energia. - Estadão Blue Studio",
-      "summary": "A série TK estreia na Europa, abrindo um novo capítulo na globalização dos veículos de nova energia. AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 12 de outubro de 2026 Normas Europeias, Qualidade Global Liu Xiaoping, Vice-Gerente Geral Executivo da DFLZM, disse: “Cavalgando o Vento: O Plano de Motor Duplo, lançado em junho de 2025, impulsionou quatro grandes avanços em produto…",
+      "summary": "A **FORTHING** lança a série TK na Europa, com os modelos TK5 e TK7, focados em veículos elétricos (BEV) e híbridos plug-in (PHEV). A empresa planeja iniciar a produção em massa em uma fábrica europeia no **primeiro trimestre de 2027**, expandindo sua estratégia de globalização.",
       "source": "",
-      "added_at": "2026-10-12T16:47:17.528440-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-10-12T16:47:17.528440-03:00"
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFl1a3dPczRkRkZ6MEVJZ3JCaTVuVXdid3gwT1ZidlJQZjBENTJyd3doRDkzWG91Q2hCRHVBSzYtUG9HLWd0SUlXZ09uZy1DOHVxenZyOWF2LTFNVFFoZHQxUXZZQ0hUNHE3eE8wSzg0dlotU0c3YnRrcE85V1hDMTY4WHhZbmVGLTVFS2dWaHBJQlVZY1ZGM09HUy1JV2kzUlR2TTBrTzJRY0tZNkNFYkFDbDhwOWtONDhNNXZ2YmV5dU8t0gHTAUFVX3lxTE5LTHJ3MU9Nb2pqdFhlRlQzbkEwSVpYTF95R0d0VFE0amVRemNna0h5cE96d0ZtaTJjaXhET1lMa0xUU2tSMm1TVWIzdEdGN2ZNa3VOMmZmNkE4QXhUcjVrcEtnUkFTU0gwNjdwN0l3Rlh3TjJfWEM3bVJReEF5cGUyWjNIVlZEanJzNHFjdzR2UTBRQU9kR3ZQZ3NmYjhGTDZtSFprWUhEMDMzQm5kU0VyM0dRTTVjckJvSE9Tb0ZLSVgzMmdHZ1M1WWdNclBoSDktZVk?oc=5": {
       "title": "Bolsas de NY têm direções opostas; ‘techs’ caem e setor de energia sobe - Valor Econômico",
@@ -2675,11 +2625,39 @@
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1talZzMG5BV3lQRTNWdUs1SW9FOVJ6djRNNncyNzZ0TzdEcm1BWFRLQmkxdE9sY25OQ2RLRUdNbkVzQ3ltQkdhSzNZTDJITTI3YzBHdlJoWnE?oc=5": {
       "title": "Tag CCEE - MegaWhat",
-      "summary": "06/11/19 MegaExpresso Só Petrobras aposta no megaleilão; arrecadação é 30% menor que a prevista – Edição da Tarde A Folha de S. Paulo informa que, sem concorrência e com lance mínimo, consórcio formado por Petrobras e as chinesas CNOOC e CNODC venceu o leilão realizado hoje (06/11) pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), para explorar a maior descoberta de petróleo…",
+      "summary": "Um consórcio formado pela **Petrobras**, **CNOOC** e **CNODC** venceu o leilão da **ANP** em **06/11/19** para explorar a maior descoberta de petróleo do país, pagando **R$ 68,194 bilhões**, com arrecadação **30% menor** que a prevista.",
       "source": "",
-      "added_at": "2026-10-12T22:59:44.848371-03:00",
+      "added_at": "2026-10-12T22:59:44.848371-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFl1a3dPczRkRkZ6MEVJZ3JCaTVuVXdid3gwT1ZidlJQZjBENTJyd3doRDkzWG91Q2hCRHVBSzYtUG9HLWd0SUlXZ09uZy1DOHVxenZyOWF2LTFNVFFoZHQxUXZZQ0hUNHE3eE8wSzg0dlotU0c3YnRrcE85V1hDMTY4WHhZbmVGLTVFS2dWaHBJQlVZY1ZGM09HUy1JV2kzUlR2TTBrTzJRY0tZNkNFYkFDbDhwOWtONDhNNXZ2YmV5dU8t?oc=5": {
+      "title": "Bolsas de NY têm direções opostas; ‘techs’ caem e setor de energia sobe | Finanças - Valor Econômico",
+      "summary": "Bolsas de NY têm direções opostas; ‘techs’ caem e setor de energia sobe Pregão teve menor liquidez devido ao feriado do Dia de Colombo nos Estados Unidos Em um pregão de menor liquidez nos mercados, devido ao feriado do Dia de Colombo nos Estados Unidos, e de agenda esvaziada, os principais índices americanos fecharam o dia em direções opostas. A manutenção das tensões no Oriente Médio…",
+      "source": "",
+      "added_at": "2026-10-13T06:20:50.673609-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VpZmR6WVFkNVQwM0FkWnJ1STlWZFhIVDJrOUxmWEU3STBCTnFCUUdTazdEcDN2eGNYV3hTaXJVa0VNU25Zd2FxcDMtQkZBRkFwb2hkR2F5U0x6NmZTNmc4YVkxYkxvUXRoNURic1N3VFQ3ZmE5NlozZzhCUjNhQmVIU2xTUl9ZaWJJWTk1SXdWaDU5YlEtR2lEeGdwQktiQl83VnhtNzI2bVU1OUMzSC1YMTR3WUt6TzN4RE1HcDRUSUpsTm9xVtIBzgFBVV95cUxPT1hDTVNHclRUa296aWFXMWxCX0MxT2Y4MFNhejRtWk5na29IRVJVRnNMMVdZSmJ5YlM3dWUzMVJVbHJ5bl9TcE4yeG5MaVZ3eVh5N3NBVVJFWmpnYWJORV9EMVpMXzlxa0dWY0VsUVptYlZzSi1BOXJRZGMyYjR3dFBIb1RoajBjZTFQcHQ2ZWYtQkRzU3FBQmxDVEphbEZLWS1VNC0wckNKTXFpTWVXTUE2d1kwQ1NGMnZjM0lYMWdraEVHTE5ZclhmakhKUQ?oc=5": {
+      "title": "Petróleo na Margem Equatorial pode abrir nova fronteira para fornecedores de bens e serviços - Estadão",
+      "summary": "'Pré-sal é único, mas Margem Equatorial será muito relevante', diz presidente da Petrobras Magda Chambriard diz apostar em descobertas muito importantes na região para suprir o futuro declínio da exploração no pré-sal. Crédito: Imagens: Pedro Kirilos Gerando resumo RIO - A descoberta de petróleo leve na Margem Equatorial abre perspectivas para a indústria brasileira de óleo e gás, que vê na…",
+      "source": "",
+      "added_at": "2026-10-13T06:20:50.674298-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZDZqb1pLUFlLWU5TRUZMbVppM1FMbndGYmg5cHJWbVBqbFFPNWdOdU5qbkVmSUdNUDR4RE5OOHFPWjYxQmY5c3B1UVBxSlNGS0NkZkxud3VDTjRwNzhUZVlXb1RxWERsbXBJVFpYVnZPeWhRMVg0WjBDbGliRGh0QzI0U1ZsRFpkbVNfVU9mRzdaay0zQXlOZjVTSTNPNU5SMDBmR3MwcU90dHJTb0NNMUV3bENwbnhwZGNLZVRILVBGa1hMWlNVV3k4UjNvU3p4bXpuMzRaUnJkbEZsVE1YWWxKTGhnSm8xektza0hjcFRmdExyZ3FsQXdRRmZNbzhrdnc5Z1BR?oc=5": {
+      "title": "A LGMG apresenta soluções de carregamento ultrarrápido e energia integrada para eletrificação da mineração. - Estadão Blue Studio",
+      "summary": "A LGMG apresenta soluções de carregamento ultrarrápido e energia integrada para eletrificação da mineração. AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 13 de outubro de 2026 Uma demonstração ao vivo destaca tecnologias projetadas para reduzir a dependência do diesel e manter a produtividade da mina.",
+      "source": "",
+      "added_at": "2026-10-13T06:20:50.674481-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkdXJ6Q1BKb1JCS0xOWVdfd0dhNWt3QUdlb2twZWtsV0t5SlZSQjQweXRsRGtvdlViNmRqeElRZnVpUkV6bC1lYWtvNnZkMXBTODJnZGtvMUY1N1drR2Nv?oc=5": {
+      "title": "Tag LRCap 2026 - MegaWhat",
+      "summary": "A **Cogen** defende a inclusão de termelétricas a biomassa, como etanol e bagaço de cana, no leilão de reserva de capacidade (**LRCap**) de **março de 2026**, argumentando que a retirada do biodiesel não justifica a exclusão dessas fontes.",
+      "source": "",
+      "added_at": "2026-10-13T06:20:59.701087-03:00"
     }
   }
 }
