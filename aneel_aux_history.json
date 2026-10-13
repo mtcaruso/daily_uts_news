@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T06:18:42.149087-03:00",
+  "last_updated": "2026-10-13T14:33:13.007078-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1814,6 +1814,20 @@
       "start_date": "08/10/2026",
       "fonte": "ANEEL",
       "first_seen": "2026-10-08T20:31:44.858913"
+    },
+    "partic_mme_cp_236": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 236",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/236",
+      "summary": "Regulamenta artigos **2º** e **5º** da **Resolução CNPE nº1/2024** com base em documentação técnica e propostas.",
+      "added_at": "2026-10-13T14:33:12.506822-03:00",
+      "objeto": "Documentação técnica e propostas sobre a regulamentação dos artigos 2º e 5º da Resolução CNPE nº1/2024.",
+      "deadline": "03/11/2026",
+      "start_date": "13/10/2026",
+      "fonte": "MME",
+      "sei_processo": "48330.000273/2026-96",
+      "first_seen": "2026-10-13T14:33:12.506841-03:00"
     }
   }
 }
