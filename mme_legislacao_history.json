@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T23:10:20.637227-03:00",
+  "last_updated": "2026-10-14T07:12:24.368708-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5167,6 +5167,34 @@
       "added_at": "2026-10-13T07:04:45.811281-03:00",
       "summarized_at": "2026-10-13T07:04:54.841816-03:00",
       "notified_at": "2026-10-13T07:05:02.715635-03:00"
+    },
+    "portarias_portaria-gm-mme-n-110-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-110-2026",
+      "title": "Portaria GM/MME nº 110/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-110-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-110-2026.pdf",
+      "date_modified": "14/10/2026",
+      "ementa": "Dispensa CONCEIÇÃO DE MARIA OLIVEIRA COSTA, matrícula SIAPE nº 2094208, do encargo de substituta eventual do Coordenador de Suporte à Organização Administrativa da Subsecretaria de Planejamento, Orçamento e Administração, da Secretaria-Executiva, código FCE 1.10.",
+      "summary": "Dispensa **CONCEIÇÃO DE MARIA OLIVEIRA COSTA** do encargo de substituta eventual do Coordenador de Suporte à Organização Administrativa.",
+      "added_at": "2026-10-14T07:12:09.770075-03:00",
+      "summarized_at": "2026-10-14T07:12:18.770487-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-111-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-111-2026",
+      "title": "Portaria GM/MME nº 111/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-111-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-111-2026.pdf",
+      "date_modified": "14/10/2026",
+      "ementa": "Designa em caráter excepcional, FABIANA FEIJO DE OLIVEIRA BAPTISTUCCI, matrícula SIAPE nº 1512126, para exercer o encargo de substituta do Coordenador de Suporte à Organização Administrativa da Subsecretaria de Planejamento, Orçamento e Administração, da Secretaria-Executiva, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares, em razão da função encontrar-se vaga.",
+      "summary": "Designa **FABIANA FEIJO DE OLIVEIRA BAPTISTUCCI** como substituta do Coordenador de Suporte à Organização Administrativa. A designação é em caráter excepcional e para o período em que a função estiver vaga.",
+      "added_at": "2026-10-14T07:12:09.770075-03:00",
+      "summarized_at": "2026-10-14T07:12:23.864761-03:00",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
