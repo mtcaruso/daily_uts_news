@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T17:00:00.766343-03:00",
+  "last_updated": "2026-10-14T17:30:56.518515-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1844,6 +1844,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-cpfl-piratininga",
       "summary": "A **ANEEL** aprovou o reajuste tarifário anual da **CPFL Piratininga**, com efeito médio de **5,41%** para cerca de **2,05 milhões** de consumidores. As novas tarifas entram em vigor a partir de **23 de outubro**, com a concessão prorrogada até **2058**.",
       "added_at": "2026-10-13T19:37:22.402171-03:00"
+    },
+    "noticia_2026_aneel-promove-workshop-sobre-procedimentos-para-inscricao-e-habilitacao-nos-primeiros-leiloes-de-bateria-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico",
+      "date": "14/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-promove-workshop-sobre-procedimentos-para-inscricao-e-habilitacao-nos-primeiros-leiloes-de-bateria-do-setor-eletrico",
+      "summary": "A **ANEEL** realizou um workshop sobre os procedimentos para os primeiros leilões de baterias, que ocorrerão em **2 e 4 de dezembro**. O evento contou com a participação de técnicos da **ANEEL** e da **CCEE**, e visa a aquisição de disponibilidade de potência de Sistemas de Armazenamento de Energia Elétrica (SAEs) com baterias.",
+      "added_at": "2026-10-14T17:30:56.015014-03:00"
     }
   }
 }
