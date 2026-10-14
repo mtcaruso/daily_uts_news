@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T12:05:17.841555-03:00",
+  "last_updated": "2026-10-14T16:21:06.873847-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnZ6dG1jMGxWZW5rSGtXQzZFZHByMHFvZlpIekFneVNBWkZ4dVVLOEswcWh1T25GdVFkak9ETF9lcWRTT0ltRjRicWgzc1BQY19lSllYOURaSlRlN0xZN0c5WDZIYjdYYlpld1lSV3RBT2F6ZnBxT21jVFh1VjlIak9aWDVLUTV4eWZGX3JLM2dlQjdWOXhRdVo5cVhaTFBwb3gzZ0ZjVlF1cWRGODdpTVN4Nk81MWIzbUVqaGtZTE5XQzdT0gHTAUFVX3lxTE5DSFU0WUM3bFRmbkwzbmxoU0UyYWxrQnN1MDRoS3dqSUd4TTd6SVVQRkpCZ2ZEQno0ZXM4U1FQa2VfYThmYmhqblRWcGF2UE5Jd3pZSC1LdC1GSGg5ZTlycGMtWDZwZncxa241WU5qaDc3QlZnZ2lLeFdDdTVyWjBHWkNFU3dKc0ZMNFpsZW44Q2FUcENTS3lWYkVyNFRxdE03Ull5ZW1URnpLUzhZOV83dlhzN29STGJ1LVdqSERrOHFDTl84Ty1peEdWQTNtLUtld2c?oc=5": {
       "title": "Rússia ataca instalações de energia em Kiev em prelúdio à ofensiva de inverno - Valor Econômico",
@@ -2809,7 +2809,7 @@
       "source": "",
       "added_at": "2026-10-14T03:41:59.543691-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMV9aLThCQndUWGxNZmpzcEdlQzd6bDBLQy1nZDh3d0pEX2RHMzhoZzV3ejdkR2R1THpGS213cXA2eTRMMEdERktvcGo4REdNSDJRbnNtWVN1Q29DSkRMbnRzR3E2MzZxRW5Nc1psdkVTLTlFT25pTE42YWk4RlV4RkR1R3o3UWF3WTJNLTB1anh3anRIXzFMV2tsdmRZTk1xUWoybjB6c1E3Mk1KSkcwME4xLXRBb0JJTVBTS1NR?oc=5": {
       "title": "Smart #2 estreia em Paris com motor elétrico de 82 cv e autonomia de 290 km - Estadão",
@@ -2841,7 +2841,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:19.541573-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZmd3U1Q0anFBd215RkRBR0NDakgzLUVPdEpJWk5TMFBmWlVIV0lfSUtTNHYzV2UtaFpCczh6VjJtNTZUeUZsU0kyUmsySS03ZGNSNVJhbzdBOXJobUlDT3BUUHJzZ1Juc1MxemVjUEdHVTZWM3p0TEJwa0VONkFNUFNqaGpKMVhYNjFic1F5NFhRakM2WFBzMGxnT3ZIWU1qb1pMWmJubExVY0Zkek9GQzZNYmJaZ3Y3MVY3eEhvT2VCcThLdU1qM2VhWDB1VlNXWUMxMDdfYVVKM0J5c0k4bEdLQnE?oc=5": {
       "title": "Aneel mantém indeferimento de pedidos de reequilíbrio tarifário por Covid-19 de cinco distribuidoras - CanalEnergia",
@@ -2849,7 +2849,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:29.238577-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGRmNlJXcEtwOVN0X1NqMVJuQThDdUFnRFpnSGozYlFtVnBPcGhycHRHUjczUm1xeEdsWlZOeGJ3X0NTTkx6SVJXWHJ4ODVnbTZGZDJpQnUzdlBMYllrc21mS0p4aFpZNTFEYkVDUkF4czk5RmZXVE5WSV8yVS1Ib3dGclpCN09RVGVCVDVKV3pHazhhSVFZbkRpRW5zZlVIRG9hN3F4M0tjbEE?oc=5": {
       "title": "Aneel aprova reajuste de 3,16% nas tarifas da EDP São Paulo - CanalEnergia",
@@ -2857,7 +2857,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:30.997888-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWplZ09RSXY5bzQ2dS1XSks2bGh5MWVnM0JzN2VxY2hnM0lpOG5PcUJDLUp4dk5tckNPeHg0YnYyYTBtb3NmeHpkeFBVOTNWWTJJY2lqQ0RIU1RVMngwb0w2UkVBUXZJX050X2NKNm1JRTRkZWxuSHFvaF92WVdIZzJ0TlJVM1BCMzMyZFc3cXQ3Qm9sWG5DMUwwQTJZTlE1NWowQg?oc=5": {
       "title": "CPFL Piratininga tem reajuste tarifário médio de 5,41% - CanalEnergia",
@@ -2865,7 +2865,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:32.798574-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2V2STdkRTQwdTdMYmphd0RiS01KQ21aa3EyaWFYRmROOUFUMGFHTGZMWExVc0JCVHJiZGljLXBsMERWekZNYy1aelpnb3JGM25PNzd2U0RMTmgtdTF5U2o3NjFzZnlPaEtnRkFnUU9rdVdtc0FzZWkybm8yVy1IZ2F5SllZdUFVRXRIdVRNNjVVSm1MekxZX0lPM3B4VG41OXFkZ2M2aVBrbW9Yck96TFdvWk9PUUEyQklzbkU0VU5pWFBYNFlWdkRiOEFKQWlENVE?oc=5": {
       "title": "Relatório de Asseguração da Apuração e Liquidação Financeira de Energia de Reserva - CanalEnergia",
@@ -2873,7 +2873,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:34.601782-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTUzT1JwWm8yU1ByQVQ1Vlo2V29LQVdkcHBnaUJxZFltU09kcGsyclQ3X045UWc5NWl3YlV5OW9VMGV3V3o1MmUwSVdleERicE1QUVVVOGhKVFA5cVM2Sm5qbEg0bGFvNHVqWXgtS28zbE1JdW1xRWJBdlM4OUo3Q1F3RUN1eFN6YzJ5clFEdHpFS2psVDdmN0EtN0RoeDNES0NCOVhXQ1JnUkJaVEtVcDBhaw?oc=5": {
       "title": "Lista de Agentes Inadimplentes na Liquidação de Penalidades - CanalEnergia",
@@ -2881,7 +2881,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:36.344905-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNek02VWtZcGo2ajNiSVBodFY3M3BRR2hvb0M3RGt6dXFnY2pETWZLSTRTdFROdzFUTzJ6V2ZWZXMyUEVHeXRzT0dvVGhOZ29wa1VkSTNIZ2lGTGE0V1BFUldvWnFuNV9kMFJ5ZXdrYXktR0VLeXVmRXJVd0liTE0wd18ySHlUd2MzMHMzaHNwbUpvamE3d0tHSUZnSjYyLUdUcVZ5X2NEX2Y?oc=5": {
       "title": "Lista de Agentes Inadimplentes na Liquidação do MCP - CanalEnergia",
@@ -2889,7 +2889,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:38.062203-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlBoNXhZajlLbUg3MTJNRE8tU202VkQtS1lSRnA5YUtySnlXZHBlb3BwOEJtQTlJblR0T0VYYUloNHNZOFJZT240dE9kQzlHZHoyVEhROXB4SGpaWHlQa0JzNy1HOTlEdlFRLXNPc2lrVm05dkdCLXNJa0dqbkY5M01LUQ?oc=5": {
       "title": "Boletim InfoPLD Diário - CanalEnergia",
@@ -2897,7 +2897,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:39.851886-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlM4NjdPMUlEbUc0ZlhiT1NOZXVaQ1djR2MxdldSdTk2SzFjM3EwTW9kalZPUGNVYTl1eFJEaDZsdl9wN3dldV9RRXZScWlYbk9abklPX2puQ2FqVEwtNlNvRHRHbnVqU2l4RlJTMktaMDl5SWgxQnpaS1hOQkhoVmI5Rk4yV241T2NJU1R3?oc=5": {
       "title": "Minuta de Ata da Assembleia Geral - CanalEnergia",
@@ -2905,7 +2905,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:41.648577-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPME80M3Y3WTdJVTA4NlFHUDFSZ3VydjJ4cDJONUZ4NTlWekdENTY0aXEydzlQRTM2cFVobWo2WGZaWmJSTmpEcm5tdjlJcjhHalNNVGk1VkFySXBEQ1ZlVHh0dW5FZ3YxSUg4aG05SWdSOUZTdk8zWWotTzJXMDUyQXRHRS1hcERiZVl4Zkl3bHJmVDV6aG9CdE9mMFlSVVRCMlhIMklSRkNFZHJ4WVhNQ0pBQmxRTnBtUWk1S0ItQzlvM21pM09WZQ?oc=5": {
       "title": "Aneel nega recurso de Echoenergia e Voltalia sobre restrições de geração eólica - CanalEnergia",
@@ -2913,7 +2913,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:43.385411-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlZQMHNVeXh1RVdpQk1aVHgtMU05aTktYjNZX2t6UFJoX1BXSHUxZllWbHZNYmhnQzRVYS1UaXFkOFgxZVY0a0owcXdFRHdrdlRzZGFPM0F2ZXZHZEVTZUJSTUtDWDBwV0hjQ1k4NVVjeWhVdUdWcGRkYnFNUFQyMmExWnVNalUxc0R1TlNLY0I5ZExpdTFmZEdqTjZDMGNaUUE?oc=5": {
       "title": "Ata de Reunião do Conselho de Administração – CA - CanalEnergia",
@@ -2921,7 +2921,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:45.136038-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWFtRHR0ZjliWDNPWllrQ2VRUUppSjFMcVRLT1VFSmVxazc5N2c4d3l1UEZtWGxnNGFhN2hWY0xISVI3X2JyMFZIbWhQd0VVbl81aEZTQVZaVVM2WE1aVFFWemtRRS1ZYUNKeVY3QWdjcFYtc01STHdxRzAyN0VBOXBFZHdqR1FfRTBCaTZR?oc=5": {
       "title": "Sumário de Reunião de Diretoria - CanalEnergia",
@@ -2969,7 +2969,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:03.448910-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRUdDVUx4Tl9Tb3I4blZPTlYxalhuVUpWYmtaNTY3RnB6aC04UHJoQWlXUUdhQUphWXE5bHFIQ3NnQ0FQT0lEM2NmQWZXZkFzRmNVYkpabGZDNkgzOXlyeE1jYk1uejlscWdsWDhUbHdsZ0RuNW9wUTROSFJ3M2p0aXhXbTlnWm1ZbmVBdXRZbUZLeENSaEVRU05qN3puWXZfOWdUMmtYSzZzVF9PckVEX2ZVLUdndFRpYVBldU1aRFF6VXVZUWVMVlFuTFMzTW4ycDJxNEpR0gHkAUFVX3lxTFBLb2NBeTlVOTdHdFB4RDRvS2IwOU02VFRGenVkUXVtYktrQTdiN1dTODNlUnQySW9IcU0wcG9jTmZRSF8wXzFLYVNlX1J1bGNFRGRrWDk3d1BpQS1lamV1Y2VqNWI2OGtVeWZta01vSTRoWFV1OWc3TG9YczQwQml5VUloZzNCZ1poSjlKNkVMRzF3SFRMMlBEM3dBWlR2VThUdnNJN1Z6QlRLaVBYbnRTczhpTU5YQWlBRGxkM3AyYjI5VjNubXBWNU85YnpMVnpzMjRNU2FSbkw4QkdzanluQjF2ag?oc=5": {
       "title": "Inflação da Suécia acelera 1,1% ao ano em setembro com alta da energia - Valor Econômico",
@@ -2977,7 +2977,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:03.448973-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWZpcDNtLXZ4X2Z4Sk1ESlIwazZIU2V4YWVtSzFZaDlPTkpYd0M1UEpGdkN4clExX3pab2RpUGJhXzhySlZnQy0zd0dsRzNZRXVLU01McHhYTFV2MkFwZXNHTktwblQ0MWUwUXBNbGtydThmYmxrOE1mUWlmX3IyX1gwVjdXR3ZITVpXX3dwQkEwdk54b1NoWENkdmpMMTlacWFoWi1Kczl4WDY5UzltYjB2TmNnTUU?oc=5": {
       "title": "Escassez de diesel pode durar até 2027, alerta agência de energia - Folha de S.Paulo",
@@ -2985,7 +2985,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:03.449456-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUml0dmNjRTNBbHFMUVBkaUFUYTI0TGxnUDRlU2hwV0k3akdlVDlxR0hOSS1fbURGa09HMW9aOUVJSmQzT210S190VXo3UjNrQmk4UnpWd1VQY0I2RmxoWnA2ZmMxcUNrcTdLdU5xYTU3aHZSeXNMVS1uQ1NveG1ENnZiUkxPRklCZW85am1yT0JUUG1XSGJ4OXdfZ25zU3NhOTZ2T2J5MnNTRlZCVjlsdmRuejZ0dHg3LUZPdVJwc1lHRWlLWktMX1Z0X3NGSDYtTHhQcmd4SXhxQVRJeGlV?oc=5": {
       "title": "Disputa entre Funai e setor elétrico põe em xeque 20 hidrelétricas em Santa Catarina - UOL",
@@ -2993,7 +2993,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:17.836226-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTTBDOTFSeGVteU9Jel9qdTJvUlpJTk5odkNOdDJISkdHQmRQLVdRSE9NZlJmb1pxcklQUElVS3ZUdEVmMW9XaW9KaVNjMVF1OXlGM2hHTkFZX1BRUllMNEhFRV9JbVloa01TRHFhYUZDWkd2UGFycHpzTVNSTUZGclpla2w1WU5ocFNDMllqRHNXV2xUU0VtN05GdGZPQ1JwaVRwWXdtNDRnOHpKdEpFdWczVFZ6a29QQTVIWHYyQTlfeEVNVDQ4aU5LT0RXVUpQY2pyVG1vNFRmcGZLNks4OVF0VmRlbkV3RFZZeTNORQ?oc=5": {
       "title": "Companhia de saneamento do Ceará relança PPP após leilão frustrado; novo certame será em dezembro - UOL",
@@ -3001,7 +3001,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:17.836488-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUR0UXNaTVAzdzBCOFE1eElKNExORUhVYUo1UnBmdE94WjJ5aEFTNmxwNXFsX0VjeWRVT2l4NHBtOVU1WlBIVXB2TnoxOXVZd2VCc3pWa1Zuakg2VHFzUGlyd0VhdDc4TGlIMXVwOGtkUGdDOTluWDV6cUpjQkxQVXMtUlE3NjdxYU1zS3dsMmp1bzd3VkZfZEx2a2dIajdQZnE2RTZOZk1ObmczcllCYndCZjRpc1pMOGlkT1hDOW5DUXJVdnBxQ1M0eTVRUGVwOHZfaFhmaHrSAd4BQVVfeXFMTjJzRU1aZ2hGNmR2OFU0WDFhdG9IMmxpQWo2elYydDF6RG9DdE1EaE80NXdkR0ZPWmFnMjlfZ0tRYnM1WV9LQ1dsS0t0TDBVdXFzMHROQk55SGlfZzdPVlltc1JnZ0JvRHg3Z2tCSkFreWZsbEN0bVAzOXg4b3d5YzM0LThrNGRhR0lBR3BIczZyRHJmRVMtTTNaYlV1S2lCQ21ZLVhSSVNFSUxia281QWh5R2RkbWFna1lkdTdDWFdzUzZwdmVURjVrd1drZlN2LWtJc1JtMVAydnpoMnZR?oc=5": {
       "title": "Ataques russos deixam 600 mil pessoas sem energia na Ucrânia; Kiev relata problemas com Starlink - Estadão",
@@ -3009,7 +3009,7 @@
       "source": "",
       "added_at": "2026-10-14T12:05:17.836642-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmZrcElUOUpGZ1VRMXk0aG1rVlc4QlQ2SERlQUpuQzdzQ3IzNUNqUFIxYnJ0bTFLX2NlTlZaVHFRd3VkZHF1U0oyTktUVHpOYldSMXR3VWN4S1doOFZfUW9ibkhXYXMtQlZ1Y293MjdOSFRKX2JjRXJhUENRZGpKRDJqRzBJTWZ5QlNXUFRXUTFQY1duZGg0LUQ2eVY4Q0kybXJPZFZfQ29Na3VlOEs1cVpjVDFuSmF3aTNWdTVuWHc?oc=5": {
       "title": "Axia Energia abre prazo de três dias para conversão de ações PNC em ordinárias - Estadão RI",
@@ -3017,15 +3017,75 @@
       "source": "",
       "added_at": "2026-10-14T12:05:17.836699-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS29laG1qOXhXbkhaQ2NiYVVZQU03eWhybVhhdEFvWDRla2wzWEktWDloRy03d1o3dmFJLVhNeTFWakZVZzRYekxFYUdkdEs5X0V4UU1EZ1NsZXNRRVFkSFFTYVFZNGt4bjRYVWNGYUVNWTR6b0dIMTFNTzJIaS1SQld3RlprSThKdXN2NkI2RXZ1Q3F6NmlWOHVfT3BOeXhsUF9KeWRTdHM?oc=5": {
       "title": "Técnicos da ANEEL iniciam processo de regulamentação da reforma tributária - Agência iNFRA",
-      "summary": "da Agência iNFRA A área técnica da ANEEL (Agência Nacional de Energia Elétrica) emitiu, na terça-feira (13), uma nota sobre o fim da cobrança de PIS/Cofins nas tarifas de energia, tributos que serão substituídos pela CBS (Contribuição sobre Bens e Serviços) a partir de 1º de janeiro de 2027. O documento recomenda várias mudanças e sugere que o tema passe por uma consulta pública de dez dias, sem…",
+      "summary": "A área técnica da **ANEEL** iniciou a regulamentação da reforma tributária, com foco no fim do PIS/Cofins nas tarifas de energia a partir de **1º de janeiro de 2027**, substituído pela **CBS**. A agência sugere consulta pública de **dez dias** para definir impactos em tarifas e encargos.",
       "source": "",
-      "added_at": "2026-10-14T12:05:17.836783-03:00",
+      "added_at": "2026-10-14T12:05:17.836783-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHVOQWl6Y1FMQ1g3MTBpQ09KRzBzVEZlNm9rZlgydGZ5Sk1TSFNOYTlibVRUVHNKdDFhbVJPc1dWVUJqZHJWS24tSUxsTFppQ01jOFlyQnVDUUhXV2xPa2VaOWdzRzlNMWpEcmxnWEVLS3M5dE5FLXFZTUNuTUhlRmtBRWtSbXRs?oc=5": {
+      "title": "Anace aponta distorção na TFSEE - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T16:20:12.913819-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDlpMHpHQUNGUWY2eDFkalhoOGE1QnEzaXI4N2pfOFVIMjdMQ1VyRXNYZkFhcDI2d1JuX3ZGNkRjS0k0bUNuS0lhNWdURnU1SC1wZTdNMUFaSTR1RUtnZnowQUt0V0RSMDIyVVRaNUJrR01mMEM1NUR3ZFZDczdEcFdfVkd0QnpRY0tOcG0wZUlDZXZu?oc=5": {
+      "title": "Região SE/CO opera com 55,5% da capacidade - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T16:20:14.601918-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVi1PcU0ydXVSUWotQkNOZ3pQNmNMc2lxQllERUlfV0JjMVZjdkNCcERMUTVsZ21ta19aTEM4V2dXMmo2eEI0Mk1XaGphbFJ4M0RpcHg1anJSNW1HWEVERkR2aFB3aEtwbXdabnk3NUQyd0VMa29NRGVaYlFuLTJ3QktqWmthTGloWk5YeTJPRHEtb0pKQi1kWTNReklGclU1WVFKUFNjV3drU0lCRTQ4NWREN1A?oc=5": {
+      "title": "Echoenergia mira pequenas indústrias no mercado livre de energia - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T16:20:16.282284-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUlFUVzdDaDZZU0xzeHhSSHIzNHRsYUtYSE9FNV9iZllvQXl0QUVLNzd2MlktTDNXdTlpVHc1UnRFTjJuby15TlNPaWdzZ3g1MEtCNFA2ZVBGSHBjRTZ0RWxuVkZ0akVQanliU0NiNE1Da2JUd0N0YVp0cXpsMHJtVkpxTUtlVGloMWdBQ01LcVJneEpuS3M1NmZoY0U0Y0hFQ2MzTWh1ZmZDQWxqY1l4N21jMmhjZzJkcmw2NHViRHdCR1FaZlExZHMtakV6eF80N0E?oc=5": {
+      "title": "Aneel reconhece erro de cálculo e garante ajuste de R$ 1,2 milhão para Neoenergia Cosern - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T16:20:17.966449-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnBnVjVXdjlXUmI3UXZvVEJTYUFMNmIyMnR3b3Q1b0NNSU56dEZEVXF3Q1VMX2ZuQUdLWWczWG9DMENwS3FCcXFSUEwyeEpIRFZNdHlVZGUzSHl0RkRBR0FSUEhwOWVpdXVzWl9EVzh4LTB1VllObkFMOXJOcE1OanhWQQ?oc=5": {
+      "title": "Boletim InfoPLD Diário - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T16:20:36.401839-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHNLNWRjZzM0XzFVUE45MlNqZS0xYmJCdXJZQjhjMjNCYzIwdTBoYnhiWFI4enVjM2NTRzNjYTRFR1ZMcjl5d2g5THRfSE1HdlRuc2Y4N0lOdE1zcE9adFNGYkdRZzdLNmswZFhEbzVsVmNnamM0U3NfRml2WFU4YnBZYXM2eTVmS1JQZjNRQW5BZ2s3bDJoN2hCVHFMUFM0TFNteVl1a3pqX0lPakVSQmJTS1ItWm1p?oc=5": {
+      "title": "China e Rússia ampliam cooperação no Ártico por energia e logística - Folha de S.Paulo",
+      "summary": "Esta é a edição da newsletter China, terra do meio desta terça-feira (13). Quer recebê-la toda semana no seu email?",
+      "source": "",
+      "added_at": "2026-10-14T16:20:46.091054-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1lqUnlmMXhDQ2FQSkJHYUt3cDRGZFRfNnlhTGpJSzczWGk0Y0VSY1Z5SDVrOEpmWUx3R3NmNlB5MC03d2hPLVpUU1Y0OUtFSGF1bUJhUGVKcTlBTzV3ZnBNWWdzZFVDbnJfY0ZnUmNESW54RHdTMjhPYnZpZ2VLcHFxNU9aYzZTWlRSaEJDa0pHVVlFS2FGbDJaQXJuRXVucndv?oc=5": {
+      "title": "Opinião - Jerson Kelman: O futuro da energia solar no Brasil - Folha de S.Paulo",
+      "summary": "O crescimento exponencial da geração solar conectada à rede de distribuição deve arrefecer com a eliminação gradual dos subsídios cruzados. A exceção a essa desaceleração poderá vir de um cenário prospectivo: uma queda drástica no custo das baterias que torne viável, em regiões de menor densidade, a desconexão total da rede.",
+      "source": "",
+      "added_at": "2026-10-14T16:20:46.091228-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUll5dV90dWhKTFpQLXFINWVOZWZNckRHdWhtSnBOcTltTkIxV3dCS3AwZGQwWFVMNjZ4OFRWRXJ2YXRkbHZxOHFlcWoyVnVoZWtoTjJRSnBORy1iQVRyWkhGVjJzT2loRzBzLVUwbl9yZ3lkX2JoMDhiZHFOdDlkdHRRVWRudXM3bGxUdjgwNWt4Yklja3dGdzFB?oc=5": {
+      "title": "MME abre consulta sobre governança de modelos do setor elétrico - Agência iNFRA",
+      "summary": "O **MME** abriu consulta pública por **20 dias** sobre propostas de portaria para aprimorar a governança de modelos computacionais do setor elétrico, envolvendo **EPE**, **ONS** e **CCEE**. As medidas buscam maior transparência e previsibilidade nas mudanças dos modelos.",
+      "source": "",
+      "added_at": "2026-10-14T16:21:06.869128-03:00"
     }
   }
 }
