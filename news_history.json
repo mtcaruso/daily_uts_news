@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T19:02:45.753281-03:00",
+  "last_updated": "2026-10-14T19:33:09.519392-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeEp6Yi1WYXVDYkVVbm9UcDU0c1RoMFpWdzF1VC05RVZZMlRpNm91QUpWdDNEdDZWTHVIT0ZWQURpSEI0aGFNNEdja0lfNFl1ak9Iay1weHl5UnBwV09RTTFpMmhTS0M5WVRnZDZOT1h2V2VyUVhaSVYwNkZwVlhrNnZaTVlYNVJ6a1V1ckNfNmIzT2RqZGIxQ3RwcnFCcXVLbHZ3ZUVFaldHWnhiWU5nbm5zN0JmQWZOTEFwMzJSdXdIY3ZvZFhvZXZmSkt3OEhFQlHSAeABQVVfeXFMTmRXLUJGcnpSTExEVE5LU3RKMWtNSGFHc2VIc1BpN2htUUhkZUg3eENidUJ3SUlSck9VLWQxanNMdVhNWGRmLWV1aEJfczQtbllfN2pmMGIyQzA3SFotc0hCOEZBLXVUeEZKUFBwcnpDaGVVT2k2dDU5ejJtVm5OVWN1Sl81bUZPdWQ4bkJZUjZGakIyR002YjFraE1vcDZfM3cySFIxMTR1LUVxLXIwYVV4Q3NIRGJOWmx4cFA3ZnNyNlBkMEd5X2xxSVBsSHhjSkpMLUdVUXRyaFVsN3JKTXU?oc=5": {
       "title": "Falta de energia vira principal obstáculo à expansão do setor de petróleo na Venezuela - Valor Econômico",
@@ -2721,7 +2721,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:19.541573-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZmd3U1Q0anFBd215RkRBR0NDakgzLUVPdEpJWk5TMFBmWlVIV0lfSUtTNHYzV2UtaFpCczh6VjJtNTZUeUZsU0kyUmsySS03ZGNSNVJhbzdBOXJobUlDT3BUUHJzZ1Juc1MxemVjUEdHVTZWM3p0TEJwa0VONkFNUFNqaGpKMVhYNjFic1F5NFhRakM2WFBzMGxnT3ZIWU1qb1pMWmJubExVY0Zkek9GQzZNYmJaZ3Y3MVY3eEhvT2VCcThLdU1qM2VhWDB1VlNXWUMxMDdfYVVKM0J5c0k4bEdLQnE?oc=5": {
       "title": "Aneel mantém indeferimento de pedidos de reequilíbrio tarifário por Covid-19 de cinco distribuidoras - CanalEnergia",
@@ -2817,7 +2817,7 @@
       "source": "",
       "added_at": "2026-10-14T12:04:50.344318-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcG9UN2hVWmVGN2NhNF90MGJ5U1NaUjJSMm1FZVVqM0N2TVFDMGNIZUNNRUhrd0l3MDJxU0cyOVRRRmQ3XzUwRWZuWkdJb2g1UnNqQXZ2WGVfODRqem9DcnBsZFdldUg0NGJJaUtqUnpYNGduX3Nic05rNDBBYkpWVHktdHp5SjFmVDd3Z1lDNXRYVzYxMkZGSWNUSWlabzNLVWlFb0ZWNXk1QS1pY3BHUmozZHlJY0dQTkVzWHc1OGVxNTVzQlE?oc=5": {
       "title": "Relatório da operação do SIN durante as eleições nacionais de 2026 – 1º turno - CanalEnergia",
@@ -3107,7 +3107,7 @@
       "source": "",
       "added_at": "2026-10-14T17:37:34.481429-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3ZGSU5hNDVTTlVwOXhhWGkwQXAzcHI1cWs5VGdOemFqSnYyUzE2ZmE1QUktXzBYRzRMandlbUU4UmpfejhRLWtvZklFbEVFOHo5blBOZXVyZWcyUEVEZWZoNjVzdnI0VXFrUVNybU52Z3JfN3VZeEczVlFJbzJnS2tpMkxvM3VLQVh4YVMtbDZNUmFMU1ptVVZQRGwxUQ?oc=5": {
       "title": "Finep apoia tecnologia com terras raras para ampliar geração solar - Agência iNFRA",
@@ -3131,13 +3131,21 @@
       "source": "",
       "added_at": "2026-10-14T19:02:34.605466-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTFPVGRqMmEzMzdRWENITi1HZ2ZXUGRSTDRJeldPTjZFNk9FZURWaDQ5aEJJdVFsRENPTWYwbzkxQlljTzVuUEF3SUpxeGppRzJzY1pTVjM2ak80QWpOVG1kM25udlFRSnlqNk8zQkIyamNBWXBsd19YX215aG5KU3JnT1h4QVQzdUlDeEJyYlB6LVZIMGhhWTdMUl9uSkZJTmpQVVBiUTBjU1pvbHBiUm5nU0ttN1c3cEFEZ09PTDZ3UVdDYXlveWxuRC1MUGhkRjJXYWp0cUQxcVk?oc=5": {
       "title": "Abrace: em 26 anos, pressão dos custos energéticos representa 48,2% da inflação dos investimentos - CanalEnergia",
       "summary": "Abrace: em 26 anos, pressão dos custos energéticos representa 48,2% da inflação dos investimentos. Estudo feito pela Ex Ante atualiza uma série histórica iniciada em 2000.",
       "source": "",
       "added_at": "2026-10-14T19:02:45.743224-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNckVIZVZhb1ZwRjQyME05OFUxZmM1UjN6bmQyc0ZxRENRMjlqZzdPbVBTRkhCUkdYTUh5bnVzSmNDdGg4NDNrNFVoN2hpbFB4X1YxeDdMQk9nTHJGZzN2eERrZ05scU1NNWJBeEhjczZHN1R5QjB4RnQtX3lWX2lBSm5xdzBtTlYwMGFqRGRvZlpGTmR4LXFRcW85VDcwQQ?oc=5": {
+      "title": "Adição de energia eólica e solar no Brasil cai 27% em 2025, diz BNEF - Agência iNFRA",
+      "summary": "da Agência iNFRA O Brasil registrou queda de 27% na adição de capacidade de geração eólica e solar em 2025, passando de quase 24 GW (gigawatts) em 2024 para 17,3 GW no ano passado. Segundo levantamento da BloombergNEF (BNEF), a retração foi impulsionada por restrições na rede elétrica, aumento dos cortes de geração (curtailment) e perda de atratividade econômica dos projetos.",
+      "source": "",
+      "added_at": "2026-10-14T19:33:09.500751-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
