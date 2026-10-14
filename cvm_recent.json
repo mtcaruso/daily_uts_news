@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-14T20:25:54.658268-03:00",
+  "last_updated": "2026-10-14T20:32:35.595867-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGDEB",
+      "especie": "TERMO DE NÃO INSTALAÇÃO DA ASSEMBLEIA GERAL DE DEBENTURISTAS, EM 1ª CONVOCAÇÃO, DA 24ª EMISSÃOAta",
+      "data_referencia": "20261014 14/10/2026 11:00",
+      "data_entrega": "20261014 14/10/2026 20:28",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "TERMO DE NÃO INSTALAÇÃO DA ASSEMBLEIA GERAL DE DEBENTURISTAS, EM 1ª CONVOCAÇÃO, DA 24ª EMISSÃO",
+      "protocolo": "1577248",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577248",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-14T20:32:33.549616"
+    },
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGDEB",
+      "especie": "TERMO DE NÃO INSTALAÇÃO DA ASSEMBLEIA GERAL DE DEBENTURISTAS, EM 1ª CONVOCAÇÃO, DA 26ª EMISSÃOAta",
+      "data_referencia": "20261014 14/10/2026 10:00",
+      "data_entrega": "20261014 14/10/2026 20:28",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "TERMO DE NÃO INSTALAÇÃO DA ASSEMBLEIA GERAL DE DEBENTURISTAS, EM 1ª CONVOCAÇÃO, DA 26ª EMISSÃO",
+      "protocolo": "1577249",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577249",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-14T20:32:33.549648"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
