@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-14T16:35:24.515639-03:00",
+  "last_updated": "2026-10-14T17:03:36.116999-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Alteração da data da Conferência de Resultados do 3T26 -",
+      "data_referencia": "20261014 14/10/2026",
+      "data_entrega": "20261014 14/10/2026 16:59",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Alteração da data da Conferência de Resultados do 3T26",
+      "protocolo": "1577105",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577105",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-10-14T17:03:33.302318"
+    },
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Calendário de Eventos Corporativos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261231 31/12/2026",
+      "data_entrega": "20261014 14/10/2026 16:55",
+      "status": "Ativo",
+      "versao": "3",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1577103",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577103",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-10-14T17:03:33.302291"
+    },
     {
       "cnpj_short": "00245-3",
       "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
