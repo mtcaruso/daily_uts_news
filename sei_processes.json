@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "79accdc9639d",
       "3728cd9e62ac",
       "70c1f9265fef",
       "6b066c075d2e",
@@ -600,12 +601,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 593,
-    "documento_count": 470,
+    "andamento_count": 594,
+    "documento_count": 471,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-10-09T17:30:35.853015-03:00",
+    "last_check_at": "2026-10-14T16:34:18.718248-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "14/10/2026 10:30",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "79accdc9639d"
+      },
       {
         "datahora": "09/10/2026 16:55",
         "unidade": "GAB - APOIO",
@@ -659,15 +666,16 @@
         "unidade": "GAB IV - GNSJ",
         "descricao": "Processo 48500.027840/2026-52 anexado",
         "hash": "db056ab2e643"
-      },
-      {
-        "datahora": "22/09/2026 16:56",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "e08b90cb4c9d"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0480908",
+        "tipo": "Memória",
+        "data": "14/10/2026",
+        "data_inclusao": "14/10/2026",
+        "unidade": "GAB - APOIO"
+      },
       {
         "protocolo": "0478332",
         "tipo": "Memória",
@@ -726,13 +734,6 @@
       },
       {
         "protocolo": "0460069",
-        "tipo": "Memória",
-        "data": "11/09/2026",
-        "data_inclusao": "17/09/2026",
-        "unidade": "GAB - APOIO"
-      },
-      {
-        "protocolo": "0460071",
         "tipo": "Memória",
         "data": "11/09/2026",
         "data_inclusao": "17/09/2026",
@@ -1209,7 +1210,8 @@
       "0462590",
       "48500.027840/2026-52",
       "48500.028241/2026-56",
-      "0478332"
+      "0478332",
+      "0480908"
     ]
   },
   {
@@ -1260,7 +1262,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-09T17:30:39.506291-03:00",
+    "last_check_at": "2026-10-14T16:34:22.373044-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1457,7 +1459,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-10-09T17:30:43.153670-03:00",
+    "last_check_at": "2026-10-14T16:34:24.951380-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1633,6 +1635,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "6e3998d1c792",
       "4d58e52ce028",
       "693a62a767e3",
       "34d07d555f25",
@@ -1904,12 +1907,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 270,
+    "andamento_count": 271,
     "documento_count": 140,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-09T17:30:46.501242-03:00",
+    "last_check_at": "2026-10-14T16:34:28.431254-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "14/10/2026 11:01",
+        "unidade": "STE",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "6e3998d1c792"
+      },
       {
         "datahora": "18/08/2026 10:14",
         "unidade": "GAB III - LLS",
@@ -1963,12 +1972,6 @@
         "unidade": "SGI",
         "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
         "hash": "533a29ac5bbb"
-      },
-      {
-        "datahora": "29/06/2026 14:41",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "34a6abf3239d"
       }
     ],
     "last_documentos_top10": [
@@ -2193,6 +2196,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "045738d3813f",
+      "d80e80437a59",
       "8d92f4221d5f",
       "85268efa0055",
       "31520190732b",
@@ -2286,10 +2291,22 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 90,
-    "documento_count": 57,
-    "last_check_at": "2026-10-09T17:30:52.264460-03:00",
+    "andamento_count": 92,
+    "documento_count": 58,
+    "last_check_at": "2026-10-14T16:34:31.139103-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "13/10/2026 15:16",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "045738d3813f"
+      },
+      {
+        "datahora": "13/10/2026 15:05",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo remetido pela unidade STR",
+        "hash": "d80e80437a59"
+      },
       {
         "datahora": "21/09/2026 12:21",
         "unidade": "STR",
@@ -2337,21 +2354,16 @@
         "unidade": "GAB - APOIO",
         "descricao": "Conclusão do processo na unidade",
         "hash": "8a4c5ec21847"
-      },
-      {
-        "datahora": "28/08/2026 08:38",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "913ed2b15c7a"
-      },
-      {
-        "datahora": "24/08/2026 10:37",
-        "unidade": "GAB V - WMF",
-        "descricao": "Processo recebido na unidade",
-        "hash": "a46363df53cc"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0480158",
+        "tipo": "Memorando 203",
+        "data": "13/10/2026",
+        "data_inclusao": "13/10/2026",
+        "unidade": "STR"
+      },
       {
         "protocolo": "0476140",
         "tipo": "Lista de Presença",
@@ -2414,13 +2426,6 @@
         "data": "24/08/2026",
         "data_inclusao": "24/08/2026",
         "unidade": "PROCURADORIA FEDERAL"
-      },
-      {
-        "protocolo": "0425150",
-        "tipo": "Ofício 297",
-        "data": "10/08/2026",
-        "data_inclusao": "10/08/2026",
-        "unidade": "STR"
       }
     ],
     "documentos_protocolos": [
@@ -2480,7 +2485,8 @@
       "0461405",
       "0458377",
       "48500.025214/2026-21",
-      "0476140"
+      "0476140",
+      "0480158"
     ]
   }
 ]
