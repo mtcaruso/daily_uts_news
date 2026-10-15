@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T19:14:39.326657-03:00",
+  "last_updated": "2026-10-15T19:51:25.778186-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLU5hYzdablpVY2JXbW1BaXMySU9YTEdLNzJwWmRoZXBoZXFBaV9TOEJFcEZfamdYU2w4RHNkODlCVG52Rm8yTUkxcDExakFTV2RGaWJYYjB3UmRzY1dScDBtT0lVd0RISGdYdFR4V05ubkNsS2hXQ21wWV8yZ081YUtPYkt3ay1DR0lVSG44RTZlcFRtZlFLQlZrcnVOM25FaEhhUDlTQkh0VDR5d2kwSE9IN0lrenVwcHJZYTlVbzE0Tk91MkdKNzhmUS04WjF5Ujlqd3FLVzNuYWNu0gHrAUFVX3lxTE5iZjBPaFBfRjVfSFFrWG1nY0tWMHNrZHZmeDVxT0ZLR2NqdzZybXVMRmREZ3lGWW1hTldLTmMxb3dfd0VIY3dVSHE1bmtPdE5JSzRRSWI5U3NOb0NRei1zV24zajBGVDlOVWwzdThIOHNyWWIxNUhkT3NSTG5lTzZHZ1RjNDg3a1pqTXV5dU1hSVdwQXNIZ0otdEJ3MGhPeEk1V2FWcGR5SGNtYlZDM1ZlelFSYjJQTzBiUU9FN1VWbzhQbGg4SHdVX2dpWWZ5ZnkzUTBpTW4yeG5aRHhTUXBNUDNGdnVqWTFIR2s?oc=5": {
       "title": "Secretário de Energia dos EUA diz estar confiante de que Europa liberará estoques de diesel - Valor Econômico",
@@ -3080,16 +3080,14 @@
       "summary": null,
       "source": "",
       "added_at": "2026-10-15T11:57:29.683557-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGJuMm94QUFDTEpZOWZDaEYxeklfNFdqbjI4NDlZOUZPUV9fQzdPVXhuQVRhQ0V2cG82ajlfWlRRaUQtM0liM21pdDl5OW9ob08tcmFlUTIxQ2gwWGc2andvcEdBWWo1dWR5ODhHNmVIeDRZRnB2T2ppVVRZNlVJT2dCY0JSakdTaGM5SkYza1dkb0RaMjZremE3Nl9GWFo3X3dnRzZxMG5IWlFEa3haOWFjOA?oc=5": {
       "title": "Confiabilidade de Sistema Elétrico: difícil de entender? Nem tanto. - CanalEnergia",
-      "summary": null,
+      "summary": "O artigo explica o conceito de confiabilidade do Sistema Elétrico, definindo-o como a capacidade do sistema de suprir seus consumidores de forma contínua, mesmo diante de diversas situações ou acontecimentos adversos.",
       "source": "",
-      "added_at": "2026-10-15T11:57:31.535583-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-15T11:57:31.535583-03:00"
     },
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb1hud1ZOSVg2YkVuT1VZN1hWM2VGeE9zVmh2X0RFSEJHbER2YzExU0o3LXlFRHlZeHBlbGN5dTBLVlAyaFFycWJPZGV5cHM5N3NiVzA5TmJyd1NwU1hkSXV2N3lIWFlkTVBRem53LVd5am9GeUpNZ2g0QV9QYk9oRXdyRDB4Q3pENFNTN0pEa3lmaGJ4OTFEaFVfZEgySTdRR1hZcU9jdFdMYmpLLWV5OC16TWFlUnVXVHBZSGVVSjhBSnVYZVdKX2xUR1pfc3NBR0lSRENiaGlObmZibEZMZnFKQ0ZKNV9WT2Y5NVM0ckpyUFHSAYICQVVfeXFMTVBrN3NUYmFwNmt1Q2NaN2RzeWtQanoxTXlndU5HZ2dvNm05dkg5WFNVeG8tRmV6dnczT01lWjVfZ1VlU2kxVU9qa1RmWkFEaHQtQjY2MVpGSUl1TnQ3T2dhRTlnWG9rbUdMVVMwS1BndGR1eEk0Uk1QNjRiVlhYdmVsbFo2Tk5Fa0hWRzRiZ1FxdWJocU1yNGc3d1N3X1E3dXdXblZXVDBsOW9sUW8zRy1ReHZSRzJYWk5hQ2laVW9jSVNpamNCMzVLZVhfZC1KRmdzTUZTVV9FaWdseUVrRWYwY3BaR1pJYklaenkzWkxFcEhWbmZud2xFeTFfajM3Rlhn?oc=5": {
       "title": "Sem rivais chinesas, empresas taiwanesas e sul-coreanas miram mercado japonês de armazenamento de energia - Valor Econômico",
@@ -3147,27 +3145,21 @@
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVVRMS3QwWHhCdTV3UGtablE4UkVZVkxqelNTUTFSaTVmcFllTXFZSldBLWVZR1dpMVZuNmxDLUFhcU1fdEh0UDRBbk1nOEppY2dDYWpEbWV5OEdQSTNoUFg2RFlKTldPZFBMRHlmSXQ0dmdTNHBMaFhKWl9ZUWNneHhQb2hwLW9ZMzZ6X3BXbTF3QTdJYXpQV3FBNzhLVFU1dDBRRjZ3?oc=5": {
       "title": "BNEF: adição anual de renováveis cai na América Latina - CanalEnergia",
-      "summary": null,
+      "summary": "A adição anual de energia renovável na América Latina caiu, sendo a primeira vez em 10 anos. No Brasil, a queda foi de **27%** em 2025, impactando mais as eólicas, mas o armazenamento de energia deve crescer.",
       "source": "",
-      "added_at": "2026-10-15T16:05:26.889139-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-15T16:05:26.889139-03:00"
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHRBSzBFbjY1R1MzUGtJOS1nOTcyXy1jclVQWHBJZHlVdzlMZ1E1UUtTWlo5VVFPVlZ3M205SHV5VU42WHdWRlhSMW5WOENWclFVMm52TXJKcFgtYjJJSWUxV2pIc1lTaHhST3BuWGZxQ1JpSERHUmdWTjNjak1DVE5hVHRudVZfTFhDQTFxcC1QMEV1WTRZa25DTnY5aHVIQmE3aUVHeFM5YXhpSFpRRFF6WWRwcUFCVGJZQi1GMjMyUHhJYWtJ?oc=5": {
       "title": "Transição energética pode elevar PIB global em US$ 47 tri até 2050, aponta Irena - CanalEnergia",
-      "summary": null,
+      "summary": "A **Irena** aponta que a aceleração da transição energética pode elevar o PIB global em aproximadamente **US$ 47 trilhões** até 2050, gerando ganhos econômicos significativos.",
       "source": "",
-      "added_at": "2026-10-15T16:05:28.689525-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-15T16:05:28.689525-03:00"
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDdIYnU3WjdkdDY1MnFGdmdUY0FpV3VocUN0WFVMOGM4S0JvLWw2NlpBWU1Yd0JzdWZGOHoxZnBpcXpncFozUmJ3eVhJbGZMeEcxYVhyZW9HMWhHRHpzUzBkTFRPY2JXOUNibGlaanpfS2prd3ZfcUdha3plbUhBX0hiYU5aNjh5ZmJWbVA3UHB6Q19B?oc=5": {
       "title": "Reservatórios do Nordeste operam com 65,1% - CanalEnergia",
-      "summary": null,
+      "summary": "O **ONS**, **CCEE** e **EPE** lançaram um novo modelo para os Indicadores de Desempenho do SIN em **Setembro de 2026**. A notícia também menciona a queda na adição de renováveis na América Latina e o potencial de crescimento do PIB com a transição energética.",
       "source": "",
-      "added_at": "2026-10-15T16:05:30.478923-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-15T16:05:30.478923-03:00"
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ2FyZVVGYlhQMmk5RTZmZkZpTzIzUUJCQ0V3c0dSc0Jfb0o2N0NSdlhuRDh5c3JrMWp1RGZObmd4YkEtYzJkSHNHRFNjNFRXSENaQUI2elZKOXRWSUZab19jeVVNNldOYVVRb3N2U0sxTHNDbTJnRFI3TjNKaXZmZkRUbkFlZWFqNDUzOGoyc1VWZ3dlY25OLWdoTjhDY1AwNjJtQmtIeWpScXBHTzUxSFpiSGtNeUU?oc=5": {
       "title": "Prêmio ONS de qualidade na operação ganha novas categorias em 2026 - CanalEnergia",
@@ -3191,33 +3183,29 @@
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWEhuYTBoaFQ2U204NmNYaDFuc1VkMTRkZElqbGxHblBqYzlwVWVnVURkODhNalRxX0FHdzczMkhmRm0tTGNBSGR1NG1hM1g4MUJvWTduZmFwWmhqaS1NTlRZTXFMT3hwVWthTk1LeVlkVjZISFFPQjZDOVVBVFBzZnFfVll1TVFYR1lRbkh4RlJ3MmU5Vk5XdGZiYlZ3bURZM0dIX3c0STNJa2hCRzNjcTFMV1ZXZw?oc=5": {
       "title": "IEA acelera liberação de estoques de petróleo e prioriza oferta de diesel - MegaWhat",
-      "summary": "A Agência Internacional de Energia (IEA, na sigla em inglês) pretende acelerar a liberação dos estoques estratégicos de petróleo, ainda como parte dos esforços previstos em sua ação coletiva de março de 2026, com foco no fornecimento de diesel. Até o momento, cerca de 330 milhões de barris já foram liberados, e os países-membros da agência concordaram em adotar as medidas necessárias para…",
+      "summary": "A **IEA** acelerará a liberação de **100 milhões de barris** de estoques estratégicos de petróleo, focando no fornecimento de diesel, após já ter liberado **330 milhões de barris**. A medida visa conter a alta dos preços do diesel, que atingiram recordes.",
       "source": "",
-      "added_at": "2026-10-15T16:06:16.911430-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
+      "added_at": "2026-10-15T16:06:16.911430-03:00"
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEo1LV9TQkJiaVM1Y0RjQmsxbmdBSTRLRFp3NlkwenlCRVRkWXM4YkhmNUFJMFM5cnFERmhCY2l6cTgtU1dSdVFZVldRM2ZLdldMdDM1ZmlSWEYxdk5waENEazFaSFh2TGVMRDhpbDM2RkQyYjNYcUJpT1UxazlKYUlYNXJtdmZ6d25OTTlSRG8xaUZIQm4tTjNseDZjaU9xZEFkWHFja1BaVEg2MFcwM081M1hxWWJEZ1E?oc=5": {
       "title": "Com calor, preço da energia dispara 2.408% no fim da tarde desta quinta-feira - MegaWhat",
-      "summary": "O preço da energia elétrica no mercado de curto prazo terá uma alta de 2.408% entre a tarde e o início da noite desta quinta-feira, 15 de outubro, passando de R$ 57,31 por megawatt-hora (MWh), às 14h, para R$ 1.437,37/MWh, às 19h. Os valores foram divulgados pela Câmara de Comercialização de Energia Elétrica (CCEE), responsável pelo cálculo diário do Preço de Liquidação das Diferenças (PLD).",
+      "summary": "O preço da energia elétrica no mercado de curto prazo disparou **2.408%** no fim da tarde de quinta-feira, atingindo **R$ 1.437,37/MWh**, devido à alta demanda e menor geração solar. A **CCEE** divulgou os valores, que acionaram usinas termelétricas.",
       "source": "",
-      "added_at": "2026-10-15T16:06:16.911604-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
+      "added_at": "2026-10-15T16:06:16.911604-03:00"
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHRwZmhMWl83c1JfQjhWTDBqcGVBSEZlNmhETEdicnFZdVRIR2huYURMMnloM3dzWlhmMF92Wi1wNkllcm1wdkpXaXhTM1o4V3haTUhmN2xkWmpDcDVHeTZDblJobWhqWnl1U1FqMVNhYkFNMTlkS0lvVklBOWNLQmY4cmlRbmNsa1pPckdUa1AwRlhnYWEwM1pHbVItQWtUNjV4YmUzdw?oc=5": {
       "title": "Liminar envolvendo PCH faz inadimplência subir 44% no MCP - MegaWhat",
-      "summary": "A inadimplência no mercado de curto prazo (MCP) de energia cresceu 44,1% em agosto, de R$ 98,99 milhões para R$ 142,65 milhões, em razão de uma decisão judicial envolvendo a Iguaçu Minas Energética, geradora em recuperação judicial. A disputa judicial envolve um crédito de R$ 41,28 milhões da Câmara de Comercialização de Energia Elétrica (CCEE) contra a Iguaçu Minas, que entrou em recuperação…",
+      "summary": "A inadimplência no mercado de curto prazo (MCP) subiu **44,1%** em agosto, para **R$ 142,65 milhões**, devido a uma liminar judicial envolvendo a **Iguaçu Minas Energética** e a **CCEE**. A decisão reverteu ajustes contratuais e recontabilizou valores.",
       "source": "",
-      "added_at": "2026-10-15T16:06:29.602171-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
+      "added_at": "2026-10-15T16:06:29.602171-03:00"
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEhtdW9JWXdOT042ZExQcjlOQ0l6NFdiRHh4UWlvcDBJZ1lVZWM2dExXSlpJeW5qMnFKOFJZdXpiem9vNTI0TUNxaThPZHRwM25kSENiUGJNV0NVLUhTVDg3SUVPNTRLTEFva1l0clNEc3F1Tkl4cVIxc1FXTGZwUzEwVFVxcmRFLUhvM1k4ZzM1blMyVkxkSWNnblNtNnpqazhzYU42cFpaalRaaHBlZEx0bkZBLTUxSlkwLTFNbE0?oc=5": {
       "title": "Casa dos Ventos avalia compra de 300 MW em projetos renováveis da Voltalia - MegaWhat",
       "summary": "A **Casa dos Ventos**, através do fundo **Salus FIP**, avalia a compra de **300 MW** em projetos eólicos da **Voltalia** localizados no Tocantins e Rio Grande do Norte. A operação, que envolve sete SPEs, foi submetida ao **Cade** e depende da aprovação da **Aneel** para a transferência das outorgas.",
       "source": "",
-      "added_at": "2026-10-15T16:06:29.602310-03:00"
+      "added_at": "2026-10-15T16:06:29.602310-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0xaNGVIUEVoZHhYZ2tQdS1CSTVCekh5ZVlxZXhWMThEUjI5bThQVTdzczVyXzNUTnIxV2luZ0pYbFZpUlJhX3FaRENlYXBCTmRxQ21nQUViRjdpcm1xWm1yY0Nud1VDZkRTVzVZTWRTODlzWGhsWkFOOGEydmxlU2JkWGFZOGMwaldhRXFWTi1zdmVLV0hFb19hN3pBejVzN0JXaThhRXM4QkpWS0Exa3pfeGJibnZFSzFj?oc=5": {
       "title": "Entidades pedem a Lula regulamentação do Redata com gás natural - MegaWhat",
@@ -3249,19 +3237,19 @@
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV09xMHlhQjM2NnFwZGUzem5TZlJ4VEY1Ylhsb1pIcDBjc18yRlhBLWpMVXNhVXZ6YXpWek5hZTRNMEJ0amdDTXpQX3VSX3dzd0x1R1NlSW00UU94MktZSHhoaFZobDJMeFNuVjBtZUNsVUhJdjRTb0V6dDdMeU9LVDhvLVlLamI0a2dNNlpDTFpDbHZnSElBNjQwd1o3Q3BqUFN6TVp3TGtBN19uNHloNHgzYmMycWl1cmNqUTBmU0ctUDVHZ01IRUl3OA?oc=5": {
       "title": "Agência de energia libera mais de 20 milhões de barris de diesel para o mercado - Folha de S.Paulo",
-      "summary": "AIE (Agência Internacional de Energia) concordou, nesta quinta-feira (15), em liberar mais de 20 milhões de barris de diesel para o mercado o mais rápido possível, bem como qualquer petróleo remanescente da liberação recorde das reservas de emergência prometida em março, a fim de ajudar no abastecimento e conter a alta vertiginosa dos preços. O presidente dos Estados Unidos, Donald Trump, tem…",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-15T18:55:45.254731-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUJGMmpnemJ3YWdscDNIM21la3FCZGNQN0JxUUVLWmNqTzQ3a3cwWS1nWV9PdlV3aHlCdE9jYWs1QVJQbmtvczJzbktuNmZPLWM0WUplNmRGemh6c1kxV0lOQ0dDZC12ZmNFc0RRT2l1WXBVdWlEWVBwRzllZjMxenR5OEltdXg4MmtFUEhYVl9oWHpRcEhJ?oc=5": {
       "title": "ONS, CCEE e EPE abrem código de novo modelo - CanalEnergia",
       "summary": null,
       "source": "",
       "added_at": "2026-10-15T18:55:57.400534-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmV4cmpmUEwwNjVwak1NbjZHa0NsaGhqdWcyNFI2U2lna2FOcDZfc1hxOG9PVUdIN1hOLTVKUnlkY1FfcWg3M1ZUSWZSbE5MWmxXTm4xZV9FWUhCZFc3VEhjN1MtaHVGR1lKSy1kNGlIWk02dVlkR1lqNHdEWEMwSk1VUktZTzFWcUJZM3RWdmRwdUY1NEZOeXh1eFBVb21IYk5EOC1zdjNncHVLZTkzY2E2eUVKVFk?oc=5": {
       "title": "Projetos eólicos de 320 MW da Renobrax avançam no Rio Grande do Sul - MegaWhat",
@@ -3275,17 +3263,15 @@
       "title": "Energisa abre chamada de R$ 31 milhões para eficiência energética - Agência iNFRA",
       "summary": "da Agência iNFRA O Grupo Energisa abriu uma chamada pública para selecionar projetos de eficiência energética que receberão aproximadamente R$ 31 milhões em investimentos. A iniciativa contempla as nove distribuidoras do grupo, com atuação em 11 estados, e integra o PEE (Programa de Eficiência Energética), regulado pela ANEEL (Agência Nacional de Energia Elétrica).",
       "source": "",
-      "added_at": "2026-10-15T19:14:20.443522-03:00",
+      "added_at": "2026-10-15T19:07:04.633249-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfVWhhVXQ1bEZ0cWRJdnVtNlBSdE1aR0x0TzdFOUpMSHJtSzZFb3JUZ0o3WmZ0NHZDYlVSZ1hQc09KQmU3Wnk3ZXFTTVdpaXZzbnJGdXdjV0VuYmd0?oc=5": {
       "title": "Tag Energia - MegaWhat",
-      "summary": "21/11/19 MegaCast Convida MegaCast Convida: Derivativos de energia O podcast desta semana da MegaWhat debateu os novos instrumentos que devem chegar em breve ao mercado de energia brasileiro: os derivativos. Para debater o assunto, recebemos o presidente do BBCE, Carlos Ratto, para uma conversa.",
+      "summary": "O podcast **MegaCast** desta semana debateu os novos instrumentos de derivativos que devem chegar ao mercado de energia brasileiro, com a participação de **Carlos Ratto**, presidente do **BBCE**.",
       "source": "",
-      "added_at": "2026-10-15T19:14:32.916251-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-10-15T19:50:26.516376-03:00"
     }
   }
 }
