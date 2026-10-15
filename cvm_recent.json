@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-14T21:00:15.142058-03:00",
+  "last_updated": "2026-10-14T21:31:51.498010-03:00",
   "items": [
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Assembleia",
+      "tipo": "AGDEB",
+      "especie": "Proposta da Administração - 23ª EmissãoProposta da Administração",
+      "data_referencia": "20261019 19/10/2026 10:00",
+      "data_entrega": "20261014 14/10/2026 20:38",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "Proposta da Administração - 23ª Emissão",
+      "protocolo": "1577253",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577253",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-10-14T21:31:50.069911"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
