@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-10-15T18:53:33.379123-03:00",
+  "last_updated": "2026-10-15T19:40:04.510653-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Alteração na Diretoria -",
+      "data_referencia": "20261015 15/10/2026",
+      "data_entrega": "20261015 15/10/2026 18:32",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Alteração na Diretoria",
+      "protocolo": "1577552",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577552",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-10-15T22:39:54.958479"
+    },
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Assuntos Estratégicos de Estrutura de Governança.Ata",
+      "data_referencia": "20261014 14/10/2026 11:00",
+      "data_entrega": "20261015 15/10/2026 18:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Assuntos Estratégicos de Estrutura de Governança.",
+      "protocolo": "1577549",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577549",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-10-15T22:39:54.958469"
+    },
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Eneva e Itaú celebram novo Acordo de Investimento -",
+      "data_referencia": "20261015 15/10/2026",
+      "data_entrega": "20261015 15/10/2026 18:07",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eneva e Itaú celebram novo Acordo de Investimento",
+      "protocolo": "1577537",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577537",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-10-15T22:39:59.330329"
+    },
     {
       "cnpj_short": "02474-0",
       "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
@@ -5040,24 +5094,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-09-15T23:40:56.440388"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Relato Integrado",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20251231 31/12/2025",
-      "data_entrega": "20260915 15/09/2026 15:33",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1568291",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568291",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-09-15T21:32:40.999376"
     }
   ]
 }
