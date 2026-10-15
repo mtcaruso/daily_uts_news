@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T21:32:07.223270-03:00",
+  "last_updated": "2026-10-14T21:52:23.928547-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX2pXZ3NxOWdsRFNPYzVDY3FXVzNSU2xOVGJBMUgxbm83WXhHNFhkWVZwMnBLQ2VacUtQR0tkcTMzSDhNczByS2Qwbm80aVh2dXRxYnYwQ0JZMlBoQ0ZBMDdSV1V0Z3N1aVIyUXV2TFpqOEU5UkRINlRHbU44NGhwSnAtVURWRy1uVkdRMnk0Y0UtTG9BNjE3bGFWdEZPSFNTMHFBVUJrVWloOXpMVUV0U3VfQW5LeUdQVG5iREswVFBYSXRwU21qTWxkSUJpcmpnR0hfLVpQUnFZblMwYTFZ?oc=5": {
       "title": "Neoenergia conclui venda de participação em 7 ativos de transmissão em acordo com fundo GIC | Empresas - Valor Econômico",
@@ -3116,6 +3116,14 @@
       "summary": null,
       "source": "",
       "added_at": "2026-10-14T19:36:00.925681-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczJPZnFBMkxabmY3ZVNhcVdITWRiNWZmOXJnUXh2bXpLWHJMbzkwX0ZqZGtfX0Q4Q1d2VVZMTWdhcnp2YnB3dFVOM0syek94cjdJcmh4UHZmSWJpalF2QXBPdTFGRm5kZFBNbi1ncnh5aW0xVEU3NUpfSC1KdG5ncUJETDd1NU9iX1pKTGczLWZzNUlWcnFmeFdEUGMxeElLa2J3bEpxOVI?oc=5": {
+      "title": "Boletim de Dados e Análises de Bandeiras Tarifárias - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-14T21:52:23.627726-03:00",
       "error": "no_article",
       "attempts": 1
     }
