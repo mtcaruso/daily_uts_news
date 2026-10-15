@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-15T09:00:57.814670-03:00",
+  "last_updated": "2026-10-15T09:30:13.545193-03:00",
   "items": [
+    {
+      "cnpj_short": "02474-0",
+      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Pagamento de juros/remuneração -",
+      "data_referencia": "20261015 15/10/2026",
+      "data_entrega": "20261015 15/10/2026 09:26",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Pagamento de juros/remuneração",
+      "protocolo": "1577306",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577306",
+      "empresa_label": "Copel",
+      "codigo_cvm": "24740",
+      "first_seen": "2026-10-15T09:30:05.722486"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
