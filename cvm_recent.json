@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-16T06:43:21.529335-03:00",
+  "last_updated": "2026-10-16T11:15:24.059934-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Participação em evento online - Podcast Ágora -",
+      "data_referencia": "20261016 16/10/2026",
+      "data_entrega": "20261016 16/10/2026 08:56",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Participação em evento online - Podcast Ágora",
+      "protocolo": "1577667",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577667",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-10-16T14:15:14.550805"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
@@ -4986,24 +5004,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "20320",
       "first_seen": "2026-09-16T22:26:06.341749"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Reajuste Tarifário - Equatorial Pará -",
-      "data_referencia": "20260916 16/09/2026",
-      "data_entrega": "20260916 16/09/2026 07:51",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Reajuste Tarifário - Equatorial Pará",
-      "protocolo": "1568523",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568523",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-09-16T12:03:18.484889"
     }
   ]
 }
