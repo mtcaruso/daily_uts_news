@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T07:28:31.369401-03:00",
+  "last_updated": "2026-10-16T08:14:21.111510-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5250,6 +5250,76 @@
       "summary": "Designa **VITOR HENRIQUE LIMA** (matrícula **1320477**) como substituto do Chefe da Assessoria de Cerimonial.",
       "added_at": "2026-10-15T08:05:58.623951-03:00",
       "summarized_at": "2026-10-15T08:06:22.394874-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-112-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-112-2026",
+      "title": "Portaria GM/MME nº 112/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-112-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-112-2026.pdf",
+      "date_modified": "16/10/2026",
+      "ementa": "Designa MARCELO OLIVEIRA NASCIMENTO, matrícula SIAPE nº 1556770, para exercer o encargo de substituto do Coordenador de Desempenho da Operação Energética da Coordenação-Geral de Desempenho da Operação Energética, do Departamento de Desempenho da Operação do Sistema Elétrico, da Secretaria Nacional de Energia Elétrica, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **MARCELO OLIVEIRA NASCIMENTO** para substituir o Coordenador de Desempenho da Operação Energética.",
+      "added_at": "2026-10-16T08:13:43.763996-03:00",
+      "summarized_at": "2026-10-16T08:13:52.768064-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-113-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-113-2026",
+      "title": "Portaria GM/MME nº 113/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-113-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-113-2026.pdf",
+      "date_modified": "16/10/2026",
+      "ementa": "Dispensa VIVALDO BELARMINO VALENÇA, matrícula SIAPE nº 6452145, da Função Comissionada Executiva de Coordenador de Desempenho da Governança da Coordenação-Geral de Governança Institucional, da Subsecretaria de Governança, da Secretaria-Executiva, código FCE 1.10.",
+      "summary": "Dispensa **VIVALDO BELARMINO VALENÇA** da Função Comissionada Executiva de Coordenador de Desempenho da Governança.",
+      "added_at": "2026-10-16T08:13:43.763996-03:00",
+      "summarized_at": "2026-10-16T08:13:57.615289-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-114-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-114-2026",
+      "title": "Portaria GM/MME nº 114/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-114-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-114-2026.pdf",
+      "date_modified": "16/10/2026",
+      "ementa": "Designa CAIO CESAR ANDRADE BEZERRA DA SILVA, matrícula SIAPE nº 1501470, para exercer a Função Comissionada Executiva de Coordenador de Desempenho da Governança da Coordenação-Geral de Governança Institucional, da Subsecretaria de Governança, da Secretaria-Executiva, código FCE 1.10.",
+      "summary": "Designa **CAIO CESAR ANDRADE BEZERRA DA SILVA** para Coordenador de Desempenho da Governança.",
+      "added_at": "2026-10-16T08:13:43.763996-03:00",
+      "summarized_at": "2026-10-16T08:14:02.507706-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-163-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-163-2026",
+      "title": "Portaria MME nº 163/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-163-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-163-2026.pdf",
+      "date_modified": "16/10/2026",
+      "ementa": "Concede a Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas - GTATA, de Nível Intermediário, ao servidor ALMIR DE SOUZA FIGUEIREDO, matrícula SIAPE nº 1093237, do Quadro de Pessoal deste Ministério, em exercício no Gabinete do Ministro de Estado de Minas e Energia.",
+      "summary": "Concede **GTATA de Nível Intermediário** ao servidor **ALMIR DE SOUZA FIGUEIREDO** (matrícula **1093237**), lotado no Gabinete do Ministro.",
+      "added_at": "2026-10-16T08:13:43.763996-03:00",
+      "summarized_at": "2026-10-16T08:14:07.510570-03:00",
+      "notified_at": "2026-10-16T08:14:21.110759-03:00"
+    },
+    "portarias_portaria-mme-n-164-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-164-2026",
+      "title": "Portaria MME nº 164/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-164-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-164-2026.pdf",
+      "date_modified": "16/10/2026",
+      "ementa": "Dispensa CAIO CESAR ANDRADE BEZERRA DA SILVA, matrícula SIAPE nº 1501470, do encargo de substituto eventual do Chefe da Assessoria de Participação Social e Diversidade, código CCE 1.14.",
+      "summary": "Dispensa **CAIO CESAR ANDRADE BEZERRA DA SILVA** do encargo de substituto eventual do Chefe da Assessoria de Participação Social e Diversidade.",
+      "added_at": "2026-10-16T08:13:43.763996-03:00",
+      "summarized_at": "2026-10-16T08:14:12.363187-03:00",
       "notify_skipped": "pessoal"
     }
   },
