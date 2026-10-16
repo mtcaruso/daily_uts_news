@@ -1,46 +1,6 @@
 {
-  "last_updated": "2026-10-16T15:49:00.090266-03:00",
+  "last_updated": "2026-10-16T19:05:04.789269-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTFxRmdPbWNrUFBaeGNBY2FyS0FhQ3hNWlBMRkVNbjNsTWV6cXoxQm5sdXhVYUZiQ3hOcTdvQ2ZzVVFLdk9GaU9POEdvV1Iyd1dJMkpmZ2x6SzJiM1UwOHh6NjVKckl1b0hWRVBUN1ZmVVNvd0s1d0d6dFE5ZlRsZWc2UTNTX3ZmRnZGaGNWZzdicURxcXRSaXczY2RXSGtMTUtLSWUwd2dyOFVnbzM3WGJjdndranNXZHR1WURqTXZ5dE42OWgtaEMxSm5nZnB0THVKa1pXazhWZ2JM0gHrAUFVX3lxTE9HM2VtWk41eGpBdVpHVE8tT2p0QVBMVE52VnZjVHkxa0tfZW41a0xvekljeVhXTUtTUWFnOGV5b2YzTHVzcUVMRlUtSHdNZC1iNUlOVzJVVm1KcE9fZEs4d2JfTFZmZUpJNExHd0tDdHczU01xTUFqeE1HcDRjcWtKMzRGX1k3ZWZFYmFETUFvQUc1MndMV09zWnl2TDFQZ0Jhc0VmZ19Yb3p5TmlRTW1wdnFSX0twOGhnZVRHcnRCRExqUkMwM1Zab1J6OV8xMG82Q2hXRmcyeHhTbDNubWJQeVZ1VGlCS0ZUeVE?oc=5": {
-      "title": "ANP inclui novos setores na Margem Equatorial em mapa de expansão de fronteira petrolífera - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-02T16:14:52.748221",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSzR0eTRFd2poZlJlY3R4V3J1VjVHbXZjR2RIUkk5VXNGdEJiZWoyaENNWW1Ga3RNa3FTZXdlX2ZIWUpreEJoelprZVprWWJLLWdWZXp2a3hZZGQ0T2RmSHh2SUR1MUdNakVOOXdYeVhEMzRBNmZPY3Z1YmQ2ZDNIa0V4UkJVal9SNF9zZ01CZ2tsekdQQ1dtVVpULTBnVm5jSVk2blJ5ZVdwX3Zaa01idDN2eDlYOTM3ZGdGLUxvWUt4MmpKX0M0U3FyQTF0Y1NiN2F1MmxCR21wd9IB6AFBVV95cUxPSlZkY0tZbGZhTDFuZU9xQl9qM3FjNmg5WHhsMlUyRGNfb29yTERsMy1yeWk1dVNCYVVFNXV2YkwzWHVWNDNndlUwbWZCdFU2WnB5dXZGYlFqU0FXak5UTTRwallhcHByVHVIcVJkbW1fdXN5NU51cklGaHp5M0ktOU9YTThqNkd0NGlEY3R0bUI4V1dxdTZCZm0tcm9zbWh0UjJUdmZiS2dGNDVITmZmTm5fNXRBOEx3SVBkYTMwRXd6c0wxNzQ4N19PS2R2aFE1TzNTR0hPZmNNZm95NmptUDIxd1RrRzNS?oc=5": {
-      "title": "Petrobras faz nova descoberta de petróleo em águas ultraprofundas na Margem Equatorial - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-02T16:14:54.312946",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbEgxZEdIcXQ4UjNpcER0TlEwbDdvMFQxUURSQ3llb3FqN3oxeWRkMC1ZN1NFWTVZdW05a2c3RU83NVcwVERBU2p4andYSFNhSHNEdTR4eXFoaENXakZlRldfcldfZ0pfTWVqanRBY2Z6MWxXMVgxTGFaT0tDZ3R1X0hnM0djdnY2aTNWOTlVX0pUTV90clNmcWU2Qmp0SFJORUlZNE1VdHViRWRDcFhadXhLQl9HMGpBR0xDVmlLXzlVeUFmQ3c4WGJrVnktelM4U1JQTmNlVHZIUEJ1QXVpc3g5dkxxSDczMlQxaGxlQdIB_gFBVV95cUxOUklfUVFVNHYxZFFuTTV6d3F5REZPMXV0R1NOa0tad3lYMFN6ckFnU3M2SzQzSU9Nb280MTV3cVZaTUlEZmRxSGw1WFZmZ0dNZHZXZDNmNXVWY0tsTXJZWkhnVFMtZm1MMTJPa0VlaUhDb1RQQ053WllQU3g0UjJxclltNUFaT1RlSkc5bUVwRjVkT1dBMEFUZU9JNnIybll6OFlnTktvWnkxcHAwLXZQZ3dqdUMyTlN6V0hnV09FWVZwaTRCcGhDWm9RSzA1SjhaSmpBdnlYUHBCLW1NZ01LMXFIOS1BUlBDdWlVX0l1d2pVUWEzdHJGaWRtUXpEQQ?oc=5": {
-      "title": "AWS investirá mais de US$ 1 bi nos EUA para conter reação a consumo de energia e água de data centers - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-02T16:14:55.852490",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaklteS1ORHJrNHR5ZWthTUVDWVAxY3daUFN2Nkc1UTZiSXhzN1pGdy0zSTBodnIyNUFKTld0UlBHQkhUTlZxR1BBbzBjRmdlMkt0TkJ2UnN2TnlMTXRaWVZWWC10c01JWXJyeVk0dktsQzR4LXI1dldLX0pxakRzNmFVUnpZNzhNOVdBVHl4M2FXWGFEYmotT1JXdzZRSlBGNU5jVTZ6N0M5UVBMeEZsamNpeEVpajdCbHNXVzQ2U05XRkhFSTZXTV9zWV8wblk?oc=5": {
-      "title": "Inflação na zona do euro atinge 3,8% ao ano em setembro puxada por energia | Mundo - Valor Econômico",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-02T16:14:57.379778",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFJDNEgxNFE2dzE4d0RuS2Q1R2d3cy1RalJ4UmdhU3F1OURnajlHRk1EVEFUdC1NSnNRVW03UUJXMThfRFRXdzhiX1lIWDV6OS04NVZLcVVtaEstWkt6UWQyNi1raWp1QlRCUGRqWmIzV0NPRWd2bFVXalZqSlo4MkdzSlhHejdpdWJDdkFpX2FMV29uTUdrUlQ0aDNabFFvcll5LVJvcXZlRkJqdS1rMW85RVZubmNsTUY5RGQ1SmtkRFZEOUcxNld1RTJHcVZiN2dzY1RJY2Z5Zw?oc=5": {
-      "title": "Governo estuda 501 novos blocos para exploração de petróleo na margem equatorial - UOL",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-02T16:15:06.915118",
-      "error": "no_article",
-      "attempts": 5
-    },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRkFTQTN6R09VZmROcWJlbTl0cVR4M3hLRnZyV1lpVUF1bW1pRVQ4ejVVamNSOXZOZ3VFeTlxVll0ajJSNUtuNnhKUFQ5c2FQMXlZcnVEeG1JcktTdkRtMnV2N2R5TVRkVUxOZV9McVFBTzRIZ1ZMd29fUHpMdENlWVZJSHNXcW0yRHFFMXI4Y3VMY0xmcGczN2ljckRvcEVodjU1dHh2aTBJS19ubFRaNG50NDFZOWgtS3BPbldRSjBOTy1LM1RuOU54dEdJaF8xMzYxSkNGTXJLUkE0Y2FzLXgyS2FTQdIB9AFBVV95cUxPaVZNZHZKeTl5RW02UHFyQnlxUkp2anVEZkt2MXJmU0dvOWgtcjU2TGdBQ01IeWNrN0lSclZVcm1CTlg2ZmJtLVNnQ2VsV2VsLVFiZ2RrRGZrYlotTmJOY0xianBzR3IwaV9rZWdid0NXNjV0LURYZFhNUzlSVGlVSVFKcEt2bjAzUTI4d2JqcnJ1SUFKUUJ2bUFTelNMd2hYT1loelhGb2lFR1dkbmJyR3dRRXNuT0FQRHJ2cTk5cTV5enhyLU5tU19ZU0pNcjl1R0hsUDdxSjhIZW1wSm9fWnUyR1dQSnkzbEFLb0NXcXczSFJp?oc=5": {
       "title": "Proposta de fusão entre Enel e Light teria sido levada a ministro, segundo mensagens de Vorcaro - Valor Econômico",
       "summary": null,
@@ -3161,7 +3121,7 @@
       "source": "",
       "added_at": "2026-10-15T20:06:30.352162-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM0I4aWxVamxTWmRvbUVGcW9aZFB1YnMxQ2lXWTJjN2t6cHB5SHB1bEJVbThVSWxrbnFidnRpNmVQMVVMMnZ6RlF3NnFqVk9vU2NpaGRhdnIxTWVVN2NNa1A3X0pLZVgzSjZPMjZqQ29hblVxQzR5RTZGVEhJZk9ITW13aW9peHRGRWNuUTBXZXZNM0ZqWnlZSXVFTkZVQ2RNY0MxdElGcXlxZVJxeDBpclMxcEtMNVVCRHhJSVVaUldfa0d0blF6WWV0YlBIa1pucmdGQTMwaVdNNlluM3NkRS1mRGpYMDJBLTY4?oc=5": {
       "title": "Transbordamento e sujeira no lago do Ibirapuera têm ligação com córrego do entorno, diz concessionária - Folha de S.Paulo",
@@ -3217,7 +3177,7 @@
       "source": "",
       "added_at": "2026-10-16T02:48:12.762021-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMjJCTVpMWEVYSG1ZN0JuV0M3YzBLaDJTRGs3aEJYU1dLYWlWT1FhNnU0Z25vcUF0anhjOVZvTkJaLTlaWFNxVXNtcm1LakY4Rmp2eEZZV1JjbUVCanozVTVxczFQNjZUY253NndScUZFUTViOHJXNWlJMTdrbDVJcFhjQ2VnU25wV3F2NUJxaTVxQXJjRUZDMDRKYWN0TkRieHg4NDZHYmhHQjlHVExUc0JmbGNCZW9lcnlKV2c4NXpPT1VtWTVXYnNSRWhPQ1FZbHB3dER5LUdBYmV3b3Y2Vld4Q2ZITGlickJVUHlQQkFYdXJFRTFaUFFnNlQ?oc=5": {
       "title": "SINEXCEL conclui o envio de PCS para projeto de armazenamento de energia de 100 MW/400 MWh no Chile - Estadão Blue Studio",
@@ -3233,7 +3193,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:13.365197-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSG1qNG5PekJiUVZNdmpQdF9SVWMyUFJrVURWM2dMRE1WMV9qUGkzelE2akEyRjJfWk8zck4zX09rS0NlMDVESU5JUG1zQ1JmNktSOVU0SkZ3T2FPSTBqbGUwV0xNT284MUFKamphQjB4eG8ycHhhdlVURmhOODRSdEtjWmlTUF9ZZXd3bjNHZEtKbU5KN19mSnI1Q2prRXhIMThoUFp4YnY4WDNyMmhnRVJFNWV5Z0hodUpqZnBrb3lubmIwNDZwUEhOSVVNLWJJdDBpVlozcU9PSGFNNldxRNIB7wFBVV95cUxOdGxfQXpiRnB1bmlMSG1tc2dWT2VOVnNaX29faHlYNG5COFVDVXBDdENBNzgxTzlLTk1ueFFjM1hkY3hHQUkxbmpJa2dkUURoZkU0YzdSSy1Bb2JpUV9sdWFWa09rdDR2bXJHTUJhUldxaDdEaVFwNFpZR3hHY1QtVWRaUGVrNzE0cTU2cEhPOHRINVRCVHB2dU9QSXB1dmVUejBlMTl4YkFHV2VxZ05vakVMakhYZWp3QjlFM1IzQURoVG9Dbl9ITnZQTzIzbzdVaUxHeFBhWDB1VXZuMUpBb0dkM3pjd0xiU192R1FUSQ?oc=5": {
       "title": "Agenda de empresas: Casas Bahia encerra disputa sobre demissão; Eneva fecha acordo com Itaú - Valor Econômico",
@@ -3241,7 +3201,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:19.734241-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNU84ZXhmS0t4Y0xJdGlLMkxVWURpeEw2aE5MdXpfNnNCbjd2RDZIaF9meGk0VzVtZlNMZXR4REU0MjJ0WTBNTVhnZ1p3MjVQWTVjRkhUUkM4LVh1aU0xX2pfNzdnYVM3LWFxc2U5elBqcnZfeU9sejRQa0hmampCQnlrUXpxcEU2dTRweFVCa18tU2NGMzRfUXRmX05qM2VhXzFjdGxfbVF1ajRIZVZGVEg1THJpa3BtUTZ2Wk91OG1xUldnSDljbVdYdUZKMUNwVVM2RTRORQ?oc=5": {
       "title": "Inflação na Itália sobe para 4,2% ao ano em setembro puxada por energia | Mundo - Valor Econômico",
@@ -3249,7 +3209,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:25.012746-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUg3Vm1zRC1ZckdWalE2SERyMko5d2steWkya1d1anNjQ3NDNlpVd0JNSFJpWkNqX1ZvV0R4eVhUdmV3MTAyTFRRRmMzTlNyR3dXbTRqOXVMWElsRlVsYzJ1ZXRvZzdZRGl5aEltUnRwc1g0SnFPbGpRanVJWWZZZ09MMFM0b3FFM0szc0FmMGVQV1J1UVV4RHJrVzVacnNOa08zNENOaXF6Nk1KTnBZUlRhSmdubm9ieHVCcVFn0gG-AUFVX3lxTE5BSDdWbXNELVlyR1ZqUTZIRHIySjl3ay15aTJrV3Vqc2NDc0M2WlV3Qk1IUmlaQ2pfVm9XRHh5WFR2ZXcxMDJMVFFGYzNOU3JHd1dtNGo5dUxYSWxGVWxjMnVldG9nN1lEaXloSW1SdHBzWDRKcU9salFqdUlZZllnT0wwUzRvcUUzSzNzQWYwZVBXUnVRVXhEcmtXNVpyc05rTzM0Q05pcXo2TUpOcFlSVGFKZ25ub2J4dUJxUWc?oc=5": {
       "title": "Brava Energia encontra gás em poço da Bacia Potiguar - Valor Econômico",
@@ -3257,7 +3217,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:36.825023-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRXlISlRCOFYzT3lpd2tuM2ZkVlpKWGc3TmpoRm96Um92bHVkT3ZjdHdMckZwNkp5a2xZajV2dDZ5dU1vVklVcnJSeHdiMWRQSGlNQ01PS3B6XzNKbWloRmNrUk1wc0U3RUFuRE9rczVUZjQ5SmdIMEM5WlFKUEJIdVlfbG5Qd2o2Nkx4NVFjcHE4S2RFczBnLWFuTmhQc2FNREExS1B1MW1scHBVNHpORzNIVVdPR3ZEd2FBczYyYlhDVnZsY0ltWThodlF2RXFvODB5c0Vnbw?oc=5": {
       "title": "Furtos de cabos causam quase 6,8 mil interrupções de energia em SP entre janeiro e setembro - CanalEnergia",
@@ -3265,7 +3225,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:57.435601-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzBhQUJGeWt6eGptTk5lNTJuU2NuZjFSR25lTGE1cGdnbWo0aXVROHNUa2JnejVsSXhEblZjcGYtZXpJQ2dRYmVIeEtpd2s1Sk1aTkhxS3lhMllPZFJVSGtmOUZzaDQtdEEyaWpwRXVLdFluQXgtbXNJRkc5eUhRMlE1N3V2VS1vbzNlY2c1cDRuNFVFZVRUa0tSZXEzMVRaemcybXBPZmN3RGtaUWdOeldYYlVSeEZfc0hxUFphN1I1emJvUlcxbVo4NDU?oc=5": {
       "title": "Tarifas sobem 9,4% e indústria busca cortar desperdícios - CanalEnergia",
@@ -3273,7 +3233,7 @@
       "source": "",
       "added_at": "2026-10-16T11:48:59.047548-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjdHWWl3OHBKbkdaX3R1aGFqMVNOV18xYkhISmROR01ubzRIS1dzcWo2NExPQUxoTGZGdGlGQmU0NHNMZ1VTeE0xeDNMMDhFZThxQ2RIby1YNkJpV0Z2b21BekdBVjRyYnA3cHVRNUUxb0s4eVpCeVJvUmc3X19MRjdDdjZTb3pZNE5mU3B4S1M0M1p6eTF0WlRoYw?oc=5": {
       "title": "Voith modernizará UHE da Statkraft na Noruega - CanalEnergia",
@@ -3281,7 +3241,7 @@
       "source": "",
       "added_at": "2026-10-16T11:49:00.695576-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXRZaDZ3UnNkLW9KN0pzYjAzSWR3X2Fxa1o0WVRSTC11YjUwa09qQ3pfVUg0ei1QWnFfNXdoTjNBLTkyYmFvVnpUcEFHcUQ3bWlSUTRQUG1kaVl1clBLNUFNRjdOa2dFTEZmLVdFVnJwRm5zQ1VTVTZzbVJtV09jaFVxRjVNZEJsVmFZX2ZNSjdjQzNoYzJYdDJZSHFhbjVocFJmNnl5OUI3SlhaRVZmSnFwLWs1WVQ0Z25kQWJmY1hDVjRRMTVWZWRlR3Bud3NDOHJncmZfNA?oc=5": {
       "title": "Salão do Automóvel de Paris amplia disputa no segmento de carros elétricos na Europa - UOL",
@@ -3289,7 +3249,7 @@
       "source": "",
       "added_at": "2026-10-16T11:49:33.458895-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxORnV4TGhnUDlFX3FmbXVwR2dGY2lSRHVvdFp4cEsyTzU5dzNBcnhkLUNHZG1JSXRjbFVEc0pZYkhEaHNxWHpiUFQwNC1VZk5kb2JfZnBsQ1AyNF84bEZSSnJ4NXJtdDlkOWxXb0xKZ2RkWUkya29mbnFKZjJJOGN1WkZ0b2plOVpWTVVxWDBBNGhtTzJCaTRGVmhiYy1oUWRuNDM5YnNDMVFmenZhdjFYYk5fZno3cVFCWmt5SmlJR0ZXcUJpOV9WTXd1ZTZHZlN0WURGV0p1eFhpdWdTOTJqUzBGdVhqZ25lN0xIWklscW85TkhfQXIwV21ncTlvN2V0eWlybXBZZmJqaTB2aGc?oc=5": {
       "title": "Aos 40 anos, Memória da Eletricidade amplia as formas de contar a história do setor elétrico - Estadão Blue Studio",
@@ -3297,7 +3257,7 @@
       "source": "",
       "added_at": "2026-10-16T11:49:33.459246-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlJWVjczQldHUS1QMW9OZGVMNE1hSlVrTHM2VlJWellBcm0wSWN2aXNfNE5uQ1o2cVZqWkpsaUdvZjlRbDBJeE1aNlJGTU1rcHFBOHNhcnY0bDdoNENVdjhUUUk0bFBMTlVpbFRUNUtuQlU0ajN3eHlWWUJRenhWWWNYZ1hfVlhxLWh6c2g4eDY0UQ?oc=5": {
       "title": "Vibra Energia fará resgate antecipado da 5ª emissão e da 2ª série da 4ª emissão de debêntures - Estadão RI",
@@ -3305,7 +3265,7 @@
       "source": "",
       "added_at": "2026-10-16T11:49:33.459347-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVIyZWp1MnZzYTduMXN1NG5QRGdTLUpaZmhZTDdFVElPbW5fRFd2X0h2N2d3eFJmUVRLTHQ2QTM0NXozWHhKaWU4LW5iYTVDdVlUenpISlhQY3FGc05nbkZ5QWxqZjFKZ08ydFZBYlN2UVJOOVk2OV9xTEtqNU54MTVBVHV2cTBfeUszYnVZWHZoeVZ3MHl1bm00aDdWZTh3MlNvTlV6ZlVQQ1phU1lXZ1Vn?oc=5": {
       "title": "Usinas solares e termelétrica têm outorgas revogadas pela Aneel - MegaWhat",
@@ -3327,11 +3287,9 @@
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUdnNXZoUm9MLWxWRmtteUJIblRYUFhzYmRJaUY2UkhPLUN5MV9DUmlwM1V0d250Q2lCZHpFZERZdll6bFI3Q0doczgyeUZFOFk1ZHhXNUJZNm9SVmZiYjRTTTdJWVNlalB1RlZ5ZEFZZm1ON2VYUnZGay1XNlZNVFNlc3V3UmlmcHBjMjVkZU1KZVNSRmRVNGpfS3M3Y01PQklhNmY2bWh1bG52Qnc?oc=5": {
       "title": "Falta de recursos e atraso levam Aneel a revogar autorizações da Enercom - MegaWhat",
-      "summary": "A Agência Nacional de Energia Elétrica (Aneel) revogou as autorizações das usinas fotovoltaicas Enercom Belmonte I e II, localizadas em Pernambuco, devido ao atraso na implantação dos empreendimentos. As duas usinas, de 25 MW de potência cada, deveriam ter iniciado a operação comercial em fevereiro de 2025, mas permanecem sem avanços efetivos para entrar em funcionamento.",
+      "summary": "A **Aneel** revogou autorizações de duas usinas fotovoltaicas da **Enercom** em Pernambuco (**Enercom Belmonte I e II**), com **25 MW** cada, devido a atrasos na implantação e falta de recursos. As usinas deveriam ter iniciado operação em fevereiro de **2025**, mas não apresentaram avanços. A empresa também falhou em enviar relatórios de acompanhamento e regularizar pendências como acesso à rede e licenças ambientais.",
       "source": "",
-      "added_at": "2026-10-16T11:49:45.913338-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-10-16T11:49:45.913338-03:00"
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOWVBWVG5GM1RMazRReV9sQ1hYeGhFTjJYZzZiSk1FRDhzcnRBOUlFRWdFQ3h5QlNoQWl5S1otMHVaM2ItWjgtTjUzM0FvM2M4MmlWSjZQS3NOSUtKOU5XNzg0a1RDX3pxejVpaTlwSGhpckJ2eF9ySXR5MDFwRldqRFFnUXhhOHBvelpEZWFScGI4UFdvU0c3RU0yZnpLdw?oc=5": {
       "title": "🎙️Quem não entregar potência no fim do dia pode ter que pagar - MegaWhat",
@@ -3371,7 +3329,7 @@
       "source": "",
       "added_at": "2026-10-16T15:47:09.462815-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWdtM0hFcXRiTjJtc0lyVUVhU01oUWdkQW5ESDZHdDBYel9jbGNydW05TXlwcmVidFhFOTJFZVVEQVpEX0g0NjJlU1FZc05hVlZnZnQ4bHRaejVUS0oyQlZpRmhqVVZpeDVYQ05taHkxd1VtZ3haY21wajc4bER5RGkxN3RQaTB0WnZCeXZMQWQ3UQ?oc=5": {
       "title": "Região Sul conta com 81,3% da capacidade - CanalEnergia",
@@ -3379,7 +3337,7 @@
       "source": "",
       "added_at": "2026-10-16T15:47:11.143928-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMG1weDZtR0JUOC1uRUkyQ0pWbUI4TzlxTW01am5Sb0dQTVlpZDdabVQ2cDJuS0RiUzhIb2ZobndBam90dVVDMDEzWTE1QXZjb1d5RmJ4U1RlZGJCTFJWVmdjM2VzZkRyNzBUR0U4YlhUMm96SDM2V01uQ3hHVkV3c2Y4VF9LMUcxOVNtNEl1M2lnLUtxUkwyZUZCamRfdzFxM2RROFBiVkc?oc=5": {
       "title": "Aneel revisa custos e receita fixa de UTE Jorge Lacerda - CanalEnergia",
@@ -3387,7 +3345,7 @@
       "source": "",
       "added_at": "2026-10-16T15:47:12.805303-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjlYM3RLQU82U0prR2I5U0VjOHhuSExNMVV1LUtsaWZjMTA3VmF2ZC1zdFNPTWVfU3p1OWlUQWJSQmxLWHpoZ3NjWFo2bU9YX1dWeGh5S1VrS01WX2dIOXhZbm9FQTA2VG9ZS3V1ZS1VenlYdWVJaUtUMlBwcUFUVElXZmV2dlhBVl9HQ2UtNzZZQ0hVQVl3T1FVRzN2bEhtN2txcVVRMVVRSGFURHMtb1p0SUhtQ0JvVjFlNG51dlVtV2xkeHRLZS1R0gHYAUFVX3lxTE94dEZPb0p0Z25tU1pfY3hsRTlIRnVkcWllb2M0WVROY3RpRjhfOUpqWGZFWVEzRHdGUkl4b0g1a1c5M0FvV25QeFJ3MjhxcmZtM0poTmUzTUlkTFItUjY0YUpUQWxZZTBvemVZV25Hc1UyX2pLLW9JVEo2TUFRVXgtTWhOc3lkcS1CR2d4RjR1bHlGeDc5VFMtRl9uR19oX2V2RTdoSVM2NHFVd1pQRm8xTFhpdE5HaHFzT1VUMGNzTG52VUkwRFNXazRXaTlPUmlDSGpjNkV4cw?oc=5": {
       "title": "Drones russos matam três na Ucrânia e deixam centenas de milhares sem energia - Valor Econômico",
@@ -3395,7 +3353,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:03.877314-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE5naElUUFJQUEFDTWh4WGltVC1fc3NYZ3lxUDhaVS1MV2FMU3VjUms1UkpETGVhYjdHUmQ5bFllUXQ3OVJSTi1wSHk1Q2FRa05xU3hhYWl3TGNEcG5TdTZaM2JFSjdYRjNQZ1RN?oc=5": {
       "title": "As preferenciais do Itaú na Eneva - Brazil Journal",
@@ -3403,7 +3361,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:14.998182-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU1NnRG1JejM4SUlxb2lnajFPOV9LYmhzREtYckZRY2FCX19iS0dxaUVfYWZBVDFGbkhwV2hYYUY2UFgzVlJ3LTByQXB5dnpzWTdnbTFrZWdDR19vbV9xd3JzMk9yVWNncTdERWVqQmlkcndPWTZqbFZIQ1Z1V2h6b0dUcl9JMHZpem1hSmgzWUdDS1kxY25zQll1dGJGOElCazVZNnR5RW1QZFVjZmkzSEVJLXl5Z1ZQbWx5UzVCanBiaTRCS0NlazlkYmR6bVdDalEwUXJiTC1UVkZuR2FBLQ?oc=5": {
       "title": "Índia busca atrair empresas de data centers e corre para aumentar energia limpa - 16/10/2026 - Economia sustentável - UOL",
@@ -3411,7 +3369,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:14.998405-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc3JBTGNOQnNXUHdvMldHT0RRUDFQOVBxeVhzMjlDRGl0emtWUmFOUGdFczg3MTQxaXpuaVYyWW1SemRWaHIwbFJseDFnVXpfcVpUa3RGY0FZNVNCN0o3RWlWcml0YkZQTU4wWEtBOV93ZGpGYUhjV1hKOVI2azB2M0p1Mmo4RFlwd2U1a0g0SDlzMWlPc2Vid2tweEFweHU4WjBuWFBjNC1hX0RGVk9pY1ZnUkxLbjloWGhyWDV3eWlpUnhjeG5jazRVN3Jic1JKQkpnSWNucFhvWjBPeHVVVlpBTjNWeTDSAewBQVVfeXFMTlZBMW9SbmVMLVpPdHlSbmVZa2RQaG52NXRyMmZVX2NsSUQ5RVp5R1F0NkNodmdWa0cwX1BGa0l5RkxYNDZZT3dXb3ZMNUFSZFhkbHNFMER5cDBteXZTemV2VEU4elJRdTF5Ymd6QjR5c0Z2SWJwRnRTOFk3a2VyLUZxX2ZRdGg4dGR3NFpQV2x0aDNvTGIwZlFsM0pSREJvaW9wOG9IOFYzUEJHNXFOcU9PcHFrMS0zeHJ3VVB5eW82bTlBbjVZY2JMY3A3ejVkN3ZrZ0Nhb2JYZG9BTHpZNDI4MlV3Qk5mbm52d1Q?oc=5": {
       "title": "China propõe controlar exportações de 40 tecnologias de IA, energia solar e biofarmacêuticos - Estadão",
@@ -3427,7 +3385,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:27.824259-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOTNGbWthSUdkT3VEenFXZUhQRGtRZEFCeWNoU25meHFIZHVQSHMyNnpwNzhHSDNIWXhFZS1NOEw0YnlKWU1BVlZBQlZNampqTU1fWkZrODFXTzVnNGd3aV9jU3ptd0pYdDZlSGhwcXNpLWZueV93SjFUVXlMdmEwcnZUbmx0SEJvWm5WNFo5OGRVcXNLRXoxczBycWFZMUJlWWx6MjJ4QjdScVoxcjNFRVJiUHJDMkkyaGdUUXhFbkV1Z1Vlb1E?oc=5": {
       "title": "O modelo brasileiro de GLP como referência mundial: as lições que vêm de Gana - MegaWhat",
@@ -3435,7 +3393,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:40.050275-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlBOMlBINTVZR3pUU1lnNjctOENwcnRDRVFCeUt0cGpxZ3dwQzdIQ2JsSU5YOTBJRWg0Yi02Q0JnWWdrU01HeElkUXJZcVQ2aUR1VFA3VEd1alNRTDQ2TnJzZ3k0NXppeUNvUGwtdF9qX3U2MEh6VWNqYnh0bXp1MEpUUU5ORGhQUmFub0VTb1BLcGNiN0NhampsZ18wTlhQVVRxSTJ3VVJhUlY2MllCV1BUbWt6X2wzdnc?oc=5": {
       "title": "Novo PAC condiciona operação de baterias à comprovação de conteúdo nacional - MegaWhat",
@@ -3443,7 +3401,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:40.050466-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRi1QNzdkX29TVS1RcF9XWEExZDFmS1V0dEFrSTFKb09Ga0MzbjhrSVVhSHJSVTVnYzMwcmxnaDBaXy1kWDNud0s2VFpVNVhVUHdXaERRQ2s2XzdIR1FFM2lOdC1GdVRZdEJYa3l5NTBMWWJPNEttT2J6ZHVodWk2NVRZVE0xU2hxR0N3ZDM3bVczN0hWZUNJMmQxN1R3VUdDTmNYNFhtMW8ybnp0TE44Sjk3WEd1TzR1Z2Rya2s2TQ?oc=5": {
       "title": "Efeito tributário sobre o carvão eleva custos de geração de Jorge Lacerda - MegaWhat",
@@ -3451,7 +3409,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:40.050672-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FRWZ6WnJXc25UQzJQWnFFbmJaTVh6Zk96Vk11WkJpdGpvM19xUHowUnFSaFA2MC16Wk1HQmdib0FLa1JVRXpwbFdHVGdkSEpVNU40c2lHbWdwQktfRTJNMEJoNllHSzE0?oc=5": {
       "title": "Destaques do Diário - MegaWhat",
@@ -3459,7 +3417,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:40.050744-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xMnhoNTNXTzc2dDJJc0ZINURaN2hnMlNCRVR6VjROd3dseS1CNnJzOEYyVWRBU19fV3RCemttTlBfVjhQWWx6MW1nQlE1Z1NLZFhXNmpqOXBRVTMx?oc=5": {
       "title": "Tag MegaWhat - MegaWhat",
@@ -3467,7 +3425,7 @@
       "source": "",
       "added_at": "2026-10-16T15:48:40.050806-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OUWRDX2liNlhRNXF5UlRmTFEyMldrVF9UX2M5VjZSa2RKblZFeFB2UXQzdGxEcW9BYmZCUHZGX1doaXZZOERHNjVPWVlnZWFBamYxUTNfYWE?oc=5": {
       "title": "Geração - MegaWhat",
@@ -3475,13 +3433,85 @@
       "source": "",
       "added_at": "2026-10-16T15:48:51.103421-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hQ2UweU1weUNHdVZpaHdDS1dKY0h1Ukd1R3Y2ekN0czdaNHpZeXRSMnBmUlhWYlVLZHNwcjltdW9sSmE0d29sUXlkNnk4cWd5dWxDTWFYZEpZUQ?oc=5": {
       "title": "Tag Itaú Unibanco - MegaWhat",
       "summary": "O **Itaú Unibanco** realizou um novo aporte de **R$ 1,77 bilhão** na **Eneva**, através de sua subsidiária Eneva Participações III. O investimento, concluído em 15 de outubro, visa ativos de geração termelétrica no Maranhão.",
       "source": "",
       "added_at": "2026-10-16T15:49:00.084886-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUDRTV3hYMVp6eEVxZmtXLUYxRXZyeE1rRktTNU1JZ05QMFVRMGVWdmxZRXBQT2NITnBwejVVb0JfajRGQnpSTTlCS3dQTnQzYXBnUGYyU2ptU1AzX2hqSXJ3MlE2ZEIzdWJ2MXctTWhLM3Y3azB0RnQ0RHlIUDVmRzhRV1dFU1lCNXY3LUlwSjlPbWp1M3NPODBUZG9XamZXTFMtVTdzU0FuUjVfSzY0bHJiZ1NleExuRDdmV2JmWml4TXpReERhWGxJMU1KamlPaFZXamR6bjRvWTZUUXNwdXU3RGV2eWMwYzdZcTNSbXNrZw?oc=5": {
+      "title": "China propõe controlar exportações de 40 tecnologias de IA, energia solar e biofarmacêuticos - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:18.215082-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWNOaTc3NU5uNHEtUG45b01kdzVfVjBhcU9pQldFNWtfWGxhSm1rRlI5S1RSdUVJTGc2Z0dYT2ZrZmJoRE5qTDZkWWFlQjdxVVVhbUUyQTBkWmtJb0hiVnJBNjFUbDYtdEhRN3UxUWFHejV4VlVibEtaTzFDTmdoV2Z2Y0F3aHBYMGp0eDl1ZkpMYmtaWWdCOHNYbTNMMlVPWkVTVUxsZEpTeVBzVW9Nbk1oQUhmaHVh?oc=5": {
+      "title": "Estudo indica até R$ 16 tri ao PIB no horizonte de 2050 com H2BC - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:26.803035-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1BRTnZxd2ZwbnBNOXR6RC1xc3FMMEk5eWhjN0F5TkwxRGtDRjV2YWQtUDA3Mnd0bnd2cFBjRU1zZ2prZ05QNTBGQUpaREU4cFJfeG5hY1E4Tm5HbzlwckJOc3ltQWpwUkE4QlRzNmNkM3MwOG1LOW94bDBIOUtpeU1DZ2RoaFl5TVdyN0RqTTlsbW1YNmdZa2JEUThqY2tDUmZQcUZrQQ?oc=5": {
+      "title": "Redes subterrâneas: resiliência, confiabilidade e custo - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:28.700584-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmM0MFhqYVNtc2ZNVnFnUnBGd25XeEU2OGFYY3hiNzBrWlRBM2NnS2JDeHphbE8wTGlGZWdndXB1SFoyaUphYXp1MjVZVl9BbzNNV2NWYWN5YkpjeXZSU3Bwb0RNTXhWbkdzMnZmNmViNFFscG45UlRFN0hlWE5rMHBVbWtqcWFOWkVF?oc=5": {
+      "title": "Pauta de Reunião de Diretoria - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:30.597853-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2NTZ3RCNmFlZF9PU0pxRjNNOFc4UlJGdDllQ2hUUWN3dUxIRmxYSDIzOTRyVU9uc3ZJQlZONE8zaTIxcHNUQlRQck5oNE12SXNuUktmeW5KSW0yb1ZXa0RSV21sblFmajlERExYNnQxcjdHY2hST1h1RC14aDJZWVQ3QQ?oc=5": {
+      "title": "Boletim InfoPLD Diário - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:32.497759-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTy1hOVc0OUUyelBOaFQ3VVMwa3lxcmluWWt0bjQyVk1pQmhuLS1QRjJCM0FIN2VBMDRQTFhGc2R4dW81T1BrWFQybWlTUXJtRFF6RHc5SE1jY2xMaWRMVk56RlBYRlFCaldKWTBtMEl0UUtkV2wxS0V6X2hsR2NHZkhnT3JXeUxnaG1Rc1Y4WGc1S2lQYW9hendZNUw?oc=5": {
+      "title": "ONS aponta aumento de 4,9% na carga para outubro - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:34.340972-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDFiQVl2cnZvWGVsdjZiQ3g3NjhLZWh2N0c0WlJaenEtWGVIX1JNY1o4dVFTUHp4QXgweDVsbVE3NF9yYzJSZTRfZ3JNLUJMLUNTNFdDcld6aDhhX3dvN0RzX3hkdmJTekpSekI1cUhoNElqZkdUcF8zcmlDT0xYUWdqd2dUc09QQndWUVFkQUlQdllSVl9qbFdyd0I?oc=5": {
+      "title": "Taesa muda comando da diretoria de Implantação - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-16T19:03:36.214791-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblhpTUVnX0kxZUpoN2k0XzJybktvWFpldXQ3WmwzM3pWeWJBNFRScjduODV6aUQ1QXZ1dzFTNGF4Y3dDV055amdRTXdMcDFkaGlZcVZCR3lZOFRNUWNfd0g1eEdZejBfbkkyOHBNLVVrOUpDTDBvc0hFQmNBWm04Y3FqNVY5emx5R0FYNGpSQzI4SGZLOUhIblpqVkNvOTFaNHBTcktxcWJVNk1jNERTNmg5WVMxM2E0VFBzZ05UTUZhS0U?oc=5": {
+      "title": "Após choque energético, ONU adverte sobre possível crise alimentar mundial - UOL",
+      "summary": "Bangkok (Tailândia) |AFP Os custos da energia afetam os pequenos agricultores e impulsionam a alta dos preços dos produtos agrícolas, alimentando o temor de uma crise alimentar mundial, afirmou à AFP o chefe da agência da ONU para o desenvolvimento agrícola. \"Os preços agrícolas mundiais aumentaram 13% no terceiro trimestre\" e a tendência está acelerando, advertiu o Fida (Fundo Internacional para…",
+      "source": "",
+      "added_at": "2026-10-16T19:04:33.485144-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdG5FOGZiUzUzMndlOV9yZUsxSXYwRmljTmRpX19MWmZYTjM1bkZVclByVFBKb0pQWFhYcVZHdjJOaWJGQVc4eHZFMDhZWWxMcGg2NUpTanJBU3pHTmY3T1NjaFRPZnl1X3pwMnhsZVNTdGtTN0paOXlzcXhuTzJCNzNpRFFBZng5bHpGcW5PX1VtTDF2MzdQZjBoSGJjUHQxYnFzSEswcTg0SEtfQzlTYm9uTzhFazRHNHgxNldHaw?oc=5": {
+      "title": "Data center em SP busca acesso extra à transmissão fora do Pnast - MegaWhat",
+      "summary": "A Pahlavan Ventures One, empresa controlada pela Cloud HQ, pediu à Agência Nacional de Energia Elétrica (Aneel) o reconhecimento do direito de contratar mais 11,53 MW de capacidade de transmissão em 2029 sem se submeter às regras do novo processo competitivo de acesso à rede. A empresa busca garantir a contratação da capacidade prevista para seus data centers em São Paulo sem comprometer os…",
+      "source": "",
+      "added_at": "2026-10-16T19:04:46.126167-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
