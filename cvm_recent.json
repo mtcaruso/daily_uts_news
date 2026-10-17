@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T22:31:48.198174-03:00",
+  "last_updated": "2026-10-17T03:08:56.560524-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -4950,24 +4950,6 @@
       "empresa_label": "Engie",
       "codigo_cvm": "17329",
       "first_seen": "2026-09-17T14:57:18.551371"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Acionistas da EMAE aprovaram a incorporação de suas ações pela Sabesp, concluindo a transferência da base acionária -",
-      "data_referencia": "20260916 16/09/2026",
-      "data_entrega": "20260916 16/09/2026 21:42",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Acionistas da EMAE aprovaram a incorporação de suas ações pela Sabesp, concluindo a transferência da base acionária",
-      "protocolo": "1568917",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568917",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-09-17T05:23:10.405123"
     }
   ]
 }
