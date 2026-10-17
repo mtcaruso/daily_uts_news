@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T20:32:33.288971-03:00",
+  "last_updated": "2026-10-16T22:31:48.198174-03:00",
   "items": [
     {
       "cnpj_short": "02025-7",
@@ -4968,60 +4968,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-09-17T05:23:10.405123"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Resgate Antecipado da 10ª Emissão de Debêntures -",
-      "data_referencia": "20260916 16/09/2026",
-      "data_entrega": "20260916 16/09/2026 20:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resgate Antecipado da 10ª Emissão de Debêntures",
-      "protocolo": "1568897",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568897",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-09-17T00:42:40.675113"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Resgate Antecipado da 8ª Emissão de Debêntures -",
-      "data_referencia": "20260916 16/09/2026",
-      "data_entrega": "20260916 16/09/2026 20:24",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resgate Antecipado da 8ª Emissão de Debêntures",
-      "protocolo": "1568896",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568896",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-09-17T00:42:40.675111"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Resgate Antecipado da 11ª Emissão de Debêntures -",
-      "data_referencia": "20260916 16/09/2026",
-      "data_entrega": "20260916 16/09/2026 20:22",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Resgate Antecipado da 11ª Emissão de Debêntures",
-      "protocolo": "1568895",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1568895",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-09-17T00:42:40.675097"
     }
   ]
 }
