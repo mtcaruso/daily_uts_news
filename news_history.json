@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T21:00:19.667960-03:00",
+  "last_updated": "2026-10-18T01:23:01.139532-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUtxdzkwV2RtRmczOFJ1dE1kQ0FCekx0Tm9jcG94bnBkbW1wenFoWmRVWTF0V2JLeVpGSHljRlZISFNSWlFyUkRtbWEzOWRNV2J0SWFlemwxQjRpeTdMMjhuNjkzZjFKUnRGblc2VnhHTkxqS3lxOVJlZHJPaEJkNW8yckdCOGpFMVlZZEdiTUlHUWRyZUQ5UGNHemhUZlpxVTFSY05oREpXM3o5Qko0UjJNQzNjRUNkemh1emREc3pzZzZfelNiUDNnOTQ1Z9IB3AFBVV95cUxNUEpqTTlTLUhCR1BFNGs0V01rbWk5SU9acTZSRjQ5WXNTOFNleDdwakFaM3JmUFZlSE9WYXBQVjBkd2hNYmJRaHdlNXBnR21RV3NNaFV0M1RzQzJfYnh1R28yQ0xyZ1gxQ0sxLXRDUWFNUU1qbk9SSkdQdmRsWVBQeUhna1M5cnhpQzJZU3pBVlBSWWdqUXk0RC04cVJ5eWZoUFJfSU9MWVNxcTRtVmpybzdjbDNrMWdFeV9mSDNXTF9Ubk83MjR2akVTZmtVRFpOMWRhb0RYaXJtN2Fi?oc=5": {
       "title": "Aegea diz que não há meta para abertura de capital, mas quer estar preparada - Valor Econômico",
@@ -3467,7 +3467,7 @@
       "source": "",
       "added_at": "2026-10-17T10:42:21.816559-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndlVrOEJHRnE2TW5OWUszSUtkcm5tU3lpRW5IUklWaXdZMlQ4Q29QcU5yTk9IU3pPR29mZ3R1aENxNURlYzIwS1JRYVdJQ05zY1NfNjFJbVFnZw?oc=5": {
       "title": "Tag Código aberto - MegaWhat",
@@ -3503,7 +3503,15 @@
       "source": "",
       "added_at": "2026-10-17T14:06:12.647607-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2p6RHVkU3dTeDdXXzdnLUNIcW8tdWI3UWdpblprYzhvZ19BS2F5SEdMaTY2ZjNIemczemNoUkg3VTA3TWNGV2R4cXh5M3E5RFN4cy0zWjg1a0l1QjRZN0dDMXQ4djhGbUl3VjNSeWJLUWhYX19raVVvTm4xNjhVZEp2dUJUNFF6czdKSW8zdnBIaUVEODAycVhXUnZBZ0t3WFc4?oc=5": {
+      "title": "Em ‘Digger’, os dilemas da transição energética num filme sincerão e divertido - Brazil Journal",
+      "summary": "Uma plataforma de petróleo do magnata Digger Rockwell acabou de explodir na Groenlândia, e as ondas de impacto ameaçam liberar uma placa de gelo de proporções colossais que poderá destruir cidades inteiras e dizimar milhares de pessoas na Europa. Mais preocupado com a saúde de sua gata enferma e com os milhões de barris que poderão ser perdidos do que com a tragédia iminente, Digger ignora…",
+      "source": "",
+      "added_at": "2026-10-18T01:23:01.134095-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
