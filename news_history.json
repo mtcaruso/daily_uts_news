@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T01:23:01.139532-03:00",
+  "last_updated": "2026-10-18T10:58:42.450042-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUtxdzkwV2RtRmczOFJ1dE1kQ0FCekx0Tm9jcG94bnBkbW1wenFoWmRVWTF0V2JLeVpGSHljRlZISFNSWlFyUkRtbWEzOWRNV2J0SWFlemwxQjRpeTdMMjhuNjkzZjFKUnRGblc2VnhHTkxqS3lxOVJlZHJPaEJkNW8yckdCOGpFMVlZZEdiTUlHUWRyZUQ5UGNHemhUZlpxVTFSY05oREpXM3o5Qko0UjJNQzNjRUNkemh1emREc3pzZzZfelNiUDNnOTQ1Z9IB3AFBVV95cUxNUEpqTTlTLUhCR1BFNGs0V01rbWk5SU9acTZSRjQ5WXNTOFNleDdwakFaM3JmUFZlSE9WYXBQVjBkd2hNYmJRaHdlNXBnR21RV3NNaFV0M1RzQzJfYnh1R28yQ0xyZ1gxQ0sxLXRDUWFNUU1qbk9SSkdQdmRsWVBQeUhna1M5cnhpQzJZU3pBVlBSWWdqUXk0RC04cVJ5eWZoUFJfSU9MWVNxcTRtVmpybzdjbDNrMWdFeV9mSDNXTF9Ubk83MjR2akVTZmtVRFpOMWRhb0RYaXJtN2Fi?oc=5": {
       "title": "Aegea diz que não há meta para abertura de capital, mas quer estar preparada - Valor Econômico",
@@ -3467,7 +3467,7 @@
       "source": "",
       "added_at": "2026-10-17T10:42:21.816559-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndlVrOEJHRnE2TW5OWUszSUtkcm5tU3lpRW5IUklWaXdZMlQ4Q29QcU5yTk9IU3pPR29mZ3R1aENxNURlYzIwS1JRYVdJQ05zY1NfNjFJbVFnZw?oc=5": {
       "title": "Tag Código aberto - MegaWhat",
@@ -3503,7 +3503,7 @@
       "source": "",
       "added_at": "2026-10-17T14:06:12.647607-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2p6RHVkU3dTeDdXXzdnLUNIcW8tdWI3UWdpblprYzhvZ19BS2F5SEdMaTY2ZjNIemczemNoUkg3VTA3TWNGV2R4cXh5M3E5RFN4cy0zWjg1a0l1QjRZN0dDMXQ4djhGbUl3VjNSeWJLUWhYX19raVVvTm4xNjhVZEp2dUJUNFF6czdKSW8zdnBIaUVEODAycVhXUnZBZ0t3WFc4?oc=5": {
       "title": "Em ‘Digger’, os dilemas da transição energética num filme sincerão e divertido - Brazil Journal",
@@ -3512,6 +3512,34 @@
       "added_at": "2026-10-18T01:23:01.134095-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzBfVHo4U3lDcTJ5bnVmZVRzUGR0a2lzN3lZbjNQMDVNR0wyVXE0V2YwZWZETFpKV2JqNUtxLWgzbkQtdGtSd2dpM3hfdVY2VWJoN21McTc4TXRQS3FHTmhicHdSNVRuWUlFZUlweVhBTjVyai1uYnZaSVBUNG9KY0RPTWFfWnFyaVd0MWJRaHVrYlZCWWs0OGc4cXhLNzI3WnZzdHFGWTZIaEJVeWJPWjZnZzk4R1Jpby1GZWR3ZG1VcFBUV0JyaDU2UmdOY2dpVEFObElWSXc?oc=5": {
+      "title": "Dividendos da semana: CPFL Energia e Vittia pagam proventos; veja valores e datas - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-18T10:58:23.606322-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXpjcmNJOTNEYXc1ckl5U3ctTWFzOVZhRkZVUldtd2pfenpTVXROS3NsOW5ldHZxaDhvVWM4MUhsX3lXbk1QRHA2ajF0YXo0cjgtU3VXMmdWb3hjalFyQnN5SUU1dWZERnNfZ1RGenpkbEpuRmgxWmZxSTM3XzNFQlotQU0yOHN4VkQ3bmFzYnd1T2xuMTY5QmN1eC1xVnVzTzJ3UWEyb0xZMnBFYm1DMXdwaWxWUVJKWUJKVzdHb2dCSS02X1B0T3o1bGF6YW1tX3lleA?oc=5": {
+      "title": "Itaú coloca mais de R$ 3 bi no setor elétrico e equatorial é a próxima da fila - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-18T10:58:28.973813-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT1RHS21JLTBSWE9ObWFqZ09fb0RybjgwVnJIeFVpcVBBNXY5b1FDOEFiX1hiNlp3SUlGWFBmRWlwR1prSFdLZnFkRGdxWWxiY3pvTWtOVDNkcF9OQ09uc2tvOUo5OVgwaFU3Z1dfb1Facnl2aU9yV2RGMGNTSDN6ZXhmdGFaSGdvYnFndHhuRjRjYU1ndF9JNmQ1bURWbjF0WmJUMWc2TVU5QUdNWHo4VGRGdTJEOWwyQ3hHRi1fNHJlTHZVTklLSmQ3LUVYQdIB0wFBVV95cUxPOWRfNm9hdTdjTVN3bXNtMUJjZEF2N0NqQ24zeFhJLVRyYzNKVWZrLVdkZXQ2Mm9XY1NMX01YbzZCZ3l2TDU3bmJlLWxpU0hHVmFyd3ZXOTE2UUlrRG11VVNlTTVsOVM5dXNfR0NmZWFUcGM4Vm9UTXB3UFFEVFFwcFlQMUw4bTdKeTB2MzZaODREX0Q3aVRfbG5QZHpndWNFcW5uRDRDcHB0bTNtQXhyNDkxRjlvMlVDVEpRMmtsWUFLYWxjN0FIWDdXbTFIVFRfQ1lB?oc=5": {
+      "title": "Dividendos da semana: CPFL Energia e Vittia pagam proventos; veja valores e datas - Estadão",
+      "summary": "A **CPFL Energia** pagará R$ 0,216965 por ação em dividendos em 23 de outubro, e a **Vittia** pagará R$ 0,08504376 por ação em JCP em 21 de outubro. Os pagamentos são referentes a datas de corte em abril e setembro, respectivamente.",
+      "source": "",
+      "added_at": "2026-10-18T10:58:42.444402-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3hIRU1MV0RRQlBYVWh0SlcxSWF5UlFuTW5ONVRrN3BSTHRhM080aW9YYUdMUUN1ZlRaZTBwUmx2UWFkTjJmZlNkYWU5dy12NGZramVRWkR6c29LWDU0MnJzSGo5SlE1TC1ReWxiR0xSU0wwaWgtWV9QWGlvZmFkVURfbDgzWmNrejlnc3dGV1gweUE0WkI2TVdUZlVyX3J1d0tVN01pd3NySDB5VlBXcDdUbmlhX0cta0NDUU42MEtOZTljX3Y5clhB0gHPAUFVX3lxTFBNeHVjazFoN0p2dC1TTVlqeVFqTlJSei1vdG9WME1KSnU2NmVDRm52SHl1WkphblQ5Tl90TGxQaHBDN19KMERMM2pBWnNBQlNsalVCNV9wOXhfOEFiWUo3Ujh0RkJZOFZkdkZjUUpMbHhVelpxaDhqbUZJZndDcjJKWm1fNnFNQmF5M05vOGM2UTFBUmZEZVJ5aHRTNHVNRHYxMG5HalE3M0JjTjk0NVlhX29pTTE3UnR6NU40ZS11aHZXSHRhdE9WYVJ6ZndMUQ?oc=5": {
+      "title": "Itaú coloca mais de R$ 3 bi no setor elétrico e equatorial é a próxima da fila - Estadão",
+      "summary": "O **Itaú Unibanco** investiu mais de R$ 3 bilhões no setor elétrico em 2026, incluindo R$ 1,8 bilhão na **Eneva** e R$ 1,4 bilhão na **Energisa**. Uma nova operação na **Equatorial Energia** está em andamento, com o banco financiando projetos através de aquisição de ações preferenciais.",
+      "source": "",
+      "added_at": "2026-10-18T10:58:42.444437-03:00"
     }
   }
 }
