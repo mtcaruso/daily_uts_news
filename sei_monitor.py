@@ -10,8 +10,10 @@ alerts.alert_sei(), que reusa parse_process/load_processes.
 NÃO requer login nem captcha — usa o endpoint público md_pesq_processo_exibir.php
 com hash compartilhável (SEI é o mesmo software em ANEEL, MME, ANA…).
 
-Roda local (via local_refresh.bat) — Cloudflare bloqueia POST/captcha de datacenter
-mas o GET com hash funciona de qualquer IP.
+Roda local (via local_refresh.bat). Do IP do GitHub Actions o Cloudflare bloqueia
+até o GET com hash (403 "Sorry, you have been blocked" em todo ciclo do
+alerts-loop de 08 a 19/10/2026): quem lê o SEI é o PC, e o alerts.py usa o que
+ele commitou.
 """
 import hashlib
 import json
@@ -31,7 +33,13 @@ BRT = timezone(timedelta(hours=-3))
 
 PROCESSES_FILE = Path("sei_processes.json")
 WATCH_FILE = Path("sei_watch.txt")
-MAX_RETRIES = 3
+# O sei.aneel.gov.br fica atrás do Cloudflare da zona aneel.gov.br, que devolve
+# 403 "Sorry, you have been blocked" em rajadas mesmo pro IP residencial (medido
+# 19/10/2026: ~19% dos GETs). Com 3 tentativas iguais e 7s de espera, 16% das
+# leituras do PC falhavam (08-19/10). Mesmo remédio do aneel_aux._liferay_get:
+# alterna impersonation e espera mais. Do IP do Actions o bloqueio é total.
+MAX_RETRIES = 6
+_IMPERSONATIONS = ["chrome120", "chrome124", "chrome", "safari"]
 
 
 # ============== PARSER ==============
@@ -44,7 +52,7 @@ def _clean(s: str) -> str:
     return s
 
 
-def parse_process(url: str) -> dict:
+def parse_process(url: str, max_attempts: int = MAX_RETRIES) -> dict:
     """Fetch + parse processo SEI público.
 
     Retorna dict com:
@@ -53,17 +61,17 @@ def parse_process(url: str) -> dict:
       - andamentos: lista de {datahora, unidade, descricao, hash}
     """
     last_err = None
-    for attempt in range(MAX_RETRIES):
+    for attempt in range(max_attempts):
         try:
-            r = cf.get(url, impersonate="chrome120", timeout=30)
-            if r.status_code != 200:
-                last_err = f"HTTP {r.status_code}"
-                time.sleep(2 ** attempt)
-                continue
-            break
+            imp = _IMPERSONATIONS[attempt % len(_IMPERSONATIONS)]
+            r = cf.get(url, impersonate=imp, timeout=30)
+            if r.status_code == 200:
+                break
+            last_err = f"HTTP {r.status_code}"
         except Exception as e:
             last_err = str(e)
-            time.sleep(2 ** attempt)
+        if attempt < max_attempts - 1:
+            time.sleep(3 + attempt * 2)  # 3s, 5s, 7s, 9s, 11s
     else:
         raise RuntimeError(f"fetch failed: {last_err}")
 

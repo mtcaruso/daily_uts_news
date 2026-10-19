@@ -599,19 +599,24 @@ def alert_sei(state: dict, dry: bool) -> int:
     lista)}. Processo sem state (inclusive recém-adicionado) só semeia."""
     import sei_monitor  # curl_cffi + parser; import tardio: só quem usa paga
 
+    # Do Actions o Cloudflare bloqueia o SEI em todo ciclo (08-19/10/2026): 2
+    # tentativas e cai logo pro que o PC commitou, sem gastar ~3min por ciclo.
+    tentativas = 2 if os.environ.get("GITHUB_ACTIONS") == "true" else sei_monitor.MAX_RETRIES
     st_all = state.get("sei") if isinstance(state.get("sei"), dict) else {}
     novo_state, msgs = {}, []
+    ao_vivo, idade_pc = 0, []  # idade_pc: horas desde a última leitura do PC (fallback)
     processos = [p for p in sei_monitor.load_processes() if p.get("url") and p.get("ntfy_enabled", True)]
     for i, p in enumerate(processos):
         if i:
             time.sleep(2)  # gentil com o SEI
         try:
-            d = sei_monitor.parse_process(p["url"])
+            d = sei_monitor.parse_process(p["url"], max_attempts=tentativas)
             if not d["andamentos"] and not d["documentos"]:
                 raise ValueError("página sem andamentos nem documentos (bloqueio?)")
             ands, docs = d["andamentos"], d["documentos"]
             and_hashes, protos = [a["hash"] for a in ands], [x["protocolo"] for x in docs]
             numero = d.get("processo") or p.get("processo")
+            ao_vivo += 1
         except Exception as e:
             if "documentos_protocolos" not in p:  # PC ainda não coletou no formato novo
                 print(f"[sei] {p.get('label') or p['url'][-12:]}: sem leitura ({e})", file=sys.stderr)
@@ -621,6 +626,7 @@ def alert_sei(state: dict, dry: bool) -> int:
             ands, docs = p.get("last_andamentos_top10") or [], p.get("last_documentos_top10") or []
             and_hashes, protos = p.get("andamentos_seen") or [], p["documentos_protocolos"]
             numero = p.get("processo")
+            idade_pc.append(_horas_desde(p.get("last_check_at")))
 
         prev = st_all.get(p["id"])
         # Andamentos vêm do mais novo pro mais velho: guarda os 60 mais recentes
@@ -664,8 +670,25 @@ def alert_sei(state: dict, dry: bool) -> int:
             notify.send(title, body, click=link, tags=["open_file_folder"])
 
     state["sei"] = novo_state  # processo tirado da lista sai do state
-    print(f"[sei] {len(processos)} processos, {len(msgs)} alertas")
+    pior = max(idade_pc) if idade_pc else None
+    fonte = f"{ao_vivo} ao vivo" + (f", {len(idade_pc)} pelo PC (leitura mais velha: {pior:.0f}h)" if idade_pc else "")
+    print(f"[sei] {len(processos)} processos ({fonte}), {len(msgs)} alertas")
+    # Sem leitura ao vivo e PC parado há mais de 1 dia: o alerta de processo está
+    # cego. Vira anotação do Actions, que a API pública mostra (os logs não).
+    if idade_pc and not ao_vivo and pior > 24:
+        print(f"::warning::SEI sem leitura ao vivo (Cloudflare) e dados do PC de {pior:.0f}h atrás")
     return len(msgs)
+
+
+def _horas_desde(iso) -> float:
+    """Horas desde um timestamp ISO; sem fuso = BRT (gravações antigas do PC)."""
+    try:
+        t = datetime.fromisoformat(iso)
+    except (TypeError, ValueError):
+        return float("inf")
+    if t.tzinfo is None:
+        t = t.replace(tzinfo=timezone(timedelta(hours=-3)))
+    return (datetime.now(timezone.utc) - t).total_seconds() / 3600
 
 
 # ============== ANEEL CP / Tomada de Subsídios ==============
