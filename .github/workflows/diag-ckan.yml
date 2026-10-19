@@ -1,0 +1,43 @@
+name: Diagnóstico temporário (alcance do Actions)
+
+# Temporário (19/10/2026): o Actions alcança os dados abertos da ANEEL? E o SEI?
+# Resultado vai como anotação (a API de anotações é pública; os logs não).
+# Apagar depois do teste.
+on:
+  push:
+    paths: [".github/workflows/diag-ckan.yml"]
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests curl_cffi
+      - name: Testa os hosts
+        run: |
+          python - <<'EOF'
+          import time, requests
+          from curl_cffi import requests as cf
+          U = ("https://dadosabertos.aneel.gov.br/api/3/action/datastore_search"
+               "?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=1&sort=DatReuniao%20desc")
+          for nome, get in (("requests", lambda: requests.get(U, timeout=40)),
+                            ("curl_cffi", lambda: cf.get(U, impersonate="chrome120", timeout=40))):
+              t = time.time()
+              try:
+                  r = get()
+                  j = r.json() if r.status_code == 200 else {}
+                  rec = (j.get("result") or {}).get("records") or [{}]
+                  print(f"::notice::CKAN via {nome}: HTTP {r.status_code} em {time.time() - t:.1f}s, "
+                        f"success={j.get('success')}, reunião mais recente={rec[0].get('DatReuniao')}")
+              except Exception as e:
+                  print(f"::warning::CKAN via {nome}: {type(e).__name__}: {str(e)[:160]}")
+          try:
+              r = cf.get("https://sei.aneel.gov.br/sei/", impersonate="chrome120", timeout=30)
+              print(f"::notice::SEI (home): HTTP {r.status_code}, "
+                    f"bloqueio Cloudflare={'you have been blocked' in r.text.lower()}")
+          except Exception as e:
+              print(f"::warning::SEI: {type(e).__name__}: {str(e)[:160]}")
+          EOF
