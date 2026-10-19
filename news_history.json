@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T15:38:58.036620-03:00",
+  "last_updated": "2026-10-19T18:30:49.840410-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUtxdzkwV2RtRmczOFJ1dE1kQ0FCekx0Tm9jcG94bnBkbW1wenFoWmRVWTF0V2JLeVpGSHljRlZISFNSWlFyUkRtbWEzOWRNV2J0SWFlemwxQjRpeTdMMjhuNjkzZjFKUnRGblc2VnhHTkxqS3lxOVJlZHJPaEJkNW8yckdCOGpFMVlZZEdiTUlHUWRyZUQ5UGNHemhUZlpxVTFSY05oREpXM3o5Qko0UjJNQzNjRUNkemh1emREc3pzZzZfelNiUDNnOTQ1Z9IB3AFBVV95cUxNUEpqTTlTLUhCR1BFNGs0V01rbWk5SU9acTZSRjQ5WXNTOFNleDdwakFaM3JmUFZlSE9WYXBQVjBkd2hNYmJRaHdlNXBnR21RV3NNaFV0M1RzQzJfYnh1R28yQ0xyZ1gxQ0sxLXRDUWFNUU1qbk9SSkdQdmRsWVBQeUhna1M5cnhpQzJZU3pBVlBSWWdqUXk0RC04cVJ5eWZoUFJfSU9MWVNxcTRtVmpybzdjbDNrMWdFeV9mSDNXTF9Ubk83MjR2akVTZmtVRFpOMWRhb0RYaXJtN2Fi?oc=5": {
       "title": "Aegea diz que não há meta para abertura de capital, mas quer estar preparada - Valor Econômico",
@@ -3559,7 +3559,7 @@
       "source": "",
       "added_at": "2026-10-18T21:28:04.114414-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3kyVTFyZy1aQzZoMWNqTFRmRzFYM2pBdEJoZjdxcUFJdXlVZTlhaHZURnE5M1ZyU2lxd25xci1sQlVtU3ZWX3pfd2dsVDFlRzd5RE5ZSFhxSkZNM3BoX1JOWGZUWHNUM1ZBTXo3RElIWmRRSXBpSDA1NmxtSk9FbjdNQzRnX1ZhWjloRTlvNlVqMksxRXMxQTkzaExSNFBWWWs4YUxBNVY4WFMxUXlPODJ4SERpbGEz?oc=5": {
       "title": "Opinião: A batalha perdida de Trump contra a energia limpa - UOL",
@@ -3573,7 +3573,7 @@
       "source": "",
       "added_at": "2026-10-19T13:58:21.201853-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWNWN3lEYWpTZmZqU0NqX0gyeUpHTFVVZERFcXo1Nm1xZ1N4QlRpUEdHMXp3WnFfQUFrZjFpeWRjTkxiOEtyUzlUN0d0OWVBcDJTZHdMTTFvVE5Ka2FsT1JjX0JDdkw5Vk44eDN2bGpvUm5OdkEtMXVhS09fajBHN0NHb1I3U0h2WFBYc1JXTVBZUExhVTRfVzVheDNudzZZSC01X21VaE1uOUk?oc=5": {
       "title": "Geração térmica líquida da Eneva recua 38% no 3o trimestre - CanalEnergia",
@@ -3601,19 +3601,19 @@
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHUyTXFTallhZy12X0QybE05NXlTdEN3aUJJNG5fVk9aTFVZdnp3Y1R1VExVMlVmMmttcmdfdUxuY1VEek5GQkJ1WEZwUHRWNWV2RkFZU0FORmZiSFlJc1JUdGc5UjlPTU9oVFJjT2lXd0pUQngyQ2RfbHJsTjZPQVpuZ2xIZlFiSHdSV3NCNVlkY0hPdVk4dWU3aExYbkpLampFQ1JIZk9tb0hV?oc=5": {
       "title": "A nova estratégia de sobrevivência da indústria do petróleo - CanalEnergia",
-      "summary": "A nova estratégia de sobrevivência da indústria do petróleo. Operações conectadas ajudam os produtores a responderem mais rapidamente a choques geopolíticos e à volatilidade do mercado, afirma Joachim Boese (*)",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-19T13:58:37.085907-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVFiQ1gycU9aV0hSX3ZtQlZOS3V5Y1Y5RThPbThTYXU2U0pOcFMwYThLM1NQQzhnRWxIZG1ZaGlkU01ZMTRacUtOZEdxLTVqNG5mMkRuYm1maVJlRzN1MHBaNkpQSWFjT3l5NlBCUWc4bWZuNWk5ZFNLeXFaRHlWTkRzOFM4akl0LVNmN0ttWm1kbVBiRWU1dUdjRVMyUmNYdnhuMExxRUItejA1eWJVOUNvNW9UN0l2RzlXWXF3UWJoSkFPS3VoZWNHdlQ?oc=5": {
       "title": "Coluna Giro Energia: Usina Foz do Areia recebe primeiros componentes para ampliação - CanalEnergia",
-      "summary": "Coluna Giro Energia: Usina Foz do Areia recebe primeiros componentes para ampliação. Energisa abre CP para seleção de projetos de eficiência energética, Restrição para injetar energia na rede impulsiona projetos na TTS Energia",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-19T13:58:38.860894-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHN2a2V6NmM4UmUzQjVQeWpMM3lRVGNRM1ZMWUxJQ0RMaFFsWGh3RjgwcTA5ZnFHNS1sNFVvT08tU1d3dm9pQndzcHFwVHpDZk9GMEN4UXdlVzRiaEREZDBqaUdOZURVNnFRZEdaRzAxZ2d3dWlQU2tzNE9LeG5VV3UzeWttSGhtZnZzRE5oaG94QUVVMXRyTTVtNUItdWNvN2MzbHZJZTltLVI5dFZNbHI5R1k4Z0t3S3hDa3kzT0ZPNmJGN1NQWG5kX1owSEY1WkdOMDh4QWVtUnpIdWdF0gHuAUFVX3lxTE9zRkp5ZVlQNE9xbEFjT3VYamw3N0FCLUl3UF9Zbk9HT2tqYWNwV3ZDbTB2WU4yR0I1YmdvSjJJTFBDTWJRUVpway1oN1FKV203NmhzaHVTdWdfbVc0OTQ5UTF5SUxmMGs0UElMV0VhWjNqdHJnOEowQzdFc1YyTmoxOFo2SFZ2Q1U5Q0pyeFRWaVdEazRHb3QzNGM1ejFJbkJXbXlCWmxqM2E0M3NzWjVsUnNSYnA5eGtsSWRQSjhYbVY3dm9kOUptcDlBLVF6aTI2UlJHSEZ4aE5aRzRyU0QxVFdDZFlzcDFDNFc4d3c?oc=5": {
       "title": "Microsoft desiste de alugar data center da Nscale no Reino Unido por gargalos de energia - Valor Econômico",
@@ -3637,7 +3637,7 @@
       "source": "",
       "added_at": "2026-10-19T13:59:12.804837-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUhGTFZxaTBGSmh3V3N0RHJkN1ZZblZXMG41Zng3UGtCMlQtcGw4cmxacjVwLXZBbVRLUWtyalp2WEpDMXFXRUtVTDRyMmVNb0didFpmRDkwUXg0WUdFVjY2TWJsMnNudmhlbDdfbndJcV9iMFJjMzFodUN6bDZIS3BldzlMelJYZ1RWN2EyRktGYlXSAaIBQVVfeXFMUGhxWXpXeFdZdGtQMmQwTHl0UGh4RE5rbmNqcTVHNmgySzJ4MlhVbjdFVjkxdmRIa1QzWUdZdTlDU1N0UVp4QU1jVHZvQ25ZQVNKU29HWTF2M2NaZDZYamNBWlRYUmRJcVdtUVQ2d1NKQ05jOExrcHhoaHdDSW5LblR1dzltRzU5WEg1R0hjNHY0UDdieWo5TjFwNWZkR1RqSk1R?oc=5": {
       "title": "Energia: uma proposta de agenda para o Brasil - Valor Econômico",
@@ -3745,37 +3745,119 @@
       "source": "",
       "added_at": "2026-10-19T15:33:17.757889-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZG05ZFlxdkREakFHcjc1a2ZmcDlDOVp1bTF1eTRkVEF0Q25nOWlYV1NWdXNYM0pOSy1ocWtYeUNXb2s5d0VuV2tHQmlZaWx6MW4xMDkwclgwMWZfVlVERm5WWXkySkd1SzI1amJyR3Nld3p5LWpWc0ZyOGhoeFBCcmVUQ0dKUERvYVhJXzdtUENmU25JcGVLWjdYVW9qSmlBOHhOa3RJd0E0Q00tSmc?oc=5": {
       "title": "Aggreko compra seis usinas termelétricas da BBF no Amazonas - CanalEnergia",
-      "summary": "Aggreko compra seis usinas termelétricas da BBF no Amazonas. A Aggreko concluiu a aquisição de seis usinas termelétricas no Amazonas que pertenciam à Brasil Bio Fuels (BBF)",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-19T15:33:31.672846-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUZmSFNYamZ1Ym1hd0JybVVZNnhvRjVLU0FtVjFsZ1ZwLXBlWE91Qzh6RXl0ZG9HUENPdkR0SzlrZzY5RnNRUnhOT2hhbl91ZUtRWmhZTjhlTm5rS0ZyVTNTUzJJdUZMZmNORUc0cjFvTmhseG5DUDBZQXVySXVyMEM2TWpTSUhRWkdfRjRTQk0ya05PQ1dvTnA4MnhhNUhGT2Jvai1JTlZaSHVvRS0wV01hMUVEdU1HS08wcVRn?oc=5": {
       "title": "Liminar impede cobrança de multas por atrasos de usinas solares - MegaWhat",
-      "summary": "A Aurora Energias Renováveis, que desenvolveu um complexo solar de mais de 400 MW no norte de Minas Gerais, foi à Justiça e conseguiu, via liminar, o restabelecimento das suas outorgas, após ficar de fora do primeiro mecanismo excepcional de anistia para contratos de uso do sistema de transmissão (Cust), realizado em 2023. Depois disso, as outorgas foram revogadas e, como não houve “dia do…",
+      "summary": "A **Aurora Energias Renováveis** obteve liminar para suspender multas e restabelecer outorgas de usinas solares de **412,4 MW** em MG, após atrasos no licenciamento pelo Iphan. A decisão, proferida pela Justiça Federal, afeta a remuneração de transmissoras e exige análise da **Aneel** e **ONS**.",
       "source": "",
-      "added_at": "2026-10-19T15:33:31.673832-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-10-19T15:33:31.673832-03:00"
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUC1BbUFaUXJoNmJuRGE0aXpKVkZzN2hoTjM1Z29PTDdLdVBLalVKSk4xNnlwYS13NFVqVzFON1NKMkhxUm9zR3diWThTNnBSdVZGS08xN1VvRzB0bGJqSDdCNHpYQXViUVJzTjh6MGhQZUpmVGFlY0gzX01HNEo2bHdCSTViaXVpMUdQbkRUVXhnT19wRjhzUjNnTE4?oc=5": {
       "title": "Diamante realiza primeiro teste com carvão híbrido - MegaWhat",
-      "summary": "A Diamante Energia realizou, na usina de Pecém, o primeiro teste industrial de um combustível produzido a partir da casca de coco. Transformada em biocarvão e misturada ao carvão mineral, a biomassa foi utilizada na caldeira da unidade geradora UG1, de 360 MW, levando para a operação uma tecnologia que vinha sendo desenvolvida e aperfeiçoada em laboratório.",
+      "summary": "A **Diamante Energia** realizou o primeiro teste industrial com **biocarvão** (1% da mistura) na usina de Pecém, utilizando casca de coco em substituição parcial ao carvão mineral. O projeto, iniciado em **2024** em parceria com a **UECE**, visa avaliar a viabilidade técnica e ambiental da biomassa na geração termelétrica, com apoio da **Aneel**.",
       "source": "",
-      "added_at": "2026-10-19T15:33:45.035728-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-10-19T15:33:45.035728-03:00"
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3pIRzJHRTFvM2thTUZGeDYxRlcxWnNNYzdsWHpZQnFMc2hSeDhXMWRLTHFUdW1fcUcwUjl4c0dpRmNGUkFwMjRKODhTMWdfSjFnbWpFd1pLems0emdNSmFfRHZIZVVNaWNsd2pKcXdHTWNzRFAtMGdGbTdaX09KUnhrSTlkdEl0Yzk1VVNsd2lKajRGc2lKWV9YeE1HTFYxUXVDWURneHhjdU50OU15blhEcG1fREtfVDlDbkxpcy1fMGxtcHpjdGF6eThOVG1hZVU1RE5SbTA?oc=5": {
       "title": "Transmissoras precisam de aval da Aneel para disputar leilões de baterias, diz parecer - MegaWhat",
-      "summary": "As concessionárias de transmissão de energia elétrica podem participar dos leilões de reserva de capacidade com sistemas de armazenamento em baterias (BESS), desde que obtenham autorização prévia da Agência Nacional de Energia Elétrica (Aneel) e cumpram condições previstas nos contratos de concessão. Entre elas está a demonstração de benefícios para os consumidores, com a possibilidade de…",
+      "summary": "A **Procuradoria Federal junto à Aneel** determinou que transmissoras, como a **Taesa**, precisam de aval prévio da agência para participar de leilões de baterias (BESS). A participação exige demonstração de benefícios aos consumidores e pode envolver subsidiárias, mas a **Aneel** deve autorizar a atividade atípica.",
       "source": "",
-      "added_at": "2026-10-19T15:33:45.036401-03:00",
+      "added_at": "2026-10-19T15:33:45.036401-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmtPYkMyVTh5N2xtSXZXcWhCR3c2WE1ydUdJWHdDRFdpcDBNdzNLel83dDZ4eVJvSWQ3Q2RYNV9yN1dhOTliYm9FMjBNQmJCQ2p0R1ZuMjVicEhMNDJCdWwwZEgzcWdTVGNYQWprYndJcEtOeG1XTXprV2toYTN1ZFdGUnRtODFhZTZHMzljS3pCNjZYYjNyY3RsU29IQ2JBQUhpUi0ydGFsdXlTZWExOUVoVXlrM2tXTlZIaEFuZ2xpcVk4RmgyQlJmblV3RlU?oc=5": {
+      "title": "EPE lança roadmap para fortalecer resiliência do setor frente às mudanças climáticas - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-19T18:29:45.073732-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmtfX1F4c1ZTNGc0bGl2TTBkQUhlWG9ZWGJXUTJoakxVMTRuLXRSU2RVbndNNHpaenNjaUZMdldpN243M3ZMcS1ST2Vvdlg0SUljeXl5RUZScDA3bExQVFNsM01jLTljLTlLOUdlLVF6TW1YOVMzSkRSelFEazFHTEJrQmZkY3pfUVpGbF9QV1d5dEVfMVRZTTF2OXNiOGxtZmlR?oc=5": {
+      "title": "IFC investe US$ 79 milhões em rede elétrica no Brasil - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-19T18:29:47.111032-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWkxYk1zZXgxbkJUemRWVUNQU3J3MjhUWkNvTHdLdEppZm1McTNTS0NVOWwtZ1c2MGVhRThoNXpPSEFESWZ4OFFySjF5VEhxTk50aFJTY2pDYzc1blRsdzFnVG9JTm5RXy1oZDhQM2ZCeXpQRG5NNURJQ05pNlN0NEhKc3VpRXUtd3lOYjVNb1c4STAyeHVPN1BGNC04aUpoczB1SDlNckh4V2FialhxZmt3?oc=5": {
+      "title": "Wartsila amplia contrato com Origem Energia para UTEs do LRCAP - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-19T18:29:49.216393-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX29qR3ZiRkxMUmRXc21lb084MFVFZGtiYzVURU5id0ZYdWJmWnBlbGJkWnFONnFDOGJTY2JnUkVkcllfbmRQeVV0Y0Jtemt0RmQ1cXhaaE9vU2NGVVM3M3U0TmtUbzRId0lZX3dOZEpxWmtMc0tibjFYY2paVVlaQzc5cmZkNFBINkE0dC04b2RQSW1UWmVVU2I3LU1WVUswNkwtZnJmREFBUzYxeW40MGRic2dCaDVtS0EzXzIxS29HZFhqczlnbdIB1wFBVV95cUxNTFFleEFUclU0OE1SaXdUY0x2a0w1S1RVX1o5SWFpWUpYQUNXMTg2ZE91dVhVZ2R0WjR1bHdabktwbTBkdENIT25WRXptbmZNYmJ1SGFXZWpibUZRenFsNVEzRi1Vejc3Si16a3RyY3JPY3N1MWJ4czY1N1JBZEdaS3kxTDN4SXJHekRkc19MT1N2Xy1EVzNTMWFSUHByUXlfZ0lWQ1RzMnY3Mk9UMkpYZWNWSDBsbVR0LXJIT2paUGVSekh1OUV3dmhUVWhKNERxM1d2SnBMUQ?oc=5": {
+      "title": "Âmbar Energia, da J&F, reforma usina no Amazonas para operar com gás e solar - Valor Econômico",
+      "summary": "Âmbar Energia, da J&F, reforma usina no Amazonas para operar com gás e solar A ideia da usina “híbrida” é que os painéis solares assumam parte da geração durante o dia, reduzindo a necessidade de queima de gás, que será utilizado principalmente para geração à noite A Âmbar Energia, controlada pela holding J&F, investiu R$ 59 milhões para reconfigurar uma usina termelétrica no Amazonas para operar…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:24.933094-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEdoZjYtVnhpTUpPT05NVUJFaU1zZ2JybG1oY3FXZllfUmxPbzRpeUhrbHJLcy00bkFLSTJnSnFRdXV0YW9PYlloN0lXdnNTQUtQbi13cHpJS3puMFJUVkd6dlYyNnZqUDdyeGo3Q1Y5LXNfVTRuVkc1RURDVUY5UGZHc2twQjNkamFLeEV0VEZtazVBUXJDc1lGRHkwVW1DM2JULUJ4NGZVTDhLbmh4OG93dFo3MEZhdVFpNTM5TdIBzgFBVV95cUxQbWk4SHA4QjVjeUQ0dmI3cXNuYXV5R1VhRnJVRnRuSUNPMU1NYlRZQzR6blZQSkRBX2FmU0hPV1JrSWZBUGctT3BqWFZRc0xQeEFFXzA3R2xSQWU3Q25MSUNoR01MSnMta1BtNkNpWjU1QXVDNnVGUUhvWk5YdEdmZndFbldJN1ExalZ0S1FyZWpBZ0V1YnlIVVo2cGtoUURtaWpqOXRlSVMtdmF1WGQ4Tm1jdGkzQ3BrT2FRWTBVVlBBYldIbTQ2Y2RrX2RkZw?oc=5": {
+      "title": "Dexco encerra operações em fábrica de louças sanitárias em Pernambuco - Valor Econômico",
+      "summary": "Dexco encerra operações em fábrica de louças sanitárias em Pernambuco Decisão integra o processo contínuo de transformação dos negócios e o plano de fortalecimento da competitividade, eficiência operacional, rentabilidade e sustentabilidade de longo prazo, disse a companhia A Dexco anunciou nesta segunda-feira (19) aprovou o encerramento das atividades na sua fábrica de louças sanitárias…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:24.933197-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVIzZ3dYVlJkYnhaOTNNVWw0bzBaRTBTS0t0Qy1FMFU3cjNaWmd2RHBrSFg2T293dHc5SUhTVzR2VkV0ZTY3R2hhakgyQ0RKMkc0YXJqQXBzM3lBa0VCQ01JcXFHR0tuU3lWVDYxbEdqQzFiaGs0UTNRci1BbERndjdKUks3UExlQ2RpX2hJYzRPU1ktcFJqc0owQ05PdjN1dWdUbGtRbjc?oc=5": {
+      "title": "MME define prazo para declarações de compra de energia nos leilões de 2026 - Agência iNFRA",
+      "summary": "da Agência iNFRA O MME (Ministério de Minas e Energia) estabeleceu, nesta segunda-feira (19), o prazo para o envio das declarações de necessidade de compra de energia elétrica para os Leilões de Energia Existente A-1, A-2 e A-3 de 2026. Os agentes de distribuição interessados devem ratificar ou retificar as informações até 30 de outubro de 2026, por meio do site da CCEE (Câmara de Comercialização…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:24.933630-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlhEX3RBaGNhWU1wNjhZMXdaVEZrcnR4N3Z5YlZLd0R4c2RIYkpETUxyXy1iem44dkpTNU9zbTdKYTBjM29XVHpIYnVNbk5BZjFXQ3NVUjgxejRwYXlvdVlTd0NmMU5SNTRZc2RoZG5zcy1EbDZuMFRiM0NWcTl6T1BRTTVYNkFjQ0VxZnVEYkszSDFOYURYUzRrQUxINWdOMEgtWENZWQ?oc=5": {
+      "title": "Infra-BR indica bom desempenho da energia e aponta desafios na mobilidade - Agência iNFRA",
+      "summary": "da Agência iNFRA Dados do Infra-BR, índice desenvolvido pelo Confea (Conselho Federal de Engenharia e Agronomia), apontam que energia e conectividade apresentam o melhor desempenho na infraestrutura brasileira, enquanto a mobilidade, que engloba logística e transporte nos modais rodoviário, aeroviário e portuário, puxa a média nacional para baixo. O índice mapeia a infraestrutura dos estados…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:39.127020-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjdVWDVSUmMyVGNkUkhBdEFicURvQTVzbG52QU1tOElxUktGQzctc1FLaTRCY1Zsa29xd3o5S3d1YjFDX0tLYVI1RDhNYjhFSThiaFA3dXNVX1ZxRy1hbzkxNm55b3BYZllxTEpOT0hlVXhQMm9faFktTXRuLWlMcU01cGd4RG9pMFowck9LZ0xjcXViVDFv?oc=5": {
+      "title": "ONS eleva previsão de crescimento da carga de energia para 4,9% - Agência iNFRA",
+      "summary": "da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) elevou para 4,9% a previsão de crescimento da carga de energia no SIN (Sistema Interligado Nacional) em outubro de 2026, na comparação com o mesmo mês do ano passado. A estimativa corresponde a uma demanda de 86.358 MW (megawatts) médios e consta do PMO (Programa Mensal de Operação) para a semana de 17 a 23 de outubro.",
+      "source": "",
+      "added_at": "2026-10-19T18:30:39.127132-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDM2YXFoSzQ1ejAyQUUzWEJwcEoxZjR3LXZRbUtnM2FXVTdlWGZhc1JDakw3QzJXSUMwa0R0V1lmU2pwWktrOVBxUTVicW9GWTlvdk4yZU5FSDVsU3JnbmVrS0diWWFCWnRyanVVMXpGRnpVVHFRbkVRelF0aGxhUWJhTGRoc3dCdFoxQWR1cW84MDBScXYwX2hZTTFZb2MzVENoamtn?oc=5": {
+      "title": "Rima busca ampliar fatia em eólicas da Casa dos Ventos - MegaWhat",
+      "summary": "O grupo Rima negocia ampliar sua participação em usinas eólicas da Casa dos Ventos no Rio Grande do Norte. A operação foi aprovada pelo Conselho Administrativo de Defesa Econômica (Cade), prevendo a concessão de opções de compra de participação acionária adicional na RDVE Subholding, atualmente detida pela geradora.",
+      "source": "",
+      "added_at": "2026-10-19T18:30:39.127312-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQW9IQkNpYmpjcFQweWRLei1BbGpkR2pmbEFXbW1VcUpSVUhLUzBTNXlIY2Q0dklSTUlzNDZ6cldRbGVMWFloWGstWFI0RHVZQTVDa3hmRWd0LUxHbHF0NWdYZ1pLT1RLeUdtQWhzSUZNYk1qZWh3aDZYYjJRX0NzdGVmdU51dTdJeV8xWVh1blJHZnRrcmpxeWNQYy14ZnhRcWx4bUdNdmE2REl3NzNSdU5DTHI5MGxzdGQ3ZnJNeDlNSFhG?oc=5": {
+      "title": "Risco de sabotagem durante eleições leva Força Nacional a Belo Monte - MegaWhat",
+      "summary": "O Ministério de Minas e Energia (MME) recomendou o reforço da segurança da hidrelétrica Belo Monte, no Pará, com o emprego da Força Nacional de Segurança Pública (FNSP), diante do risco de vandalismo e sabotagem durante o período eleitoral e as negociações para a renovação da licença de operação do empreendimento. O Ministério da Justiça e Segurança Pública autorizou a atuação dos agentes por 90…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:39.127513-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkI4WklfMUVWa0F0dXZxOHdHWW5qVEV2bTVqUmdXcHRCb1RzLUtfQW9fekU0UE9NcU9Dd2hzOHNrSHFYeDcweHo4UFBId3R2bTRwSnV4MVlkNDBEQnFlOHRLRmt6Y2JDV1pvcnYybzBERk96ZnRfWUo2ckI3cnl6VDZUcTJFZHJIMURGUFpUXzBVRzVDc0VsNkdiUy1FVGY0UF96d3JmaWNSUmp6bmlpcXd2MGY?oc=5": {
+      "title": "EPE define requisitos para hidrelétricas reversíveis disputarem leilões - MegaWhat",
+      "summary": "A Empresa de Pesquisa Energética (EPE) definiu os requisitos para o cadastramento e a habilitação técnica de sistemas de armazenamento hidráulico de energia, como as usinas hidrelétricas reversíveis, em futuros leilões. Os projetos deverão demonstrar a capacidade de armazenamento, o tempo de fornecimento de potência, a eficiência do ciclo de geração e bombeamento e as características de…",
+      "source": "",
+      "added_at": "2026-10-19T18:30:39.127666-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
