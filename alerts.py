@@ -677,7 +677,26 @@ def alert_sei(state: dict, dry: bool) -> int:
     # cego. Vira anotação do Actions, que a API pública mostra (os logs não).
     if idade_pc and not ao_vivo and pior > 24:
         print(f"::warning::SEI sem leitura ao vivo (Cloudflare) e dados do PC de {pior:.0f}h atrás")
+    if idade_pc and not ao_vivo and not dry:
+        _avisa_sei_parado(state, min(idade_pc))  # a leitura MAIS NOVA: PC parado de vez
     return len(msgs)
+
+
+def _avisa_sei_parado(state: dict, horas: float) -> None:
+    """Telegram quando o PC passa de 24h sem ler NENHUM processo (a pedido,
+    19/10/2026): o silêncio deixa de ser ambíguo. Dia útil, a partir das 9h BRT,
+    no máximo 1 por dia (state['sei_parado'] = data do último aviso). Nada se
+    perde: quando o PC volta, o alert_sei compara com o state e avisa tudo."""
+    agora = datetime.now(timezone.utc) - timedelta(hours=3)
+    hoje = agora.strftime("%Y-%m-%d")
+    if horas <= 24 or agora.weekday() >= 5 or agora.hour < 9 or state.get("sei_parado") == hoje:
+        return
+    desde = (agora - timedelta(hours=horas)).strftime("%d/%m %H:%M") if horas != float("inf") else "?"
+    if notify.send("⚠️ SEI · alertas de processo pausados",
+                   f"O SEI da ANEEL bloqueia o GitHub, e o notebook não lê os processos desde {desde}. "
+                   "Quando ele voltar a rodar, o que mudou nesse meio-tempo chega de uma vez.",
+                   tags=["warning"]):
+        state["sei_parado"] = hoje
 
 
 def _horas_desde(iso) -> float:
