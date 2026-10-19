@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T01:27:23.202254-03:00",
+  "last_updated": "2026-10-19T13:56:19.833994-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1852,6 +1852,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-promove-workshop-sobre-procedimentos-para-inscricao-e-habilitacao-nos-primeiros-leiloes-de-bateria-do-setor-eletrico",
       "summary": "A **ANEEL** realizou um workshop sobre os procedimentos para os primeiros leilões de baterias, que ocorrerão em **2 e 4 de dezembro**. O evento contou com a participação de técnicos da **ANEEL** e da **CCEE**, e visa a aquisição de disponibilidade de potência de Sistemas de Armazenamento de Energia Elétrica (SAEs) com baterias.",
       "added_at": "2026-10-14T17:30:56.015014-03:00"
+    },
+    "noticia_2026_workshop-de-esclarecimentos-sobre-o-leilao-de-transmissao-sera-nesta-quarta-feira-21": {
+      "type": "noticia",
+      "title": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21)",
+      "date": "19/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/workshop-de-esclarecimentos-sobre-o-leilao-de-transmissao-sera-nesta-quarta-feira-21",
+      "summary": "A **ANEEL** realizará um workshop online nesta quarta-feira (21/10) para esclarecer dúvidas sobre o Leilão nº 1/2027. O leilão, previsto para 30 de abril de 2027, licitará **12 lotes** com **3.245 km** de novas linhas de transmissão em **13 estados**.",
+      "added_at": "2026-10-19T13:56:19.333740-03:00"
     }
   }
 }
