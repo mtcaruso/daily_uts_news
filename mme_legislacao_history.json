@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T23:18:04.028743-03:00",
+  "last_updated": "2026-10-19T07:03:52.168530-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5320,6 +5320,34 @@
       "summary": "Dispensa **CAIO CESAR ANDRADE BEZERRA DA SILVA** do encargo de substituto eventual do Chefe da Assessoria de Participação Social e Diversidade.",
       "added_at": "2026-10-16T08:13:43.763996-03:00",
       "summarized_at": "2026-10-16T08:14:12.363187-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-165-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-165-2026",
+      "title": "Portaria MME nº 165/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-165-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-165-2026.pdf",
+      "date_modified": "19/10/2026",
+      "ementa": "Dispensa o servidor ELIAS PEREIRA, matrícula SIAPE nº 0455294, da Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas - GTATA, de Nível Intermediário, a partir de 7 de outubro de 2026, data de sua aposentadoria.",
+      "summary": "Dispensa **ELIAS PEREIRA** da GTATA a partir de **7 de outubro de 2026**, data de sua aposentadoria.",
+      "added_at": "2026-10-19T07:03:37.796612-03:00",
+      "summarized_at": "2026-10-19T07:03:46.835927-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-166-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-166-2026",
+      "title": "Portaria MME nº 166/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-166-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-166-2026.pdf",
+      "date_modified": "19/10/2026",
+      "ementa": "Exonera MORGANA VIOTT, matrícula SIAPE nº 1545764, do Cargo Comissionado Executivo de Chefe da Assessoria de Cerimonial da Assessoria Especial de Apoio ao Ministro, código CCE 1.13.",
+      "summary": "Exonera **MORGANA VIOTT** do Cargo Comissionado Executivo de Chefe da Assessoria de Cerimonial.",
+      "added_at": "2026-10-19T07:03:37.796612-03:00",
+      "summarized_at": "2026-10-19T07:03:51.664467-03:00",
       "notify_skipped": "pessoal"
     }
   },
