@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-20T03:34:50.971411-03:00",
+  "last_updated": "2026-10-20T09:08:02.418344-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário -",
+      "data_referencia": "20261020 20/10/2026",
+      "data_entrega": "20261020 20/10/2026 07:36",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Resgate das Ações Preferenciais Classe C (PNC) – Tratamento tributário",
+      "protocolo": "1578535",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1578535",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-10-20T12:07:40.896368"
+    },
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "6ª operação de resgate ou conversão das ações PNC -",
+      "data_referencia": "20261020 20/10/2026",
+      "data_entrega": "20261020 20/10/2026 07:35",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "6ª operação de resgate ou conversão das ações PNC",
+      "protocolo": "1578524",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1578524",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-10-20T12:07:40.896356"
+    },
     {
       "cnpj_short": "02149-0",
       "empresa_nome": "ALUPAR INVESTIMENTO S/A",
