@@ -6,6 +6,9 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "eec833395d9e",
+      "81f81466bec9",
+      "524dd1659877",
       "79accdc9639d",
       "3728cd9e62ac",
       "70c1f9265fef",
@@ -601,12 +604,30 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 594,
+    "andamento_count": 597,
     "documento_count": 471,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-10-19T15:30:11.052515-03:00",
+    "last_check_at": "2026-10-21T07:11:39.097372-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "20/10/2026 11:02",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "eec833395d9e"
+      },
+      {
+        "datahora": "20/10/2026 10:28",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+        "hash": "81f81466bec9"
+      },
+      {
+        "datahora": "19/10/2026 16:46",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "524dd1659877"
+      },
       {
         "datahora": "14/10/2026 10:30",
         "unidade": "GAB - APOIO",
@@ -648,24 +669,6 @@
         "unidade": "SEL",
         "descricao": "Disponibilizado acesso externo para MINISTÉRIO PÚBLICO FEDERAL ( [email&#160;protected] ) até 23/03/2032 (2000 dias). Com visualização integral do processo. Atendimento à solicitação constante do OFÍCIO Nº 7139/2026 - LLO/PRDF/MPF.",
         "hash": "7f640fb36249"
-      },
-      {
-        "datahora": "01/10/2026 14:56",
-        "unidade": "SEL",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "ce84a49643bc"
-      },
-      {
-        "datahora": "25/09/2026 17:33",
-        "unidade": "GAB IV - GNSJ",
-        "descricao": "Processo 48500.028241/2026-56 anexado",
-        "hash": "df678fe75588"
-      },
-      {
-        "datahora": "23/09/2026 15:06",
-        "unidade": "GAB IV - GNSJ",
-        "descricao": "Processo 48500.027840/2026-52 anexado",
-        "hash": "db056ab2e643"
       }
     ],
     "last_documentos_top10": [
@@ -1262,7 +1265,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-19T15:30:13.603947-03:00",
+    "last_check_at": "2026-10-21T07:11:41.611462-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1459,7 +1462,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-10-19T15:30:19.391629-03:00",
+    "last_check_at": "2026-10-21T07:11:59.631842-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1635,6 +1638,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "8fd0f59b8fa7",
       "6e3998d1c792",
       "4d58e52ce028",
       "693a62a767e3",
@@ -1907,12 +1911,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 271,
-    "documento_count": 140,
+    "andamento_count": 272,
+    "documento_count": 141,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-19T15:30:23.057678-03:00",
+    "last_check_at": "2026-10-21T07:12:18.396704-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "19/10/2026 15:45",
+        "unidade": "SCE",
+        "descricao": "Processo 48500.029124/2026-18 anexado",
+        "hash": "8fd0f59b8fa7"
+      },
       {
         "datahora": "14/10/2026 11:01",
         "unidade": "STE",
@@ -1966,15 +1976,16 @@
         "unidade": "SGI",
         "descricao": "Processo recebido na unidade",
         "hash": "5a80b9cb33d1"
-      },
-      {
-        "datahora": "29/06/2026 14:42",
-        "unidade": "SGI",
-        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-        "hash": "533a29ac5bbb"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "48500.029124/2026-18",
+        "tipo": "Outorga de Geração: Hídrica - Autorização",
+        "data": "02/10/2026",
+        "data_inclusao": "02/10/2026",
+        "unidade": "PROTOCOLO-GERAL"
+      },
       {
         "protocolo": "0423039",
         "tipo": "Recibo",
@@ -2034,13 +2045,6 @@
       {
         "protocolo": "0388980",
         "tipo": "Anexo III Modulo 3",
-        "data": "02/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF"
-      },
-      {
-        "protocolo": "0388981",
-        "tipo": "Anexo V Módulos 5",
         "data": "02/06/2026",
         "data_inclusao": "23/06/2026",
         "unidade": "DIR - WMF"
@@ -2186,7 +2190,8 @@
       "0388981",
       "0391612",
       "0422323",
-      "0423039"
+      "0423039",
+      "48500.029124/2026-18"
     ]
   },
   {
@@ -2293,7 +2298,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 92,
     "documento_count": 58,
-    "last_check_at": "2026-10-19T15:30:25.816115-03:00",
+    "last_check_at": "2026-10-21T07:12:24.191241-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "13/10/2026 15:16",
