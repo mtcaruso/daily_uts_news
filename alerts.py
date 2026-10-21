@@ -818,6 +818,8 @@ _DOU_NUM = re.compile(r"(consulta\s+p[úu]blica|tomada\s+de\s+subs[íi]dios)\s+n
 _DOU_ABERTURA = re.compile(r"^\s*aviso\s+de\s+(?:consulta\s+p[úu]blica|tomada\s+de\s+subs[íi]dios)\b", re.IGNORECASE)
 # "Período para envio: 1º/10/2026 a 30/10/2026" (dia 1 vem com ordinal)
 _DOU_PERIODO = re.compile(r"Per[íi]odo[^:]{0,40}:\s*(\d{1,2}º?/\d{1,2}/\d{4})\s*a\s*(\d{1,2}º?/\d{1,2}/\d{4})", re.IGNORECASE)
+# "Modalidade:Intercâmbio de documentos." / "Modalidade: Intercâmbio de documentos" (TS 040/2026)
+_DOU_MODALIDADE = re.compile(r"\s*Modalidade\s*:\s*Interc[âa]mbio\s+de\s+documentos\.?", re.IGNORECASE)
 
 
 def _dou_aneel_secao3(dia: str) -> list:
@@ -854,6 +856,10 @@ def alert_aneel_dou(state: dict, dry: bool) -> int:
     vistos = list(state.get("aneel_dou") or [])
     partic = state.get("aneel_partic") if isinstance(state.get("aneel_partic"), dict) else {"avisados": [], "prazos": {}}
     avisados, prazos = set(partic.get("avisados", [])), dict(partic.get("prazos", {}))
+    # Objeto de cada CP/TS do aviso, pra seção "Consultas abertas" do e-mail de PLs
+    # (CP que só passou pelo DOU, com o PC desligado, não tinha objeto em lugar
+    # nenhum). Fora do aneel_partic: o alert_aneel_partic reescreve aquele dict.
+    objetos = dict(state.get("aneel_objetos") or {})
 
     def visto(uid):
         if uid not in vistos:
@@ -873,13 +879,21 @@ def alert_aneel_dou(state: dict, dry: bool) -> int:
         tipo = "partic_cp" if m.group(1).lower().startswith("consulta") else "partic_ts"
         link = f"https://www.in.gov.br/web/dou/-/{uid}"
         completo, objeto = dou_mme._fetch_full_dou(link)
+        if not objeto:
+            # "Objeto obter subsídios…" sem dois-pontos (prorrogação da TS 030/2026): o
+            # extrator do dou_mme exige "Objeto:" e a página INTEIRA, com o cabeçalho do
+            # DOU ("Publicado em… Edição… Página…"), virava o objeto do alerta.
+            mo = re.search(r"\bObjeto\s*:?\s*(.+?)\s*(?:Per[íi]odo|Modalidade|$)", " ".join((completo or "").split()))
+            objeto = mo.group(1) if mo else ""
         corpo = " ".join((objeto or completo or "").split())
         p = _DOU_PERIODO.search(corpo) or _DOU_PERIODO.search(completo or "")
         ini, fim = (_dmy(p.group(1).replace("º", "")), _dmy(p.group(2).replace("º", ""))) if p else (None, None)
         item = {"uid": uid, "k": f"{tipo}_{int(m.group(2)):03d}_{m.group(3)}", "tipo": tipo,
                 "num": f"{int(m.group(2)):03d}/{m.group(3)}", "pub": a.get("pubDate"), "link": link,
                 "inicio": ini.strftime("%d/%m/%Y") if ini else None, "fim": fim.strftime("%d/%m/%Y") if fim else None,
-                "objeto": _DOU_PERIODO.sub("", corpo).replace("Modalidade:Intercâmbio de documentos.", "").strip(" .")}
+                "objeto": _DOU_MODALIDADE.sub("", _DOU_PERIODO.sub("", corpo)).strip(" .")}
+        if item["objeto"]:
+            objetos[item["k"]] = item["objeto"][:300]
         if prorroga:
             prorrogs.append(item)
         elif item["k"] in avisados:  # notícia/listagem já avisou: só guarda o prazo oficial
@@ -927,6 +941,7 @@ def alert_aneel_dou(state: dict, dry: bool) -> int:
     partic.update(avisados=sorted(avisados), prazos=prazos)
     state["aneel_partic"] = partic
     state["aneel_dou"] = vistos[-500:]
+    state["aneel_objetos"] = {k: v for k, v in objetos.items() if k[-4:] >= str(hoje.year - 1)}
     print(f"[aneel_dou] {len(atos)} atos ANEEL na Seção 3, {enviados} alertas" + (" (seed silencioso)" if seed else ""))
     return enviados
 
