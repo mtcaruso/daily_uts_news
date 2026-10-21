@@ -702,7 +702,8 @@ def _avisa_sei_parado(state: dict, horas: float) -> None:
     desde = (agora - timedelta(hours=horas)).strftime("%d/%m %H:%M") if horas != float("inf") else "?"
     if notify.send("⚠️ SEI · alertas de processo pausados",
                    f"O SEI da ANEEL bloqueia o GitHub, e o notebook não lê os processos desde {desde}. "
-                   "Quando ele voltar a rodar, o que mudou nesse meio-tempo chega de uma vez.",
+                   "Quando ele voltar a rodar, o que mudou nesse meio-tempo chega de uma vez. "
+                   "Entrada em pauta e decisões da Diretoria continuam chegando (pela pauta).",
                    tags=["warning"]):
         state["sei_parado"] = hoje
 
@@ -716,6 +717,105 @@ def _horas_desde(iso) -> float:
     if t.tzinfo is None:
         t = t.replace(tzinfo=timezone(timedelta(hours=-3)))
     return (datetime.now(timezone.utc) - t).total_seconds() / 3600
+
+
+# ============== SEI pela pauta da Diretoria (sem o PC) ==============
+# O SEI bloqueia o Actions (Cloudflare): documento e andamento só saem com o PC
+# ligado. Os momentos de DECISÃO dos processos do sei_watch.txt saem, sem o PC,
+# pela pauta das reuniões da Diretoria (dados abertos da ANEEL, que o Actions lê;
+# a pauta sai ~4 dias antes da reunião e o resultado, com o ato gerado, na
+# atualização seguinte). Os 5 processos de 10/2026 somam 34 aparições em pauta.
+ANEEL_PAUTA_API = ("https://dadosabertos.aneel.gov.br/api/3/action/datastore_search"
+                   "?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=400&sort=DatReuniao%20desc")
+_PROC_NUM = re.compile(r"48500\.?\d{6}/?\d{4}-?\d{2}")
+
+
+def _proc_chave(num) -> str:
+    """Nº do processo → 17 dígitos. Processo migrado do sistema antigo tem 9 na
+    frente da sequência no SEI e 0 na pauta (48500.904885/2020-63 = 48500.004885/2020-63)."""
+    d = re.sub(r"\D", "", num or "")
+    return d[:5] + "0" + d[6:] if len(d) == 17 and d[5] == "9" else d
+
+
+def _particulas(nome: str) -> str:
+    """'GENTIL NOGUEIRA DE SA JUNIOR' → 'Gentil Nogueira de Sa Junior'."""
+    return " ".join(w if w in {"de", "da", "do", "dos", "das", "e"} else w.capitalize()
+                    for w in (nome or "").lower().split())
+
+
+def alert_sei_pauta(state: dict, dry: bool) -> int:
+    """Processo do sei_watch.txt que entra na pauta de uma reunião da Diretoria
+    (de hoje em diante) e o resultado (deliberado, pedido de vista, retirado…,
+    com o ato gerado). Nº do processo: o que o PC leu do SEI ou um 48500.… escrito
+    no apelido (processo recém-incluído, antes de o PC ler).
+
+    State['sei_pauta'] = {item: "pauta" | "resultado"}; item = reunião + processo
+    + começo do assunto (estável entre as atualizações semanais). Sem state, só
+    semeia o que já passou; reunião futura já alerta. Só marca depois de enviado."""
+    import sei_monitor  # load_processes; import tardio, como no alert_sei
+
+    alvos = {}
+    for p in sei_monitor.load_processes():
+        num = p.get("processo") or next(iter(_PROC_NUM.findall(p.get("label") or "")), None)
+        if p.get("ntfy_enabled", True) and num:
+            alvos[_proc_chave(num)] = p
+    if not alvos:
+        return 0
+    try:
+        r = requests.get(ANEEL_PAUTA_API, timeout=60)
+        r.raise_for_status()
+        recs = r.json()["result"]["records"]
+    except Exception as e:
+        raise FonteFora(f"pauta nos dados abertos da ANEEL: {e}") from e
+
+    hoje = (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%Y-%m-%d")
+    seed = not isinstance(state.get("sei_pauta"), dict)
+    st = {} if seed else dict(state["sei_pauta"])
+    msgs = []  # (uid, status anterior, título, corpo, link)
+    for rec in recs:
+        dia = (rec.get("DatReuniao") or "")[:10]
+        assunto = " ".join((rec.get("TxtAssunto") or "").split())
+        resultado = (rec.get("DscResultadoJulgamento") or "").strip()
+        resultado = "" if resultado in ("None", "null") else resultado
+        for d in re.findall(r"\d{17}", rec.get("NumProcesso") or ""):
+            p = alvos.get(_proc_chave(d))
+            if not p:
+                continue
+            uid = f"{rec.get('IdeReuniao')}|{_proc_chave(d)}|{assunto[:60]}"
+            antes = st.get(uid)
+            agora = "resultado" if resultado else "pauta"
+            if antes == "resultado" or antes == agora:
+                continue
+            st[uid] = agora
+            if seed and (resultado or dia < hoje):
+                continue  # 1ª run: o que já aconteceu só semeia
+            if not resultado and dia < hoje:
+                continue  # item de reunião que já passou, ainda sem resultado: espera o resultado
+            titulo = p.get("label") or p.get("processo") or "processo"
+            quando = f"{rec.get('IdeReuniao')} de {dia[8:10]}/{dia[5:7]}"
+            if resultado:
+                ato = f"{rec.get('NomTipoAtoAdministrativo')} {rec.get('NumAtoAdministrativo')}"
+                ato = "" if ato.startswith(("None", "null")) else f" · {ato}"
+                decisao = " ".join((rec.get("TxtDecisaoJulgamento") or "").split())
+                decisao = "" if decisao in ("None", "null") else decisao
+                corpo = (f"{quando}{ato}\n{assunto[:220]}"
+                         + (f"\nDecisão: {decisao[:280]}" if decisao else ""))
+                msgs.append((uid, antes, f"⚖️ SEI · {titulo}: {resultado}", corpo, p["url"]))
+            else:
+                rel = _particulas(rec.get("NomDiretorRelator"))
+                corpo = f"{quando}" + (f" · relator(a): {rel}" if rel else "") + f"\n{assunto[:300]}"
+                msgs.append((uid, antes, f"🗓️ SEI · {titulo} na pauta de {dia[8:10]}/{dia[5:7]}", corpo, p["url"]))
+
+    for i, (uid, antes, title, body, link) in enumerate(msgs):
+        if i >= PUSH_CAP_PER_RUN or dry or not notify.send(title, body, click=link, tags=["spiral_calendar"]):
+            if antes is None:
+                st.pop(uid, None)  # não saiu (cap, simulação ou falha): tenta no próximo ciclo
+            else:
+                st[uid] = antes
+    state["sei_pauta"] = st
+    print(f"[sei_pauta] {len(alvos)} processos, {len(recs)} itens de pauta lidos, {len(msgs)} alertas"
+          + (" (seed silencioso)" if seed else ""))
+    return len(msgs)
 
 
 # ============== ANEEL CP / Tomada de Subsídios ==============
@@ -1111,6 +1211,8 @@ def main():
             total += alert_sei(state, dry=False)
         except Exception as e:
             print(f"[sei] falhou: {e}", file=sys.stderr)
+        # Os mesmos processos pela pauta da Diretoria, sem o PC (a pedido, 21/10/2026).
+        total += _fonte(state, "ANEEL · pauta (processos SEI)", alert_sei_pauta)
     try:
         _avisa_fontes_cegas(state)
     except Exception as e:
