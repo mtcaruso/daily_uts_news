@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T19:45:09.451603-03:00",
+  "last_updated": "2026-10-21T20:05:44.437458-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFdpSWI1VFFOcDd3QUJoS2JrZ0JTNHhpTXpmUVp3d1VIYkNuVzZZMkFlSEpvMmFqWEtkbERFcm16SEFzSnE2eV9Gb3BTMU9jbUl2NDJrZUIxbHYyb19PamNDU1JFTkxKcXQ5M245UlUzRkkzZ2lZNTRPa3VDUG5hV1NtWnQ0NEVXT1BkMnNobm9GLTFaRG0waUtGaU8tZl9QYWpxSnJPbk0tSnBsYXQ0ZkZIZGxSY0QxMjFOVTNzUGVwMldDSEJmMDFBaDd5YmxRN1FhOXJSb21ZTUlM?oc=5": {
       "title": "Energia renovável e ingredientes selecionados sustentam a liderança da Heineken® no segmento premium - Estadão",
@@ -3621,11 +3621,9 @@
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUEFRcGI1bGtpY0tZX1p3aFpadEcwMU96ck1RTFRDSzBVS3hpbXpULUpPcy1FVGl2UDdPaFN0UHljaFlsb2xhanhXVFhoWDY4cGVvT0xSTFgtS3ktOFh3Smg4dEM5X3RYalVrTFN3V2gzMS1LQVBYY0NUazFianVodGo3ajIweG1ZWTN1SFdRckZQT0tCc2hMQTlMWmdWZnJHdXExd1Q1WHkzM3JKeEFiNGhuRTd0U3lPX1ZVYU1YbjFEUQ?oc=5": {
       "title": "Parecer da AGU sobre diretor-geral de agências é vinculante, diz procurador - CanalEnergia",
-      "summary": null,
+      "summary": "O procurador-geral da **Aneel**, Eduardo Ramalho, declarou que o parecer da **AGU** sobre a substituição de diretores-gerais de agências reguladoras possui caráter vinculante.",
       "source": "",
-      "added_at": "2026-10-21T01:37:26.108261-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-21T01:37:26.108261-03:00"
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV3FxWWh4TkhrYk4ybDNVR1M2SkdGNDVZMEptaU5HdDdER3NoZHJUSkZqNlo0NU41MVNCcGdvTUFaZGR0R2xNWl9WNF9GVThrTV90bDVuVHdDaGpmOW1XY0RadFFvQ3NkaWNpZnV1WXJNUWpmVjJ3M0ZaWHg4cnpvMDd4SUNjanlEQ2Z3dzF3MU5KLUhrSFNqSDdPWlFBN3ZseEJTaTVocWt6TGJ2SUFNUHJXZ3lSWFRFaDJtWjFTT0RhMU1kN0FTUFdSMXZGQ0NmZ1lpU2JhTFkzUHI5bEZQSmFPdmtVQQ?oc=5": {
       "title": "Uso de IA, reajuste para servidores, concursos e privatizações colocam Lula e Flávio em lados opostos - Folha de S.Paulo",
@@ -3701,19 +3699,19 @@
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjVJSk5xd2w3bWZqQUdnb1ZJUHZJMDRHLVFXdjM3d3o0RTRrQ0VHVm1Ib0Z5bG9tR2t3cTJDTXA4NzctTWtDY2pQXzFHV2JsRjVubGNCVjA0elVrLUtrRW5sMHdsaXB2eWRUN1B3em10SjhBZzdPejY1YkNkbEJlUmEzREtRZTgydWZMdWNXWEFiQWRRM0lra1JDVXVsUEc3a3RqQ0lpaUF2cU5BV2tKRUI3TXU4WXd2dVJSdFl3ZXJNZDFVbmc?oc=5": {
       "title": "Minuta – Relatório Síntese – Plano Decenal de Expansão de Energia 2036 – PDE 2036 - CanalEnergia",
-      "summary": null,
+      "summary": "Minuta – Relatório Síntese – Plano Decenal de Expansão de Energia 2036 – PDE 2036 Entenda melhor o assunto - Consumidor Energia solar por assinatura já gerou R$ 267 milhões em economia para consumidores em três anos 14 de outubro de 2026 - Mercado Abertura do mercado livre acende alerta sobre inadimplência 06 de outubro de 2026 - Geração Apine pede à Aneel medidas para conter avanço da GD 30 de…",
       "source": "",
       "added_at": "2026-10-21T12:11:39.738594-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXo1VjhfSDNCX3U2WHprRERCNkFBUjNrRlpkSHdVZ2pMeENQVDFIcUNjVE1YMWhIVXBGeUN3emdYOWNXdnBLMGY2cm9ORS1mb2ZITFAyY0hFTTlQMWdpYnMxTGd2dDV6bmFTNDhmTHRGd0FpN1hMUFo3R0hfeFIxbVdFY1FtemczTEpKc3YyU0RHZE1PNWlqRjhFcFdYZVpDS01lRm1XclhpZXdYMEpCWUViUHp4ZlZWWTVvd20zcXZtcnJXRnlJ?oc=5": {
       "title": "Negociação de energia e reforma tributária: uma nova era de segurança e liquidez - CanalEnergia",
-      "summary": null,
+      "summary": "Negociação de energia e reforma tributária: uma nova era de segurança e liquidez. Houve mudanças significativas para a cobrança de tributos, especialmente na negociação de commodities e mercados futuros, como o de energia elétrica",
       "source": "",
       "added_at": "2026-10-21T12:11:41.501555-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1lPbHJ2RHZ5MTNXY1k2Vmd0UGFtM0IwbGlCb0IxMzdIelRoRktlNFRFaXBVMWRSVmxONmFzdFBUQUx6ZnBTdWNmMmZaalR1ZHBNcFB3QzdYdDRQeG1ncWpqM1RGZDN5OU1aRk1EbUw1d2w0N3puYlA1dW40OGVEcDJEMmp3ZzluQ3B6NC1nM3VDbUJ2ZUhDMXFzcmxFMVhlamhSMjFXbUVSWmNScGNHR1VYLTM?oc=5": {
       "title": "WEG registra lucro líquido de R$ 1,66 bilhão no terceiro trimestre - CanalEnergia",
@@ -3725,27 +3723,25 @@
     },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxObTNpRkRnMkFMU0xCS0J1dXBPN1ZlQUpvSE9nOWlNbDVPSDNTUFZaSlU1SlBFc3pOVjdWUXliQWpwOWhWUXNWMEZJYlpDazJIMFlsdnVxa091SF93OC1RMElHeXVlNW5OVE8xZ1FuVF9IT2lSTUE1dDJCbzVzS3JyUjBBVQ?oc=5": {
       "title": "Boletim InfoPLD Diário - CanalEnergia",
-      "summary": null,
+      "summary": "Boletim InfoPLD Diário Entenda melhor o assunto - Comercialização CCEE reduz em 75% o prazo médio para processar pedidos de recontabilização 16 de outubro de 2026 - Expansão ONS, CCEE e EPE abrem código de novo modelo 15 de outubro de 2026 - Comercialização Anace aponta distorção na TFSEE 14 de outubro de 2026 - Comercialização Liquidação do MCP movimentou R$ 1,8 bi em agosto 08 de outubro de…",
       "source": "",
       "added_at": "2026-10-21T12:11:45.332082-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNU8td3hYN2U2U0E1RzhhaXRNQjZsLUpvYkdtblYxYlhEOWpWWFJZbTl4ekhObVVWS2JyeWZXQ3FTS3BJRnhTSGxWYjhZd0FGNEN6TDh0eTRfd0lVOFRYX0NqaHBDQ3NMUmZEV1dRUTFOYlBrQzBVSFQyZzNoQ2ZZb1h0M0JYbjNHQmFOOE81ZG5GM3ZvTWlTSXBfLWJSRzNmQ3Y4M2JEaXNNLUVJSUVFMnJqanhmcm1sZ3NJ?oc=5": {
       "title": "Lucro da Neoenergia sobe 27% e vai a R$ 1,2 bilhão no terceiro trimestre - CanalEnergia",
-      "summary": null,
+      "summary": "Lucro da Neoenergia sobe 27% e vai a R$ 1,2 bilhão no terceiro trimestre. A empresa informou em seu balanço que no acumulado do ano o lucro de R$ 3,36 bilhões mostra recuo de 5%",
       "source": "",
       "added_at": "2026-10-21T12:11:47.168137-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOFJJQjZvYmxqdlN5YmxqbERMWlhqWFFnZkhGYUdfelBZU3ZyakMxNW44eEhKWFBZMFNkeXBZQnJsaW5RTk1FRWg3VG53c2NUeXF3S3E2MFRPMmEtcjJwVmRjTUROYzBpcjU3UDV0UjBsRjI1dVpLUVdqbk9XMVVYdDZHRGVQMFpmcDR3YmM4X1pDeWtEZmttSDV4NGVJV2wwZjhzZ2g2UFBKcHlRM1lGazNkU2luVzNfYjBN?oc=5": {
       "title": "Pedidos para ABB disparam e vão a US$ 12 bilhões no terceiro trimestre - CanalEnergia",
-      "summary": null,
+      "summary": "A **ABB** registrou um aumento significativo em seus pedidos, alcançando **US$ 12 bilhões** no terceiro trimestre. O lucro operacional da empresa também cresceu **19%**, atingindo **US$ 1,84 bilhão** no mesmo período.",
       "source": "",
-      "added_at": "2026-10-21T12:11:48.949389-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "added_at": "2026-10-21T12:11:48.949389-03:00"
     },
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZEhfTl9lenVWcEFHMXBzOGdERGo2TUhGbFFaY3V2cWU3Z3NnUFJqUW9fZzRwaV9ZaDA2VW5MSGhZVWF2dTZVb1JlQ2Q2WDAtUE9FSU1DR1JGWmltZ0ZhVmVheklnQ3RGY1Fha1N1TThiNllkenM0ZmJZeVdMejB2YkhhcEpia2FXazduNW5EZVVIeGNCclNwRWpock5iNUNTRDRmaldwRkE1QS13cmtVdUo5c1RONjB3WXRDc2paYzJNNE1vdGFDZldtcU90dzdSdUF0Y2phVlZmUXhneTlULXhXdTZSMHAyRWFKbtIB-wFBVV95cUxPdmR1MGF3UWNJUjl5V3F5dmcyQVNrajZfLXFraU1jX0gwWVRVYVZudE4zeHNjejRaU3RUcTBBdGxxT0V1cVJzU0RUemZqNjVoZkgtTXFHRUZjZnM0YnN5QUJMVkJrMXpBcGhneUQwc2RZUF9XdjVOSlJFcmZfRHVTa1plUnVmNWUtWFYyWGlYNjRuTm1ILWlscFZlbVJFSGF5cFdicEppLW5BOGNnSTd3a1BZM2cxZHFqcUJteEk5Unh4RUJjZEF0bkdIVEc5RG1IZ2NGTXhzNUNVRm16cG1FcDBVNDczYWZmM3hoZ0tPTzF0elhwZEFlckdkVQ?oc=5": {
       "title": "Será muito positivo se retomarmos diálogo sobre tarifas pós-eleições, avalia vice-presidente da WEG - Valor Econômico",
@@ -3849,11 +3845,11 @@
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWQwMW1HZzVFNTYxQVpqdlEwSkJBTWsydS1SM0ZWV3JHMmEwdzM5THFDc2FDanZrakhWRm54eEhkd2Q4YlgxZUM0bkR0Umh1V2JoSnp3VnU4aDRZd2NGa0pJZUt4TlR0ZlFOS2tZZURfSmJCaXo4SWktSXFSRi1HUGxBaURzQzlWNEI4aml5UDh4VUdoNjVXLWd3c05Ybms0SWRPRWZweFZJUmNZU3BySXN4M0xVU19KcnY3Qm1hUkFUQnlnWE5EZUdtbERhUQ?oc=5": {
       "title": "Diretor da Aneel defende que PLD mínimo reflita a real condição do sistema elétrico - CanalEnergia",
-      "summary": null,
+      "summary": "Diretor da Aneel defende que PLD mínimo reflita a real condição do sistema elétrico. O diretor da Aneel defendeu uma revisão do PLD mínimo, argumentando que o mecanismo atual não reflete mais as condições do sistema elétrico.",
       "source": "",
       "added_at": "2026-10-21T16:35:19.064271-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2hEQjBMOEd0RW9CSUN5VHV1TzI0QVJCZDhOTGQ4bGt6NjlLMHE2cFZOOTVPSllOMGhFZGN2ZkNyalhSNWtIOWkwREZneWdwcF9VSmxhOHlzQmZFV29HNnVjS2VBeGNrU2IxVzgtOE9YSjRPWk1kYU5FMHhFSDdfTlFNQlFjOGhtcEMxc25HdjdoYm9T?oc=5": {
       "title": "Região SE/CO opera com 54,7% da capacidade - CanalEnergia",
@@ -3991,19 +3987,19 @@
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGl2d3BxQU9iMi1XWV9ucHBabVB1cjNqRlZzSHVlb0RWYlVCSnlEUHVKZzRKV2JpVFdJbldYRXhOMFNvR2dIZk1vWUEyQ2hHZ3dJeHFSeTZpZVhRRDk5WFJFNGZGYmJlY2VXWW9tTjdpOTIwaTJvWTZJR216dEtBZWMwNlJNS3VPX1Z0YUVnVkJIaGZJaUhfREU2S29mMFE3RFROakpEb2dtT21md1h0U3lmTjlZelBMYWhFZlkyMldwcE1GQU1B?oc=5": {
       "title": "Gentil Nogueira, da Aneel defende revisão do modelo de outorgas na distribuição - CanalEnergia",
-      "summary": null,
+      "summary": "Gentil Nogueira, da Aneel defende revisão do modelo de outorgas na distribuição. O diretor da Aneel, Gentil Nogueira de Sá Júnior, defendeu uma reformulação na forma como o setor trata as outorgas de distribuição",
       "source": "",
       "added_at": "2026-10-21T18:58:42.248259-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXhMVjBSUFYxQy1sYV8wbFNISHdWOUhvUjRvZGVndmFLRUlJNEEzaUlvSmJDRlpOQXR0eVpaOFNrMVBldjdHV1g0OC1ORVlEQ21mSmlVR01uRW40alJwM0YtQktnOHUyVmEwWVFrMUc5YmRFb01aTE1BWno4RHkxdmwwVG9CTExCOHJ2RTlfOWNnM3lMLU1TRkxDUkxPN0V0OEZMU2xQUzN0dWFWNmNHeVFHcWQ4T3pjNzlLSXJwcHNkOENxUFoycVRHdw?oc=5": {
       "title": "Representação ao TCU questiona parecer sobre substituição em agências reguladoras - CanalEnergia",
-      "summary": null,
+      "summary": "Representação ao TCU questiona parecer sobre substituição em agências reguladoras. O MP entrou com representação para que o TCU apure o alcance de parecer da AGU sobre a substituição de dirigentes das agências",
       "source": "",
       "added_at": "2026-10-21T18:58:42.248298-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRmNha2RBOHNlRzBwY044VlJUSGZUNEpmaFlJcjAzekZUSWVrLThLbDJiSlB4WjM1Z2FoWkNwYlE1YjFCb1FYbWxZSzc4NXJsOWljd0pHZGpUX2piSFlqbjln?oc=5": {
       "title": "Tag Autoprodução - MegaWhat",
@@ -4029,7 +4025,7 @@
       "source": "",
       "added_at": "2026-10-21T19:39:32.066193-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRnNEX2t0TE0tVmx6LWN3N0xTQk9NQm1BRWZUSk9RT3E2MmdBY0lON3lsdXBzb1RxZTNyOUk5QVJXb0s1eHgwSDdUUC15S3hUNDhTRi1rT0RuMkNPZG9yWVl0QW9BRDNjSjB3TFVjWERsVTRuWUFyOVJaS2hjQWRIRjREY3hNMUlKa3hES2VhZ082djBm?oc=5": {
       "title": "Eneva conclui venda da UTE Itaqui e sai da geração a carvão - Agência iNFRA",
@@ -4037,7 +4033,15 @@
       "source": "",
       "added_at": "2026-10-21T19:39:44.047914-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmJuVzUyNHRUVzB1QkdTTnVNSTktQ1NyNVREZ0txeDFPeDhRU3R4UnRlbzlkbklmQ2dFUThVUk9EZTZGQ3pkRmN4RTNxSWlkMEJ5VEM3S0lKSWtGTEhlelV0RmNjdU9wQjEySHpTcFF2aXZIOVBtbG8xMGhvZFk5MWk0aGwxNzMyMHNJMzJ1cEJsZlFfbkc1TjR4Y0syMDlSWTV1MndIblcwVlZnSHV0Y1o0ZWZKMUFYNlJydGtwQWdBYnhuTm9wLVdkZ3nSAcwBQVVfeXFMTmZiblc1MjR0VFcwdUJHU051TUk5LUNTcjVURGdLcXgxT3g4UVN0eFJ0ZW85ZG5JZkNnRVE4VVJPRGU2RkN6ZEZjeEUzcUlpZDBCeVRDN0tJSklrRkxIZXpVdEZjY3VPcEIxMkh6U3BRdml2SDlQbWxvMTBob2RZOTFpNGhsMTczMjBzSTMydXBCbGZRX25HNU40eGNLMjA5Ulk1dTJ3SG5XMFZWZ0h1dGNaNGVmSjFBWDZScnRrcEFnQWJ4bk5vcC1XZGd5?oc=5": {
+      "title": "Votação sobre contrato da Enel em SP deve ser retomada em novembro; veja como está o placar - Estadão",
+      "summary": "Seu navegador não suporta esse video. Governador fez coletiva de imprensa sobre os três anos de sua gestão O diretor da Agência Nacional de Energia Elétrica (Aneel), Gentil Nogueira de Sá Júnior, disse nesta quarta-feira, 21, que o processo para a recomendação ou não de caducidade da concessão da Enel São Paulo deve voltar à pauta da agência em novembro.",
+      "source": "",
+      "added_at": "2026-10-21T20:05:20.343838-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
