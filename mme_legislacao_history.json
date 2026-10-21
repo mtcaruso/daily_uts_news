@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T07:31:47.608211-03:00",
+  "last_updated": "2026-10-21T08:15:39.299921-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5349,6 +5349,34 @@
       "added_at": "2026-10-19T07:03:37.796612-03:00",
       "summarized_at": "2026-10-19T07:03:51.664467-03:00",
       "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-167-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-167-2026",
+      "title": "Portaria MME nº 167/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-167-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-167-2026.pdf",
+      "date_modified": "21/10/2026",
+      "ementa": "Ficam designados, para compor o Grupo de Trabalho instituído pela Resolução CNPM nº 1, de 3 de julho de 2026, os seguintes representantes, titulares e suplentes, dos órgãos e da entidade a seguir relacionados.",
+      "summary": "Designa representantes para compor Grupo de Trabalho da **Resolução CNPM nº 1/2026**.",
+      "added_at": "2026-10-21T08:15:17.173751-03:00",
+      "summarized_at": "2026-10-21T08:15:26.144130-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-168-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-168-2026",
+      "title": "Portaria MME nº 168/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-168-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-168-2026.pdf",
+      "date_modified": "21/10/2026",
+      "ementa": "Concede a Gratificação Temporária de Execução e Apoio a Atividades Técnicas e Administrativas - GTATA, de Nível Intermediário, aos servidores do Quadro de Pessoal deste Ministério, em exercício na Ouvidoria-Geral, relacionados no Anexo da presente Portaria.",
+      "summary": "Concede **GTATA** a servidores da **Ouvidoria-Geral** do **MME**, conforme Anexo.",
+      "added_at": "2026-10-21T08:15:17.173751-03:00",
+      "summarized_at": "2026-10-21T08:15:31.002273-03:00",
+      "notified_at": "2026-10-21T08:15:39.299280-03:00"
     }
   },
   "first_run_done": true
