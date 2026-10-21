@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T18:51:02.094162-03:00",
+  "last_updated": "2026-10-21T19:30:24.379556-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1868,6 +1868,118 @@
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14823&idAreaNoticia=425",
       "summary": "- **Neoenergia Distribuição Brasília**: Resultado da Revisão Tarifária Periódica, a vigorar a partir de 22/10/2026, após Consulta Pública nº 24/2026.\n- **Reforma Tributária (EC 132/2023)**: Proposta de abertura de Consulta Pública para verificar impactos nas bases de remuneração e adequação de contratos de geração/comercialização.\n- **Energisa Mato Grosso**: Recurso Administrativo contra Auto de Infração nº 1/2025 da AGER-MT sobre cobrança de ICMS retroativo para micro e minigeração distribuída.\n- **Powertech/Aggreko**: Pedidos de Reconsideração sobre antecipação de reembolso de custos de combustível para estoques estratégicos e ações de contingência no Amazonas.\n- **Equatorial Goiás**: Reajuste Tarifário Anual, a vigorar a partir de 22/10/2026.",
       "added_at": "2026-10-19T14:06:50.482660-03:00"
+    },
+    "noticia_2026_aneel-realiza-workshop-de-esclarecimentos-sobre-o-1o-leilao-de-transmissao-de-2027": {
+      "type": "noticia",
+      "title": "ANEEL realiza Workshop de Esclarecimentos sobre o 1º Leilão de Transmissão de 2027",
+      "date": "21/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realiza-workshop-de-esclarecimentos-sobre-o-1o-leilao-de-transmissao-de-2027",
+      "summary": "A **ANEEL** realizou um workshop sobre o 1º Leilão de Transmissão de 2027, que ofertará **12 lotes** de empreendimentos em **13 estados** com **3.245 km** de linhas. O leilão está previsto para **30 de abril de 2027**, com prazos de construção de **36 a 60 meses** e previsão de **29,5 mil empregos**.",
+      "added_at": "2026-10-21T19:29:31.581443-03:00"
+    },
+    "noticia_2026_aneel-registra-primeiro-projeto-de-usina-hidreletrica-reversivel-em-ciclo-fechado": {
+      "type": "noticia",
+      "title": "ANEEL registra primeiro projeto de usina hidrelétrica reversível em ciclo fechado",
+      "date": "21/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-registra-primeiro-projeto-de-usina-hidreletrica-reversivel-em-ciclo-fechado",
+      "summary": "A **ANEEL** registrou o primeiro projeto de **Usina Hidrelétrica Reversível em ciclo fechado (UHR)**, a UHR Salto Timbé do Sul, da **AMUR Ltda.**, com **5,2 MW** em Timbé do Sul (SC). O registro, válido por **quatro anos**, marca a aplicação da nova regulamentação para sistemas de armazenamento de energia.",
+      "added_at": "2026-10-21T19:29:36.883131-03:00"
+    },
+    "noticia_2026_aneel-propoe-consulta-publica-para-adequar-contratos-de-geradoras-e-comercializadoras-a-reforma-tributaria": {
+      "type": "noticia",
+      "title": "ANEEL propõe consulta pública para adequar contratos de geradoras e comercializadoras à Reforma Tributária",
+      "date": "20/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-propoe-consulta-publica-para-adequar-contratos-de-geradoras-e-comercializadoras-a-reforma-tributaria",
+      "summary": "A **ANEEL** propõe consulta pública para adequar contratos de geradoras e comercializadoras à Reforma Tributária, com foco em contratos firmados antes de **16/01/2025**. Contribuições podem ser enviadas de **21 a 30 de outubro de 2026**.",
+      "added_at": "2026-10-21T19:29:42.202417-03:00"
+    },
+    "noticia_2026_aneel-aprova-consulta-publica-para-discutir-a-aplicacao-da-reforma-tributaria-no-setor-eletrico": {
+      "type": "noticia",
+      "title": "ANEEL aprova Consulta Pública para discutir a aplicação da Reforma Tributária no Setor Elétrico",
+      "date": "20/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-consulta-publica-para-discutir-a-aplicacao-da-reforma-tributaria-no-setor-eletrico",
+      "summary": "A **ANEEL** abriu **Consulta Pública** (até **30 de outubro de 2026**) para discutir os impactos da Reforma Tributária nas concessionárias de energia elétrica. O objetivo é adequar o setor à nova tributação (CBS/IBS) e evitar desequilíbrio econômico-financeiro ou aumento de tarifas, propondo mecanismos como um \"componente financeiro negativo\" e uma Parcela de Ajuste para o segmento de transmissão.",
+      "added_at": "2026-10-21T19:29:47.629181-03:00"
+    },
+    "noticia_2026_revisao-tarifaria-periodica-da-neoenergia-brasilia-e-aprovada-pela-aneel": {
+      "type": "noticia",
+      "title": "Revisão tarifária periódica da Neoenergia Brasília é aprovada pela ANEEL",
+      "date": "20/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/revisao-tarifaria-periodica-da-neoenergia-brasilia-e-aprovada-pela-aneel",
+      "summary": "A **ANEEL** aprovou a revisão tarifária periódica da **Neoenergia Brasília**, com efeito médio de **1,92%** para os consumidores. As novas tarifas entram em vigor a partir de **22 de outubro**.",
+      "added_at": "2026-10-21T19:29:52.952657-03:00"
+    },
+    "noticia_2026_novas-tarifas-da-equatorial-goias-sao-aprovadas-pela-aneel": {
+      "type": "noticia",
+      "title": "Novas tarifas da Equatorial Goiás são aprovadas pela ANEEL",
+      "date": "20/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/novas-tarifas-da-equatorial-goias-sao-aprovadas-pela-aneel",
+      "summary": "A **ANEEL** aprovou o reajuste tarifário da **Equatorial Goiás**, com efeito médio de **7,25%** para os consumidores. As novas tarifas entram em vigor a partir de **22 de outubro**.",
+      "added_at": "2026-10-21T19:29:58.136686-03:00"
+    },
+    "noticia_2026_programa-de-eficiencia-energetica-apresenta-os-resultados-do-terceiro-trimestre-de-2026": {
+      "type": "noticia",
+      "title": "Programa de Eficiência Energética apresenta os resultados do terceiro trimestre de 2026",
+      "date": "19/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/programa-de-eficiencia-energetica-apresenta-os-resultados-do-terceiro-trimestre-de-2026",
+      "summary": "A **ANEEL** divulgou os resultados do Programa de Eficiência Energética (PEE) para o 3º trimestre de 2026, com **R$ 595,82 milhões** investidos em 154 novos projetos. Foram concluídos 70 projetos, totalizando **R$ 103,69 milhões** em investimentos e economia de energia.",
+      "added_at": "2026-10-21T19:30:03.294717-03:00"
+    },
+    "partic_cp_039_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 039/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=CSE4Xq4q&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4073&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Adequação de contratos de geração, comercialização e encargos setoriais à reforma tributária (**EC 132/2023** e **LC 214/2025**).",
+      "added_at": "2026-10-21T19:30:08.413548-03:00",
+      "objeto": "obter subsídios e informações adicionais para promover a adequação dos contratos regulados de geração e comercialização de energia elétrica, bem como de encargos setoriais, em decorrência da reforma tributária definida pela Emenda Constitucional nº 132/2023, e materializada pela Lei Complementar nº 214/2025.",
+      "deadline": "30/10/2026",
+      "deadline_source": "detalhe",
+      "start_date": "21/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-21T19:30:08.413578-03:00"
+    },
+    "partic_cp_038_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 038/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=CSE4Xq4q&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4072&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Reforma Tributária (**EC 132/2023**, **LC 214/2025**) e seus impactos nas Bases de Remuneração das concessionárias de energia elétrica.",
+      "added_at": "2026-10-21T19:30:13.535113-03:00",
+      "objeto": "obter subsídios para verificar os impactos da Reforma Tributária definida pela Emenda Constitucional nº 132/2023, e materializada pela Lei Complementar nº 214/2025, nas Bases de Remuneração das concessionárias de serviço público de energia elétrica.",
+      "deadline": "30/10/2026",
+      "deadline_source": "detalhe",
+      "start_date": "21/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-21T19:30:13.535142-03:00"
+    },
+    "partic_ts_041_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 041/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=2Vpl9laT&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4074&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Orçamento Anual da CDE **2027**: busca subsídios para Encargo de Complemento de Recursos, Fatores ECR e rateio das quotas.",
+      "added_at": "2026-10-21T19:30:18.671549-03:00",
+      "objeto": "Obter subsídios e informações adicionais acerca da proposta do Orçamento Anual da Conta de Desenvolvimento Energético - CDE de 2027, do Encargo de Complemento de Recursos, dos respectivos Fatores ECR e do rateio das quotas anuais da CDE.",
+      "deadline": "20/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "21/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-21T19:30:18.671574-03:00"
+    },
+    "partic_ts_040_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 040/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=2Vpl9laT&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4071&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Alteração do Submódulo **7.10** — Implantação e Análise do Sistema de Registro de Perturbações dos Procedimentos de Rede. Busca subsídios para aprimorar o registro e análise de perturbações na rede elétrica.",
+      "added_at": "2026-10-21T19:30:23.878271-03:00",
+      "objeto": "obter subsídios para alteração do Submódulo 7.10 - Implantação e Análise do Sistema de Registro de Perturbações dos Procedimentos de Rede.",
+      "deadline": "04/12/2026",
+      "deadline_source": "detalhe",
+      "start_date": "21/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-21T19:30:23.878511-03:00"
     }
   }
 }
