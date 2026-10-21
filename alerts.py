@@ -42,6 +42,12 @@ PUSH_CAP_PER_RUN = 25
 SCORE_THRESHOLD = 60
 
 
+class FonteFora(Exception):
+    """A fonte não respondeu (ou veio sem conteúdo). Antes cada alerta só
+    escrevia no log e devolvia 0, igual a "nada novo": uma fonte cega ficava
+    muda sem ninguém saber. O main registra em state['saude'] e avisa."""
+
+
 # ============== STATE ==============
 def load_state() -> dict:
     default = {"news": [], "dou": [], "cvm": [], "news_score": []}
@@ -254,8 +260,7 @@ def alert_mme_cp(state: dict, dry: bool) -> int:
         r.raise_for_status()
         cps = r.json().get("content") or []
     except Exception as e:
-        print(f"[mme_cp] erro: {e}", file=sys.stderr)
-        return 0
+        raise FonteFora(f"API do MME: {e}") from e
 
     seen = state.get("mme_cp")
     seed = not isinstance(seen, dict) or not seen
@@ -367,8 +372,7 @@ def alert_arsesp(state: dict, dry: bool) -> int:
         docs += [(d["ID"], d.get("idAudienciasId"), d.get("Titulo"), "doc_ap")
                  for d in _arsesp_get("/Lists/bdAudienciasPublicasDocumentos", "ID,Titulo,idAudienciasId", 100)]
     except Exception as e:
-        print(f"[arsesp] erro: {e}", file=sys.stderr)
-        return 0
+        raise FonteFora(f"API do SharePoint: {e}") from e
 
     topo = {"item": max((it["ID"] for it in itens), default=0)}
     for lista in ("doc_cp", "doc_ap"):
@@ -520,7 +524,7 @@ def alert_arsae(state: dict, dry: bool) -> int:
     mod = {} if seed else dict(st.get("mod", {}))
     cps = {} if seed else {k: list(v) for k, v in st.get("cps", {}).items()}
 
-    msgs = []
+    msgs, falha = [], None  # falha: erro na página do ano atual (vira FonteFora no fim)
     for a in (ano, ano - 1):
         try:
             r = _arsae_get(ARSAE_MODIFIED.format(ano=a), timeout=20)
@@ -539,11 +543,13 @@ def alert_arsae(state: dict, dry: bool) -> int:
             r.raise_for_status()
         except Exception as e:
             print(f"[arsae] {a}: erro {e}", file=sys.stderr)
+            falha = falha or (f"página de {a}: {e}" if a == ano else None)
             continue
         r.encoding = "utf-8"
         pagina = _arsae_parse(r.text)
         if not pagina:
             print(f"[arsae] {a}: página sem nenhuma CP reconhecida — layout mudou?", file=sys.stderr)
+            falha = falha or (f"página de {a} sem nenhuma CP reconhecida (layout mudou?)" if a == ano else None)
             continue
         link = ARSAE_PAGE.format(ano=a)
         for num, cp in pagina.items():
@@ -574,6 +580,8 @@ def alert_arsae(state: dict, dry: bool) -> int:
 
     state["arsae"] = {"mod": mod, "cps": cps}
     print(f"[arsae] {len(cps)} CPs no state, {len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
+    if falha:  # o que deu pra ler já foi alertado e guardado acima
+        raise FonteFora(falha)
     return len(msgs)
 
 
@@ -840,8 +848,8 @@ def alert_aneel_dou(state: dict, dry: bool) -> int:
         try:
             atos += _dou_aneel_secao3(d.strftime("%d-%m-%Y"))
         except Exception as e:
-            print(f"[aneel_dou] {d}: {e}", file=sys.stderr)
-            return 0  # sem o dia completo, não marca nada como visto
+            # Sem o dia completo, não marca nada como visto (o state fica intacto).
+            raise FonteFora(f"busca do DOU de {d:%d/%m}: {e}") from e
     seed = not isinstance(state.get("aneel_dou"), list)
     vistos = list(state.get("aneel_dou") or [])
     partic = state.get("aneel_partic") if isinstance(state.get("aneel_partic"), dict) else {"avisados": [], "prazos": {}}
@@ -932,6 +940,10 @@ _NOT_AP = re.compile(r"audi[êe]ncia", re.IGNORECASE)
 _NOT_FECHA = re.compile(r"encerr|conclu[íi]|resultado|\bap[óo]s\b", re.IGNORECASE)
 _NOT_APROVA = re.compile(r"\baprova", re.IGNORECASE)
 _NOT_ABRE = re.compile(r"\babr(?:e|em|iu)\b|abert[ao]s?\b|abertura", re.IGNORECASE)
+# "ANEEL aprova Consulta Pública para discutir…" (20/10/2026, a CP 038) é ABERTURA:
+# o que se aprova é a própria CP, não regras saídas de uma ("aprova regras após…").
+_NOT_APROVA_CP = re.compile(
+    r"\baprova\w*\s+(?:a\s+)?(?:abertura\s+de\s+)?(?:nova\s+|uma\s+)?(?:consulta|tomadas?\s+de\s+subs)", re.IGNORECASE)
 _NOT_NUM_CP = re.compile(r"(?:Consulta\s+P[úu]blica|\bCP)\s*(?:n[ºo°.]*\s*)?(\d{1,3})/(\d{4})", re.IGNORECASE)
 _NOT_NUM_TS = re.compile(r"(?:Tomadas?\s+de\s+Subs[íi]dios?|\bTS)\s*(?:n[ºo°.]*\s*)?(\d{1,3})/(\d{4})", re.IGNORECASE)
 ANEEL_NOTICIA_MAX_DIAS = 4  # 1ª run / loop parado: não despeja notícia velha
@@ -949,8 +961,7 @@ def alert_aneel_noticias(state: dict, dry: bool) -> int:
 
     lista = aneel_aux.fetch_news_list()
     if not lista:
-        print("[aneel_noticias] lista vazia (gov.br fora ou layout mudou?)", file=sys.stderr)
-        return 0
+        raise FonteFora("lista de notícias vazia (gov.br fora ou layout mudou?)")
     vistos = list(state.get("aneel_noticias") or [])
     ja = set(vistos)
     partic = state.get("aneel_partic") if isinstance(state.get("aneel_partic"), dict) else {"avisados": [], "prazos": {}}
@@ -962,7 +973,8 @@ def alert_aneel_noticias(state: dict, dry: bool) -> int:
         if it["id"] in ja:
             continue
         titulo = it["title"].strip()
-        fecha = _NOT_FECHA.search(titulo) or (_NOT_APROVA.search(titulo) and not _NOT_ABRE.search(titulo))
+        fecha = _NOT_FECHA.search(titulo) or (_NOT_APROVA.search(titulo) and not _NOT_ABRE.search(titulo)
+                                              and not _NOT_APROVA_CP.search(titulo))
         if not _NOT_TEMA.search(titulo) or _NOT_AP.search(titulo) or fecha:
             vistos.append(it["id"]); ja.add(it["id"])
             continue
@@ -1005,57 +1017,89 @@ def alert_aneel_noticias(state: dict, dry: bool) -> int:
 
 
 # ============== MAIN ==============
+# Consultas públicas / tomadas de subsídios, na ordem em que rodam. ANEEL:
+# listagem (PC) → DOU → notícia — se duas virem a mesma CP no ciclo, sai a
+# versão com prazo. Todas a pedido (07-08/10/2026); só a listagem depende do PC.
+CONSULTAS = [
+    ("MME · consultas públicas", alert_mme_cp),
+    ("ARSESP", alert_arsesp),
+    ("ARSAE-MG", alert_arsae),
+    ("ANEEL · listagem do PC", alert_aneel_partic),
+    ("ANEEL · DOU Seção 3", alert_aneel_dou),
+    ("ANEEL · notícias", alert_aneel_noticias),
+]
+FONTE_CEGA_HORAS = 12
+
+
+def _fonte(state: dict, nome: str, fn) -> int:
+    """Roda um alerta. Erro numa fonte não derruba as outras nem o save_state
+    (senão realerta). FonteFora/erro fica em state['saude'][nome] — só fonte COM
+    falha, pra não gerar commit a cada ciclo — e vira anotação do Actions."""
+    saude = state.setdefault("saude", {})
+    try:
+        n = fn(state, dry=False)
+    except Exception as e:
+        print(f"[{nome}] falhou: {e}", file=sys.stderr)
+        print(f"::warning::{nome}: {str(e)[:180]}")
+        saude.setdefault(nome, {"desde": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                                "erro": str(e)[:200]})
+        return 0
+    saude.pop(nome, None)
+    return n
+
+
+def _avisa_fontes_cegas(state: dict) -> None:
+    """Telegram quando uma fonte passa de FONTE_CEGA_HORAS sem responder (a pedido,
+    21/10/2026): em 20-21/10 o gov.br mudou o layout e o alerta pelas notícias da
+    ANEEL ficou mudo sem ninguém saber. Mesma regra do aviso do SEI: dia útil, a
+    partir das 9h BRT, no máximo 1 por dia por fonte."""
+    agora = datetime.now(timezone.utc) - timedelta(hours=3)
+    hoje = agora.strftime("%Y-%m-%d")
+    if agora.weekday() >= 5 or agora.hour < 9:
+        return
+    cegas = [(n, s) for n, s in (state.get("saude") or {}).items()
+             if s.get("avisado") != hoje and _horas_desde(s.get("desde")) > FONTE_CEGA_HORAS]
+    if not cegas:
+        return
+    linhas = [f"• {n}: sem leitura desde {agora - timedelta(hours=_horas_desde(s['desde'])):%d/%m %H:%M} "
+              f"({(s.get('erro') or '')[:90]})" for n, s in cegas]
+    if notify.send("⚠️ Alertas · fonte de consulta sem leitura",
+                   "\n".join(linhas) + "\nEnquanto isso, CP/TS dessa fonte podem passar sem alerta.",
+                   tags=["warning"]):
+        for _, s in cegas:
+            s["avisado"] = hoje
+
+
 def main():
+    # --consultas: só CP/TS (o loop do Actions roda assim a cada 5min; o ciclo
+    # completo, com Top do Dia e SEI, a cada 15min).
+    so_consultas = "--consultas" in sys.argv[1:]
     # notify usa NTFY_TOPIC do ambiente; espelha o da config se houver.
     if CONFIG.get("ntfy_topic"):
         os.environ.setdefault("NTFY_TOPIC", CONFIG["ntfy_topic"])
 
     state = load_state()
-    news_items = collect_news()  # fetch uma vez (usado pelo score)
     total = 0
-    # A pedido do usuário (11/06/2026): SÓ notificar Top do Dia com nota >=60.
-    # Notícias por keyword (alert_news) e DOU (alert_dou) foram DESLIGADAS — as
-    # funções seguem definidas (fácil reativar), mas não são chamadas. FR/
-    # Comunicado continuam vindo do cvm_realtime/cvm_fast.
-    total += alert_news_score(news_items, state, dry=False)
-    # Consultas públicas do MME (a pedido, 07/10/2026). try: um erro aqui não
-    # pode impedir o save_state do news_score acima (senão realerta notícias).
+    if not so_consultas:
+        # A pedido do usuário (11/06/2026): SÓ notificar Top do Dia com nota >=60.
+        # Notícias por keyword (alert_news) e DOU (alert_dou) foram DESLIGADAS — as
+        # funções seguem definidas (fácil reativar), mas não são chamadas. FR/
+        # Comunicado continuam vindo do cvm_realtime/cvm_fast.
+        news_items = collect_news()  # fetch uma vez (usado pelo score)
+        total += alert_news_score(news_items, state, dry=False)
+    for nome, fn in CONSULTAS:
+        total += _fonte(state, nome, fn)
+    if not so_consultas:
+        # Processos SEI escolhidos em sei_watch.txt (a pedido, 07/10/2026). try: um
+        # erro aqui não pode impedir o save_state (senão realerta).
+        try:
+            total += alert_sei(state, dry=False)
+        except Exception as e:
+            print(f"[sei] falhou: {e}", file=sys.stderr)
     try:
-        total += alert_mme_cp(state, dry=False)
+        _avisa_fontes_cegas(state)
     except Exception as e:
-        print(f"[mme_cp] falhou: {e}", file=sys.stderr)
-    # ARSESP saneamento/Sabesp (a pedido, 07/10/2026). Mesmo motivo do try acima.
-    try:
-        total += alert_arsesp(state, dry=False)
-    except Exception as e:
-        print(f"[arsesp] falhou: {e}", file=sys.stderr)
-    # ARSAE-MG Copasa/Copanor/Gasmig (a pedido, 07/10/2026). Mesmo motivo.
-    try:
-        total += alert_arsae(state, dry=False)
-    except Exception as e:
-        print(f"[arsae] falhou: {e}", file=sys.stderr)
-    # Processos SEI escolhidos em sei_watch.txt (a pedido, 07/10/2026). Mesmo motivo.
-    try:
-        total += alert_sei(state, dry=False)
-    except Exception as e:
-        print(f"[sei] falhou: {e}", file=sys.stderr)
-    # CP/TS ANEEL coletadas pelo PC (movido do aneel_aux em 08/10/2026). Mesmo motivo.
-    try:
-        total += alert_aneel_partic(state, dry=False)
-    except Exception as e:
-        print(f"[aneel_partic] falhou: {e}", file=sys.stderr)
-    # Aviso oficial de CP/TS no DOU Seção 3 — a garantia, sem PC (a pedido, 08/10/2026).
-    # Antes da notícia: se as duas virem a mesma CP no ciclo, sai a versão com prazo.
-    try:
-        total += alert_aneel_dou(state, dry=False)
-    except Exception as e:
-        print(f"[aneel_dou] falhou: {e}", file=sys.stderr)
-    # CP/TS ANEEL pelas notícias do gov.br, sem depender do PC (a pedido, 08/10/2026).
-    # Depois da listagem: se as duas virem a mesma CP no ciclo, sai só o alerta com prazo.
-    try:
-        total += alert_aneel_noticias(state, dry=False)
-    except Exception as e:
-        print(f"[aneel_noticias] falhou: {e}", file=sys.stderr)
+        print(f"[saude] aviso falhou: {e}", file=sys.stderr)
     save_state(state)
     print(f"Total: {total} push notifications enviados")
 

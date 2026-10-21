@@ -43,6 +43,7 @@ MAX_RERESUME_ATTEMPTS = 3  # qtas vezes re-tentar upgrade LLM de um resumo extra
 
 # URLs
 NEWS_URL = "https://www.gov.br/aneel/pt-br/assuntos/noticias"
+NEWS_API = "https://www.gov.br/aneel/++api++/pt-br/assuntos/noticias/@search"
 PAUTAS_URL = "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/?idAreaNoticia=425"
 PAUTA_DETAIL_TPL = "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia={id}&idAreaNoticia=425"
 # Participação Pública (CP/AP/TS) — antigo.aneel.gov.br Liferay portal
@@ -91,7 +92,41 @@ def _gemini_client():
 
 def fetch_news_list():
     """Retorna lista de items da Sala de Imprensa gov.br/aneel.
-    Cada item: {type, id, title, date, link}."""
+    Cada item: {type, id, title, date, link}.
+
+    Fonte: a API REST do Plone (JSON, mais nova primeiro). Por volta de
+    20/10/2026 o portal virou Volto (React): a lista deixou de vir no HTML, o
+    regex abaixo passou a achar 0 notícias e o alerta de CP/TS pelas notícias
+    ficou mudo (as CPs 038/039 chegaram ~10h depois, só pelo DOU). O HTML fica
+    de reserva, se a API sair do ar."""
+    try:
+        r = requests.get(NEWS_API, headers={**HEADERS, "Accept": "application/json"}, timeout=20, params={
+            "portal_type": "News Item", "sort_on": "effective", "sort_order": "descending",
+            "b_size": 30, "metadata_fields": "effective"})
+        r.raise_for_status()
+        items = []
+        for it in r.json().get("items", []):
+            # .../noticias/2026-defeso-eleitoral/slug ou .../noticias/slug
+            m = re.search(r"/assuntos/noticias/(?:([^/]+)/)?([^/]+)/?$", it.get("@id") or "")
+            if not m or not it.get("title"):
+                continue
+            eff = it.get("effective") or ""
+            # Ano = o da pasta, como no id antigo (noticia_2026_slug): nada já visto vira novo.
+            year = (m.group(1) or "")[:4] if (m.group(1) or "")[:4].isdigit() else eff[:4]
+            items.append({
+                "type": "noticia",
+                "id": f"noticia_{year}_{m.group(2)}",
+                "title": it["title"].strip(),
+                "date": f"{eff[8:10]}/{eff[5:7]}/{eff[:4]}" if len(eff) >= 10 else None,
+                "year": year,
+                "link": it["@id"],
+            })
+        if items:
+            return items
+        print("[news_list] API sem itens — tentando o HTML", file=sys.stderr)
+    except Exception as e:
+        print(f"[news_list] API: {e} — tentando o HTML", file=sys.stderr)
+
     try:
         r = requests.get(NEWS_URL, headers=HEADERS, timeout=20)
         if r.status_code != 200:

@@ -1,4 +1,4 @@
-name: Alerts Loop (alertas a cada 15min, sem depender do agendador)
+name: Alerts Loop (consultas a cada 5min, resto a cada 15min, sem depender do agendador)
 
 # O agendador do GitHub DESCARTA a maioria dos crons frequentes: em 08/10/2026 o
 # Alerts de 30min rodou 4 vezes no dia e o MME Legislação de 1h rodou 2 — uma
@@ -8,10 +8,11 @@ name: Alerts Loop (alertas a cada 15min, sem depender do agendador)
 # então a corrente se mantém sozinha. O cron de 2h só ressuscita a corrente se
 # ela quebrar. Repo público = Actions ilimitado.
 #
-# Por ciclo de 15min: alerts.py (Top do Dia, CPs MME, ARSESP, ARSAE, SEI, CP/TS
-# ANEEL). De hora em hora, 07-23h BRT, seg-sex: mme_legislacao.py (portarias,
-# decretos, leis). alerts.yml e mme-legislacao.yml ficaram só com disparo manual
-# (rodando junto com o loop, alertariam em dobro).
+# Ciclo de 5min: alerts.py --consultas (CP/TS de ANEEL, MME, ARSESP, ARSAE; ~10s).
+# A cada 15min, o alerts.py completo (+ Top do Dia e SEI). De hora em hora, 07-23h
+# BRT, seg-sex: mme_legislacao.py (portarias, decretos, leis). alerts.yml e
+# mme-legislacao.yml ficaram só com disparo manual (rodando junto com o loop,
+# alertariam em dobro).
 on:
   workflow_dispatch:
   schedule:
@@ -73,10 +74,17 @@ jobs:
           }
           end=$(( $(date +%s) + 19800 ))  # ~5h30 (folga pro timeout de 355min)
           last_mme=""
+          last_full=0
           while [ "$(date +%s)" -lt "$end" ]; do
             t0=$(date +%s)
             sync || true
-            python alerts.py || echo "::warning::alerts.py falhou"
+            # CP/TS a cada 5min (a pedido: o mais rápido possível); o completo a cada 15.
+            if [ $(( t0 - last_full )) -ge 900 ]; then
+              last_full=$t0
+              python alerts.py || echo "::warning::alerts.py falhou"
+            else
+              python alerts.py --consultas || echo "::warning::alerts.py --consultas falhou"
+            fi
             publish "Update alerts state" alerts_state.json
             # MME só publica em dia útil, em horário comercial
             if [ "$(TZ=America/Sao_Paulo date +%u)" -le 5 ] \
@@ -86,7 +94,7 @@ jobs:
               python mme_legislacao.py || echo "::warning::mme_legislacao.py falhou"
               publish "Update MME legislação history" mme_legislacao_history.json mme_legislacao_diagnostic.json
             fi
-            resto=$(( 900 - ($(date +%s) - t0) ))
+            resto=$(( 300 - ($(date +%s) - t0) ))
             [ $(( $(date +%s) + resto )) -ge "$end" ] && break
             [ "$resto" -gt 0 ] && sleep "$resto"
           done
