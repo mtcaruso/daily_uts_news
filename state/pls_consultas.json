@@ -1,5 +1,20 @@
 {
-  "aneel": [],
+  "aneel_pauta": [
+    "15/2026 - RPC|48500016976202637|Proposta de abertura de Consulta Pública com vistas a colher",
+    "15/2026 - RPC|48500017724202625|Proposta de abertura de Consulta Pública com vistas a colher",
+    "16/2026 - RPC|48500033896202565|Proposta de abertura de Consulta Pública com vistas a colher",
+    "17/2026 - RPC|48500000846202682|Proposta de abertura de Consulta Pública com vistas a colher",
+    "17/2026 - RPC|48500023844202661|Proposta de abertura de Consulta Pública com vistas a colher",
+    "17/2026 - RPO|48500006650202359|Proposta de abertura de Consulta Pública com vistas a colher",
+    "17/2026 - RPO|48500022172202677|Proposta de abertura de Consulta Pública com vistas a colher",
+    "17/2026 - RPO|48500030191202596|Proposta de abertura de Consulta Pública com vistas a colher",
+    "18/2026 - RPO|48500002211202610|Proposta de abertura de Consulta Pública com vistas a colher",
+    "18/2026 - RPO|48500023277202643|Proposta de abertura de Consulta Pública com vistas a colher",
+    "20/2026 - RPO|48500000846202682|Proposta de abertura de Consulta Pública com vistas a colher",
+    "20/2026 - RPO|48500021812202621|Proposta de abertura de Consulta Pública com vistas a colher",
+    "21/2026 - RPO|48500028921202670|Proposta de abertura de Consulta Pública, com vistas a colhe",
+    "21/2026 - RPO|48500028922202614|Proposta de abertura de Consulta Pública, com vistas a colhe"
+  ],
   "camara": [
     2625336,
     2627608,
@@ -24,6 +39,10 @@
     "172491",
     "172867",
     "173091",
-    "174315"
-  ]
+    "174315",
+    "175240",
+    "175544",
+    "175562"
+  ],
+  "senado_ok_ate": "2026-10-22"
 }
