@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T01:28:51.944763-03:00",
+  "last_updated": "2026-10-22T12:03:46.813252-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1980,6 +1980,30 @@
       "start_date": "21/10/2026",
       "fonte": "ANEEL",
       "first_seen": "2026-10-21T19:30:23.878511-03:00"
+    },
+    "noticia_2026_aneel-aprimora-regras-para-sustentacao-oral": {
+      "type": "noticia",
+      "title": "ANEEL aprimora regras para sustentação oral",
+      "date": "22/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprimora-regras-para-sustentacao-oral",
+      "summary": "A **ANEEL** aprimorou as regras para sustentação oral em processos administrativos, permitindo que as apresentações sejam feitas exclusivamente por vídeo gravado nos Circuitos Deliberativos Públicos. Os pedidos e vídeos devem ser enviados até as **16h do dia útil anterior** à deliberação, a partir de **16/10**.",
+      "added_at": "2026-10-22T12:03:36.228283-03:00"
+    },
+    "noticia_2026_gitlab-ficara-indisponivel-nesta-quinta-feira-22-para-atualizacao": {
+      "type": "noticia",
+      "title": "GitLab ficará indisponível nesta quinta-feira (22) para atualização",
+      "date": "22/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/gitlab-ficara-indisponivel-nesta-quinta-feira-22-para-atualizacao",
+      "summary": "A **ANEEL** anunciou que o **GitLab**, repositório de arquivos do seu portal corporativo, ficará indisponível nesta **quinta-feira (22)** para atualização. Durante o período, o acesso à maioria dos documentos das Centrais de Conteúdo será restrito.",
+      "added_at": "2026-10-22T12:03:41.279276-03:00"
+    },
+    "noticia_2026_aneel-abre-tomada-de-subsidios-para-discutir-impactos-da-reforma-tributaria-no-manual-de-contabilidade-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "ANEEL abre Tomada de Subsídios para discutir impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico",
+      "date": "22/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-tomada-de-subsidios-para-discutir-impactos-da-reforma-tributaria-no-manual-de-contabilidade-do-setor-eletrico",
+      "summary": "A **ANEEL** abriu Tomada de Subsídios para discutir os impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico. Contribuições podem ser enviadas de **22 de outubro a 3 de novembro de 2026**.",
+      "added_at": "2026-10-22T12:03:46.312888-03:00"
     }
   }
 }
