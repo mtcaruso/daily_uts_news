@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T08:01:05.068774-03:00",
+  "last_updated": "2026-10-22T09:01:14.619928-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5377,6 +5377,20 @@
       "added_at": "2026-10-21T08:15:17.173751-03:00",
       "summarized_at": "2026-10-21T08:15:31.002273-03:00",
       "notified_at": "2026-10-21T08:15:39.299280-03:00"
+    },
+    "portarias_portaria-gm-mme-n-115-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-115-2026",
+      "title": "Portaria GM/MME nº 115/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-115-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-115-2026.pdf",
+      "date_modified": "22/10/2026",
+      "ementa": "Designa LUCAS ROCHA RIBEIRO, matrícula SIAPE nº 1999666, para exercer o encargo de substituto do Coordenador de Estruturação de Bases de Informações da Coordenação-Geral de Informações Integradas, do Departamento de Informações, Estudos e Eficiência Energética, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **LUCAS ROCHA RIBEIRO** para substituto do Coordenador de Estruturação de Bases de Informações.",
+      "added_at": "2026-10-22T09:01:05.198221-03:00",
+      "summarized_at": "2026-10-22T09:01:14.117105-03:00",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
