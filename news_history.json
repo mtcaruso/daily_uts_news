@@ -1,356 +1,6 @@
 {
-  "last_updated": "2026-10-21T20:05:44.437458-03:00",
+  "last_updated": "2026-10-22T01:35:26.807226-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFdpSWI1VFFOcDd3QUJoS2JrZ0JTNHhpTXpmUVp3d1VIYkNuVzZZMkFlSEpvMmFqWEtkbERFcm16SEFzSnE2eV9Gb3BTMU9jbUl2NDJrZUIxbHYyb19PamNDU1JFTkxKcXQ5M245UlUzRkkzZ2lZNTRPa3VDUG5hV1NtWnQ0NEVXT1BkMnNobm9GLTFaRG0waUtGaU8tZl9QYWpxSnJPbk0tSnBsYXQ0ZkZIZGxSY0QxMjFOVTNzUGVwMldDSEJmMDFBaDd5YmxRN1FhOXJSb21ZTUlM?oc=5": {
-      "title": "Energia renovável e ingredientes selecionados sustentam a liderança da Heineken® no segmento premium - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-07T20:17:52.765397",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWndoQXNKN2RGd3RYdUZZSVJPWjJZRDBZUHFOS3VVTXVmd0tvM2tRWHZhSS1rbmRfZHltMXhEOFNKc0dqQXpPS2xvdE05UEZaUXFka2hmR1V1YS1tQVFqNURCLWtfd3dpNnFCN1dxckxNdTBwSkxxU0phRXRkYmpJS3dDWXpxUXYxVnZrWkQ5V2pmQjM1REs4SDVxUEZGVmNscnRwdW9PM2MzUGNwS0VaMFgwVQ?oc=5": {
-      "title": "FERREIRA GOMES ENERGIA S.A. - Estadão RI",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-07T20:17:58.499460",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalVITHJzUDVQVXY3bU9QTFhvVEU5Tzd2Z3h3VENqeGctVkUzT3haeUdTeUs1M016YUtWbHZ1V3pEdC16bkhDVjhTY1ZtZTZBYUc4dFphUDRPVEtKMzJpRzJxcDRNWGhnWE93STQ1enlfV2ZNTVEwNF9FLUVuLWxSWThzb1F4NFowZkpULWhKa01NNHUtLWE3RW5Dd2N6NnlJd1NZMDVmbmxLRjNielJ0RWNoNnZpNnVjejk4QzQwVWNlQdIB0AFBVV95cUxPUmNBendTbWZualZRUnNDT0I2Uk8ya0prV2lub2pNeG1pdTdkNms0Y3BodnNRNnJfVFZ0T3lCbFQxa3JtcEZ6Q2Rsc2tYSWRmcWxOdTkyMGdSUGRkMGVqdVdjN2l6S3ZCcjVWcDAwVG5WRnRmRnZRRFoyT2tOYU12R0xkdW5NeUE2ejRHTEJzSndWTklWTHVhTVVrYmJ1WktUM2dHcE1ZZ3VUMjd5STV1NWNmQWNBTkxhUmpsaU1tcnowclRybGNRaWhid3c0UzZh?oc=5": {
-      "title": "Data centers vencem disputa por acesso à transmissão de energia elétrica - Valor Econômico",
-      "summary": "Data centers vencem disputa por acesso à transmissão de energia elétrica As empresas Pahlavan One, Pahlavan Three e Digital DC Brasil arremataram toda a capacidade disponibilizada em quatro pontos de conexão localizados no Estado de São Paulo Três empresas com projetos de data centers venceram a primeira disputa competitiva pelo acesso à rede de transmissão de energia elétrica realizada pelo…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:17.912989",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY29KbzJ1a25lRlhKSnJDWnRPZndiVGFnSkptUk5Wb3duUUFZUHJYZVBxc1dUZFpXMGVRRTRqMW5adUJqTUxKbmhscGVGMnVwcWN4S29xdkQ3OGtvMVRsaHhpSUxiNDZUYnJYMmgyZjdNYnEzOWJFbndwZ0QxYVpkNjlxbndEXzRFOXYwckRsOExEY1BUYXlfUHA5OHVUcHEzT1dzMzhGMXo5Z3U5U0JEWXMtM0ljN0RKVkJZamgxYk5VNC1kOHRzM1ROYkJScXIwNXZ0aHhZcGpNWUNtaDdpWjhuaUZERXFt0gH3AUFVX3lxTE5oUmtFeUNZQldoa3dlcnYtdk5SZnVMMUpHZnUtZzJPT255Q01LaGRwbjQwYTBGb2NSN1J5WG1aUHlPZDVlcEdtY2lucnVqVi1wSFh5RkVuYmdEN2ROVm5GVXZfOXBPdVREM3haa0NNT3YtWWMwOG1VZ05rVkN2bWNUemI1SHpWS1JXalk2T28taWQ0ZXplVS03MS1ZNjJsUmtCQ2ZaT0F3ZEs0Tk8xRU94a1lPR0hKbURPdVNBYnhPa1Y1Q0dmS3hUeG01S002dUI1U2hGVGdmUXF6bHp6V244RGFfaUFtc3M4R21NZ0ZJSWhVVDlibUk?oc=5": {
-      "title": "Agenda de empresas: ANP realiza leilões de blocos de exploração; Aneel adia decisão sobre Enel SP - Valor Econômico",
-      "summary": "Agenda de empresas: ANP realiza leilões de blocos de exploração; Aneel adia decisão sobre Enel SP Por Valor — São Paulo Atualizado ANP A Agência Nacional do Petróleo (ANP) realiza nesta quarta-feira um leilão com mais de 300 blocos para exploração de petróleo e gás. Serão ofertadas 13 áreas no pré-sal, sendo cinco na Bacia de Campos e oito em Santos, sob o regime de partilha e mais de 300 sob o…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:17.913287",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjF3NE5LWjhsWm5OTGVWN1ROa0xjX1k1dEppVG9odEtaMW54czR2NXY3RVRVZFU0OHBNRmJNV2ljNlZNSUZIanR4QnNQM1MxOWQxUklLR1F4YThPUnBBYTJUQWJmWG93NTcwTWEzZzN5SmowaEJNSGRBOGtnV19SVkJIZkdVSVZsV1ZKcjhzeXVkemg3dkZfZkMtYW9ZNmNNRkRkRjd5RXBuODlVQ3gyWEZoV2o0akhyTXlWZklCSHVLM1B5WEc0ckpHRU4tXzBjcjhIbw?oc=5": {
-      "title": "Nova geração de painéis solares é aposta dos EUA para alcançar a China - UOL",
-      "summary": "Cartersville (EUA) | The New York Times Fabricantes de painéis solares nos Estados Unidos dizem estar próximos de um avanço tecnológico que pode transformar o setor e até ameaçar o domínio da China sobre o mercado. As empresas correm para desenvolver novos tipos de painéis capazes de gerar 25% mais energia do que a maioria dos equipamentos disponíveis atualmente.",
-      "source": "",
-      "added_at": "2026-10-07T20:24:30.740565",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUxvWVREa1Qzc3hoTnctcTFreWt5dEV1RHVCYTE1SkFvQUY4cWJTWFFlQ0FWNUEzTzVzWjFTZUJMaXdxTnVlbHpTYUNGVWtIRlFJTUtyU3ZjckVuN1NzWGxQUlF2MXUtQjJjM1IzUl9IMUpZYUdVanBJRjA0alhMUUY0d2FWNktMcTRPc25EVHZTZWZsNTIzVXZraFExU0x2YzVOWXJ4aFZVN2xpZFBrUkE0U2E5QzZhY244UGExUGdOVFdz0gHKAUFVX3lxTE9vcGhIV2E0c1JWUUk5NjY1X1AwcDMyeEMxeGFuVi12NTFyNEV6YURGOXh6UDRMczVzRS1qbUloQjFoOUp2SldCRmhxdVNnMC1DRFU4cEVWU0RhRkxidkZibzVTUjZaVjRqUDRVQ3RXXy1HUVhnSTQxdXo3aUJ5bEtmV3RhZ1JjSlozeHBLZ09TNkZLaVA5a0h5eXZZbmJjQ3NWN2pJRGtCRGlHOFd2Z3JDMHBYYjhEeTVaTzUzOWhoTFp4cFc0SFZWd2c?oc=5": {
-      "title": "IA muda o mapa da Bolsa: software perde espaço e impulsiona chips, energia e data centers - Estadão",
-      "summary": "A inteligência artificial vai gerar bilhões em ganhos de eficiência. Para o bolso de quem?",
-      "source": "",
-      "added_at": "2026-10-07T20:24:30.742146",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVlGTVk0eElDM1cwZ3FvWFpMeVhOXzd2N1FUc3U3SFBLTmdIZVE2R3phZUN6ZUk1TnFreGluSDJMdUV1OExGMk13SnlhVU01MWNIWHNXZ0owLW5LSEJ0NGk0NEpSVnhMOGd0bUVzdWZabVk3RENSSTRxQnhMTUowSkZEM3RaTUU1aExxZ3VzVHN4aHh0NWQ5eWluS0c0RzBPVFNDVUxHOVJjTGcy0gGyAUFVX3lxTFBpeWxRWFVtTmYwODhCYW5GZm9RWkRKc05YTU5RbjcxVE9seUdSWjBiRHVEZTUyVWd0VUJWcC11WkR6YjJSaU5sV2pQT2J6S1E5U0h3T293Ny1vTXQ5VWxmMEhyc0hRczJXdjRaTkc0bDNpQWdkOEU0U0daUjdkcXprdTZCYzdQMko1SnZxX3phUU13dHQ2MDFaRFVNdHFmVEdjS2tkdUl6UlRSYk44V1U0ekE?oc=5": {
-      "title": "Range Rover elétrico chega ao Brasil no segundo semestre de 2027 - Estadão",
-      "summary": "O Jornal do Carro pode afirmar que o Range Rover Electric chega ao Brasil, mais precisamente no segundo semestre de 2027. A informação foi confirmada à reportagem pela Jaguar Land Rover (JLR).",
-      "source": "",
-      "added_at": "2026-10-07T20:24:43.188859",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMikgJBVV95cUxOc3BTRTVfd3kwRk1KQ3hPSGtMVFdNRmRVWER1Y28yZzh2elJLOXdhcWFQRUQ5Q1FhWTM3VkNiNmY0WVdBajVyZm5QeFZuRExIOTEtUXo3dFFMblJ5X2JOT0I4eU92Y0Qwbmh0UkJnNlFWSG5aRW82R1JRZmZ0akxfWTdwSVp1M3Z0Y3R5azB6cHdGQ1BqODExNmtfZDJMWi1RdG1TbHptVUxzN3JsWnVCSkxqREV0UlZsMWVBRlB2OTcyXzg2OW1heTFNdUswZVBVOGxCTUJ5UjhiOWVOQzVOdjV5VTFnV3ljVGRaNzJqemFkaURMcGxVdVhlVlMtQmswLURycjJJNUw3NnhRdTZFbURR?oc=5": {
-      "title": "Energia renovável e ingredientes selecionados sustentam a liderança da Heineken® no segmento premium - Estadão Blue Studio",
-      "summary": "Energia renovável e ingredientes selecionados sustentam a liderança da Heineken® no segmento premium AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 7 de outubro de 2026 Grupo utiliza energia verde* em toda a produção no Brasil e mantém metas de sustentabilidade para 2030. Além de água, malte e lúpulo, a produção da Heineken® incorporou outro elemento ao longo dos últimos anos, a…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:43.189755",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2cxRFlVM1M2b3p0S3o1blE2UWxIZG5UZFF6Z0ZIZ0VXdnpPNWFtajdCcGNYcDlITmlrMTdvaFRJOGdQVjQ0UVd1ZHRBVHkwWGw5aE1YeDJtWjc5ZFBFOWotZlVoTVRoV0NxMDVrU2pSWm9Xd2tYR1pnS3dVbXducXA5ZGlpM092ZHU4Y1hnYXBKb3htN0ZiQ1FiYkY1eGdPYTJLWWE3ODlIM3Nvd1pDWXkxRGVfdw?oc=5": {
-      "title": "ônibus elétricos - Estadão Expresso São Paulo",
-      "summary": "7 outubro 2026 em Mobilidade Urbana Com 250 novos veículos, frota evita o consumo de 70 milhões de litros de diesel por ano e amplia o conforto dos passageiros A cidade de São Paulo passou a contar com 2.009 ônibus elétricos em operação no transporte público após a incorporação de 250 novos veículos à frota. A ampliação reduz o consumo de diesel e a emissão de poluentes, além de oferecer mais…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:43.190192",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjE3SElyWjBJT1Jld1dpaEV5UzhReFJvTUJlb2VsTVlmOUx0b2NvbER1M014bWplZGdta092Uk9xSVpja2VBVFN2QUhHaHhvNFpFcWFzTHdPWTQ3TXExYXA3THRTbDctUjhiakRlYnZUQXVrclMtazBMbENYeHFfNkNTVWxSTGEtalBveENDSkNrVXk5MUFhMUhMZk5HV0lSRkE2OEdnYzVncW1DUlpibzNKNnBGRzZuZlV6Q9IBwgFBVV95cUxOVmlSc3NSdmd6eFlQZTVwQVVrcG44WDJKMTV4MnoybWx3dXh0bXZjMFdLeXhfa0NKajI5Y1NsSU42ajU2Q2VmaWJFa0J4SG9UM24tTXBNY3c3SThEaDBQYTRsVDg3YU1tNHNITHd3aVRGT3NOV3RTdXRjS3lhWE5qUUx2WVVqbEd4TTgzWk5UZDlGSDlXNUNJNHd2MVZwcHJKYlpuaGVIYXUzQnFlQ0pIb3pRT19LcUtRMHRlcUl1cmhfdw?oc=5": {
-      "title": "Quantos litros de água a IA precisa? E o que acontece quando a energia acaba? | Triturando Dados #3 - Estadão",
-      "summary": "Avanço da IA vai acabar com a água do planeta? | Triturando Dados #3 Data centers de IA consomem água e energia em larga escala, saiba o impacto da expansão da tecnologia e o que acontece quando falta eletricidade.",
-      "source": "",
-      "added_at": "2026-10-07T20:24:43.190748",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYjNFQi1oOVhMTXFWaUQ0YXBpREFaYm1MaGFCbjRVenlTMzBIODlhMHJsY3BUTENoenpUTjE4Z05zeERqSVRwY29QM2tyTHlkVWdEYXdlSHlobTVVZW9Qal9WWll6NElHWm9qcGFkNllmLUJJeU5kZkVPWHZnWVdvaFpGeVdrVkgxVjdlLQ?oc=5": {
-      "title": "Eneva arremata seis novos blocos na Bacia do Parnaíba - Agência iNFRA",
-      "summary": "Ana Luísa Egues, da Agência iNFRA A Eneva adquiriu seis blocos exploratórios na Bacia do Parnaíba, no Maranhão, durante o 6º Ciclo da OPC (Oferta Permanente de Concessão), realizado nesta quarta-feira (7) pela ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis). A companhia adquiriu 100% de participação nos blocos exploratórios PN-T-49, PN-T-84, PN-T-85, PN-T-86, PN-T-101 e…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:43.191004",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3I1NHYxaC1qMlR4SFlLNEdEYkt3dElLb0trNHZyZURRU0ZEWGZkM1lJbnVIZlpkMVRsV3RTZWNNVjNzLU0ycU02ZDJXbXFQM1BxY2dwNzZ1enJoUXVOOFFPWnRJMHowUE5KeTlZaU44WDZ5YzhuckZ6WkQydlVWQlp2WlJmM2dJcUxBZHExSUc0a2VTTjliejhjY2R4TEk2Rnl1LWxlWQ?oc=5": {
-      "title": "ONS encerra 1ª Temporada de Acesso à transmissão com disputa em São Paulo - Agência iNFRA",
-      "summary": "Marisa Wanzeller, da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) encerrou, nesta quarta-feira (7), a 1ª Temporada de Acesso da Pnast (Política Nacional de Acesso ao Sistema de Transmissão). A rodada viabilizou o acesso de mais de 30 GW (gigawatts) de carga em todo o sistema, e contou com disputa por espaço na rede em São Paulo.",
-      "source": "",
-      "added_at": "2026-10-07T20:24:55.655003",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWZ4amJtSkFIaGdhczVrWWVYRzNIeDI3N1ZlVThyR05RVkdkODh3RGtVQ1lsUzItSU04MTVxQm11YThrTTZvM2RveG5hV2VxeENVaFVhMjhXbG4zYnk2c0xHd3BETE91OG9xd0V2SUdZQTNDYUlybjZaVWkzQlF0cnJ4clVNLVVtZDl0M1o0X2FPNm9tT3JFOS1vUTRieVRMWnc?oc=5": {
-      "title": "Relatora na ANEEL vota por caducidade da Enel SP, mas decisão é adiada - Agência iNFRA",
-      "summary": "Geraldo Campos Jr. e Lais Carregosa, da Agência iNFRA* A ANEEL (Agência Nacional de Energia Elétrica) adiou a decisão sobre o futuro da concessão da Enel São Paulo.",
-      "source": "",
-      "added_at": "2026-10-07T20:24:55.655589",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhDY1VWY1B6MVgyTDQ5dmRvU0tJMTlWSHRJVjZ0emp5YXJnd29EbDJfVVVPMkJRUHBZRUQ4ZmNJMUhtUklrc1d3VThZbEhDbEtJNHlSZnV5a29ZMkxNZWVTd1RZSlNKRUEwTVRtdzhkT2JyQ1NHSHRmNjQwRlpyckg3UjYxWUtaN0cxanByODg5U01NZ05YMG5oa25JSnRw?oc=5": {
-      "title": "Saneamento entra em nova fase com próximo ciclo político nos estados - Agência iNFRA",
-      "summary": "Beatriz Kawai, da Agência iNFRA Os governos estaduais eleitos vão precisar encarar uma nova fase de amadurecimento no setor de saneamento, que hoje se encontra num momento de baixo apetite por novos ativos de concessão ou PPP (Parceria Público-Privada). Com a proximidade do fim dos atuais mandatos, as operadoras indicaram no último ano estar receosas de firmar contratos de longo prazo sem saber…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:55.656356",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEJJXzRRRmU5UTEweWJLSHpybUVWNkNrcE81bDlDeURRdTAtTlpGSEJ4UXVDcy00RGg0WEZHbF80cC1wRjRYZ292RGdCWXVNcEJ5ZDNJNWZ6RlVlNHRuVnA0ODg3S3FhN0hPSjRTdUItakE1cjMtd1RDVmFnMjZCZ3NEN3ZTbS1KTmk1RlBtUnVGNmlNRXM4?oc=5": {
-      "title": "MME prevê mais de 50 blocos de exploração na Bacia de Pelotas - Agência iNFRA",
-      "summary": "da Agência iNFRA O secretário executivo de petróleo e gás do MME (Ministério de Minas e Energia), Renato Dutra, afirmou nesta quarta-feira (7) que a pasta considera a Bacia de Pelotas, no sul da costa brasileira, o “próximo passo” para inclusão de blocos na chamada Oferta Permanente ao mercado. Segundo Dutra, o MME e o MMA (Ministério do Meio Ambiente) discutem assinatura de uma manifestação…",
-      "source": "",
-      "added_at": "2026-10-07T20:24:55.656525",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONE5XXzRvZU5RMlV0c3hMZjNZa2dZYUM2UTlGSWJNUFJjX19ZYkx6dVB3aEN6dl92alZSUDgta3pQYU9keEVSTDZPc1JqODY5ZGh0NVpCaUdUS3VPVUtDMmphczZRekNNUGhMMXhSM3Q3Tlk5OU5MbmMxaXZoTWN4VlNTcjVUQXpaSnV5bVNtTkJUY2RfWlhGbzM3TGlaTDJMaHYwcjBxWWo?oc=5": {
-      "title": "CCEE volta a reapurar ressarcimentos de CCEAR-Ds e CERs - CanalEnergia",
-      "summary": "A **CCEE** voltará a reapurar ressarcimentos de CCEAR-Ds e CERs, atendendo determinação do **MME**. O processo envolve empreendimentos eólicos e solares e abrange o período de janeiro a maio de 2026.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:08.086168"
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ2NzcjhWLXZmR0hnWFNXVUhCT2ZPRDgtTk1nRzNncGRpTHd6bTUwdUxILWx5Sm9UR05lTnpTeVVfRmhLYXdPcVgtYUpHYTFVUktZT0ZhMnR1S01JQ2xSbHp3NExOXzZNMW5TQVFpUTVmb18wZXZ1cXJET3hWeXJsSURDRmlEVDBxNkNxdHl0Vi1JY0FzQ0x6N3pzTE56ZzBEclg2STVMS3hxVlZZM0hldWljM183VnZjSzE1UzhsaWVVS196eWZiMEZSQjRiVFNR?oc=5": {
-      "title": "Abrate: PNAST consolida Brasil como referência na estruturação do acesso à rede básica - CanalEnergia",
-      "summary": "A **Abrate** divulgou que o **PNAST** consolidou o Brasil como referência em acesso à rede básica, com a primeira etapa contratando **228 MW** para três grandes data centers em São Paulo.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:08.086222"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1hVQWVuYUdqV3otbjhudG1FTHRYZmdGaEt1SHlkeEEwT3F4dW9wWndyaF9xb2dacEdmRHZWRWZDalhNSUVhNWVsZVhRQ2dCU3FNVGRGZmpGTndWbXdoMEZoRlMxR1VJX1J0Z1d0VGhwSkJtb2hMUlFGM2s1MlpmbFZPZWs3RGlFV2lzS005MzhqZl80V2JjbFlkT1ZjRFFkT0R2RXp1N3BrNnVkUG5YOEQwWnA?oc=5": {
-      "title": "ONS avança em mapeamento de conexões para integrar GD ao sistema - CanalEnergia",
-      "summary": "O **ONS** está avançando no mapeamento das conexões para integrar a Geração Distribuída (GD) ao sistema, desenvolvendo um mapa que indica a capacidade de escoamento da rede básica e o que entra na rede de distribuição.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:08.086241"
-    },
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFNzZGNaZWctY182ellyOE9zcTBNalYtQkU5UndGbEEwbnFjQTd4dFQ3cG9JbVNUZGdKZk9tUXU3TXRhQjl2M1ZqUVo2MTFjWi1KdnVYU1BZbnM1X0pxQllUMGdsZkpPdWhQRERUa09aNVFYb0s0MEd0NnhuaDEyNGpTMTBqcUtaRkVjZjNR?oc=5": {
-      "title": "PNAST destina 228 MW a data centers - CanalEnergia",
-      "summary": "O **PNAST** destinou **228 MW** de capacidade remanescente da Rede Básica para data centers, em um processo competitivo realizado em São Paulo.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:08.086254"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDBSQS1Od3NldjFiaW9iUFdqT1ZURGJ6ZGJPak9YbEJUYTBNZFlKbHhhdG12QmJHR3RtMUM3dW5PdjdxTDZlVUM0dUV2bXpSSFhjWFZiWERBZXRtZXZNVnBUM0tHSl9EUTdzYTdmT2R1RUFXcWZ1WnFkaF9JRVYtZkwxZHpTWnJCZWFyYjJvMGFGelZfbExFVmZn?oc=5": {
-      "title": "Justiça mantém projetos de UREs em São Paulo - CanalEnergia",
-      "summary": "A Justiça manteve os projetos de Usinas de Recuperação Energética (UREs) em São Paulo, negando pedido da Defensoria para suspender quatro usinas. Os projetos seguem em fase de licenciamento.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:08.086266"
-    },
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1owT2lNN291UE9QOFVSX0dtZzJRNzZQcWRHRWJPTkJ6Z0tHOXZOQUY2RDJEWnJnX1ZPakRuYWRfcVpmVDRaN0ZHV3BoSWhzMjVjTm56TXdWRGxwUU9HdkZra1A1czRfVGQ3MWYxSENOZXFGNkt3bHhMX3ZaMHFWd1hGVGY3b1J1dmZLeXVpZDd2V0I4ZGN6a2NOWnBtaXBzVFJRX3VLWUFtbFBCekZVeDBpdw?oc=5": {
-      "title": "Aneel deverá pautar resolução de medição inteligente em outubro - CanalEnergia",
-      "summary": "A **Aneel** pautará a resolução sobre medição inteligente em outubro de **2026**. O tema visa regulamentar o uso de medidores inteligentes no setor elétrico brasileiro.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:20.596582"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2kyY1dkVERHY0h6bkZIaDJVWjJiRmxIRkhWVmUyN3ZSSGVKeXQwYTdabERWQVlYX0c1c0M3dTVHaXhCZnVIV1F0UnpEOHg0ckdWeUdCanR3WmFXY2J0QXR4RmUweEFmU1JKVnllcnN2NllHd21Bb2xSdUJraEFfSG9LdldzYlk5XzdxVERBRVZUd0RpSlNRbmxyNC0?oc=5": {
-      "title": "Custeio do Ercap-SAE entra em consulta pública - CanalEnergia",
-      "summary": "O custeio do Ercap-SAE entrou em consulta pública, com a proposta de rateio dos valores entre geradores. Geração Distribuída e armazenamento autônomo ficarão fora da cobrança, conforme a lei.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:20.596661"
-    },
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc1ZHOFgyblI4S29TeERCQUY0TWhWQzBOMDA3MlM1Y0xWc0M3ZVhiTkxFWGZEcUJzNWJYdFFpeVg2UnF5Vl9oVTMxUDIycTFlXzRFZUNabzFkemUwWE4zVENuT2t1aF9sYnZYNjduRm5KMUdmYldWS3gyRHhxN0hZbmUyZkxYVlFmTzBMaTNKcnU2YmM?oc=5": {
-      "title": "Região SE/CO opera com 56% da capacidade - CanalEnergia",
-      "summary": "A Região Sudeste/Centro-Oeste do Brasil opera com **56%** de sua capacidade. Os submercados Sul e Nordeste tiveram queda de **0,2 p.p**, enquanto o Norte recuou **0,3 p.p**.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:20.596699"
-    },
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTFfcG1TQjZoR0tXSUJSb0ZQOXBjRVlyNHl6eGRJOUdzN1Y0N3RDVUV2NWhzVHltNWNaRnRDNHJac2pSUGJYWm5mOGEtNTY4UU1NSEFjSDVwRzhhUWI2bktiNEtWRHdhaXBHX0NOMFRJYjZXUzEteWxXRThtQTNIWTVwSmdNblJ0cjhSeVF3R095WTBTU0p1a0d2TGFXM2Nh?oc=5": {
-      "title": "Aneel adia decisão sobre regulamentação de postes - CanalEnergia",
-      "summary": "Aneel adia decisão sobre regulamentação de postes. Mais de 19 mil empresas de telecom usam postes, mas apenas 4 mil têm contrato com as distribuidoras",
-      "source": "",
-      "added_at": "2026-10-07T20:25:20.596763",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQnBmZEtlNmJyNUNsb1JVcTV5anMwUTNDVXlKN0JoNEN0TWZwOWF0OVhUVDVIUkNrQVROSWg1WGU5STMybFRXYkFqTFZ2aTBMdzd0aXJRLVFyMURJZjM4YnRURlJXaFdhQ2ctTjA0anNQSFF5MnlOZDFBc18xVVlsbVFUa3JiRm4yVDI1MU9id2ZJN0RGN3M4?oc=5": {
-      "title": "Axia aprova resgate de R$ 4 bi em ações PNC - CanalEnergia",
-      "summary": "A **Axia** aprovou o resgate de **R$ 4 bilhões** em ações PNC. Serão resgatadas **67,25 milhões** de ações preferenciais classe C, o que representa **17,38%** dessa classe.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:20.596798"
-    },
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0daaHJ3dHpIb3l4NWtDTm5wU3Rmb1dNT25KMUU0cTA1cm9nc3VMX2ZpclJoTjJ3UlM4U3hzdG9wQXBqVFZnQ0ZyNDNkdUJiVmNnUEZlNllncXlOaWlZRlZHUVFiMmdEc1VMUUV6d2dMYWNySHdhTGc1cmtTN1J2SC1Dc291UTR2QWVkTGNCc3J3ZDFFX2xva0FB?oc=5": {
-      "title": "Aneel abre CP para aprimorar regras da Pnast - CanalEnergia",
-      "summary": "A **Aneel** abriu uma Consulta Pública para aprimorar as regras da PNAST. A proposta visa alterar a atuação do **ONS** e definir novas regras após análise de impacto regulatório.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:33.744544"
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTA1NW1ybFkyaTF2S3Zydy10YXdZQk5jM05CNHpSNkhycXZDTU5kSFpSRDR4M2NodDk0R2l3MUJvbWFaamdsdFF0WlNQOEJjZVp5ZGoydmY5SWFlak5vSlU1d1h6ZmFyUVo1Y3pOYWRfcGVYT3IxemRLeXJuVG5BblBRR3hLWHJkNUw1MWZiZXlqVDJWcGdzOUlvU3ZaT3RrT2FrS1hja0lnbnpITDh0RmRwVVBydmd1cGc?oc=5": {
-      "title": "A nova infraestrutura elétrica será também uma infraestrutura digital - CanalEnergia",
-      "summary": "A nova infraestrutura elétrica brasileira está se tornando também digital, permitindo a análise de dados mais próxima dos equipamentos e reduzindo a dependência de estruturas centralizadas.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:33.744643"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEhJSThmUkFmUVFiZkIyd0RoLTZPdmk2OXVFeXJBblNuZDRYa1VVYW9zXzd1d05UcDNoQ0V5U0U1ZmRJQXBTNHBtOTdmc1FiN05acGdYS2JEeTNmNnZ4SXU3c2dldE83MUFnZ194d2Vna0NaaDNoNThrZk5Ha0RVUDRvRllHTzJfMjFCUUFNbHUxT2YzOGNrc1VpYU14ZWhOamp5MmJqekhLQXZNWVVOQkIxZFE?oc=5": {
-      "title": "Eletrificados superam 1 milhão de unidades no Brasil, aponta ABVE - CanalEnergia",
-      "summary": "O mercado de veículos eletrificados no Brasil superou a marca de **1 milhão de unidades** em setembro. A **ABVE** divulgou que o acumulado desde 2012 atingiu **1,003 milhão**.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:33.744683"
-    },
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0eUdnQWdENE5TVnhWT2ozZTdjOGotSWtoR1FpMFE0NUhfVFo1aVFlS2ZhWm5pZmo1YWRYUFN5UjFsd0gweXlXT2tTd1ZoUlEtUXMzcjc4Zw?oc=5": {
-      "title": "Leilões - MegaWhat",
-      "summary": "A **MEZ Energia**, após arrematar cinco lotes em leilão de transmissão em dezembro, planeja consolidar seus ativos e investir em geração solar e comercialização, com foco em antecipar prazos regulatórios.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:33.744718"
-    },
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTk5zWVIxYXJxNWRxUHdRYTV3OEs0Q0JWX1BDajJ4VlRCZHVZSmJLRXdUMG1EdXJPNURXYnVvTS0xNnVOT0JfcHIyNFgxS1d1SUJTaDY1QmZ4Rkx0U2F0UElPT0pkcF9SMUdDaTFsU1R2UXpiN2hGSExJdw?oc=5": {
-      "title": "Maria Clara Machado, Autor em MegaWhat - MegaWhat",
-      "summary": "A energia eólica no Brasil tem potencial para gerar **200 mil empregos**, segundo estudo. O país se destaca globalmente com mais de **80%** de sua matriz energética renovável.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:33.744749"
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3paY2NKZkN6dmZ5VFQ0WjY0by1EOUwzcjJhVnJXMEVXaEd4dFBBa0Ffc1I0c0ZyWVNrRGlCOEVEeVktT0lPTGZFdkFCYmJITFF0TjZ2SVpjZUI2S1dSaFFJQXRSUThsWUw3Nko1eTNXN1B2M204dzVnWGhrVzRuMHZxbHVoWWMzaXhEb3Y3STFNSkxFS2l4N1ROT0pZOHV5X3ZNUEpRQUZNVzZIcDJaam9CM3dBSms?oc=5": {
-      "title": "Liminar obriga Aneel a decidir cautelar de data centers da Pahlavan - MegaWhat",
-      "summary": "Uma decisão do Tribunal Regional Federal da 1ª Região (TRF1) determinou que a Agência Nacional de Energia Elétrica (Aneel) analise em até 48 horas um pedido cautelar de três data centers da Pahlavan e impeça, até essa deliberação, que eventual capacidade remanescente na subestação Replan, em São Paulo, seja definitivamente comprometida com terceiros no processo competitivo da Política Nacional de…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:46.782911",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkNUT0E2MjNTLXJPY25xWXcxNjRLVWFnZGQzN3Y0SXJZYkNEWWpON0p6NXc3VHdCN09BcWVtd3dDcXRqRklHM3RXQThWTGlsZE1TZnNkWmQ4Y2lqY0VDSlNES2pVeGE4REpQUUw5Sm1tek1jVDdHbVc1ZWxuVmd2X3pTa2Z3bnhnV2Z1eTN1ekFJTFZ1UmVKY0E4bWFvTmptUjdyWWJzWWNLSVdEX2lvU3dVQlhXVk5NeG0tZ0E4ajI1dWNFUUE?oc=5": {
-      "title": "You.On e chinesa HyperStrong fecham parceria para leilões de baterias - MegaWhat",
-      "summary": "A You.On Energia e a empresa chinesa HyperStrong International firmaram um acordo vinculante nesta semana para atuar em conjunto nos leilões de reserva de capacidade na forma de potência (LRCap) de baterias, previstos para 2 e 4 de dezembro de 2026. Para o leilão destinado a conteúdo local, a You.On já obteve o credenciamento junto ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES)…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:46.783120",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenlac2hFWHNYSUtVS1MwWlFFQU9Kek5RNjctYndHUGJMOXRLRkg5TUJCbkMtZU5HLUJja29HNFY3djRZTEZNUlFCUDE0M2FneGI3SXlUN1JUdVFjSmk0aUp0QVdTUFlqckFyVHJEMzdXUmhGWlZCREZHSmNDNkR0SWljN0Q1Q1Jud3UwZ25uM0FSUlFHMTBjTlE4LXBmNmhWcG1QZGFjMGoxZmZnYVd5MmtLazVPdw?oc=5": {
-      "title": "Atraso em interligações ameaça fornecimento de energia no Pará, alerta geradora - MegaWhat",
-      "summary": "A Energy Assets afirmou à Agência Nacional de Energia Elétrica (Aneel) que não tem condições técnicas e financeiras para continuar fornecendo energia elétrica e potência nos municípios do Sistema Isolado (Sisol) do Pará sob as atuais condições do contrato firmado com a Equatorial Pará. A empresa também pediu que a agência fiscalize os atrasos nas obras de interligação das localidades ao Sistema…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:46.783727",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zSEZrRHBEc1dtOXhjWURiMVVNcUZRMWdvOWIxS3hFLURremZhVV9KaUdvSGZRc3NjYlRrVUJUUTlnNXFzdUZzUkZmdWxfdw?oc=5": {
-      "title": "Tag Gama - MegaWhat",
-      "summary": "Mercado CCEE vê risco iminente na Thopen e inabilita Gama como varejista A Câmara de Comercialização de Energia Elétrica (CCEE) manteve a Thopen Comercializadora de Energia em regime de operação balanceada após identificar “risco iminente” na companhia e determinou a inabilitação compulsória da Gama Comercializadora de Energia para atuar no mercado varejista. As decisões foram tomadas pela…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:46.783837",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWVsYTdLejlEMEx0aU9zOUFDV05YSV9mNGFWQ2s3Z0ZhZHdYb1NZWVlneEdYU2RrXzVaazBJelA1STZ6M1BTeUhLbjRBMDV2Rnc2WlBVdVJkQzA1LW04Mk5VSVh0MXpOczdlT25nNWZCX25ERTFnUjFWT3JhcjJGQVM5dHo2UXNGd2tNX2lFU1dIdjVjcmc4SmhvcEFvbTJtbFZNQ01YckNiNDYwVFZqNEJxSVhyVmowV2VqcGgwM0M3UEU?oc=5": {
-      "title": "MME discute exigir garantia da Suzano para usina vencedora do LRCap - MegaWhat",
-      "summary": "O Ministério de Minas e Energia (MME) avaliar exigir da Suzano o aporte da garantia de fiel cumprimento para a usina termelétrica Celpav IV, de 18,53 MW e que sagrou-se como um dos vencedores do leilão de reserva de capacidade na forma de potência realizado em março deste ano. O empreendimento participou do certame sem declarar necessidade de investimento, por se tratar de uma usina existente.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:46.784089",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTdkR3FjMEJ6em01anM3WjBSQWZ5bDQ2elBudTR6WE9Yb05xVmlWN0ZXcTFYSVR3eXZ5TlBRZ2JFVzlOcEU2TE1YNXpuOGtrMnpBNFQydERDWklKX1J4VVFGcWxyaWI4M0NtU2I1QnB4emJZREJiN3h5VDlEN1JJdnJBQThWNGZMaEtWOGRmQ2ZVVE9xV2c1c1liVl90TW81YzQ0eWlHZERNMko3ZDRRNnlCOU10VW5rVkE?oc=5": {
-      "title": "Agência internacional quer acelerar liberação de estoques de petróleo - MegaWhat",
-      "summary": "Os governos dos países membros da Agência Internacional de Energia (IEA, na sigla em inglês) apoiaram nesta quarta-feira, 7 de outubro, a aceleração da liberação dos estoques de petróleo que foram anunciados em março de 2026. A decisão prevê que os volumes ainda pendentes sejam disponibilizados o mais rápido possível, com prioridade para os estoques de diesel, diante da atual restrição no mercado…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:58.868781",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXNTVFdSOUlxWmxqVElZaS05N3ZIdldieWZoTDlPb2JoVF9qcUhrOHl2THBNZU5iOFZuWGpubTd3OGhUY1VPUE13UjJXNVlFRVJFTjl5Nl9qN3BYZlYtS2U5LXliTFlzdngxYjRmbFpkRWhpVGRCUFM2Y1JFNGlEcGxlMVNON2Z6a2RCNlcyS1hLV0kxWUs4cDQzRmkzclhKVGlKbHp6UDFGajNFMlVCWjR5Yjg?oc=5": {
-      "title": "ONS aloca 228 MW da Rede Básica para data centers no primeiro leilão da Pnast - MegaWhat",
-      "summary": "O Operador Nacional do Sistema Elétrico (ONS) encerrou a primeira temporada de acesso da Política Nacional de Acesso ao Sistema de Transmissão (Pnast) com a alocação de 228 MW de capacidade remanescente da Rede Básica para três data centers em São Paulo. A capacidade, distribuída em quatro pontos de conexão, foi totalmente destinada aos empreendimentos das empresas Pahlavan One e Pahlavan Three…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:58.869137",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzhJa2JzZjU3ZFQtWmcwYzJlSHRZbVBEWThuejN2Mm9ha0tpV0M2d3ZCQ1NPeHQzTFZpWm1aWHk3QjEzeG1GUEdQUHNEMS0yZU5CSG14bnJtajNiUDlrWkw4d0RVS2dvTU43cDdVODJHdlJNaGV1d0xNbXNHRDM2aC1ZcXljZGFLVmVaNjFLM2JvMlFxWTVkVVFtMkRXbDREdGFFaWV5U1VBUTdyd1V3dThR?oc=5": {
-      "title": "Leilão do pré-sal tem lances para áreas próximas a ativos das vencedoras - MegaWhat",
-      "summary": "A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) realizou nesta quarta-feira, 7 de outubro, a sessão pública do 4º Ciclo da Oferta Permanente de Partilha da Produção (OPP4), que oferece áreas no pré-sal. Das sete áreas arrematadas, três estão próximas de ativos já operados pelas empresas vencedoras.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:58.869640",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTgzdVNJN3ZaMjRkcTVLVGxEUVVyXzhXNElJNm5DSm9Tbno3MnRYNFU1ajNnRTRmMFdzeXRvcWstVzlxSWl5MDRXNG1zZGxNRkJOeDVFN1g3a3IySUZkdEZMUUVTeWdteGIxOTBQRG4zWXVzaFVTQTZodTJLMy0xMjdUM3ZJT3FpYXczU2pOWGxpQlVzQlczWkYtWVUxSU9DRTAtdXNOXzBjY05pejdzRi1CM1JlV2tUNnc?oc=5": {
-      "title": "Consumidores em migração poderão participar do 1º leilão de gás da União, diz PPSA - MegaWhat",
-      "summary": "A Pré-Sal Petróleo (PPSA) publicou o edital do primeiro leilão para comercialização de gás natural da União, marcado para 22 de outubro e que prevê um volume máximo de 1,1 milhão de metros cúbicos por dia (m³/dia), com fornecimento estimado entre 1º de março e 31 de dezembro de 2027. O volume será dividido em 110 lotes, cada um equivalente a 10 mil m³/dia de gás natural, e distribuídos entre…",
-      "source": "",
-      "added_at": "2026-10-07T20:25:58.870107",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZWE1VeUlmbFB1QUt4SGJlcHNKaWtrNDhCTzlZUmhUNThkSHF2cUhPZm5tQlY5UGF0NTJIU0lRVnhpTjlRUHRaRzcwMHJNYURRTGFkTFZvdXRUVVpjYmxnWThKTjc0Zw?oc=5": {
-      "title": "Últimas Notícias - MegaWhat",
-      "summary": "Glossário Autorização O que é: ato administrativo do poder concedente, unilateral e discricionário, que dá direito de exploração de determinada atividade a uma empresa ou consórcio de empresas. A autorização configura interesse predominantemente privado.",
-      "source": "",
-      "added_at": "2026-10-07T20:25:58.870158",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMlpGR1ZodnBOa3cyVm1rS1R0NkpDeHZ4NVlISzRoaGVQaF9NWWJfcHNmS3A4d3o2VFpXVGU0OVY2Yl9xT2EzbEJPQnlRelg1SGVKME9PbmgzdFlINjkwWkhrZTNPSnZpQktPRmI5S2hGNndNdXlBMmdObXdwRTNPdlVZc3hON2FHclZpczgtTldYQ180angwMXBfb1RtbmR6emZrNnpKS05weUE?oc=5": {
-      "title": "CCEE vê risco iminente na Thopen e inabilita Gama como varejista - MegaWhat",
-      "summary": "A Câmara de Comercialização de Energia Elétrica (CCEE) manteve a Thopen Comercializadora de Energia em regime de operação balanceada após identificar “risco iminente” na companhia e determinou a inabilitação compulsória da Gama Comercializadora de Energia para atuar no mercado varejista. As decisões foram tomadas pela diretoria da CCEE em reunião de 29 de setembro e divulgadas em ata publicada…",
-      "source": "",
-      "added_at": "2026-10-07T20:26:12.263162",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFMd3NkVkh6YXhORHlnT09qV0pLTGZPVVdMZlFQYm9NZDZVcmJPdlk2UlN1blZUeFpWcTh4YjdvNkU4VE5YNnJmVG5XMExUM1RnSTkwZTZ6MkVSTFcxNjRqVWFia3JEWGxIcndNemNDTFpMOFFpU1RncnkxTVEwZy0tMTVVMWU5akh0SnQzcnF6aEJ1eHJsOHppYTAtTS1wdVB3RVFPbkJBWXhTcXZaV3ZTS04zVUNab2JyUlkwcTVDaWpHSnVZUUw3ZW1hb2x4cXpwekt2cw?oc=5": {
-      "title": "Origem alerta para risco de atraso na conexão de sete térmicas do LRCap após Pnast - MegaWhat",
-      "summary": "A **Origem Energia** alertou a **Aneel** sobre o risco de atraso na conexão de sete termelétricas a gás natural (372 MW), com investimento de **R$ 2 bilhões**, devido a mudanças na Política Nacional de Acesso ao Sistema de Transmissão (Pnast). A empresa busca esclarecimentos sobre a documentação necessária para evitar o descumprimento dos prazos de operação comercial entre outubro de 2028 e agosto de 2029.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:12.263657"
-    },
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNVRSTlpkbmtzYmU4ZXRZdTFualQ2dWQwNkNCeFJ1X1IyRE4xQ0tNemN1cmdXU0FIaUI3anh0MlItWk95RFg2WU1KWW9aSERUZExsQktyOWloYkhKMndjWU93WVh6YnR3RVgySVBPbWJCN19EQkQzSS1hODFqOXVibVdwOWJsMDNIcFFRYnJSdmdIdVE3UjhfcjlWYmtTbFRqRXBFWWVaVVo0dHhYS3dUXzVpblMxZC1UTldoTGY4WlFDcDhH?oc=5": {
-      "title": "MDIC propõe prioridade à indústria no gas release; Abrace quer incluir Braskem - MegaWhat",
-      "summary": "O **MDIC** propôs à **ANP** priorizar a indústria de base no programa de **gas release**, com foco em consumidores livres. A **Abrace Energia** concorda com a exclusão do mercado termelétrico e sugere flexibilizar restrições para permitir a participação da **Braskem**, atualmente limitada pela participação da **Petrobras**.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:12.264029"
-    },
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFlfNmtUcHdPYWNKYlZPZHMwNENialphUUxaMmRFUm9qNnA3UE44S0R5RUlrUnNnamtUQzdjYnFRdkdNU1hSRkZSYnBwQXNHekwtNGJGWjQzeTFIVjNiZldRME1UV2RoSWE0b1NqLUkwQlNjUHd1VTZXeHM4NnNiN1NfMmVHczcwOGw2OUNlcHE?oc=5": {
-      "title": "Aneel deve pautar medição inteligente em outubro - MegaWhat",
-      "summary": "A **Aneel** deve regulamentar a medição inteligente em outubro, segundo Carlos Mattar. A medida visa transformar a relação com o consumidor e otimizar a operação do sistema, lidando com novos recursos e tecnologias. Paralelamente, a consulta pública sobre recursos energéticos distribuídos segue aberta até novembro.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:12.264396"
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0NXSTlmczJNY3kyRmwyQ2Q1SF9rZG91aVAtUGg1eV8xb29sXzFkNzFzM2RPQzdwNzFmalBaNDc0UkNkV1ZLTTZVQXlOQzRhckpwckd1dXlheE5VQk02UEZ5X0pSeHJnUjAxT3hLbjUwMTQ0NzgyaldQdmhXbng5MzNGSW95dkdvczdNc2xNVk11bWYwa1FzeFZBUGgxWjV5YXhMUUhiQWFZZ1VSZVNUM1BDeDM?oc=5": {
-      "title": "PPSA define cotas por setor e pagamento mínimo em leilão de gás da União – Edição do dia - MegaWhat",
-      "summary": "A **PPSA** publicou edital do primeiro leilão de gás natural da União, exigindo pagamento mínimo de **95%** do volume contratado. A **Aneel** adiou a decisão sobre a caducidade da concessão da **Enel SP** após pedido de vista, enquanto a **Sigma Lithium** retomou operações em MG após decisão judicial. O setor de açúcar e etanol soma **R$ 58,4 bilhões** em crédito privado, com **Raízen**, **FS** e **São Martinho** liderando a exposição.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:12.264770"
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2JORHZPc3BqZVdtLUNRMFJkdkZfWEpvbE1xdkdwNXR3UVQ1Rk84NDJkaExQcXo3Q0syUGNJcks4bGdUM282aVpLTzZ6OGZtQ0JpSzVfUTlzTXBJcmlVNzBYVGpnNnNPRFdmSUstUjROLTN2Yk1NckxXOXk0MnB2SFA2UElWUmFXbE8zUWFoRUxrQ3JzVUp5NWg3RFNDLThtWkxoS0pwNVdMZw?oc=5": {
-      "title": "MME e Aneel avançam em plano para futuro da concessão da Enel SP - MegaWhat",
-      "summary": "O **MME** e a **Aneel** iniciaram trabalhos conjuntos para planejar a continuidade da distribuição de energia em São Paulo após o fim da concessão da **Enel SP** em junho de 2028, atendendo determinação do **TCU**. A **Aneel** avalia a caducidade da concessão, com a relatora Agnes da Costa votando a favor, mas o diretor Gentil Nogueira pediu vista, adiando a decisão.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:20.307404"
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TRmdqYzl6RzZRVVZOLU9Va1VIbjZwTXEwVE43SEJXYV9mbGx0alRJcHQ4OWZzVzNSMkJwa2xUd0pWQV9ibER5UE5IaWhmbk15MWxqZTRfdjJRUS1nRmc?oc=5": {
-      "title": "Tag Evento Climático - MegaWhat",
-      "summary": "A diretoria da **Aneel** adiou a decisão sobre a recomendação de caducidade da concessão da **Enel SP** ao **MME** após o diretor Gentil Nogueira pedir vista. A relatora Agnes da Costa havia recomendado a caducidade, mas o julgamento foi postergado.",
-      "source": "",
-      "added_at": "2026-10-07T20:26:20.307457"
-    },
-    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SUHUtOWFHUllqdkJ5Rk9TSml3eFlhaFVPXzRJV2lQRHpOZ0dXVTY0TGRUZkJ6NFk2b3ZWbFJlVDNyUVFvRHd3b3pNb3VMMEtmOE5rQVR3bHo?oc=5": {
-      "title": "Geração - MegaWhat",
-      "summary": "A elétrica italiana **Enel** planeja vender ativos, incluindo energia renovável no Brasil e México, além de operações de carbono e biomassa, para arrecadar até **US$1,8 bilhão** e reduzir sua dívida.",
-      "source": "",
-      "added_at": "2026-10-07T20:49:09.604692"
-    },
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmNBendTbWZualZRUnNDT0I2Uk8ya0prV2lub2pNeG1pdTdkNms0Y3BodnNRNnJfVFZ0T3lCbFQxa3JtcEZ6Q2Rsc2tYSWRmcWxOdTkyMGdSUGRkMGVqdVdjN2l6S3ZCcjVWcDAwVG5WRnRmRnZRRFoyT2tOYU12R0xkdW5NeUE2ejRHTEJzSndWTklWTHVhTVVrYmJ1WktUM2dHcE1ZZ3VUMjd5STV1NWNmQWNBTkxhUmpsaU1tcnowclRybGNRaWhid3c0UzZh0gHQAUFVX3lxTE9SY0F6d1NtZm5qVlFSc0NPQjZSTzJrSmtXaW5vak14bWl1N2Q2azRjcGh2c1E2cl9UVnRPeUJsVDFrcm1wRnpDZGxza1hJZGZxbE51OTIwZ1JQZGQwZWp1V2M3aXpLdkJyNVZwMDBUblZGdGZGdlFEWjJPa05hTXZHTGR1bk15QTZ6NEdMQnNKd1ZOSVZMdWFNVWtiYnVaS1QzZ0dwTVlndVQyN3lJNXU1Y2ZBY0FOTGFSamxpTW1yejByVHJsY1FpaGJ3dzRTNmE?oc=5": {
-      "title": "Data centers vencem disputa por acesso à transmissão de energia elétrica - Valor Econômico",
-      "summary": "Data centers vencem disputa por acesso à transmissão de energia elétrica As empresas Pahlavan One, Pahlavan Three e Digital DC Brasil arremataram toda a capacidade disponibilizada em quatro pontos de conexão localizados no Estado de São Paulo Três empresas com projetos de data centers venceram a primeira disputa competitiva pelo acesso à rede de transmissão de energia elétrica realizada pelo…",
-      "source": "",
-      "added_at": "2026-10-07T21:35:24.727208",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaUVtdjRoYWp6czlWb0xQVEdGUTN1MmhTX2VUeW5uRUNGT0RlSTVQRThycjRUU1RWNnlRcF9ZSy1YRG9KMGRXT2kyRnl3US1JdVJnZjNZNFJoWnM4d0JwbjNVcTVZd2JmOUpJX05udDFFN05JajJERjR1aE5RS01VNVBYUmtGdXJHMnVuOXhVUGd1eVQ3VldJQ2pUNlZrbW54NlJaZmVFRktqRWplMkFnT1U0Rk11MThramZXMHVlRk1JSTRXWENaeUpXYWw5Q2hSVW5OVXJKcnJ3Z25ndUtxMUZPSTFfRWVXWVdRNFFHemRUU2xIbHdmQmpMSjRadUhpMU1rTWo2SFFoR1dLUElldWtRMVZZZUU1eUHSAZoCQVVfeXFMT2lFbXY0aGFqenM5Vm9MUFRHRlEzdTJoU19lVHlubkVDRk9EZUk1UEU4cnI0VFNUVjZ5UXBfWUstWERvSjBkV09pMkZ5d1EtSXVSZ2YzWTRSaFpzOHdCcG4zVXE1WXdiZjlKSV9ObnQxRTdOSWoyREY0dWhOUUtNVTVQWFJrRnVyRzJ1bjl4VVBndXlUN1ZXSUNqVDZWa21ueDZSWmZlRUZLakVqZTJBZ09VNEZNdTE4a2pmVzB1ZUZNSUk0V1hDWnlKV2FsOUNoUlVuTlVySnJyd2duZ3VLcTFGT0kxX0VlV1lXUTRRR3pkVFNsSGx3ZkJqTEo0WnVIaTFNa01qNkhRaEdXS1BJZXVrUTFWWWVFNXlB?oc=5": {
       "title": "Mercado livre de energia: crescimento da concorrência aumenta necessidade de informação para o consumidor - Valor Econômico",
       "summary": null,
@@ -3699,19 +3349,19 @@
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjVJSk5xd2w3bWZqQUdnb1ZJUHZJMDRHLVFXdjM3d3o0RTRrQ0VHVm1Ib0Z5bG9tR2t3cTJDTXA4NzctTWtDY2pQXzFHV2JsRjVubGNCVjA0elVrLUtrRW5sMHdsaXB2eWRUN1B3em10SjhBZzdPejY1YkNkbEJlUmEzREtRZTgydWZMdWNXWEFiQWRRM0lra1JDVXVsUEc3a3RqQ0lpaUF2cU5BV2tKRUI3TXU4WXd2dVJSdFl3ZXJNZDFVbmc?oc=5": {
       "title": "Minuta – Relatório Síntese – Plano Decenal de Expansão de Energia 2036 – PDE 2036 - CanalEnergia",
-      "summary": "Minuta – Relatório Síntese – Plano Decenal de Expansão de Energia 2036 – PDE 2036 Entenda melhor o assunto - Consumidor Energia solar por assinatura já gerou R$ 267 milhões em economia para consumidores em três anos 14 de outubro de 2026 - Mercado Abertura do mercado livre acende alerta sobre inadimplência 06 de outubro de 2026 - Geração Apine pede à Aneel medidas para conter avanço da GD 30 de…",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T12:11:39.738594-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXo1VjhfSDNCX3U2WHprRERCNkFBUjNrRlpkSHdVZ2pMeENQVDFIcUNjVE1YMWhIVXBGeUN3emdYOWNXdnBLMGY2cm9ORS1mb2ZITFAyY0hFTTlQMWdpYnMxTGd2dDV6bmFTNDhmTHRGd0FpN1hMUFo3R0hfeFIxbVdFY1FtemczTEpKc3YyU0RHZE1PNWlqRjhFcFdYZVpDS01lRm1XclhpZXdYMEpCWUViUHp4ZlZWWTVvd20zcXZtcnJXRnlJ?oc=5": {
       "title": "Negociação de energia e reforma tributária: uma nova era de segurança e liquidez - CanalEnergia",
-      "summary": "Negociação de energia e reforma tributária: uma nova era de segurança e liquidez. Houve mudanças significativas para a cobrança de tributos, especialmente na negociação de commodities e mercados futuros, como o de energia elétrica",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T12:11:41.501555-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1lPbHJ2RHZ5MTNXY1k2Vmd0UGFtM0IwbGlCb0IxMzdIelRoRktlNFRFaXBVMWRSVmxONmFzdFBUQUx6ZnBTdWNmMmZaalR1ZHBNcFB3QzdYdDRQeG1ncWpqM1RGZDN5OU1aRk1EbUw1d2w0N3puYlA1dW40OGVEcDJEMmp3ZzluQ3B6NC1nM3VDbUJ2ZUhDMXFzcmxFMVhlamhSMjFXbUVSWmNScGNHR1VYLTM?oc=5": {
       "title": "WEG registra lucro líquido de R$ 1,66 bilhão no terceiro trimestre - CanalEnergia",
@@ -3719,23 +3369,23 @@
       "source": "",
       "added_at": "2026-10-21T12:11:43.496324-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMigwFBVV95cUxObTNpRkRnMkFMU0xCS0J1dXBPN1ZlQUpvSE9nOWlNbDVPSDNTUFZaSlU1SlBFc3pOVjdWUXliQWpwOWhWUXNWMEZJYlpDazJIMFlsdnVxa091SF93OC1RMElHeXVlNW5OVE8xZ1FuVF9IT2lSTUE1dDJCbzVzS3JyUjBBVQ?oc=5": {
       "title": "Boletim InfoPLD Diário - CanalEnergia",
-      "summary": "Boletim InfoPLD Diário Entenda melhor o assunto - Comercialização CCEE reduz em 75% o prazo médio para processar pedidos de recontabilização 16 de outubro de 2026 - Expansão ONS, CCEE e EPE abrem código de novo modelo 15 de outubro de 2026 - Comercialização Anace aponta distorção na TFSEE 14 de outubro de 2026 - Comercialização Liquidação do MCP movimentou R$ 1,8 bi em agosto 08 de outubro de…",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T12:11:45.332082-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNU8td3hYN2U2U0E1RzhhaXRNQjZsLUpvYkdtblYxYlhEOWpWWFJZbTl4ekhObVVWS2JyeWZXQ3FTS3BJRnhTSGxWYjhZd0FGNEN6TDh0eTRfd0lVOFRYX0NqaHBDQ3NMUmZEV1dRUTFOYlBrQzBVSFQyZzNoQ2ZZb1h0M0JYbjNHQmFOOE81ZG5GM3ZvTWlTSXBfLWJSRzNmQ3Y4M2JEaXNNLUVJSUVFMnJqanhmcm1sZ3NJ?oc=5": {
       "title": "Lucro da Neoenergia sobe 27% e vai a R$ 1,2 bilhão no terceiro trimestre - CanalEnergia",
-      "summary": "Lucro da Neoenergia sobe 27% e vai a R$ 1,2 bilhão no terceiro trimestre. A empresa informou em seu balanço que no acumulado do ano o lucro de R$ 3,36 bilhões mostra recuo de 5%",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T12:11:47.168137-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOFJJQjZvYmxqdlN5YmxqbERMWlhqWFFnZkhGYUdfelBZU3ZyakMxNW44eEhKWFBZMFNkeXBZQnJsaW5RTk1FRWg3VG53c2NUeXF3S3E2MFRPMmEtcjJwVmRjTUROYzBpcjU3UDV0UjBsRjI1dVpLUVdqbk9XMVVYdDZHRGVQMFpmcDR3YmM4X1pDeWtEZmttSDV4NGVJV2wwZjhzZ2g2UFBKcHlRM1lGazNkU2luVzNfYjBN?oc=5": {
       "title": "Pedidos para ABB disparam e vão a US$ 12 bilhões no terceiro trimestre - CanalEnergia",
@@ -3845,11 +3495,11 @@
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWQwMW1HZzVFNTYxQVpqdlEwSkJBTWsydS1SM0ZWV3JHMmEwdzM5THFDc2FDanZrakhWRm54eEhkd2Q4YlgxZUM0bkR0Umh1V2JoSnp3VnU4aDRZd2NGa0pJZUt4TlR0ZlFOS2tZZURfSmJCaXo4SWktSXFSRi1HUGxBaURzQzlWNEI4aml5UDh4VUdoNjVXLWd3c05Ybms0SWRPRWZweFZJUmNZU3BySXN4M0xVU19KcnY3Qm1hUkFUQnlnWE5EZUdtbERhUQ?oc=5": {
       "title": "Diretor da Aneel defende que PLD mínimo reflita a real condição do sistema elétrico - CanalEnergia",
-      "summary": "Diretor da Aneel defende que PLD mínimo reflita a real condição do sistema elétrico. O diretor da Aneel defendeu uma revisão do PLD mínimo, argumentando que o mecanismo atual não reflete mais as condições do sistema elétrico.",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T16:35:19.064271-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2hEQjBMOEd0RW9CSUN5VHV1TzI0QVJCZDhOTGQ4bGt6NjlLMHE2cFZOOTVPSllOMGhFZGN2ZkNyalhSNWtIOWkwREZneWdwcF9VSmxhOHlzQmZFV29HNnVjS2VBeGNrU2IxVzgtOE9YSjRPWk1kYU5FMHhFSDdfTlFNQlFjOGhtcEMxc25HdjdoYm9T?oc=5": {
       "title": "Região SE/CO opera com 54,7% da capacidade - CanalEnergia",
@@ -3987,19 +3637,19 @@
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGl2d3BxQU9iMi1XWV9ucHBabVB1cjNqRlZzSHVlb0RWYlVCSnlEUHVKZzRKV2JpVFdJbldYRXhOMFNvR2dIZk1vWUEyQ2hHZ3dJeHFSeTZpZVhRRDk5WFJFNGZGYmJlY2VXWW9tTjdpOTIwaTJvWTZJR216dEtBZWMwNlJNS3VPX1Z0YUVnVkJIaGZJaUhfREU2S29mMFE3RFROakpEb2dtT21md1h0U3lmTjlZelBMYWhFZlkyMldwcE1GQU1B?oc=5": {
       "title": "Gentil Nogueira, da Aneel defende revisão do modelo de outorgas na distribuição - CanalEnergia",
-      "summary": "Gentil Nogueira, da Aneel defende revisão do modelo de outorgas na distribuição. O diretor da Aneel, Gentil Nogueira de Sá Júnior, defendeu uma reformulação na forma como o setor trata as outorgas de distribuição",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T18:58:42.248259-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXhMVjBSUFYxQy1sYV8wbFNISHdWOUhvUjRvZGVndmFLRUlJNEEzaUlvSmJDRlpOQXR0eVpaOFNrMVBldjdHV1g0OC1ORVlEQ21mSmlVR01uRW40alJwM0YtQktnOHUyVmEwWVFrMUc5YmRFb01aTE1BWno4RHkxdmwwVG9CTExCOHJ2RTlfOWNnM3lMLU1TRkxDUkxPN0V0OEZMU2xQUzN0dWFWNmNHeVFHcWQ4T3pjNzlLSXJwcHNkOENxUFoycVRHdw?oc=5": {
       "title": "Representação ao TCU questiona parecer sobre substituição em agências reguladoras - CanalEnergia",
-      "summary": "Representação ao TCU questiona parecer sobre substituição em agências reguladoras. O MP entrou com representação para que o TCU apure o alcance de parecer da AGU sobre a substituição de dirigentes das agências",
+      "summary": null,
       "source": "",
       "added_at": "2026-10-21T18:58:42.248298-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRmNha2RBOHNlRzBwY044VlJUSGZUNEpmaFlJcjAzekZUSWVrLThLbDJiSlB4WjM1Z2FoWkNwYlE1YjFCb1FYbWxZSzc4NXJsOWljd0pHZGpUX2piSFlqbjln?oc=5": {
       "title": "Tag Autoprodução - MegaWhat",
@@ -4042,6 +3692,12 @@
       "added_at": "2026-10-21T20:05:20.343838-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHd5eW44NmhweFowVkhVWnh6cldDLUZkYTNJek5TYWJxaVBITUd5cjJRdGNTbXNncnM1X09WdHAzSE1aQ0pQVEgyU1p0eXFwaHBSRFZOcTFocW5iTkJHOFZNbXFFZUVULUJOSzNia3BwX25vSzFaZm5XUG4tWHJuNHQxcVptM2VLM2RhcThic3VTaHJSUlljUHozOHNoR3Vf?oc=5": {
+      "title": "ONS premia 24 agentes por desempenho na operação do sistema elétrico - Agência iNFRA",
+      "summary": "O **ONS** premiou **24 agentes** por seu desempenho na operação do Sistema Interligado Nacional (SIN) em evento no Rio de Janeiro. Destaques incluem **Axia Energia Nordeste**, **Copel Geração e Transmissão**, **Norte Brasil Transmissora de Energia**, **Enel Brasil** e **Statkraft Energias Renováveis** em diversas categorias.",
+      "source": "",
+      "added_at": "2026-10-22T01:35:26.801562-03:00"
     }
   }
 }
