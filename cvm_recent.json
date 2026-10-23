@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-23T09:04:34.617816-03:00",
+  "last_updated": "2026-10-23T14:00:38.078677-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Protocolo e Justificação de Incorporação, Fusão ou Cisão",
+      "data_referencia": "20261113 13/11/2026 11:00",
+      "data_entrega": "20261023 23/10/2026 09:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1579643",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1579643",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-10-23T17:00:32.839706"
+    },
     {
       "cnpj_short": "02123-7",
       "empresa_nome": "ENEVA S.A",
