@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T07:04:52.238459-03:00",
+  "last_updated": "2026-10-23T08:04:45.507712-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5390,6 +5390,20 @@
       "summary": "Designa **LUCAS ROCHA RIBEIRO** para substituto do Coordenador de Estruturação de Bases de Informações.",
       "added_at": "2026-10-22T09:01:05.198221-03:00",
       "summarized_at": "2026-10-22T09:01:14.117105-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-116-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-116-2026",
+      "title": "Portaria GM/MME nº 116/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-116-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-116-2026.pdf",
+      "date_modified": "23/10/2026",
+      "ementa": "Designa FABIANA FEIJO DE OLIVEIRA BAPTISTUCCI, matrícula SIAPE nº 1512126, para exercer a Função Comissionada Executiva de Coordenadora de Suporte à Organização Administrativa da Subsecretaria de Planejamento, Orçamento e Administração, da Secretaria-Executiva, código FCE 1.10, ficando dispensada do encargo de substituta eventual da aludida função.",
+      "summary": "Designa **FABIANA FEIJO DE OLIVEIRA BAPTISTUCCI** para Coordenadora de Suporte à Organização Administrativa, dispensando-a da função de substituta eventual.",
+      "added_at": "2026-10-23T08:04:35.966629-03:00",
+      "summarized_at": "2026-10-23T08:04:45.004197-03:00",
       "notify_skipped": "pessoal"
     }
   },
