@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:05:12.256880-03:00",
+  "last_updated": "2026-10-23T09:20:42.586551-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -2529,8 +2529,8 @@
       "summary": null,
       "added_at": "2026-06-01T13:52:16.102448",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notified_at": "2026-10-23T09:05:04.511424-03:00"
+      "notified_at": "2026-10-23T09:05:04.511424-03:00",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-normativa-mme-n-135-2026": {
       "category": "portarias",
@@ -5419,8 +5419,8 @@
       "summary": null,
       "added_at": "2026-10-23T09:04:47.724563-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notified_at": "2026-10-23T09:05:12.256020-03:00"
+      "notified_at": "2026-10-23T09:05:12.256020-03:00",
+      "error": "summarize_failed_or_skipped"
     }
   },
   "first_run_done": true
