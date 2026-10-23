@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T01:34:19.327254-03:00",
+  "last_updated": "2026-10-23T11:55:51.223143-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2004,6 +2004,34 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-tomada-de-subsidios-para-discutir-impactos-da-reforma-tributaria-no-manual-de-contabilidade-do-setor-eletrico",
       "summary": "A **ANEEL** abriu Tomada de Subsídios para discutir os impactos da Reforma Tributária no Manual de Contabilidade do Setor Elétrico. Contribuições podem ser enviadas de **22 de outubro a 3 de novembro de 2026**.",
       "added_at": "2026-10-22T12:03:46.312888-03:00"
+    },
+    "partic_mme_cp_238": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 238",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/238",
+      "summary": "Coleta de contribuições sobre indicadores e metas do Programa Energias da Amazônia, conforme **Decreto nº 11.648/2023**.",
+      "added_at": "2026-10-23T11:55:45.788291-03:00",
+      "objeto": "Coleta de contribuições sobre a proposta de indicadores e metas para o Programa Energias da Amazônia em atendimento ao Decreto nº 11.648, de 16 de agosto de 2023.",
+      "deadline": "11/11/2026",
+      "start_date": "23/10/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000254/2026-11",
+      "first_seen": "2026-10-23T11:55:45.788309-03:00"
+    },
+    "partic_mme_cp_237": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 237",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/237",
+      "summary": "Diagnóstico nacional sobre expansão de infraestrutura de recarga de veículos elétricos. Consulta pública aberta para contribuições da sociedade.",
+      "added_at": "2026-10-23T11:55:50.722900-03:00",
+      "objeto": "Consulta pública para contribuições da sociedade afim de subsidiar a elaboração de diagnóstico nacional sobre a expansão da infraestrutura de recarga de veículos elétricos.",
+      "deadline": "22/11/2026",
+      "start_date": "23/10/2026",
+      "fonte": "MME",
+      "sei_processo": "48360.000272/2026-94",
+      "first_seen": "2026-10-23T11:55:50.722916-03:00"
     }
   }
 }
