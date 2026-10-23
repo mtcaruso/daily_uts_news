@@ -10,6 +10,7 @@
     "17/2026 - RPO|48500030191202596|Proposta de abertura de Consulta Pública com vistas a colher",
     "18/2026 - RPO|48500002211202610|Proposta de abertura de Consulta Pública com vistas a colher",
     "18/2026 - RPO|48500023277202643|Proposta de abertura de Consulta Pública com vistas a colher",
+    "19/2026 - RPC|48500004840202684|Proposta de abertura de Consulta Pública com vistas a colher",
     "20/2026 - RPO|48500000846202682|Proposta de abertura de Consulta Pública com vistas a colher",
     "20/2026 - RPO|48500021812202621|Proposta de abertura de Consulta Pública com vistas a colher",
     "21/2026 - RPO|48500028921202670|Proposta de abertura de Consulta Pública, com vistas a colhe",
@@ -33,7 +34,8 @@
     2643198,
     2644602,
     2644723,
-    2645615
+    2645615,
+    2648702
   ],
   "senado": [
     "172491",
@@ -44,5 +46,5 @@
     "175544",
     "175562"
   ],
-  "senado_ok_ate": "2026-10-22"
+  "senado_ok_ate": "2026-10-23"
 }
