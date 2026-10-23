@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-22T20:35:12.701468-03:00",
+  "last_updated": "2026-10-22T22:55:30.654218-03:00",
   "items": [
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Aviso aos Debenturistas",
+      "tipo": "-",
+      "especie": "Pagamento de juros/remuneração -",
+      "data_referencia": "20261022 22/10/2026",
+      "data_entrega": "20261022 22/10/2026 18:15",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Pagamento de juros/remuneração",
+      "protocolo": "1579523",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1579523",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-10-23T01:55:20.470474"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
