@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T14:34:55.164799-03:00",
+  "last_updated": "2026-10-24T16:45:46.040362-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4536,24 +4536,6 @@
       "empresa_label": "Cemig",
       "codigo_cvm": "2453",
       "first_seen": "2026-09-24T21:40:49.079106"
-    },
-    {
-      "cnpj_short": "02474-0",
-      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "01. AUTORIZAÇÃO PARA A REALIZAÇÃO DA 2ª (SEGUNDA) EMISSÃO DE NOTAS COMERCIAIS DA COPEL GERAÇÃO E TRANSMISSÃO S.A.; 2. Delegação de poderes à Diretoria e procuradores da Companhia.Ata",
-      "data_referencia": "20260910 10/09/2026 08:00",
-      "data_entrega": "20260924 24/09/2026 14:01",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "01. AUTORIZAÇÃO PARA A REALIZAÇÃO DA 2ª (SEGUNDA) EMISSÃO DE NOTAS COMERCIAIS DA COPEL GERAÇÃO E TRANSMISSÃO S.A.; 2. Delegação de poderes à Diretoria e procuradores da Companhia.",
-      "protocolo": "1571140",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571140",
-      "empresa_label": "Copel",
-      "codigo_cvm": "24740",
-      "first_seen": "2026-09-24T18:29:10.513248"
     }
   ]
 }
