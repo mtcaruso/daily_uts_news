@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T16:45:46.040362-03:00",
+  "last_updated": "2026-10-24T19:02:49.938223-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4482,60 +4482,6 @@
       "empresa_label": "Aegea",
       "codigo_cvm": "23396",
       "first_seen": "2026-09-24T23:59:32.279390"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Estatuto Social",
-      "tipo": "-",
-      "especie": "-",
-      "data_referencia": "20260608 08/06/2026",
-      "data_entrega": "20260924 24/09/2026 17:22",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1571229",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571229",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-09-24T21:40:43.736682"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Relatório de Agência de Rating",
-      "especie": "13ª Emissão de Debêntures da Axia -",
-      "data_referencia": "20260923 23/09/2026",
-      "data_entrega": "20260924 24/09/2026 17:10",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "13ª Emissão de Debêntures da Axia",
-      "protocolo": "1571223",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571223",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-09-24T21:40:43.736671"
-    },
-    {
-      "cnpj_short": "00245-3",
-      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-      "categoria": "Dados Econômico-Financeiros",
-      "tipo": "Relatório de Agência de Rating",
-      "especie": "FitchRating relatório -",
-      "data_referencia": "20260924 24/09/2026",
-      "data_entrega": "20260924 24/09/2026 16:12",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "FitchRating relatório",
-      "protocolo": "1571209",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571209",
-      "empresa_label": "Cemig",
-      "codigo_cvm": "2453",
-      "first_seen": "2026-09-24T21:40:49.079106"
     }
   ]
 }
