@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T10:54:28.245254-03:00",
+  "last_updated": "2026-10-25T14:17:41.505558-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -4356,24 +4356,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-09-25T18:51:50.598204"
-    },
-    {
-      "cnpj_short": "00243-7",
-      "empresa_nome": "AXIA ENERGIA S.A.",
-      "categoria": "Fato Relevante",
-      "tipo": "-",
-      "especie": "Aprovação do capital alocável -",
-      "data_referencia": "20260925 25/09/2026",
-      "data_entrega": "20260925 25/09/2026 08:13",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Aprovação do capital alocável",
-      "protocolo": "1571417",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1571417",
-      "empresa_label": "Eletrobras",
-      "codigo_cvm": "2437",
-      "first_seen": "2026-09-25T14:34:31.801198"
     }
   ]
 }
