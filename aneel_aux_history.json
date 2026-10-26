@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:31:59.805375-03:00",
+  "last_updated": "2026-10-26T13:45:20.631079-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2070,6 +2070,70 @@
       "start_date": "22/10/2026",
       "fonte": "ANEEL",
       "first_seen": "2026-10-26T09:23:48.310228-03:00"
+    },
+    "noticia_2022_consumidores-pagarao-mais-de-r-25-bilhoes-caso-pl-amplie-em-12-meses-gratuidade-do-uso-da-rede-por-geracao-distribuida": {
+      "type": "noticia",
+      "title": "Consumidores pagarão mais de R$ 25 bilhões caso PL amplie em 12 meses gratuidade do uso da rede por geração distribuída",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/consumidores-pagarao-mais-de-r-25-bilhoes-caso-pl-amplie-em-12-meses-gratuidade-do-uso-da-rede-por-geracao-distribuida",
+      "summary": "A **ANEEL** alerta que consumidores pagarão mais de **R$ 25 bilhões** caso o PL amplie em 12 meses a gratuidade do uso da rede para geração distribuída. Este custo adicional, previsto de 2023 a 2045, refere-se à compensação da energia injetada na rede.",
+      "added_at": "2026-10-26T13:44:45.453315-03:00"
+    },
+    "noticia_2023_ed-2981-confira-as-novidades-publicadas-na-internet-versao-1": {
+      "type": "noticia",
+      "title": "Publicado FAQ sobre o “dia do perdão” – Resolução Normativa Nº 1.065/2023",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2023/ed-2981-confira-as-novidades-publicadas-na-internet-versao-1",
+      "summary": "A **ANEEL** publicou um FAQ sobre a Resolução Normativa nº 1.065/2023, que anistia geradores que não entraram em operação comercial e permite o ajuste de cronograma de obras. Interessados devem manifestar interesse até **28/7**, com prazos adicionais para renúncia à judicialização e aporte de garantias financeiras até **01/09**.",
+      "added_at": "2026-10-26T13:44:50.448567-03:00"
+    },
+    "noticia_2023_aneel-discute-o-futuro-do-setor-eletrico-brasileiro-no-enase": {
+      "type": "noticia",
+      "title": "ANEEL discute o futuro do setor elétrico brasileiro no ENASE",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2023/aneel-discute-o-futuro-do-setor-eletrico-brasileiro-no-enase",
+      "summary": "A **ANEEL** discutiu o futuro do setor elétrico brasileiro no evento ENASE, sediado no Rio de Janeiro. O diretor-geral Sandoval Feitosa participou das discussões.",
+      "added_at": "2026-10-26T13:44:55.516287-03:00"
+    },
+    "noticia_2024_aneel-abre-tomada-de-subsidios-para-tratar-da-modernizacao-das-tarifas-de-energia-eletrica": {
+      "type": "noticia",
+      "title": "ANEEL abre tomada de subsídios para tratar da modernização das tarifas de energia elétrica",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/aneel-abre-tomada-de-subsidios-para-tratar-da-modernizacao-das-tarifas-de-energia-eletrica",
+      "summary": "A **ANEEL** abriu uma tomada de subsídios para modernizar as tarifas de energia elétrica, recebendo contribuições até **26 de setembro**. O objetivo é discutir a estrutura tarifária do setor.",
+      "added_at": "2026-10-26T13:45:00.443303-03:00"
+    },
+    "noticia_2024_primeiro-dia-do-encontro-nacional-do-setor-eletrico-tem-participacao-da-aneel-e-debates-sobre-inovacoes-no-setor": {
+      "type": "noticia",
+      "title": "Primeiro dia do Encontro Nacional do Setor Elétrico tem participação da ANEEL e debates sobre inovações no setor",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2024/primeiro-dia-do-encontro-nacional-do-setor-eletrico-tem-participacao-da-aneel-e-debates-sobre-inovacoes-no-setor",
+      "summary": "A **ANEEL** participou do Encontro Nacional do Setor Elétrico no Rio de Janeiro, que debate inovações. O evento segue até amanhã, **20 de maio**.",
+      "added_at": "2026-10-26T13:45:05.376794-03:00"
+    },
+    "noticia_2025_aneel-publica-terceira-edicao-do-boletim-infotarifas-em-dezembro": {
+      "type": "noticia",
+      "title": "ANEEL publica terceira edição do boletim InfoTarifas em dezembro",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-publica-terceira-edicao-do-boletim-infotarifas-em-dezembro",
+      "summary": "A **ANEEL** publicou a terceira edição do boletim InfoTarifas, detalhando os índices de reajuste e revisão das tarifas de energia elétrica em todo o Brasil. A publicação, lançada em dezembro, visa informar o público sobre as variações tarifárias.",
+      "added_at": "2026-10-26T13:45:10.356133-03:00"
+    },
+    "noticia_2025_aneel-determina-multas-no-total-de-r-190-96-milhoes-a-seis-utes-no-para": {
+      "type": "noticia",
+      "title": "ANEEL determina multas no total de R$190,96 milhões a seis UTEs no Pará",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-determina-multas-no-total-de-r-190-96-milhoes-a-seis-utes-no-para",
+      "summary": "A **ANEEL** aplicou multas de **R$190,96 milhões** a seis **UTEs** no **Pará**. As penalidades foram determinadas devido à revogação da autorização dessas usinas.",
+      "added_at": "2026-10-26T13:45:15.229183-03:00"
+    },
+    "noticia_2025_aneel-participa-de-evento-com-lideres-empresariais-para-debater-inovacao-e-regulacao-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "ANEEL participa de evento com líderes empresariais para debater inovação e regulação do setor elétrico",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-participa-de-evento-com-lideres-empresariais-para-debater-inovacao-e-regulacao-do-setor-eletrico",
+      "summary": "A **ANEEL** participou de evento com líderes empresariais para debater inovação e regulação do setor elétrico. O presidente da Agência, Sandoval Feitosa, ressaltou o papel da **ANEEL** na regulação de temas de inovação.",
+      "added_at": "2026-10-26T13:45:20.130786-03:00"
     }
   }
 }
