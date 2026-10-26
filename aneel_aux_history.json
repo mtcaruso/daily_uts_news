@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T14:01:44.898353-03:00",
+  "last_updated": "2026-10-26T18:34:52.017046-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2134,6 +2134,22 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/consumidores-pagarao-mais-de-r-25-bilhoes-caso-pl-amplie-em-12-meses-gratuidade-do-uso-da-rede-por-geracao-distribuida",
       "summary": "A **ANEEL** alerta que consumidores sem geração distribuída pagarão mais de **R$ 25 bilhões** caso o PL amplie em 12 meses a gratuidade do uso da rede para compensação de energia injetada. O custo adicional acumulado é previsto para o período de 2023 a 2045.",
       "added_at": "2026-10-26T14:01:44.397608-03:00"
+    },
+    "noticia_2026_ons-epe-e-aneel-revisam-nota-tecnica-com-os-quantitativos-da-capacidade-remanescente-para-conexao-de-novos-sistemas-de-armazenamento-no-lrcap-2026": {
+      "type": "noticia",
+      "title": "ANEEL, ONS e EPE revisam nota técnica com os quantitativos da capacidade remanescente para conexão de novos sistemas de armazenamento no LRCAP 2026",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/ons-epe-e-aneel-revisam-nota-tecnica-com-os-quantitativos-da-capacidade-remanescente-para-conexao-de-novos-sistemas-de-armazenamento-no-lrcap-2026",
+      "summary": "A **ANEEL**, **ONS** e **EPE** revisaram a Nota Técnica sobre a capacidade remanescente para conexão de novos sistemas de armazenamento no **LRCAP 2026**. A revisão, divulgada em **26/10**, ajusta dados da **SE Milagres** sem alterar os valores das margens.",
+      "added_at": "2026-10-26T18:34:46.481996-03:00"
+    },
+    "noticia_2026_leilao-de-transmissao-no-4-2026-de-2026-sera-realizado-na-proxima-sexta-feira-30-10": {
+      "type": "noticia",
+      "title": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10)",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-de-2026-sera-realizado-na-proxima-sexta-feira-30-10",
+      "summary": "A **ANEEL** realizará o Leilão de Transmissão nº 4/2026 em **30/10**, com investimento estimado de **R$ 8,9 bilhões**. O certame, que ocorrerá na **B3** em São Paulo, licitará oito lotes de linhas de transmissão e transformadores em sete estados, com prazos de conclusão entre 42 e 60 meses.",
+      "added_at": "2026-10-26T18:34:51.516725-03:00"
     }
   }
 }
