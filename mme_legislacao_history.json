@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:35:49.624498-03:00",
+  "last_updated": "2026-10-26T11:01:31.706719-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5433,7 +5433,8 @@
       "ementa": "Permuta Cargos Comissionados Executivos por Funções Comissionadas Executivas do Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério de Minas e Energia.",
       "summary": "Permuta Cargos Comissionados Executivos por Funções Comissionadas Executivas no Quadro Demonstrativo do Ministério de Minas e Energia.",
       "added_at": "2026-10-26T09:27:27.024252-03:00",
-      "summarized_at": "2026-10-26T09:27:38.981092-03:00"
+      "summarized_at": "2026-10-26T09:27:38.981092-03:00",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
