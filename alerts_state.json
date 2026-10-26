@@ -2802,12 +2802,7 @@
     "extrato-de-contrato-n-36/2026-uasg-323028-740327189"
   ],
   "sei_parado": "2026-10-26",
-  "saude": {
-    "ANEEL · notícias": {
-      "desde": "2026-10-26T17:26:19+00:00",
-      "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
-    }
-  },
+  "saude": {},
   "aneel_objetos": {
     "partic_ts_040_2026": "obter subsídios para alteração do Submódulo 7.10 - Implantação e Análise do Sistema de Registro de Perturbações dos Procedimentos de Rede",
     "partic_cp_039_2026": "obter subsídios e informações adicionais para promover a adequação dos contratos regulados de geração e comercialização de energia elétrica, bem como de encargos setoriais, em decorrência da reforma tributária definida pela Emenda Constitucional nº 132/2023, e materializada pela Lei Complementar nº ",
