@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T01:31:44.239716-03:00",
+  "last_updated": "2026-10-26T09:23:48.811138-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2032,6 +2032,44 @@
       "fonte": "MME",
       "sei_processo": "48360.000272/2026-94",
       "first_seen": "2026-10-23T11:55:50.722916-03:00"
+    },
+    "noticia_2026_aneel-acompanha-fornecimento-de-energia-durante-as-eleicoes-2026": {
+      "type": "noticia",
+      "title": "ANEEL acompanha fornecimento de energia durante as Eleições 2026",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-acompanha-fornecimento-de-energia-durante-as-eleicoes-2026",
+      "summary": "A **ANEEL** monitorou o fornecimento de energia durante as Eleições 2026, em articulação com o **TSE** e distribuidoras. O cenário foi de normalidade em ambos os turnos, com elevados índices de atendimento aos locais de votação.",
+      "added_at": "2026-10-26T09:23:31.377475-03:00"
+    },
+    "pauta_14826": {
+      "type": "pauta_rd",
+      "title": "PAUTA DA 5ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "27/10/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14826&idAreaNoticia=425",
+      "summary": "- **Leilão de Reserva da Capacidade (LRCAP) 2026**: Deliberação sobre novos sistemas de armazenamento de energia em baterias com conteúdo nacional (Processo nº **48500.015992/2026-11**).\n- **Leilão de Reserva da Capacidade (LRCAP) 2026**: Discussão sobre novos sistemas de armazenamento de energia em baterias (Processo nº **48500.019603/2026-18**).\n- **Regulação de Distribuição**: Análise do resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório, abertura de mercado para Grupo A e Open Energy (Processo nº **48500.000503/2024-56**).",
+      "added_at": "2026-10-26T09:23:36.964638-03:00"
+    },
+    "pauta_14827": {
+      "type": "pauta_rd",
+      "title": "PAUTA DO 19º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "27/10/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14827&idAreaNoticia=425",
+      "summary": "- **CDE 2026**: Definição do orçamento anual da Conta de Desenvolvimento Energético, com base na Consulta Pública nº 44/2025 (processo nº 48500.029180/2025-63).\n- **TUSD/TUST**: Regulamentação do fim do desconto nas tarifas de uso dos sistemas de distribuição e transmissão para consumidores (processo nº 48500.004840/2026-84).\n- **RGE Sul**: Análise do pedido de isenção da Parcela de Ineficiência por Ultrapassagem (PIU) em decorrência da calamidade no RS (processo nº 48500.002356/2024-59).\n- **Taesa**: Recurso contra indeferimento de revisão do Termo de Liberação de Receita (TLR) relacionado a reforços no Sistema de Proteção (processo nº 48500.003884/2025-14).\n- **Engie Brasil**: Pedido de reconsideração sobre o Reajuste Tarifário Anual de 2025 da Enel Distribuição Ceará (processo nº 48500.004876/2021-53).",
+      "added_at": "2026-10-26T09:23:42.980275-03:00"
+    },
+    "partic_ts_042_2026": {
+      "type": "partic_ts",
+      "title": "Tomada Pública nº 042/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=GO8Nphgz&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4075&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "Reforma tributária (EC **132/2023**, LC **214/2025**) impacta Plano de Contas do MCSE. Consulta busca subsídios para adequações regulatórias.",
+      "added_at": "2026-10-26T09:23:48.310171-03:00",
+      "objeto": "Obter subsídios acerca das alterações em decorrência da reforma tributária definida pela Emenda Constitucional nº 132, de 20 de dezembro de 2023, e materializada pela Lei Complementar nº 214, de 16 de janeiro de 2025, no Plano de Contas regulatório estabelecido no Manual de Contabilidade do Setor Elétrico – MCSE.",
+      "deadline": "03/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "22/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-10-26T09:23:48.310228-03:00"
     }
   }
 }
