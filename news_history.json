@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T09:29:20.248103-03:00",
+  "last_updated": "2026-10-26T10:07:11.997008-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPY0U5Y3pteFlVbl9Dc0l1LWVaUUxDMWNQRW95RlVWcjE0cUU5cnV0N0FpcE13UHJVRmItVFpMakdVcnZNU3NONDZPLWpZUzBMWC1oME1pSmwzMmhBY3RiTkhPdUowdFNoejhYd29Qamhlek1VdEpDSHZmR2JuSmlxOEQ0cHFpZDZZcG4wYUVtc2Z5MVJ5WmlUVTMtNlRIUVdEYjRyWV9kNF9lTHZHaFNUNUhFMnFYMmZEQ010cEN3eFNnM0ZfcUFqalRKMUVYYXlTelF1dlI4b3lwQzdndFJ2UHRTRDFMd9IB9AFBVV95cUxOdGw4QlFmVEY3cHN2T3RBZDJlWURmcVZlZU9uTmpxNWthSWQxWERYVXFIUnpJVENoXzBjUlBDb3BWTWZmVXBZRlNFODlVbXluX3NBT0RoYkU2aWlhbVoxOVFhUlQ5NUlyd3RWakg5aEpCS2EzQkxNMDB3aXpjSmstRTdZTnMtcmRUQXVNU1JPc1pKTHdvVDZfS0JPVTFGWkhhelhyTmJ6RWlUUjFqWnJyQWJfN0dkaEU3ZTRUN0R4SlV3ZC00LU1xMTZlYlNvN3g3bUROZnpRdWhKRlYzb19XWU5FZWEwdF9WNUpyNDR6M1d6TDl1?oc=5": {
       "title": "TotalEnergies e KKR fecham acordo de US$ 1,2 bi para incluir ativos solares em empresa conjunta - Valor Econômico",
@@ -3641,7 +3641,7 @@
       "source": "",
       "added_at": "2026-10-26T01:38:14.145652-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNVVDc3lwLTVCaklCS2ZQd1l5VTVBTFJzd1AtRjFlLVpLRVFxWHBVZi0zNkdFWWhKSlI1dlNQdk9ZOVNjVTFjZmh6LS1kcmFDOEgzZ05TZw?oc=5": {
       "title": "Tag CNPE - MegaWhat",
@@ -3655,7 +3655,7 @@
       "source": "",
       "added_at": "2026-10-26T09:29:13.613879-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUN5QkFselZtNjNqUDYyN3FzRTdrcll0X2dQSXNmZ0RObllpckEzbHQtc0pTRFBTd0ptVGoxTURmQVhFcEZtdEVCTmJaSlZxNGdQMHBnVXQ3MkFSSGVqR25YWHlWWmM4R2NZUFZEcVZkekdIZDJFV3JCX0syWmFTNWE2TXJwTWRVS1NUQnNsUEhpRmlDQmx0eTBwNXBFS0JIcHd2MHZGLVdvZmNlZTZMOTdPWW9PLUlvTUNNWloxUG9VTF9BcDM1SE9Qai1rbjVTVEwwS01GQ0Q?oc=5": {
       "title": "Engenharia de infraestrutura na Serra da Ibiapaba: a construção do complexo eólico de 589 MW - CanalEnergia",
@@ -3663,7 +3663,7 @@
       "source": "",
       "added_at": "2026-10-26T09:29:13.614660-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdE1BcjVwM2ZrR0tBZFJyREo0Q3JoOXJzcGJYZzNfZkRveDVSOTZ6Y2paMmlKRTQ0dlpuekJQM1FtbmtndDU4WFRmcl9TdnJtTG8tdVczTE1DUnAtYkRyRVFyV3U0NmN0VTVGQU92NFl5Nmc0Tkl5aVYyTmZveXJHdWRmTjBxdXhDVlZUV29iVzhIVGp1LTJhQmVIaklTU3kxSDdQSFRldUJWVk1RaC14eEZfS0xiV01oNkdhRjVKVWFpTDU0Tnc?oc=5": {
       "title": "Transmissoras querem reconhecimento de prejuízos por eventos climáticos – Edição do dia - MegaWhat",
@@ -3671,21 +3671,27 @@
       "source": "",
       "added_at": "2026-10-26T09:29:13.615115-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVUzUFFFTUl6ZUU2TDYyalE5dVJUcDFLTHo5QXNSM3lZSWdBOUlTMmtXSG80YW9JTTdCcVVrV2xLaHc1Zzk3QXlBdmRUTWNmSW9mZ0pQSkI5aWVneFg3N2RNeGdSY3E4MHU1ZlN0X01DVXFUcVBIc2toT010bGUwWVg0T2NNQUZDSENwTzJFRFQ4QThEVWRFZWRpTEtLNDZobzZScXlxZW5nVEFtdEhQUG5KX1pscW8?oc=5": {
       "title": "BBCE vê alta nos contratos de 2027 e queda no curto prazo - MegaWhat",
-      "summary": "Os preços de energia negociados no EHUB, plataforma de negociação da BBCE, encerraram a semana de 19 a 23 de outubro com movimento misto. Os contratos com entrega em 2027 registraram as maiores altas, enquanto outubro e novembro de 2026 fecharam em queda.",
+      "summary": "A **BBCE** registrou um movimento misto nos preços de energia na semana de 19 a 23 de outubro. Contratos com entrega em 2027 apresentaram as maiores altas, com destaque para janeiro de 2027 subindo **7,41%** para **R$ 225,02/MWh**. Já os contratos de curto prazo, como outubro e novembro de 2026, fecharam em queda, com novembro caindo **5,25%** para **R$ 129,14/MWh**.",
       "source": "",
-      "added_at": "2026-10-26T09:29:13.615511-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "added_at": "2026-10-26T09:29:13.615511-03:00"
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxORllZUnc3LW9xUzVWNDljaVUtUlI3ZGU2a2NXeFJVTnV5M3FhTHFTb2Fleno2S3BhYTQxM1JsNV80RGJEX043OUhiU3hkVWZDc2wwQzAyWFBadC1nYjM2bnhlNHR1bmg5cGc4NHFENVpPWlB5RFhIUUtkd3RrTkpueHVVQnhUeUh1LWc3ZzBHbDlUQ1BBU2Focng2U1p3VXZuY19CREZXTDJzU1lOdllERWNn?oc=5": {
       "title": "Lula destaca data centers e renováveis em discurso após vitória - MegaWhat",
       "summary": "O presidente **Luiz Inácio Lula da Silva** destacou o potencial de energia renovável do Brasil para atrair data centers, defendendo o desenvolvimento de inteligência artificial nacional. A **Lei 15.504/2026 (Redata)**, sancionada em setembro, oferece incentivos fiscais para a instalação dessas estruturas, exigindo que usem fontes renováveis e destinem parte da capacidade ao mercado interno ou a projetos de P&D.",
       "source": "",
       "added_at": "2026-10-26T09:29:20.226330-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTnNWUFJjd3l5N1YxVHY1QW53VElDcGt6a3lNekVCN0lrRUFTSTBqM19vMEE1LVloYW9PaWR2RGkzbF9NQ1Q3UTRqeVJZR2paYkdRVGMwOG9EWXFkR3dZV2Q1RUlNLW5xLU84WllrdXhhT3NHSmhoMWhSVVpMVHRxelRSY3JCWm9EcUFrOFZhYmtaUHV3WnppTFRqc3dkdkdfVzl5WkV2UlFNcXMtY05IZC1XaFNhUm5tV3Z3UVUtS2lSS1o2Rktr0gHWAUFVX3lxTFAzUWlmN18tWnFSbW56VzRBQWp3SThRTzJJc2wwUEIwS0hMNmRKOWJFYVdrcGhxOWtxMHRmYUo5el9leXVldWZsZzlSN2IwcEJCd1BIOEJiWUFVc0VRcGlJZlcxMWdRT2FTR0djeGZiZDBZRlpvS0RtSUhHbFFaZjFFc0w0OW9jeFVNUEZEYVlqU0dNMlRlQTh2d1FkSGpCaF9ZVmNkNXFfRS1GOW13OE1TYnZQbXZvNFBUMlZreVZSY2I0MDQ2eEJvd21ja2RMVGpJVGJYWVE?oc=5": {
+      "title": "Crédito imobiliário para viabilizar projeto de energia solar - Valor Econômico",
+      "summary": "Crédito imobiliário para viabilizar projeto de energia solar O investimento em energia solar pode se pagar entre três e cinco anos e gerar economia por décadas. Apesar do potencial de retorno, o custo inicial ainda é uma barreira para consumidores e empresas.",
+      "source": "",
+      "added_at": "2026-10-26T10:07:05.156994-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
