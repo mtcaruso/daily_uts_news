@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T13:23:31.957942-03:00",
+  "last_updated": "2026-10-26T14:01:44.898353-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2126,6 +2126,14 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/aneel-participa-de-evento-com-lideres-empresariais-para-debater-inovacao-e-regulacao-do-setor-eletrico",
       "summary": "A **ANEEL** participou de evento com líderes empresariais para debater inovação e regulação do setor elétrico. O foco foi o papel da Agência na regulação de temas de inovação.",
       "added_at": "2026-10-26T13:23:31.457061-03:00"
+    },
+    "noticia_2022_consumidores-pagarao-mais-de-r-25-bilhoes-caso-pl-amplie-em-12-meses-gratuidade-do-uso-da-rede-por-geracao-distribuida": {
+      "type": "noticia",
+      "title": "Consumidores pagarão mais de R$ 25 bilhões caso PL amplie em 12 meses gratuidade do uso da rede por geração distribuída",
+      "date": "26/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/consumidores-pagarao-mais-de-r-25-bilhoes-caso-pl-amplie-em-12-meses-gratuidade-do-uso-da-rede-por-geracao-distribuida",
+      "summary": "A **ANEEL** alerta que consumidores sem geração distribuída pagarão mais de **R$ 25 bilhões** caso o PL amplie em 12 meses a gratuidade do uso da rede para compensação de energia injetada. O custo adicional acumulado é previsto para o período de 2023 a 2045.",
+      "added_at": "2026-10-26T14:01:44.397608-03:00"
     }
   }
 }
