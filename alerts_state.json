@@ -2808,10 +2808,6 @@
   ],
   "sei_parado": "2026-10-26",
   "saude": {
-    "ANEEL · DOU Seção 3": {
-      "desde": "2026-10-27T01:32:36+00:00",
-      "erro": "busca do DOU de 23/10: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read timed out. (read timeout=40)"
-    },
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-10-27T01:33:11+00:00",
       "erro": "pauta nos dados abertos da ANEEL: HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7"
