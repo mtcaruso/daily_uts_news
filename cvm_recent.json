@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-10-26T18:42:48.752589-03:00",
+  "last_updated": "2026-10-26T21:49:32.819909-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Comunicado ao Mercado 15/26 - Criação da Vice-Presidência de Operações -",
+      "data_referencia": "20261026 26/10/2026",
+      "data_entrega": "20261026 26/10/2026 18:50",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Comunicado ao Mercado 15/26 - Criação da Vice-Presidência de Operações",
+      "protocolo": "1580363",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1580363",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-10-27T00:49:20.391232"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
