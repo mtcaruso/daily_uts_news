@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T12:51:27.717539-03:00",
+  "last_updated": "2026-10-27T17:36:30.407512-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2150,6 +2150,16 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-de-2026-sera-realizado-na-proxima-sexta-feira-30-10",
       "summary": "A **ANEEL** realizará o Leilão de Transmissão nº 4/2026 em **30/10**, com investimento estimado de **R$ 8,9 bilhões**. O certame, que ocorrerá na **B3** em São Paulo, licitará oito lotes de linhas de transmissão e transformadores em sete estados, com prazos de conclusão entre 42 e 60 meses.",
       "added_at": "2026-10-26T18:34:51.516725-03:00"
+    },
+    "noticia_2026_cni-presta-homenagem-a-aneel-pelos-30-anos-de-atuacao-em-prol-do-setor-eletrico-e-do-desenvolvimento-do-pais": {
+      "type": "noticia",
+      "title": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país",
+      "date": "27/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/cni-presta-homenagem-a-aneel-pelos-30-anos-de-atuacao-em-prol-do-setor-eletrico-e-do-desenvolvimento-do-pais",
+      "summary": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país Reconhecimento foi realizado durante reunião da diretoria da Confederação, em Brasília (DF) A Agência Nacional de Energia Elétrica (ANEEL) foi homenageada nesta terça-feira (27/10) pela Confederação Nacional da Indústria (CNI) em reconhecimento aos 30 anos de atuação da Agência em prol…",
+      "added_at": "2026-10-27T17:36:29.907233-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
