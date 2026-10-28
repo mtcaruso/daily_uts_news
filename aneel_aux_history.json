@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T17:36:30.407512-03:00",
+  "last_updated": "2026-10-27T21:26:10.539690-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2157,7 +2157,47 @@
       "date": "27/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/cni-presta-homenagem-a-aneel-pelos-30-anos-de-atuacao-em-prol-do-setor-eletrico-e-do-desenvolvimento-do-pais",
       "summary": "CNI presta homenagem à ANEEL pelos 30 anos de atuação em prol do setor elétrico e do desenvolvimento do país Reconhecimento foi realizado durante reunião da diretoria da Confederação, em Brasília (DF) A Agência Nacional de Energia Elétrica (ANEEL) foi homenageada nesta terça-feira (27/10) pela Confederação Nacional da Indústria (CNI) em reconhecimento aos 30 anos de atuação da Agência em prol…",
-      "added_at": "2026-10-27T17:36:29.907233-03:00",
+      "added_at": "2026-10-27T21:26:10.039404-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "noticia_2026_mercado-livre-de-energia-consulta-publica-propoe-regulamentacao-do-fim-do-desconto-nas-tarifas-de-uso-dos-sistemas": {
+      "type": "noticia",
+      "title": "Mercado Livre de Energia: consulta pública propõe regulamentação do fim do desconto nas tarifas de uso dos sistemas",
+      "date": "27/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/mercado-livre-de-energia-consulta-publica-propoe-regulamentacao-do-fim-do-desconto-nas-tarifas-de-uso-dos-sistemas",
+      "summary": "Mercado Livre de Energia: consulta pública propõe regulamentação do fim do desconto nas tarifas de uso dos sistemas Os interessados podem enviar contribuições no período de 29 de outubro a 14 de dezembro de 2026 Em Circuito Deliberativo Público Ordinário da Diretoria, a Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (27/10), abertura da Consulta Pública nº 040/2026 para…",
+      "added_at": "2026-10-27T21:26:03.814322-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_aneel-confirma-orcamento-da-cde-de-2026-em-r-52-66-bilhoes": {
+      "type": "noticia",
+      "title": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões",
+      "date": "27/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-confirma-orcamento-da-cde-de-2026-em-r-52-66-bilhoes",
+      "summary": "ANEEL confirma orçamento da CDE de 2026 em R$ 52,66 bilhões Valor é resultante da avaliação feita em Consulta Pública A Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (27/10) o orçamento anual da Consta de Desenvolvimento Energético (CDE) de 2026 em R$ 52, 66 bilhões. A decisão confirma a proposta orçamentária colocada em Consulta Pública nº 44/2025.",
+      "added_at": "2026-10-27T21:26:05.382596-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_editais-no-05-2026-e-no-06-2026-dos-leiloes-de-armazenamento-de-energia-sao-aprovados-pela-aneel": {
+      "type": "noticia",
+      "title": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL",
+      "date": "27/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/editais-no-05-2026-e-no-06-2026-dos-leiloes-de-armazenamento-de-energia-sao-aprovados-pela-aneel",
+      "summary": "Editais Nº 05/2026 e Nº 06/2026 dos leilões de Armazenamento de Energia são aprovados pela ANEEL Os certames serão realizados em 2 e 4 de dezembro de 2026 exclusivamente via Internet. A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (27), durante Reunião Pública Extraordinária, os editais nº 05/2026-ANEEL e 06/2026-ANEEL, desnados à contratação de potência…",
+      "added_at": "2026-10-27T21:26:07.041458-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_aneel-avanca-com-abertura-do-mercado-e-institui-open-energy": {
+      "type": "noticia",
+      "title": "ANEEL avança com abertura do mercado e institui Open Energy",
+      "date": "27/10/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-avanca-com-abertura-do-mercado-e-institui-open-energy",
+      "summary": "ANEEL avança com abertura do mercado e institui Open Energy Decisão ocorreu em reunião extraordinária da diretoria da ANEEL A Diretoria da ANEEL aprovou, nesta terça-feira (27/10), o aprimoramento das regras que orientam a abertura do mercado de energia elétrica para consumidores do Grupo A, atendidos em média e alta tensão. A decisão também institui o Open Energy e estabelece medidas voltadas à…",
+      "added_at": "2026-10-27T21:26:08.512448-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
