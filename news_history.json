@@ -1,40 +1,6 @@
 {
-  "last_updated": "2026-10-28T18:21:19.884968-03:00",
+  "last_updated": "2026-10-28T22:14:07.854003-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DcmlEZ3djcGdpMU9pWDRodU1OZXNoMENXTnRNU2xtVU5PcXMtaVBkeTJXNVRXd0k3NUM4clQ1WlZ5MzcyVUhqVkJnWUdPVWdJanl3ZUtiZlE1dEFH?oc=5": {
-      "title": "Óleo e Gás - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-14T19:02:34.605466-03:00",
-      "error": "no_article",
-      "attempts": 8
-    },
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVTFPVGRqMmEzMzdRWENITi1HZ2ZXUGRSTDRJeldPTjZFNk9FZURWaDQ5aEJJdVFsRENPTWYwbzkxQlljTzVuUEF3SUpxeGppRzJzY1pTVjM2ak80QWpOVG1kM25udlFRSnlqNk8zQkIyamNBWXBsd19YX215aG5KU3JnT1h4QVQzdUlDeEJyYlB6LVZIMGhhWTdMUl9uSkZJTmpQVVBiUTBjU1pvbHBiUm5nU0ttN1c3cEFEZ09PTDZ3UVdDYXlveWxuRC1MUGhkRjJXYWp0cUQxcVk?oc=5": {
-      "title": "Abrace: em 26 anos, pressão dos custos energéticos representa 48,2% da inflação dos investimentos - CanalEnergia",
-      "summary": "Um estudo da **Ex Ante** aponta que, em 26 anos (desde 2000), os custos energéticos foram responsáveis por **48,2%** da inflação nos investimentos do setor de utilities. O impacto é ainda maior em edificações e infraestrutura, onde a energia responde por **72,1%** da inflação no período.",
-      "source": "",
-      "added_at": "2026-10-14T19:02:45.743224-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNckVIZVZhb1ZwRjQyME05OFUxZmM1UjN6bmQyc0ZxRENRMjlqZzdPbVBTRkhCUkdYTUh5bnVzSmNDdGg4NDNrNFVoN2hpbFB4X1YxeDdMQk9nTHJGZzN2eERrZ05scU1NNWJBeEhjczZHN1R5QjB4RnQtX3lWX2lBSm5xdzBtTlYwMGFqRGRvZlpGTmR4LXFRcW85VDcwQQ?oc=5": {
-      "title": "Adição de energia eólica e solar no Brasil cai 27% em 2025, diz BNEF - Agência iNFRA",
-      "summary": "A adição de capacidade de geração eólica e solar no Brasil caiu **27%** em 2025, totalizando **17,3 GW**, segundo a **BloombergNEF (BNEF)**. A retração foi causada por restrições na rede, aumento de cortes de geração e menor atratividade econômica, impactando a expansão eólica e solar. O armazenamento em baterias, por outro lado, deve crescer significativamente, com adições anuais superando **1 GW** até 2028.",
-      "source": "",
-      "added_at": "2026-10-14T19:33:09.500751-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUVlhUOXNjLVNSanNqQ2IzV3RtS2lOT1BHQ2t2Z245Y2tRYm5YMGVmZW5Kbkl0aEthaWwwZFNfNm44YWNkZ3BTek1FTHowN0ppRFZ1S1B5d1FqOWhMNk9JNXRKSHY?oc=5": {
-      "title": "Tag mercado livre energia - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-14T19:36:00.925681-03:00",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczJPZnFBMkxabmY3ZVNhcVdITWRiNWZmOXJnUXh2bXpLWHJMbzkwX0ZqZGtfX0Q4Q1d2VVZMTWdhcnp2YnB3dFVOM0syek94cjdJcmh4UHZmSWJpalF2QXBPdTFGRm5kZFBNbi1ncnh5aW0xVEU3NUpfSC1KdG5ncUJETDd1NU9iX1pKTGczLWZzNUlWcnFmeFdEUGMxeElLa2J3bEpxOVI?oc=5": {
-      "title": "Boletim de Dados e Análises de Bandeiras Tarifárias - CanalEnergia",
-      "summary": "A **Anace** aponta distorção na TFSEE. A **Echoenergia** foca em pequenas indústrias no mercado livre de energia. A abertura do mercado livre avança, mas a migração será lenta. A liquidação do MCP movimentou **R$ 1,8 bilhão** em agosto. A energia solar por assinatura gerou **R$ 267 milhões** em economia em três anos, e a **Abrace** indica que custos energéticos representam **48,2%** da inflação de investimentos em 26 anos. O STF retirou o ICMS da subvenção de energia para baixa renda.",
-      "source": "",
-      "added_at": "2026-10-14T21:52:23.627726-03:00"
-    },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Y3liYU5wblpQYWV3d1RvTWJKZ28yRzNLUldIeHkzbUd5VU9EcWpfQ1dKM3VFOGlWWjZ1QTUtQmltMW9yQU80bDBwMjN6d0Z6ZmtPY1hQaDE?oc=5": {
       "title": "Iguá Saneamento - Brazil Journal",
       "summary": "**Iguá Saneamento** recebeu um aporte de **R$ 700 milhões** de seus acionistas, além de ter investido **R$ 1 bilhão** na antiga **Cedae**. A empresa também pagou **R$ 4,53 bilhões** pela concessão de Sergipe e vendeu 11 concessões por **R$ 466 milhões**, enquanto o CPPIB troca de comando no Brasil.",
@@ -3353,7 +3319,7 @@
       "source": "",
       "added_at": "2026-10-27T21:29:22.548191-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0haZUUzdHRsbkw3ZVFlTVNacnB1OWdmSGtORzNNVy1rWnJNVTN1aTBTOGdoOUM2Q3VlVnByTUtkRlZjRFFMd1ltQ0x3WDVaS1FoUWdnakxDQjRjMU1sSy01UFRyTXVLZ2JfYXQxSk9XTHlXc0RuMEdWTTFkYk5FZ0VYazVFWVVFRVB3MGhKb0M2WWRieUhCN3ZJeThhYkxTUE9UMzRsR0VpZEI0VVlnQ0l5TV9tbHBlN3hZd3NSMHhFbm8td2pVTw?oc=5": {
       "title": "Brasil precisa de 120 GW e R$ 670 bi em investimentos até 2040, diz Aurora Energy - CanalEnergia",
@@ -3457,7 +3423,7 @@
       "source": "",
       "added_at": "2026-10-28T03:15:57.902353-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdF91UzZwenJFY1RqcEFacTE0ZDFuWnhjcV9zN3h6a19SS0hUaWhYZHo3MGdUZ0VGaDNoYTZwZ1FqckNCRktkcDhIejB2V252TTEwN3RYYUNuNXdnQTVYemFxSHJldTlvX25ad0dMa3hLUERwXzJXbFV1TDlBaXNrTnhCSVhhUWdNekFOUXlTODBjVXJiQ3FCVVA0ajhYTDN6VGM4RGZTVjRUbVFGcXhlTGhkVEZDQlJNTjhJaFFZX0MwcTVsRE5kV3QzanplUdIBzgFBVV95cUxOdF91UzZwenJFY1RqcEFacTE0ZDFuWnhjcV9zN3h6a19SS0hUaWhYZHo3MGdUZ0VGaDNoYTZwZ1FqckNCRktkcDhIejB2V252TTEwN3RYYUNuNXdnQTVYemFxSHJldTlvX25ad0dMa3hLUERwXzJXbFV1TDlBaXNrTnhCSVhhUWdNekFOUXlTODBjVXJiQ3FCVVA0ajhYTDN6VGM4RGZTVjRUbVFGcXhlTGhkVEZDQlJNTjhJaFFZX0MwcTVsRE5kV3QzanplUQ?oc=5": {
       "title": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa - Estadão",
@@ -3569,7 +3535,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:04.246469-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEZRUHQ0ZVpfSFVvY3I3c0xrTzRVM3FtN3o1Umx6azRkYl8wT1Y2MjE5YmhVcHREM2praS1NRGt4VE5mY0dQMWpFNUhwZ29ldGN5eHhsVnJUUlk1Mm01ZVQ3OVRtYWExdzJZalVRelQzYzVrTHJfREpMUWFFV2pWclNsWi1MRWs5RlJkS3owdERsWkVZNE44MlFBQVhuTTQya1BTZ1ZUSjQ?oc=5": {
       "title": "Dez megatendências vão moldar setor de energia até 2050 - CanalEnergia",
@@ -3577,7 +3543,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:40.798626-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0d6OFdndl9JakZtbGJ4ZmZjRkRtVXNwREl0Y1RGUFNYS2NnUWdqSFBVNHZyNUlHOUZ3aTQ5NEd3TU90ME1CLWRlcmdGUE5BNTJaV1l5bEpsLV9wVWZ2RThiNVozblJzZW1wTTljLWc3OGVzRW5JMFAxenUwQkJVSVAwOGJEQjFOb1hveEozUGtvd2d4bHl5Q1dqYVpnS21feVA4QkJfNXFKRlYzMWQzTU1xMUtVSkJBcmhCa3lhekNrclk?oc=5": {
       "title": "CEO da Elera aponta necessidade de definir critérios para cortes de geração - CanalEnergia",
@@ -3585,7 +3551,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:42.664933-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFY3bmFwYzVXcjV0SFRtdGthcTZoZ21wRkpxbWljckdFLVhrbUtJdE9PcnVyS1ZJbnpZVGRGU1JyN0E2NUVaQ0c3TGZaR3pCYUpyWjlnRGdRb0FGOENNMUhuQWFlNnJqWFRvbGxoQlBSbmtXVnRuRTF5VHM1cDF3LV84RWd6R0FxM0NTVkl4VXdvSXRaTklEbkxnTQ?oc=5": {
       "title": "EDF Power Solutions de olho em baterias e LTs - CanalEnergia",
@@ -3593,7 +3559,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:44.521973-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXVxQktubC1LNHlmcUN3M3EzaGV6TDlVaGpwTzdhOHVXMWxaLVlraVpTYnN2VV9kQUtDS0JRbjJQZ0hpVUd4dy1SYmxJV1lGc1BrVG1Udk1CSjJ1ZnM3TEJWZzVpQnR4Q3pEeE42cmN4TUl4b1BVaS1vWl9OMG1kMkZ0c3RaVjBIMG1WdlRBNHBRX25mdkNjdF9n?oc=5": {
       "title": "Preços futuros de energia para 2027 têm alta - CanalEnergia",
@@ -3601,7 +3567,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:46.352292-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHdyendhdnZ4SmtEelRQX0JhdVBDOTdteVRocFBIRFJKRnd2LUlZckJFUVhaUG4zSXhacmgwczdTWkZUcnFZWDJTbnc1T0NzckVlTTJZbzdkeUMxY1ZabkN3bFczRjJZRFQ4U3MyRENhTzlkUnlGWWZxTXBFbUJjV3JWbmxzNWk3QXppUXdPWlhKc3BXdFlWVjNpSl9YYjJxSThsMXZkTnRWd2hIa0J0VE1PQWM?oc=5": {
       "title": "Laura Porto defende processo de integração para o setor elétrico - CanalEnergia",
@@ -3609,7 +3575,7 @@
       "source": "",
       "added_at": "2026-10-28T13:36:48.143985-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWVVJcXZ1U1gzN2pIZzhNbUhNMVFQZllGRGZrNGlOa1UxbmhFbTEzdkNINFh2U0ZqZGdhZ0JqSHRTRnNsUC1odDN5eG5WSHhDdmo2M1hkekJXanNEVHFJRFJ1Q0w3QjZGdG1kXy1fZ0EzZWEyTEROMTdmWlktcURMNGNoQkdVeXpaclJoTDduVUJuLUxma0J6OUkzQkVTSEQtZXo0b2ZQVlh0djBtcV9mQXlNTmEwRlVDOF9yN0R1WVFxT3d2aVNoVFU5WWtFMVZkazNiUy1WNEQ1LUF6LXBR0gHuAUFVX3lxTE95MzFHVzI2dXZONnRpcnlHTkdBUG9vOHVGcl9nREVwSnhDNVFtdm9LZ1ZRa0VRZkNuQkJmMFJvbzB6bURJNGYtRU94MGltWURnUjZNdjZxOUF0N1ZsX2JNMVZBUnpwRmlQWkxVb19SeXZ6c2ZqaWhrTnlwN19PempKNW5BeENELW9wQ3BUWlFBN0d2M2hfdUZQOE13WkJMeFoyREdObDJON0lxNW0tVXdobEMtX043RFJ5aTZ6SWdXN2dsdGpkWVNWak5Sa3BZRnJRMGFXQUpfLUY1eEZJU0lBanBZYUhTNGdOcDJNUUE?oc=5": {
       "title": "Reino Unido anuncia orçamento com medidas de apoio para amenizar a alta dos preços da energia - Valor Econômico",
@@ -3617,7 +3583,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.630356-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUROaUgxQlJ3cFdkcUJSb1ZrRl83RTJJakF4eWswb0o2ZkpqdGNocXFLNk1mcUZkWDgwdlRGSmhxd05jQ0QyMlRhNVV2QUticmtxSmllbFN0YUo1akExcGVhZm1kV2ZUcEZwQ2UxR1NWelhHSGhuSmhLT3VJTG5xZm5OSDBYeW44TWRtaFlrMkc1TFRpVVRqaEdMNlFMckpWenN0MUdrQTV2MjZKcjA0cU5JRktuMzRUeHF4UWFrR3BHQzdsNXdSNURqdmRRd9IB3AFBVV95cUxOWHctU0RPZnh0ODJDU0JuVnM4UXJ1ZnA5NVVzYmxIejhabTBDdEQxWkItLXJUWHFPSzZOU3FvNXBTQTd4SFFQSms3SHl5THFTTVhxU2oxc19uMENwRXoyeHBSV2Jzd1V0R3U0SEMtWmtLdGR0SnpGclg2M3poNG9zQ2x5RXVQdEpneVFRb3JWb0huR0lkWGpxN09vdTdNRU50eF9mNk5Sd0tuZS05TVhYVnJWeDR1Zm5mdXNHeVdqMXFFSE4xNjNkSUNaT2dWWFZqUk1XZmhUMnltRDlS?oc=5": {
       "title": "GE Vernova supera expectativas no 3º trimestre com alta demanda por energia - Valor Econômico",
@@ -3625,7 +3591,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.630434-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB0gHiAUFVX3lxTE5BWGhiazJGVWdVU2VzcUFXYU9XTUVnckJJNktIZVdGTjhEb216ZF9WeEZucDVWV3B6VFN4VW5oMWFGczFMandxSHAzZWhhdGVXNEJMSmZqWkVGSFozRFp2cmJGLWo4d0pUc1RlYm9LQjhvRURRZVlsbDVybW5MNEZ1dFR4aU1nV0ZFbUVibXh3c0tZbTF5T1pzU2hLR29Od1o0NWVmQUFUcXh4ejVCWlNWbEE4ZWVTakpsT3NQZ3RYMVBhNWtoZGpMS2lwa1ZjanI5NEJjU3k5M1hvODJxeFlqVUE?oc=5": {
       "title": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva - Valor Econômico",
@@ -3641,7 +3607,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.630536-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlAxMk1uYXg3NFVyTWhaM0pBZTV3NVVoY2U1QjZhQVdiWEttdDBaSlFVR1h3ZEktWDZLNXJJV2Q3Z2ljanVYTm44X19OQUV4SktnRWpGdGNCSUE4OS1Wc1NaUGE5OE4xOEFlbTJwdHhqMXc1ellHT2kwLUc0MXcyM0dNcmNKUGRqNzVOanBpMmdvUUFwam04MDZkb1RNVWs?oc=5": {
       "title": "Leilão de transmissão pode girar R$ 8,9 bi - Valor Econômico",
@@ -3649,7 +3615,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.630591-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa1lwRmpEWENYOTF6OVgzZGE0X21NNFlncHpIWUZDS2E5bHVBcFVJTkMwRzFLRmdFOERsUUFKNU5CQi0tQmVYMUU4emp4RWJBWlM4VTJZeGxHYjloLVlad0ZydTc4RlJWRXlKSzdZYllzQXdpZk11V1d0TnJCTkJua2tsekRaOTdvMTdmT3plS25OX0FsYnU2R0ExZk95X2l0NzQxdHZuSXZzSFFFejlGdVBUbVZORVowSnZHRVhiRUdrX3lWUmh5eHN4dkNWRFZIbTZub19fbkVCZ9IB6AFBVV95cUxQX3hkdnQyQU1DaXh5UTdvZzZ4cHllSDRfVFhnd1U4dnF0Z3U3UVk0akNpWGlBd3BZTWd4bDRuZ01rMVpQdTFVVVNZZ1Q3aFRjZlZxN0h1T2dHWnpoX01RSl9oVG84UW1Bd3BTUHpCMzl1VTM2SG9YWHhVQWQ2YWxVUXk2eHU3OW1fUXBHa1MyWlYyRGw2TjdHbTVaUVNOWFNrX3A4M2d5a0I1cnh0RFJEcmJRbTF3eXoxUGZja1VlVFVrVThNMERhb1E4bHR3UGdsRFFrUEpvcjVyN0k2LXpuYlBuZWRKZDVN?oc=5": {
       "title": "Câmara aprova subvenção para produtores de cana que tiveram prejuízo com tarifas dos EUA - Valor Econômico",
@@ -3673,7 +3639,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.638034-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaU85cTF5QkY2Mjk1Qy1raEtXblVwdnZGeW9ncTV6NDdsQXNXLWd2V1pzNHhqNjRkMXJsU1V3R0hTOUxSeVV6NmhiSC14Yjd2SzlRdWVnVHA5MXloMWVQY0xWdVl6RGdYcHp2dWtLTGVPVFBXRENtZnprSWxsSEdzNktHR1o2VWRwaXF4bXhnUk0yLWU0OFU0d25LMW0wRG1CbjhaZmlGb2lxVE0tZDdvbXJ0c1B2Q3FzdGwzV3NXUHp6Ri1Xc2Y4YtIBzgFBVV95cUxOdF91UzZwenJFY1RqcEFacTE0ZDFuWnhjcV9zN3h6a19SS0hUaWhYZHo3MGdUZ0VGaDNoYTZwZ1FqckNCRktkcDhIejB2V252TTEwN3RYYUNuNXdnQTVYemFxSHJldTlvX25ad0dMa3hLUERwXzJXbFV1TDlBaXNrTnhCSVhhUWdNekFOUXlTODBjVXJiQ3FCVVA0ajhYTDN6VGM4RGZTVjRUbVFGcXhlTGhkVEZDQlJNTjhJaFFZX0MwcTVsRE5kV3QzanplUQ?oc=5": {
       "title": "Leilão de transmissão oferta R$ 9 bilhões em projetos e mercado prevê disputa - Estadão",
@@ -3681,7 +3647,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.644657-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxPallBUU8wR2VfNnc4ZUx3alRPQ1AyOTMybXZQWmJqcGduSGtQdE5KbGNoT1dtZWZPeXF0anc5Sjhoclc5LVRKdUZvT3BoczVWOUlWcmZ0VHRabkR4TjdjSUozRzRDUUY2N0xmUFVMczhJbXh1dHMzVEEwc2RLVEVBamtlN0c2d0RDcGo1TVNrTkxTa0tBeVZoY09WTU5FR05jWGF3UWJxZ3pKMy1E?oc=5": {
       "title": "Governo defende investimentos e regulação para eólicas offshore - Agência iNFRA",
@@ -3689,7 +3655,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.651022-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEhFTzJWelhRQWZzejYxb1EtY29McUZETjh0VVg0a29lTjVOQnBzWUlBRWVIWWxoQ3g0QjFHaHBkMWxER09wLU1SSWJVeHZ1amhNVFlxLWJTNjc4NWxRZUY5RmlROFhDRm1hRGV6NDJVMDhiRWFIU1BIeXpaQVE2TVZIeUtPSXJ2Q1BZT2trZWFpTU5TRkhHRUlmOEpRampBcXc?oc=5": {
       "title": "ANEEL aprova leilão de baterias, mas mudança em lei pode adiar certame - Agência iNFRA",
@@ -3697,7 +3663,7 @@
       "source": "",
       "added_at": "2026-10-28T13:37:06.651240-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRV9SNGo4QnRYV1dJZTdwWEwxbUFBWmJUX3ktTm5SOExHZmFmRkhhcklIQWUyTmRmTHdqdWttclRUZkVDYjI4SV82ejA4aS1ZV0JVVlBITE8xSmxjSHVYWmNnb0RLQkI1djlpaUNRUU1kZjZfVmpJWjUyR1hDbW5kOU9IMklDM0ptbzU4ZjlzVVdES0R5ekF0eXJTVTFjYlhpWVc0X20yOWlKUnlfOUNta0dPRWFMa0V6eXo1S0FXRmZacFpwVDVNUlViMA?oc=5": {
       "title": "El Niño muito forte deve persistir até início do outono de 2027, alerta Climatempo - CanalEnergia",
@@ -3705,7 +3671,7 @@
       "source": "",
       "added_at": "2026-10-28T18:20:53.515079-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFhQUFk1T0RYVkVoZUNzcnN5VUh4aUcxT0llMUprakZtbFR5SEJxY1Z5R1JCeHlRODJUT01lTHZQNXg4VkJGN01SN1pKbHZTQ05lNlVtdWxSM0JYbHYyeEZHZW54bElSYVpLSnhwQVdMMm1iRnE4T25yYVVtY1N6Z280Q2JLb0o0LU04a0tlZGZ2TEZRUFRObmpxOTJrMlEtb0dLZEF1ZjJoQ3Jqd3BuclRRSXg?oc=5": {
       "title": "Statkraft investirá cerca de R$ 2,5 bilhões em parque eólico no RS - CanalEnergia",
@@ -3713,7 +3679,7 @@
       "source": "",
       "added_at": "2026-10-28T18:20:55.364073-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG5PeklBa1NnU1VoOW91WTloVXF4X1BfMDJoWTYwSmFHMlZEa1FGZVRMQ0pVRXhfbFZSUW1jX1MzSzRUWkZpN1NYYjdLMGxuSmNHQTltYVU3VG9rTjdNSkFJU2k4TDB2dGQ2SWduc2tkQzVONHdjdGFHTS1IWlpKRG5NSEN3R3phQ3k2ZThzUEh3SmpKS0ZvNWcyLUJIZzVEeUJDMFN5cDJvZTRFM0pKcHZGbkdmalBpV2NLbWlyOA?oc=5": {
       "title": "Casa Civil deve receber decreto de eólicas offshore nas próximas semanas - CanalEnergia",
@@ -3721,7 +3687,7 @@
       "source": "",
       "added_at": "2026-10-28T18:20:57.201709-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTlIWEkwSnZMN05VUEU2YVFJNl8xa0I4UE1KUnVzdDBxVHE4d2FIVl93TFZQR2hiZUVFT00xc1IxSkVBLVl2akhXMVRIcnJPVW1XOXhmQ2laRXhQVGs0ZlFqNUROOUl2REFnbFRMUzhzblNBOHZpZXFBanRLUDNBV1ZlZlNoZm0xM25MdldmcGVtZTl4MXBnQkhnVQ?oc=5": {
       "title": "TCU define aliquota de 11,3% para a CBS em 2027 - CanalEnergia",
@@ -3729,7 +3695,7 @@
       "source": "",
       "added_at": "2026-10-28T18:20:59.062120-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkxOVjFONGFMTFhNdjZMTVctTWVHS1VSTzBfdlRaTWhUOW5xNzR4c3NnbTN5UVFWR1FUdVNlai1TR3F4OHJ5RGJuVnYzbmJZcFplYVdoUVRMQWgtVVZvamhZVWdpY1NHeVJqVW5TVU1iUmVZekV2MzhFNF92SnFoWDJ0RUdxblZLVXRZdWVxZS1sOUhVTFpwZmtiVVI3RmlBdjdPSk5Ia2wyazVXU0V0MXQ1T2h0bndoM3Y3TjZweV9LZw?oc=5": {
       "title": "AutoZone adota energia por assinatura e pode economizar R$ 1,4 milhão ao ano - CanalEnergia",
@@ -3737,7 +3703,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:00.955234-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXg4ZlA5YlYySGlsTVlqa3hEd19hcEhUZC1PeDlqSTNNbGM5VnZHVWhzYmRQMXU2a3NNV2pHM2NqY2dJUmxkcUpiUFdVQ0h3dnNEVUdfMnBNTzF5cHRDMTY4VTlhVE83MWNEdUxVV21ybDNmRlFGcDNQV3NfbXR2SWJZR1hCSVdHQXA3d3hVY0FOYUZYcFJFd0pfVXhiOElTbmprbGNZT0pxcXV4RURLbWtCMVNrcnFiZ3VnTmZOSTh2WS1WbUdSSTB4QQ?oc=5": {
       "title": "Aneel libera operação de usinas solares em SP e suspende usina termelétrica no RJ - CanalEnergia",
@@ -3745,7 +3711,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:02.800330-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXc5XzNuQ25uTXgxU0YwM09LUVhOdmc3YnlmU3N0ZXlWWWdob25uT29iSnlnd1hPbExDS0lGdlNhRzhQeW9Qc0ZDMkR2cVZBQTZKOWhzVnQ1b2hac0kyVGtCdFpEOFdFd3h2V2ZCTE1SNUZMN3ZLa284T2l4ZlhxSzdzX3k0MVFCWXJjcGdpNjZzeDI2b3N1ZTZDU0NKdDFYWUlqaE5KYnlCUXpXV21LNjQ1Umo?oc=5": {
       "title": "Reservatórios do Norte caem 0,6 p.p. e operam com 62% da capacidade - CanalEnergia",
@@ -3753,7 +3719,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:04.619033-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnRPVW5vYjdHZHFtM3YtYlJFT3hpb0wtRldnUTJrSGd4ZE9EdXhWU0JoVnhHZzNSYlhjS0ktWGZvZkwyMmZnLS1BUFNreHBOOGdrcVMxY1NlRVNsc1d5bklWdWQtNHR1U0d0M3lJVk5MZXBfZFdnazFWbWFTcGY5NGo1NGRZcmF1em9xcEpFSDVWVlhHaEQ1QWZWQ2tRd05XSmdiWHRxZTBlR2lfQk96WW9DQVkwTTZvTVp1M0lPWUF1bVFDcFdBYnJsdUk0WFRqSnhMSnpZb0laMVU0ZXg0UGtiNlZOZVB10gH3AUFVX3lxTE9zUXoxWGd3d0djS0JlQ0Z0S204NHpmT3EtMk5yVjNTVUhXeklLN1F3SUREYjYtNnZKb2MwT05rckpmbTBLWXd3SS1iRjVOUkp1ZGtxWFpvRHhMWHpjSXVRNVd3bjNoQ0E5WWs3TTI0aWxva0tXNGd0MUNnT2ZTWXd6dE9najFtUEsyT2NtRC1PSjYzTXlYTjcxUFZwWEdXZ0RBb3JUSXp4TXU3amU0MmFoODdxdG9adnhJWWpiV3Q4SEoyLUEtaDdqZ2t0TjVjWWMxaU1sNGhEYlRpMk5kTE9Kdi1ZOHNOSHJEb3Nib3VyMHpVOFpILVU?oc=5": {
       "title": "Grupo Sabará amplia produção de clorito de sódio com avanço do setor de saneamento - Valor Econômico",
@@ -3761,7 +3727,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.858699-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB?oc=5": {
       "title": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva | Empresas - Valor Econômico",
@@ -3769,7 +3735,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.859115-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVZ4LXE2d0tqLTgtVE9tLUJNczJ3U2xtb2JFV1pBZzNqcXZMc2FFeWc4TjhGdUZTemQ4RkM5RlZwWmN3MDhxRzY2blNPaF91d0NzU1pyMUFjOXcwaEtQZWVKZ3BQRmYyYkpaanFCOVRBRVNYZXg2anFkaVZmM1pSTVdmQUZiTzVqeHh3N1pfR1VjNWl2bDU5OTFqRDhIdENzYmFmZXJtWW9KQdIBrwFBVV95cUxOcHUwNnpqQmYydDZ4ZDRPZmZkUVR4MlZpWGtfcjFYN0x1Q2l4am5YV0U2b0NIRlV1VVNhQVVzYUNYcTlJM0NsemlNNl84eFgza09kbm4xZUtwSnVsZzI0Q0k5dzBieXRWRnd2OG9XZ240NUdoRFNLRGZ4OVJfeVJWbGNKTTVTTGd0YV90Tzd1LWxzXzV1UGpmR3IzM2hVdHF3Z1FDVUR3VUpOcll6NlIw?oc=5": {
       "title": "Honda prepara 15 novos híbridos após cancelar carros elétricos - Estadão",
@@ -3777,7 +3743,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.866286-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDZIazcxcWJNQnVZczU1Rmx2Ry1LQmxaemNKYXBwRjZPa25qbXJ6QlNmYUFEU3E1Z0EtQy1FenlTYVdreGZ5Q01WZHh5aEhwN3hxMFBYM0ZuU3lkNFJ6ODNYemdjTjFXMTJrcTZYYi11SlpjZjA3SU45cWZwYS13TkNOaFBPLW04RXRWSVJPbUZWamluT19XZ2FUSG1acVhNOW04RGxfOEFPS2xkUGM4cll6NWdDZThKS3N1ZXYwakNTWV9leDdnMS1nSWV1TnPSAdQBQVVfeXFMUDZzcFJNVHl0U0NPcWVkV2tWTkJMQTRualc2ejcyTFI2UHpDSGwtSlVFRzNaX2lHZ2FHNTFzVGt0azNwaEZpWFhLZnlYR004NHJzaE5vVHlZZjdtYkVwZmhPeGJaM3JwdGs3X2Z3b01XVWpOalB3ZG9IcklkNjlMYnZXRzBkN05nU2FuMWxGTzF6LWlGUnJPWWRTcUF5UDhPZnNnTXR2MjFncnJ0dzN4SW5jSzVEWENrQy1Lek5ueDloeVY1b25Sc0NwVkFjSWxoOGM0S18?oc=5": {
       "title": "Sabesp aumenta capital em R$ 125,8 milhões após concluir incorporação da Emae - Estadão",
@@ -3785,7 +3751,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.871911-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazlUSmJqMU85ZG5xSkF0cGpxMkxmS25WNm9jZ2xSNjduZ25qaEJxeWlIVVFVRk1uNTNPNlRuMi1NNFdpaGJXZ1lzOGNCMFJETjI5N3hyN1Bldk9CR0xRSVBtZmc2R1V1b1E1T3BiR2VOcmdoNVFFLUpLV0JKSkhDMHBfWG5DWDhzU2tBelpUel9YNjlL?oc=5": {
       "title": "ANEEL abre consulta sobre fim de descontos no mercado livre - Agência iNFRA",
@@ -3793,7 +3759,7 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.872313-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0FWVjh6eGRxUWJEWG1WT1BwYWpOUW05MzNYMDNzZG91LXYtNUdISnN2YlZWdHRuODN1T2VzS3M5ejFra2JZbjBPWW9rYkFfcXU2TEhqenNEMW5PNjlFQmZFMTBZWi1LUGExa3o0Y3BjRWhTM1NTc1l0Z1BDa0MwWHJYNnlvaXBzNjl5eWMzY2hjcXAxQzY5MFBvcFlDWEUwMWhLbWF3?oc=5": {
       "title": "ONS lança Rede Potências para fortalecer diversidade no setor energético - Agência iNFRA",
@@ -3801,13 +3767,53 @@
       "source": "",
       "added_at": "2026-10-28T18:21:19.872430-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3BSOW5zbUJkNkxFZnRFcUZkcHhTYUlFZGdEUTJhMHhPR0M3bW51Wk1zQW1xUEZJM0dKYkE5U09sLWdwcHUxUVBjb2RSclE4MnRENGVleEtES054THgzQnhyQjAyYldSNjQ2MlFLVzlFeEF5c3I2Wlo0NEI4bkZIS0ZkYi1tVjhpU2VCYkw4eVZHWVQzNDM2dEVsWkd2b1Y3Y0d1ZkIzLV9TT1E?oc=5": {
       "title": "Consórcio Águas do Paraná leva leilão para ampliar infraestrutura da Sanepar - Agência iNFRA",
       "summary": "Beatriz Kawai, da Agência iNFRA Sem concorrência, o consórcio Águas do Paraná venceu, nesta quarta-feira (28), leilão para implantar o Sainp (Sistema de Abastecimento Integrado do Norte do Paraná) no estado do Paraná, ao propor valor mensal de locação de R$ 9,03 milhões – equivalente a um deságio de 3% sobre a contraprestação mensal, de R$ 9,3 milhões. O certame foi realizado na B3, em São Paulo.",
       "source": "",
       "added_at": "2026-10-28T18:21:19.872539-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVZqekxCN0ZBTm5VcGk0R1Awa3dfYTBNeVh2R2dmMlZmQnc4MFNHbGRlY2xiQzhTZDJjM0FPVXJORjZ3VDV3Y0lhSEdUT2JUUnIxRnF0TGREY3BhQWF3ckt2cmdQZlBTTFFiVF9WVXp1RF9FRVhiTlo2X29qMU5MejU0YWVnM0tZdW5YMUo0eUlDN21RSk0xN2hzUFhBYVJ3VGIzMDRTUTZpZXVMVlduNVZhMEE?oc=5": {
+      "title": "Aneel aprova regras sobre migração de consumidores e Open Energy - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-28T22:13:41.905375-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFdsOUNiRjVhcEhVUjczWnMxZ0FEV0k4bDF6RnJfQWpKeE9mejlzSXBiY3VTQnJ2dkRJSFlkZUQ3a0xvUm1FN3BkdS1MaDd6bDM0ZmJpSVhXbjlCNzd0ei1CdGQwOXlLSkhTZjRUVE0wd0F1bHh3Q1RORTBjcTI2ZjFHN25VVUN2Y3VRME1ldFQ0UWd1TXFzN2VtSVcteTI0WUh6cA?oc=5": {
+      "title": "Aneel confirma orçamento de R$ 52,7 bilhões para a CDE - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-10-28T22:13:43.739415-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVEdDeGIwZ1JBakY2MV9qWnlVTzBwUEVmbUtGU0xaa0dvZEh6YWVpakI3blpWWUItUGRYRVM1NEFWdXM4ZEFCcmJLOEJpdjZ1eVR5aFpLUjd4MDFRaVQyb3I5a3JiTmwtRE80MDdBbFoxbWhVbjh5VlF1VkJhX201bU8zYlZucTBhQnBPcmhNZ0RWcUtHWHZCQkhSNjBRT2MyNERTOGtsdlQ0NHJkXzFieVRudjhyb2k3VGNHOXhmYWRRLWdIYVJ1SEdXTlI4NEtF?oc=5": {
+      "title": "Senado aprova reajuste em adicional de fronteira sem indicar como governo vai pagar - Folha de S.Paulo",
+      "summary": "O Senado aprovou nesta quarta-feira (28) o reajuste no valor do chamado adicional de fronteira e ampliou as carreiras públicas que podem receber o valor. Dos atuais R$ 91, ele será reajustado para R$ 191 por dia a partir de 2027.",
+      "source": "",
+      "added_at": "2026-10-28T22:14:07.834996-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOWHVJX3lLdXNzZW5DZkMzeEVRcUo4VGN1bVpVU3NRak9sV1FtNVZRNGR0elV6Qk9MRzd1X1JoZDhxTXpKUTVtRWFieWwwNmZNUnpLeXBKdGVmenhra1JjaUhEeUROUGN1dE51ZGJBZ1JtR2JGNVJyYnUtMEpyRThCVWZabEItRTlyX0VNUXJOZXlid0RVOWladFBqRW9NdXdJajlubm5FVTF4c1U0NmFmZG1zV2F6ek5MaTBrbV9HdnAtZnZqMWVPMjkzTkJKTTRBVEtCVXBEdDdmVkhaM2RNSVNFRzFNckJ3UzI5ckFQazVxZ0JxR3BYMS1lSjd0WXMzaDd4MUcwZXlHLURuY2tydkFwX3NuZkk4NWRqUkk0THdfYndOZmM0ZXZKTXNkSk91RDNlaVREYUV2N2lVa0lWOEJ4NzNGT1c2T3F4UEZjLXR3LVZBSzJ4am9pNjU?oc=5": {
+      "title": "17062 – Faculdade Metropolitana – Faculdade Metropolitana – Privada – Metropolitana – Porto Velho – RO – Engenharia Elétrica – Engenharia Elétrica – Bacharelado – Sem notas – 5 anos – Presencial - Estadão",
+      "summary": "Diploma + emprego: qual é a conta? Taxas de empregabilidade ajudam na escolha da faculdade, mas é preciso conhecer os critérios usados pelas instituições para calcular os índices 14 de outubro de 2026 Os anos de graduação são uma oportunidade para construir uma rede de relacionamentos que pode abrir portas no mercado de trabalho Universidades atualizam currículos enquanto jovens tentam projetar…",
+      "source": "",
+      "added_at": "2026-10-28T22:14:07.835314-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUFaQzNtOU9GbllmNlZMSER0eC1DOVF3TWRETzZJSWI0d2lSWlA1RzQ3bFBvbmdaOWhjZUxYUHp4M3ZJWlBWZTVVN1RRM0NsTDUzSmlYaE1ydWQ5M2dkZkJ6Vjg3b3lURHFibVY5M3RCSHp6VXBEbFNrT1F2Tm83T2lrVEwtR2VSVDlMQQ?oc=5": {
+      "title": "Neoenergia vende fatia na UHE Dardanelos por R$ 93,5 mi - Agência iNFRA",
+      "summary": "da Agência iNFRA A Neoenergia assinou, nesta quarta-feira (28), contrato com a Dardanelos Itaú Asset, empresa detida por fundos geridos pela Itaú Asset Management, para vender sua participação de 25% na Brasil Hidro Participações por R$ 93,5 milhões. O acordo também prevê a quitação de um empréstimo de R$ 265,8 milhões concedido pela Elektro Renováveis, subsidiária da Neoenergia, à Brasil Hidro.",
+      "source": "",
+      "added_at": "2026-10-28T22:14:07.841493-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
