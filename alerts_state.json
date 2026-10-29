@@ -2688,6 +2688,7 @@
       "partic_cp_038_2026",
       "partic_cp_039_2026",
       "partic_cp_040_2026",
+      "partic_cp_041_2026",
       "partic_ts_030_2026",
       "partic_ts_040_2026",
       "partic_ts_041_2026",
@@ -2718,7 +2719,9 @@
       "partic_ts_041_2026": "20/11/2026",
       "partic_cp_039_2026": "30/10/2026",
       "partic_ts_040_2026": "04/12/2026",
-      "partic_ts_042_2026": "03/11/2026"
+      "partic_ts_042_2026": "03/11/2026",
+      "partic_cp_040_2026": "14/12/2026",
+      "partic_cp_041_2026": "27/11/2026"
     },
     "prazos_listagem": {
       "partic_ts_039_2026": "30/10/2026",
@@ -2836,7 +2839,9 @@
     "extrato-de-contrato-n-36/2026-uasg-323028-740327189",
     "aviso-de-audiencia-publica-n-8/2026-740990388",
     "aviso-de-prorrogacao-da-consulta-publica-n-34/2026-740998215",
-    "aviso-de-licitacao-741045198"
+    "aviso-de-licitacao-741045198",
+    "aviso-de-consulta-publica-n-40/2026-741096371",
+    "aviso-de-consulta-publica-n-41/2026-741088959"
   ],
   "sei_parado": "2026-10-28",
   "saude": {},
@@ -2847,7 +2852,9 @@
     "partic_ts_041_2026": "Obter subsídios e informações adicionais acerca da proposta do Orçamento Anual da Conta de Desenvolvimento Energético - CDE de 2027, do Encargo de Complemento de Recursos, dos respectivos Fatores ECR e do rateio das quotas anuais da CDE",
     "partic_cp_038_2026": "obter subsídios para verificar os impactos da Reforma Tributária definida pela Emenda Constitucional nº 132/2023, e materializada pela Lei Complementar nº 214/2025, nas Bases de Remuneração das concessionárias de serviço público de energia elétrica",
     "partic_ts_042_2026": "Obter subsídios acerca das alterações em decorrência da reforma tributária definida pela Emenda Constitucional nº 132, de 20 de dezembro de 2023, e materializada pela Lei Complementar nº 214, de 16 de janeiro de 2025, no Plano de Contas regulatório estabelecido no Manual de Contabilidade do Setor El",
-    "partic_cp_034_2026": "obter subsídios para o aprimoramento da proposta de alteração dos Procedimentos de Rede associada à revisão da classificação das modalidades de operação de usinas conectadas ao sistema, contemplando os Submódulos 1.2, 2.1, 2.4, 2.12, 2.14, 2.15, 3.1, 3.4, 3.5, 3.9, 3.10, 4.1, 4.2, 4.4, 4.5, 6.1, 6.9"
+    "partic_cp_034_2026": "obter subsídios para o aprimoramento da proposta de alteração dos Procedimentos de Rede associada à revisão da classificação das modalidades de operação de usinas conectadas ao sistema, contemplando os Submódulos 1.2, 2.1, 2.4, 2.12, 2.14, 2.15, 3.1, 3.4, 3.5, 3.9, 3.10, 4.1, 4.2, 4.4, 4.5, 6.1, 6.9",
+    "partic_cp_040_2026": "obter subsídios e informações com vistas à regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025",
+    "partic_cp_041_2026": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL"
   },
   "sei_pauta": {
     "21/2026 - RPO|48500032821202567|Prorrogação do prazo de pedido de vista referente ao Recurso": "resultado",
