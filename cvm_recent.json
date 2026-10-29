@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-10-28T22:20:18.153534-03:00",
+  "last_updated": "2026-10-29T04:17:20.618723-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Assunção, pela Companhia, de determinadas obrigações de aporte de capital na Águas do Rio Investimentos S.A.Ata",
+      "data_referencia": "20261028 28/10/2026 17:30",
+      "data_entrega": "20261028 28/10/2026 22:59",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Assunção, pela Companhia, de determinadas obrigações de aporte de capital na Águas do Rio Investimentos S.A.",
+      "protocolo": "1581361",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1581361",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-10-29T07:17:20.318434"
+    },
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Outorga de Procurações pela Companhia.Ata",
+      "data_referencia": "20261028 28/10/2026 17:00",
+      "data_entrega": "20261028 28/10/2026 22:54",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Outorga de Procurações pela Companhia.",
+      "protocolo": "1581360",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1581360",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-10-29T07:17:20.318422"
+    },
     {
       "cnpj_short": "01862-7",
       "empresa_nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
@@ -4302,24 +4338,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-09-29T16:00:35.918012"
-    },
-    {
-      "cnpj_short": "01944-5",
-      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Nova Composição do Conselho de Administração e da Diretoria Executiva -",
-      "data_referencia": "20260928 28/09/2026",
-      "data_entrega": "20260928 28/09/2026 21:47",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Nova Composição do Conselho de Administração e da Diretoria Executiva",
-      "protocolo": "1572255",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1572255",
-      "empresa_label": "Copasa",
-      "codigo_cvm": "19445",
-      "first_seen": "2026-09-29T02:57:17.035218"
     }
   ]
 }
