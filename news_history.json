@@ -1,26 +1,6 @@
 {
-  "last_updated": "2026-10-30T22:02:55.264742-03:00",
+  "last_updated": "2026-10-31T03:57:20.960392-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcXBfaXM2T3liOUVHLXI5YzBucHRzb0cwMm1Td2tHSzNLU3g3YVdrVU1pTjBGcFZQWkZUd1hmY25vckJrc2NkcU9xcHJNckdIQVNqajdkc1JwVlpqMFpteFV5S3lHNFRsUWlNb043TERONVEtNExFT2E4VWVWMVNkVnlyMHkyUWJ2UjdwS0hqMnVtdlFlS0d1eTZQMGF3X3pnWGlFWV9mWl9aU29aeUc4UTlqWThuOGRjUDM5bUo4Z2ZXNVQ5Tnl6amNEU25QUUZYTHhJVlMwclpnQmNqZlNtVkpB?oc=5": {
-      "title": "Agro mira ministérios do Meio Ambiente e de Minas e Energia em eventual governo Flávio Bolsonaro - Folha de S.Paulo",
-      "summary": "Apesar de a campanha presidencial seguir nas ruas, numa acirrada disputa por votos na reta final do segundo turno, representantes de diferentes segmentos políticos e econômicos se mobilizam para emplacar indicados em um eventual governo de Flávio Bolsonaro (PL), tanto no Executivo quanto no Legislativo. Um dos mais ativos é o agronegócio.",
-      "source": "",
-      "added_at": "2026-10-17T01:58:26.536505-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWJSOHdiNGRjZ19Ba1NYbFN3LXRvdDNmSjk2RlJhQmNBUU9YaXByMlRhNGo2TUExMjk4Qi1JMHQ5MFVKVm13N2F6TUgyNUpkUW92aHFOS2JPQm96bTFhYlMtaVFJdEo3THRkQ2d0WTBTWHh6TUltWTZpMjlUbXY1dmRmSzN5eERsRElUWldGYTYxZGpr?oc=5": {
-      "title": "ONS, CCEE e EPE lançam modelo aberto para formação de preços - Agência iNFRA",
-      "summary": "O **ONS**, **CCEE** e **EPE** lançaram um modelo computacional de código aberto que poderá substituir o Newave e o Decomp na formação de preços do setor elétrico a partir de **janeiro de 2028**. A ferramenta, publicada no GitHub, passará por testes e validação, com possibilidade de adiamento para **janeiro de 2029**.",
-      "source": "",
-      "added_at": "2026-10-17T01:58:36.087952-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tUWZ2c1pPWFBJaUlJTWExZ3FiejJ1cEZEMFBmbm5QVS1yd3RaZ0VROTY3ZHVQcXo4T1BzUl92eG9LRjdlOTFRTEdJTTJ4SHNTWVpydTRn?oc=5": {
-      "title": "Tag frequência - MegaWhat",
-      "summary": "O **ONS** propôs à **Aneel** que novas usinas de geração de energia precisem garantir a entrega de potência nos horários de pico. A proposta visa subsidiar a regulamentação de requisitos para que empreendimentos comprovem essa capacidade, possivelmente com o uso de baterias.",
-      "source": "",
-      "added_at": "2026-10-17T01:58:36.087998-03:00"
-    },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rWVBqN044cnMzWDBVNTlJVkJhSUEzTTJqV3hpRW5sUGtNRzd5ZDExZkRYTmctVnkxOTR5MFByTC1OamtzelBhb3FOZDJBWTNBN0xUZlF1TmhPeVQxSDlzakNTRQ?oc=5": {
       "title": "Tag Regulação energética - MegaWhat",
       "summary": null,
@@ -3635,7 +3615,7 @@
       "source": "",
       "added_at": "2026-10-30T13:41:18.900943-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGwzMTFxb2cwcnczR3c1RmpXcUcwUU80cUtLQnZMRkdTN2VOLWVQbEdoeFVyMkhrRDdVcGRoZG84ZkhoQU1wdi1iNFVEVzdxRHZVWENoVktwWE13NFczR05PZVZQV3BnbXVLR1duVzFscS1pZS1EU2doeGhqeVlXQ2R0NHJLQjlUNE53MUxCTXNGeDE1QnV3N2hQdFl6RUNHRXVMOW9SRQ?oc=5": {
       "title": "Leilão de transmissão termina com deságio médio de 50,1% - CanalEnergia",
@@ -3643,7 +3623,7 @@
       "source": "",
       "added_at": "2026-10-30T13:41:20.512529-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2swMlpVS19QM01nOS10MEhWdG51WFkycWdGM3RLb0xXYzNNUUFSblVWVzgyd0N3ZkFBUU05MnhDM1ZpODByeUpnbHpxbXI0cnZ3YkJsTkl2RHU5d1E0Q01rXzFfMml0ekUtdVM0akpPQlV1YWtFT0ttQVJiZndGZnRQdFhwZUViclBSX2d5WHpCaEFVX1VWMFpPZzU?oc=5": {
       "title": "EDP arremata o lote 2 no leilão de transmissão - CanalEnergia",
@@ -3651,7 +3631,7 @@
       "source": "",
       "added_at": "2026-10-30T13:41:22.140783-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2hvcVMtR25nZmlIb1Q1bGVUd1RDenBfbk5sUFVvaDNwbjlzTWp2NEVJWGVCQnV2cWsyVk02UlRRZVV0NjRFM0RQX1dXRjB3SHk0dnpHMjUzejVQY091ZWVSZjRkb1Y4SzN1ajhyZV9fMkZfNEw2R0dINDlFVHh3cWFHdWEzZjAxeXl3STk0R3Q5MGVELWFmTmlGUkZlQWRnZ1NfbVRRbzI?oc=5": {
       "title": "Leilão de LT: Lote 8 fica com a Celeo Redes após 48,02% de deságio - CanalEnergia",
@@ -3659,7 +3639,7 @@
       "source": "",
       "added_at": "2026-10-30T13:41:23.793042-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSU8wQjREQWMzbEQ0V2hTc3BJcXdvMHRRQzRfdUtVM3laaUh1V0JxcW5zQWdBSFViNzNva2hJbkxDTEpUQ2xLTFprdUJ1R0xIZDhJTFdoeWcwc2w3UC04VVhkeWRjYk9EZUlVMGFmV05EbVUzdUw5MGt2XzZMUEVpY3BMTjFvdTh2VW9VckVHMldjMjI2bTJkQW03c0NqY2Uy?oc=5": {
       "title": "Leilão de Transmissão: Neoenergia arremata o Lote 7 - CanalEnergia",
@@ -3667,7 +3647,7 @@
       "source": "",
       "added_at": "2026-10-30T13:41:25.425988-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1NBdFh1emFZUjlzMElpYkpGUFNxN3JPck1LckUtN0trY3NMa3V3dUpLY29UWDVoRmd4c0syX21fcFBBX0JGdWlNVEhrcnk2UUxWdFlsc0d2dVZnY2V4eVU2eklfb1ZOS2dPRDQtUEUwN3VsMU45ejdKYjkwSlJFbFFKQUJxZHdHbkE?oc=5": {
       "title": "Leilão de LT: Cox Brasil arremata lote 6 - CanalEnergia",
@@ -3803,7 +3783,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:48.508827-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUFDZ0d5Vkx3a1RmTV96UVl3WWwtSkltUzNJREtGalM0cGdiYmNzSW9MRVh3cDE1YV9vUm5ZNkVZdFI2X1RrbWhETHF0WGp0LXZSWEl6ZmpLY0dVWE1EVFdvRnJGckdEQ2c4Nnh1MElYR0tqUGo3elNoblR2SzN4SnBiVzVtMC1iMzBWTG93Q1c0UzlaOVN4clJZVC1aaEhteXAxdVNhRHBUQXIwWGY5WnQ0SnZBQXVDeTYtd0ZkeTV5ZTZVamZHc3VMS3ZVMUJmQldV?oc=5": {
       "title": "Setor eólico brasileiro mostra sinais de recuperação em meio aos desafios persistentes - CanalEnergia",
@@ -3811,7 +3791,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:50.351381-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1duejBDYTNOLTktVk9qZkk5bmwxV2ZWaFRodjltVExaRm13LW5vRkFoazVSTF9CUnItMXNiRzREd2dPekpFamJzQnFHbkhGazEtRE9QeW42alltaUZ1b05ad3hkMEd6cmpiM0RLV2d4TTZwdlNUdDd5WHcwRFFwQ00zUWJWLWtGQTZBd3E0aDdSS1Mxb2hfSTdEaVRBTGdwMjhFZEJHa2pGYW9OYTNiVk0wR0hERkdubGZUdjhsRkVMQzFrSGFBTQ?oc=5": {
       "title": "ONS: próxima temporada da Pnast terá rotas para vencedores de leilões de energia - CanalEnergia",
@@ -3819,7 +3799,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:52.198339-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFVoakVKZ1AxdmVNQ3lsRk1XRklua0hjSVlFal82WGtXSGNiRFh5X0JHbXNCQXZ1cTJaSU9LVm1XeXZkeW01a0dhMzNyTEVzM2VuVDJ0ZUJQYWhwVEc4S1lxbmp5SmxZdm41T1VxTjVOQzdHaHBfMU5QNUhVNWVQVXF1VVhFb0d3aFQzRWdfalN4MzQ?oc=5": {
       "title": "Axia prevê resgate de ações de R$ 2,97 bi - CanalEnergia",
@@ -3827,7 +3807,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:54.069630-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUHFqSDJhWVhBXzc3bVBFMjJpNDFhemJrNjh0NFFHLVBzNW5EcFN1MUx3bnJRbTZWNHVRU0FCZ2NBN1NMcUNmbTlqWEtRejNCaU5UZUw4RDJGYk1MckZ0R0RnMzBHMnhLQW9pZ3p6N1dqSEdFNUplc1dMRklJTHlrWVZkSThEblFXY19LbnZid2tDQQ?oc=5": {
       "title": "Região Sul conta com 79,8% da capacidade - CanalEnergia",
@@ -3835,7 +3815,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:55.880500-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHFteEF4NlVPdkdRSFIxMGZsd0J4WjBCMlk0T3hUTGhieHdpbXgxS0plNHkySmZrbE1SWm1GN0VtcS1HOVl4dUFSdnR0Z2p2Y0tWTzkxNlRNX1dJYW1PaHZVRlBLUjlyblJwTlFOS09kenE5a2dob3dNc2JTa2FIWjVnMEZ4bkhEc0lLcDJvTkhuYWlGdzJ2bFAyUWpCcFBWbllFR0g0aXVCdXhzYWwxb1plNA?oc=5": {
       "title": "Neoenergia sai com dois lotes do leilão e reforça foco em redes - CanalEnergia",
@@ -3843,7 +3823,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:57.660814-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG9xV01tQnJlRjBoUll2Mzk0TjA5Tk5zemx5RGxuUTJwRGM1Ql9tSFYxZzRxcGd5YkhLOEpZSkE1QVdxMG0zYTdzM0p1N3VrYndWWnlKdlFrZnJhY1dZR3hXLWlvWkhnd2RoU1p2LVRyUUl2VDBvaThxNlZJLVpOM3lKZlhkcWZGNFNpMlhQVHZEWE44RmNnQ2lHWmJFWEtXSWxQc0FQR2lHTFdBZG01RkFEb2RQWTg?oc=5": {
       "title": "Acordo vai definir votação da proposta que altera encargo do LRCAP - CanalEnergia",
@@ -3851,7 +3831,7 @@
       "source": "",
       "added_at": "2026-10-30T18:28:59.515343-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnJzRmdmZk5vVnN4clV5RnFtUzZvb0N0SDU0c2kzNHpISDJ4T3E5b0tGX3I0Sll4V2oyOG1zTlp3czJoeVQ2ZmVNcDNtOFBMT2M5TkZfRjZBYXNsTXhYRVhuTzNYa19KOE1HVzNfanIybmFFc2YwbjhqbC0wNVphdFBZaUNpc3I2b1ppUVREWnJqdHpfSUM1SlI5OTdJRzVnUUhaUVh3NlFra19yemtDRmllYV9uQXhLX1E?oc=5": {
       "title": "Aneel projeta mais de R$ 50 bilhões em leilões de transmissão em 2027 - CanalEnergia",
@@ -3859,7 +3839,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:01.360882-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaUxiVnRHUXowX29HWVdnOWRCZHpLaTJDUk1vRG9XZkNWNmFpNjloenJpN1pRYTBCWlB6Um0yNG5naElZSnZEZHNmN1NzUGVDYldwWWNWYU53d21FaURaMFJ1ZEJCclZ5cEpYdnd2NGdvY1dKRWFDcEZIbXdkZ0ZKSWwySWYxRW1Qa0FxMVpaUmlWTnUwNE1CUW5FQVhNODk2X0hETFNiT0V5LXpzMGM1ejlkT01nektzUzhWdjdSUjRHeTZyNGlUdHhvVy1qSTIzQ0lXX1Y2bENjMFlUMzA0c9IB7wFBVV95cUxQQmQ2ZlpyaVRPZGlzT01PZWJZRC1tb2hTeTlQZWZ4MjBOWjZkbGZGNUcyN2p1dDBmVVl6N0h1WE1PckVXeTBnLXkxSDhERXlmRmVWc0dpQUI1UjBGc1kwdGRFd1FpeGZYUXVOMWlXRkk3eFRUNVB6bHg0cTJGbXQxTWVIV18xc3VCWm1HQ2RSWEc0Mm45QnRfZ0U2cVhJdDNzVEdhTm12ckJ5SVNQVzMyNnJ1QjE5SFVPNmdEM0tTc1hLdFJiczNBdzgxUEwtR3pFRzVIUkxOUkxMYXVoQnBhY3J6N0M0S2FXbDRjNFZ6NA?oc=5": {
       "title": "Neoenergia tem crescido rápido em transmissão e negócio é estratégico, diz CEO após leilão - Valor Econômico",
@@ -3867,7 +3847,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.277378-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzB6Tk4yNjE2SGx1UlN1OTJicjFuelJYa3ZhbUFlWTY4Mm0tMkRJREVOeHFENVVCS2ZDUGN4SlpLU2p1cXh4c2ZyYWNGOHRZVXoyRXVmUlBObHFSWk1pYnZvcXlaSUJyS2JUUDk0Z0w2WWNpbEUxNUpxZU14UFdLUzd3bVg1bzBxZEJBMHFIVkpCd0JDSDdtRDdRRE5xdUxrNkhZelAySG1RM0JNLVl2eWtaa2lsZEhzVFJUZGE5LUJVRFNSc2c5aUdNVXE5ZE9Z0gHfAUFVX3lxTE90TFdidkFueHZJX21VTERFbC1LdC13blBTMzZnakRYWldMeU91M1lSR3lZT1BHQzRWaFEtckZKTnBiaDJjNXZNMldhYlhNNnIxQkh6cDVOQzQ5S3VmTW9WSWpMVVRYZFV3bXdOTDQtVnY0cFRwWUQ3dndEamJPNlQzRzh3bm51YlIyQlRIWktfcjVCUmRqaGZRTi1vUVcxRUUwSnFmRHgyT0lDc2w3Q3FDR3Z5WWd4WlphQ0tramVmV1RGT0Q4WFpSM2ZLRFpVODFPV1dPNVE3REpUSmtMMlk?oc=5": {
       "title": "Mondelez espera acelerar vendas de chocolate no Brasil após ciclo de reajustes - Valor Econômico",
@@ -3875,7 +3855,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.277720-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGRnbVVZYU95Rk43NGNvaWozLVIxeDAxaUtVa3Q4OFd5X1ZHMk44S2twU2c5RTV2emJUQTBRREhVRnlybDZaZEVPSThlOXJSemRuXzg1ZzR5QUlva01ETUZzMlVpdGRzNFJvNEdsRjBHNzZGRWtmc3ltd3VWS2oxUmkwNm5EVTN3UkxZa3lWaUdFWHU0RHA5U2tTU240TTVlRnZjd0FpR2s1azAyek1fR0JWM1BHaTljZ0NjUnNPa2xsbUhtN0V5SVZKdljSAdsBQVVfeXFMT2hPR05PYVk3ZmVXc2NfOWVjUXdpZE9WSVpjVEtNZ2lsa2hCdHNQNUZqX0REVXczYlpzV2RQdUpMcHJYNExjb3dWSTJVNHRMWWVBVmcxYWNMNENnNmxqci13WXJ3Q0xXbkdORDU3NU93REU1bkJFMnRLT1otdFppZ3NXZVJnR0dSYlN5ZVFHbXRDM09vV2gzWDNSUHh6S2JXYUFvckx6ekdVckY3MlhacHpmbTMwYzRWbUl6UWlwVjVVVmlmS3BlZmRlTUFTR0tlVGVvQkUyRkI0YlBn?oc=5": {
       "title": "Lote arrematado ficou dentro da nossa expectativa de rentabilidade, diz EDP - Valor Econômico",
@@ -3883,7 +3863,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.277837-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWGoyWnZxT3FFZHVOeUM0ZXVXUmtvV0FYQlRfSVR3Q0xHN2VPYmk5THFBOC1FeElvalJ1ZXE1X3k1d0p5YWgxbHN5TEEyNGpFMDlSSVN5aDhNd3pneS1wMHlUUTA2S3NmUUFUMHBoWm5SQzJqZGJHLWtWbTJXOVBJZVZfbE04bFlYZDVhMk8tbFdPN0dxVkRMVHRfUmNMTVluTEVtTDVKNDFDY0lTRENFNlZHWXVxNEVmYzFUVFJlUzhwdjlVU3RxMTlUbzBGelVhUzR6ZXZZb2hLRi04aVktTjRDaGktVXlobUpfcXRqLUtwUdIBgAJBVV95cUxOOU1oYlRhTkJKbGF2MHMxTjVqYVpFYTIxdHpCVkh4bTRtWkIxd0VZZGRCZ0R1dXllOENwVTJweWc3VXNpYXpMWUh2Q01RbUZsemNEVnNiU3JMS1lBVHZsMHg1RXduaHZhOVRkalNNbGJaSGpmVC00TU83dEduTGloTjYxMzJNZDFQUFVWX3ZGQW8tYkdwYklGUUViVEdUeDRUS2d0NWEwRzhVLWZwZDRNQU9EMEJvdmIzUndfbHZ4MXM2QUhubUNhcWVDdFdTcFNiM0tmZWtqdXFZX2pXZjgxQlZxTjRNTXRPZE1FSGlsREdYR003RDhIZ185TmZoSVB0?oc=5": {
       "title": "Para 2027, estão previstos 3 licitações de transmissão de energia, com R$ 50 bi de investimento, diz Aneel - Valor Econômico",
@@ -3891,7 +3871,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.277963-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNalhTSEhGd0FtRldZQWxKY0tPODJGeEFCNEFkMExqZFpJWkVKeTNfVTNCQXVQQ3psdzhXemdTZWZ0VGttQ2ZRR21YXzYwZU1UendWS3czYWowNHR6XzBiNWpLdms5akdJMEQ2R0pwZnZoMkh5SUJkblVMV1Vta0Q0dURER0l1MHlkZjZEdHhGbmhFdnJMdGZ3cHRuMlpjanRBUkZxS2pRajFDVXFuYjBna0o4ZGVjRzhTWUxUWFQtanlVVWVyMW9ySmVZdzlmQUwt?oc=5": {
       "title": "Espanholas dominam leilão de projetos de transmissão de energia no Brasil - UOL",
@@ -3899,7 +3879,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.285363-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHR4QnJrdzFMbFl2T1RzMXpWb1hKbDdFQWdnbkxERUNkc3lEUzZSaWlpVUV0S01OUTh5Nk9USk1HcXdtUmh6VUEwdnlBa1RpalVFVkNXZkp0bXJ0WkV6SGVBQTJ2R1lIV3Z2TGRiVGdVdnZXVkZoRy1neGRXTDA5V1h3VlRKUHlmNjN6UnF6S002blJSWFE0cGdIX2U3RllvTUg1ZlZPMzlTWDIzZVHSAbMBQVVfeXFMTTdsUzc2Q29xeDBjNkVzTmtXYXgwc3ZjMi1XSGF6blExbmRhX2Qza1JmRncyVlVLTGdwQ0dpNzBBNGFfeVo5RWhjTFFZbmFLcjNKa05TRlJFSGUtc0M3bWFpaTF4V2dCbnM5dExyTVFfOTJWTjc5Z1gwRVdXbm53MDQ5VGJ1a0xTNTZ0ei13bWpuMmhlRjI1dXFhU1NlU0VXVTk2WVFhbHlja3ZLMUlRaDRRSkk?oc=5": {
       "title": "Bandeira tarifária em novembro segue verde, sem adicional na conta de luz - Estadão",
@@ -3907,7 +3887,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.291109-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMijgJBVV95cUxONXZBdHlURktWdGo5MUVCYUNZREM3S09abjVPeWpKTm1uRk9JVFhSSFBtYUNRZjMydHRTM2dnSDJXZGlybXFzMmlQVVc2UzY4cFJoSTg5OEV4Q01sNUVod2hhY1BGaTdpalVSYW9pbHNXMWY1bWhGejJUVVV5aktmeGt5OC15M0JjLURaYWRaMDZDSENwZC02TjdZMGFBX3JlOGplaWRTcEVwcWxtbmN0clJBb2pXd2dULVdLeG02elUyQ2t6aGJfUjNpRkJVcTBpdUZFWkFHWS03eHRPY3A2VXJzaDVjMGFMUkRqMUhlMThrZG10N19VUWswbVJEVlo1SlZHTWJLY3FTT1NhZHc?oc=5": {
       "title": "A Falcon Capital adquire uma participação estratégica na Pont Capital, uma das principais investidoras em energia. - Estadão Blue Studio",
@@ -3915,7 +3895,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.291246-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX21pbFY4UVAyd2Fqb2tEaFE4NVVSN0NQS3BKN09pZldJcWNwMUJiQzBOVXVLbm94VVBVc0VRMW1jNVBlMjF4dXlhelV1eDNWbU41UXhRX3gwYlFDUlB5cUVRVGI0bHZ0bmloU2ZwUGhvcGVOa0lsZ054YTVaZzhuY1drN29GbFpUMTV5R21XRm92WFRvZFdkWA?oc=5": {
       "title": "ANEEL mantém bandeira verde em novembro, sem cobrança adicional - Agência iNFRA",
@@ -3923,7 +3903,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.291638-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3Q5UE1OSGNQamZuRVctZHlzcnFVcEZNOHhKWmk2V1d6eWNaSGRtQ0lrZHZwMWVPMlFFR3FaZzdFNHRRZklpWWw1OUtjVGJrSkZ6NDkxaGRNNFdEOGszYWEwOWo3T1pGVURfWXhpN1IzZ0xhUEprN2tOd0dMVWZYeDlUUkVsZ3VHbHFwaXNqSk9VdVEtRUxvQ2pB?oc=5": {
       "title": "TCU fiscaliza implementação do Marco Legal do Saneamento Básico - Agência iNFRA",
@@ -3931,7 +3911,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.291784-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTElQTUpnTzUyOEtVUU1wVnVlYjNFOXB4eE9sUEkxTUVhTDdmMjhVdGRqVHpDR3BSbTZidktOUmdrRUxUX3loSkRIeUNQT2hWSGhBWFh2M3NUcWx4eVlKQURQRVNMRDY0b3RfZzh1ZjJjNC1ScTNEcGpMVTJhUDc5dWJSTmo5cmRyMzVYZHM1NmpMZll1VFJnbUE5TW4wOVlYQ2s0U08wMWM?oc=5": {
       "title": "Revolusolar e TotalEnergies lançam plataforma de empregos em energia solar - Agência iNFRA",
@@ -3939,7 +3919,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.297639-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2NoSFo0QnN2UHRqaXZwVlZBbEQzLWhSQW1CU2N1SmtyaTJkZjVSV2JxMGYtT1lfUHk3WW9tbGpfZl80aGswVndoMVlUU2hZQTB2SW00eHJuNjFXZmVZTWVLS0VDc3llQlJYXzI3WHJScU5oMnZJQV8wVC1iY0lVbTVaRnZkWV93dW9XT3gxcnZNemZEUUhKQWtpLVU?oc=5": {
       "title": "Enel Rio aguarda decisão do governo a 40 dias do fim da concessão - Agência iNFRA",
@@ -3947,7 +3927,7 @@
       "source": "",
       "added_at": "2026-10-30T18:29:14.297954-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXgxemN2WEd5UmxlUmloN0FydHdzTVhWaW93Z09CSW8wMUszNVk0Z05IQjdqMEIwMkNnNVJ5VzlBZzRTYkpabEQyQ00zeXNTSndCOEI1eDdoQXFtQnVFa2JZVE9mQTRrQUczbV9SMjc1NEY4Q2E2bVc4YmJsM1ZLYkxpaU9xN3RnZ0NB?oc=5": {
       "title": "Bandeira de novembro será verde - CanalEnergia",
@@ -3955,7 +3935,7 @@
       "source": "",
       "added_at": "2026-10-30T22:02:30.056366-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2k0VnJtTXdCbGxreXROLWUtd2lnRXNZNWlWSkpWcnNRNWhvM3VjX1JrUnVXYWVjNGZHSlJpcTZUYWlpdlpPd2hSSjd1UV81ZXhTbVdCSHUzR05hNG53cHY2MS13ckJKVG9WTzNLVEE2Szk4SHpVUE9fa0IycXVJaXVrZy1Gc05fUms4eUgwd3MweDVHR1JUWmxBbTBpbXc?oc=5": {
       "title": "El Niño deve ir até outono de 2027, avalia Nottus - CanalEnergia",
@@ -3963,7 +3943,7 @@
       "source": "",
       "added_at": "2026-10-30T22:02:31.877539-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdHhGOEJhTnl5Nmh1Zl9EeU03WW1ubGY0bFdKaFptSWR3eWIxZGx1MGZ6UW53XzJPUWdoTWpsc0VyVGZ0WXo5bW9FUmRodkIzQ3pOMmtNdXhrMk00M2V1SERZOXVBUDhHRDg0SjJZYklyWWdhemRPd2lsWlVJMW5SZW5VLXpmRzBCRnYzRDdFTFdkLXFQWlZiU3BGUGxCMjN5aHpuV0xqc01jNndSQVhtUWY2R29hQmtnMkwzRUZhazZGcjFHelJ5MzdqeC1jbTZDc2fSAeABQVVfeXFMUEYtTm9BYm1pN1JKNnFtcDhtT3BTRmw4ZjFnVXJTQ084MzZieW9HeVgwbjNZLUFsdFFVd3ZQUUEta24zb0MzaF9oWW1vRDE2UmZ5UjNkRDJ4WGQ1VVl2S0gxZXg1M3VxQllGeWg5T3RnZWcyYnpnX1VJZk9oeW0ybl9BOEpQMVU2QUZDV1dVUHVXSmRiWk9ndkR4Z1pBMndxR216UzlHUmM3VFdUSWJZam44SXZ4WjZ5V3I1TVViWGhnWjhlQzFtQmpmUWs0UTZPbGxoVW9iUFdMcmx1WHc0eVI?oc=5": {
       "title": "Raízen e Raízen Energia elegem novos conselhos dentro da recuperação extrajudicial - Valor Econômico",
@@ -3971,7 +3951,7 @@
       "source": "",
       "added_at": "2026-10-30T22:02:55.235107-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkdLQTNpVXkzbWtBMXRucmVvWXBGaGFKUksxRW9WczNFLTZ3QTN3SEVjVHVHWjZzTFlEamRPZUJiT0VfMzJrVGJLSzBaTmNsV01uRkNXUTJHLU44eE4xVFJSN3NneENzTEx4b0RBalMtMEtud25rTHBSU1JsNWRpN3lKUGVGZjYxVHVxcHNRZ202Y202eG13ZE9SbW9UVmM4Vkpja0RZQnZxdTQ?oc=5": {
       "title": "Aneel mantém bandeira verde na conta de luz em novembro - 30/10/2026 - Economia - Folha de S.Paulo",
@@ -3979,7 +3959,7 @@
       "source": "",
       "added_at": "2026-10-30T22:02:55.247638-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     }
   }
 }
