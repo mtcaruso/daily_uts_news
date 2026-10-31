@@ -2932,10 +2932,6 @@
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-10-31T21:17:09+00:00",
       "erro": "pauta nos dados abertos da ANEEL: HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7"
-    },
-    "ARSESP": {
-      "desde": "2026-10-31T21:26:17+00:00",
-      "erro": "API do SharePoint: HTTPSConnectionPool(host='www.arsesp.sp.gov.br', port=443): Max retries exceeded with url: /_api/web/GetList('/Lists/ConsultasPublicasDocumentos')/items?%24top=100&%24orderby=ID+des"
     }
   },
   "aneel_objetos": {
