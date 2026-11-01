@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T05:07:31.180591-03:00",
+  "last_updated": "2026-11-01T12:01:54.715512-03:00",
   "items": [
     {
       "cnpj_short": "02557-7",
@@ -3924,42 +3924,6 @@
       "empresa_label": "CPFL Energia",
       "codigo_cvm": "18660",
       "first_seen": "2026-10-02T22:38:30.439667"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261002 02/10/2026 09:28",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1573558",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1573558",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-10-02T13:48:55.587681"
-    },
-    {
-      "cnpj_short": "01732-9",
-      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261002 02/10/2026 09:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1573557",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1573557",
-      "empresa_label": "Engie",
-      "codigo_cvm": "17329",
-      "first_seen": "2026-10-02T13:48:55.587668"
     }
   ]
 }
