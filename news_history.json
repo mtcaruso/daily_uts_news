@@ -1,212 +1,6 @@
 {
-  "last_updated": "2026-11-02T04:37:36.258459-03:00",
+  "last_updated": "2026-11-02T17:18:31.282031-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IOS1ZN3AtZ3RnU3FmREEtTzduSklWZEtLMDZrTVYtZEVLai1XWC04dHJtX1ktRU5MQmwyZmxrUHE4QnhOTFhkTE9CczBxX0VGWDBGUkpHV2M5OEVzYzdDMy04aFB2Y1FVQl9TSEZmanJSLTF6ampYeUZvZEQ?oc=5": {
-      "title": "Engenharia Elétrica - Ranking de Cursos - RUF 2026 | Folha - RUF: Ranking Universitário Folha",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-19T13:58:21.201853-03:00",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWNWN3lEYWpTZmZqU0NqX0gyeUpHTFVVZERFcXo1Nm1xZ1N4QlRpUEdHMXp3WnFfQUFrZjFpeWRjTkxiOEtyUzlUN0d0OWVBcDJTZHdMTTFvVE5Ka2FsT1JjX0JDdkw5Vk44eDN2bGpvUm5OdkEtMXVhS09fajBHN0NHb1I3U0h2WFBYc1JXTVBZUExhVTRfVzVheDNudzZZSC01X21VaE1uOUk?oc=5": {
-      "title": "Geração térmica líquida da Eneva recua 38% no 3o trimestre - CanalEnergia",
-      "summary": "A **Eneva** reportou uma queda de **38%** na sua geração térmica líquida no **3º trimestre**. O despacho médio ponderado pela capacidade instalada caiu de 34% para 20%.",
-      "source": "",
-      "added_at": "2026-10-19T13:58:29.983474-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPekZyWk10MmZ4QmlIcWViNHVvenNlR3BLOTViYWpRaEtOZEw2dnZEQWFKZUhjMEJ2dHo4T1pfMWxaLWdLcm5PQmxMQ2I0N3FQRmhjbWdlRVp4ZDlMREUzUXRjY0RUSGthV29uOGZlSjBoaElvY19vOGVlcXByWDRJZ3RadFJzMXV6T09tWkVCSmhmWG1tcGU2UVBWaERHcFNSNjd0X0lucTFqOU5VV2FQSmFQWnMwQQ?oc=5": {
-      "title": "Reservatórios do Norte caem 0,3 p.p. e operam com 65,9% da capacidade - CanalEnergia",
-      "summary": "Os reservatórios do submercado Norte tiveram uma queda de **0,3 p.p.**, operando agora com **65,9%** de sua capacidade. A informação foi divulgada pelo CanalEnergia.",
-      "source": "",
-      "added_at": "2026-10-19T13:58:31.725712-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY1RHcTR1cXp2UmJCdk1ZSFR6bmlhV29teUZwQW0wdVVJSWVFamc1ajc0eW0xZTM5clFHVzBPS3pYLUpheTRHa3JBZ19pTWh3LXlSdlJFYTRFYlN6R3VrcFNmWUZJbEJQM2cybUE3SHM4SG0wOVlOcGQ0TFRmbHloenNpc2ZaUmlaQVZNUGxlZm9fdURaUFJPNmdjVkk5Y0VRaTJaWG53ejZ3STl2b3BJYTdyaDc2WU9idnJCYzJJTkdSTGpDelBKT1dxZw?oc=5": {
-      "title": "EPE publica Instruções para cadastramento de sistemas de armazenamento hidráulico - CanalEnergia",
-      "summary": "A **EPE** publicou as instruções para o cadastramento de sistemas de armazenamento hidráulico, detalhando os requisitos e a forma de apresentação de documentos para habilitação.",
-      "source": "",
-      "added_at": "2026-10-19T13:58:33.544788-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHBkejhReHM1MHNKcl9IY2h5TzN6TzRSSzBnQ1hCOTFJYjJESGE3NVRyOGFCUExJM0RmY3Y5NlhBOGhhSmF3ajdZaTRCMENwbFE3Q2ltVzN1TlJtWUlFSmJ6WjlzVjNSOGlGVUZ6am9nb0pRV3ZkdkpwcGlvcG14cS16Qm5yZjlyS2RPM3UxSHg0aVpo?oc=5": {
-      "title": "Memória da Eletricidade completa 40 anos - CanalEnergia",
-      "summary": "A **Memória da Eletricidade** comemora **40 anos**, reunindo quase **2 milhões de páginas** de acervo e ampliando o acesso através de exposições virtuais e conteúdos digitais.",
-      "source": "",
-      "added_at": "2026-10-19T13:58:35.314771-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHUyTXFTallhZy12X0QybE05NXlTdEN3aUJJNG5fVk9aTFVZdnp3Y1R1VExVMlVmMmttcmdfdUxuY1VEek5GQkJ1WEZwUHRWNWV2RkFZU0FORmZiSFlJc1JUdGc5UjlPTU9oVFJjT2lXd0pUQngyQ2RfbHJsTjZPQVpuZ2xIZlFiSHdSV3NCNVlkY0hPdVk4dWU3aExYbkpLampFQ1JIZk9tb0hV?oc=5": {
-      "title": "A nova estratégia de sobrevivência da indústria do petróleo - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-19T13:58:37.085907-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVFiQ1gycU9aV0hSX3ZtQlZOS3V5Y1Y5RThPbThTYXU2U0pOcFMwYThLM1NQQzhnRWxIZG1ZaGlkU01ZMTRacUtOZEdxLTVqNG5mMkRuYm1maVJlRzN1MHBaNkpQSWFjT3l5NlBCUWc4bWZuNWk5ZFNLeXFaRHlWTkRzOFM4akl0LVNmN0ttWm1kbVBiRWU1dUdjRVMyUmNYdnhuMExxRUItejA1eWJVOUNvNW9UN0l2RzlXWXF3UWJoSkFPS3VoZWNHdlQ?oc=5": {
-      "title": "Coluna Giro Energia: Usina Foz do Areia recebe primeiros componentes para ampliação - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-19T13:58:38.860894-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHN2a2V6NmM4UmUzQjVQeWpMM3lRVGNRM1ZMWUxJQ0RMaFFsWGh3RjgwcTA5ZnFHNS1sNFVvT08tU1d3dm9pQndzcHFwVHpDZk9GMEN4UXdlVzRiaEREZDBqaUdOZURVNnFRZEdaRzAxZ2d3dWlQU2tzNE9LeG5VV3UzeWttSGhtZnZzRE5oaG94QUVVMXRyTTVtNUItdWNvN2MzbHZJZTltLVI5dFZNbHI5R1k4Z0t3S3hDa3kzT0ZPNmJGN1NQWG5kX1owSEY1WkdOMDh4QWVtUnpIdWdF0gHuAUFVX3lxTE9zRkp5ZVlQNE9xbEFjT3VYamw3N0FCLUl3UF9Zbk9HT2tqYWNwV3ZDbTB2WU4yR0I1YmdvSjJJTFBDTWJRUVpway1oN1FKV203NmhzaHVTdWdfbVc0OTQ5UTF5SUxmMGs0UElMV0VhWjNqdHJnOEowQzdFc1YyTmoxOFo2SFZ2Q1U5Q0pyeFRWaVdEazRHb3QzNGM1ejFJbkJXbXlCWmxqM2E0M3NzWjVsUnNSYnA5eGtsSWRQSjhYbVY3dm9kOUptcDlBLVF6aTI2UlJHSEZ4aE5aRzRyU0QxVFdDZFlzcDFDNFc4d3c?oc=5": {
-      "title": "Microsoft desiste de alugar data center da Nscale no Reino Unido por gargalos de energia - Valor Econômico",
-      "summary": "Microsoft desiste de alugar data center da Nscale no Reino Unido por gargalos de energia Companhia afirmou que permanece comprometida com a parceria mantida com a Nscale e ressaltou que a rescisão se restringiu exclusivamente a essa unidade específica A Microsoft desistiu de um acordo para alugar capacidade computacional em um data center da Nscale no Reino Unido em razão de problemas no…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:12.804595-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWFFGUDZDbHMtQXNFSEhXV0lpaUtMV2lPanVWV1pjWVFvbTNzTE9uSTRQZFl0ODROanpBeWYzTDRMM3lqbk1rVlR6UFJJcFVwZGF6aVdvckRSb3V2TXZUTGNFQmFOS0lRLUFCbGFOU3RQTWJwenFlQV9qYUhhT1EtUFlQMWRoVXJxbjFSX3dDallvTTBoNWl0TGVVZFVrczFZTGlaSXB2Tk1LX0RhTi1lZ3QxWnBpTVp3aWJCQjJBUFZwZmU4RUljOWFKR2NXMFFSaldvQ1djbjQ1WnU3a25FWmt6d1k0TzJLUWdYekd30gH8AUFVX3lxTE5nRDNCdXhvVl9TUjlSc2xxbUVOYTg3dzkzR3lXVVMwLWFWZG9Keks3X1pMUVRGdXZub2pnVjUwaWV1MTJDTXNjczJlaUgwaVA4cmZCdHRlX1hvN2hwdWNudXhuRDNoQXdiUjlrS3FQQTlXWWticjNqbTdSRFJYbEw2S1UxRE5ITUJaandnQ0JXa1piLU1WRFlfM0ZzSUlQbVpHeTRLOTRzWWhPMk1MSHdOZlF2UFlWZ2VaUGRnY0pFX29YYll3UG1YaWNHcWVTLWpKWTN4WXZWMzhsT01ycGlXbnd0OWNFMFFSVklKZUhQZmlTMnozYnM4UnFWQw?oc=5": {
-      "title": "Eneva tem geração bruta de 2.548 GWh no 3º trimestre com menor despacho e estreia do Complexo Azulão - Valor Econômico",
-      "summary": "Eneva tem geração bruta de 2.548 GWh no 3º trimestre com menor despacho e estreia do Complexo Azulão Período refletiu um despacho médio ponderado pela capacidade instalada de 20%, ante 34% em igual período de 2025, e a geração líquida consolidada do parque térmico recuou 38% na base anual, para 2.105 GWh A Eneva encerrou o terceiro trimestre com uma geração de energia bruta total de 2.548…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:12.804774-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmF2OEQ4N0Y1a3ZRUXdiRTBqdHlPZldsWFJJMDlQV2NFaXZYQW00TGZDX0JwbjgtVmk1YmxUNjNLWEdoZkZtdlZraWFOckF4eG1yZl9SZVpucGdLWG55WFhybFJBdjhoZUR6RXhVZzNZWDRLVmNQVUdBTDc4bGtGdVZxa05uTnZvZ2NNSU5Qc1lTSzdJaFZOSzJOa3JXZmlqc1NBa0JyVk94d2czQ2QyOXdldEdiRVE?oc=5": {
-      "title": "Águila Energia financiará novos projetos com caixa próprio - Valor Econômico",
-      "summary": "Águila Energia financiará novos projetos com caixa próprio Receita de campos que entram em produção nos próximos meses financiará plano de perfuração de novos poços em cinco áreas terrestres e exploração de outras 14 áreas A petroleira independente Águila Energia pretende financiar novos projetos de óleo e gás por meio da geração de caixa dos cinco campos terrestres que vão iniciar produção nos…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:12.804837-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUhGTFZxaTBGSmh3V3N0RHJkN1ZZblZXMG41Zng3UGtCMlQtcGw4cmxacjVwLXZBbVRLUWtyalp2WEpDMXFXRUtVTDRyMmVNb0didFpmRDkwUXg0WUdFVjY2TWJsMnNudmhlbDdfbndJcV9iMFJjMzFodUN6bDZIS3BldzlMelJYZ1RWN2EyRktGYlXSAaIBQVVfeXFMUGhxWXpXeFdZdGtQMmQwTHl0UGh4RE5rbmNqcTVHNmgySzJ4MlhVbjdFVjkxdmRIa1QzWUdZdTlDU1N0UVp4QU1jVHZvQ25ZQVNKU29HWTF2M2NaZDZYamNBWlRYUmRJcVdtUVQ2d1NKQ05jOExrcHhoaHdDSW5LblR1dzltRzU5WEg1R0hjNHY0UDdieWo5TjFwNWZkR1RqSk1R?oc=5": {
-      "title": "Energia: uma proposta de agenda para o Brasil - Valor Econômico",
-      "summary": "Economista com graduação e mestrado pela PUC-Rio, é sócia fundadora da Catavento Consultoria Energia: uma proposta de agenda para o Brasil Nosso diferencial repousa em sermos uma potência híbrida, desempenhando um papel relevante como produtor de petróleo, biocombustíveis sustentáveis e eletricidade renovável À medida que o país se prepara para ir novamente às urnas, é oportuno oferecer propostas…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:12.804890-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVjFTOHlFbmVpQzBZWTg1blMtUmJId0VsV3BPd25nNkRyWk5QTVRtU09lQmhSYU9YeTJ3dFJ0VWVObFJvR010dUZfVVdTN1lLRE1oeFpQd2JOYW84RmxzUGhwLXFPSnQtalVLckM5dGdKWVMxeGlRU0Y5QWFFVWsxOWF3Y1phc196VHRxX3dFZjl6bDZjaWhUNkFxV21DX25XbUNLR3c3UXU4RGxoclNVSlJYQ3BvYzdKSU81YlJsRXdKTVYwTkVJYmhudW3SAdIBQVVfeXFMTW5sa21TNXQzMlJNd1hiWjhGUW5yQjhaWDJ0NllDa0tFWGZQNkd5M1ZyMEhRY1RGY0hYTDZFeXJmOUtzQXAxYXVHVDJfMlhhcWI0aTNBVWprVmI4bGVyTVNRc0tYR0RiSWFVRkhJRkI3ZFZvNmo2X01NWnU5d2R4bDdNWE5KVUlTcHNFbkRJUFREaFNqYUhoTVl1V045bWVMREtfdXEyN1BBdG8tRk5TM3k2Mjd2alJLaEpXeVFWUFo4cXVmTEVyOVNUTXFZdTJuZ0lB?oc=5": {
-      "title": "Eneva vê geração de energia despencar 28%, mas Citi mantém aposta nas ações - Estadão",
-      "summary": "Eneva vê geração de energia despencar 28%, mas Citi mantém aposta nas ações Menor acionamento das usinas termelétricas pressionou a geração de energia no terceiro trimestre, mas Citi manteve recomendação de compra para as ações e preço-alvo de R$ 33 Confira o resumo que a LE.IA, a IA do Estadão, fez pra você Gerando resumo A Eneva(ENEV3)divulgou a prévia operacional do terceiro trimestre com…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:12.805035-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR01sbXpaZjB1WUo1N2VhcTlCdXZXVERtaHBQYnpUUzBDa1oyRkRNTXdfTmtRVXdGSFJoZVNPdDU5N2NYODB4VW9LaktjdEQ4b1hmMmlpZ0VnbkhKRmNPQW5pU3RlT1ZHNFdBT3V1T0Qyenc2WnpJVWd5a0tWRTMzUUJIRzZKUE9LMHNnU1FYY3JYRFNFVkl1dXhFNnBDS3R2Q3J5eUwwUS1MM0luTXpHbUdUMmFrX0ctX29nUlhBYXc?oc=5": {
-      "title": "Garantias bancárias barram acesso de projetos de R$ 18,2 bi da Qair - MegaWhat",
-      "summary": "A Qair Brasil Participações e Qair H2 Brasil buscou, junto à Agência Nacional de Energia Elétrica (Aneel), recuperar a posição de dois projetos na fila de acesso à Rede Básica de transmissão de energia elétrica no Ceará. Os recursos, contudo, foram negados para os projetos que somam 650 MW de demanda pretendida e R$ 18,2 bilhões em investimentos estimados pela empresa..",
-      "source": "",
-      "added_at": "2026-10-19T13:59:25.838526-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDdoZlFzeTdfVkhDVjZTSWtxSW43OUdxeFhDZVRmaUwxbzQ2Tzh0dFMwSWVkZV95UU45MHFqa2I1QU81YU1aX2VEcDV5UWtsSkdnVE9PcVNWbE5oOVh6TEwxVXl2MVNjaURQcnFBUy0tUnJmbF85VlhGX0lSd1pRZ1g4MG5LRlIzZDhOWmlwUU5fUm1LT0w0a2tKOS1ISHRFMHJnWUx3amwyQXk0aVU1cmlqNWljUEs0azl1akNwOA?oc=5": {
-      "title": "Trinergy coloca à venda usinas de GD solar no Mato Grosso do Sul - MegaWhat",
-      "summary": "A Trinergy, desenvolvedora de projetos de energia renovável com atuação no Brasil e no Chile, coloca à venda um portfólio de três usinas fotovoltaicas em operação, sob o regime GD I,no Mato Grosso do Sul, que somam 9,1 MWp, denominado Sun Invest III. Segundo a companhia, os ativos estão enquadrados no regime de transição conhecido como GD I, previsto na Lei nº 14.300/2022, com regras de…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:25.838651-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3ozZ01SbU1RLU9rSVNuRzNydDd1RHEyYjQxeHZOWFV1U01XSEhFU1dkV3V5T19TZjdtZG82bzV3b3hHZk5GYzZUNFdCZlllTlAwcmJQcVpqUkJzTTZnTENQTTRSQ0N0eWFsc05aeE1majJaSTJmN1RvTERfYUF1dWx4M2xXTlZPZjR5QVF0eXFPSkV6NmlicmhpZDhCVU9TN05lR0ZPX2V5ZWRsWTNSWFZmcFVFZnY0bkJERWhmTG5tQQ?oc=5": {
-      "title": "Aggreko compra seis térmicas da BBF em regiões remotas do Amazonas - MegaWhat",
-      "summary": "A Aggreko concluiu a aquisição de seis termelétricas, somando 11,4 MW, no Amazonas que pertenciam à Brasil Bio Fuels (BBF) e agora detém 100% do Consórcio Geração Amazonas (CGA). Com a operação, a empresa reúne 32 usinas e 149,1 MW nos sistemas isolados do estado.",
-      "source": "",
-      "added_at": "2026-10-19T13:59:25.838798-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbkVFZlEtRU84X0ZVbjE3U2VOVGxPcXpQczBJQ09sc0VrTWV3em02eHRyTFJ4V2R3ZXlkdGJUWS1ZM0JvaDJ1XzlERFhnOEVRTEFhU0lKTnpMcmtURjFtSV9BNUNZRURkakNCdl9PYVRjSVp3WUFRS0JsdjRIYVhjWklRRGg1dXVSTFJqd05mdkoxY250dE9fV2pTTU8xMzd6b1Z2ZktEd0lHdlZ0NzlKbGZrUjQ2b0F3OGUzY0lpMUp4TGUxMEc3RXlwdW1XaE0?oc=5": {
-      "title": "ISA Energia questiona prioridade de data centers por falta de espaço na rede - MegaWhat",
-      "summary": "A ISA Energia Brasil pediu à Agência Nacional de Energia Elétrica (Aneel) orientação sobre os critérios de prioridade para conexão de grandes consumidores à Rede Básica de transmissão, diante de casos em que pareceres de acesso emitidos pelo Operador Nacional do Sistema Elétrico (ONS) indicam viabilidade sistêmica, mas não garantem espaço físico suficiente nas subestações para todas as conexões…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:25.838991-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkpGRXFGb0Uzak9tWm0zOTRMQWNfVGctemxFdnRCcGtMQWkxazIxTUlTUlF2SWxuYkc5MUQ1RTdWR1QyT0h6YzlfOGtJeEowSG9BQzA5ZGlzemJqcU9ROGo5S1QwTDAyUm83VnhTZ3ppR0pfSTNoNlBmVXBuMFVHWWZuXzcwcmdmZWNBU19LYWhTV2FWZUVMcVo2SHVIeGVLdkdoOVZLNnVUSzRpUlR4czFQeHZxcjQ?oc=5": {
-      "title": "Geração termelétrica da Eneva cai 38% no terceiro trimestre - MegaWhat",
-      "summary": "A geração termelétrica da Eneva caiu 38% no terceiro trimestre de 2026, para 2.105 GWh, ante 3.374 GWh no mesmo período do ano passado, em um cenário de menor despacho das usinas e preços de energia mais baixos. Segundo dados operacionais divulgados pela empresa nesta segunda-feira, 19 de outubro, o despacho médio do parque termelétrico da companhia, ponderado pela capacidade instalada, recuou de…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:25.839193-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2lScmFSdWc4MmFtZkNXVWlaTElKQVp2UWxzZlp5UkIxa1czX0dPUmR6NFliNXRlSFN3Q2tVY3drUEVIU2Zud3JjcklHYk52T2gwbC1RcWR6MHpnRUluQk5WSmZVZVNveVpsejZtbENQdGR1WFZqQWgwUXRzeWZDMWVLUHZHckZGcklQYjVJbTNsMDJOcFdycGd1Q1VuWW9yeV8zbERhcTNOYVEzVWFfQXRMLTRieUFGNWVQS2VfYmJrcmFhZ1VaZQ?oc=5": {
-      "title": "Área técnica da Aneel quer repasse de transmissoras no leilão de baterias – Edição do dia - MegaWhat",
-      "summary": "A área técnica da Aneel (Agência Nacional de Energia Elétrica) defende que a participação de transmissoras nos leilões de baterias depende da reversão de parte da receita da atividade para reduzir as tarifas. O entendimento consta de Ofício Conjunto obtido pela reportagem que também exige autorização prévia da agência para participação nos certames e separação contábil, financeira e contratual…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:38.920058-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVlHc1lCcGRPQ0R0OF95SnZRaHJCOEo2Zm5NdE5BcF9DQk1CZ0tuU21nbkszd3lUMlF0Q1p0MHp0LVY1N25vTUZ4R2VNQ2owRUJ4cm5CZ21DMHlnN0dzaThRUDI3X08teERHbjdnWnIzRkZfWi0xU015N1c2ZGt1YlB2dmlUdjcxSjFNWHZqVE0yV19DcmFrUFBKVmVlazRoc2NLTjdJdmhucEszQWc?oc=5": {
-      "title": "Preços de energia sobem até 15,34% na BBCE após semanas de queda - MegaWhat",
-      "summary": "Os preços de energia negociados no EHUB, plataforma de negociação da BBCE, voltaram a subir na semana de 12 a 16 de outubro, após uma sequência de quedas. Entre os contratos convencionais com entrega no Sudeste, janeiro de 2027 registrou a maior valorização, de 15,34%, passando de R$ 181,63/MWh para R$ 209,50/MWh.",
-      "source": "",
-      "added_at": "2026-10-19T13:59:38.920281-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1hZTlFENkx1aXhzTjcxbmg0UmIzTG9XcEpaWEkzdzU5X3ZaN3BwQ0pXWV9qUDdqYnFTeUNkWjJ6OFZrTElYQllCWXVIZWdNUGQySU1uVjloLUVFXzV5d203V1dYZjhERlgwYVFvb0V5NmlTamJycVNBV3F1aWo1V1YzbUVtTU1FQWJjanhXclczSGJyaG9tc2Z1VTlpeTNJQkRrZzBXU1FkWDA?oc=5": {
-      "title": "Mudança de entendimento da AGU pode afetar sucessão na Aneel em 2027 - MegaWhat",
-      "summary": "Uma mudança de entendimento da Advocacia-Geral da União (AGU) sobre a substituição de dirigentes de agências reguladoras poderá afetar a transição do comando da Agência Nacional de Energia Elétrica (Aneel) em agosto de 2027, quando termina o mandato do diretor-geral Sandoval Feitosa.. Uma mudança de entendimento da Advocacia-Geral da União (AGU) sobre a substituição de dirigentes de agências…",
-      "source": "",
-      "added_at": "2026-10-19T13:59:38.920330-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmRNMVNWWXRwSjUzVTJaeDVaNVRHeXpmbHRRaUlwSFZPeTNnbFFtbWFjTVR1aVZLdFYtdlo1bTJoRHVpYjl0bXlDT3RJT01URHgyNFNja1dMUEx0Z1d6djRtVGxOVjZfeWNQNWcwTnNUaHk5Q0V2VmlGZEZrVVMyZzduOVpPTnV6dGFsM0tVcG41UlFTX1FwTTdiemhERFVablpqMWQ3a25wNWJIYmc?oc=5": {
-      "title": "Aneel muda regra e oficializa sustentação oral por vídeo nos circuitos - MegaWhat",
-      "summary": "A **Aneel** alterou as regras para sustentações orais em circuitos deliberativos, permitindo apenas vídeos gravados. A mudança, oficializada em 16 de outubro, remove a obrigatoriedade de incluir processos com pedidos de sustentação na reunião pública seguinte, atendendo a questionamentos de advogados e empresas do setor elétrico, como a **Casa dos Ventos**.",
-      "source": "",
-      "added_at": "2026-10-19T13:59:38.920612-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHNTNS1XbHlYV09KWkRncDN3NVJkMU1SeUpLLURMdWNFTHM2R19yTERIZ3JvSlpKbDNBWG52Z1pmWC1zWTA2bF9zSjgtakd3eUwwbFRSaWhNYXlXMUszMlRHVmt2WDVQTGlvdE43aWxaTjBEcVp6c29UeExuN1dhM2dpeG0zaGZycTRaQm1WX0s3LVpLZ21yc1JNN1R1LUFoeWU3bnZmWVg?oc=5": {
-      "title": "Técnicos da ANEEL propõem ‘venda’ de excesso de GD solar a partir de janeiro - Agência iNFRA",
-      "summary": "Técnicos da **ANEEL** propuseram que, a partir de **janeiro de 2027**, distribuidoras possam vender o excesso de geração solar distribuída no mercado de curto prazo, o que pode reduzir tarifas. A proposta, que já passou pela Procuradoria Federal, prevê consulta pública para implementação em fases.",
-      "source": "",
-      "added_at": "2026-10-19T14:11:43.127619-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWU2ZE4zSFpFS1VYT3JfUkV6XzZXWk5ibjJwQnczUmQ2SWhUVHRIWmRWay1MU1NPZ3dMb2c0V29YeFRzN08yNmRVVW5QTEotckNRQnFWWXdZWW93eUtXdGw5SUExdXg5WENRUzFSYTZlQmRZUkVvOXlmd3pKMzl0M0VKbkpIR0NEdVFPTUZJUDhxNHVBdnUzVTNjRGtVeTROdzg2cVY5NmtpcnBkOFQtUXpqVmY2akFiZ2o4akpEY2hKdTl6UkE?oc=5": {
-      "title": "Águila Energia financiará novos projetos com caixa próprio - Valor Econômico",
-      "summary": "Águila Energia financiará novos projetos com caixa próprio Receita de campos que entram em produção nos próximos meses financiará plano de perfuração de novos poços em cinco áreas terrestres e exploração de outras 14 áreas A petroleira independente Águila Energia pretende financiar novos projetos de óleo e gás por meio da geração de caixa dos cinco campos terrestres que vão iniciar produção nos…",
-      "source": "",
-      "added_at": "2026-10-19T15:33:17.757354-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSldEVXBPZ1JvcjdhVVNWTlFuZVVSekRrcHd3amxvX0pOMDVSUmZ5dGRGSUQtTS14eUNDb1FNUVgwVHJNR1o3a2ctQkQwSHp5c1JQWlFKS2g4VDNVeG9fMVpwTXJabEQtZHNuelltV2lxa2hVMDJ1cGVOUUJUV0FtX2tPN3h5bXJJNDluU3FJRHZ4azUxUE1GeG1fZWdvQ2p1VDVVcS1pV2gxMThBU3RreXozcUpQaE1XOEx6cGVyYlIwMC11LVBKSWVhVzFxd0Q2dXladjU5emhjNGhRWGZsdXpZZEE4MmvSAewBQVVfeXFMT3J2bzcwLTI0NDJlWDdycThhM2NJaUZCTlo0dnI5SFB2SkRVWDU2U2JoSWYxWnlmU0xWcF8yT0lxU2o3dFpKU2tIM2VieTludjNJd3JleDM0OFBpZ01WXy1HTTRqQi1nQnJwck5INmkzSjA3T1N3Q3lpcTdJR1pTWU81OU5WV0JzMGREeml6c1Z3ZExRdEpkNzhzV3V6YkZ4eERLRXE5VVYyZTExMW9DLWx2NlBhbTVQNkFEVElOckpYWHlFMHdudF9FdmdPOWdOQXk2QVZyTWxRQWZqbEhuenNIWmxhel9YeUhMYlM?oc=5": {
-      "title": "Dá para ter carro elétrico em condomínio sem wallbox? O que diz a lei e quanto custa instalar - Estadão",
-      "summary": "Ter um carro elétrico morando em condomínio não significa, necessariamente, abrir mão de carregar o veículo em casa. É possível recorrer ao carregador portátil fornecido com alguns modelos, usar uma estação compartilhada do condomínio ou instalar um equipamento próprio na garagem.",
-      "source": "",
-      "added_at": "2026-10-19T15:33:17.757889-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZG05ZFlxdkREakFHcjc1a2ZmcDlDOVp1bTF1eTRkVEF0Q25nOWlYV1NWdXNYM0pOSy1ocWtYeUNXb2s5d0VuV2tHQmlZaWx6MW4xMDkwclgwMWZfVlVERm5WWXkySkd1SzI1amJyR3Nld3p5LWpWc0ZyOGhoeFBCcmVUQ0dKUERvYVhJXzdtUENmU25JcGVLWjdYVW9qSmlBOHhOa3RJd0E0Q00tSmc?oc=5": {
-      "title": "Aggreko compra seis usinas termelétricas da BBF no Amazonas - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-19T15:33:31.672846-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUZmSFNYamZ1Ym1hd0JybVVZNnhvRjVLU0FtVjFsZ1ZwLXBlWE91Qzh6RXl0ZG9HUENPdkR0SzlrZzY5RnNRUnhOT2hhbl91ZUtRWmhZTjhlTm5rS0ZyVTNTUzJJdUZMZmNORUc0cjFvTmhseG5DUDBZQXVySXVyMEM2TWpTSUhRWkdfRjRTQk0ya05PQ1dvTnA4MnhhNUhGT2Jvai1JTlZaSHVvRS0wV01hMUVEdU1HS08wcVRn?oc=5": {
-      "title": "Liminar impede cobrança de multas por atrasos de usinas solares - MegaWhat",
-      "summary": "A **Aurora Energias Renováveis** obteve liminar para suspender multas e restabelecer outorgas de usinas solares de **412,4 MW** em MG, após atrasos no licenciamento pelo Iphan. A decisão, proferida pela Justiça Federal, afeta a remuneração de transmissoras e exige análise da **Aneel** e **ONS**.",
-      "source": "",
-      "added_at": "2026-10-19T15:33:31.673832-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUC1BbUFaUXJoNmJuRGE0aXpKVkZzN2hoTjM1Z29PTDdLdVBLalVKSk4xNnlwYS13NFVqVzFON1NKMkhxUm9zR3diWThTNnBSdVZGS08xN1VvRzB0bGJqSDdCNHpYQXViUVJzTjh6MGhQZUpmVGFlY0gzX01HNEo2bHdCSTViaXVpMUdQbkRUVXhnT19wRjhzUjNnTE4?oc=5": {
-      "title": "Diamante realiza primeiro teste com carvão híbrido - MegaWhat",
-      "summary": "A **Diamante Energia** realizou o primeiro teste industrial com **biocarvão** (1% da mistura) na usina de Pecém, utilizando casca de coco em substituição parcial ao carvão mineral. O projeto, iniciado em **2024** em parceria com a **UECE**, visa avaliar a viabilidade técnica e ambiental da biomassa na geração termelétrica, com apoio da **Aneel**.",
-      "source": "",
-      "added_at": "2026-10-19T15:33:45.035728-03:00"
-    },
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3pIRzJHRTFvM2thTUZGeDYxRlcxWnNNYzdsWHpZQnFMc2hSeDhXMWRLTHFUdW1fcUcwUjl4c0dpRmNGUkFwMjRKODhTMWdfSjFnbWpFd1pLems0emdNSmFfRHZIZVVNaWNsd2pKcXdHTWNzRFAtMGdGbTdaX09KUnhrSTlkdEl0Yzk1VVNsd2lKajRGc2lKWV9YeE1HTFYxUXVDWURneHhjdU50OU15blhEcG1fREtfVDlDbkxpcy1fMGxtcHpjdGF6eThOVG1hZVU1RE5SbTA?oc=5": {
-      "title": "Transmissoras precisam de aval da Aneel para disputar leilões de baterias, diz parecer - MegaWhat",
-      "summary": "A **Procuradoria Federal junto à Aneel** determinou que transmissoras, como a **Taesa**, precisam de aval prévio da agência para participar de leilões de baterias (BESS). A participação exige demonstração de benefícios aos consumidores e pode envolver subsidiárias, mas a **Aneel** deve autorizar a atividade atípica.",
-      "source": "",
-      "added_at": "2026-10-19T15:33:45.036401-03:00"
-    },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmtPYkMyVTh5N2xtSXZXcWhCR3c2WE1ydUdJWHdDRFdpcDBNdzNLel83dDZ4eVJvSWQ3Q2RYNV9yN1dhOTliYm9FMjBNQmJCQ2p0R1ZuMjVicEhMNDJCdWwwZEgzcWdTVGNYQWprYndJcEtOeG1XTXprV2toYTN1ZFdGUnRtODFhZTZHMzljS3pCNjZYYjNyY3RsU29IQ2JBQUhpUi0ydGFsdXlTZWExOUVoVXlrM2tXTlZIaEFuZ2xpcVk4RmgyQlJmblV3RlU?oc=5": {
       "title": "EPE lança roadmap para fortalecer resiliência do setor frente às mudanças climáticas - CanalEnergia",
       "summary": null,
@@ -3966,6 +3760,22 @@
       "added_at": "2026-11-01T13:47:32.768848-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 3
+    },
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNb3FzVEFGUGdTd3pTU2RGcVBGeWhUekZ6LUpqWFR3Q3AwZjB0T29aQUt4S0NERlpPMzJjYjZKSWNQSnUzODAwYldFMmU0MFRZYXJqWVpvalZRQnJ0eHNZRERkM0JKNEw3UGRKNWp4RG1obDE5NFdCdWFwTjNncEkzbVVWQUVodE1icWJPa2FZT1F4ZS1nNWIyNkVvX3lOT01JOXlveWxfWk1NWjVSZ19Wc05MYWdTYXE2X01BeWZjcGxrdjBiRk5xNDctNWZPdmhLSjJjemZPU2swYmdXVWxFdXVBblVwVlZKanFldnoyek4zZHPSAYICQVVfeXFMTjhBaHo4YkJ2WEp0UHIwNVluaW5OSXRUTUVpYXZrMjdTUW1YaUd1TUlXZW51QXBaZWM3bUJEcDVCMnVrR1pPN0p3SE1EQTFvWmpyZ1dIeXU2andIMlN1SXNYM2RaaUlxZmg4V29KdHZwMnJDQ0tWWXZYTkRLZ0lQR1Y4ZF9nYmZZdUd0TDJfYWNaSm53aWtOOFJGRllyMnQ4Q1VYbUhNZVE3eW5SNk5xMFlkaHBVUlh5bExTblRqMktYRFZIbTJxb01BTTRWd2dyYnRCcjRPSGF4MG96Q3FYQmtJUUZPcmtsVHQ2ZmxHTkh1QVVTYVA4aHlYX2staVZqWWVR?oc=5": {
+      "title": "Emirados Árabes preparam infraestrutura energética e novas rotas de exportação para guerra com Irã, diz ministro - Valor Econômico",
+      "summary": "Emirados Árabes preparam infraestrutura energética e novas rotas de exportação para guerra com Irã, diz ministro Ministro Suhail al-Mazrouei disse que não era possível prever o rumo da guerra, mas que os Emirados estariam mais preparados do que antes Atualizado Os Emirados Árabes Unidos vão proteger sua infraestrutura energética e investir em novas rotas de exportação, capacidade de armazenamento…",
+      "source": "",
+      "added_at": "2026-11-02T17:18:31.275932-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONTAwZ0lLNndWajRqT0JGVFpVTEs0MmZSaWNTRTJDQUY1eHhPbld1TWtkbUN4VzJ0X2tUaVdzRmdQNGd0UlBFZ1h2emJERUkzUkZBaWlhSzNONGdsVjBCaklYZDhnUG9vNGNnZ0ZKUE9kNGMwZFBZcGZCLXdmSmxaVG5Td2NhdHZCeWhYV2tpcUl4dFkySGM1ZVdaUDZ4V2pTdzlhclJmSEttTUJLQ0hGZXBzaGlaeFdQSmM4WldRMm5pdjTSAdIBQVVfeXFMTzVaNkFhbGhFWmxHTm9EVUZRQS1JOTlKU1NCc1pldGw0VGlLSzF6X0huRFVmVlVYRWlFbGIwZHhpV3M5bGhiYW0wYkNTRUI2RGFZclM4VmJBbXJzNTY2d2ZMcUNaLWdidGRfdWJUYV9Hd0pBSmtHblFXNDVlemVRaU5GeW1uRGVjSGxOM2MzdUU3REVEeFozR09QU09mVjc3UTRQWHhXVVZjdW9hSE12cTJrbVVGaGlzcUN0QXBFa3hkNllSbjZXdXNPWVJTdTJtN3l3?oc=5": {
+      "title": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc - Valor Econômico",
+      "summary": "Reservas globais de energia foram reduzidas, diz presidente da Adnoc “Precisamos ampliar a capacidade de armazenamento estratégico, aumentar os estoques de derivados e contar com uma capacidade de refino flexível\", afirmou o sultão Al Jaber O mundo reduziu suas reservas de segurança para o abastecimento de energia ao consumir quase 1 bilhão de barris de petróleo dos estoques globais desde que a…",
+      "source": "",
+      "added_at": "2026-11-02T17:18:31.276084-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
