@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T22:31:41.794781-03:00",
+  "last_updated": "2026-11-02T02:49:10.379103-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2358,20 +2358,18 @@
       "title": "ANEEL anuncia bandeira verde para vigorar em novembro",
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-bandeira-verde-para-vigorar-em-novembro",
-      "summary": "ANEEL anuncia bandeira verde para vigorar em novembro Contas de energia elétrica não terão custo adicional no mês A Agência Nacional de Energia Elétrica (ANEEL) anunciou nesta sexta-feira (30/10) que a bandeira tarifária em novembro será verde. A sinalização indica que as contas de energia elétrica no mês não terão custo extra.",
-      "added_at": "2026-10-30T22:31:27.778883-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "summary": null,
+      "added_at": "2026-11-02T02:49:05.319882-03:00",
+      "error": "summarize_failed"
     },
     "noticia_2026_leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor": {
       "type": "noticia",
       "title": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
-      "summary": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor O deságio final do certame foi de 50,10%, o que representa uma economia de R$ 20,7 bilhões para os consumidores de energia O Leilão de Transmissão nº 4/2026 realizado hoje (30) pela Agência Nacional de Energia Elétrica (ANEEL), na sede da B3, em São Paulo, terminou com R$ 8,8 bilhões em investimentos…",
-      "added_at": "2026-10-30T22:31:29.384735-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "summary": null,
+      "added_at": "2026-11-02T02:49:09.878836-03:00",
+      "error": "summarize_failed"
     }
   }
 }
