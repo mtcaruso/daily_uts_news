@@ -1,14 +1,6 @@
 {
-  "last_updated": "2026-11-01T18:09:25.761504-03:00",
+  "last_updated": "2026-11-01T22:00:36.745300-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQWV1YmhuN0UtV1JRUjRZR1RDdUZVc01lQlpKdThMNHo3d0Facl9TV2toOW5CZ1B5amZvdWRJQmhFc0Nxcmc3VmhIcnI3aHczck9NajdQNXdTUQ?oc=5": {
-      "title": "Tag Lucas Barreto - MegaWhat",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-18T21:28:04.114414-03:00",
-      "error": "no_article",
-      "attempts": 7
-    },
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3kyVTFyZy1aQzZoMWNqTFRmRzFYM2pBdEJoZjdxcUFJdXlVZTlhaHZURnE5M1ZyU2lxd25xci1sQlVtU3ZWX3pfd2dsVDFlRzd5RE5ZSFhxSkZNM3BoX1JOWGZUWHNUM1ZBTXo3RElIWmRRSXBpSDA1NmxtSk9FbjdNQzRnX1ZhWjloRTlvNlVqMksxRXMxQTkzaExSNFBWWWs4YUxBNVY4WFMxUXlPODJ4SERpbGEz?oc=5": {
       "title": "Opinião: A batalha perdida de Trump contra a energia limpa - UOL",
       "summary": "O ex-presidente Donald Trump tentou reverter o avanço das energias renováveis nos EUA com políticas como a \"One Big Beautiful Bill Act\" e a saída do Acordo de Paris. Apesar disso, a energia verde se mostrou resiliente, com previsão de **45 gigawatts** de nova capacidade em **2025**, impulsionada por avanços tecnológicos, custos competitivos e aumento da demanda por eletricidade devido à IA, superando os combustíveis fósseis.",
@@ -3979,7 +3971,7 @@
       "source": "",
       "added_at": "2026-11-01T13:47:32.768848-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     }
   }
 }
