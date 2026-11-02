@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T23:03:06.419509-03:00",
+  "last_updated": "2026-11-02T07:05:57.519906-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5459,11 +5459,11 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-170-2026.pdf",
       "date_modified": "28/10/2026",
       "ementa": "Designa BRUNO DE ALMEIDA RIBEIRO, matrícula SIAPE nº 1812056, para exercer o encargo de substituto do Coordenador-Geral de Desenvolvimento da Eletromobilidade do Departamento de Eletromobilidade, da Secretaria Nacional de Transição Energética e Planejamento, código CCE 1.13, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
-      "summary": "Designa BRUNO DE ALMEIDA RIBEIRO, matrícula SIAPE nº 1812056, para exercer o encargo de substituto do Coordenador-Geral de Desenvolvimento da Eletromobilidade do Departamento de Eletromobilidade, da Secretaria Nacional de Transição Energética e Planejamento, código CCE 1.13, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": null,
       "added_at": "2026-10-28T07:03:12.826986-03:00",
-      "summarized_at": "2026-10-30T23:03:05.416064-03:00",
+      "summarized_at": null,
       "notify_skipped": "pessoal",
-      "summary_source": "extractive"
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-gm-mme-n-117-2026": {
       "category": "portarias",
@@ -5474,11 +5474,11 @@
       "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-117-2026.pdf",
       "date_modified": "29/10/2026",
       "ementa": "Designa BRUNO MONTANDON NORONHA BARROS, matrícula SIAPE nº 1420688, para exercer a Função Comissionada Executiva de Assessor Técnico do Departamento de Biocombustíveis da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 2.10, ficando dispensado da função que atualmente ocupa.",
-      "summary": "Designa BRUNO MONTANDON NORONHA BARROS, matrícula SIAPE nº 1420688, para exercer a Função Comissionada Executiva de Assessor Técnico do Departamento de Biocombustíveis da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 2.10, ficando dispensado da função que atualmente ocupa.",
+      "summary": null,
       "added_at": "2026-10-29T08:02:33.741692-03:00",
-      "summarized_at": "2026-10-30T23:03:05.916269-03:00",
+      "summarized_at": null,
       "notify_skipped": "pessoal",
-      "summary_source": "extractive"
+      "error": "summarize_failed_or_skipped"
     }
   },
   "first_run_done": true
