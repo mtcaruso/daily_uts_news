@@ -2930,6 +2930,10 @@
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-11-03T13:28:22+00:00",
       "erro": "pauta nos dados abertos da ANEEL: HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7"
+    },
+    "ANEEL · notícias": {
+      "desde": "2026-11-03T13:47:46+00:00",
+      "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
     }
   },
   "aneel_objetos": {
