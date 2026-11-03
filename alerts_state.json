@@ -2930,6 +2930,14 @@
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-11-03T13:28:22+00:00",
       "erro": "pauta nos dados abertos da ANEEL: HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7"
+    },
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-03T13:37:41+00:00",
+      "erro": "busca do DOU de 03/11: 502 Server Error: Bad Gateway for url: https://www.in.gov.br/consulta/-/buscar/dou?q=%2A&s=do3&exactDate=personalizado&publishFrom=03-11-2026&publishTo=03-11-2026&delta=50&orgPr"
+    },
+    "ANEEL · notícias": {
+      "desde": "2026-11-03T13:37:46+00:00",
+      "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
     }
   },
   "aneel_objetos": {
