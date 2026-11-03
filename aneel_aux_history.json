@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T23:53:53.799211-03:00",
+  "last_updated": "2026-11-03T14:43:58.774875-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2359,7 +2359,7 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-bandeira-verde-para-vigorar-em-novembro",
       "summary": null,
-      "added_at": "2026-11-02T23:53:48.745158-03:00",
+      "added_at": "2026-11-03T14:43:53.739109-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor": {
@@ -2368,7 +2368,34 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
       "summary": null,
-      "added_at": "2026-11-02T23:53:53.298946-03:00",
+      "added_at": "2026-11-03T14:43:58.274623-03:00",
+      "error": "summarize_failed"
+    },
+    "noticia_2026_onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro": {
+      "type": "noticia",
+      "title": "ONEE 2026 premia estudantes e professores de todo o Brasil em cerimônia nacional no dia 5 de novembro",
+      "date": "03/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro",
+      "summary": null,
+      "added_at": "2026-11-03T14:43:43.861975-03:00",
+      "error": "no_body"
+    },
+    "noticia_2026_workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias": {
+      "type": "noticia",
+      "title": "Workshop debate proposta sobre rateio de custos da reserva de capacidade com baterias",
+      "date": "03/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias",
+      "summary": null,
+      "added_at": "2026-11-03T14:43:44.794278-03:00",
+      "error": "no_body"
+    },
+    "noticia_2026_aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao": {
+      "type": "noticia",
+      "title": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão",
+      "date": "03/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao",
+      "summary": null,
+      "added_at": "2026-11-03T14:43:49.200760-03:00",
       "error": "summarize_failed"
     }
   }
