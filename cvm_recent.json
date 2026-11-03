@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-03T05:43:56.295575-03:00",
+  "last_updated": "2026-11-03T13:34:08.719834-03:00",
   "items": [
+    {
+      "cnpj_short": "01944-5",
+      "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Eleição de Diretor Estatutário; Autorização para pré-pagamento de dívida - Caixa FI; Autorização à Diretoria para Prática dos Atos NecessáriosSumário das Decisões",
+      "data_referencia": "20261022 22/10/2026 14:00",
+      "data_entrega": "20261103 03/11/2026 09:16",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Eleição de Diretor Estatutário; Autorização para pré-pagamento de dívida - Caixa FI; Autorização à Diretoria para Prática dos Atos Necessários",
+      "protocolo": "1582945",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1582945",
+      "empresa_label": "Copasa",
+      "codigo_cvm": "19445",
+      "first_seen": "2026-11-03T16:34:07.039934"
+    },
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Fato Relevante",
+      "tipo": "-",
+      "especie": "FR 07/26 - Deslistagem das Ações da Latibex -",
+      "data_referencia": "20261103 03/11/2026",
+      "data_entrega": "20261103 03/11/2026 08:42",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "FR 07/26 - Deslistagem das Ações da Latibex",
+      "protocolo": "1582937",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1582937",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-11-03T16:33:53.234269"
+    },
     {
       "cnpj_short": "02557-7",
       "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
