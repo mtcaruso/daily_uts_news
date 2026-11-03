@@ -2931,9 +2931,9 @@
   ],
   "sei_parado": "2026-11-03",
   "saude": {
-    "ANEEL · notícias": {
-      "desde": "2026-11-03T20:09:45+00:00",
-      "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-03T20:14:39+00:00",
+      "erro": "busca do DOU de 02/11: 502 Server Error: Bad Gateway for url: https://www.in.gov.br/consulta/-/buscar/dou?q=%2A&s=do3&exactDate=personalizado&publishFrom=02-11-2026&publishTo=02-11-2026&delta=50&orgPr"
     }
   },
   "aneel_objetos": {
