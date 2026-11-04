@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T07:02:20.492087-03:00",
+  "last_updated": "2026-11-04T08:02:47.078584-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5479,6 +5479,96 @@
       "summarized_at": null,
       "notify_skipped": "pessoal",
       "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-gm-mme-n-118-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-118-2026",
+      "title": "Portaria GM/MME nº 118/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-118-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-118-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Designa GUSTAVO DE OLIVEIRA MACHADO, matrícula SIAPE nº 3543580, para exercer o encargo de substituto do Coordenador de Estudos de Apoio à Geração da Coordenação-Geral de Expansão da Geração, do Departamento de Planejamento e Outorgas de Geração de Energia Elétrica, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.10, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-gm-mme-n-119-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-119-2026",
+      "title": "Portaria GM/MME nº 119/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-119-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-119-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Dispensa ISABEL CESAR RIBEIRO DE JESUS, matrícula SIAPE nº 2267990, da Função Comissionada Executiva de Assistente do Departamento de Biocombustíveis, da Secretaria de Petróleo, Gás Natural e Biocombustíveis, código FCE 2.07.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-171-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-171-2026",
+      "title": "Portaria MME nº 171/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-171-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-171-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Designa GUSTAVO MAGALHÃES PINTO ASSIS, matrícula SIAPE nº 3504898, para exercer o encargo de substituto do Diretor do Departamento de Planejamento e Outorgas de Geração de Energia Elétrica da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.15, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-172-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-172-2026",
+      "title": "Portaria MME nº 172/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-172-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-172-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Designa LARISSA ASSUNÇÃO OLIVEIRA SANTOS, matrícula SIAPE nº 3501761, para exercer o encargo de substituta do Coordenador-Geral de Expansão da Geração do Departamento de Planejamento e Outorgas de Geração de Energia Elétrica, da Secretaria Nacional de Transição Energética e Planejamento, código FCE 1.13, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-173-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-173-2026",
+      "title": "Portaria MME nº 173/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-173-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-173-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Dispensa ISABEL CESAR RIBEIRO DE JESUS, matrícula SIAPE nº 2267990, do encargo de substituta eventual do Coordenador-Geral de Biodiesel e outros Biocombustíveis do Departamento de Biocombustíveis, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.13.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-945-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-945-2026",
+      "title": "Portaria MME nº 945/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-945-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-945-2026.pdf",
+      "date_modified": "04/11/2026",
+      "ementa": "Altera a Portaria MME nº 941, de 1º de outubro de 2026.",
+      "summary": null,
+      "added_at": "2026-11-04T08:02:01.365956-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notified_at": "2026-11-04T08:02:47.077849-03:00"
     }
   },
   "first_run_done": true
