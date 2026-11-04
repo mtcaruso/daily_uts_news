@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T08:02:47.078584-03:00",
+  "last_updated": "2026-11-04T09:02:17.799999-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5492,8 +5492,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-gm-mme-n-119-2026": {
       "category": "portarias",
@@ -5507,8 +5507,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-171-2026": {
       "category": "portarias",
@@ -5522,8 +5522,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-172-2026": {
       "category": "portarias",
@@ -5537,8 +5537,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-173-2026": {
       "category": "portarias",
@@ -5552,8 +5552,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-945-2026": {
       "category": "portarias",
@@ -5567,8 +5567,8 @@
       "summary": null,
       "added_at": "2026-11-04T08:02:01.365956-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notified_at": "2026-11-04T08:02:47.077849-03:00"
+      "notified_at": "2026-11-04T08:02:47.077849-03:00",
+      "error": "summarize_failed_or_skipped"
     }
   },
   "first_run_done": true
