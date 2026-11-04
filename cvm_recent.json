@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-04T13:15:57.113712-03:00",
+  "last_updated": "2026-11-04T18:59:50.843283-03:00",
   "items": [
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Energização EAM II -",
+      "data_referencia": "20261104 04/11/2026",
+      "data_entrega": "20261104 04/11/2026 18:12",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Energização EAM II",
+      "protocolo": "1583943",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1583943",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-11-04T21:59:40.422617"
+    },
     {
       "cnpj_short": "01837-6",
       "empresa_nome": "ISA ENERGIA BRASIL S.A",
