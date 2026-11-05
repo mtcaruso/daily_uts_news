@@ -1,4 +1,4 @@
-"""Configuração das 8 fontes de notícias, da busca aberta e das palavras de busca.
+"""Configuração das 8 fontes de notícias e das palavras de busca.
 
 🔴 Duas cópias IDÊNTICAS: utilities-interface/lib/sources.py (site) e
 daily_uts_news/sources.py (e-mail, resumos prontos e alertas). Mexeu em uma,
@@ -83,9 +83,6 @@ TITLE_REQUIRED_TERMS = [
 BLOCKLIST = [
     "agência de comunicação", "patrocinado", "publicidade",
     "press release", "informe publicitário", "branded content",
-    # "Transmissão ao vivo de Milan x ...: veja onde assistir" passa no filtro
-    # por "transmissão" (aparece muito na busca aberta)
-    "onde assistir",
 ]
 
 
@@ -98,14 +95,13 @@ def _term(t: str) -> str:
     return f'"{t}"' if " " in t else t
 
 
-def build_queries(domain: str | None, sector_only: bool = False, days: int = 2) -> list[str]:
-    """Buscas do Google News para um site (ou para qualquer veículo, se
-    domain=None), cada uma com até QUERY_MAX_BYTES.
+def build_queries(domain: str, sector_only: bool = False, days: int = 2) -> list[str]:
+    """Buscas do Google News para um site, cada uma com até QUERY_MAX_BYTES.
 
     Site setorial (sector_only) = tudo do site, sem palavras. Os demais: uma
     ou mais buscas por grupo de SEARCH_GROUPS (grupos nunca se misturam, para
     uma palavra ampla não lotar o teto de 100 de uma busca de específicas)."""
-    head = f"site:{domain} when:{days}d" if domain else f"when:{days}d"
+    head = f"site:{domain} when:{days}d"
     if sector_only:
         return [head]
 
@@ -126,10 +122,7 @@ def build_queries(domain: str | None, sector_only: bool = False, days: int = 2) 
 
 
 def source_queries(source: dict, days: int) -> list[str]:
-    """Buscas de uma fonte: aberta (open), por site (domain) ou o formato
-    antigo (query)."""
-    if source.get("open"):
-        return build_queries(None, False, days)
+    """Buscas de uma fonte. Aceita o formato novo (domain) e o antigo (query)."""
     if source.get("domain"):
         return build_queries(source["domain"], source.get("sector_only", False), days)
     return [f"{source['query']} when:{days}d"]
@@ -147,25 +140,3 @@ SOURCES = [
     {"name": "Canal Energia",  "domain": "canalenergia.com.br", "sector_only": True},
     {"name": "Megawhat",       "domain": "megawhat.uol.com.br", "sector_only": True},
 ]
-
-# Busca ABERTA (05/11/2026, pedido dele: "liberar para tudo que é veículo"):
-# as mesmas palavras sem `site:`, qualquer veículo do Google News, com o filtro
-# de título. SOMA às 8 fontes acima: sozinha, pegava só ~50 matérias delas,
-# porque 7 de 10 buscas batem no teto de 100 (é uma AMOSTRA do país, não tudo).
-# Em 05/11: ~575 manchetes em 30h, ~360 veículos, muita notícia local.
-# Entra no site e nos resumos prontos (news_summarize, depois das 8 fontes).
-# Fica FORA do e-mail diário (15 por fonte = 15 notícias locais aleatórias) e
-# dos alertas do Telegram (centenas de itens novos por dia).
-OPEN_SOURCE = {"name": "Outros veículos", "open": True, "strict_title": True}
-
-# Matéria das 8 fontes já vem pelas buscas próprias; rede social não é veículo.
-OPEN_SKIP_DOMAINS = tuple(s["domain"] for s in SOURCES) + (
-    "instagram.com", "facebook.com", "youtube.com", "x.com", "twitter.com",
-    "linkedin.com", "tiktok.com", "threads.net",
-)
-
-
-def open_skip(domain: str) -> bool:
-    """True se a matéria da busca aberta deve ser descartada pelo domínio."""
-    d = (domain or "").lower().removeprefix("www.")
-    return any(d == s or d.endswith("." + s) for s in OPEN_SKIP_DOMAINS)

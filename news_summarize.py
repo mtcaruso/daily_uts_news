@@ -20,11 +20,7 @@ from googlenewsdecoder import gnewsdecoder
 
 import gemini_util
 from digest import fetch_source as fetch_news
-from sources import OPEN_SOURCE, SOURCES
-
-# Busca aberta POR ÚLTIMO: com o teto de MAX_SUMMARIZE_PER_RUN, as 8 fontes
-# são resumidas primeiro e os outros veículos usam o que sobrar do teto.
-FETCH_SOURCES = SOURCES + [OPEN_SOURCE]
+from sources import SOURCES
 
 # Fuso explícito: o GHA roda em UTC e o PC em BRT — datetime.now() sem fuso
 # gravava horários em fusos diferentes no mesmo campo (a interface não tinha
@@ -377,10 +373,10 @@ def main():
     }
 
     # Fetch todas as fontes (mesma lógica do digest.py)
-    print(f"[news_summarize] Fetching {len(FETCH_SOURCES)} sources…", file=sys.stderr)
+    print(f"[news_summarize] Fetching {len(SOURCES)} sources…", file=sys.stderr)
     all_items = []
     source_counts = {}
-    for src in FETCH_SOURCES:
+    for src in SOURCES:
         try:
             items = fetch_news(src)
             n = len(items)
