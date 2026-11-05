@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T08:06:30.487066-03:00",
+  "last_updated": "2026-11-05T09:07:27.981477-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5582,8 +5582,51 @@
       "summary": null,
       "added_at": "2026-11-05T08:05:49.024572-03:00",
       "summarized_at": null,
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-gm-mme-n-121-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-121-2026",
+      "title": "Portaria GM/MME nº 121/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-121-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-121-2026.pdf",
+      "date_modified": "05/11/2026",
+      "ementa": "Nomeia GIOVANA RESENDE SIQUEIRA CAMPOS, CPF nº ***.494.741-**, para exercer o Cargo Comissionado Executivo de Chefe de Projeto II do Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral, código CCE 3.07.",
+      "summary": null,
+      "added_at": "2026-11-05T09:06:22.470395-03:00",
+      "summarized_at": null,
       "error": "summarize_failed_or_skipped",
       "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-944-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-944-2026",
+      "title": "Portaria MME nº 944/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-944-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-944-2026.pdf",
+      "date_modified": "05/11/2026",
+      "ementa": "Altera a Portaria MME nº 884, de 19 de novembro de 2025, que dispõe sobre a remuneração da Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A. - PPSA, nos termos do art. 4º, § 2º, incisos I e II, §§ 4º e 9º, e do art. 7º, incisos I e II, da Lei nº 12.304, de 2 de agosto de 2010, e do art. 4º-A do Decreto nº 8.063, de 1º de agosto de 2013, e dá outras providências.",
+      "summary": null,
+      "added_at": "2026-11-05T09:06:22.470395-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notified_at": "2026-11-05T09:07:20.301743-03:00"
+    },
+    "decretos_decreto-n-13-146-2026": {
+      "category": "decretos",
+      "label": "Decreto",
+      "slug": "decreto-n-13-146-2026",
+      "title": "Decreto nº 13.146/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-146-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2026/decreto-n-13-146-2026.pdf",
+      "date_modified": "05/11/2026",
+      "ementa": "Estabelece critérios econômicos, socioambientais e climáticos para a definição e a atualização do rol de substâncias enquadradas como minerais críticos e minerais estratégicos e dispõe sobre a possibilidade de organização desses minerais em classes de prioridade.",
+      "summary": null,
+      "added_at": "2026-11-05T09:06:22.470395-03:00",
+      "notified_at": "2026-11-05T09:07:27.980810-03:00"
     }
   },
   "first_run_done": true
