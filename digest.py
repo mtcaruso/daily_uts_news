@@ -2,6 +2,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote_plus
@@ -9,7 +10,7 @@ from urllib.parse import quote_plus
 import feedparser
 import requests
 
-from sources import SOURCES, TITLE_REQUIRED_TERMS
+from sources import SOURCES, TITLE_REQUIRED_TERMS, BLOCKLIST, days_for, source_queries
 
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "30"))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", "15"))
@@ -18,19 +19,19 @@ RESEND_API_KEY = os.environ["RESEND_API_KEY"]
 DIGEST_TO = os.environ["DIGEST_TO"]
 DIGEST_FROM = os.environ.get("DIGEST_FROM", "Utilities Digest <onboarding@resend.dev>")
 
-BLOCKLIST = [
-    "agência de comunicação",
-    "patrocinado",
-    "publicidade",
-    "press release",
-    "informe publicitário",
-    "branded content",
-]
-
 
 def is_promotional(title):
     title_lower = title.lower()
     return any(term in title_lower for term in BLOCKLIST)
+
+
+# Página de TAG do veículo ("Tag Potência - MegaWhat") que o Google News indexa
+# como notícia. Mesmo filtro do site (lib/news.py); `\b` poupa "Tagarela".
+_TAG_PAGE_RE = re.compile(r"\s*tags?\b", re.IGNORECASE)
+
+
+def is_tag_page(title):
+    return bool(_TAG_PAGE_RE.match(title or ""))
 
 
 _TITLE_TERM_RE = re.compile(
@@ -58,26 +59,44 @@ def jaccard(a, b):
     return len(wa & wb) / len(wa | wb)
 
 
-def fetch_source(source):
+def _fetch_entries(query):
     url = (
         "https://news.google.com/rss/search?"
-        f"q={quote_plus(source['query'])}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+        f"q={quote_plus(query)}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     )
     feed = feedparser.parse(url)
+    status = feed.get("status")
+    if status and status != 200:
+        print(f"[google news] HTTP {status}: {query[:80]}", file=sys.stderr)
+    return feed.entries
+
+
+def fetch_source(source):
+    """Manchetes de uma fonte nas últimas LOOKBACK_HOURS. Uma fonte tem várias
+    buscas (o Google só lê 200 caracteres por busca, ver sources.py); a mesma
+    matéria volta em várias delas, então junta sem repetir (link e título)."""
+    queries = source_queries(source, days_for(LOOKBACK_HOURS))
+    with ThreadPoolExecutor(max_workers=min(4, len(queries))) as ex:
+        entry_lists = list(ex.map(_fetch_entries, queries))
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-    items = []
-    for entry in feed.entries:
-        try:
-            published = parsedate_to_datetime(entry.published)
-        except Exception:
-            continue
-        if published < cutoff:
-            continue
-        if is_promotional(entry.title):
-            continue
-        if source.get("strict_title") and not title_has_required_term(entry.title):
-            continue
-        items.append({"title": entry.title, "link": entry.link, "published": published})
+    items, seen = [], set()
+    for entries in entry_lists:
+        for entry in entries:
+            key_link, key_title = entry.get("link"), (entry.get("title") or "").strip().lower()
+            if key_link in seen or key_title in seen:
+                continue
+            try:
+                published = parsedate_to_datetime(entry.published)
+            except Exception:
+                continue
+            if published < cutoff:
+                continue
+            if is_promotional(entry.title) or is_tag_page(entry.title):
+                continue
+            if source.get("strict_title") and not title_has_required_term(entry.title):
+                continue
+            seen.update((key_link, key_title))
+            items.append({"title": entry.title, "link": entry.link, "published": published})
     items.sort(key=lambda i: i["published"], reverse=True)
     return items
 
