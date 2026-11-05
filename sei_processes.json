@@ -1265,7 +1265,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-21T08:00:55.284213-03:00",
+    "last_check_at": "2026-11-05T15:15:41.890699-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1462,7 +1462,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-10-21T08:01:00.933136-03:00",
+    "last_check_at": "2026-11-05T15:15:44.752705-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1912,10 +1912,10 @@
       "3b6d0240376f"
     ],
     "andamento_count": 272,
-    "documento_count": 141,
+    "documento_count": 142,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-10-21T08:01:07.421927-03:00",
+    "last_check_at": "2026-11-05T15:15:48.054440-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/10/2026 15:45",
@@ -1980,6 +1980,13 @@
     ],
     "last_documentos_top10": [
       {
+        "protocolo": "0491149",
+        "tipo": "Memorando 369",
+        "data": "22/10/2026",
+        "data_inclusao": "22/10/2026",
+        "unidade": "SCE"
+      },
+      {
         "protocolo": "48500.029124/2026-18",
         "tipo": "Outorga de Geração: Hídrica - Autorização",
         "data": "02/10/2026",
@@ -2038,13 +2045,6 @@
       {
         "protocolo": "0388976",
         "tipo": "Anexo II Modulo 2",
-        "data": "02/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF"
-      },
-      {
-        "protocolo": "0388980",
-        "tipo": "Anexo III Modulo 3",
         "data": "02/06/2026",
         "data_inclusao": "23/06/2026",
         "unidade": "DIR - WMF"
@@ -2191,7 +2191,8 @@
       "0391612",
       "0422323",
       "0423039",
-      "48500.029124/2026-18"
+      "48500.029124/2026-18",
+      "0491149"
     ]
   },
   {
@@ -2201,6 +2202,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-28T13:34:02.332268-03:00",
     "andamentos_seen": [
+      "d9ee87ec7d57",
       "045738d3813f",
       "d80e80437a59",
       "8d92f4221d5f",
@@ -2296,10 +2298,16 @@
     ],
     "processo": "48500.007946/2026-30",
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
-    "andamento_count": 92,
-    "documento_count": 58,
-    "last_check_at": "2026-10-21T08:01:25.423741-03:00",
+    "andamento_count": 93,
+    "documento_count": 60,
+    "last_check_at": "2026-11-05T15:15:53.862873-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "04/11/2026 17:55",
+        "unidade": "PROCURADORIA FEDERAL",
+        "descricao": "Processo 48500.031860/2026-28 anexado",
+        "hash": "d9ee87ec7d57"
+      },
       {
         "datahora": "13/10/2026 15:16",
         "unidade": "PROCURADORIA FEDERAL",
@@ -2353,15 +2361,23 @@
         "unidade": "STR",
         "descricao": "Processo 48500.025214/2026-21 anexado",
         "hash": "fa3b3c13161f"
-      },
-      {
-        "datahora": "28/08/2026 11:27",
-        "unidade": "GAB - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "8a4c5ec21847"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "48500.031860/2026-28",
+        "tipo": "Processo Externo - Pendente de Classificação pela Unidade Destinatária",
+        "data": "29/10/2026",
+        "data_inclusao": "29/10/2026",
+        "unidade": "PROTOCOLO-GERAL"
+      },
+      {
+        "protocolo": "0492827",
+        "tipo": "Lista",
+        "data": "23/10/2026",
+        "data_inclusao": "23/10/2026",
+        "unidade": "PROCURADORIA FEDERAL"
+      },
       {
         "protocolo": "0480158",
         "tipo": "Memorando 203",
@@ -2417,20 +2433,6 @@
         "data": "16/07/2026",
         "data_inclusao": "28/08/2026",
         "unidade": "GAB - APOIO"
-      },
-      {
-        "protocolo": "48500.025214/2026-21",
-        "tipo": "Gestão Tarifária: Transmissão - Regulamentação da TUST",
-        "data": "27/08/2026",
-        "data_inclusao": "27/08/2026",
-        "unidade": "PROTOCOLO-GERAL"
-      },
-      {
-        "protocolo": "0438605",
-        "tipo": "Parecer Jurídico 207",
-        "data": "24/08/2026",
-        "data_inclusao": "24/08/2026",
-        "unidade": "PROCURADORIA FEDERAL"
       }
     ],
     "documentos_protocolos": [
@@ -2491,7 +2493,9 @@
       "0458377",
       "48500.025214/2026-21",
       "0476140",
-      "0480158"
+      "0480158",
+      "0492827",
+      "48500.031860/2026-28"
     ]
   }
 ]

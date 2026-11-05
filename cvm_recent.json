@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-05T14:03:41.772159-03:00",
+  "last_updated": "2026-11-05T15:17:22.082886-03:00",
   "items": [
+    {
+      "cnpj_short": "00245-3",
+      "empresa_nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20261001 10/2026",
+      "data_entrega": "20261105 05/11/2026 14:38",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1584652",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1584652",
+      "empresa_label": "Cemig",
+      "codigo_cvm": "2453",
+      "first_seen": "2026-11-05T15:17:12.354280"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T14:29:22.675919-03:00",
+  "last_updated": "2026-11-05T15:14:59.558092-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -1435,7 +1435,7 @@
       "summary": "Aprimoramento da classificação de modalidades de operação de usinas conectadas ao sistema, com alteração dos Procedimentos de Rede e contemplando diversos submódulos, conforme minuta do **ONS**.",
       "added_at": "2026-10-07T20:30:24.255545",
       "objeto": "obter subsídios para o aprimoramento da proposta de alteração dos Procedimentos de Rede associada à revisão da classificação das modalidades de operação de usinas conectadas ao sistema, contemplando os Submódulos 1.2, 2.1, 2.4, 2.12, 2.14, 2.15, 3.1, 3.4, 3.5, 3.9, 3.10, 4.1, 4.2, 4.4, 4.5, 6.1, 6.9, 7.1, 7.2, 7.4, 7.11 e 7.13, nos termos das minutas encaminhadas pelo ONS.",
-      "deadline": "02/11/2026",
+      "deadline": "12/11/2026",
       "start_date": "17/09/2026",
       "fonte": "ANEEL",
       "deadline_source": "detalhe",
@@ -1449,7 +1449,7 @@
       "summary": "Aprimoramento do Módulo 3 do PRODIST para requisitos de observabilidade, operabilidade e controlabilidade de REDs, incluindo AIR para interoperabilidade do parque existente.",
       "added_at": "2026-10-07T20:30:29.240308",
       "objeto": "obter subsídios para o aprimoramento do Módulo 3 dos Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional – PRODIST para estabelecimento de requisitos de observabilidade, operabilidade e controlabilidade dos Recursos Energéticos Distribuídos (REDs), bem como do Relatório de Análise de Impacto Regulatório – AIR, que trata da aplicação dos requisitos de interoperabilidade ao parque existente de REDs. \"IMPORTANTE: As contribuições deverão ser enviadas em formato Word e utilizando o \"Modelo para envio de contribuições\" na seção \"Documentos disponibilizados\".",
-      "deadline": "09/11/2026",
+      "deadline": "30/11/2026",
       "start_date": "10/09/2026",
       "fonte": "ANEEL",
       "deadline_source": "detalhe",
@@ -2359,7 +2359,7 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-bandeira-verde-para-vigorar-em-novembro",
       "summary": null,
-      "added_at": "2026-11-05T14:59:18.659303-03:00",
+      "added_at": "2026-11-05T15:14:18.880864-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor": {
@@ -2368,7 +2368,7 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
       "summary": null,
-      "added_at": "2026-11-05T14:59:23.234655-03:00",
+      "added_at": "2026-11-05T15:14:23.732064-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro": {
@@ -2377,7 +2377,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro",
       "summary": null,
-      "added_at": "2026-11-05T14:59:04.640723-03:00",
+      "added_at": "2026-11-05T15:14:04.851554-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias": {
@@ -2386,7 +2386,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias",
       "summary": null,
-      "added_at": "2026-11-05T14:59:09.315420-03:00",
+      "added_at": "2026-11-05T15:14:09.559282-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao": {
@@ -2395,7 +2395,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao",
       "summary": null,
-      "added_at": "2026-11-05T14:59:13.893582-03:00",
+      "added_at": "2026-11-05T15:14:14.224329-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-participa-do-evex-lisboa-2026-e-e-homenageada-pelos-30-anos-de-atuacao": {
@@ -2404,7 +2404,7 @@
       "date": "04/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-participa-do-evex-lisboa-2026-e-e-homenageada-pelos-30-anos-de-atuacao",
       "summary": null,
-      "added_at": "2026-11-05T14:59:00.053191-03:00",
+      "added_at": "2026-11-05T15:14:00.161247-03:00",
       "error": "summarize_failed"
     },
     "partic_mme_cp_241": {
@@ -2427,7 +2427,7 @@
       "date": "04/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/semana-olimpica-reune-estudantes-de-todo-o-pais-em-brasilia",
       "summary": null,
-      "added_at": "2026-11-05T14:58:55.477322-03:00",
+      "added_at": "2026-11-05T15:13:55.465786-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_campeoes-nacionais-da-onee-2026-sao-premiados-em-cerimonia-realizada-em-brasilia": {
@@ -2436,8 +2436,68 @@
       "date": "05/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/campeoes-nacionais-da-onee-2026-sao-premiados-em-cerimonia-realizada-em-brasilia",
       "summary": null,
-      "added_at": "2026-11-05T14:58:50.886609-03:00",
+      "added_at": "2026-11-05T15:13:50.757397-03:00",
       "error": "summarize_failed"
+    },
+    "pauta_14832": {
+      "type": "pauta_rd",
+      "title": "PAUTA DO 20º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
+      "date": "10/11/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14832&idAreaNoticia=425",
+      "summary": null,
+      "added_at": "2026-11-05T15:14:40.215253-03:00",
+      "error": "summarize_failed"
+    },
+    "pauta_14829": {
+      "type": "pauta_rd",
+      "title": "PAUTA/ATA DA 22ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026 (PRÉVIA)",
+      "date": "03/11/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14829&idAreaNoticia=425",
+      "summary": null,
+      "added_at": "2026-11-05T15:14:44.924598-03:00",
+      "error": "summarize_failed"
+    },
+    "partic_cp_041_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 041/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=MhxRfjr9&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4077&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+      "added_at": "2026-11-05T15:14:49.635617-03:00",
+      "objeto": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+      "deadline": "27/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "29/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-11-05T15:14:49.635670-03:00"
+    },
+    "partic_cp_040_2026": {
+      "type": "partic_cp",
+      "title": "Consulta Pública nº 040/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=MhxRfjr9&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4076&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "obter subsídios e informações com vistas à regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025.",
+      "added_at": "2026-11-05T15:14:54.348839-03:00",
+      "objeto": "obter subsídios e informações com vistas à regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025.",
+      "deadline": "14/12/2026",
+      "deadline_source": "detalhe",
+      "start_date": "29/10/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-11-05T15:14:54.348877-03:00"
+    },
+    "partic_ap_008_2026": {
+      "type": "partic_ap",
+      "title": "Audiência Pública nº 008/2026",
+      "date": null,
+      "link": "https://antigo.aneel.gov.br/web/guest/audiencias-publicas?p_auth=noWkbKiA&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4078&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "summary": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+      "added_at": "2026-11-05T15:14:59.057157-03:00",
+      "objeto": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+      "deadline": "19/11/2026",
+      "deadline_source": "detalhe",
+      "start_date": "19/11/2026",
+      "fonte": "ANEEL",
+      "first_seen": "2026-11-05T15:14:59.057201-03:00"
     }
   }
 }
