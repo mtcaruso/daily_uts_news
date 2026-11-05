@@ -5,12 +5,13 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 import feedparser
 import requests
 
-from sources import SOURCES, TITLE_REQUIRED_TERMS, BLOCKLIST, days_for, source_queries
+# OPEN_SOURCE (busca aberta) fica FORA do e-mail: main() só percorre SOURCES.
+from sources import SOURCES, TITLE_REQUIRED_TERMS, BLOCKLIST, days_for, open_skip, source_queries
 
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "30"))
 MAX_PER_SOURCE = int(os.environ.get("MAX_PER_SOURCE", "15"))
@@ -74,7 +75,10 @@ def _fetch_entries(query):
 def fetch_source(source):
     """Manchetes de uma fonte nas últimas LOOKBACK_HOURS. Uma fonte tem várias
     buscas (o Google só lê 200 caracteres por busca, ver sources.py); a mesma
-    matéria volta em várias delas, então junta sem repetir (link e título)."""
+    matéria volta em várias delas, então junta sem repetir (link e título).
+    Busca aberta (source["open"]): pula as 8 fontes e rede social, e o item
+    leva o nome do veículo em "source"."""
+    is_open = bool(source.get("open"))
     queries = source_queries(source, days_for(LOOKBACK_HOURS))
     with ThreadPoolExecutor(max_workers=min(4, len(queries))) as ex:
         entry_lists = list(ex.map(_fetch_entries, queries))
@@ -85,6 +89,12 @@ def fetch_source(source):
             key_link, key_title = entry.get("link"), (entry.get("title") or "").strip().lower()
             if key_link in seen or key_title in seen:
                 continue
+            outlet = None
+            if is_open:
+                src = entry.get("source") or {}
+                if open_skip(urlparse(src.get("href") or "").netloc):
+                    continue
+                outlet = (src.get("title") or "").strip() or source["name"]
             try:
                 published = parsedate_to_datetime(entry.published)
             except Exception:
@@ -96,7 +106,10 @@ def fetch_source(source):
             if source.get("strict_title") and not title_has_required_term(entry.title):
                 continue
             seen.update((key_link, key_title))
-            items.append({"title": entry.title, "link": entry.link, "published": published})
+            item = {"title": entry.title, "link": entry.link, "published": published}
+            if outlet:
+                item["source"] = outlet
+            items.append(item)
     items.sort(key=lambda i: i["published"], reverse=True)
     return items
 
