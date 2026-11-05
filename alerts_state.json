@@ -3000,9 +3000,9 @@
   ],
   "sei_parado": "2026-11-05",
   "saude": {
-    "MME · consultas públicas": {
-      "desde": "2026-11-05T21:50:55+00:00",
-      "erro": "API do MME: 503 Server Error: Service Temporarily Unavailable for url: https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=40&sortBy=id&sortDire"
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-05T22:06:48+00:00",
+      "erro": "busca do DOU de 04/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read timed out. (read timeout=40)"
     }
   },
   "aneel_objetos": {
