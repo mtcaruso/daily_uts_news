@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T07:07:01.843087-03:00",
+  "last_updated": "2026-11-05T08:06:30.487066-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5569,6 +5569,21 @@
       "summarized_at": null,
       "notified_at": "2026-11-04T08:02:47.077849-03:00",
       "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-gm-mme-n-120-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-gm-mme-n-120-2026",
+      "title": "Portaria GM/MME nº 120/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-120-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-gm-mme-n-120-2026.pdf",
+      "date_modified": "05/11/2026",
+      "ementa": "Exonera, a pedido, INGRID EVA OLIVEIRA RIBEIRO, matrícula SIAPE nº 1233115, do Cargo Comissionado Executivo de Chefe de Projeto II do Gabinete da Secretaria Nacional de Geologia, Mineração e Transformação Mineral, código CCE 3.07, a partir de 30 de outubro de 2026.",
+      "summary": null,
+      "added_at": "2026-11-05T08:05:49.024572-03:00",
+      "summarized_at": null,
+      "error": "summarize_failed_or_skipped",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
