@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:07:27.981477-03:00",
+  "last_updated": "2026-11-05T10:06:24.176286-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5597,8 +5597,8 @@
       "summary": null,
       "added_at": "2026-11-05T09:06:22.470395-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notify_skipped": "pessoal"
+      "notify_skipped": "pessoal",
+      "error": "summarize_failed_or_skipped"
     },
     "portarias_portaria-mme-n-944-2026": {
       "category": "portarias",
@@ -5612,8 +5612,8 @@
       "summary": null,
       "added_at": "2026-11-05T09:06:22.470395-03:00",
       "summarized_at": null,
-      "error": "summarize_failed_or_skipped",
-      "notified_at": "2026-11-05T09:07:20.301743-03:00"
+      "notified_at": "2026-11-05T09:07:20.301743-03:00",
+      "error": "summarize_failed_or_skipped"
     },
     "decretos_decreto-n-13-146-2026": {
       "category": "decretos",
