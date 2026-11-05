@@ -1,44 +1,98 @@
 name: Keep-Alive (mantém o dashboard acordado 24/7)
 
-# A Streamlit Community Cloud "dorme" o app após um tempo sem tráfego — e NÃO dá
-# pra mudar esse timeout no plano grátis. Este job faz um GET no app a cada ~5min
-# pra resetar o timer de inatividade → o site nunca cai na tela "gone to sleep"
-# e fica rápido (container quente, caches mornos). É UM job longo num while, não
-# depende do cron do GHA ser honrado (mesmo padrão do cvm-fast.yml). Repo público
-# = Actions ilimitado → grátis e 24/7, independente do PC local estar ligado.
+# A Streamlit Community Cloud "dorme" o app após um tempo sem tráfego, e NÃO dá
+# pra mudar esse timeout no plano grátis. Este job "visita" o app a cada ~5min
+# e, se ele tiver dormido mesmo assim, ACORDA na hora (o mesmo POST do botão
+# "Yes, get this app back up!"). Repo público = Actions ilimitado, grátis e 24/7,
+# independente do PC local estar ligado.
 #
-# 🔴 O ping SEGUE os redirects (-L): a Streamlit responde 303 pro gateway de
-# auth/wake (share.streamlit.io/-/auth/app) e só DEPOIS serve o app (200). Sem
-# -L o ping para no 303 e não "acorda" o app.
+# Cada ciclo imita o navegador:
+#   1) GET da página GUARDANDO COOKIES. 🔴 Desde ~out/2026 a Streamlit passa por
+#      /-/login?payload=… e, sem cookie, isso vira loop de redirect (curl desiste
+#      em 50). O ping antigo (só `curl -L`) falhava assim em todo ciclo e o
+#      workflow seguia verde: o app dormiu em 05/11/2026.
+#   2) GET /api/v2/app/status → "status" (5 = rodando, 12 = dormindo) + o token
+#      CSRF, que vem no cabeçalho x-csrf-token.
+#   3) status ≠ 5 → POST /api/v2/app/resume (precisa de token + Referer + Origin).
+#   4) POST /api/v1/app/event/open: registra uma visita, como o navegador faz.
+# Se o app precisar ser acordado, ou se o ping falhar, sai um ::warning:: (as
+# anotações são públicas: dá pra ver pela API sem login).
 #
-# OBS: o GET NÃO roda o script Python do app (isso só acontece via websocket
-# quando um browser abre de verdade), então NÃO gasta Gemini. As notícias já são
-# resumidas via LLM pelo backend (news_refresh 2x/h + self-host 30min),
-# independente do site estar acordado.
+# OBS: nada disso roda o script Python do app (isso só acontece via websocket
+# quando um navegador abre de verdade), então NÃO gasta Gemini.
+#
+# Mesmo esquema do alerts-loop: UM job longo (~5h30) que, ao terminar, dispara o
+# próximo elo por workflow_dispatch (o GITHUB_TOKEN pode). O cron de 2h só
+# ressuscita a corrente se ela quebrar (antes o cron de 4h era o único gatilho,
+# e o agendador do GitHub deixava buracos de até 7h).
 on:
-  schedule:
-    # reinicia a cada 4h (o job loopa ~5.5h → sobrepõe e cobre um cron dropado)
-    - cron: "9 */4 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "9 */2 * * *"
+  push:
+    branches: [main]
+    paths: [.github/workflows/keep-alive.yml]  # mudou o arquivo → já começa
 
+permissions:
+  actions: write  # disparar o próximo elo
+
+# Sem cancel-in-progress: com a corrente viva, o cron fica pendente e é
+# substituído pelo próximo elo (nunca 2 loops juntos).
 concurrency:
   group: keep-alive
-  cancel-in-progress: true  # novo run cancela o antigo (nunca 2 loops juntos)
+  cancel-in-progress: false
 
 jobs:
   ping:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
-      - name: Ping loop (~5min, por ~5.5h)
+      - name: Ping loop (~5min, por ~5h30)
         run: |
-          URL="https://utilities-clipping.streamlit.app/"
+          set +e  # um curl com erro não pode matar o loop
+          U="https://utilities-clipping.streamlit.app"
           UA="Mozilla/5.0 (keep-alive bot; mtcaruso/daily_uts_news)"
-          end=$(( $(date +%s) + 19800 ))   # ~5.5h
-          ok=0; fail=0
-          while [ $(date +%s) -lt $end ]; do
-            code=$(curl -sS -L --max-time 45 -A "$UA" -o /dev/null -w "%{http_code}" "$URL" || echo "000")
-            if [ "$code" = "200" ]; then ok=$((ok+1)); else fail=$((fail+1)); fi
-            echo "$(date -u +%H:%M:%S)Z keep-alive -> HTTP $code (ok=$ok fail=$fail)"
-            sleep 300
+          JAR=$(mktemp); HDR=$(mktemp)
+          end=$(( $(date +%s) + 19800 ))  # ~5h30
+          ok=0; fail=0; seguidas=0; acordou=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            t0=$(date +%s)
+            # 1) página, com cookies
+            page=$(curl -sS -L --max-redirs 10 --max-time 45 -c "$JAR" -b "$JAR" -A "$UA" \
+                     -o /dev/null -w "%{http_code}" "$U/")
+            # 2) status + token CSRF
+            : > "$HDR"
+            st=$(curl -sS --max-time 30 -c "$JAR" -b "$JAR" -A "$UA" -D "$HDR" "$U/api/v2/app/status" \
+                   | grep -o '"status":[0-9]*' | cut -d: -f2)
+            grep -qE '^HTTP/[0-9.]+ 200' "$HDR" || st=""  # resposta de erro também tem "status"
+            tok=$(grep -i '^x-csrf-token:' "$HDR" | head -1 | cut -d' ' -f2 | tr -d '\r')
+            H=(-c "$JAR" -b "$JAR" -A "$UA" -H "Referer: $U/" -H "Origin: $U" -H "x-csrf-token: $tok")
+            # 3) parado → acorda
+            if [ -n "$st" ] && [ "$st" != "5" ]; then
+              r=$(curl -sS --max-time 30 "${H[@]}" -X POST -d '' -o /dev/null -w "%{http_code}" "$U/api/v2/app/resume")
+              acordou=$((acordou+1))
+              echo "::warning::app estava parado (status=$st), resume -> HTTP $r"
+            fi
+            # 4) visita
+            ev=$(curl -sS --max-time 30 "${H[@]}" -X POST -H "Content-Type: application/json" -d '{}' \
+                   -o /dev/null -w "%{http_code}" "$U/api/v1/app/event/open")
+            if [ "$page" = "200" ] && [ -n "$st" ] && [ "$ev" = "200" ]; then
+              ok=$((ok+1)); seguidas=0
+            else
+              fail=$((fail+1)); seguidas=$((seguidas+1))
+            fi
+            echo "$(date -u +%H:%M:%S)Z página=$page status=${st:-?} visita=$ev (ok=$ok falhas=$fail)"
+            # avisa na 1ª falha e de hora em hora enquanto durar
+            if [ "$seguidas" -eq 1 ] || { [ "$seguidas" -gt 0 ] && [ $((seguidas % 12)) -eq 0 ]; }; then
+              echo "::warning::keep-alive falhando há $seguidas ciclo(s): página=$page status=${st:-?} visita=$ev"
+            fi
+            resto=$(( 300 - ($(date +%s) - t0) ))
+            [ $(( $(date +%s) + resto )) -ge "$end" ] && break
+            [ "$resto" -gt 0 ] && sleep "$resto"
           done
+          echo "fim: ok=$ok falhas=$fail acordou=$acordou"
+      - name: Dispara o próximo elo
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run keep-alive.yml --ref main
