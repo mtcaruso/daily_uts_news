@@ -6,6 +6,10 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "5bed294d0cb3",
+      "b851b8e69ded",
+      "c603dc0a36e5",
+      "491e2776d229",
       "eec833395d9e",
       "81f81466bec9",
       "524dd1659877",
@@ -604,12 +608,36 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 597,
-    "documento_count": 471,
+    "andamento_count": 601,
+    "documento_count": 475,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-10-21T08:00:49.660619-03:00",
+    "last_check_at": "2026-11-05T16:33:49.381564-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "05/11/2026 10:55",
+        "unidade": "CPL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "5bed294d0cb3"
+      },
+      {
+        "datahora": "04/11/2026 10:53",
+        "unidade": "CPL",
+        "descricao": "Processo remetido pela unidade SEL",
+        "hash": "b851b8e69ded"
+      },
+      {
+        "datahora": "29/10/2026 17:16",
+        "unidade": "SEL",
+        "descricao": "Processo recebido na unidade",
+        "hash": "c603dc0a36e5"
+      },
+      {
+        "datahora": "29/10/2026 17:08",
+        "unidade": "SEL",
+        "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+        "hash": "491e2776d229"
+      },
       {
         "datahora": "20/10/2026 11:02",
         "unidade": "SGE - PUBLICAÇÃO",
@@ -645,33 +673,37 @@
         "unidade": "GAB - APOIO",
         "descricao": "Reabertura do processo na unidade",
         "hash": "70c1f9265fef"
-      },
-      {
-        "datahora": "05/10/2026 15:18",
-        "unidade": "CPL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "6b066c075d2e"
-      },
-      {
-        "datahora": "05/10/2026 10:13",
-        "unidade": "GAB - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "92273a2d26cc"
-      },
-      {
-        "datahora": "01/10/2026 16:00",
-        "unidade": "CPL",
-        "descricao": "Processo remetido pela unidade SEL",
-        "hash": "878f6dade938"
-      },
-      {
-        "datahora": "01/10/2026 15:41",
-        "unidade": "SEL",
-        "descricao": "Disponibilizado acesso externo para MINISTÉRIO PÚBLICO FEDERAL ( [email&#160;protected] ) até 23/03/2032 (2000 dias). Com visualização integral do processo. Atendimento à solicitação constante do OFÍCIO Nº 7139/2026 - LLO/PRDF/MPF.",
-        "hash": "7f640fb36249"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0492409",
+        "tipo": "Extrato da Decisão da Diretoria",
+        "data": "29/10/2026",
+        "data_inclusao": "29/10/2026",
+        "unidade": "SGE - PUBLICAÇÃO"
+      },
+      {
+        "protocolo": "0495554",
+        "tipo": "E-mail",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "GAB IV - GNSJ"
+      },
+      {
+        "protocolo": "0487272",
+        "tipo": "Requerimento de Inclusão em Pauta",
+        "data": "22/10/2026",
+        "data_inclusao": "22/10/2026",
+        "unidade": "GAB IV - GNSJ"
+      },
+      {
+        "protocolo": "0490114",
+        "tipo": "Voto",
+        "data": "22/10/2026",
+        "data_inclusao": "22/10/2026",
+        "unidade": "GAB IV - GNSJ"
+      },
       {
         "protocolo": "0480908",
         "tipo": "Memória",
@@ -712,34 +744,6 @@
         "tipo": "Memória",
         "data": "11/09/2026",
         "data_inclusao": "21/09/2026",
-        "unidade": "GAB - APOIO"
-      },
-      {
-        "protocolo": "0462590",
-        "tipo": "Memória",
-        "data": "21/09/2026",
-        "data_inclusao": "21/09/2026",
-        "unidade": "GAB - APOIO"
-      },
-      {
-        "protocolo": "48500.027485/2026-11",
-        "tipo": "Leilão de Geração: Reserva de Capacidade",
-        "data": "18/09/2026",
-        "data_inclusao": "18/09/2026",
-        "unidade": "PROTOCOLO-GERAL"
-      },
-      {
-        "protocolo": "48500.027451/2026-27",
-        "tipo": "Leilão de Geração: Reserva de Capacidade",
-        "data": "18/09/2026",
-        "data_inclusao": "18/09/2026",
-        "unidade": "PROTOCOLO-GERAL"
-      },
-      {
-        "protocolo": "0460069",
-        "tipo": "Memória",
-        "data": "11/09/2026",
-        "data_inclusao": "17/09/2026",
         "unidade": "GAB - APOIO"
       }
     ],
@@ -1214,7 +1218,11 @@
       "48500.027840/2026-52",
       "48500.028241/2026-56",
       "0478332",
-      "0480908"
+      "0480908",
+      "0487272",
+      "0490114",
+      "0492409",
+      "0495554"
     ]
   },
   {
@@ -1265,7 +1273,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-05T15:15:41.890699-03:00",
+    "last_check_at": "2026-11-05T16:33:54.925148-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1462,7 +1470,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-05T15:15:44.752705-03:00",
+    "last_check_at": "2026-11-05T16:34:00.555861-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1915,7 +1923,7 @@
     "documento_count": 142,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-05T15:15:48.054440-03:00",
+    "last_check_at": "2026-11-05T16:34:06.936335-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/10/2026 15:45",
@@ -2300,7 +2308,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 93,
     "documento_count": 60,
-    "last_check_at": "2026-11-05T15:15:53.862873-03:00",
+    "last_check_at": "2026-11-05T16:34:12.757562-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "04/11/2026 17:55",
