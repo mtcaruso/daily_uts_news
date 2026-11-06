@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T14:26:03.674571-03:00",
+  "last_updated": "2026-11-06T20:02:27.075115-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2359,7 +2359,7 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-bandeira-verde-para-vigorar-em-novembro",
       "summary": null,
-      "added_at": "2026-11-06T14:24:47.136920-03:00",
+      "added_at": "2026-11-06T20:01:10.734221-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor": {
@@ -2368,7 +2368,7 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
       "summary": null,
-      "added_at": "2026-11-06T14:24:51.673120-03:00",
+      "added_at": "2026-11-06T20:01:15.306034-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro": {
@@ -2377,7 +2377,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/onee-2026-premia-estudantes-e-professores-de-todo-o-brasil-em-cerimonia-nacional-no-dia-5-de-novembro",
       "summary": null,
-      "added_at": "2026-11-06T14:24:33.521280-03:00",
+      "added_at": "2026-11-06T20:00:57.000741-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias": {
@@ -2386,7 +2386,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/workshop-debate-proposta-sobre-rateio-de-custos-da-reserva-de-capacidade-com-baterias",
       "summary": null,
-      "added_at": "2026-11-06T14:24:38.059950-03:00",
+      "added_at": "2026-11-06T20:01:01.587654-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao": {
@@ -2395,7 +2395,7 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao",
       "summary": null,
-      "added_at": "2026-11-06T14:24:42.599101-03:00",
+      "added_at": "2026-11-06T20:01:06.164360-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-participa-do-evex-lisboa-2026-e-e-homenageada-pelos-30-anos-de-atuacao": {
@@ -2404,7 +2404,7 @@
       "date": "04/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-participa-do-evex-lisboa-2026-e-e-homenageada-pelos-30-anos-de-atuacao",
       "summary": null,
-      "added_at": "2026-11-06T14:24:28.962756-03:00",
+      "added_at": "2026-11-06T20:00:52.421989-03:00",
       "error": "summarize_failed"
     },
     "partic_mme_cp_241": {
@@ -2427,7 +2427,7 @@
       "date": "04/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/semana-olimpica-reune-estudantes-de-todo-o-pais-em-brasilia",
       "summary": null,
-      "added_at": "2026-11-06T14:24:24.417890-03:00",
+      "added_at": "2026-11-06T20:00:47.844113-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_campeoes-nacionais-da-onee-2026-sao-premiados-em-cerimonia-realizada-em-brasilia": {
@@ -2436,7 +2436,7 @@
       "date": "05/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/campeoes-nacionais-da-onee-2026-sao-premiados-em-cerimonia-realizada-em-brasilia",
       "summary": null,
-      "added_at": "2026-11-06T14:24:19.875081-03:00",
+      "added_at": "2026-11-06T20:00:43.244132-03:00",
       "error": "summarize_failed"
     },
     "pauta_14832": {
@@ -2445,7 +2445,7 @@
       "date": "10/11/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14832&idAreaNoticia=425",
       "summary": null,
-      "added_at": "2026-11-06T14:25:27.354738-03:00",
+      "added_at": "2026-11-06T20:01:50.932340-03:00",
       "error": "no_body"
     },
     "pauta_14829": {
@@ -2454,7 +2454,7 @@
       "date": "03/11/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14829&idAreaNoticia=425",
       "summary": null,
-      "added_at": "2026-11-06T14:26:03.173854-03:00",
+      "added_at": "2026-11-06T20:02:26.574438-03:00",
       "error": "no_body"
     },
     "partic_cp_041_2026": {
@@ -2512,6 +2512,15 @@
       "start_date": "16/10/2024",
       "fonte": "ANEEL",
       "first_seen": "2026-11-05T17:02:38.156970-03:00"
+    },
+    "noticia_2026_usinas-eolicas-lideram-expansao-da-matriz-eletrica-em-outubro": {
+      "type": "noticia",
+      "title": "Usinas eólicas lideram expansão da matriz elétrica em outubro",
+      "date": "06/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/usinas-eolicas-lideram-expansao-da-matriz-eletrica-em-outubro",
+      "summary": null,
+      "added_at": "2026-11-06T20:00:38.647526-03:00",
+      "error": "summarize_failed"
     }
   }
 }
