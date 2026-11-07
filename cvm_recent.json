@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T11:27:31.814918-03:00",
+  "last_updated": "2026-11-07T15:57:35.238401-03:00",
   "items": [
     {
       "cnpj_short": "02557-7",
@@ -4176,24 +4176,6 @@
       "empresa_label": "Sabesp",
       "codigo_cvm": "14443",
       "first_seen": "2026-10-08T20:53:39.433761"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Eleição dos membros dos comitêsAta",
-      "data_referencia": "20260922 22/09/2026 09:00",
-      "data_entrega": "20261008 08/10/2026 09:50",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eleição dos membros dos comitês",
-      "protocolo": "1575328",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575328",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-10-08T15:54:59.429786"
     }
   ]
 }
