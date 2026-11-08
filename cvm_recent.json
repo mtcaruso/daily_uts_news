@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T16:06:52.651966-03:00",
+  "last_updated": "2026-11-08T19:50:12.793731-03:00",
   "items": [
     {
       "cnpj_short": "02557-7",
@@ -3762,78 +3762,6 @@
       "empresa_label": "Energisa",
       "codigo_cvm": "15253",
       "first_seen": "2026-10-10T02:19:17.830735"
-    },
-    {
-      "cnpj_short": "02001-0",
-      "empresa_nome": "EQUATORIAL S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261009 09/10/2026 16:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1575987",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575987",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "20010",
-      "first_seen": "2026-10-09T19:07:08.320860"
-    },
-    {
-      "cnpj_short": "01830-9",
-      "empresa_nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261009 09/10/2026 16:06",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1575986",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575986",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "18309",
-      "first_seen": "2026-10-09T19:07:08.937451"
-    },
-    {
-      "cnpj_short": "00382-4",
-      "empresa_nome": "CIA PAULISTA DE FORCA E LUZ",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261009 09/10/2026 16:05",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1575985",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575985",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "3824",
-      "first_seen": "2026-10-09T19:07:23.999540"
-    },
-    {
-      "cnpj_short": "02557-7",
-      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261009 09/10/2026 16:04",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1575983",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1575983",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "25577",
-      "first_seen": "2026-10-09T19:07:09.547321"
     }
   ]
 }
