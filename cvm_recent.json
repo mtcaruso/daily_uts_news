@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-11-09T06:41:38.220569-03:00",
+  "last_updated": "2026-11-09T17:04:02.347574-03:00",
   "items": [
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Aviso aos Acionistas",
+      "tipo": "Outros avisos",
+      "especie": "Dividendos/Juros sobre Capital Próprio -",
+      "data_referencia": "20261109 09/11/2026",
+      "data_entrega": "20261109 09/11/2026 15:46",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Dividendos/Juros sobre Capital Próprio",
+      "protocolo": "1586133",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1586133",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-11-09T20:03:58.284289"
+    },
+    {
+      "cnpj_short": "01444-3",
+      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261105 11/2026",
+      "data_entrega": "20261109 09/11/2026 10:35",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1586005",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1586005",
+      "empresa_label": "Sabesp",
+      "codigo_cvm": "14443",
+      "first_seen": "2026-11-09T20:04:00.161337"
+    },
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20261001 10/2026",
+      "data_entrega": "20261109 09/11/2026 09:45",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1585989",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1585989",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-11-09T20:03:52.621285"
+    },
     {
       "cnpj_short": "02557-7",
       "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
@@ -3258,24 +3312,6 @@
       "empresa_label": "Alupar",
       "codigo_cvm": "21490",
       "first_seen": "2026-10-13T18:14:03.245190"
-    },
-    {
-      "cnpj_short": "02557-7",
-      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261010 10/10/2026 06:32",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1576456",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1576456",
-      "empresa_label": "Equatorial",
-      "codigo_cvm": "25577",
-      "first_seen": "2026-10-10T14:43:30.099875"
     }
   ]
 }
