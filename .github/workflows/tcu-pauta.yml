@@ -1,0 +1,44 @@
+name: TCU · pauta dos processos acompanhados
+
+# Baixa o arquivo de pautas do TCU (dados abertos: dezenas de MB, sem filtro,
+# com limite de acessos) e guarda só os processos do projetos_watch.txt em
+# tcu_pauta.json, que o Monitor Regulatório lê. Poucas vezes por dia; também
+# roda quando a lista de projetos muda (processo novo já aparece).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 10,15,21 * * *"   # 07h23, 12h23 e 18h23 BRT
+  push:
+    branches: [main]
+    paths: [projetos_watch.txt, tcu_pauta.py, .github/workflows/tcu-pauta.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tcu-pauta
+  cancel-in-progress: false
+
+jobs:
+  pauta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python tcu_pauta.py
+      - name: Commit tcu_pauta.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tcu_pauta.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -qm "Update pauta TCU [skip ci]"
+          for i in 1 2 3; do
+            git pull -q --rebase -X theirs origin main && git push -q && exit 0
+            sleep 10
+          done
+          echo "::warning::push do tcu_pauta.json falhou 3x"

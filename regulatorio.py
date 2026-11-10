@@ -164,13 +164,22 @@ def consultas_aneel(st_alertas: dict, hoje: str) -> tuple:
     return out, lido_pc
 
 
+MME_TODAS_API = ("https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/"
+                 "listagem-sem-filtros?pageNumber=0&pageSize=400&sortBy=id&sortDirection=desc")
+_MME_TODAS = {}  # id → CP crua (todas, inclusive antigas): base dos projetos MME
+
+
 def consultas_mme(hoje: str) -> list:
     """API pública do site de consultas do MME. Só energia elétrica (mesma
-    denylist de área do alerta: fora petróleo/gás e mineração)."""
-    r = requests.post(alerts.MME_CP_API, json={}, timeout=30)
+    denylist de área do alerta: fora petróleo/gás e mineração). Uma chamada traz
+    TODAS as CPs (~220, <1s): as fixadas em projetos_watch.txt podem ser antigas."""
+    r = requests.post(MME_TODAS_API, json={}, timeout=60)
     r.raise_for_status()
+    todas = r.json().get("content") or []
+    _MME_TODAS.clear()
+    _MME_TODAS.update({cp["id"]: cp for cp in todas if not cp.get("isDeleted")})
     out = []
-    for cp in r.json().get("content") or []:
+    for cp in todas:
         if cp.get("isDeleted"):
             continue
         area = (cp.get("area") or "").split("/")[0].strip().upper()
@@ -419,7 +428,7 @@ def projeto(p: dict) -> dict:
     ult = [d["data"] for d in p["documentos"] if d["data"] and not d["anexado"]]
     ult += [a["data"] for a in p["andamentos"] if a["data"] and not a["rotina"]]
     return {
-        "id": p["id"], "apelido": p["apelido"], "numero": p["numero"], "tipo": p["tipo"],
+        "id": p["id"], "tipo_projeto": "SEI", "apelido": p["apelido"], "numero": p["numero"], "tipo": p["tipo"],
         "link": p["link"], "lido_em": p["lido_em"],
         # O histórico pode ser mais novo que a contagem do sei_processes.json.
         "n_documentos": max(p["n_documentos"] or 0, len(p["documentos"])),
@@ -436,6 +445,144 @@ def projeto(p: dict) -> dict:
 
 
 # ---------------- linha do tempo ----------------
+# ---------------- projetos MME e TCU (projetos_watch.txt) ----------------
+PROJETOS_WATCH = Path("projetos_watch.txt")
+TCU_PAUTA = Path("tcu_pauta.json")  # sessões dos TCs acompanhados (tcu_pauta.py, 1x/dia)
+MME_CONTRIB_API = ("https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/"
+                   "listagem-contribuicoes-publicas?pageNumber=0&pageSize=1000&sortBy=id&sortDirection=desc")
+# Arquivo de documento/contribuição do MME (vem sem nome: baixa como octet-stream).
+MME_ARQUIVO = "https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/remote-store/exibir/link/{}"
+# Página do processo na Pesquisa Integrada do TCU (abre no navegador; robô é barrado).
+TCU_LINK = ("https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A{}/"
+            "DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0")
+
+
+def ler_projetos_watch() -> list:
+    """[{tipo: MME|TCU, chave, apelido}] do projetos_watch.txt."""
+    try:
+        linhas = PROJETOS_WATCH.read_text(encoding="utf-8").splitlines()
+    except OSError:
+        return []
+    out = []
+    for linha in linhas:
+        linha = linha.strip()
+        if not linha or linha.startswith("#"):
+            continue
+        partes = [x.strip() for x in linha.split("|")]
+        if len(partes) >= 2 and partes[0].upper() in ("MME", "TCU") and partes[1]:
+            out.append({"tipo": partes[0].upper(), "chave": partes[1], "apelido": partes[2] if len(partes) > 2 else ""})
+    return out
+
+
+def projetos_mme(watch: list, hoje: str) -> list:
+    """CPs do MME fixadas: dados da CP (da leitura de todas) + contribuições
+    públicas (instituição, data, resumo e arquivo; o nome de quem enviou fica de
+    fora). Levanta erro se a API cair (o main mantém a leitura anterior)."""
+    out = []
+    for w in watch:
+        if w["tipo"] != "MME":
+            continue
+        num = int(re.sub(r"\D", "", w["chave"]) or 0)
+        cp = _MME_TODAS.get(num)
+        if not cp:
+            print(f"::warning::projetos_watch: CP MME {w['chave']} não encontrada na API")
+            continue
+        r = requests.post(MME_CONTRIB_API, json={"consultaPublica": {"id": num}}, timeout=60)
+        r.raise_for_status()
+        contrib = []
+        for x in r.json().get("content") or []:
+            quando = str(x.get("dtEnvioContribuicao") or "")
+            contrib.append({
+                "id": x["id"], "data": quando[:10] or None, "hora": quando[11:16] or None,
+                "instituicao": _limpa(x.get("instituicao") or x.get("descricaoArea"), 140) or "(sem instituição)",
+                "titulo": _limpa(x.get("titulo"), 220), "resumo": _limpa(x.get("resumo"), 700),
+                "link": MME_ARQUIVO.format(x["arquivo"]) if x.get("arquivo") else None})
+        fim, ini = _dmy(cp.get("dtFim")), _dmy(cp.get("dtInicio"))
+        docs = [{"k": f"mme{a['id']}",
+                 "t": _limpa(re.sub(r"\.pdf$", "", re.sub(r"_+", " ", a.get("titulo") or ""), flags=re.IGNORECASE), 160)
+                      or "(documento)",
+                 "u": MME_ARQUIVO.format(a["path"]) if a.get("path") else None}
+                for a in cp.get("arquivosConsultasPublicas") or [] if not a.get("deletar")]
+        out.append({
+            "id": f"mme-cp-{num}", "tipo_projeto": "MME", "apelido": w["apelido"] or f"Consulta Pública MME nº {num}",
+            "numero": f"CP {num}", "orgao": "MME", "sigla": "CP", "tipo": "Consulta Pública",
+            "tema": _tema(cp.get("titulo") or cp.get("assuntoResumido"), 600),
+            "inicio": ini, "fim": fim,
+            "situacao": _situacao(fim, hoje, "aberta" if cp.get("status") == "ABERTA" else "encerrada"),
+            "area": cp.get("area"), "processo_sei": cp.get("responsavelSei"),
+            "link": alerts.MME_CP_SITE, "docs": docs, "contribuicoes": contrib,
+        })
+    return out
+
+
+def projetos_tcu(watch: list) -> list:
+    """Processos do TCU fixados: sessões em que entraram em pauta, do
+    tcu_pauta.json (dados abertos do TCU, filtrados 1x/dia pelo tcu_pauta.py)."""
+    pauta = _json(TCU_PAUTA, {})
+    out = []
+    for w in watch:
+        if w["tipo"] != "TCU":
+            continue
+        dig = re.sub(r"\D", "", w["chave"])
+        if len(dig) != 11:
+            print(f"::warning::projetos_watch: TC {w['chave']} fora do formato 000.000/0000-0")
+            continue
+        tc = f"{dig[:3]}.{dig[3:6]}/{dig[6:10]}-{dig[10]}"
+        sessoes = sorted(((pauta.get("processos") or {}).get(tc) or []), key=lambda s: s["data"], reverse=True)
+        ult = sessoes[0] if sessoes else {}
+        out.append({
+            "id": f"tcu-{dig}", "tipo_projeto": "TCU", "apelido": w["apelido"] or f"TC {tc}",
+            "numero": f"TC {tc}", "link": TCU_LINK.format(int(dig)),
+            "relator": ult.get("relator"), "tipo": ult.get("tipo"), "sessoes": sessoes,
+            "pauta_lida_em": pauta.get("lido_em"),
+        })
+    return out
+
+
+def resumo_extra(p: dict, hoje: str) -> dict:
+    """Cartão do topo para projeto MME/TCU (o completo vai no regulatorio_projetos.json)."""
+    base = {k: p.get(k) for k in ("id", "tipo_projeto", "apelido", "numero", "link")}
+    if p["tipo_projeto"] == "MME":
+        c = sorted(p["contribuicoes"], key=lambda x: (x["data"] or "", x["hora"] or ""), reverse=True)
+        return {**base, "situacao": p["situacao"], "fim": p["fim"], "n_docs": len(p["docs"]),
+                "n_contrib": len(c), "ult_contrib": ({"data": c[0]["data"], "instituicao": c[0]["instituicao"]} if c else None),
+                "tema": p["tema"]}
+    prox = [s for s in p["sessoes"] if s["data"] >= hoje]
+    return {**base, "relator": p["relator"], "tipo": p["tipo"],
+            "proxima": prox[-1] if prox else None,
+            "ultima": next((s for s in p["sessoes"] if s["data"] < hoje), None),
+            "pauta_lida_em": p["pauta_lida_em"]}
+
+
+def candidatos_extra(extras: list, hoje: str, semente: bool, vistos: set) -> list:
+    """Eventos dos projetos MME (contribuição nova) e TCU (entrada em pauta).
+    Documentos e prazo da CP fixada vêm do candidatos() comum."""
+    evs = []
+    for p in extras:
+        ref = p["id"]
+        if p["tipo_projeto"] == "MME":
+            nova = not semente and _chave(f"projeto|{ref}") not in vistos
+            evs.append(_ev(f"projeto|{ref}", None, "MME", "aberta", "", ref=ref))  # marca o 1º dia; nunca aparece
+            evs[-1]["_silencioso"] = True
+            for x in p["contribuicoes"]:
+                e = _ev(f"contrib|{ref}|{x['id']}", x["data"], "MME", "contribuicao",
+                        f"{p['numero']}: contribuição de {x['instituicao']}",
+                        x["titulo"] or x["resumo"], x["link"] or p["link"], ref, hora=x["hora"],
+                        grupo=(p["numero"], x["instituicao"], p["link"], "contribuições novas"))
+                if nova and not x["data"]:
+                    e["_silencioso"] = True
+                evs.append(e)
+        else:
+            for s in p["sessoes"]:
+                futura = s["data"] >= hoje
+                quando = f"{s['data'][8:10]}/{s['data'][5:7]}"
+                evs.append(_ev(f"tcusessao|{ref}|{s['data']}|{s.get('colegiado')}", None if futura else s["data"], "TCU", "pauta",
+                               f"{p['apelido']}: na pauta do {s.get('colegiado') or 'TCU'} de {quando}",
+                               " · ".join(filter(None, [p["numero"], f"relator(a): {s['relator']}" if s.get("relator") else "",
+                                                        s.get("tipo")])), p["link"], ref))
+    return evs
+
+
 def _ev(uid, dia, orgao, tipo, titulo, detalhe="", link=None, ref=None, hora=None, grupo=None) -> dict:
     """grupo = (rótulo, item, link) dos documentos: vários do mesmo dia viram um evento só."""
     e = {"uid": _chave(uid), "dia": dia, "hora": hora, "orgao": orgao, "tipo": tipo,
@@ -454,14 +601,16 @@ def _agrupa(evs: list) -> list:
         if not g:
             out.append(e)
             continue
-        k = (e["ref"], e["dia"])
+        k = (e["ref"], e["dia"], e["tipo"])
         if k not in grupos:
             grupos[k] = (e, g, [])
             out.append(e)
         grupos[k][2].append(g[1])
-    for e, (rotulo, _, link), itens in grupos.values():
+    for e, g, itens in grupos.values():
+        rotulo, link = g[0], g[2]
+        plural = g[3] if len(g) > 3 else "documentos novos"
         if len(itens) > 1:
-            e["titulo"] = f"{rotulo}: {len(itens)} documentos novos"
+            e["titulo"] = f"{rotulo}: {len(itens)} {plural}"
             e["detalhe"] = " · ".join(itens[:4]) + (f" · …e mais {len(itens) - 4}" if len(itens) > 4 else "")
             e["link"] = link
     return out
@@ -647,6 +796,24 @@ def main():
     fontes["SEI"] = {"ok": horas <= 24, "lido_em": ultima,
                      **({"erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"} if horas > 24 else {})}
 
+    # Projetos MME e TCU (projetos_watch.txt). Fonte fora → leitura anterior.
+    watch = ler_projetos_watch()
+    proj_prev = _json(saida.with_name(PROJETOS.name), {}).get("projetos", [])
+    extras = []
+    if any(w["tipo"] == "MME" for w in watch):
+        res = ler("Projetos MME", lambda: projetos_mme(watch, hoje)) if (fontes.get("MME") or {}).get("ok") else None
+        extras += res if res is not None else [p for p in proj_prev if p.get("tipo_projeto") == "MME"]
+    if any(w["tipo"] == "TCU" for w in watch):
+        extras += projetos_tcu(watch)
+        lida = _json(TCU_PAUTA, {}).get("lido_em")
+        fontes["TCU"] = {"ok": bool(lida) and alerts._horas_desde(lida) <= 48, "lido_em": lida,
+                         **({} if lida and alerts._horas_desde(lida) <= 48 else
+                            {"erro": "pauta do TCU sem leitura recente (dados abertos, 1x/dia)"})}
+    # A CP fixada também gera os eventos comuns (documento novo, prazo), com o
+    # mesmo id da CP do painel: a chave do evento evita repetir.
+    mme_fixadas = [{**p, "numero": p["numero"].replace("CP ", ""), "docs": [{**d, "u": None} for d in p["docs"]]}
+                   for p in extras if p["tipo_projeto"] == "MME"]
+
     # Situação recalculada (a consulta da leitura anterior pode ter vencido hoje).
     for c in consultas:
         if c.get("fim"):
@@ -655,7 +822,8 @@ def main():
     consultas.sort(key=lambda c: (c.get("fim") or "9999", c["orgao"], c["numero"]))
 
     vistos = list(st.get("vistos", []))
-    cands = candidatos(consultas + arsae_todas, processos, aberturas, prev, hoje, semente, set(vistos))
+    cands = candidatos(consultas + arsae_todas + mme_fixadas, processos, aberturas, prev, hoje, semente, set(vistos))
+    cands += candidatos_extra(extras, hoje, semente, set(vistos))
     eventos, vistos, n_novos = atualiza_eventos(cands, prev.get("eventos", []), vistos, hoje, semente, momento)
     consultas += [c for c in arsae_todas if c["situacao"] == "em andamento"]
 
@@ -666,7 +834,7 @@ def main():
 
     # Aba Projetos: arquivo à parte (~300KB), que o site só baixa quando a aba abre.
     proj_path = saida.with_name(PROJETOS.name)
-    proj = json.dumps({"projetos": [projeto(p) for p in processos]}, ensure_ascii=False, separators=(",", ":"))
+    proj = json.dumps({"projetos": [projeto(p) for p in processos] + extras}, ensure_ascii=False, separators=(",", ":"))
     try:
         mudou_proj = proj_path.read_text(encoding="utf-8") != proj
     except OSError:
@@ -679,6 +847,7 @@ def main():
         "fontes": fontes,
         "consultas": consultas,
         "processos": [resumo_processo(p) for p in processos],
+        "projetos_extra": [resumo_extra(p, hoje) for p in extras],
         "pauta_aberturas": aberturas,
         "eventos": eventos,
     }

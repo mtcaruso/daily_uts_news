@@ -12,7 +12,7 @@
   --bg: #f5f6f8; --panel: #fff; --ink: #111827; --muted: #5b6475; --faint: #8b93a1;
   --line: #e2e5ea; --hover: #f2f4f7; --focus: #2563eb;
   --urg: #dc2626; --soon: #c2410c; --ok: #16a34a; --warn: #d97706;
-  --aneel: #2563eb; --mme: #047857; --arsesp: #0e7490; --arsae: #7c3aed; --sei: #a16207;
+  --aneel: #2563eb; --mme: #047857; --arsesp: #0e7490; --arsae: #7c3aed; --sei: #a16207; --tcu: #be185d;
   --shadow: 0 1px 2px rgba(16,24,40,.05);
 }
 @media (prefers-color-scheme: dark) {
@@ -21,7 +21,7 @@
     --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
     --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
     --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
-    --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341;
+    --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6;
     --shadow: none;
   }
 }
@@ -30,7 +30,7 @@
   --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
   --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
   --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
-  --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341;
+  --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6;
   --shadow: none;
 }
 * { box-sizing: border-box; }
@@ -162,6 +162,14 @@ details.enc[open] > summary { border-bottom: 1px solid var(--line); }
 .sei-card:hover .ir { color: var(--ink); }
 .leitura { font-size: 12px; color: var(--muted); cursor: default; }
 .leitura.parada { color: var(--warn); }
+.badge.selo { font-size: 10.5px; padding: 0 6px; vertical-align: 1px; }
+.tema-proj { margin: 12px 0 0; font-size: 13.5px; }
+details.contrib > summary { cursor: pointer; list-style: none; }
+details.contrib > summary::-webkit-details-marker { display: none; }
+details.contrib > summary::after { content: " ▸"; color: var(--faint); }
+details.contrib[open] > summary::after { content: " ▾"; }
+details.contrib p { margin: 6px 0; font-size: 12.5px; }
+.hi.contrib .k { color: var(--mme); }
 
 /* página de um processo */
 .proj-grid { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); padding-top: 14px; padding-bottom: 28px; }
@@ -267,10 +275,10 @@ footer.foot p { margin: 0 0 4px; }
   "use strict";
   var params = new URLSearchParams(location.search);
   var SRC = params.get("src") || "https://raw.githubusercontent.com/mtcaruso/daily_uts_news/main/regulatorio.json";
-  var ORGAOS = ["ANEEL", "MME", "ARSESP", "ARSAE", "SEI"];
+  var ORGAOS = ["ANEEL", "MME", "ARSESP", "ARSAE", "SEI", "TCU"];
   var NOME_SITE = { ANEEL: "da ANEEL", MME: "do MME", ARSESP: "da ARSESP", ARSAE: "da ARSAE" };
-  var TIPOS = { aberta: "Nova", prazo: "Prazo", documento: "Documento", andamento: "Andamento", pauta: "Pauta", resultado: "Decisão" };
-  var FONTES = [["ANEEL", "ANEEL"], ["MME", "MME"], ["ARSESP", "ARSESP"], ["ARSAE", "ARSAE"], ["Pauta ANEEL", "Pauta"], ["SEI", "SEI"]];
+  var TIPOS = { aberta: "Nova", prazo: "Prazo", documento: "Documento", andamento: "Andamento", pauta: "Pauta", resultado: "Decisão", contribuicao: "Contribuição" };
+  var FONTES = [["ANEEL", "ANEEL"], ["MME", "MME"], ["ARSESP", "ARSESP"], ["ARSAE", "ARSAE"], ["Pauta ANEEL", "Pauta"], ["SEI", "SEI"], ["TCU", "TCU"]];
   var DOW = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
 
   // Aba Projetos: histórico completo dos processos SEI, num arquivo à parte que só
@@ -343,7 +351,7 @@ footer.foot p { margin: 0 0 4px; }
     FONTES.forEach(function (f) {
       var info = (DATA.fontes || {})[f[0]];
       if (!info) return;
-      var cls = info.ok ? "" : (f[0] === "SEI" ? "warn" : "bad");
+      var cls = info.ok ? "" : (f[0] === "SEI" || !info.lido_em ? "warn" : "bad");
       var tip = info.ok
         ? (f[0] === "SEI" ? "Processos lidos em " + quando(info.lido_em) : "OK")
         : (info.erro || "sem leitura") + (info.lido_em ? " · última leitura " + quando(info.lido_em) : "");
@@ -357,13 +365,15 @@ footer.foot p { margin: 0 0 4px; }
       av.push("Os dados não são atualizados desde " + quando(DATA.gerado_em) + ". O robô de leitura pode estar parado.");
     }
     var sei = (DATA.fontes || {}).SEI;
-    if (sei && !sei.ok && sei.lido_em && st.aba === "projetos") {
+    if (sei && !sei.ok && sei.lido_em && st.aba === "projetos" && !/^(mme-cp-|tcu-)/.test(st.proj || "")) {
       av.push("Processos SEI: última leitura em " + quando(sei.lido_em) + ". O SEI bloqueia leituras automáticas na nuvem, então os processos só são atualizados quando o computador de leitura está ligado. Entrada em pauta e decisões da Diretoria continuam chegando.");
     }
     Object.keys(DATA.fontes || {}).forEach(function (k) {
       var f = DATA.fontes[k];
       if (k !== "SEI" && !f.ok && st.aba === "consultas" && doOrgao(k === "Pauta ANEEL" ? "ANEEL" : k)) {
-        av.push(k + ": a fonte não respondeu" + (f.desde ? " desde " + quando(f.desde) : "") + ". Mostrando a última leitura" + (f.lido_em ? " (" + quando(f.lido_em) + ")" : "") + ".");
+        av.push(!f.lido_em
+          ? k + ": ainda sem a primeira leitura. Os dados aparecem na próxima atualização."
+          : k + ": a fonte não respondeu" + (f.desde ? " desde " + quando(f.desde) : "") + ". Mostrando a última leitura (" + quando(f.lido_em) + ").");
       }
     });
     document.getElementById("avisos").innerHTML = av.map(function (t) { return '<p class="aviso">' + esc(t) + "</p>"; }).join("");
@@ -436,7 +446,7 @@ footer.foot p { margin: 0 0 4px; }
 
   function renderPrazos(hj) {
     var elP = document.getElementById("prazos");
-    elP.hidden = st.orgao === "SEI";  // filtro SEI: só os processos e a linha do tempo
+    elP.hidden = st.orgao === "SEI" || st.orgao === "TCU";  // sem consultas: só projetos e linha do tempo
     if (elP.hidden) { elP.innerHTML = ""; return; }
     var cs = (DATA.consultas || []).filter(function (c) { return doOrgao(c.orgao) && casa(textoConsulta(c)); });
     var abertas = cs.filter(function (c) { return c.situacao === "aberta"; });
@@ -489,9 +499,33 @@ footer.foot p { margin: 0 0 4px; }
       .then(function () { projCarregando = false; if (st.aba === "projetos") renderProjetos(); });
   }
 
+  // ---------- projetos: SEI (processo), MME (consulta fixada) e TCU (processo) ----------
+  function tipoProj(p) { return p.tipo_projeto || "SEI"; }
+
+  // Próxima pauta da Diretoria da ANEEL (SEI) ou sessão de julgamento (TCU),
+  // no formato {data, reuniao, relator, assunto}.
   function proxPauta(p, hj) {
+    if (tipoProj(p) === "TCU") {
+      var s = p.proxima || (p.sessoes || []).filter(function (x) { return x.data >= hj; })
+        .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
+      return s ? { data: s.data, reuniao: s.colegiado || "sessão", relator: s.relator, assunto: s.tipo || "" } : null;
+    }
+    if (tipoProj(p) === "MME") return null;
     return (p.pauta || []).filter(function (x) { return x.data >= hj && !x.resultado; })
       .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
+  }
+
+  // Data do último movimento (página do projeto, arquivo completo).
+  function ultimoMov(p) {
+    if (tipoProj(p) === "MME") {
+      var c = (p.contribuicoes || []).map(function (x) { return x.data || ""; }).sort().pop();
+      return c || p.fim || null;
+    }
+    if (tipoProj(p) === "TCU") {
+      var hj = hoje();
+      return ((p.sessoes || []).filter(function (s) { return s.data < hj; })[0] || {}).data || null;
+    }
+    return p.ultimo_movimento || null;
   }
 
   function projOrdenados(hj) {
@@ -499,21 +533,33 @@ footer.foot p { margin: 0 0 4px; }
     return PROJ.slice().sort(function (a, b) {
       var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
       if (pa !== pb) return pa ? -1 : 1;
-      return (b.ultimo_movimento || "").localeCompare(a.ultimo_movimento || "");
+      return (ultimoMov(b) || "").localeCompare(ultimoMov(a) || "");
     });
   }
 
+  function seloTipo(t) { return '<span class="badge selo" style="--c:' + cor(t) + '">' + esc(t) + "</span>"; }
+
   function itemProjeto(p, sel, hj) {
-    var pa = proxPauta(p, hj);
-    var recente = p.ultimo_movimento && dias(p.ultimo_movimento, hj) <= 7;
+    var pa = proxPauta(p, hj), ult = ultimoMov(p);
+    var recente = ult && dias(ult, hj) <= 7;
     var linha = pa
       ? '<span class="em-pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</span>"
-      : "<span>Último movimento " + (p.ultimo_movimento ? dma(p.ultimo_movimento) : "—") + "</span>";
+      : "<span>" + (tipoProj(p) === "MME" ? "Última contribuição " : "Último movimento ") + (ult ? dma(ult) : "—") + "</span>";
     return '<button type="button" class="proj-item" data-proj="' + esc(p.id) + '" aria-current="' + !!(sel && sel.id === p.id) + '">' +
       "<b>" + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
-      "<span>" + esc(p.numero || "") + "</span>" + linha + "</button>";
+      "<span>" + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" + linha + "</button>";
   }
 
+  function cabecalhoProjeto(p, rotuloLink, meta) {
+    var u = urlOk(p.link);
+    return '<button type="button" class="btn voltar" data-proj="">← Voltar ao painel</button>' +
+      "<h2>" + esc(p.apelido) + '</h2><div class="meta">' + seloTipo(tipoProj(p)) + " " + esc(meta.filter(Boolean).join(" · ")) + "</div>" +
+      '<div class="proj-acoes">' + (u ? '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(rotuloLink) + " ↗</a>" : "") +
+      '<button type="button" class="btn" data-copiar="' + esc(p.id) + '">Copiar link do projeto</button>' +
+      '<span class="muted small" id="copiado" aria-live="polite"></span></div>';
+  }
+
+  // --- SEI ---
   function itensHistorico(p) {
     var itens = [];
     (p.docs || []).forEach(function (d) { itens.push({ k: "doc", d: d.d || "", h: "", o: d }); });
@@ -526,13 +572,18 @@ footer.foot p { margin: 0 0 4px; }
     var o = i.o;
     if (i.k === "doc") return [o.t, o.u, o.un, o.p].join(" ");
     if (i.k === "and") return [o.u, o.t].join(" ");
+    if (i.k === "contrib") return [o.instituicao, o.titulo, o.resumo].join(" ");
     return [o.reuniao, o.resultado, o.ato, o.assunto, o.decisao, o.relator].join(" ");
   }
 
   function filtraHistorico(p) {
     var q = norm(st.histQ).split(/\s+/).filter(Boolean);
-    return itensHistorico(p).filter(function (i) {
-      if (st.histTipo !== "tudo" && st.histTipo !== i.k) return false;
+    var itens = tipoProj(p) === "MME"
+      ? (p.contribuicoes || []).map(function (c) { return { k: "contrib", d: c.data || "", h: c.hora || "", o: c }; })
+          .sort(function (a, b) { return b.d.localeCompare(a.d) || b.h.localeCompare(a.h); })
+      : itensHistorico(p);
+    return itens.filter(function (i) {
+      if (i.k !== "contrib" && st.histTipo !== "tudo" && st.histTipo !== i.k) return false;
       if (i.k === "and" && i.o.r && !st.rotina) return false;
       if (!q.length) return true;
       var alvo = norm(textoItem(i));
@@ -562,12 +613,17 @@ footer.foot p { margin: 0 0 4px; }
           (o.x ? ' <span class="tag">processo anexado</span>' : "");
       } else if (i.k === "and") {
         txt = (o.u ? '<span class="muted">' + esc(o.u) + ":</span> " : "") + esc(o.t) + (o.h ? ' <span class="muted small">' + esc(o.h) + "</span>" : "");
+      } else if (i.k === "contrib") {
+        var lk = urlOk(o.link);
+        txt = '<details class="contrib"><summary><b>' + esc(o.instituicao) + "</b>" + (o.titulo ? ' <span class="muted">— ' + esc(o.titulo) + "</span>" : "") + "</summary>" +
+          (o.resumo ? '<p class="muted">' + esc(o.resumo) + "</p>" : "") +
+          (lk ? '<a href="' + esc(lk) + '" target="_blank" rel="noopener">baixar a contribuição ↗</a>' : "") + "</details>";
       } else {
         txt = "<b>" + esc(o.reuniao) + "</b> · " + (o.resultado ? "<b>" + esc(o.resultado) + "</b>" : "em pauta") +
           (o.ato ? " · " + esc(o.ato) : "") + (o.relator ? ' <span class="muted">· relator(a): ' + esc(o.relator) + "</span>" : "") +
           '<br><span class="muted">' + esc(o.decisao || o.assunto) + "</span>";
       }
-      var rotulo = { doc: "Documento", and: "Andamento", pauta: "Pauta" }[i.k];
+      var rotulo = { doc: "Documento", and: "Andamento", pauta: "Pauta", contrib: "Contribuição" }[i.k];
       h += '<li class="hi ' + i.k + (i.k === "and" && o.r ? " rot" : "") + '"><span class="dt">' + (i.d ? dm(i.d) : "—") + "</span>" +
         '<span class="k">' + rotulo + "</span><span>" + txt + "</span></li>";
     });
@@ -576,17 +632,12 @@ footer.foot p { margin: 0 0 4px; }
     el.innerHTML = h;
   }
 
-  function detalheProjeto(p, hj) {
+  function detalheSEI(p, hj) {
     var pa = proxPauta(p, hj);
     var res = (p.pauta || []).filter(function (x) { return x.resultado; })[0];
     var rel = (p.ands || []).filter(function (a) { return !a.r; }).length;
     var velho = !p.lido_em || horasDesde(p.lido_em) > 24;
-    var u = urlOk(p.link);
-    var h = '<button type="button" class="btn voltar" data-proj="">← Voltar ao painel</button>' +
-      "<h2>" + esc(p.apelido) + '</h2><div class="meta">' + esc([p.numero, p.tipo].filter(Boolean).join(" · ")) + "</div>" +
-      '<div class="proj-acoes">' + (u ? '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">Abrir no SEI ↗</a>' : "") +
-      '<button type="button" class="btn" data-copiar="' + esc(p.id) + '">Copiar link do projeto</button>' +
-      '<span class="muted small" id="copiado" aria-live="polite"></span></div>';
+    var h = cabecalhoProjeto(p, "Abrir no SEI", [p.numero, p.tipo]);
     if (pa) {
       h += '<div class="destaque"><b>' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</b> · " + esc(pa.reuniao) +
         (pa.relator ? " · relator(a): " + esc(pa.relator) : "") + '<div class="assunto">' + esc(pa.assunto) + "</div></div>";
@@ -616,12 +667,79 @@ footer.foot p { margin: 0 0 4px; }
     return h;
   }
 
+  // --- MME: consulta pública fixada ---
+  function detalheMME(p, hj) {
+    var h = cabecalhoProjeto(p, "Abrir no site do MME", [p.numero, "Consulta Pública do MME", p.area, p.processo_sei ? "processo SEI " + p.processo_sei : ""]);
+    var periodo = p.inicio && p.fim ? "contribuições de " + dmy(p.inicio) + " a " + dmy(p.fim) : (p.fim ? "contribuições até " + dmy(p.fim) : "");
+    if (p.situacao === "aberta" && p.fim) {
+      var n = dias(hj, p.fim);
+      h += '<div class="destaque"><b>Aberta: ' + (n === 0 ? "último dia" : (n === 1 ? "falta 1 dia" : "faltam " + n + " dias")) + "</b> · " + esc(periodo) + "</div>";
+    } else {
+      h += '<div class="destaque"><b>Encerrada' + (p.fim ? " em " + dmy(p.fim) : "") + "</b>" + (p.inicio ? " · " + esc(periodo) : "") + "</div>";
+    }
+    var c = p.contribuicoes || [];
+    var insts = {};
+    c.forEach(function (x) { insts[x.instituicao] = 1; });
+    var ult = c.map(function (x) { return x.data || ""; }).sort().pop();
+    h += '<p class="tema-proj">' + esc(p.tema) + "</p>" +
+      '<div class="proj-stats">' +
+      "<div><b>" + c.length + "</b><span>contribuições</span></div>" +
+      "<div><b>" + Object.keys(insts).length + "</b><span>instituições</span></div>" +
+      "<div><b>" + (ult ? dma(ult) : "—") + "</b><span>última contribuição</span></div>" +
+      "<div><b>" + (p.docs || []).length + "</b><span>documentos da consulta</span></div></div>";
+    if ((p.docs || []).length) {
+      h += '<div class="h3">Documentos da consulta</div><ul class="docs">' + p.docs.map(function (d) {
+        return "<li>" + linkExt(d.u, esc(d.t)) + "</li>";
+      }).join("") + "</ul>";
+    }
+    h += '<div class="h3">Contribuições</div>' +
+      '<p class="muted small" style="margin:0 0 8px">Os arquivos do MME baixam sem nome: se não abrirem, renomeie para .pdf.</p>' +
+      '<div class="hist-ctl"><input type="search" id="hist-q" placeholder="Buscar por instituição ou texto…" aria-label="Buscar nas contribuições" value="' + esc(st.histQ) + '"></div>' +
+      '<div id="hist-lista"></div>';
+    return h;
+  }
+
+  // --- TCU: processo ---
+  function detalheTCU(p, hj) {
+    var ss = p.sessoes || [];
+    var prox = proxPauta(p, hj);
+    var ult = ss.filter(function (s) { return s.data < hj; })[0];
+    var h = cabecalhoProjeto(p, "Abrir no TCU", [p.numero, p.tipo, p.relator ? "relator(a): " + p.relator : ""]);
+    if (prox) h += '<div class="destaque"><b>Na pauta do ' + esc(prox.reuniao) + " de " + dm(prox.data) + "</b>" + (prox.relator ? " · relator(a): " + esc(prox.relator) : "") + "</div>";
+    else if (ult) h += '<div class="destaque"><b>Última vez em pauta: ' + dma(ult.data) + "</b> · " + esc(ult.colegiado || "") + "</div>";
+    h += '<p class="aviso" style="margin-top:14px">Peças e andamentos do TCU não entram aqui: a consulta processual do TCU bloqueia leitura automática. ' +
+      "Para ver as peças, use o botão “Abrir no TCU”. Para receber cada movimentação por e-mail, cadastre o processo no Push do TCU, o serviço oficial de acompanhamento.</p>";
+    h += '<div class="proj-stats">' +
+      "<div><b>" + ss.length + "</b><span>sessões em pauta</span></div>" +
+      "<div><b>" + (prox ? dm(prox.data) : "—") + "</b><span>próxima sessão</span></div>" +
+      "<div><b>" + (ult ? dma(ult.data) : "—") + "</b><span>última sessão</span></div>" +
+      "<div><b>" + (p.pauta_lida_em ? esc(quando(p.pauta_lida_em)) : "—") + "</b><span>pauta do TCU lida em</span></div></div>";
+    h += '<div class="h3">Sessões de julgamento (dados abertos do TCU)</div>';
+    if (!p.pauta_lida_em) {
+      h += '<p class="vazio" style="padding-left:0">A pauta do TCU ainda não foi lida. Ela é atualizada algumas vezes por dia.</p>';
+    } else if (!ss.length) {
+      h += '<p class="vazio" style="padding-left:0">O processo não aparece em nenhuma pauta de julgamento nos dados abertos do TCU.</p>';
+    } else {
+      h += '<ul class="hist">' + ss.map(function (s) {
+        return '<li class="hi pauta"><span class="dt">' + dma(s.data) + '</span><span class="k">Sessão</span><span><b>' + esc(s.colegiado || "") + "</b>" +
+          (s.relator ? ' <span class="muted">· relator(a): ' + esc(s.relator) + "</span>" : "") + (s.tipo ? ' <span class="muted">· ' + esc(s.tipo) + "</span>" : "") + "</span></li>";
+      }).join("") + "</ul>";
+    }
+    return h;
+  }
+
+  function detalheProjeto(p, hj) {
+    if (tipoProj(p) === "MME") return detalheMME(p, hj);
+    if (tipoProj(p) === "TCU") return detalheTCU(p, hj);
+    return detalheSEI(p, hj);
+  }
+
   // Página do projeto (abre ao clicar num cartão do painel; ?p=<id> no endereço).
   function renderProjetos() {
     var el = document.getElementById("view-projetos");
     if (!PROJ) {
       el.innerHTML = projErro
-        ? '<div class="card erro"><b>Não deu para carregar o histórico dos processos.</b><p class="muted">Tente de novo em alguns minutos. (' + esc(projErro) + ")</p>" +
+        ? '<div class="card erro"><b>Não deu para carregar o histórico dos projetos.</b><p class="muted">Tente de novo em alguns minutos. (' + esc(projErro) + ")</p>" +
           '<button type="button" class="btn" data-proj="">← Voltar ao painel</button></div>'
         : '<div class="carregando">Carregando o histórico…</div>';
       carregarProjetos();
@@ -630,19 +748,19 @@ footer.foot p { margin: 0 0 4px; }
     var hj = hoje();
     var lista = projOrdenados(hj);
     var sel = lista.filter(function (p) { return p.id === st.proj; })[0];
-    if (!sel) { abrirProjeto(null); return; }  // link antigo de processo que saiu da lista
+    if (!sel) { abrirProjeto(null); return; }  // link antigo de projeto que saiu da lista
     el.innerHTML = '<div class="proj-grid det">' +
-      '<aside class="card proj-lista" aria-label="Processos SEI"><div class="sec-h"><h2>Processos SEI<span class="cnt">' + lista.length + "</span></h2></div>" +
+      '<aside class="card proj-lista" aria-label="Projetos acompanhados"><div class="sec-h"><h2>Projetos<span class="cnt">' + lista.length + "</span></h2></div>" +
       lista.map(function (p) { return itemProjeto(p, sel, hj); }).join("") + "</aside>" +
-      '<section class="card proj-det" aria-label="Processo">' + detalheProjeto(sel, hj) + "</section></div>";
-    renderHistLista(sel);
+      '<section class="card proj-det" aria-label="Projeto">' + detalheProjeto(sel, hj) + "</section></div>";
+    if (tipoProj(sel) !== "TCU") renderHistLista(sel);
   }
 
   function projAtual() {
     return PROJ ? PROJ.filter(function (p) { return p.id === st.proj; })[0] || null : null;
   }
 
-  // Painel (processos + consultas + linha do tempo) ou página de um processo.
+  // Painel (projetos + consultas + linha do tempo) ou página de um projeto.
   function renderVisao() {
     st.aba = st.proj ? "projetos" : "consultas";
     document.getElementById("filtros").hidden = st.aba !== "consultas";
@@ -650,16 +768,23 @@ footer.foot p { margin: 0 0 4px; }
     document.getElementById("view-projetos").hidden = st.aba !== "projetos";
   }
 
-  // ---------- processos SEI no topo do painel ----------
+  // ---------- projetos acompanhados no topo do painel ----------
   function textoProc(p) {
-    return [p.apelido, p.numero, p.tipo,
+    return [p.apelido, p.numero, p.tipo, p.tema, p.relator,
       (p.documentos || []).map(function (d) { return d.tipo + " " + d.unidade; }).join(" "),
       (p.andamentos || []).map(function (a) { return a.descricao; }).join(" "),
       (p.pauta || []).map(function (x) { return x.assunto + " " + x.resultado; }).join(" ")];
   }
 
   function ultimoItem(p) {
-    // O mais recente entre documento (sem processo anexado) e andamento fora da rotina.
+    // SEI: o mais recente entre documento (sem processo anexado) e andamento fora da rotina.
+    if (tipoProj(p) === "MME") {
+      return p.ult_contrib ? { data: p.ult_contrib.data, txt: p.n_contrib + " contribuições · última: " + p.ult_contrib.instituicao }
+        : { data: p.fim, txt: (p.n_contrib || 0) + " contribuições" };
+    }
+    if (tipoProj(p) === "TCU") {
+      return p.ultima ? { data: p.ultima.data, txt: "em pauta (" + (p.ultima.colegiado || "TCU") + ")" } : null;
+    }
     var d = (p.documentos || []).filter(function (x) { return !x.anexado && (x.protocolo || "").indexOf("/") < 0; })[0];
     var a = (p.andamentos || []).filter(function (x) { return !x.rotina; })[0];
     if (d && (!a || (d.data || "") >= (a.data || ""))) return { data: d.data, txt: d.tipo + (d.unidade ? " (" + d.unidade + ")" : "") };
@@ -667,37 +792,58 @@ footer.foot p { margin: 0 0 4px; }
     return null;
   }
 
+  function linhaStatus(p, hj) {
+    var pa = proxPauta(p, hj);
+    if (pa) {
+      var onde = tipoProj(p) === "TCU" ? "Na pauta do " + pa.reuniao + " de " + dm(pa.data)
+        : (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + pa.reuniao;
+      return '<span class="st pauta">' + esc(onde) + "</span>";
+    }
+    if (tipoProj(p) === "MME") {
+      if (p.situacao === "aberta" && p.fim) {
+        var n = dias(hj, p.fim);
+        return '<span class="st pauta">Aberta · ' + (n <= 1 ? (n === 0 ? "último dia" : "falta 1 dia") : "faltam " + n + " dias") + "</span>";
+      }
+      return '<span class="st">Encerrada' + (p.fim ? " em " + dma(p.fim) : "") + "</span>";
+    }
+    if (tipoProj(p) === "TCU") {
+      return p.relator ? '<span class="st">Relator(a): ' + esc(p.relator) + "</span>"
+        : (p.pauta_lida_em ? '<span class="st">Sem sessão marcada</span>' : "");
+    }
+    var res = (p.pauta || []).filter(function (x) { return x.resultado && dias(x.data, hj) <= 30; })[0];
+    return res ? '<span class="st decisao">' + esc(res.resultado) + " em " + dm(res.data) + "</span>" : "";
+  }
+
   function renderSeiResumo(hj) {
     var el = document.getElementById("sei-resumo");
-    if (!doOrgao("SEI")) { el.hidden = true; el.innerHTML = ""; return; }
-    var ps = (DATA.processos || []).filter(function (p) { return casa(textoProc(p)); });
+    var ps = (DATA.processos || []).filter(function (p) { return doOrgao("SEI"); })
+      .concat((DATA.projetos_extra || []).filter(function (p) { return doOrgao(p.tipo_projeto); }))
+      .filter(function (p) { return casa(textoProc(p)); });
+    if (!ps.length) { el.hidden = true; el.innerHTML = ""; return; }
     ps.sort(function (a, b) {
       var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
       if (pa !== pb) return pa ? -1 : 1;
       return ((ultimoItem(b) || {}).data || "").localeCompare((ultimoItem(a) || {}).data || "");
     });
-    if (!ps.length && st.q.trim()) { el.hidden = true; el.innerHTML = ""; return; }
     el.hidden = false;
     var sei = (DATA.fontes || {}).SEI || {};
-    var leitura = sei.lido_em
+    var temSei = ps.some(function (p) { return tipoProj(p) === "SEI"; });
+    var leitura = temSei && sei.lido_em
       ? '<span class="leitura' + (sei.ok ? "" : " parada") + '" title="' +
         esc(sei.ok ? "Última leitura do SEI" : "O SEI bloqueia leituras automáticas na nuvem: os processos só são lidos com o computador de leitura ligado. Pauta e decisões da Diretoria continuam atualizadas.") +
-        '">lidos em ' + esc(quando(sei.lido_em)) + (sei.ok ? "" : " · leitura parada") + "</span>"
+        '">SEI lido em ' + esc(quando(sei.lido_em)) + (sei.ok ? "" : " · leitura parada") + "</span>"
       : "";
-    var h = '<div class="card"><div class="sec-h"><h2>Processos SEI acompanhados<span class="cnt">' + ps.length + "</span></h2>" + leitura + "</div>" +
+    var h = '<div class="card"><div class="sec-h"><h2>Projetos acompanhados<span class="cnt">' + ps.length + "</span></h2>" + leitura + "</div>" +
       '<div class="sei-grid">' + ps.map(function (p) {
-        var pa = proxPauta(p, hj);
-        var res = (p.pauta || []).filter(function (x) { return x.resultado && dias(x.data, hj) <= 30; })[0];
         var ult = ultimoItem(p);
         var recente = ult && ult.data && dias(ult.data, hj) <= 7;
-        var st1 = pa
-          ? '<span class="st pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + esc(pa.reuniao) + "</span>"
-          : (res ? '<span class="st decisao">' + esc(res.resultado) + " em " + dm(res.data) + "</span>" : "");
-        return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '">' +
+        var rotuloUlt = tipoProj(p) === "MME" ? "" : (tipoProj(p) === "TCU" ? "Última pauta " : "Último movimento ");
+        return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '" style="--c:' + cor(tipoProj(p)) + '">' +
+          '<span class="n">' + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" +
           '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
-          '<span class="n">' + esc(p.numero || "") + "</span>" + st1 +
-          (ult ? '<span class="ult">Último movimento ' + dma(ult.data) + " · " + esc(ult.txt) + "</span>" : "") +
-          '<span class="ir">Ver histórico completo →</span></button>';
+          linhaStatus(p, hj) +
+          (ult && (ult.data || ult.txt) ? '<span class="ult">' + rotuloUlt + (ult.data && tipoProj(p) !== "MME" ? dma(ult.data) + " · " : "") + esc(ult.txt) + "</span>" : "") +
+          '<span class="ir">Ver ' + (tipoProj(p) === "MME" ? "contribuições" : (tipoProj(p) === "TCU" ? "sessões" : "histórico completo")) + " →</span></button>";
       }).join("") + "</div></div>";
     el.innerHTML = h;
   }
@@ -708,6 +854,7 @@ footer.foot p { margin: 0 0 4px; }
     var refs = {};
     (DATA.consultas || []).forEach(function (c) { refs[c.id] = true; });
     (DATA.processos || []).forEach(function (p) { refs["sei:" + p.id] = true; });
+    (DATA.projetos_extra || []).forEach(function (p) { refs[p.id] = true; });
     var ontem = new Date(Date.parse(hj + "T12:00:00Z") - 86400000).toISOString().slice(0, 10);
     function eNovo(e) { return !!(st.ultimaVisita && e.visto_em && Date.parse(e.visto_em) > st.ultimaVisita); }
     var novas = evs.filter(eNovo).length;
@@ -765,7 +912,7 @@ footer.foot p { margin: 0 0 4px; }
     // (display: contents) e a ordem vira processos → consultas → linha do tempo.
     document.getElementById("main").innerHTML =
       '<div class="col-esq">' +
-      '<section class="a-sei" id="sei-resumo" aria-label="Processos SEI acompanhados"></section>' +
+      '<section class="a-sei" id="sei-resumo" aria-label="Projetos acompanhados"></section>' +
       '<section class="a-prazos" id="prazos" aria-label="Consultas abertas"></section>' +
       "</div>" +
       '<section class="a-timeline" id="timeline" aria-label="Linha do tempo"></section>';
@@ -800,6 +947,9 @@ footer.foot p { margin: 0 0 4px; }
     var alvo;
     if (ref.indexOf("sei:") === 0) {
       abrirProjeto(ref.slice(4));
+      return;
+    } else if ((DATA.projetos_extra || []).some(function (p) { return p.id === ref; })) {
+      abrirProjeto(ref);  // consulta fixada / processo do TCU: abre a página do projeto
       return;
     } else {
       var c = (DATA.consultas || []).filter(function (x) { return x.id === ref; })[0];

@@ -1,30 +1,39 @@
 {
- "gerado_em": "2026-11-10T17:27:11-03:00",
+ "gerado_em": "2026-11-10T17:51:39-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:27:11-03:00",
-   "listagem_pc": "2026-11-10T17:04:32.100513-03:00"
+   "lido_em": "2026-11-10T17:51:39-03:00",
+   "listagem_pc": "2026-11-10T17:32:49.127845-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-10T17:27:11-03:00"
+   "lido_em": "2026-11-10T17:51:39-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-10T17:27:11-03:00"
+   "lido_em": "2026-11-10T17:51:39-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-10T17:27:11-03:00"
+   "lido_em": "2026-11-10T17:51:39-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:27:11-03:00"
+   "lido_em": "2026-11-10T17:51:39-03:00"
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-10T17:05:09.627086-03:00"
+   "lido_em": "2026-11-10T17:33:30.090229-03:00"
+  },
+  "Projetos MME": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:51:39-03:00"
+  },
+  "TCU": {
+   "ok": false,
+   "lido_em": null,
+   "erro": "pauta do TCU sem leitura recente (dados abertos, 1x/dia)"
   }
  },
  "consultas": [
@@ -984,7 +993,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-10T17:04:38.809804-03:00",
+   "lido_em": "2026-11-10T17:32:55.752387-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -1188,7 +1197,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-10T17:04:49.634873-03:00",
+   "lido_em": "2026-11-10T17:33:01.258092-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1373,7 +1382,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-10T17:05:00.330201-03:00",
+   "lido_em": "2026-11-10T17:33:14.047389-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1558,7 +1567,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-10T17:05:06.920237-03:00",
+   "lido_em": "2026-11-10T17:33:17.410027-03:00",
    "documentos": [
     {
      "data": "2026-10-22",
@@ -1743,7 +1752,7 @@
    "numero": "48500.007946/2026-30",
    "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
-   "lido_em": "2026-11-10T17:05:09.627086-03:00",
+   "lido_em": "2026-11-10T17:33:23.154349-03:00",
    "documentos": [
     {
      "data": "2026-10-29",
@@ -1938,7 +1947,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": null,
+   "lido_em": "2026-11-10T17:33:30.090229-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2124,8 +2133,54 @@
      "decisao": "A Diretoria, por maioria, acompanhando o voto da Diretora-Relatora, Agnes Maria de Aragão da Costa, incorporando as sugestões trazidas no voto-vista do Diretor Gentil Nogueira de Sá Júnior, e vencido o Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) encerrar a Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimor…"
     }
    ],
-   "n_documentos": null,
-   "n_andamentos": null
+   "n_documentos": 238,
+   "n_andamentos": 307
+  }
+ ],
+ "projetos_extra": [
+  {
+   "id": "mme-cp-218",
+   "tipo_projeto": "MME",
+   "apelido": "Contabilização dupla no MCP e ofertas de quantidade",
+   "numero": "CP 218",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "situacao": "encerrada",
+   "fim": "2026-05-15",
+   "n_docs": 4,
+   "n_contrib": 59,
+   "ult_contrib": {
+    "data": "2026-05-19",
+    "instituicao": "Ministério da Fazenda"
+   },
+   "tema": "Proposta de diretrizes para a adoção da contabilização dupla no Mercado de Curto Prazo – MCP e para a transição para ofertas de quantidade de energia elétrica a serem consideradas nos processos de otimização energética e formação do preço de curto prazo."
+  },
+  {
+   "id": "mme-cp-233",
+   "tipo_projeto": "MME",
+   "apelido": "Renovação das outorgas de hidrelétricas (Lei 12.783)",
+   "numero": "CP 233",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "situacao": "encerrada",
+   "fim": "2026-10-30",
+   "n_docs": 3,
+   "n_contrib": 57,
+   "ult_contrib": {
+    "data": "2026-10-30",
+    "instituicao": "Auren Energia"
+   },
+   "tema": "Proposta de diretrizes para o tratamento das outorgas de geração de energia hidrelétrica de que trata a Lei nº 12.783, de 11 de janeiro de 2013."
+  },
+  {
+   "id": "tcu-02336820250",
+   "tipo_projeto": "TCU",
+   "apelido": "Angra 3: futuro da usina (ENBPar e Eletronuclear)",
+   "numero": "TC 023.368/2025-0",
+   "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
+   "relator": null,
+   "tipo": null,
+   "proxima": null,
+   "ultima": null,
+   "pauta_lida_em": null
   }
  ],
  "pauta_aberturas": [],
@@ -2203,6 +2258,30 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "062e0128061b",
+   "dia": "2026-10-30",
+   "hora": "21:06",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 30 contribuições novas",
+   "detalhe": "Auren Energia · COPEL - Companhia Paranaense de Energia · Âmbar Hidroenergia Ltda. · Aliança Geração de Energia S.A · …e mais 26",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
+   "uid": "72f57b8860cc",
+   "dia": "2026-10-29",
+   "hora": "21:54",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 4 contribuições novas",
+   "detalhe": "Houer Consultoria LTDA · Fundação Getulio Vargas · Neoenergia · Energest S.A.",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
    "uid": "03c91d5ceeaa",
    "dia": "2026-10-29",
    "hora": null,
@@ -2263,6 +2342,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "7441c4cd3d6e",
+   "dia": "2026-10-28",
+   "hora": "18:12",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 2 contribuições novas",
+   "detalhe": "ABDIB Associação Brasileira da Infraestrutura e Indústrias de Base · Consorcio UHE Guilman Amorim",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
    "uid": "bfa9937a13d4",
    "dia": "2026-10-28",
    "hora": null,
@@ -2273,6 +2364,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPDc-UWlUU3I3OIgmjGt97DeGoW2EcR0POMK292Oggg8ecezQUX05qaTFKbdbigV50NFq-e3UnkQIhbGxFCDYOE",
    "ref": "sei:lrcap-2025",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "f611e1a644c7",
+   "dia": "2026-10-23",
+   "hora": "21:15",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 13 contribuições novas",
+   "detalhe": "Conselho de Consumidores da Energisa Mato Grosso do Sul – CONCEN EMS · ABRADEE · EDF Power Solutions · ECHOENERGIA · …e mais 9",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
   },
   {
    "uid": "2cfc5810858e",
@@ -2335,6 +2438,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "07d54a183033",
+   "dia": "2026-10-22",
+   "hora": "16:48",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 5 contribuições novas",
+   "detalhe": "FIESP - Federação das Indústrias do Estado de São Paulo · EMAE - Empresa Metropolitana de Águas e Energia · SPIC BRASIL S.A. · ELETROGOES S/A · …e mais 1",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
    "uid": "5de9e3c17ea6",
    "dia": "2026-10-22",
    "hora": null,
@@ -2369,6 +2484,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMglZzw9BcNKir54Ac_y73aDsBmwyQVin6Eg9i01HsLHu2hdB_W4iBY4CwK_hnwtqvV-eootDIB5IsbzeKNeRUH",
    "ref": "sei:armazenamento-904885-2020",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "7793455da4a5",
+   "dia": "2026-10-21",
+   "hora": "13:39",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: contribuição de Celesc Geração S.A.",
+   "detalhe": "CONTRIBUIÇÃO DA CELESC GERAÇÃO À CONSULTA PÚBLICA Nº 233/2026",
+   "link": "https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/remote-store/exibir/link/05232ca3-9ed3-4238-a408-1a23b69f5077",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
   },
   {
    "uid": "fa49f8024a7f",
@@ -2429,6 +2556,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
    "ref": "sei:lrcap-2025",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "e0cebd7bc386",
+   "dia": "2026-10-19",
+   "hora": "15:00",
+   "orgao": "MME",
+   "tipo": "contribuicao",
+   "titulo": "CP 233: 2 contribuições novas",
+   "detalhe": "DME DISTRIBUIÇÃO S.A. - DMED (CNPJ: 23.664.303/0001-04) · ICE do Brasil Ltda. (CNPJ 06.939.205/0001-13)",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:51:39-03:00"
   },
   {
    "uid": "41699357bc17",
