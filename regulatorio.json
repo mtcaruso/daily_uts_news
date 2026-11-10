@@ -1,0 +1,2587 @@
+{
+ "gerado_em": "2026-11-10T17:20:08-03:00",
+ "fontes": {
+  "ANEEL": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:20:08-03:00",
+   "listagem_pc": "2026-11-10T17:04:32.100513-03:00"
+  },
+  "MME": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:20:08-03:00"
+  },
+  "ARSESP": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:20:08-03:00"
+  },
+  "ARSAE": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:20:08-03:00"
+  },
+  "Pauta ANEEL": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:20:08-03:00"
+  },
+  "SEI": {
+   "ok": true,
+   "lido_em": "2026-11-10T17:05:09.627086-03:00"
+  }
+ },
+ "consultas": [
+  {
+   "id": "aneel-cp-029-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "029/2026",
+   "tema": "Atualização regulatória dos padrões de rede para aumentar a resiliência dos sistemas de distribuição de energia elétrica. Busca subsídios para avaliar a necessidade e conveniência da intervenção.",
+   "inicio": "2026-08-27",
+   "fim": "2026-10-12",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-031-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "031/2026",
+   "tema": "Aprimoramento do Indicador de Atendimento de Mercado (IAM) e sua regulamentação. Contribuições em Word, usando modelo específico, são solicitadas.",
+   "inicio": "2026-09-03",
+   "fim": "2026-10-19",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-032-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "032/2026",
+   "tema": "Aprimoramento da minuta do Edital e Anexos do Leilão nº 1/2027-ANEEL. Obtenção de subsídios para ajustes no processo licitatório.",
+   "inicio": "2026-09-10",
+   "fim": "2026-10-26",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-031-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "031/2026",
+   "tema": "Definição de limites de continuidade DEC e FEC para a Dcelt Distribuidora Catarinense de Energia Elétrica S/A.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-032-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "032/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a Empresa Força e Luz João Cesa LTDA (EFLJC).",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-033-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "033/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a Energisa Sul-Sudeste.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-034-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "034/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a Pacto Energia PR (2027-2031).",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-035-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "035/2026",
+   "tema": "Definição de critérios e metodologia para extensão de prazo de concessões de geração hidrelétrica, visando amortização de investimentos e aproveitamento ótimo do potencial hidráulico, conforme § 7º do art. 26 da Lei nº 9.427/1996.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-035-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "035/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC da Neoenergia Brasília para 2027-2031.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-036-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "036/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC da Energisa Minas Rio (EMR) para 2027-2031.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-037-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "037/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a CHESP. Definição de metas de qualidade para a distribuidora.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-038-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "038/2026",
+   "tema": "Reforma Tributária (EC 132/2023, LC 214/2025) e seus impactos nas Bases de Remuneração das concessionárias de energia elétrica.",
+   "inicio": "2026-10-21",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-038-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "038/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a Copel Distribuição S.A. (COPEL-DIS).",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-039-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "039/2026",
+   "tema": "Adequação de contratos de geração, comercialização e encargos setoriais à reforma tributária (EC 132/2023 e LC 214/2025).",
+   "inicio": "2026-10-21",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-ts-039-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "039/2026",
+   "tema": "Estabelecimento dos limites de continuidade DEC e FEC para a EFLUL.",
+   "inicio": "2026-10-01",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-233",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "233",
+   "tema": "Proposta de diretrizes para o tratamento das outorgas de geração de energia hidrelétrica de que trata a Lei nº 12.783, de 11 de janeiro de 2013.",
+   "inicio": "2026-09-23",
+   "fim": "2026-10-30",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "area": "SNTEP/DPOG",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15946",
+     "t": "PORTARIA SNTEP/MME Nº 3.234, DE 18 DE SETEMBRO DE 2026"
+    },
+    {
+     "k": "mme15947",
+     "t": "SEI 1313248 Nota Tecnica 39"
+    },
+    {
+     "k": "mme15983",
+     "t": "Portaria SNTEP MME Nº 3.253, de 22 de outubro de 2026 - Prorrogação"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ts-042-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "042/2026",
+   "tema": "Reforma tributária (EC 132/2023, LC 214/2025) impacta Plano de Contas do MCSE. Consulta busca subsídios para adequações regulatórias.",
+   "inicio": "2026-10-22",
+   "fim": "2026-11-03",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-037-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "037/2026",
+   "tema": "Ajuste regulatório para custeio e rateio do Encargo de Reserva de Capacidade de sistemas de armazenamento de energia em baterias, com base na AIR nº 5/2026 e minuta de Resolução Normativa.",
+   "inicio": "2026-10-08",
+   "fim": "2026-11-06",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-235",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "235",
+   "tema": "Consulta Pública, minuta do Relatório Síntese do Plano Decenal de Expansão de Energia 2036 - PDE 2036",
+   "inicio": "2026-10-08",
+   "fim": "2026-11-06",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "area": "SNTEP/DIEE",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15955",
+     "t": "Minuta Relatório Síntese Plano Decenal de Expansão de Energia 2036 - PDE 2036"
+    },
+    {
+     "k": "mme15957",
+     "t": "Portaria - Consulta Pública Relatório Síntese PDE 2036"
+    },
+    {
+     "k": "mme15958",
+     "t": "PDE 2036 Consulta Pública Formulário de Contribuição rev4"
+    },
+    {
+     "k": "mme16016",
+     "t": "Anexo - Diretrizes PDE 2036"
+    }
+   ]
+  },
+  {
+   "id": "mme-cp-236",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "236",
+   "tema": "Propostas sobre a regulamentação dos artigos 2º e 5º da Resolução CNPE nº1/2024.",
+   "inicio": "2026-10-13",
+   "fim": "2026-11-06",
+   "situacao": "encerrada",
+   "setor": "energia",
+   "area": "SE",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15964",
+     "t": "I - Publicação no DOU"
+    },
+    {
+     "k": "mme15968",
+     "t": "II - Nota Técnica nº 20.2026-SE"
+    },
+    {
+     "k": "mme15971",
+     "t": "III - Minuta de Portaria Diretrizes Operacionalização do art. 2º da Res. CNPE nº 1 2024"
+    },
+    {
+     "k": "mme15973",
+     "t": "IV - Minuta de Portaria Diretrizes Operacionalização do art. 5º da Res. CNPE nº 1 2024"
+    },
+    {
+     "k": "mme16028",
+     "t": "V – Publicação no DOU (Prorrogação)"
+    }
+   ]
+  },
+  {
+   "id": "mme-cp-238",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "238",
+   "tema": "Proposta de Metas para o Programa Energias da Amazônia",
+   "inicio": "2026-10-23",
+   "fim": "2026-11-11",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DTE",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15984",
+     "t": "Minuta de Resolução CNPE - Metas Programa Energias da Amazônia"
+    },
+    {
+     "k": "mme15993",
+     "t": "FORMULARIO PARA CONTRIBUICAO CP Minuta Resolucao CNPE Metas Energias da Amazonia"
+    },
+    {
+     "k": "mme15994",
+     "t": "PORTARIA SNTEP MME Nº 3.251, DE 22 DE OUTUBRO DE 2026 - PORTARIA SNTEP MME Nº 3.251, DE 22 DE OUTUBRO DE 2026 - DOU - Imprensa Nacional"
+    },
+    {
+     "k": "mme15996",
+     "t": "NOTA TÉCNICA Nº 14 2026 CGSI DTE SNTEP"
+    },
+    {
+     "k": "mme15997",
+     "t": "Nota Tecnica NT EPE DEE 031 2024 rev0"
+    },
+    {
+     "k": "mme15998",
+     "t": "Informativo Tecnico IT EPE DPG 01 2024"
+    },
+    {
+     "k": "mme16001",
+     "t": "Informativo TecnicoIT EPE DEA 05 2024"
+    },
+    {
+     "k": "mme16002",
+     "t": "FSET ELB040 Relatorio de Investimentos Final Retorno a FSET rev"
+    }
+   ]
+  },
+  {
+   "id": "aneel-cp-034-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "034/2026",
+   "tema": "Aprimoramento da classificação de modalidades de operação de usinas conectadas ao sistema, com alteração dos Procedimentos de Rede e contemplando diversos submódulos, conforme minuta do ONS.",
+   "inicio": "2026-09-17",
+   "fim": "2026-11-12",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "arsesp-cp-14-2026",
+   "orgao": "ARSESP",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "14/2026",
+   "tema": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
+   "inicio": "2026-10-13",
+   "fim": "2026-11-12",
+   "situacao": "aberta",
+   "setor": "saneamento",
+   "audiencia": null,
+   "publicado": "2026-10-13",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "docs": [
+    {
+     "k": "arsesp8352",
+     "t": "Aviso de CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8353",
+     "t": "Regulamento CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8354",
+     "t": "Formulário para envio de contribuições à CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8355",
+     "t": "Nota Técnica",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8356",
+     "t": "Minuta de Deliberação",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8357",
+     "t": "Formulário BHP",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8358",
+     "t": "Formulário DPA",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8359",
+     "t": "Formulário PGRCPA",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8360",
+     "t": "Relatório e Voto",
+     "data": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ts-030-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "030/2026",
+   "tema": "Aprimoramento da Base de Dados Geográfica da Distribuidora (BDGD) para aderência ao MCPSE e Manual de Dados da SFF v.1.3.",
+   "inicio": "2026-10-01",
+   "fim": "2026-11-16",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-240",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "240",
+   "tema": "Minuta de diretrizes e Informe Técnico EPE com a Proposta de Formulação dos Preços de Referência e do Custo de Combustível (Ccomb) para o Leilão dos Sistemas Isolados de 2027.",
+   "inicio": "2026-10-29",
+   "fim": "2026-11-17",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DTE",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme16008",
+     "t": "Minuta de Portaria - Diretrizes para o Leilão de Sistemas Isolado 2027"
+    },
+    {
+     "k": "mme16012",
+     "t": "FORMULARIO PARA CONTRIBUICOES Minuta Portaria SISOL 2027 v"
+    },
+    {
+     "k": "mme16013",
+     "t": "Informe Tecnico EPE DEE IT 082 2026 R0"
+    },
+    {
+     "k": "mme16014",
+     "t": "FORMULARIO PARA CONTRIBUICOES Informe Tecnico EPE SISOL 2027 v"
+    },
+    {
+     "k": "mme16015",
+     "t": "PORTARIA SNTEP/MME Nº 3.250, DE 20 DE OUTUBRO DE 2026 - Abertura consulta"
+    },
+    {
+     "k": "mme16026",
+     "t": "Nota Te´cnica 16"
+    }
+   ]
+  },
+  {
+   "id": "arsesp-ap-07-2026",
+   "orgao": "ARSESP",
+   "tipo": "Audiência Pública",
+   "sigla": "AP",
+   "numero": "07/2026",
+   "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
+   "inicio": null,
+   "fim": "2026-11-19",
+   "situacao": "aberta",
+   "setor": "saneamento",
+   "audiencia": "19/11 10h00",
+   "publicado": "2026-10-23",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemA=67",
+   "docs": [
+    {
+     "k": "arsesp1182",
+     "t": "Aviso de AP 07/2026",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp1183",
+     "t": "Regulamento AP 07/2026",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp1185",
+     "t": "Aviso de Alteração de data da Audiência Pública 07/2026",
+     "data": "2026-11-06"
+    },
+    {
+     "k": "arsesp1187",
+     "t": "Regulamento Atualizado da Audiência Pública 07/2026",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ts-041-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "041/2026",
+   "tema": "Orçamento Anual da CDE 2027: busca subsídios para Encargo de Complemento de Recursos, Fatores ECR e rateio das quotas.",
+   "inicio": "2026-10-21",
+   "fim": "2026-11-20",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-237",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "237",
+   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
+   "inicio": "2026-10-23",
+   "fim": "2026-11-22",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DEMOB",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15979",
+     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
+    },
+    {
+     "k": "mme15981",
+     "t": "Formulário de Contribuições"
+    },
+    {
+     "k": "mme15982",
+     "t": "Portaria Abertura da Consulta Pública DOU"
+    },
+    {
+     "k": "mme16017",
+     "t": "Orientações"
+    }
+   ]
+  },
+  {
+   "id": "aneel-cp-036-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "036/2026",
+   "tema": "Revisão dos Módulos 1 e 5 das Regras de Transmissão (REN nº 905/2020) busca subsídios para minutas de Resolução Normativa. Ação baseada na Nota Técnica nº 97/2026-STD/ANEEL.",
+   "inicio": "2026-10-08",
+   "fim": "2026-11-23",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "arsesp-cp-17-2026",
+   "orgao": "ARSESP",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "17/2026",
+   "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
+   "inicio": "2026-10-23",
+   "fim": "2026-11-23",
+   "situacao": "aberta",
+   "setor": "saneamento",
+   "audiencia": null,
+   "publicado": "2026-10-23",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "docs": [
+    {
+     "k": "arsesp8380",
+     "t": "Aviso de CP 17/2026",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp8381",
+     "t": "Regulamento CP 17/2026",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp8382",
+     "t": "Formulário para envio de contribuições à CP 17/2026",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp8383",
+     "t": "Nota Técnica Preliminar",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp8384",
+     "t": "Procalt Fator X (Saneamento Básico)",
+     "data": "2026-10-23"
+    },
+    {
+     "k": "arsesp8387",
+     "t": "Aviso de Prorrogação da CP 17/2026",
+     "data": "2026-11-06"
+    },
+    {
+     "k": "arsesp8389",
+     "t": "Regulamento - Prorrogação do prazo para envio de Contribuições da CP 17/2026",
+     "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ap-008-2026",
+   "orgao": "ANEEL",
+   "tipo": "Audiência Pública",
+   "sigla": "AP",
+   "numero": "008/2026",
+   "tema": "Avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+   "inicio": "2026-11-25",
+   "fim": "2026-11-25",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/audiencias-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-041-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "041/2026",
+   "tema": "Avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL.",
+   "inicio": "2026-10-29",
+   "fim": "2026-11-27",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-033-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "033/2026",
+   "tema": "Aprimoramento do Módulo 3 do PRODIST para requisitos de observabilidade, operabilidade e controlabilidade de REDs, incluindo AIR para interoperabilidade do parque existente.",
+   "inicio": "2026-09-10",
+   "fim": "2026-11-30",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-239",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "239",
+   "tema": "Proposta de diretrizes para a elaboração do Plano de Outorgas de Transmissão de Energia Elétrica (POTEE) do Ministério de Minas e Energia (MME), desde a concepção dos Estudos de Planejamento da Transmissão até a realização dos Leilões para a Ampliação dos Sistemas de Transmissão, bem como para a autorização de Reforços e Melhorias em Instalações de Transmissão existentes.",
+   "inicio": "2026-10-29",
+   "fim": "2026-11-30",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DPOTI",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme16003",
+     "t": "01 Portaria SNTEP/MME nº 3.256, de 26 de outubro de 2026"
+    },
+    {
+     "k": "mme16004",
+     "t": "02 Nota Tecnica 80 AIR"
+    },
+    {
+     "k": "mme16005",
+     "t": "03 Formulario AHP Nota Tecnica 80 AIR"
+    },
+    {
+     "k": "mme16006",
+     "t": "04 Memoria Calculo AHP Nota Tecnica 80 AIR"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ts-040-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "040/2026",
+   "tema": "Alteração do Submódulo 7.10 — Implantação e Análise do Sistema de Registro de Perturbações dos Procedimentos de Rede. Busca subsídios para aprimorar o registro e análise de perturbações na rede elétrica.",
+   "inicio": "2026-10-21",
+   "fim": "2026-12-04",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-242",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "242",
+   "tema": "Proposta de revisão do Manual de Operacionalização do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos",
+   "inicio": "2026-11-10",
+   "fim": "2026-12-10",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNEE/DUPS",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme16029",
+     "t": "Proposta do Manual de Operacionalização do Programa LPT 2026"
+    },
+    {
+     "k": "mme16030",
+     "t": "Portaria MME nº 946, de 6 de novembro de 2026 - divulga a Consulta Publica do Manual LPT 2026"
+    },
+    {
+     "k": "mme16031",
+     "t": "Portaria MME nº 946, de 6 de novembro de 2026 - publicada no DOU em 10 de novembro de 2026 - divulga a Consulta Publica do Manual LPT 2026"
+    },
+    {
+     "k": "mme16032",
+     "t": "Decreto nº 11.628, de 4 de agosto de 2023 - Programa Nacional de Universalização do Acesso e Uso da Energia Eletrica – LPT"
+    },
+    {
+     "k": "mme16033",
+     "t": "Portaria MME nº 801, de 18 de setembro de 2024 - aprova o Manual de Operacionalização do LPT atual"
+    },
+    {
+     "k": "mme16034",
+     "t": "Nota Informativa DUPS-SNEE nº 214, de 28 de outubro de 2026 - resumo das contribuições preliminares para o Manual LPT 2026"
+    },
+    {
+     "k": "mme16035",
+     "t": "Nota Técnica DUPS-SNEE nº 62, de 28 de outubro de 2026 - propõe abertura de Consulta Pública para recebimento de contribuições para revisão do Manual"
+    },
+    {
+     "k": "mme16036",
+     "t": "Modelo de Apresentacao para Contribuições do Manual LPT 2026"
+    }
+   ]
+  },
+  {
+   "id": "aneel-cp-040-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "040/2026",
+   "tema": "Regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025.",
+   "inicio": "2026-10-29",
+   "fim": "2026-12-14",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-241",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "241",
+   "tema": "Proposta de Metodologias e procedimentos de Cálculo e Revisão da Garantia Física de Energia de Usinas Eólicas e Usinas Solares Fotovoltaicas",
+   "inicio": "2026-11-04",
+   "fim": "2026-12-18",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DPOG",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme16019",
+     "t": "Portaria SNTEP/MME Nº 3257, DE 28 DE outubro DE 2026"
+    },
+    {
+     "k": "mme16020",
+     "t": "SEI 1001218 Minuta Interna EOL"
+    },
+    {
+     "k": "mme16021",
+     "t": "SEI 1001220 Minuta Interna UFV"
+    },
+    {
+     "k": "mme16022",
+     "t": "SEI 1283696 Nota Tecnica 153 MME"
+    },
+    {
+     "k": "mme16023",
+     "t": "EPE DEE 010 2025 r0"
+    },
+    {
+     "k": "mme16024",
+     "t": "SEI 1331399 Nota Tecnica 250 AIR"
+    },
+    {
+     "k": "mme16025",
+     "t": "Oficio 0137 NT Metodologia Rev GV EOL UFV Clicksign"
+    }
+   ]
+  },
+  {
+   "id": "aneel-ts-043-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "043/2026",
+   "tema": "Revisão do Submódulo 2.10 – Requisitos técnicos mínimos para a conexão às instalações de transmissão dos Procedimentos de Rede (Requisitos) e os demais submódulos por ele afetados.",
+   "inicio": "2026-11-09",
+   "fim": "2026-12-24",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
+   "id": "arsae-cp-72",
+   "orgao": "ARSAE",
+   "tipo": "Consulta e Audiência Pública",
+   "sigla": "CP",
+   "numero": "72/2026",
+   "ano": 2026,
+   "tema": "Metodologia da 8ª Revisão Tarifária Periódica da Copanor",
+   "inicio": null,
+   "fim": null,
+   "situacao": "em andamento",
+   "setor": "saneamento",
+   "link": "https://www.arsae.mg.gov.br/consultas-publicas-2026/#CP72",
+   "docs": [
+    {
+     "k": "arsae8403b77d7d",
+     "t": "Aviso da CP",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/08/SEI_146086720_Aviso_78.pdf",
+     "final": false
+    },
+    {
+     "k": "arsae5551e56392",
+     "t": "Regulamento",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/08/SEI_146086652_Regulamento___Aviso_n__72_2026.pdf",
+     "final": false
+    },
+    {
+     "k": "arsaee3a37d7bf4",
+     "t": "Formulário de Contribuição",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/08/Formulario_Contribuicao_CP-e-AP-72-2026.docx",
+     "final": false
+    },
+    {
+     "k": "arsae110c0f67fb",
+     "t": "Nota Técnica CRE 03.2026",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/08/NT-CRE-03.2026-8RTP-da-Copanor-Metodologia-PreCP.pdf",
+     "final": false
+    },
+    {
+     "k": "arsae59eed96845",
+     "t": "Anexo da NT CRE 03.2026",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/08/ANEXO_NT_CRE_03_2026_Classificacao_Regulatoria_Copanor.xlsx.xlsx",
+     "final": false
+    },
+    {
+     "k": "arsae4e8700f26a",
+     "t": "Clique aqui para acessar a gravação da Audiência Pública que ocorreu ao vivo no dia 03 de setembro",
+     "u": "https://www.youtube.com/watch?v=6AmtSTOlLJ4&t=5s",
+     "final": false
+    }
+   ]
+  }
+ ],
+ "processos": [
+  {
+   "id": "lrcap-2025",
+   "apelido": "Leilão LRCAP 2025 (geração reserva de capacidade)",
+   "numero": "48500.032821/2025-67",
+   "tipo": "Leilão de Geração: Reserva de Capacidade",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "lido_em": "2026-11-10T17:04:38.809804-03:00",
+   "documentos": [
+    {
+     "data": "2026-11-09",
+     "tipo": "Memória",
+     "unidade": "GAB - APOIO",
+     "unidade_nome": "Gabinete de Apoio à Diretoria",
+     "protocolo": "0503095",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOEdOvo8dhMwRN2Mm-iS1GSm5z3Xo8oWTgXuQMrPJ8z5OpUWj0XMZ3vBIF74_ih7oI1SHnhsmRHsnyphJCxMShP",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-29",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0492409",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNJUToWQtm1gE9UnLWAD4wuFO98hBGLtd5DDBnS-QUIP0G7tmj-mSqjESWLX3zaYZ2jDpoeHPTWx-fzNQhducs1",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "E-mail",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0495554",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPDc-UWlUU3I3OIgmjGt97DeGoW2EcR0POMK292Oggg8ecezQUX05qaTFKbdbigV50NFq-e3UnkQIhbGxFCDYOE",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-22",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0487272",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMvkhZvLQSzMadnUf5Ul1k8qTwmrtGOoaV-WOLqHeDVlVdJp4imnicYdCkbvnR0lbRNLrKk0kV2aBxujRNQ_zui",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-22",
+     "tipo": "Voto",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0490114",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPqohoACo_X--DZtdzRKpyEfROZa7efOWQmi2ZBx8JPJFNz5p9KQy3K_0EKRRLoitK4xKHNG-gXdV6fXsIvumWs",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-14",
+     "tipo": "Memória",
+     "unidade": "GAB - APOIO",
+     "unidade_nome": "Gabinete de Apoio à Diretoria",
+     "protocolo": "0480908",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNAKH-FU0fb6TH0Iit9ongcZVPeqIHtSWNtDkNiELFGtpjzUD4-OD9-pVs52-BT028TgzjiMeBC2LLGpdlbWhnl",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-09",
+     "tipo": "Memória",
+     "unidade": "GAB - APOIO",
+     "unidade_nome": "Gabinete de Apoio à Diretoria",
+     "protocolo": "0478332",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWm2-Uj3bLuhf0MI5q9cyQOXe270pf3Yv6DkdibaeR6XkwD7vWIc7CSKDtfGkhxWpRroYYe_OKuHQZEd89c8tn",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-25",
+     "tipo": "Leilão de Geração: Reserva de Capacidade",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.028241/2026-56",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHp7u5P7p9AlY7OH5LCfoBVNTqM4aDBrmD3TVe0NP13bwA,,",
+     "anexado": true
+    },
+    {
+     "data": "2026-09-22",
+     "tipo": "Leilão de Geração: Reserva de Capacidade",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.027840/2026-52",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqHZQ0MuqnSGjVcaFg9mAKvteKXNCy7BFk4wzeXT0CnfA,,",
+     "anexado": true
+    },
+    {
+     "data": "2026-09-21",
+     "tipo": "Termo de Cancelamento de Documento",
+     "unidade": "GAB - APOIO",
+     "unidade_nome": "Gabinete de Apoio à Diretoria",
+     "protocolo": "0461919",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNighp2h93lNqKZaq6oPaeJZGowSsnCKKf38NIvSCyrKBPabLoPQLqQMTFQCoTn4T0I2CUMHCOZA_zW7FDWUwWR",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-11-09",
+     "hora": "15:57",
+     "unidade": "GAB - APOIO",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "062d98d9fd2b",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-05",
+     "hora": "10:55",
+     "unidade": "CPL",
+     "descricao": "Processo recebido na unidade",
+     "hash": "5bed294d0cb3",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-04",
+     "hora": "10:53",
+     "unidade": "CPL",
+     "descricao": "Processo remetido pela unidade SEL",
+     "hash": "b851b8e69ded",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-29",
+     "hora": "17:16",
+     "unidade": "SEL",
+     "descricao": "Processo recebido na unidade",
+     "hash": "c603dc0a36e5",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-29",
+     "hora": "17:08",
+     "unidade": "SEL",
+     "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+     "hash": "491e2776d229",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-20",
+     "hora": "11:02",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "eec833395d9e",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-20",
+     "hora": "10:28",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+     "hash": "81f81466bec9",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-19",
+     "hora": "16:46",
+     "unidade": "GAB - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "524dd1659877",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-14",
+     "hora": "10:30",
+     "unidade": "GAB - APOIO",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "79accdc9639d",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-09",
+     "hora": "16:55",
+     "unidade": "GAB - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "3728cd9e62ac",
+     "rotina": true
+    }
+   ],
+   "pauta": [
+    {
+     "data": "2026-11-10",
+     "reuniao": "20/2026 - RPC",
+     "assunto": "Medida Cautelar, de ofício, para suspender o prazo para aporte da Garantia Prévia para Celebração do Contrato de Uso do Sistema de Transmissão – GPC, relativo aos Pareceres de Acesso das usinas dos Consórcios ION, até a deliberação da Diretoria Colegiada sobre o Recurso Administrativo interposto contra o Despacho nº 1.945/2026, da Comissão Permanente de Leilões – CPL, no âmbito do Leilão nº 2/202…",
+     "resultado": "",
+     "ato": "",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": ""
+    },
+    {
+     "data": "2026-10-20",
+     "reuniao": "21/2026 - RPO",
+     "assunto": "Prorrogação do prazo de pedido de vista referente ao Recurso Administrativo interposto pela TermoG SPE Ltda. em face do Despacho nº 1.944/2026, emitido pela Comissão Permanente de Leilões – CPL, que determinou sua inabilitação no Leilão nº 2/2026-ANEEL, denominado “Leilão de Reserva de Capacidade na Forma de Potência – LRCAP de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs”.",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 60 dias para apresentação do voto-vista."
+    }
+   ],
+   "n_documentos": 476,
+   "n_andamentos": 602
+  },
+  {
+   "id": "curtailment-906080-2022",
+   "apelido": "Curtailment / Constrained-off — Regulação Geração (base REN 1.030/2022 e 1.073/2023)",
+   "numero": "48500.906080/2022-16",
+   "tipo": "Regulação da Geração: Normatização",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
+   "lido_em": "2026-11-10T17:04:49.634873-03:00",
+   "documentos": [
+    {
+     "data": "2025-04-17",
+     "tipo": "Regulação da Geração: Acompanhamento da Geração e Indisponibilidades",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.013742/2025-57",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqdyS4_eTkKsViZWzw5KkFrxi551NefoVaZ_rZFR1hVCg,,",
+     "anexado": true
+    },
+    {
+     "data": "2025-03-31",
+     "tipo": "Aviso",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "0077390",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMdo8H_Ikxsj8VvdlB-288lUrYxmT4zJTs1IzgsmQelsjhVbavuyzHBQY-5cKgyStKI-vhaDZT5_9vT-mHqeYu9",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-27",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - Publicação",
+     "unidade_nome": "(Encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0058627",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNTtyoHIm7q-uyDIWH1CjjawzJTELVD-XHOgos0fRXmLgUNl8zf4lC-5-But1G4H_hy5ASv1sltVCnJVjtMe8Vq",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-26",
+     "tipo": "Publicação",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0057792",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPt4ULjuY4mBQZRw44zc_1BiUvvfIh5IHMlktZWvUWwpkylxMfPKnpqRPwbjisDW0ftVjxqLLQxwiz-_nGgUc6W",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Voto",
+     "unidade": "DIR - LLS",
+     "unidade_nome": "Diretoria - Ludimila Lima da Silva",
+     "protocolo": "0053028",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi2NDiZtqbRz65mCVSrWRiJflPjKlcmVrQhNwSg30nr9VFhRgfRpbKyTIKfXzEfKAa4-s9q7uRmgOIixxqvu9A17",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Despacho Nº 437",
+     "unidade": "DIR - LLS",
+     "unidade_nome": "Diretoria - Ludimila Lima da Silva",
+     "protocolo": "0053206",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi3SC32X1ggN8s1i6d9OkpXocwLir4NThv6yTf-QVD9171bj3NyGMx_w3LzwdjQgAk8Z9hOrQkl885Aasw5KnxHG",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Nota Técnica 20",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0045632",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi1Oabsklme5DdNzDFgbqWhmtNNU-2ic4WvZLJUI_ijqYga6tAs5HfM5rjPsdCTnlAms4wzKklOTloyFlXXIrSPt",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0053613",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi2qzkQ_GgULGBjBjbsxm97VsbLOQD9m9a4Saot6RlJHZHb8bj7TGwX5jfCp0Gl7WxBM1o-WXoKWMUPDS0mKahi8",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0053618",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi0SuT6LVK0anYeTZtc8NITTzRiMr6DHzSSj7YrUM5DP1Fs7HSqcakDzhvm812DLfEi7Zt3FcjZd81VdTwsBEEt4",
+     "anexado": false
+    },
+    {
+     "data": "2025-02-24",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0053620",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?bxjXZN2ULCBrj3JMtfZIxIcWy8JibyFTzsYHTzXzUi3PMhWJxoLiVOGapezClRlar4WJlbRv_1t4Bo76rc9l69RrzCaJyUPVhQXZqN206ZN1JsbAUaSKMTJAJlPkXjA3",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-05-22",
+     "hora": "15:54",
+     "unidade": "SGM",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "309d0053cfde",
+     "rotina": true
+    },
+    {
+     "data": "2025-06-30",
+     "hora": "10:16",
+     "unidade": "SGM",
+     "descricao": "Processo 48500.013742/2025-57 anexado",
+     "hash": "bf787e043568",
+     "rotina": true
+    },
+    {
+     "data": "2025-06-30",
+     "hora": "08:21",
+     "unidade": "SGM",
+     "descricao": "Processo 48500.013742/2025-57 desanexado. Anexação indevida. Solicitado via chamado 1378519.",
+     "hash": "a9a4715392d5",
+     "rotina": true
+    },
+    {
+     "data": "2025-04-30",
+     "hora": "17:34",
+     "unidade": "SGM",
+     "descricao": "Processo 48500.013742/2025-57 anexado",
+     "hash": "1d9665ac91f0",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-31",
+     "hora": "12:34",
+     "unidade": "DIR - AMAC",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "96d585698b1b",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-31",
+     "hora": "11:33",
+     "unidade": "SGM",
+     "descricao": "Processo 48500.006304/2025-32 desanexado. Desanexado do processo 48500.006304/2025-32. Anexação indevida. Solicitado via chamado.",
+     "hash": "e6a5f9cf37bf",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-10",
+     "hora": "18:01",
+     "unidade": "SGM",
+     "descricao": "Processo recebido na unidade",
+     "hash": "a6e8c9747cdf",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-10",
+     "hora": "16:10",
+     "unidade": "SGM",
+     "descricao": "Processo remetido pela unidade DIR - LLS",
+     "hash": "9acaf714482b",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-05",
+     "hora": "15:54",
+     "unidade": "SGM",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "2c879677592a",
+     "rotina": true
+    },
+    {
+     "data": "2025-03-05",
+     "hora": "15:32",
+     "unidade": "DIR - LLS",
+     "descricao": "Processo recebido na unidade",
+     "hash": "d6b0400b16b7",
+     "rotina": true
+    }
+   ],
+   "pauta": [],
+   "n_documentos": 15,
+   "n_andamentos": 36
+  },
+  {
+   "id": "curtailment-902708-2024",
+   "apelido": "Curtailment — Metodologia de Ressarcimento (votado 40ª RPO dez/2025)",
+   "numero": "48500.902708/2024-76",
+   "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
+   "lido_em": "2026-11-10T17:05:00.330201-03:00",
+   "documentos": [
+    {
+     "data": "2025-12-09",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0255658",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPo0EOzkDlP-mgY-4yHgTQgNZMOOTvL17oWqHyPuJzTuObpzCpnLNXfzFwDYlIa3I4tujdZERuPwVmgEG96jmQp",
+     "anexado": false
+    },
+    {
+     "data": "2025-12-08",
+     "tipo": "Resolução Normativa 1141",
+     "unidade": "DIR - AMAC",
+     "unidade_nome": "Diretoria - Agnes Maria de Aragão da Costa",
+     "protocolo": "0251163",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPhdGZCT9cuXYKv6gC0LWTZPdQIM9Wumj85AIBUpQEAWeclGQh9JadhCgPd78nt6j1xmEMOmx_vTbT9eDsulWIY",
+     "anexado": false
+    },
+    {
+     "data": "2025-12-05",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "DIR - AMAC",
+     "unidade_nome": "Diretoria - Agnes Maria de Aragão da Costa",
+     "protocolo": "0251134",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPWWZdffN-ENy3tVclKPuKu1tVyfvjZoxfS6g68BFzoDKBtDEFh-0J7V2xFcYxXZxRQNv5Ku7NQFPZAcNEzkkH8",
+     "anexado": false
+    },
+    {
+     "data": "2025-12-05",
+     "tipo": "Voto",
+     "unidade": "DIR - AMAC",
+     "unidade_nome": "Diretoria - Agnes Maria de Aragão da Costa",
+     "protocolo": "0251162",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOWdsWl62S9V8m49WsR9YsmnTcbQbBUqP1PQAnwV_axDuXBvhAiE5fhdcJHclE_lwhhSHP47NQiNrIPcD1q2XQ3",
+     "anexado": false
+    },
+    {
+     "data": "2025-09-12",
+     "tipo": "Nota Técnica 147",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0195211",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPXvwN3EgLMju-vp1Epe73J0QJantcuZgwZuiihqrSg4y7oUJNV57fmIp-O9gX-hj0l1NTrxkqFRcZ3IXUZyyj_",
+     "anexado": false
+    },
+    {
+     "data": "2025-09-12",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0195329",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPvi4VBDL1HmS5cCoDJiTopBkw6Xrf3NUXoPCjtVX-QMOzIIhoqnJwyQ3crr_yzqvS9L3mbVgU0Sbe0jS_2zRGb",
+     "anexado": false
+    },
+    {
+     "data": "2025-09-12",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0195332",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPEreTsQ6Xaebn9VcW91TlIRgu6-uKmOU1i4htKyw9vQu55PRbkH9AlldMHrQDai2JC4_qVY7XcjAotTPPhnWyt",
+     "anexado": false
+    },
+    {
+     "data": "2025-05-14",
+     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.016562/2025-27",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHpkuDqK1Gs_rsL8ALIBlP8AZlfdR9kvApgzbrm4KdxSfw,,",
+     "anexado": true
+    },
+    {
+     "data": "2025-05-13",
+     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.016365/2025-16",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqYsZWApKsLz_FyPyN-Vns28tgUFapiSRBLXzQuCkInIg,,",
+     "anexado": true
+    },
+    {
+     "data": "2025-05-13",
+     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.016553/2025-36",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHoRDartLrBP4U-ywjjC7AjVQemw0hCCYubGMVG1qZD1OA,,",
+     "anexado": true
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2025-12-15",
+     "hora": "18:59",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "84da8baaa37d",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-15",
+     "hora": "18:59",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "bdb010647fe5",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-10",
+     "hora": "18:54",
+     "unidade": "DIR - AMAC",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "0cfa5e357c9e",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-09",
+     "hora": "18:40",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "bbc2c50bc3e0",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-09",
+     "hora": "15:06",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "4abe636e7c16",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-09",
+     "hora": "14:59",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo remetido pela unidade DIR - AMAC",
+     "hash": "61ae8e0b5ae4",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-02",
+     "hora": "12:13",
+     "unidade": "DIR - AMAC",
+     "descricao": "Processo recebido na unidade",
+     "hash": "3e68e1189724",
+     "rotina": true
+    },
+    {
+     "data": "2025-12-02",
+     "hora": "12:12",
+     "unidade": "DIR - AMAC",
+     "descricao": "Processo remetido pela unidade SGM",
+     "hash": "e66e0fe61795",
+     "rotina": true
+    },
+    {
+     "data": "2025-11-28",
+     "hora": "10:59",
+     "unidade": "ASD - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "0a69696e561e",
+     "rotina": true
+    },
+    {
+     "data": "2025-09-12",
+     "hora": "18:20",
+     "unidade": "ASD - APOIO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "627aef9da332",
+     "rotina": true
+    }
+   ],
+   "pauta": [],
+   "n_documentos": 31,
+   "n_andamentos": 32
+  },
+  {
+   "id": "armazenamento-904885-2020",
+   "apelido": "Armazenamento de Energia (regulação SRG — base das CPs 39/2023 e 2/2025)",
+   "numero": "48500.904885/2020-63",
+   "tipo": "Regulação da Geração: Normatização",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
+   "lido_em": "2026-11-10T17:05:06.920237-03:00",
+   "documentos": [
+    {
+     "data": "2026-10-22",
+     "tipo": "Memorando 369",
+     "unidade": "SCE",
+     "unidade_nome": "Superintendência de Concessões, Permissões e Autorizações dos Serviços de Energia Elétrica",
+     "protocolo": "0491149",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMglZzw9BcNKir54Ac_y73aDsBmwyQVin6Eg9i01HsLHu2hdB_W4iBY4CwK_hnwtqvV-eootDIB5IsbzeKNeRUH",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-02",
+     "tipo": "Outorga de Geração: Hídrica - Autorização",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.029124/2026-18",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHpbTtF68A4XyWdZJj_cqs1hPiccdvmAKsMNyBzzU0QRMw,,",
+     "anexado": true
+    },
+    {
+     "data": "2026-08-06",
+     "tipo": "Recibo",
+     "unidade": "GDG",
+     "unidade_nome": "Gabinete Executivo de Diretrizes de Governança e Gestão",
+     "protocolo": "0423039",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOTONa1ciCDVY3GFI-BMKXpc6EN2n6l1rsL8ZNppuyUTz8q7HchSGBigSeXdcNVw_WJgdKMmhwFzewytnsPim3h",
+     "anexado": false
+    },
+    {
+     "data": "2026-08-05",
+     "tipo": "Ofício 165",
+     "unidade": "GDG",
+     "unidade_nome": "Gabinete Executivo de Diretrizes de Governança e Gestão",
+     "protocolo": "0422323",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPjLqnYjmtHmh7kRp6ec1BvhzheHlu0kiRF-mFGrHFRscuYo4mMmnreRPEoketEqWWz5ug_ZWW4H7CI5FwJqzba",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-26",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0391612",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOacSCOrVMVIctdZ0RKHZ4KUsm-kWjZl1kw-irH-9_QKE5HKnj4z5UnA5CcEH0nKuk5bXdxDdMQ4SOwwjvpg2QP",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-25",
+     "tipo": "Termo de Cancelamento de Documento",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0389916",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPUSvW1QVDJZ8kXQlRZr8w3ll2X8zgLw2hHGWDC39YKXwrDV9dOeKdrGGFalBuRQWKrdvpeFEPmQhdZoSJyNUU0",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-23",
+     "tipo": "Resolução Normativa 1161",
+     "unidade": "DIR - WMF",
+     "unidade_nome": "Diretoria - Willamy Moreira Frota",
+     "protocolo": "0388376",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMjFNLaNAA6C_RcUrzs7sNUhHNdSqyK8vWV47hM-lHxZLE4x8YIb0F5Mo_ZlJe8S-N5S2WT5GAYcUuc8KmmrdyE",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-23",
+     "tipo": "Resolução Normativa 1162",
+     "unidade": "DIR - WMF",
+     "unidade_nome": "Diretoria - Willamy Moreira Frota",
+     "protocolo": "0388484",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPRUvtVdbBJn-Kziod0n50oM-Woj87bqXmSyyCFelfHVan_j0wMMCEYNIAwiWNQEvGL_U0TPJmu_Uul-Lua3pag",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-23",
+     "tipo": "Anexo I módulo 1",
+     "unidade": "DIR - WMF",
+     "unidade_nome": "Diretoria - Willamy Moreira Frota",
+     "protocolo": "0388970",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMjB21UutrAmrs-KV8Jucer2i5eHSaUC4L0k-c1h_apCQQMWPeFw61fsoqWvAzAwREf1QjUKQ_F3DNQewTUwKfe",
+     "anexado": false
+    },
+    {
+     "data": "2026-06-23",
+     "tipo": "Anexo II Modulo 2",
+     "unidade": "DIR - WMF",
+     "unidade_nome": "Diretoria - Willamy Moreira Frota",
+     "protocolo": "0388976",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPwnLiL6yGRYL6mmIJsYXzwOFdaCjXLn3Zr-84nHnyOZEtter4ccEgOHpUkp3mR8uVPWPypwUTh5lN9ktN9sqlx",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-10-19",
+     "hora": "15:45",
+     "unidade": "SCE",
+     "descricao": "Processo 48500.029124/2026-18 anexado",
+     "hash": "8fd0f59b8fa7",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-14",
+     "hora": "11:01",
+     "unidade": "STE",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "6e3998d1c792",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-18",
+     "hora": "10:14",
+     "unidade": "GAB III - LLS",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "4d58e52ce028",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-18",
+     "hora": "10:13",
+     "unidade": "GAB III - LLS",
+     "descricao": "Processo recebido na unidade",
+     "hash": "693a62a767e3",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-18",
+     "hora": "09:17",
+     "unidade": "GAB III - LLS",
+     "descricao": "Processo remetido pela unidade GAB III - FLMFS",
+     "hash": "34d07d555f25",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-07",
+     "hora": "17:05",
+     "unidade": "STR",
+     "descricao": "Processo recebido na unidade",
+     "hash": "fcf729e2c855",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-06",
+     "hora": "10:21",
+     "unidade": "GDG",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "aa6ac5989664",
+     "rotina": true
+    },
+    {
+     "data": "2026-08-05",
+     "hora": "11:37",
+     "unidade": "GDG",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "8fe4e68ac65a",
+     "rotina": true
+    },
+    {
+     "data": "2026-06-30",
+     "hora": "12:04",
+     "unidade": "SFT",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "fe0b6d31649b",
+     "rotina": true
+    },
+    {
+     "data": "2026-06-30",
+     "hora": "09:00",
+     "unidade": "SGI",
+     "descricao": "Processo recebido na unidade",
+     "hash": "5a80b9cb33d1",
+     "rotina": true
+    }
+   ],
+   "pauta": [],
+   "n_documentos": 142,
+   "n_andamentos": 272
+  },
+  {
+   "id": "rap-transmissao-2026",
+   "apelido": "Reajuste Anual RAP 2026 — Transmissão",
+   "numero": "48500.007946/2026-30",
+   "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
+   "lido_em": "2026-11-10T17:05:09.627086-03:00",
+   "documentos": [
+    {
+     "data": "2026-10-29",
+     "tipo": "Processo Externo - Pendente de Classificação pela Unidade Destinatária",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.031860/2026-28",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHrOXPg9AoHs0sr9LU7TevVnchi9SRtANoRjQP6la5PG_Q,,",
+     "anexado": true
+    },
+    {
+     "data": "2026-10-23",
+     "tipo": "Lista",
+     "unidade": "PROCURADORIA FEDERAL",
+     "unidade_nome": "Procuradoria Federal Junto à Aneel",
+     "protocolo": "0492827",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMTLMK1pgHs3i72k5lZvgFczSqA27obgJO1-rhYQi-toar1hLYqYl2Y1xUWm3dMtFyxthYZrSgOTPh74LC-D-Xx",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-13",
+     "tipo": "Memorando 203",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0480158",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPlbqamQWWYhwg4VqdQyQs968HqgtRevKs0jVcHPvEY4FclsvVriULk7-GZXc94R2iIRUVaFG-KCRWCvwLG0t1M",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-07",
+     "tipo": "Lista de Presença",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0476140",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM5M0YfLuEixIxULyFpd4EvbN9SdkvnzPdNTCapmfVCAJf8Ay1PTR1uETuL5HoPUAbDFQeyO5tn97xtgwuLbMd7",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-21",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0458377",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOGF2WcLCycpNAkVE003dDAqMA46QTEshCpNLYIrHgkW2pyXSHAEUlbunVu_ec7_amXT0V7QHS5gwYcVgJAd60y",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-18",
+     "tipo": "Recibo",
+     "unidade": "GAB V - WMF",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Willamy Moreira Frota",
+     "protocolo": "0461405",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNCF7GbZ9P30DeC7UeyiM0ocdFbNWbNgJuBPAjrSgC6_ZfX02eUNrZqcp_Hr7Ua3qI3a56GYT72KDz05pCSxyUY",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-14",
+     "tipo": "Despacho 3556",
+     "unidade": "GAB V - WMF",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Willamy Moreira Frota",
+     "protocolo": "0453638",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOKbGhUolXMWHXCF-W3QmFKHtSE5T4LswkqJvNABgi8JhNDHOpLnal75UlOR2h3dqoZ9HFhFr_B_UBykJ09vCLk",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-11",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "GAB V - WMF",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Willamy Moreira Frota",
+     "protocolo": "0453053",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOvUqLFKwuoaUNA__sqZ8eEzACBNkDQDCFAV-9w5JhrvyMKTcrsEyT7Nhq2lKxHI5_Qd-AzDPT5UUnj-ycyWq--",
+     "anexado": false
+    },
+    {
+     "data": "2026-09-11",
+     "tipo": "Voto",
+     "unidade": "GAB V - WMF",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Willamy Moreira Frota",
+     "protocolo": "0453636",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMowXhcneDDQY-IYQMrorLecRNVFe0hrd_Ttl6yi9sz5_NJrDfmMN0p2wlwUv_83Ld1Ux7FgbO4d7HhOe0gzw0j",
+     "anexado": false
+    },
+    {
+     "data": "2026-08-28",
+     "tipo": "Memória",
+     "unidade": "GAB - APOIO",
+     "unidade_nome": "Gabinete de Apoio à Diretoria",
+     "protocolo": "0445027",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM-VbdMwZc2oeQRc5PmFZjnimo7XY54qyPJUD2kKTDXb-iCi9FMseQqSSRQjl9DEiQlQ5eUz9Yc5cetfdOi0zwQ",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-11-04",
+     "hora": "17:55",
+     "unidade": "PROCURADORIA FEDERAL",
+     "descricao": "Processo 48500.031860/2026-28 anexado",
+     "hash": "d9ee87ec7d57",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-13",
+     "hora": "15:16",
+     "unidade": "PROCURADORIA FEDERAL",
+     "descricao": "Processo recebido na unidade",
+     "hash": "045738d3813f",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-13",
+     "hora": "15:05",
+     "unidade": "PROCURADORIA FEDERAL",
+     "descricao": "Processo remetido pela unidade STR",
+     "hash": "d80e80437a59",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-21",
+     "hora": "12:21",
+     "unidade": "STR",
+     "descricao": "Processo recebido na unidade",
+     "hash": "8d92f4221d5f",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-21",
+     "hora": "11:58",
+     "unidade": "STR",
+     "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+     "hash": "85268efa0055",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-18",
+     "hora": "15:58",
+     "unidade": "GAB V - WMF",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "31520190732b",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-18",
+     "hora": "15:58",
+     "unidade": "GAB V - WMF",
+     "descricao": "PROCESSO DELIBERADO COM A PAUTA DA 18ª RPO EM 08/09/2026, SEGUE PARA A CONCLUSÃO DE PROCEDIMENTOS.",
+     "hash": "7dcf2af933c1",
+     "rotina": false
+    },
+    {
+     "data": "2026-09-15",
+     "hora": "11:05",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "1bdee9050816",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-15",
+     "hora": "10:45",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo remetido pela unidade GAB V - WMF",
+     "hash": "b502bb3aac96",
+     "rotina": true
+    },
+    {
+     "data": "2026-09-09",
+     "hora": "10:23",
+     "unidade": "STR",
+     "descricao": "Processo 48500.025214/2026-21 anexado",
+     "hash": "fa3b3c13161f",
+     "rotina": true
+    }
+   ],
+   "pauta": [
+    {
+     "data": "2026-09-08",
+     "reuniao": "18/2026 - RPO",
+     "assunto": "Pedido de Reconsideração interposto pelas empresas Horizon Transmissão ES S.A., Transmissora SP-MG S.A., Mata Grande Transmissora de Energia S.A., Horizon Transmissão MA I S.A., Horizon Transmissão MA II S.A., Aliança Transmissora de Energia S.A., SE Vineyards Transmissão de Energia S.A., Água Vermelha Transmissora de Energia S.A., Transmissão Litoral Sul S.A contra o Despacho nº 2.031/2026, que…",
+     "resultado": "Deliberado",
+     "ato": "Despacho 3556",
+     "relator": "Willamy Moreira Frota",
+     "decisao": "A Diretoria, por unanimidade, decidiu conhecer e, no mérito, negar provimento ao Pedido de Reconsideração interposto pelas empresas Horizon Transmissão ES S.A., Transmissora SP-MG S.A., Mata Grande Transmissora de Energia S.A., Horizon Transmissão MA I S.A., Horizon Transmissão MA II S.A., Aliança Transmissora de Energia S.A., SE Vineyards Transmissão de Energia S.A., Água Vermelha Transmissora d…"
+    }
+   ],
+   "n_documentos": 60,
+   "n_andamentos": 93
+  }
+ ],
+ "pauta_aberturas": [],
+ "eventos": [
+  {
+   "uid": "fd61ad916591",
+   "dia": "2026-11-10",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 242 aberta",
+   "detalhe": "Proposta de revisão do Manual de Operacionalização do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos · contribuições até 10/12",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-242",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "aa9919d01087",
+   "dia": "2026-11-09",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 043/2026 aberta",
+   "detalhe": "Revisão do Submódulo 2.10 – Requisitos técnicos mínimos para a conexão às instalações de transmissão dos Procedimentos de Rede (Requisitos) e os demais submódulos por ele afetados. · contribuições até 24/12",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-043-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "3b1d9f56e554",
+   "dia": "2026-11-09",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Memória",
+   "detalhe": "GAB - APOIO · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOEdOvo8dhMwRN2Mm-iS1GSm5z3Xo8oWTgXuQMrPJ8z5OpUWj0XMZ3vBIF74_ih7oI1SHnhsmRHsnyphJCxMShP",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "d7a43078cc0c",
+   "dia": "2026-11-06",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "AP 07/2026: 2 documentos novos",
+   "detalhe": "Aviso de Alteração de data da Audiência Pública 07/2026 · Regulamento Atualizado da Audiência Pública 07/2026",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemA=67",
+   "ref": "arsesp-ap-07-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "8bb42402cbb6",
+   "dia": "2026-11-06",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "CP 17/2026: 2 documentos novos",
+   "detalhe": "Aviso de Prorrogação da CP 17/2026 · Regulamento - Prorrogação do prazo para envio de Contribuições da CP 17/2026",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "ref": "arsesp-cp-17-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "0e42f0d3421d",
+   "dia": "2026-11-04",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 241 aberta",
+   "detalhe": "Proposta de Metodologias e procedimentos de Cálculo e Revisão da Garantia Física de Energia de Usinas Eólicas e Usinas Solares Fotovoltaicas · contribuições até 18/12",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-241",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "03c91d5ceeaa",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 240 aberta",
+   "detalhe": "Minuta de diretrizes e Informe Técnico EPE com a Proposta de Formulação dos Preços de Referência e do Custo de Combustível (Ccomb) para o Leilão dos Sistemas Isolados de 2027. · contribuições até 17/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-240",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "71d435b99600",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 041/2026 aberta",
+   "detalhe": "Avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL. · contribuições até 27/11",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-041-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "0a834c368e59",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 239 aberta",
+   "detalhe": "Proposta de diretrizes para a elaboração do Plano de Outorgas de Transmissão de Energia Elétrica (POTEE) do Ministério de Minas e Energia (MME), desde a concepção dos Estudos de Planejamento da Transmissão até a realização dos Leilões para a Ampliação dos Sistemas de Transmissão, bem como para a autorização de Reforços e Melhorias em Instalações de Transmissão existentes. · contribuições até 30/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-239",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "1e173698e346",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 040/2026 aberta",
+   "detalhe": "Regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025. · contribuições até 14/12",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-040-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "2ef4ca596089",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Extrato da Decisão da Diretoria",
+   "detalhe": "SGE - PUBLICAÇÃO · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNJUToWQtm1gE9UnLWAD4wuFO98hBGLtd5DDBnS-QUIP0G7tmj-mSqjESWLX3zaYZ2jDpoeHPTWx-fzNQhducs1",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "bfa9937a13d4",
+   "dia": "2026-10-28",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): E-mail",
+   "detalhe": "GAB IV - GNSJ · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPDc-UWlUU3I3OIgmjGt97DeGoW2EcR0POMK292Oggg8ecezQUX05qaTFKbdbigV50NFq-e3UnkQIhbGxFCDYOE",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "2cfc5810858e",
+   "dia": "2026-10-23",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 238 aberta",
+   "detalhe": "Proposta de Metas para o Programa Energias da Amazônia · contribuições até 11/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-238",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "32d63075a153",
+   "dia": "2026-10-23",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "aberta",
+   "titulo": "AP 07/2026 marcada",
+   "detalhe": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03). · audiência em 19/11 10h00",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemA=67",
+   "ref": "arsesp-ap-07-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "8ab9935be9a6",
+   "dia": "2026-10-23",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 237 aberta",
+   "detalhe": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica. · contribuições até 22/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-237",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "00af4fa28ab2",
+   "dia": "2026-10-23",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "aberta",
+   "titulo": "CP 17/2026 aberta",
+   "detalhe": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03). · contribuições até 23/11",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "ref": "arsesp-cp-17-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "2dc640294718",
+   "dia": "2026-10-23",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Lista",
+   "detalhe": "PROCURADORIA FEDERAL · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMTLMK1pgHs3i72k5lZvgFczSqA27obgJO1-rhYQi-toar1hLYqYl2Y1xUWm3dMtFyxthYZrSgOTPh74LC-D-Xx",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "5de9e3c17ea6",
+   "dia": "2026-10-22",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 042/2026 aberta",
+   "detalhe": "Reforma tributária (EC 132/2023, LC 214/2025) impacta Plano de Contas do MCSE. Consulta busca subsídios para adequações regulatórias. · contribuições até 03/11",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-042-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "51dd41e260df",
+   "dia": "2026-10-22",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): 2 documentos novos",
+   "detalhe": "Requerimento de Inclusão em Pauta (GAB IV - GNSJ) · Voto (GAB IV - GNSJ)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "d2077579b941",
+   "dia": "2026-10-22",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Armazenamento de Energia (regulação SRG — base das CPs 39/2023 e 2/2025): Memorando 369",
+   "detalhe": "SCE · 48500.904885/2020-63",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMglZzw9BcNKir54Ac_y73aDsBmwyQVin6Eg9i01HsLHu2hdB_W4iBY4CwK_hnwtqvV-eootDIB5IsbzeKNeRUH",
+   "ref": "sei:armazenamento-904885-2020",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "fa49f8024a7f",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 038/2026 aberta",
+   "detalhe": "Reforma Tributária (EC 132/2023, LC 214/2025) e seus impactos nas Bases de Remuneração das concessionárias de energia elétrica. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-038-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "0e0f88d71ddd",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 039/2026 aberta",
+   "detalhe": "Adequação de contratos de geração, comercialização e encargos setoriais à reforma tributária (EC 132/2023 e LC 214/2025). · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-039-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "05b9959aea70",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 041/2026 aberta",
+   "detalhe": "Orçamento Anual da CDE 2027: busca subsídios para Encargo de Complemento de Recursos, Fatores ECR e rateio das quotas. · contribuições até 20/11",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-041-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "7708e5a13b3a",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 040/2026 aberta",
+   "detalhe": "Alteração do Submódulo 7.10 — Implantação e Análise do Sistema de Registro de Perturbações dos Procedimentos de Rede. Busca subsídios para aprimorar o registro e análise de perturbações na rede elétrica. · contribuições até 04/12",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-040-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "ba61d444bf57",
+   "dia": "2026-10-20",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Pedido de Vista + Prorrogação",
+   "detalhe": "21/2026 - RPO de 20/10 · A Diretoria, por unanimidade, decidiu conceder prazo adicional de 60 dias para apresentação do voto-vista.",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "253328ef9bd8",
+   "dia": "2026-10-14",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Memória",
+   "detalhe": "GAB - APOIO · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNAKH-FU0fb6TH0Iit9ongcZVPeqIHtSWNtDkNiELFGtpjzUD4-OD9-pVs52-BT028TgzjiMeBC2LLGpdlbWhnl",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "f5b3a194520d",
+   "dia": "2026-10-13",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 236 aberta",
+   "detalhe": "Propostas sobre a regulamentação dos artigos 2º e 5º da Resolução CNPE nº1/2024. · contribuições até 06/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-236",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "6e9a80fc5953",
+   "dia": "2026-10-13",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "aberta",
+   "titulo": "CP 14/2026 aberta",
+   "detalhe": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025. · contribuições até 12/11",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "ref": "arsesp-cp-14-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "337cdfccfa2a",
+   "dia": "2026-10-13",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Memorando 203",
+   "detalhe": "STR · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPlbqamQWWYhwg4VqdQyQs968HqgtRevKs0jVcHPvEY4FclsvVriULk7-GZXc94R2iIRUVaFG-KCRWCvwLG0t1M",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "85a799e620ef",
+   "dia": "2026-10-09",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Memória",
+   "detalhe": "GAB - APOIO · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWm2-Uj3bLuhf0MI5q9cyQOXe270pf3Yv6DkdibaeR6XkwD7vWIc7CSKDtfGkhxWpRroYYe_OKuHQZEd89c8tn",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "6ba936b17412",
+   "dia": "2026-10-08",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 037/2026 aberta",
+   "detalhe": "Ajuste regulatório para custeio e rateio do Encargo de Reserva de Capacidade de sistemas de armazenamento de energia em baterias, com base na AIR nº 5/2026 e minuta de Resolução Normativa. · contribuições até 06/11",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-037-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "59bf930ed0cf",
+   "dia": "2026-10-08",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 235 aberta",
+   "detalhe": "Consulta Pública, minuta do Relatório Síntese do Plano Decenal de Expansão de Energia 2036 - PDE 2036 · contribuições até 06/11",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-235",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "60ba5c7c0800",
+   "dia": "2026-10-08",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 036/2026 aberta",
+   "detalhe": "Revisão dos Módulos 1 e 5 das Regras de Transmissão (REN nº 905/2020) busca subsídios para minutas de Resolução Normativa. Ação baseada na Nota Técnica nº 97/2026-STD/ANEEL. · contribuições até 23/11",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-036-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "0865a8a30f38",
+   "dia": "2026-10-07",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Lista de Presença",
+   "detalhe": "STR · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM5M0YfLuEixIxULyFpd4EvbN9SdkvnzPdNTCapmfVCAJf8Ay1PTR1uETuL5HoPUAbDFQeyO5tn97xtgwuLbMd7",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "86d82fe15106",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 031/2026 aberta",
+   "detalhe": "Definição de limites de continuidade DEC e FEC para a Dcelt Distribuidora Catarinense de Energia Elétrica S/A. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-031-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "5f47ac2b077b",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 032/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a Empresa Força e Luz João Cesa LTDA (EFLJC). · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-032-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "1964015b4a51",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 033/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a Energisa Sul-Sudeste. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-033-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "49f85ff4db6c",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 034/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a Pacto Energia PR (2027-2031). · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-034-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "62eb76b1d382",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 035/2026 aberta",
+   "detalhe": "Definição de critérios e metodologia para extensão de prazo de concessões de geração hidrelétrica, visando amortização de investimentos e aproveitamento ótimo do potencial hidráulico, conforme § 7º do art. 26 da Lei nº 9.427/1996. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-035-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "ccd522b542e8",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 035/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC da Neoenergia Brasília para 2027-2031. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-035-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "7e3b7519547c",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 036/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC da Energisa Minas Rio (EMR) para 2027-2031. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-036-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "2e6c8a4c6a30",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 037/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a CHESP. Definição de metas de qualidade para a distribuidora. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-037-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "6dc5b9dc653f",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 038/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a Copel Distribuição S.A. (COPEL-DIS). · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-038-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "022c3ae7e572",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 039/2026 aberta",
+   "detalhe": "Estabelecimento dos limites de continuidade DEC e FEC para a EFLUL. · contribuições até 30/10",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-039-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "3e7ce235bba6",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 030/2026 aberta",
+   "detalhe": "Aprimoramento da Base de Dados Geográfica da Distribuidora (BDGD) para aderência ao MCPSE e Manual de Dados da SFF v.1.3. · contribuições até 16/11",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-030-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "5f56cd270dab",
+   "dia": "2026-09-23",
+   "hora": null,
+   "orgao": "MME",
+   "tipo": "aberta",
+   "titulo": "CP 233 aberta",
+   "detalhe": "Proposta de diretrizes para o tratamento das outorgas de geração de energia hidrelétrica de que trata a Lei nº 12.783, de 11 de janeiro de 2013. · contribuições até 30/10",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-233",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "c09d7cae718d",
+   "dia": "2026-09-21",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): 3 documentos novos",
+   "detalhe": "Termo de Cancelamento de Documento (GAB - APOIO) · Memória (GAB - APOIO) · Memória (GAB - APOIO)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "b7524aa39aa5",
+   "dia": "2026-09-21",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Extrato da Decisão da Diretoria",
+   "detalhe": "SGE - PUBLICAÇÃO · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOGF2WcLCycpNAkVE003dDAqMA46QTEshCpNLYIrHgkW2pyXSHAEUlbunVu_ec7_amXT0V7QHS5gwYcVgJAd60y",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "3e50d48d53ad",
+   "dia": "2026-09-18",
+   "hora": "15:58",
+   "orgao": "SEI",
+   "tipo": "andamento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: andamento",
+   "detalhe": "GAB V - WMF: PROCESSO DELIBERADO COM A PAUTA DA 18ª RPO EM 08/09/2026, SEGUE PARA A CONCLUSÃO DE PROCEDIMENTOS.",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "9309c3b66e0b",
+   "dia": "2026-09-18",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Recibo",
+   "detalhe": "GAB V - WMF · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNCF7GbZ9P30DeC7UeyiM0ocdFbNWbNgJuBPAjrSgC6_ZfX02eUNrZqcp_Hr7Ua3qI3a56GYT72KDz05pCSxyUY",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "19e24c456b45",
+   "dia": "2026-09-17",
+   "hora": null,
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 034/2026 aberta",
+   "detalhe": "Aprimoramento da classificação de modalidades de operação de usinas conectadas ao sistema, com alteração dos Procedimentos de Rede e contemplando diversos submódulos, conforme minuta do ONS. · contribuições até 12/11",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-034-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "db46e07b525d",
+   "dia": "2026-09-17",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): 2 documentos novos",
+   "detalhe": "Memória (GAB - APOIO) · Memória (GAB - APOIO)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "0087bd912f29",
+   "dia": "2026-09-14",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: Despacho 3556",
+   "detalhe": "GAB V - WMF · 48500.007946/2026-30",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOKbGhUolXMWHXCF-W3QmFKHtSE5T4LswkqJvNABgi8JhNDHOpLnal75UlOR2h3dqoZ9HFhFr_B_UBykJ09vCLk",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "7af7b7f00b6b",
+   "dia": "2026-09-11",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Reajuste Anual RAP 2026 — Transmissão: 2 documentos novos",
+   "detalhe": "Requerimento de Inclusão em Pauta (GAB V - WMF) · Voto (GAB V - WMF)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
+   "ref": "sei:rap-transmissao-2026",
+   "visto_em": "2026-11-10T17:20:08-03:00"
+  }
+ ]
+}
