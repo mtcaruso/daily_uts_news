@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T00:27:22.790235-03:00",
+  "last_updated": "2026-11-10T14:42:52.071070-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2453,7 +2453,7 @@
       "date": "10/11/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14832&idAreaNoticia=425",
       "summary": null,
-      "added_at": "2026-11-10T00:26:46.642191-03:00",
+      "added_at": "2026-11-10T14:42:15.600727-03:00",
       "error": "no_body"
     },
     "pauta_14829": {
@@ -2462,7 +2462,7 @@
       "date": "03/11/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14829&idAreaNoticia=425",
       "summary": null,
-      "added_at": "2026-11-10T00:27:22.289589-03:00",
+      "added_at": "2026-11-10T14:42:51.570713-03:00",
       "error": "no_body"
     },
     "partic_cp_041_2026": {
@@ -2537,9 +2537,25 @@
       "date": "09/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/tarifa-hora-certa-proposta-preve-enquadramento-automatico-de-consumidores-que-usam-mais-de-500-kwh-mes",
       "summary": "Tarifa Hora Certa: proposta prevê enquadramento automático de consumidores que usam mais de 500 kWh/mês Mudança será gradual, a partir de 2028, com contas informativas prévias à cobrança e opção temporária de saída. Consumidores da Tarifa Social e do Desconto Social não são afetados As áreas técnicas da Agência Nacional de Energia Elétrica (Aneel) proporão à Diretoria Colegiada que os…",
-      "added_at": "2026-11-10T00:25:54.671355-03:00",
+      "added_at": "2026-11-10T14:41:39.135964-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
+    },
+    "partic_mme_cp_242": {
+      "type": "partic_mme_cp",
+      "title": "Consulta Pública MME nº 242",
+      "date": null,
+      "link": "https://consultas-publicas.mme.gov.br/home/consulta/242",
+      "summary": "Divulgação e recebimento de contribuições à proposta de atualização do Manual de Operacionalização do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos",
+      "added_at": "2026-11-10T14:41:39.636220-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1,
+      "objeto": "Divulgação e recebimento de contribuições à proposta de atualização do Manual de Operacionalização do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos",
+      "deadline": "10/12/2026",
+      "start_date": "10/11/2026",
+      "fonte": "MME",
+      "sei_processo": "48370.000219/2023-21",
+      "first_seen": "2026-11-10T14:41:39.636252-03:00"
     }
   }
 }
