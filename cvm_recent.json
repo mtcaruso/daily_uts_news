@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-10T16:36:23.539850-03:00",
+  "last_updated": "2026-11-10T17:06:39.752590-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20260801 08/2026",
+      "data_entrega": "20261110 10/11/2026 17:05",
+      "status": "Ativo",
+      "versao": "2",
+      "modalidade": "RE",
+      "assunto": "",
+      "protocolo": "1587084",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1587084",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-11-10T17:06:28.413930"
+    },
+    {
+      "cnpj_short": "02557-7",
+      "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20261001 10/2026",
+      "data_entrega": "20261110 10/11/2026 16:36",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1587041",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1587041",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "25577",
+      "first_seen": "2026-11-10T17:06:29.310850"
+    },
     {
       "cnpj_short": "02557-7",
       "empresa_nome": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A",

@@ -1,14 +1,14 @@
 {
-  "last_run": "2026-11-10T16:34:15.765023-03:00",
+  "last_run": "2026-11-10T17:04:32.107421-03:00",
   "news_count": 30,
-  "pautas_count": 0,
+  "pautas_count": 15,
   "partic_by_type": {
-    "partic_cp": 0,
-    "partic_ap": 1,
-    "partic_ts": 5
+    "partic_cp": 5,
+    "partic_ap": 0,
+    "partic_ts": 0
   },
-  "pending": 13,
-  "done": 12,
-  "failed": 1,
+  "pending": 12,
+  "done": 8,
+  "failed": 4,
   "pruned": 0
 }
