@@ -1,0 +1,911 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor Regulatório</title>
+<meta name="description" content="Prazos de consultas públicas e tomadas de subsídios (ANEEL, MME, ARSESP, ARSAE) e processos SEI de energia e saneamento.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232563eb'/%3E%3Cpath d='M8 23V12l8-4 8 4v11M11 23v-7M16 23v-7M21 23v-7M7 23h18' stroke='white' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f5f6f8; --panel: #fff; --ink: #111827; --muted: #5b6475; --faint: #8b93a1;
+  --line: #e2e5ea; --hover: #f2f4f7; --focus: #2563eb;
+  --urg: #dc2626; --soon: #c2410c; --ok: #16a34a; --warn: #d97706;
+  --aneel: #2563eb; --mme: #047857; --arsesp: #0e7490; --arsae: #7c3aed; --sei: #a16207;
+  --shadow: 0 1px 2px rgba(16,24,40,.05);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
+    --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
+    --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
+    --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341;
+    --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
+  --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
+  --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
+  --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341;
+  --shadow: none;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 0 16px; }
+.muted { color: var(--muted); }
+.small { font-size: 12px; }
+.num-tab { font-variant-numeric: tabular-nums; }
+
+/* topo */
+.top { background: var(--panel); border-bottom: 1px solid var(--line); }
+.top .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; justify-content: space-between; padding-top: 14px; padding-bottom: 14px; }
+.brand h1 { margin: 0; font-size: 19px; letter-spacing: -.01em; }
+.brand p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+.status { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 12.5px; color: var(--muted); }
+.status .upd { color: var(--ink); font-weight: 600; }
+.pill { display: inline-flex; align-items: center; gap: 5px; padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); white-space: nowrap; cursor: default; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: var(--ok); flex: none; }
+.dot.warn { background: var(--warn); }
+.dot.bad { background: var(--urg); }
+.aviso { margin: 12px 0 0; padding: 10px 12px; border: 1px solid color-mix(in srgb, var(--warn) 45%, var(--line)); background: color-mix(in srgb, var(--warn) 9%, var(--panel)); border-radius: 10px; font-size: 13px; }
+
+/* filtros */
+.filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; padding-top: 14px; padding-bottom: 6px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { border: 1px solid var(--line); background: var(--panel); padding: 5px 12px; border-radius: 999px; cursor: pointer; font-size: 13px; display: inline-flex; gap: 6px; align-items: center; }
+.chip:hover { background: var(--hover); }
+.chip[aria-pressed="true"] { border-color: var(--c, var(--ink)); background: color-mix(in srgb, var(--c, var(--ink)) 12%, var(--panel)); font-weight: 600; }
+.chip .sw { width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
+.search { flex: 1 1 240px; max-width: 380px; display: flex; }
+.search input { width: 100%; padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); font: inherit; }
+
+/* grade */
+.grid { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); grid-template-areas: "sei" "prazos" "timeline"; padding-top: 10px; padding-bottom: 28px; }
+.a-sei { grid-area: sei; } .a-prazos { grid-area: prazos; } .a-timeline { grid-area: timeline; }
+.col-esq { display: contents; }
+@media (min-width: 1120px) {
+  .grid { grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); grid-template-areas: "esq timeline"; align-items: start; }
+  .col-esq { grid-area: esq; display: flex; flex-direction: column; gap: 18px; min-width: 0; }
+  .a-timeline { position: sticky; top: 12px; max-height: calc(100vh - 24px); display: flex; flex-direction: column; }
+  .a-timeline .tl-scroll { overflow: auto; min-height: 0; }
+}
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+.sec-h { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 14px 16px 10px; }
+.sec-h h2 { margin: 0; font-size: 15px; }
+.sec-h .cnt { color: var(--muted); font-weight: 400; margin-left: 4px; }
+
+/* números do topo */
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--line); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stat { background: var(--panel); padding: 10px 16px; }
+.stat b { display: block; font-size: 20px; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.stat span { color: var(--muted); font-size: 12px; }
+.stat.urg b { color: var(--urg); }
+
+/* pauta */
+.pauta-box { margin: 12px 16px 0; padding: 10px 12px; border-radius: 10px; background: color-mix(in srgb, var(--aneel) 8%, var(--panel)); border: 1px solid color-mix(in srgb, var(--aneel) 30%, var(--line)); }
+.pauta-box p { margin: 0 0 4px; font-weight: 600; font-size: 13px; }
+.pauta-box ul { margin: 0; padding-left: 18px; font-size: 13px; }
+
+/* linhas de consulta */
+.thead, .row-main { display: grid; grid-template-columns: 62px 78px 66px 112px minmax(0, 1fr) 18px; gap: 10px; align-items: center; }
+.thead { padding: 8px 16px; font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em; color: var(--faint); }
+.rows { border-top: 1px solid var(--line); }
+.row { border-bottom: 1px solid var(--line); }
+.row:last-child { border-bottom: 0; }
+.row-main { width: 100%; text-align: left; background: none; border: 0; padding: 10px 16px; cursor: pointer; }
+.row-main:hover { background: var(--hover); }
+.row-main .badge, .row-main .falta-c { justify-self: start; }
+.prazo b { display: block; font-variant-numeric: tabular-nums; }
+.prazo span, .num span { display: block; color: var(--muted); font-size: 12px; }
+.num b { white-space: nowrap; }
+.num span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.falta { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; font-weight: 600; font-variant-numeric: tabular-nums; background: var(--hover); color: var(--muted); white-space: nowrap; }
+.falta.urg { background: color-mix(in srgb, var(--urg) 14%, transparent); color: var(--urg); }
+.falta.soon { background: color-mix(in srgb, var(--soon) 13%, transparent); color: var(--soon); }
+.falta.enc { font-weight: 500; }
+.badge { display: inline-block; padding: 1px 7px; border-radius: 6px; font-size: 11.5px; font-weight: 700; letter-spacing: .02em; color: var(--c); background: color-mix(in srgb, var(--c) 13%, transparent); white-space: nowrap; }
+.tema { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.chev { width: 8px; height: 8px; border-right: 2px solid var(--faint); border-bottom: 2px solid var(--faint); transform: rotate(45deg); justify-self: center; transition: transform .15s; margin-top: -4px; }
+.row.open .chev { transform: rotate(-135deg); margin-top: 4px; }
+.row-det { padding: 2px 16px 14px calc(16px + 62px + 78px + 20px); }
+.row-det p { margin: 0 0 6px; }
+.lbl { font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em; color: var(--faint); margin-top: 10px !important; }
+.docs { margin: 0 0 10px; padding-left: 18px; }
+.docs li { margin: 2px 0; }
+.tag { font-size: 11px; padding: 0 6px; border-radius: 4px; background: var(--hover); color: var(--muted); }
+.btn { display: inline-flex; align-items: center; gap: 4px; padding: 5px 10px; border: 1px solid var(--line); border-radius: 8px; text-decoration: none; font-size: 13px; background: var(--panel); }
+.btn:hover { background: var(--hover); }
+.sub-h { padding: 12px 16px 6px; font-size: 12.5px; font-weight: 600; color: var(--muted); border-top: 1px solid var(--line); }
+details.enc > summary { list-style: none; cursor: pointer; padding: 12px 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+details.enc > summary::-webkit-details-marker { display: none; }
+details.enc > summary:hover { color: var(--ink); }
+details.enc[open] > summary { border-bottom: 1px solid var(--line); }
+.vazio { padding: 18px 16px; color: var(--muted); }
+.flash { animation: flash 1.6s ease-out; }
+@keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--focus) 16%, transparent); } 100% { background: transparent; } }
+
+@media (max-width: 720px) {
+  .thead { display: none; }
+  .row-main { grid-template-columns: auto auto minmax(0, 1fr) auto; grid-template-areas: "org num . falta" "tema tema tema tema" "prazo prazo prazo chev"; gap: 6px 8px; }
+  .row-main .badge { grid-area: org; } .row-main .num { grid-area: num; } .row-main .falta-c { grid-area: falta; }
+  .row-main .tema { grid-area: tema; } .row-main .prazo { grid-area: prazo; display: flex; gap: 6px; align-items: baseline; }
+  .row-main .prazo span { display: inline; } .row-main .chev { grid-area: chev; }
+  .num span { display: none; }
+  .prazo b::before { content: "Prazo "; font-weight: 400; color: var(--muted); }
+  .row-det { padding-left: 16px; }
+  .stats { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .stat { padding: 8px 12px; }
+}
+
+/* processos SEI no topo do painel */
+.sei-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; padding: 0 16px 16px; }
+.sei-card { text-align: left; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; cursor: pointer; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.sei-card:hover { border-color: color-mix(in srgb, var(--sei) 55%, var(--line)); background: var(--hover); }
+.sei-card .t { font-size: 13.5px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sei-card .n { font-size: 12px; color: var(--muted); }
+.sei-card .st { font-size: 12.5px; font-weight: 700; }
+.sei-card .st.pauta { color: var(--sei); }
+.sei-card .ult { font-size: 12.5px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.sei-card .ir { font-size: 12px; color: var(--faint); margin-top: auto; padding-top: 4px; }
+.sei-card:hover .ir { color: var(--ink); }
+.leitura { font-size: 12px; color: var(--muted); cursor: default; }
+.leitura.parada { color: var(--warn); }
+
+/* página de um processo */
+.proj-grid { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); padding-top: 14px; padding-bottom: 28px; }
+@media (min-width: 900px) {
+  .proj-grid { grid-template-columns: 300px minmax(0, 1fr); align-items: start; }
+  .proj-lista { position: sticky; top: 12px; }
+}
+@media (max-width: 899px) {
+  .proj-grid.det .proj-lista { display: none; }
+}
+.proj-lista { overflow: hidden; }
+.proj-item { display: block; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--line); padding: 10px 16px; cursor: pointer; }
+.proj-item:hover { background: var(--hover); }
+.proj-item[aria-current="true"] { background: color-mix(in srgb, var(--sei) 10%, var(--panel)); box-shadow: inset 3px 0 0 var(--sei); }
+.proj-item b { display: block; font-size: 13.5px; line-height: 1.3; }
+.proj-item > span { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; }
+.proj-item > .em-pauta { color: var(--sei); font-weight: 700; }
+.proj-det { padding: 16px; min-width: 0; }
+.proj-det h2 { margin: 0; font-size: 18px; line-height: 1.3; }
+.proj-det .meta { font-size: 13px; color: var(--muted); margin-top: 2px; }
+.proj-acoes { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+button.btn { cursor: pointer; }
+.voltar { margin-bottom: 12px; }
+.destaque { margin-top: 14px; padding: 10px 12px; border-radius: 10px; font-size: 13px; background: color-mix(in srgb, var(--sei) 12%, transparent); }
+.destaque .assunto { margin-top: 2px; }
+.proj-stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; margin: 14px 0 0; }
+.proj-stats div { background: var(--panel); padding: 8px 12px; }
+.proj-stats b { display: block; font-size: 16px; font-variant-numeric: tabular-nums; }
+.proj-stats span { font-size: 12px; color: var(--muted); }
+.proj-stats .velho b { color: var(--warn); }
+@media (max-width: 720px) { .proj-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--faint); margin: 22px 0 8px; font-weight: 700; }
+.pauta-lista { list-style: none; margin: 0; padding: 0; }
+.pauta-lista li { padding: 8px 0; border-top: 1px solid var(--line); font-size: 13px; }
+.hist-ctl { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; margin-bottom: 4px; }
+.hist-ctl .chip { padding: 4px 10px; font-size: 12.5px; }
+.hist-ctl input[type="search"] { flex: 1 1 200px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); font: inherit; font-size: 13px; }
+.hist-ctl label { font-size: 12.5px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+.hist { list-style: none; margin: 0; padding: 0; }
+.hist-mes { font-size: 12px; font-weight: 700; color: var(--muted); padding: 14px 0 4px; }
+.hi { display: grid; grid-template-columns: 44px 84px minmax(0, 1fr); gap: 10px; padding: 7px 0; border-top: 1px solid var(--line); font-size: 13px; align-items: baseline; }
+.hi .dt { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 12.5px; }
+.hi .k { font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--faint); }
+.hi.doc .k { color: var(--aneel); }
+.hi.pauta .k { color: var(--sei); }
+.hi.rot, .hi.rot .k { color: var(--faint); }
+.hi a { text-decoration: underline; text-underline-offset: 2px; text-decoration-color: color-mix(in srgb, currentColor 40%, transparent); }
+.hi a:hover { text-decoration-color: currentColor; }
+@media (max-width: 720px) { .hi { grid-template-columns: 40px minmax(0, 1fr); } .hi .k { display: none; } }
+
+/* linha do tempo */
+.tl-h { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px; }
+.novas { font-size: 12px; color: var(--focus); font-weight: 600; }
+.tl { list-style: none; margin: 0; padding: 0 0 8px; }
+.tl-dia { position: sticky; top: 0; z-index: 1; background: var(--panel); padding: 8px 16px 6px; font-size: 12px; font-weight: 700; color: var(--muted); border-top: 1px solid var(--line); }
+.ev { display: grid; grid-template-columns: 58px minmax(0, 1fr) auto; gap: 4px 10px; padding: 8px 16px; align-items: start; }
+.ev:hover { background: var(--hover); }
+.ev .badge { margin-top: 1px; text-align: center; }
+.ev-tit { font-weight: 600; font-size: 13px; line-height: 1.35; }
+.ev-tit button { all: unset; cursor: pointer; }
+.ev-tit button:hover { text-decoration: underline; text-underline-offset: 2px; }
+.ev-tit button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+.ev-det { grid-column: 2 / 4; color: var(--muted); font-size: 12.5px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.ev-det a { color: var(--muted); }
+.ev-hora { font-size: 12px; color: var(--faint); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.tipo { display: inline-block; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; margin-right: 6px; color: var(--faint); }
+.tipo.t-aberta, .tipo.t-resultado { color: var(--ink); }
+.tipo.t-prazo { color: var(--soon); }
+.novo { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--focus); margin-right: 6px; vertical-align: 1px; }
+.mais { display: block; margin: 4px 16px 14px; }
+footer.foot { color: var(--muted); font-size: 12px; padding-bottom: 28px; }
+footer.foot p { margin: 0 0 4px; }
+.erro { margin: 24px 0; padding: 16px; }
+.carregando { padding: 40px 16px; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Monitor Regulatório</h1>
+      <p>Energia e saneamento · ANEEL, MME, ARSESP, ARSAE e processos SEI</p>
+    </div>
+    <div class="status" id="status" aria-live="polite"></div>
+  </div>
+</header>
+<div class="wrap" id="avisos"></div>
+<div class="wrap filters" id="filtros">
+  <div class="chips" id="chips" role="group" aria-label="Filtrar por órgão"></div>
+  <label class="search"><input type="search" id="q" placeholder="Buscar tema, número, empresa…" aria-label="Buscar" autocomplete="off"></label>
+</div>
+<main class="wrap grid" id="main">
+  <div class="carregando" id="carregando">Carregando…</div>
+</main>
+<div class="wrap" id="view-projetos" hidden></div>
+<footer class="wrap foot">
+  <p>Fontes: listagem de consultas e avisos no DOU Seção 3 (ANEEL), consultas-publicas.mme.gov.br (MME), consultas e audiências da ARSESP (só saneamento), páginas de consultas da ARSAE-MG, Pesquisa Pública do SEI e pauta da Diretoria nos dados abertos da ANEEL.</p>
+  <p>Os dados são conferidos a cada 15 minutos. Datas e horários de Brasília. A ARSAE não informa o prazo no site, só no aviso de cada consulta.</p>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+  var params = new URLSearchParams(location.search);
+  var SRC = params.get("src") || "https://raw.githubusercontent.com/mtcaruso/daily_uts_news/main/regulatorio.json";
+  var ORGAOS = ["ANEEL", "MME", "ARSESP", "ARSAE", "SEI"];
+  var NOME_SITE = { ANEEL: "da ANEEL", MME: "do MME", ARSESP: "da ARSESP", ARSAE: "da ARSAE" };
+  var TIPOS = { aberta: "Nova", prazo: "Prazo", documento: "Documento", andamento: "Andamento", pauta: "Pauta", resultado: "Decisão" };
+  var FONTES = [["ANEEL", "ANEEL"], ["MME", "MME"], ["ARSESP", "ARSESP"], ["ARSAE", "ARSAE"], ["Pauta ANEEL", "Pauta"], ["SEI", "SEI"]];
+  var DOW = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+
+  // Aba Projetos: histórico completo dos processos SEI, num arquivo à parte que só
+  // é baixado quando a aba abre.
+  var SRC_PROJ = params.get("srcp") || SRC.replace(/regulatorio\.json(\?.*)?$/, "regulatorio_projetos.json");
+  var DATA = null, PROJ = null, projCarregando = false, projErro = null;
+  var st = {
+    aba: params.get("p") ? "projetos" : "consultas",  // derivado de proj (renderVisao)
+    proj: params.get("p") || null,
+    histTipo: "tudo", histQ: "", rotina: false, histLimite: 100,
+    orgao: ORGAOS.indexOf(params.get("orgao")) >= 0 ? params.get("orgao") : "Todos",
+    q: params.get("q") || "",
+    abertos: new Set(), encAberto: false,
+    limiteTl: window.innerWidth < 1120 ? 20 : 60,  // no celular a linha do tempo fica entre prazos e processos
+    ultimaVisita: null
+  };
+
+  // ---------- utilidades ----------
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function urlOk(u) {
+    try { var x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x.href : null; } catch (e) { return null; }
+  }
+  function hoje() {
+    return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Sao_Paulo", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  }
+  function dias(a, b) { return Math.round((Date.parse(b + "T00:00:00Z") - Date.parse(a + "T00:00:00Z")) / 86400000); }
+  function dm(iso) { return iso ? iso.slice(8, 10) + "/" + iso.slice(5, 7) : "—"; }
+  // dd/mm, com o ano quando não é o corrente (documento antigo de processo SEI).
+  function dma(iso) { return iso && iso.slice(0, 4) !== hoje().slice(0, 4) ? dm(iso) + "/" + iso.slice(2, 4) : dm(iso); }
+  function dmy(iso) { return iso ? iso.slice(8, 10) + "/" + iso.slice(5, 7) + "/" + iso.slice(0, 4) : ""; }
+  function dow(iso) { return DOW[new Date(iso + "T12:00:00Z").getUTCDay()]; }
+  function quando(isoDt) {
+    var d = new Date(isoDt);
+    if (isNaN(d)) return "?";
+    return new Intl.DateTimeFormat("pt-BR", { timeZone: "America/Sao_Paulo", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(d).replace(",", "");
+  }
+  function haQuanto(isoDt) {
+    var min = Math.round((Date.now() - new Date(isoDt).getTime()) / 60000);
+    if (isNaN(min)) return "";
+    if (min < 1) return "agora";
+    if (min < 60) return "há " + min + " min";
+    var h = Math.round(min / 60);
+    if (h < 48) return "há " + h + " h";
+    return "há " + Math.round(h / 24) + " dias";
+  }
+  function horasDesde(isoDt) { return (Date.now() - new Date(isoDt).getTime()) / 3600000; }
+  function norm(s) { return String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
+  function casa(textos) {
+    if (!st.q.trim()) return true;
+    var alvo = norm(textos.join(" "));
+    return norm(st.q).split(/\s+/).filter(Boolean).every(function (w) { return alvo.indexOf(w) >= 0; });
+  }
+  function doOrgao(o) { return st.orgao === "Todos" || st.orgao === o; }
+  function cor(o) { return "var(--" + String(o).toLowerCase() + ")"; }
+  function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* sem armazenamento */ } }
+  function linkExt(u, txt) {
+    var x = urlOk(u);
+    return x ? '<a href="' + esc(x) + '" target="_blank" rel="noopener">' + txt + "</a>" : txt;
+  }
+
+  // ---------- topo ----------
+  function renderStatus() {
+    var el = document.getElementById("status");
+    var h = '<span>Atualizado <span class="upd">' + esc(quando(DATA.gerado_em)) + "</span> (" + esc(haQuanto(DATA.gerado_em)) + ")</span>";
+    FONTES.forEach(function (f) {
+      var info = (DATA.fontes || {})[f[0]];
+      if (!info) return;
+      var cls = info.ok ? "" : (f[0] === "SEI" ? "warn" : "bad");
+      var tip = info.ok
+        ? (f[0] === "SEI" ? "Processos lidos em " + quando(info.lido_em) : "OK")
+        : (info.erro || "sem leitura") + (info.lido_em ? " · última leitura " + quando(info.lido_em) : "");
+      if (f[0] === "ANEEL" && info.listagem_pc) tip += " · listagem lida em " + quando(info.listagem_pc);
+      h += '<span class="pill" title="' + esc(tip) + '"><span class="dot ' + cls + '"></span>' + esc(f[1]) + "</span>";
+    });
+    el.innerHTML = h;
+
+    var av = [];
+    if (horasDesde(DATA.gerado_em) > 2) {
+      av.push("Os dados não são atualizados desde " + quando(DATA.gerado_em) + ". O robô de leitura pode estar parado.");
+    }
+    var sei = (DATA.fontes || {}).SEI;
+    if (sei && !sei.ok && sei.lido_em && st.aba === "projetos") {
+      av.push("Processos SEI: última leitura em " + quando(sei.lido_em) + ". O SEI bloqueia leituras automáticas na nuvem, então os processos só são atualizados quando o computador de leitura está ligado. Entrada em pauta e decisões da Diretoria continuam chegando.");
+    }
+    Object.keys(DATA.fontes || {}).forEach(function (k) {
+      var f = DATA.fontes[k];
+      if (k !== "SEI" && !f.ok && st.aba === "consultas" && doOrgao(k === "Pauta ANEEL" ? "ANEEL" : k)) {
+        av.push(k + ": a fonte não respondeu" + (f.desde ? " desde " + quando(f.desde) : "") + ". Mostrando a última leitura" + (f.lido_em ? " (" + quando(f.lido_em) + ")" : "") + ".");
+      }
+    });
+    document.getElementById("avisos").innerHTML = av.map(function (t) { return '<p class="aviso">' + esc(t) + "</p>"; }).join("");
+  }
+
+  function renderChips() {
+    var el = document.getElementById("chips");
+    el.innerHTML = ["Todos"].concat(ORGAOS).map(function (o) {
+      var sw = o === "Todos" ? "" : '<span class="sw" style="--c:' + cor(o) + '"></span>';
+      return '<button type="button" class="chip" data-orgao="' + o + '" aria-pressed="' + (st.orgao === o) + '"' +
+        (o === "Todos" ? "" : ' style="--c:' + cor(o) + '"') + ">" + sw + esc(o) + "</button>";
+    }).join("");
+  }
+
+  // ---------- consultas ----------
+  function textoConsulta(c) {
+    return [c.orgao, c.sigla, c.numero, c.tipo, c.tema, c.area, (c.docs || []).map(function (d) { return d.t; }).join(" ")];
+  }
+
+  function linha(c, hj) {
+    var aberto = st.abertos.has(c.id);
+    var prazo, falta;
+    if (c.fim) {
+      var n = dias(hj, c.fim);
+      prazo = "<b>" + dm(c.fim) + "</b><span>" + dow(c.fim) + "</span>";
+      if (c.situacao === "aberta") {
+        var cls = n <= 3 ? "urg" : (n <= 7 ? "soon" : "");
+        var txt = n === 0 ? "hoje" : (n === 1 ? "amanhã" : n + " dias");
+        falta = '<span class="falta ' + cls + '">' + txt + "</span>";
+      } else {
+        falta = '<span class="falta enc">encerrada</span>';
+      }
+    } else {
+      prazo = "<b>—</b><span>no aviso</span>";
+      falta = "";  // a seção já diz "em andamento, sem prazo"
+    }
+    var sub = c.sigla === "AP" ? (c.audiencia ? "audiência " + c.audiencia.split(" ")[1] : "audiência") : c.tipo;
+    return '<div class="row' + (aberto ? " open" : "") + '" id="c-' + esc(c.id) + '" style="--c:' + cor(c.orgao) + '">' +
+      '<button type="button" class="row-main" data-toggle="' + esc(c.id) + '" aria-expanded="' + aberto + '">' +
+      '<span class="prazo">' + prazo + "</span>" +
+      '<span class="falta-c">' + falta + "</span>" +
+      '<span class="badge">' + esc(c.orgao) + "</span>" +
+      '<span class="num"><b>' + esc(c.sigla + " " + c.numero) + "</b><span>" + esc(sub) + "</span></span>" +
+      '<span class="tema">' + esc(c.tema) + "</span>" +
+      '<span class="chev" aria-hidden="true"></span>' +
+      "</button>" + (aberto ? detalhe(c) : "") + "</div>";
+  }
+
+  function detalhe(c) {
+    var periodo;
+    if (c.sigla === "AP" && c.audiencia) periodo = "Audiência em " + c.audiencia;
+    else if (c.inicio && c.fim) periodo = "Contribuições de " + dmy(c.inicio) + " a " + dmy(c.fim);
+    else if (c.fim) periodo = "Contribuições até " + dmy(c.fim);
+    else periodo = "O prazo está no aviso da consulta (o site do órgão não informa)";
+    var docs = (c.docs || []).slice().reverse();
+    var h = '<div class="row-det"><p>' + esc(c.tema) + '</p><p class="muted">' + esc(periodo) +
+      (c.area ? " · " + esc(c.area) : "") + "</p>";
+    if (c.fonte === "DOU") h += '<p class="muted small">Dados do aviso no DOU (a listagem da ANEEL ainda não trouxe esta consulta).</p>';
+    if (docs.length) {
+      h += '<p class="lbl">Documentos (' + docs.length + ")</p><ul class=\"docs\">" + docs.slice(0, 40).map(function (d) {
+        return "<li>" + linkExt(d.u, esc(d.t)) + (d.data ? ' <span class="muted small">' + dm(d.data) + "</span>" : "") +
+          (d.final ? ' <span class="tag">final</span>' : "") + "</li>";
+      }).join("") + (docs.length > 40 ? "<li class=\"muted\">…e mais " + (docs.length - 40) + "</li>" : "") + "</ul>";
+      if (c.orgao === "MME") h += '<p class="muted small">Os arquivos do MME abrem no site de consultas.</p>';
+    }
+    var u = urlOk(c.link);
+    if (u) h += '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">Abrir no site ' + esc(NOME_SITE[c.orgao] || "") + " ↗</a>";
+    return h + "</div>";
+  }
+
+  function renderPrazos(hj) {
+    var elP = document.getElementById("prazos");
+    elP.hidden = st.orgao === "SEI";  // filtro SEI: só os processos e a linha do tempo
+    if (elP.hidden) { elP.innerHTML = ""; return; }
+    var cs = (DATA.consultas || []).filter(function (c) { return doOrgao(c.orgao) && casa(textoConsulta(c)); });
+    var abertas = cs.filter(function (c) { return c.situacao === "aberta"; });
+    var semPrazo = cs.filter(function (c) { return c.situacao === "em andamento"; });
+    var enc = cs.filter(function (c) { return c.situacao === "encerrada"; })
+      .sort(function (a, b) { return (b.fim || "").localeCompare(a.fim || ""); });
+    var em7 = abertas.filter(function (c) { return dias(hj, c.fim) <= 7; }).length;
+    var novas = abertas.filter(function (c) { var p = c.publicado || c.inicio; return p && dias(p, hj) <= 7; }).length;
+
+    var h = '<div class="card"><div class="sec-h"><h2>Consultas abertas<span class="cnt">' + abertas.length + "</span></h2>" +
+      '<span class="muted small">ordenadas pelo prazo</span></div>';
+    h += '<div class="stats"><div class="stat"><b>' + abertas.length + "</b><span>abertas</span></div>" +
+      '<div class="stat' + (em7 ? " urg" : "") + '"><b>' + em7 + "</b><span>vencem em até 7 dias</span></div>" +
+      '<div class="stat"><b>' + novas + "</b><span>abertas nos últimos 7 dias</span></div></div>";
+
+    var pauta = (DATA.pauta_aberturas || []).filter(function (x) { return doOrgao("ANEEL") && casa([x.assunto, x.reuniao]); });
+    if (pauta.length) {
+      h += '<div class="pauta-box"><p>Na pauta da Diretoria da ANEEL: proposta de abertura de consulta</p><ul>' +
+        pauta.map(function (x) {
+          return "<li><b>" + dm(x.data) + "</b> · " + esc(x.reuniao) + (x.relator ? " · relator(a): " + esc(x.relator) : "") + "<br>" + esc(x.assunto) + "</li>";
+        }).join("") + "</ul></div>";
+    }
+
+    if (abertas.length) {
+      h += '<div class="thead" style="margin-top:6px"><span>Prazo</span><span>Faltam</span><span>Órgão</span><span>Consulta</span><span>Tema</span><span></span></div>';
+      h += '<div class="rows">' + abertas.map(function (c) { return linha(c, hj); }).join("") + "</div>";
+    } else {
+      h += '<p class="vazio">Nenhuma consulta aberta com esse filtro.</p>';
+    }
+    if (semPrazo.length) {
+      h += '<div class="sub-h">Em andamento, sem prazo no site do órgão (' + semPrazo.length + ")</div>";
+      h += '<div class="rows">' + semPrazo.map(function (c) { return linha(c, hj); }).join("") + "</div>";
+    }
+    if (enc.length) {
+      h += '<details class="enc"' + (st.encAberto ? " open" : "") + ' id="det-enc"><summary>Encerradas nos últimos 30 dias (' + enc.length + ")</summary>" +
+        '<div class="rows">' + enc.map(function (c) { return linha(c, hj); }).join("") + "</div></details>";
+    }
+    document.getElementById("prazos").innerHTML = h + "</div>";
+  }
+
+  // ---------- projetos (processos SEI) ----------
+  function carregarProjetos(forcar) {
+    if ((PROJ && !forcar) || projCarregando) return;
+    projCarregando = true;
+    var sep = SRC_PROJ.indexOf("?") >= 0 ? "&" : "?";
+    fetch(SRC_PROJ + sep + "t=" + Math.floor(Date.now() / 300000), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (d) { PROJ = d.projetos || []; projErro = null; })
+      .catch(function (e) { if (!PROJ) projErro = e.message; })
+      .then(function () { projCarregando = false; if (st.aba === "projetos") renderProjetos(); });
+  }
+
+  function proxPauta(p, hj) {
+    return (p.pauta || []).filter(function (x) { return x.data >= hj && !x.resultado; })
+      .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
+  }
+
+  function projOrdenados(hj) {
+    // Primeiro quem está em pauta; depois o movimento mais recente.
+    return PROJ.slice().sort(function (a, b) {
+      var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
+      if (pa !== pb) return pa ? -1 : 1;
+      return (b.ultimo_movimento || "").localeCompare(a.ultimo_movimento || "");
+    });
+  }
+
+  function itemProjeto(p, sel, hj) {
+    var pa = proxPauta(p, hj);
+    var recente = p.ultimo_movimento && dias(p.ultimo_movimento, hj) <= 7;
+    var linha = pa
+      ? '<span class="em-pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</span>"
+      : "<span>Último movimento " + (p.ultimo_movimento ? dma(p.ultimo_movimento) : "—") + "</span>";
+    return '<button type="button" class="proj-item" data-proj="' + esc(p.id) + '" aria-current="' + !!(sel && sel.id === p.id) + '">' +
+      "<b>" + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
+      "<span>" + esc(p.numero || "") + "</span>" + linha + "</button>";
+  }
+
+  function itensHistorico(p) {
+    var itens = [];
+    (p.docs || []).forEach(function (d) { itens.push({ k: "doc", d: d.d || "", h: "", o: d }); });
+    (p.ands || []).forEach(function (a) { itens.push({ k: "and", d: a.d || "", h: a.h || "", o: a }); });
+    (p.pauta || []).forEach(function (x) { itens.push({ k: "pauta", d: x.data || "", h: "", o: x }); });
+    return itens.sort(function (a, b) { return b.d.localeCompare(a.d) || b.h.localeCompare(a.h); });
+  }
+
+  function textoItem(i) {
+    var o = i.o;
+    if (i.k === "doc") return [o.t, o.u, o.un, o.p].join(" ");
+    if (i.k === "and") return [o.u, o.t].join(" ");
+    return [o.reuniao, o.resultado, o.ato, o.assunto, o.decisao, o.relator].join(" ");
+  }
+
+  function filtraHistorico(p) {
+    var q = norm(st.histQ).split(/\s+/).filter(Boolean);
+    return itensHistorico(p).filter(function (i) {
+      if (st.histTipo !== "tudo" && st.histTipo !== i.k) return false;
+      if (i.k === "and" && i.o.r && !st.rotina) return false;
+      if (!q.length) return true;
+      var alvo = norm(textoItem(i));
+      return q.every(function (w) { return alvo.indexOf(w) >= 0; });
+    });
+  }
+
+  var MES = new Intl.DateTimeFormat("pt-BR", { month: "long", year: "numeric", timeZone: "UTC" });
+  function renderHistLista(p) {
+    var el = document.getElementById("hist-lista");
+    if (!el) return;
+    var itens = filtraHistorico(p);
+    if (!itens.length) { el.innerHTML = '<p class="vazio" style="padding-left:0">Nada com esse filtro.</p>'; return; }
+    var h = "", mes = null;
+    itens.slice(0, st.histLimite).forEach(function (i) {
+      var m = i.d ? i.d.slice(0, 7) : "";
+      if (m !== mes) {
+        if (mes !== null) h += "</ul>";
+        mes = m;
+        var rot = m ? MES.format(new Date(m + "-15T12:00:00Z")) : "sem data";
+        h += '<div class="hist-mes">' + esc(rot.charAt(0).toUpperCase() + rot.slice(1)) + '</div><ul class="hist">';
+      }
+      var o = i.o, txt;
+      if (i.k === "doc") {
+        txt = linkExt(o.l, esc(o.t || "documento")) +
+          ' <span class="muted"' + (o.un ? ' title="' + esc(o.un) + '"' : "") + ">· " + esc(o.u || "") + (o.p ? " · " + esc(o.p) : "") + "</span>" +
+          (o.x ? ' <span class="tag">processo anexado</span>' : "");
+      } else if (i.k === "and") {
+        txt = (o.u ? '<span class="muted">' + esc(o.u) + ":</span> " : "") + esc(o.t) + (o.h ? ' <span class="muted small">' + esc(o.h) + "</span>" : "");
+      } else {
+        txt = "<b>" + esc(o.reuniao) + "</b> · " + (o.resultado ? "<b>" + esc(o.resultado) + "</b>" : "em pauta") +
+          (o.ato ? " · " + esc(o.ato) : "") + (o.relator ? ' <span class="muted">· relator(a): ' + esc(o.relator) + "</span>" : "") +
+          '<br><span class="muted">' + esc(o.decisao || o.assunto) + "</span>";
+      }
+      var rotulo = { doc: "Documento", and: "Andamento", pauta: "Pauta" }[i.k];
+      h += '<li class="hi ' + i.k + (i.k === "and" && o.r ? " rot" : "") + '"><span class="dt">' + (i.d ? dm(i.d) : "—") + "</span>" +
+        '<span class="k">' + rotulo + "</span><span>" + txt + "</span></li>";
+    });
+    h += "</ul>";
+    if (itens.length > st.histLimite) h += '<button type="button" class="btn mais" style="margin-left:0" id="hist-mais">Mostrar mais (' + (itens.length - st.histLimite) + ")</button>";
+    el.innerHTML = h;
+  }
+
+  function detalheProjeto(p, hj) {
+    var pa = proxPauta(p, hj);
+    var res = (p.pauta || []).filter(function (x) { return x.resultado; })[0];
+    var rel = (p.ands || []).filter(function (a) { return !a.r; }).length;
+    var velho = !p.lido_em || horasDesde(p.lido_em) > 24;
+    var u = urlOk(p.link);
+    var h = '<button type="button" class="btn voltar" data-proj="">← Voltar ao painel</button>' +
+      "<h2>" + esc(p.apelido) + '</h2><div class="meta">' + esc([p.numero, p.tipo].filter(Boolean).join(" · ")) + "</div>" +
+      '<div class="proj-acoes">' + (u ? '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">Abrir no SEI ↗</a>' : "") +
+      '<button type="button" class="btn" data-copiar="' + esc(p.id) + '">Copiar link do projeto</button>' +
+      '<span class="muted small" id="copiado" aria-live="polite"></span></div>';
+    if (pa) {
+      h += '<div class="destaque"><b>' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</b> · " + esc(pa.reuniao) +
+        (pa.relator ? " · relator(a): " + esc(pa.relator) : "") + '<div class="assunto">' + esc(pa.assunto) + "</div></div>";
+    } else if (res) {
+      h += '<div class="destaque"><b>Última decisão: ' + esc(res.resultado) + "</b> · " + esc(res.reuniao) + " de " + dma(res.data) +
+        (res.ato ? " · " + esc(res.ato) : "") + '<div class="assunto">' + esc(res.decisao || res.assunto) + "</div></div>";
+    }
+    h += '<div class="proj-stats">' +
+      "<div><b>" + (p.n_documentos != null ? p.n_documentos : (p.docs || []).length) + "</b><span>documentos</span></div>" +
+      "<div><b>" + rel + "</b><span>andamentos relevantes (de " + (p.n_andamentos != null ? p.n_andamentos : (p.ands || []).length) + ")</span></div>" +
+      "<div><b>" + (p.ultimo_movimento ? dma(p.ultimo_movimento) : "—") + "</b><span>último movimento</span></div>" +
+      '<div class="' + (velho ? "velho" : "") + '"><b>' + (p.lido_em ? esc(quando(p.lido_em)) : "—") + "</b><span>" + (velho ? "última leitura (parada)" : "última leitura do SEI") + "</span></div></div>";
+
+    var cont = { tudo: 0, doc: 0, and: 0, pauta: 0 };
+    itensHistorico(p).forEach(function (i) {
+      if (i.k === "and" && i.o.r && !st.rotina) return;
+      cont[i.k]++; cont.tudo++;
+    });
+    var chips = [["tudo", "Tudo"], ["doc", "Documentos"], ["and", st.rotina ? "Andamentos" : "Andamentos relevantes"], ["pauta", "Pauta da Diretoria"]];
+    h += '<div class="h3">Histórico</div><div class="hist-ctl"><div class="chips">' + chips.map(function (c) {
+      return '<button type="button" class="chip" data-hf="' + c[0] + '" aria-pressed="' + (st.histTipo === c[0]) + '">' + c[1] +
+        ' <span class="muted">' + cont[c[0]] + "</span></button>";
+    }).join("") + "</div>" +
+      '<input type="search" id="hist-q" placeholder="Buscar no histórico (tipo, unidade, texto)…" aria-label="Buscar no histórico" value="' + esc(st.histQ) + '">' +
+      '<label><input type="checkbox" id="hist-rot"' + (st.rotina ? " checked" : "") + "> Mostrar tramitação de rotina</label></div>" +
+      '<div id="hist-lista"></div>';
+    return h;
+  }
+
+  // Página do projeto (abre ao clicar num cartão do painel; ?p=<id> no endereço).
+  function renderProjetos() {
+    var el = document.getElementById("view-projetos");
+    if (!PROJ) {
+      el.innerHTML = projErro
+        ? '<div class="card erro"><b>Não deu para carregar o histórico dos processos.</b><p class="muted">Tente de novo em alguns minutos. (' + esc(projErro) + ")</p>" +
+          '<button type="button" class="btn" data-proj="">← Voltar ao painel</button></div>'
+        : '<div class="carregando">Carregando o histórico…</div>';
+      carregarProjetos();
+      return;
+    }
+    var hj = hoje();
+    var lista = projOrdenados(hj);
+    var sel = lista.filter(function (p) { return p.id === st.proj; })[0];
+    if (!sel) { abrirProjeto(null); return; }  // link antigo de processo que saiu da lista
+    el.innerHTML = '<div class="proj-grid det">' +
+      '<aside class="card proj-lista" aria-label="Processos SEI"><div class="sec-h"><h2>Processos SEI<span class="cnt">' + lista.length + "</span></h2></div>" +
+      lista.map(function (p) { return itemProjeto(p, sel, hj); }).join("") + "</aside>" +
+      '<section class="card proj-det" aria-label="Processo">' + detalheProjeto(sel, hj) + "</section></div>";
+    renderHistLista(sel);
+  }
+
+  function projAtual() {
+    return PROJ ? PROJ.filter(function (p) { return p.id === st.proj; })[0] || null : null;
+  }
+
+  // Painel (processos + consultas + linha do tempo) ou página de um processo.
+  function renderVisao() {
+    st.aba = st.proj ? "projetos" : "consultas";
+    document.getElementById("filtros").hidden = st.aba !== "consultas";
+    document.getElementById("main").hidden = st.aba !== "consultas";
+    document.getElementById("view-projetos").hidden = st.aba !== "projetos";
+  }
+
+  // ---------- processos SEI no topo do painel ----------
+  function textoProc(p) {
+    return [p.apelido, p.numero, p.tipo,
+      (p.documentos || []).map(function (d) { return d.tipo + " " + d.unidade; }).join(" "),
+      (p.andamentos || []).map(function (a) { return a.descricao; }).join(" "),
+      (p.pauta || []).map(function (x) { return x.assunto + " " + x.resultado; }).join(" ")];
+  }
+
+  function ultimoItem(p) {
+    // O mais recente entre documento (sem processo anexado) e andamento fora da rotina.
+    var d = (p.documentos || []).filter(function (x) { return !x.anexado && (x.protocolo || "").indexOf("/") < 0; })[0];
+    var a = (p.andamentos || []).filter(function (x) { return !x.rotina; })[0];
+    if (d && (!a || (d.data || "") >= (a.data || ""))) return { data: d.data, txt: d.tipo + (d.unidade ? " (" + d.unidade + ")" : "") };
+    if (a) return { data: a.data, txt: (a.unidade ? a.unidade + ": " : "") + a.descricao };
+    return null;
+  }
+
+  function renderSeiResumo(hj) {
+    var el = document.getElementById("sei-resumo");
+    if (!doOrgao("SEI")) { el.hidden = true; el.innerHTML = ""; return; }
+    var ps = (DATA.processos || []).filter(function (p) { return casa(textoProc(p)); });
+    ps.sort(function (a, b) {
+      var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
+      if (pa !== pb) return pa ? -1 : 1;
+      return ((ultimoItem(b) || {}).data || "").localeCompare((ultimoItem(a) || {}).data || "");
+    });
+    if (!ps.length && st.q.trim()) { el.hidden = true; el.innerHTML = ""; return; }
+    el.hidden = false;
+    var sei = (DATA.fontes || {}).SEI || {};
+    var leitura = sei.lido_em
+      ? '<span class="leitura' + (sei.ok ? "" : " parada") + '" title="' +
+        esc(sei.ok ? "Última leitura do SEI" : "O SEI bloqueia leituras automáticas na nuvem: os processos só são lidos com o computador de leitura ligado. Pauta e decisões da Diretoria continuam atualizadas.") +
+        '">lidos em ' + esc(quando(sei.lido_em)) + (sei.ok ? "" : " · leitura parada") + "</span>"
+      : "";
+    var h = '<div class="card"><div class="sec-h"><h2>Processos SEI acompanhados<span class="cnt">' + ps.length + "</span></h2>" + leitura + "</div>" +
+      '<div class="sei-grid">' + ps.map(function (p) {
+        var pa = proxPauta(p, hj);
+        var res = (p.pauta || []).filter(function (x) { return x.resultado && dias(x.data, hj) <= 30; })[0];
+        var ult = ultimoItem(p);
+        var recente = ult && ult.data && dias(ult.data, hj) <= 7;
+        var st1 = pa
+          ? '<span class="st pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + esc(pa.reuniao) + "</span>"
+          : (res ? '<span class="st decisao">' + esc(res.resultado) + " em " + dm(res.data) + "</span>" : "");
+        return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '">' +
+          '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
+          '<span class="n">' + esc(p.numero || "") + "</span>" + st1 +
+          (ult ? '<span class="ult">Último movimento ' + dma(ult.data) + " · " + esc(ult.txt) + "</span>" : "") +
+          '<span class="ir">Ver histórico completo →</span></button>';
+      }).join("") + "</div></div>";
+    el.innerHTML = h;
+  }
+
+  // ---------- linha do tempo ----------
+  function renderTimeline(hj) {
+    var evs = (DATA.eventos || []).filter(function (e) { return doOrgao(e.orgao) && casa([e.orgao, e.titulo, e.detalhe]); });
+    var refs = {};
+    (DATA.consultas || []).forEach(function (c) { refs[c.id] = true; });
+    (DATA.processos || []).forEach(function (p) { refs["sei:" + p.id] = true; });
+    var ontem = new Date(Date.parse(hj + "T12:00:00Z") - 86400000).toISOString().slice(0, 10);
+    function eNovo(e) { return !!(st.ultimaVisita && e.visto_em && Date.parse(e.visto_em) > st.ultimaVisita); }
+    var novas = evs.filter(eNovo).length;
+
+    var h = '<div class="card" style="display:flex;flex-direction:column;min-height:0;max-height:inherit">' +
+      '<div class="sec-h tl-h"><h2>Linha do tempo<span class="cnt">' + evs.length + "</span></h2>" +
+      (novas ? '<span class="novas">' + novas + " novidade" + (novas > 1 ? "s" : "") + " desde sua última visita</span>" : '<span class="muted small">últimos 90 dias</span>') +
+      '</div><div class="tl-scroll">';
+    if (!evs.length) {
+      h += '<p class="vazio">Nada nesse filtro.</p>';
+    } else {
+      var dia = null, abertoUl = false;
+      evs.slice(0, st.limiteTl).forEach(function (e) {
+        if (e.dia !== dia) {
+          if (abertoUl) h += "</ul>";
+          dia = e.dia;
+          var rot = dia === hj ? "Hoje" : (dia === ontem ? "Ontem" : dow(dia) + " " + dm(dia) + (dia.slice(0, 4) !== hj.slice(0, 4) ? "/" + dia.slice(0, 4) : ""));
+          h += '<div class="tl-dia">' + esc(rot) + (dia === hj || dia === ontem ? ' <span style="font-weight:400">· ' + dow(dia) + " " + dm(dia) + "</span>" : "") + '</div><ul class="tl">';
+          abertoUl = true;
+        }
+        var novo = eNovo(e);
+        var tit = esc(e.titulo);
+        if (e.ref && refs[e.ref]) tit = '<button type="button" data-ir="' + esc(e.ref) + '" title="Ver no painel">' + tit + "</button>";
+        var link = urlOk(e.link);
+        h += '<li class="ev" style="--c:' + cor(e.orgao) + '"><span class="badge">' + esc(e.orgao) + "</span>" +
+          '<div class="ev-tit">' + (novo ? '<span class="novo" title="Novo desde sua última visita"></span>' : "") +
+          '<span class="tipo t-' + esc(e.tipo) + '">' + esc(TIPOS[e.tipo] || e.tipo) + "</span>" + tit + "</div>" +
+          '<span class="ev-hora">' + (e.hora ? esc(e.hora) : "") + "</span>" +
+          '<div class="ev-det">' + esc(e.detalhe) + (link ? ' · <a href="' + esc(link) + '" target="_blank" rel="noopener">fonte ↗</a>' : "") + "</div></li>";
+      });
+      if (abertoUl) h += "</ul>";
+      if (evs.length > st.limiteTl) h += '<button type="button" class="btn mais" id="tl-mais">Mostrar mais (' + (evs.length - st.limiteTl) + ")</button>";
+    }
+    document.getElementById("timeline").innerHTML = h + "</div></div>";
+  }
+
+  // ---------- montagem ----------
+  function renderTudo() {
+    var hj = hoje();
+    renderVisao();
+    renderStatus();
+    if (st.aba === "projetos") {
+      renderProjetos();
+      return;
+    }
+    renderChips();
+    renderSeiResumo(hj);
+    renderPrazos(hj);
+    renderTimeline(hj);
+  }
+
+  function montarEsqueleto() {
+    // Processos SEI em cima e consultas abertas embaixo (a pedido); linha do
+    // tempo à direita no computador. No celular a coluna da esquerda some
+    // (display: contents) e a ordem vira processos → consultas → linha do tempo.
+    document.getElementById("main").innerHTML =
+      '<div class="col-esq">' +
+      '<section class="a-sei" id="sei-resumo" aria-label="Processos SEI acompanhados"></section>' +
+      '<section class="a-prazos" id="prazos" aria-label="Consultas abertas"></section>' +
+      "</div>" +
+      '<section class="a-timeline" id="timeline" aria-label="Linha do tempo"></section>';
+  }
+
+  function atualizaUrl() {
+    var p = new URLSearchParams(location.search);
+    p.delete("aba");  // endereço antigo, da versão com abas
+    if (st.proj) p.set("p", st.proj); else p.delete("p");
+    if (!st.proj && st.orgao !== "Todos") p.set("orgao", st.orgao); else p.delete("orgao");
+    if (!st.proj && st.q.trim()) p.set("q", st.q.trim()); else p.delete("q");
+    var s = p.toString();
+    history.replaceState(null, "", location.pathname + (s ? "?" + s : "") + location.hash);
+  }
+
+  // id = processo a abrir; null/"" = volta ao painel.
+  function abrirProjeto(id) {
+    var voltando = !id && st.proj;
+    st.proj = id || null;
+    st.histTipo = "tudo"; st.histQ = ""; st.histLimite = 100;
+    atualizaUrl();
+    renderTudo();
+    if (voltando) {
+      var card = document.getElementById("sei-resumo");
+      if (card && !card.hidden) card.scrollIntoView({ block: "start" });
+    } else {
+      window.scrollTo({ top: 0 });
+    }
+  }
+
+  function irPara(ref) {
+    var alvo;
+    if (ref.indexOf("sei:") === 0) {
+      abrirProjeto(ref.slice(4));
+      return;
+    } else {
+      var c = (DATA.consultas || []).filter(function (x) { return x.id === ref; })[0];
+      if (!c) return;
+      st.abertos.add(ref);
+      if (c.situacao === "encerrada") st.encAberto = true;
+      if (!doOrgao(c.orgao)) st.orgao = "Todos";
+      renderTudo();
+      alvo = document.getElementById("c-" + ref);
+    }
+    atualizaUrl();
+    if (alvo) {
+      alvo.scrollIntoView({ behavior: "smooth", block: "center" });
+      alvo.classList.add("flash");
+      setTimeout(function () { alvo.classList.remove("flash"); }, 1700);
+    }
+  }
+
+  document.addEventListener("click", function (ev) {
+    var t = ev.target.closest("[data-proj],[data-hf],[data-copiar],#hist-mais,[data-orgao],[data-toggle],[data-ir],#tl-mais");
+    if (!t) return;
+    if (t.hasAttribute("data-proj")) {
+      abrirProjeto(t.getAttribute("data-proj"));
+    } else if (t.hasAttribute("data-hf")) {
+      st.histTipo = t.getAttribute("data-hf"); st.histLimite = 100;
+      renderProjetos();
+    } else if (t.id === "hist-mais") {
+      st.histLimite += 100;
+      var pm = projAtual(); if (pm) renderHistLista(pm);
+    } else if (t.hasAttribute("data-copiar")) {
+      var pc = new URLSearchParams(location.search);
+      ["orgao", "q", "aba"].forEach(function (k) { pc.delete(k); });
+      pc.set("p", t.getAttribute("data-copiar"));
+      var url = location.origin + location.pathname + "?" + pc.toString();
+      var aviso = function (m) { var c = document.getElementById("copiado"); if (c) c.textContent = m; };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function () { aviso("Link copiado"); }, function () { aviso(url); });
+      } else {
+        aviso(url);
+      }
+    } else if (t.hasAttribute("data-orgao")) {
+      st.orgao = t.getAttribute("data-orgao");
+      atualizaUrl(); renderTudo();
+    } else if (t.hasAttribute("data-toggle")) {
+      var id = t.getAttribute("data-toggle");
+      if (st.abertos.has(id)) st.abertos.delete(id); else st.abertos.add(id);
+      var det = document.getElementById("det-enc");
+      st.encAberto = !!(det && det.open);
+      renderPrazos(hoje());
+      var b = document.querySelector('[data-toggle="' + CSS.escape(id) + '"]');
+      if (b) b.focus();
+    } else if (t.hasAttribute("data-ir")) {
+      irPara(t.getAttribute("data-ir"));
+    } else if (t.id === "tl-mais") {
+      st.limiteTl += 60; renderTimeline(hoje());
+    }
+  });
+  document.addEventListener("toggle", function (ev) {
+    if (ev.target && ev.target.id === "det-enc") st.encAberto = ev.target.open;
+  }, true);
+  document.addEventListener("change", function (ev) {
+    if (ev.target && ev.target.id === "hist-rot") { st.rotina = ev.target.checked; renderProjetos(); }
+  });
+  var th = null;
+  document.addEventListener("input", function (ev) {
+    if (!ev.target || ev.target.id !== "hist-q") return;
+    clearTimeout(th);
+    th = setTimeout(function () { st.histQ = ev.target.value; st.histLimite = 100; var p = projAtual(); if (p) renderHistLista(p); }, 150);
+  });
+
+  var qEl = document.getElementById("q");
+  qEl.value = st.q;
+  var tq = null;
+  qEl.addEventListener("input", function () {
+    clearTimeout(tq);
+    tq = setTimeout(function () { st.q = qEl.value; atualizaUrl(); if (DATA) renderTudo(); }, 150);
+  });
+
+  function carregar(primeira) {
+    var sep = SRC.indexOf("?") >= 0 ? "&" : "?";
+    // Mesmo endereço por 5 min: aproveita o cache do GitHub sem servir dado velho.
+    return fetch(SRC + sep + "t=" + Math.floor(Date.now() / 300000), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (d) {
+        DATA = d;
+        if (primeira) montarEsqueleto();
+        renderTudo();
+      })
+      .catch(function (e) {
+        if (!primeira) return; // falha num refresh: mantém o que está na tela
+        document.getElementById("main").innerHTML = '<div class="card erro"><b>Não deu para carregar os dados.</b>' +
+          '<p class="muted">Tente recarregar a página em alguns minutos. (' + esc(e.message) + ")</p></div>";
+      });
+  }
+
+  st.ultimaVisita = Number(lsGet("monitor-reg-visita")) || null;
+  renderChips();
+  carregar(true).then(function () {
+    // Marca a visita depois de alguns segundos (quem só abre e fecha não perde as novidades).
+    setTimeout(function () { lsSet("monitor-reg-visita", String(Date.now())); }, 8000);
+  });
+  setInterval(function () {
+    carregar(false);
+    if (PROJ) carregarProjetos(true);
+  }, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>

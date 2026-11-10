@@ -102,7 +102,7 @@ py news_summarize.py
 if errorlevel 1 echo WARN: news_summarize.py falhou
 
 echo [8/8] git add + commit + push...
-git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json mme_legislacao_history.json mme_legislacao_diagnostic.json cvm_recent.json alerts_state.json
+git add news_history.json news_diagnostic.json aneel_aux_history.json aneel_aux_diagnostic.json dou_history.json sei_processes.json sei_historico.json mme_legislacao_history.json mme_legislacao_diagnostic.json cvm_recent.json alerts_state.json
 git diff --staged --quiet
 if errorlevel 1 (
     git commit -m "Local refresh [skip ci]"

@@ -91,13 +91,18 @@ def _send_whatsapp(title, message, click=None, retries=2) -> bool:
     return False
 
 
-def _send_telegram(title, message, click=None, retries=2) -> bool:
+def _chat_ids(env: str) -> list:
+    return [c.strip() for c in os.environ.get(env, "").split(",") if c.strip()]
+
+
+def _send_telegram(title, message, click=None, retries=2, env="TELEGRAM_CHAT_ID", pular=()) -> bool:
     """Telegram Bot API — INSTANTÂNEO e grátis. No-op se não configurado.
     TELEGRAM_CHAT_ID aceita VÁRIOS destinos separados por vírgula (ex.: seu
     privado + um grupo com colegas, ou vários ids). Retorna True se ao menos um
-    destino recebeu."""
+    destino recebeu. env/pular: o canal do time (TELEGRAM_TEAM_CHAT_ID), sem
+    repetir quem já recebeu pelo TELEGRAM_CHAT_ID."""
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-    chat_ids = [c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()]
+    chat_ids = [c for c in _chat_ids(env) if c not in set(pular)]
     if not token or not chat_ids:
         return False
     text = f"{title}\n{message}"
@@ -168,17 +173,23 @@ def _send_whatsapp_cloud(title, message, click=None, retries=2) -> bool:
     return any_ok
 
 
-def send(title, message, click=None, priority="default", tags=None, wa_cloud=False) -> bool:
+def send(title, message, click=None, priority="default", tags=None, wa_cloud=False, equipe=False) -> bool:
     """Envia pros canais configurados, por redundância. Retorna True se PELO
     MENOS UM entregou. Ordem: INSTANTÂNEOS primeiro (ntfy, Telegram), WhatsApp
     (CallMeBot) por último — ele enfileira e atrasa ~até 1min (beta deles).
 
     wa_cloud=True → também dispara o WhatsApp Cloud API (Meta oficial, p/ TIME).
-    Reservado pros alertas que pedirem (FR/Comunicado) — não vai em tudo."""
+    Reservado pros alertas que pedirem (FR/Comunicado) — não vai em tudo.
+    equipe=True → também manda pro canal do Telegram dos colegas
+    (TELEGRAM_TEAM_CHAT_ID). Só os alertas regulatórios (a pedido, 10/11/2026):
+    SEI, CP/TS da ANEEL e do MME, ARSESP, ARSAE e Legislação MME. Avisos de
+    fonte parada, Top do Dia e CVM ficam só com o dono."""
     nt = _send_ntfy(title, message, click=click, priority=priority, tags=tags)
     tg = _send_telegram(title, message, click=click)
     wa = _send_whatsapp(title, message, click=click)
     wc = _send_whatsapp_cloud(title, message, click=click) if wa_cloud else False
-    if not (nt or tg or wa or wc):
+    eq = (_send_telegram(title, message, click=click, env="TELEGRAM_TEAM_CHAT_ID",
+                         pular=_chat_ids("TELEGRAM_CHAT_ID")) if equipe else False)
+    if not (nt or tg or wa or wc or eq):
         print(f"[notify] FALHA em TODOS os canais: {title!r}", file=sys.stderr)
-    return nt or tg or wa or wc
+    return nt or tg or wa or wc or eq

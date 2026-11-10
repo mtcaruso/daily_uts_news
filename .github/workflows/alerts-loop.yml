@@ -9,7 +9,8 @@ name: Alerts Loop (consultas a cada 5min, resto a cada 15min, sem depender do ag
 # ela quebrar. Repo público = Actions ilimitado.
 #
 # Ciclo de 5min: alerts.py --consultas (CP/TS de ANEEL, MME, ARSESP, ARSAE; ~10s).
-# A cada 15min, o alerts.py completo (+ Top do Dia e SEI). De hora em hora, 07-23h
+# A cada 15min, o alerts.py completo (+ Top do Dia e SEI) e o regulatorio.py (dados
+# do site Monitor Regulatório). De hora em hora, 07-23h
 # BRT, seg-sex: mme_legislacao.py (portarias, decretos, leis). alerts.yml e
 # mme-legislacao.yml ficaram só com disparo manual (rodando junto com o loop,
 # alertariam em dobro).
@@ -54,6 +55,8 @@ jobs:
           CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # canal dos colegas: só os alertas regulatórios (notify.send(equipe=True))
+          TELEGRAM_TEAM_CHAT_ID: ${{ secrets.TELEGRAM_TEAM_CHAT_ID }}
         run: |
           set +e  # o runner usa bash -e: um erro avulso não pode matar a corrente
           # Mesmo esquema do cvm_fast: pull --rebase -X theirs antes e depois
@@ -79,13 +82,21 @@ jobs:
             t0=$(date +%s)
             sync || true
             # CP/TS a cada 5min (a pedido: o mais rápido possível); o completo a cada 15.
+            full=0
             if [ $(( t0 - last_full )) -ge 900 ]; then
               last_full=$t0
+              full=1
               python alerts.py || echo "::warning::alerts.py falhou"
             else
               python alerts.py --consultas || echo "::warning::alerts.py --consultas falhou"
             fi
             publish "Update alerts state" alerts_state.json
+            # Monitor Regulatório (site/, GitHub Pages): consultas, processos SEI e
+            # linha do tempo num JSON só, a cada 15min, depois do ciclo completo.
+            if [ "$full" = 1 ]; then
+              python regulatorio.py || echo "::warning::regulatorio.py falhou"
+              publish "Update monitor regulatório" regulatorio.json regulatorio_projetos.json regulatorio_state.json
+            fi
             # MME só publica em dia útil, em horário comercial
             if [ "$(TZ=America/Sao_Paulo date +%u)" -le 5 ] \
                && [ "$(TZ=America/Sao_Paulo date +%-H)" -ge 7 ] \

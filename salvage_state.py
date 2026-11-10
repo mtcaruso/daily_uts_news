@@ -21,7 +21,7 @@ STATE_FILES = [
     "news_history.json", "news_diagnostic.json",
     "aneel_aux_history.json", "aneel_aux_diagnostic.json",
     "dou_history.json",
-    "sei_processes.json",
+    "sei_processes.json", "sei_historico.json",
     "mme_legislacao_history.json", "mme_legislacao_diagnostic.json",
     "cvm_recent.json", "alerts_state.json",
     "cvm_insider_history.json", "cvm_insider_diagnostic.json",

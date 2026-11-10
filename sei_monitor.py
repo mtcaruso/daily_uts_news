@@ -16,6 +16,7 @@ alerts-loop de 08 a 19/10/2026): quem lê o SEI é o PC, e o alerts.py usa o que
 ele commitou.
 """
 import hashlib
+import html as html_lib  # parse_process usa "html" como variável
 import json
 import os
 import re
@@ -23,6 +24,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urljoin
 
 from curl_cffi import requests as cf
 
@@ -33,6 +35,11 @@ BRT = timezone(timedelta(hours=-3))
 
 PROCESSES_FILE = Path("sei_processes.json")
 WATCH_FILE = Path("sei_watch.txt")
+# Histórico COMPLETO de cada processo (todos os documentos, com link, e todos os
+# andamentos), para a aba Projetos do Monitor Regulatório (a pedido, 10/11/2026).
+# Arquivo à parte e sem horário: só muda quando entra documento/andamento novo,
+# então não pesa no sei_processes.json, que muda a cada leitura.
+HISTORICO_FILE = Path("sei_historico.json")
 # O sei.aneel.gov.br fica atrás do Cloudflare da zona aneel.gov.br, que devolve
 # 403 "Sorry, you have been blocked" em rajadas mesmo pro IP residencial (medido
 # 19/10/2026: ~19% dos GETs). Com 3 tentativas iguais e 7s de espera, 16% das
@@ -118,12 +125,19 @@ def parse_process(url: str, max_attempts: int = MAX_RETRIES) -> dict:
             clean = [_clean(c) for c in cells]
             # Colunas: '', protocolo, tipo, data, data_inclusao, unidade, ''
             if len(clean) >= 6 and clean[1]:
+                # Link público do documento (abre direto, sem captcha) e o nome
+                # da unidade por extenso (title da sigla). Documento restrito
+                # vem sem link.
+                m_link = re.search(r"window\.open\('([^']+)'", cells[1])
+                m_unid = re.search(r'title="([^"]+)"', cells[5])
                 result["documentos"].append({
                     "protocolo": clean[1],
                     "tipo": clean[2],
                     "data": clean[3],
                     "data_inclusao": clean[4],
                     "unidade": clean[5],
+                    "link": urljoin(url, html_lib.unescape(m_link.group(1))) if m_link else None,
+                    "unidade_nome": _clean(m_unid.group(1)) if m_unid else None,
                 })
 
     # === Andamentos ===
@@ -205,12 +219,45 @@ def _inclusao(doc: dict) -> str:
     return d[6:10] + d[3:5] + d[0:2]
 
 
+def historico_de(data: dict) -> dict:
+    """Entrada do sei_historico.json a partir do parse_process: documentos do mais
+    novo pro mais velho (por inclusão), andamentos como vêm (mais novo primeiro)."""
+    return {
+        "processo": data.get("processo"),
+        "tipo": data.get("tipo"),
+        "documentos": sorted(data["documentos"], key=_inclusao, reverse=True),
+        "andamentos": data["andamentos"],
+    }
+
+
+def load_historico() -> dict:
+    try:
+        return json.loads(HISTORICO_FILE.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def save_historico(hist: dict, ids_validos) -> bool:
+    """Grava só se mudou (o PC commita a cada 30min; sem mudança, sem commit).
+    Processo que saiu do sei_watch.txt sai do histórico."""
+    hist = {k: v for k, v in hist.items() if k in set(ids_validos)}
+    novo = json.dumps(hist, ensure_ascii=False, indent=1)
+    try:
+        if HISTORICO_FILE.read_text(encoding="utf-8") == novo:
+            return False
+    except OSError:
+        pass
+    HISTORICO_FILE.write_text(novo, encoding="utf-8")
+    return True
+
+
 def monitor_all():
     """Itera por todos os processos cadastrados, detecta novos andamentos."""
     processes = load_processes()
     if not processes:
         print("[sei_monitor] Nenhum processo cadastrado em sei_processes.json", file=sys.stderr)
         return
+    historico = load_historico()  # leitura que falhar mantém o histórico anterior
 
     print(f"[sei_monitor] Monitorando {len(processes)} processos…", file=sys.stderr)
     total_new = 0
@@ -260,10 +307,15 @@ def monitor_all():
         # Todos os protocolos: o alerts.py compara conjuntos (doc novo pode
         # entrar no meio da lista) quando não consegue ler o SEI direto.
         p["documentos_protocolos"] = [d["protocolo"] for d in data["documentos"]]
+        historico[p["id"]] = historico_de(data)
 
         time.sleep(2)  # gentle ao SEI
 
     save_processes(processes)
+    try:
+        save_historico(historico, [p["id"] for p in processes])
+    except Exception as e:  # o histórico é extra: nunca derruba o refresh do PC
+        print(f"[sei_monitor] histórico não gravado: {e}", file=sys.stderr)
     print(f"[sei_monitor] DONE: {total_new} novos andamentos no total", file=sys.stderr)
 
 

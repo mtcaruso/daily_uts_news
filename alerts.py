@@ -300,7 +300,7 @@ def alert_mme_cp(state: dict, dry: bool) -> int:
 
     if not dry:
         for title, body in msgs[:PUSH_CAP_PER_RUN]:
-            notify.send(title, body, click=MME_CP_SITE, tags=["ballot_box"])
+            notify.send(title, body, click=MME_CP_SITE, tags=["ballot_box"], equipe=True)
 
     state["mme_cp"] = seen
     print(f"[mme_cp] {len(cps)} CPs lidas, {len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
@@ -428,7 +428,7 @@ def alert_arsesp(state: dict, dry: bool) -> int:
 
     if not dry:
         for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
-            notify.send(title, body, click=link, tags=["droplet"])
+            notify.send(title, body, click=link, tags=["droplet"], equipe=True)
 
     state["arsesp"] = {"item_seed": st["item_seed"], "alertados": sorted(alertados),
                        "doc_cp": max(st.get("doc_cp", 0), topo["doc_cp"]),
@@ -576,7 +576,7 @@ def alert_arsae(state: dict, dry: bool) -> int:
 
     if not dry:
         for title, body, click in msgs[:PUSH_CAP_PER_RUN]:
-            notify.send(title, body, click=click, tags=["potable_water"])
+            notify.send(title, body, click=click, tags=["potable_water"], equipe=True)
 
     state["arsae"] = {"mod": mod, "cps": cps}
     print(f"[arsae] {len(cps)} CPs no state, {len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
@@ -675,7 +675,7 @@ def alert_sei(state: dict, dry: bool) -> int:
 
     if not dry:
         for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
-            notify.send(title, body, click=link, tags=["open_file_folder"])
+            notify.send(title, body, click=link, tags=["open_file_folder"], equipe=True)
 
     state["sei"] = novo_state  # processo tirado da lista sai do state
     pior = max(idade_pc) if idade_pc else None
@@ -807,7 +807,7 @@ def alert_sei_pauta(state: dict, dry: bool) -> int:
                 msgs.append((uid, antes, f"🗓️ SEI · {titulo} na pauta de {dia[8:10]}/{dia[5:7]}", corpo, p["url"]))
 
     for i, (uid, antes, title, body, link) in enumerate(msgs):
-        if i >= PUSH_CAP_PER_RUN or dry or not notify.send(title, body, click=link, tags=["spiral_calendar"]):
+        if i >= PUSH_CAP_PER_RUN or dry or not notify.send(title, body, click=link, tags=["spiral_calendar"], equipe=True):
             if antes is None:
                 st.pop(uid, None)  # não saiu (cap, simulação ou falha): tenta no próximo ciclo
             else:
@@ -890,7 +890,7 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
                              f"{_resumo(e, 150)}\nPrazo: {prazos.get(k) or ref[k]} → {fim}", link))
 
     for k, fim, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
-        if not dry and notify.send(title, body, click=link, tags=["classical_building"]):
+        if not dry and notify.send(title, body, click=link, tags=["classical_building"], equipe=True):
             avisados.add(k)
             if fim:
                 prazos[k] = ref[k] = fim  # falha no envio = referência velha, tenta de novo
@@ -1029,7 +1029,7 @@ def alert_aneel_dou(state: dict, dry: bool) -> int:
 
     enviados = 0
     for itens, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
-        if dry or not notify.send(title, body, click=link, tags=["classical_building"]):
+        if dry or not notify.send(title, body, click=link, tags=["classical_building"], equipe=True):
             continue  # não marca como visto: tenta no próximo ciclo
         for i in itens:
             visto(i["uid"])
@@ -1120,7 +1120,7 @@ def alert_aneel_noticias(state: dict, dry: bool) -> int:
 
     # Só vira "vista" depois de enviada: falha no envio = tenta no próximo ciclo.
     for nid, ids, title, body, link in msgs[:PUSH_CAP_PER_RUN]:
-        if not dry and notify.send(title, body, click=link, tags=["classical_building"]):
+        if not dry and notify.send(title, body, click=link, tags=["classical_building"], equipe=True):
             avisados.update(ids)
             vistos.append(nid)
 

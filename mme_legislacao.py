@@ -429,6 +429,7 @@ def notify_new(history: dict) -> int:
             body or "Ato publicado — toque pra ver",
             click=entry.get("pdf_url") or entry.get("url"),
             tags=["scroll"],
+            equipe=True,  # canal dos colegas (a pedido, 10/11/2026)
         )
         if ok:
             entry["notified_at"] = datetime.now(BRT).isoformat()
