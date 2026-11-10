@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-10T17:06:39.752590-03:00",
+  "last_updated": "2026-11-10T17:35:03.493166-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Consolidada",
+      "especie": "-",
+      "data_referencia": "20261001 10/2026",
+      "data_entrega": "20261110 10/11/2026 17:18",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1587092",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1587092",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-11-10T17:34:52.386634"
+    },
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Valores Mobiliários Negociados e Detidos",
+      "tipo": "Posição Individual - Cia, Controladas e Coligadas",
+      "especie": "-",
+      "data_referencia": "20261001 10/2026",
+      "data_entrega": "20261110 10/11/2026 17:15",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1587091",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1587091",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-11-10T17:34:52.386618"
+    },
     {
       "cnpj_short": "02001-0",
       "empresa_nome": "EQUATORIAL S.A.",
