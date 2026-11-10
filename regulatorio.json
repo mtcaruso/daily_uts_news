@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-10T17:20:08-03:00",
+ "gerado_em": "2026-11-10T17:27:11-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:20:08-03:00",
+   "lido_em": "2026-11-10T17:27:11-03:00",
    "listagem_pc": "2026-11-10T17:04:32.100513-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-10T17:20:08-03:00"
+   "lido_em": "2026-11-10T17:27:11-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-10T17:20:08-03:00"
+   "lido_em": "2026-11-10T17:27:11-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-10T17:20:08-03:00"
+   "lido_em": "2026-11-10T17:27:11-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:20:08-03:00"
+   "lido_em": "2026-11-10T17:27:11-03:00"
   },
   "SEI": {
    "ok": true,
@@ -1931,6 +1931,201 @@
    ],
    "n_documentos": 60,
    "n_andamentos": 93
+  },
+  {
+   "id": "sei_a3c744a071",
+   "apelido": "Curtailment - Inclusão de EVT",
+   "numero": "48500.900375/2019-83",
+   "tipo": "Participação Pública: Consulta Pública",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "lido_em": null,
+   "documentos": [
+    {
+     "data": "2026-10-26",
+     "tipo": "Participação Pública: Consulta Pública",
+     "unidade": "PROTOCOLO-GERAL",
+     "unidade_nome": "Protocolo-Geral",
+     "protocolo": "48500.031340/2026-15",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHrayMzADlLxMQLH5LMxhygHw0Bl-WuJ-_okGiGdIuXY8A,,",
+     "anexado": true
+    },
+    {
+     "data": "2026-10-19",
+     "tipo": "Extrato da Decisão da Diretoria",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
+     "protocolo": "0479990",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMUc6B2JL-XmMLNgwTwzRV606NxExpXBYGoygvZxzqJ1406_qkXq1omo6hKf_chBnOXf9vl_LKhTDC-RGPEL8r_",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-09",
+     "tipo": "Voto",
+     "unidade": "GAB II - AMAC",
+     "unidade_nome": "Gabinete de Assessoramento à Diretora Agnes Maria de Aragão da Costa",
+     "protocolo": "0478436",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP-S12DjRuVJVkMghMyLz_TpaqVGlCQ0m7RRdeZP5ubEZKK5nShSELsCvcHDQjqg3WE6NAbHwxbXdu3TgdupcmY",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-08",
+     "tipo": "Resolução Normativa 1170",
+     "unidade": "GAB II - AMAC",
+     "unidade_nome": "Gabinete de Assessoramento à Diretora Agnes Maria de Aragão da Costa",
+     "protocolo": "0476352",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP8GD_aZ3MgxDrssd6U1X8KDZi4HkyhSv3ORfU0IiAjKGfI7chDLmLLQnYRrsderP9R_ToAHdqmbyHjbaa_0KGu",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-07",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0474313",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPvV3Z39YpAoqTODABH-JfKlvECfODHMsrfV8tU5sd80AxLpACNHAu2xAGc0FjP-MuTV-udHNhyDPpRvnBpY4TQ",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-07",
+     "tipo": "Voto",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0475501",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPCVl9q2kg0FX66vpzb3E12Vi4q7ClUEs5BxQFgQdqq5ThutMce8j6J4Z2FSiV4OGy_D1amLU5jIXLeefjF8wEp",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-06",
+     "tipo": "Memorando 94",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0474678",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMsTKXGH6InqmMHSGW4Cxr6OQXRtGX-c300Bmk3kVTBVg1IooTZLRQuN6_PTfzbutg4mllJVtVSZq4_NLpJzBll",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-06",
+     "tipo": "Memorando 153",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0475504",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPbPeUlCijkHBa0SOIML4u0kRFBCFUa9x7QQEyM6HT3qguCxvU7D6oSuhfQCLzIY13DyM7siyjIAqHfX_9QBjR8",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-06",
+     "tipo": "Anexo",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0475513",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM2OW-AIXl2gQ3zofsSZCusRTNHp3gMZlNp41uMJQzpCdVB1K4tfNDsHuY6ZuDjS-N3JitdsyACLIXNGk14fE8J",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-02",
+     "tipo": "Memorando 152",
+     "unidade": "SGM",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica",
+     "protocolo": "0473471",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPN1v9Qo4e5m0NM1MXmrt80Hz2_wGsDEskVs1K6p_UY3U_uk08A3D56c0f8aHRH-nOJTmCC97G8LIt34WLPrbjA",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-10-26",
+     "hora": "15:18",
+     "unidade": "GAB II - AMAC",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "275b2903e2ab",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-26",
+     "hora": "15:11",
+     "unidade": "GAB II - AMAC",
+     "descricao": "Processo 48500.031340/2026-15 anexado",
+     "hash": "0563bff7ccff",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-20",
+     "hora": "20:02",
+     "unidade": "SGM",
+     "descricao": "Processo recebido na unidade",
+     "hash": "f5798e4bf250",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-20",
+     "hora": "16:29",
+     "unidade": "SGM",
+     "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
+     "hash": "8b3c26891e66",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-19",
+     "hora": "13:43",
+     "unidade": "GAB II - AMAC",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "fe2d02a9bb8f",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-15",
+     "hora": "09:37",
+     "unidade": "GAB IV - GNSJ",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "47c44668099d",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-14",
+     "hora": "16:55",
+     "unidade": "GAB II - AMAC",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "0d82e8ef4aab",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-07",
+     "hora": "16:44",
+     "unidade": "GAB IV - GNSJ",
+     "descricao": "Processo recebido na unidade",
+     "hash": "07cabadecd4b",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-07",
+     "hora": "14:56",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "cd6459b1fd28",
+     "rotina": true
+    },
+    {
+     "data": "2026-10-07",
+     "hora": "14:51",
+     "unidade": "GAB II - AMAC",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "440b90e92a9e",
+     "rotina": true
+    }
+   ],
+   "pauta": [
+    {
+     "data": "2026-10-06",
+     "reuniao": "20/2026 - RPO",
+     "assunto": "Resultado da Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Deliberado",
+     "ato": "Resolução Normativa 1170",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por maioria, acompanhando o voto da Diretora-Relatora, Agnes Maria de Aragão da Costa, incorporando as sugestões trazidas no voto-vista do Diretor Gentil Nogueira de Sá Júnior, e vencido o Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) encerrar a Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimor…"
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
   }
  ],
  "pauta_aberturas": [],
@@ -2236,6 +2431,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "41699357bc17",
+   "dia": "2026-10-19",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Extrato da Decisão da Diretoria",
+   "detalhe": "SGE - PUBLICAÇÃO · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMUc6B2JL-XmMLNgwTwzRV606NxExpXBYGoygvZxzqJ1406_qkXq1omo6hKf_chBnOXf9vl_LKhTDC-RGPEL8r_",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
    "uid": "253328ef9bd8",
    "dia": "2026-10-14",
    "hora": null,
@@ -2284,6 +2491,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "8cbd2ba1bce1",
+   "dia": "2026-10-09",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Voto",
+   "detalhe": "GAB II - AMAC · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP-S12DjRuVJVkMghMyLz_TpaqVGlCQ0m7RRdeZP5ubEZKK5nShSELsCvcHDQjqg3WE6NAbHwxbXdu3TgdupcmY",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
    "uid": "85a799e620ef",
    "dia": "2026-10-09",
    "hora": null,
@@ -2294,6 +2513,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWm2-Uj3bLuhf0MI5q9cyQOXe270pf3Yv6DkdibaeR6XkwD7vWIc7CSKDtfGkhxWpRroYYe_OKuHQZEd89c8tn",
    "ref": "sei:lrcap-2025",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "2672b487137f",
+   "dia": "2026-10-08",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Resolução Normativa 1170",
+   "detalhe": "GAB II - AMAC · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP8GD_aZ3MgxDrssd6U1X8KDZi4HkyhSv3ORfU0IiAjKGfI7chDLmLLQnYRrsderP9R_ToAHdqmbyHjbaa_0KGu",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
   },
   {
    "uid": "6ba936b17412",
@@ -2332,6 +2563,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "62ed5fd0931c",
+   "dia": "2026-10-07",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: 2 documentos novos",
+   "detalhe": "Requerimento de Inclusão em Pauta (GAB IV - GNSJ) · Voto (GAB IV - GNSJ)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
    "uid": "0865a8a30f38",
    "dia": "2026-10-07",
    "hora": null,
@@ -2342,6 +2585,54 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM5M0YfLuEixIxULyFpd4EvbN9SdkvnzPdNTCapmfVCAJf8Ay1PTR1uETuL5HoPUAbDFQeyO5tn97xtgwuLbMd7",
    "ref": "sei:rap-transmissao-2026",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "f4ad9ff9d6e7",
+   "dia": "2026-10-06",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: 3 documentos novos",
+   "detalhe": "Memorando 94 (GAB IV - GNSJ) · Memorando 153 (SGM) · Anexo (SGM)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
+   "uid": "e27f82d52fd7",
+   "dia": "2026-10-06",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Curtailment - Inclusão de EVT: Deliberado",
+   "detalhe": "20/2026 - RPO de 06/10 · Resolução Normativa 1170 · A Diretoria, por maioria, acompanhando o voto da Diretora-Relatora, Agnes Maria de Aragão da Costa, incorporando as sugestões trazidas no voto-vista do Diretor Gentil Nogueira de Sá Júnior, e vencido o Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) encerrar a Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimor…",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
+   "uid": "9dd72b96d53c",
+   "dia": "2026-10-02",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Memorando 152",
+   "detalhe": "SGM · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPN1v9Qo4e5m0NM1MXmrt80Hz2_wGsDEskVs1K6p_UY3U_uk08A3D56c0f8aHRH-nOJTmCC97G8LIt34WLPrbjA",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
+   "uid": "7050bcd76da5",
+   "dia": "2026-10-01",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: 3 documentos novos",
+   "detalhe": "Memória (GAB - APOIO) · Memória (GAB - APOIO) · Memorando 92 (GAB IV - GNSJ)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
   },
   {
    "uid": "86d82fe15106",
@@ -2476,6 +2767,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "89eb29931653",
+   "dia": "2026-09-28",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: 2 documentos novos",
+   "detalhe": "Termo de Cancelamento de Documento (GAB - APOIO) · Memória (GAB - APOIO)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
    "uid": "5f56cd270dab",
    "dia": "2026-09-23",
    "hora": null,
@@ -2522,6 +2825,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
    "ref": "sei:rap-transmissao-2026",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "3ff5c2f5f0b2",
+   "dia": "2026-09-18",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: 2 documentos novos",
+   "detalhe": "Memória (GAB - APOIO) · Memória (GAB - APOIO)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
   },
   {
    "uid": "9309c3b66e0b",
@@ -2572,6 +2887,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "c2e7218e2a3a",
+   "dia": "2026-09-11",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Memória",
+   "detalhe": "GAB - APOIO · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPdCVGxL6A1g7771iQKjvgE6dxXnkjcEocYZg2X5z-Uuc0GmPSdstKIM4P4hS1E28ALWWflpNMkn_3904jWqeI7",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
    "uid": "7af7b7f00b6b",
    "dia": "2026-09-11",
    "hora": null,
@@ -2582,6 +2909,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
    "ref": "sei:rap-transmissao-2026",
    "visto_em": "2026-11-10T17:20:08-03:00"
+  },
+  {
+   "uid": "954a57b822d2",
+   "dia": "2026-09-01",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Curtailment - Inclusão de EVT: Memória",
+   "detalhe": "GAB - APOIO · 48500.900375/2019-83",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzO1B1-3L7yOCovhVwSTgppC2OnykTdp15oXoQGsBr8pMNgQPdqiFParC0B2BDjcVXX8YfGxeKxBinkI5rj-jw4B",
+   "ref": "sei:sei_a3c744a071",
+   "visto_em": "2026-11-10T17:27:11-03:00"
   }
  ]
 }

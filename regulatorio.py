@@ -355,10 +355,13 @@ def processos_sei(recs: list, hoje: str) -> tuple:
     out = []
     for p in procs:
         h = historico.get(p["id"]) or {}
-        numero = p.get("processo") or next(iter(alerts._PROC_NUM.findall(p.get("label") or "")), None)
+        # Processo recém-incluído: o número e o tipo vêm do histórico até o PC
+        # gravar o sei_processes.json.
+        numero = (p.get("processo") or h.get("processo")
+                  or next(iter(alerts._PROC_NUM.findall(p.get("label") or "")), None))
         item = {
             "id": p["id"], "apelido": p.get("label") or numero or "processo",
-            "numero": numero, "tipo": p.get("tipo"), "link": p.get("url"),
+            "numero": numero, "tipo": p.get("tipo") or h.get("tipo"), "link": p.get("url"),
             "lido_em": p.get("last_check_at"),
             "documentos": [], "andamentos": [], "pauta": [],
             "n_documentos": p.get("documento_count"), "n_andamentos": p.get("andamento_count"),
