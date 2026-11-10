@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-10T17:51:39-03:00",
+ "gerado_em": "2026-11-10T17:56:39-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00",
+   "lido_em": "2026-11-10T17:56:39-03:00",
    "listagem_pc": "2026-11-10T17:32:49.127845-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00"
+   "lido_em": "2026-11-10T17:56:39-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00"
+   "lido_em": "2026-11-10T17:56:39-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00"
+   "lido_em": "2026-11-10T17:56:39-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00"
+   "lido_em": "2026-11-10T17:56:39-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,12 +28,11 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-10T17:51:39-03:00"
+   "lido_em": "2026-11-10T17:56:39-03:00"
   },
   "TCU": {
-   "ok": false,
-   "lido_em": null,
-   "erro": "pauta do TCU sem leitura recente (dados abertos, 1x/dia)"
+   "ok": true,
+   "lido_em": "2026-11-10T17:56:14-03:00"
   }
  },
  "consultas": [
@@ -2176,11 +2175,17 @@
    "apelido": "Angra 3: futuro da usina (ENBPar e Eletronuclear)",
    "numero": "TC 023.368/2025-0",
    "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
-   "relator": null,
-   "tipo": null,
+   "relator": "Benjamin Zymler",
+   "tipo": "Relatório de acompanhamento",
    "proxima": null,
-   "ultima": null,
-   "pauta_lida_em": null
+   "ultima": {
+    "data": "2026-10-21",
+    "colegiado": "Plenário",
+    "relator": "Benjamin Zymler",
+    "tipo": "Relatório de acompanhamento",
+    "natureza": "CONTROLE EXTERNO"
+   },
+   "pauta_lida_em": "2026-11-10T17:56:14-03:00"
   }
  ],
  "pauta_aberturas": [],
@@ -2496,6 +2501,18 @@
    "link": "https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/remote-store/exibir/link/05232ca3-9ed3-4238-a408-1a23b69f5077",
    "ref": "mme-cp-233",
    "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
+   "uid": "fda8a55a2142",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "TCU",
+   "tipo": "pauta",
+   "titulo": "Angra 3: futuro da usina (ENBPar e Eletronuclear): sessão de julgamento no Plenário em 21/10",
+   "detalhe": "TC 023.368/2025-0 · relator(a): Benjamin Zymler · Relatório de acompanhamento",
+   "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
+   "ref": "tcu-02336820250",
+   "visto_em": "2026-11-10T17:56:39-03:00"
   },
   {
    "uid": "fa49f8024a7f",

@@ -576,8 +576,9 @@ def candidatos_extra(extras: list, hoje: str, semente: bool, vistos: set) -> lis
             for s in p["sessoes"]:
                 futura = s["data"] >= hoje
                 quando = f"{s['data'][8:10]}/{s['data'][5:7]}"
+                # O TCU só publica a sessão no dia em que ela acontece (sem pauta futura).
                 evs.append(_ev(f"tcusessao|{ref}|{s['data']}|{s.get('colegiado')}", None if futura else s["data"], "TCU", "pauta",
-                               f"{p['apelido']}: na pauta do {s.get('colegiado') or 'TCU'} de {quando}",
+                               f"{p['apelido']}: sessão de julgamento no {s.get('colegiado') or 'TCU'} em {quando}",
                                " · ".join(filter(None, [p["numero"], f"relator(a): {s['relator']}" if s.get("relator") else "",
                                                         s.get("tipo")])), p["link"], ref))
     return evs

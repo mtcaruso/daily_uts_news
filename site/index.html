@@ -251,7 +251,7 @@ footer.foot p { margin: 0 0 4px; }
   <div class="wrap">
     <div class="brand">
       <h1>Monitor Regulatório</h1>
-      <p>Energia e saneamento · ANEEL, MME, ARSESP, ARSAE e processos SEI</p>
+      <p>Energia e saneamento · ANEEL, MME, ARSESP, ARSAE, SEI e TCU</p>
     </div>
     <div class="status" id="status" aria-live="polite"></div>
   </div>
@@ -266,7 +266,7 @@ footer.foot p { margin: 0 0 4px; }
 </main>
 <div class="wrap" id="view-projetos" hidden></div>
 <footer class="wrap foot">
-  <p>Fontes: listagem de consultas e avisos no DOU Seção 3 (ANEEL), consultas-publicas.mme.gov.br (MME), consultas e audiências da ARSESP (só saneamento), páginas de consultas da ARSAE-MG, Pesquisa Pública do SEI e pauta da Diretoria nos dados abertos da ANEEL.</p>
+  <p>Fontes: listagem de consultas e avisos no DOU Seção 3 (ANEEL), consultas-publicas.mme.gov.br (MME, com as contribuições públicas das consultas acompanhadas), consultas e audiências da ARSESP (só saneamento), páginas de consultas da ARSAE-MG, Pesquisa Pública do SEI, pauta da Diretoria nos dados abertos da ANEEL e sessões de julgamento nos dados abertos do TCU.</p>
   <p>Os dados são conferidos a cada 15 minutos. Datas e horários de Brasília. A ARSAE não informa o prazo no site, só no aviso de cada consulta.</p>
 </footer>
 
@@ -706,15 +706,17 @@ footer.foot p { margin: 0 0 4px; }
     var ult = ss.filter(function (s) { return s.data < hj; })[0];
     var h = cabecalhoProjeto(p, "Abrir no TCU", [p.numero, p.tipo, p.relator ? "relator(a): " + p.relator : ""]);
     if (prox) h += '<div class="destaque"><b>Na pauta do ' + esc(prox.reuniao) + " de " + dm(prox.data) + "</b>" + (prox.relator ? " · relator(a): " + esc(prox.relator) : "") + "</div>";
-    else if (ult) h += '<div class="destaque"><b>Última vez em pauta: ' + dma(ult.data) + "</b> · " + esc(ult.colegiado || "") + "</div>";
+    else if (ss[0]) h += '<div class="destaque"><b>Última sessão de julgamento: ' + dma(ss[0].data) + "</b> · " + esc(ss[0].colegiado || "") +
+      (ss[0].relator ? " · relator(a): " + esc(ss[0].relator) : "") + "</div>";
     h += '<p class="aviso" style="margin-top:14px">Peças e andamentos do TCU não entram aqui: a consulta processual do TCU bloqueia leitura automática. ' +
       "Para ver as peças, use o botão “Abrir no TCU”. Para receber cada movimentação por e-mail, cadastre o processo no Push do TCU, o serviço oficial de acompanhamento.</p>";
     h += '<div class="proj-stats">' +
-      "<div><b>" + ss.length + "</b><span>sessões em pauta</span></div>" +
-      "<div><b>" + (prox ? dm(prox.data) : "—") + "</b><span>próxima sessão</span></div>" +
-      "<div><b>" + (ult ? dma(ult.data) : "—") + "</b><span>última sessão</span></div>" +
+      "<div><b>" + ss.length + "</b><span>sessões de julgamento</span></div>" +
+      "<div><b>" + (ss[0] ? dma(ss[0].data) : "—") + "</b><span>última sessão</span></div>" +
+      "<div><b>" + esc(p.relator || "—") + "</b><span>relator(a)</span></div>" +
       "<div><b>" + (p.pauta_lida_em ? esc(quando(p.pauta_lida_em)) : "—") + "</b><span>pauta do TCU lida em</span></div></div>";
-    h += '<div class="h3">Sessões de julgamento (dados abertos do TCU)</div>';
+    h += '<div class="h3">Sessões de julgamento (dados abertos do TCU)</div>' +
+      '<p class="muted small" style="margin:0 0 6px">O TCU registra a sessão nos dados abertos no dia em que ela acontece: o aviso chega no mesmo dia, não antes.</p>';
     if (!p.pauta_lida_em) {
       h += '<p class="vazio" style="padding-left:0">A pauta do TCU ainda não foi lida. Ela é atualizada algumas vezes por dia.</p>';
     } else if (!ss.length) {
