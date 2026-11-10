@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "062d98d9fd2b",
       "5bed294d0cb3",
       "b851b8e69ded",
       "c603dc0a36e5",
@@ -608,12 +609,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 601,
-    "documento_count": 475,
+    "andamento_count": 602,
+    "documento_count": 476,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-05T17:32:58.308681-03:00",
+    "last_check_at": "2026-11-10T16:34:22.647933-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "09/11/2026 15:57",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "062d98d9fd2b"
+      },
       {
         "datahora": "05/11/2026 10:55",
         "unidade": "CPL",
@@ -667,15 +674,16 @@
         "unidade": "GAB - APOIO",
         "descricao": "Conclusão do processo na unidade",
         "hash": "3728cd9e62ac"
-      },
-      {
-        "datahora": "09/10/2026 11:44",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "70c1f9265fef"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0503095",
+        "tipo": "Memória",
+        "data": "09/11/2026",
+        "data_inclusao": "09/11/2026",
+        "unidade": "GAB - APOIO"
+      },
       {
         "protocolo": "0492409",
         "tipo": "Extrato da Decisão da Diretoria",
@@ -736,13 +744,6 @@
         "protocolo": "0461919",
         "tipo": "Termo de Cancelamento de Documento",
         "data": "21/09/2026",
-        "data_inclusao": "21/09/2026",
-        "unidade": "GAB - APOIO"
-      },
-      {
-        "protocolo": "0461937",
-        "tipo": "Memória",
-        "data": "11/09/2026",
         "data_inclusao": "21/09/2026",
         "unidade": "GAB - APOIO"
       }
@@ -1222,7 +1223,8 @@
       "0487272",
       "0490114",
       "0492409",
-      "0495554"
+      "0495554",
+      "0503095"
     ]
   },
   {
@@ -1273,7 +1275,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-05T17:33:03.761545-03:00",
+    "last_check_at": "2026-11-10T16:34:28.108199-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1470,7 +1472,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-05T17:33:06.246156-03:00",
+    "last_check_at": "2026-11-10T16:34:30.617867-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1923,7 +1925,7 @@
     "documento_count": 142,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-05T17:33:09.553053-03:00",
+    "last_check_at": "2026-11-10T16:34:37.472272-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/10/2026 15:45",
@@ -2308,7 +2310,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 93,
     "documento_count": 60,
-    "last_check_at": "2026-11-05T17:33:12.259678-03:00",
+    "last_check_at": "2026-11-10T16:34:40.515319-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "04/11/2026 17:55",
