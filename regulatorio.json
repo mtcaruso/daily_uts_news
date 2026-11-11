@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-11T10:45:07-03:00",
+ "gerado_em": "2026-11-11T11:01:30-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00",
+   "lido_em": "2026-11-11T11:01:30-03:00",
    "listagem_pc": "2026-11-11T09:32:25.078986-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00"
+   "lido_em": "2026-11-11T11:01:30-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00"
+   "lido_em": "2026-11-11T11:01:30-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00"
+   "lido_em": "2026-11-11T11:01:30-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00"
+   "lido_em": "2026-11-11T11:01:30-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,11 +28,11 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T10:45:07-03:00"
+   "lido_em": "2026-11-11T11:01:30-03:00"
   },
   "TCU": {
    "ok": true,
-   "lido_em": "2026-11-11T09:43:31-03:00"
+   "lido_em": "2026-11-11T10:52:40-03:00"
   }
  },
  "consultas": [
@@ -2763,7 +2763,21 @@
     "tipo": "Relatório de acompanhamento",
     "natureza": "CONTROLE EXTERNO"
    },
-   "pauta_lida_em": "2026-11-11T09:43:31-03:00"
+   "pauta_lida_em": "2026-11-11T10:52:40-03:00"
+  },
+  {
+   "id": "programa-universalizasp",
+   "tipo_projeto": "PROGRAMA",
+   "apelido": "UniversalizaSP: novos blocos de saneamento em SP",
+   "numero": "Programa do Governo de SP",
+   "link": "https://www.parceriaseminvestimentos.sp.gov.br/sec-parcerias-investimentos/projetos/projetos-qualificados/universalizasp",
+   "tema": "Concessão regionalizada de água e esgoto para os municípios fora da URAE 1 (Sabesp): 146 municípios em blocos por bacia hidrográfica (a definir), 33 anos, coordenação da SPI e da SEMIL. Consulta pública SPI-005/2026 encerrada em 12/06/2026; edital e leilão previstos para o 2º semestre de 2026.",
+   "n_noticias": 23,
+   "n_arsesp": 0,
+   "ult_noticia": {
+    "data": "2026-11-10",
+    "titulo": "Governo de SP apresenta URAE 2 e detalha integração dos municípios em encontro na ARES-PCJ"
+   }
   },
   {
    "id": "arsesp-proj-cp-17-2026-ap-07-2026",
@@ -2782,6 +2796,18 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "027a6b27bfd3",
+   "dia": "2026-11-10",
+   "hora": null,
+   "orgao": "SP",
+   "tipo": "noticia",
+   "titulo": "UniversalizaSP: Governo de SP apresenta URAE 2 e detalha integração dos municípios em encontro na ARES-PCJ",
+   "detalhe": "SEMIL · Integração voluntária fortalece o planejamento regional e preserva a forma atual de prestação dos serviços de água e esgoto",
+   "link": "https://semil.sp.gov.br/2026/11/governo-de-sp-apresenta-urae-2-e-detalha-integracao-dos-municipios-em-encontro-na-ares-pcj/",
+   "ref": "programa-universalizasp",
+   "visto_em": "2026-11-11T11:01:30-03:00"
+  },
   {
    "uid": "fd61ad916591",
    "dia": "2026-11-10",
