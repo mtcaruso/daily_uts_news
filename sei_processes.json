@@ -613,7 +613,7 @@
     "documento_count": 476,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-11T09:03:00.960897-03:00",
+    "last_check_at": "2026-11-11T09:32:28.473124-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 15:57",
@@ -1295,7 +1295,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T09:03:11.527161-03:00",
+    "last_check_at": "2026-11-11T09:32:30.900159-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1512,7 +1512,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-11T09:03:22.117672-03:00",
+    "last_check_at": "2026-11-11T09:32:33.366688-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1985,7 +1985,7 @@
     "documento_count": 142,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T09:03:33.486840-03:00",
+    "last_check_at": "2026-11-11T09:32:36.557506-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/10/2026 15:45",
@@ -2390,7 +2390,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 93,
     "documento_count": 60,
-    "last_check_at": "2026-11-11T09:03:36.123128-03:00",
+    "last_check_at": "2026-11-11T09:32:39.195351-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "04/11/2026 17:55",
@@ -2927,7 +2927,7 @@
     ],
     "andamento_count": 307,
     "documento_count": 238,
-    "last_check_at": "2026-11-11T09:03:48.190563-03:00",
+    "last_check_at": "2026-11-11T09:32:51.210570-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "26/10/2026 15:18",
@@ -3322,5 +3322,29 @@
       "0479990",
       "48500.031340/2026-15"
     ]
+  },
+  {
+    "id": "sei_80e06207cb",
+    "processo": "48500.003331/2024-72",
+    "ntfy_enabled": true,
+    "so_pauta": true,
+    "added_at": "2026-11-11T09:32:25.747547-03:00",
+    "label": "Enel SP: caducidade da concessão (contrato 162/2008)"
+  },
+  {
+    "id": "sei_72016acea7",
+    "processo": "48500.010865/2025-36",
+    "ntfy_enabled": true,
+    "so_pauta": true,
+    "added_at": "2026-11-11T09:32:25.747559-03:00",
+    "label": "Enel CE: prorrogação da concessão (Coelce, antecipação)"
+  },
+  {
+    "id": "sei_33126d92ef",
+    "processo": "48500.006490/2023-48",
+    "ntfy_enabled": true,
+    "so_pauta": true,
+    "added_at": "2026-11-11T09:32:25.747563-03:00",
+    "label": "Enel RJ: prorrogação da concessão (Ampla)"
   }
 ]
