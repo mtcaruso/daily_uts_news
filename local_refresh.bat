@@ -29,6 +29,18 @@ REM ============================================================
 
 setlocal
 
+REM ---- GIT NUNCA TRAVA A FILA (11/11/2026) ---------------------------------
+REM Em 10/11 uma operacao de rede do git (pull/push depois do commit das 18h15)
+REM ficou pendurada ate o notebook acordar no dia seguinte: segurou o lock e o
+REM PC ficou ~15h sem enviar nada. Agora: transferencia abaixo de 1 KB/s por
+REM 60s aborta, e o git/credential manager nunca pedem senha (rodando oculto,
+REM um pedido de senha fica esperando para sempre). Falhou = proxima rodada
+REM tenta de novo (o commit local nao se perde).
+set "GIT_HTTP_LOW_SPEED_LIMIT=1000"
+set "GIT_HTTP_LOW_SPEED_TIME=60"
+set "GIT_TERMINAL_PROMPT=0"
+set "GCM_INTERACTIVE=never"
+
 REM Dir do repo: 1o argumento (passado pelo VBS, pois a copia roda no TEMP);
 REM fallback pro dir deste arquivo (execucao manual direto do repo).
 if not "%~1"=="" (cd /d "%~1") else (cd /d "%~dp0")
