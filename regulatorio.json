@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-11T11:01:30-03:00",
+ "gerado_em": "2026-11-11T11:44:55-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00",
+   "lido_em": "2026-11-11T11:44:55-03:00",
    "listagem_pc": "2026-11-11T09:32:25.078986-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00"
+   "lido_em": "2026-11-11T11:44:55-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00"
+   "lido_em": "2026-11-11T11:44:55-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00"
+   "lido_em": "2026-11-11T11:44:55-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00"
+   "lido_em": "2026-11-11T11:44:55-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +28,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T11:01:30-03:00"
+   "lido_em": "2026-11-11T11:44:55-03:00"
   },
   "TCU": {
    "ok": true,
@@ -980,6 +980,24 @@
      "k": "arsae4e8700f26a",
      "t": "Clique aqui para acessar a gravação da Audiência Pública que ocorreu ao vivo no dia 03 de setembro",
      "u": "https://www.youtube.com/watch?v=6AmtSTOlLJ4&t=5s",
+     "final": false
+    },
+    {
+     "k": "arsae6e8432f313",
+     "t": "Nota Técnica CRE 07/2026 – Pós Consulta",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/09/Nota-Tecnica-CRE-07-2026-Pos-Consulta.pdf",
+     "final": false
+    },
+    {
+     "k": "arsae0e07fda43c",
+     "t": "Relatório Técnico CRE 07/2026 – Metodologia da 8ª RTP Copanor",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/09/Relatorio-Tecnico-CRE-07.2026-Metodologia-da-8a-RTP-Copanor.pdf",
+     "final": false
+    },
+    {
+     "k": "arsaeffb078b353",
+     "t": "Anexo NT CRE 03/2026 – Planilha de Classificação Regulatória da Copanor",
+     "u": "https://www.arsae.mg.gov.br/wp-content/uploads/2026/09/ANEXO_NT_CRE_03_2026_Classificacao_Regulatoria_Copanor.xlsx.xlsx",
      "final": false
     }
    ]
@@ -2796,6 +2814,19 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "bee3a4451afa",
+   "dia": "2026-11-11",
+   "hora": "11:44",
+   "orgao": "ARSAE",
+   "tipo": "documento",
+   "titulo": "CP 72/2026: 3 documentos novos",
+   "detalhe": "Nota Técnica CRE 07/2026 – Pós Consulta · Relatório Técnico CRE 07/2026 – Metodologia da 8ª RTP Copanor · Anexo NT CRE 03/2026 – Planilha de Classificação Regulatória da Copanor",
+   "link": "https://www.arsae.mg.gov.br/consultas-publicas-2026/#CP72",
+   "ref": "arsae-cp-72",
+   "detectado": true,
+   "visto_em": "2026-11-11T11:44:55-03:00"
+  },
   {
    "uid": "027a6b27bfd3",
    "dia": "2026-11-10",
