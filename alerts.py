@@ -867,6 +867,7 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
         return s if len(s) <= limit else s[:limit - 1].rstrip() + "…"
 
     msgs = []
+    agora = datetime.now()
     for k, e in itens.items():
         rotulo = ANEEL_PARTIC_TIPOS.get(e.get("type"))
         if not rotulo:
@@ -875,6 +876,13 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
         fim = e.get("deadline") if e.get("deadline_source") == "detalhe" else None
         link = ANEEL_PARTIC_LISTAGEM[e["type"]]
         if e.get("first_seen") and k not in avisados:
+            # Item antigo que REAPARECE na listagem não é "novo" (TS 022/2024, prazo
+            # 13/01/2025, recoletada em 05/11/2026, alertou a cada ciclo em 11/11):
+            # prazo vencido há mais de 30 dias ou início há mais de 120 → só registra.
+            prazo, inicio = _dmy(e.get("deadline")), _dmy(e.get("start_date"))
+            if (prazo and prazo < agora - timedelta(days=30)) or (inicio and inicio < agora - timedelta(days=120)):
+                avisados.add(k)
+                continue
             corpo = _resumo(e, 300) + (f"\nContribuições até {e['deadline']}" if e.get("deadline") else "")
             msgs.append((k, fim, f"🏛️ ANEEL · {rotulo} nº {num}", corpo, link))
             continue
@@ -898,11 +906,14 @@ def alert_aneel_partic(state: dict, dry: bool) -> int:
     # Guarda os avisados de QUALQUER origem: a notícia e o DOU avisam CP que o PC
     # ainda nem coletou. Podar pelo histórico do PC apagava esses avisos e a
     # listagem realertaria quando o PC coletasse (bug de 08/10/2026). Só sai o
-    # que é de ano anterior ao passado (o id termina no ano: partic_cp_036_2026).
+    # que é de ano anterior ao passado (o id termina no ano: partic_cp_036_2026)
+    # E não está mais na listagem: podar um id que a listagem ainda mostra fazia
+    # ele parecer novo no ciclo seguinte (a TS 022/2024 alertou a cada 5 min).
     ano_min = str(datetime.now().year - 1)
-    state["aneel_partic"] = {"avisados": sorted(a for a in avisados if a[-4:] >= ano_min),
-                             "prazos": {k: v for k, v in prazos.items() if k[-4:] >= ano_min},
-                             "prazos_listagem": {k: v for k, v in ref.items() if k[-4:] >= ano_min}}
+    manter = lambda a: a[-4:] >= ano_min or a in itens
+    state["aneel_partic"] = {"avisados": sorted(a for a in avisados if manter(a)),
+                             "prazos": {k: v for k, v in prazos.items() if manter(k)},
+                             "prazos_listagem": {k: v for k, v in ref.items() if manter(k)}}
     print(f"[aneel_partic] {len(msgs)} alertas")
     return len(msgs)
 
