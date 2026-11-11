@@ -1131,6 +1131,121 @@ def alert_aneel_noticias(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== TCU (processos do projetos_watch.txt) ==============
+# A pedido (10/11/2026), SÓ os processos do TCU no projetos_watch.txt (hoje,
+# Angra 3: TC 023.368/2025-0). A consulta processual do TCU bloqueia robôs, então
+# os dois sinais vêm dos dados abertos oficiais:
+#  1. sessão de julgamento: tcu_pauta.json (tcu-pauta.yml, 3x/dia). O TCU só
+#     registra a sessão no dia em que ela acontece (nunca antes).
+#  2. acórdão novo: webservice de acórdãos. Ele NÃO traz o nº do processo: o
+#     acórdão é reconhecido pelos termos da 4ª coluna do projetos_watch.txt no
+#     título/sumário (Acórdão 2908/2026 cita "Angra 3", "Eletronuclear", "ENBPar";
+#     nos 900 acórdãos de out-nov/2026 foi o único). Publica com alguns dias de
+#     atraso em relação à sessão; consultado de hora em hora.
+TCU_PAUTA_FILE = Path("tcu_pauta.json")
+TCU_ACORDAOS_API = "https://dados-abertos.apps.tcu.gov.br/api/acordao/recupera-acordaos?inicio=0&quantidade=600"
+TCU_LINK = ("https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A{}/"
+            "DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0")
+
+
+def _sem_acento(s: str) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFD", s or "").encode("ascii", "ignore").decode().lower()
+
+
+def _tcu_watch() -> list:
+    """[{tc, apelido, termos, link}] das linhas 'TCU | nº | apelido | termo; termo'."""
+    try:
+        linhas = Path("projetos_watch.txt").read_text(encoding="utf-8").splitlines()
+    except OSError:
+        return []
+    out = []
+    for linha in linhas:
+        partes = [x.strip() for x in linha.split("|")]
+        if linha.lstrip().startswith("#") or len(partes) < 2 or partes[0].upper() != "TCU":
+            continue
+        d = re.sub(r"\D", "", partes[1])
+        if len(d) != 11:
+            continue
+        termos = [_sem_acento(t).strip() for t in (partes[3] if len(partes) > 3 else "").split(";") if t.strip()]
+        out.append({"tc": f"{d[:3]}.{d[3:6]}/{d[6:10]}-{d[10]}", "apelido": partes[2] if len(partes) > 2 and partes[2] else f"TC {partes[1]}",
+                    "termos": termos, "link": TCU_LINK.format(int(d))})
+    return out
+
+
+def alert_tcu(state: dict, dry: bool) -> int:
+    """Sessão de julgamento e acórdão novo dos processos TCU acompanhados.
+
+    State['tcu'] = {"sessoes": [tc|data|colegiado], "acordaos": {key: info do
+    acórdão reconhecido (o Monitor Regulatório mostra)}, "acordaos_em": ISO da
+    última consulta}. Sem state, só semeia (nada do que já existe alerta)."""
+    watch = _tcu_watch()
+    if not watch:
+        return 0
+    seed = not isinstance(state.get("tcu"), dict)
+    st = {} if seed else dict(state["tcu"])
+    sessoes = list(st.get("sessoes", []))
+    acordaos = dict(st.get("acordaos", {}))
+    msgs, falha = [], None
+
+    pauta = _load_json(str(TCU_PAUTA_FILE), {})
+    for w in watch:
+        for s in (pauta.get("processos") or {}).get(w["tc"], []):
+            uid = f"{w['tc']}|{s['data']}|{s.get('colegiado')}"
+            if uid in sessoes:
+                continue
+            sessoes.append(uid)
+            if seed:
+                continue
+            dia = f"{s['data'][8:10]}/{s['data'][5:7]}/{s['data'][:4]}"
+            msgs.append((f"⚖️ TCU · {w['apelido']}",
+                         f"Sessão de julgamento no {s.get('colegiado') or 'TCU'} em {dia}\n"
+                         f"TC {w['tc']}" + (f" · relator(a): {s['relator']}" if s.get("relator") else "")
+                         + "\nO acórdão aparece nos dados abertos do TCU alguns dias depois.", w["link"]))
+
+    # Acórdãos: de hora em hora (a lista de ~600 cobre ~10 dias de sessões). Ficam
+    # em semente até a 1ª leitura que DER CERTO: se o TCU recusar a conexão na
+    # 1ª run (acontece), o acórdão antigo não pode virar alerta na seguinte.
+    com_termos = [w for w in watch if w["termos"]]
+    seed_ac = seed or not st.get("acordaos_em")
+    if com_termos and (seed_ac or _horas_desde(st.get("acordaos_em")) >= 0.95):
+        try:
+            r = requests.get(TCU_ACORDAOS_API, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+            r.raise_for_status()
+            lista = r.json()
+            st["acordaos_em"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        except Exception as e:
+            lista, falha = [], f"acórdãos do TCU: {e}"
+        for a in lista:
+            key = a.get("key")
+            if not key or key in acordaos:
+                continue
+            texto = _sem_acento(f"{a.get('titulo') or ''} {a.get('sumario') or ''}")
+            w = next((w for w in com_termos if any(t in texto for t in w["termos"])), None)
+            if not w:
+                continue
+            acordaos[key] = {"tc": w["tc"], "titulo": a.get("titulo"), "numero": a.get("numeroAcordao"),
+                             "ano": a.get("anoAcordao"), "colegiado": a.get("colegiado"), "data": a.get("dataSessao"),
+                             "relator": (a.get("relator") or "").title(), "sumario": (a.get("sumario") or "")[:700],
+                             "url": a.get("urlAcordao"), "visto_em": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+            if seed_ac:
+                continue
+            msgs.append((f"⚖️ TCU · {w['apelido']}: Acórdão {a.get('numeroAcordao')}/{a.get('anoAcordao')} ({a.get('colegiado')})",
+                         f"Sessão de {a.get('dataSessao')} · relator(a): {(a.get('relator') or '').title()}\n"
+                         f"{(a.get('sumario') or '')[:450]}", a.get("urlAcordao") or w["link"]))
+
+    if not dry:
+        for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=link, tags=["scales"], equipe=True)
+    st.update(sessoes=sessoes[-300:], acordaos=acordaos)
+    state["tcu"] = st
+    print(f"[tcu] {len(watch)} processos, {len(sessoes)} sessões vistas, {len(acordaos)} acórdãos reconhecidos, "
+          f"{len(msgs)} alertas" + (" (seed silencioso)" if seed else ""))
+    if falha:  # sessão (acima) já foi tratada e guardada
+        raise FonteFora(falha)
+    return len(msgs)
+
+
 # ============== MAIN ==============
 # Consultas públicas / tomadas de subsídios, na ordem em que rodam. ANEEL:
 # listagem (PC) → DOU → notícia — se duas virem a mesma CP no ciclo, sai a
@@ -1213,6 +1328,8 @@ def main():
             print(f"[sei] falhou: {e}", file=sys.stderr)
         # Os mesmos processos pela pauta da Diretoria, sem o PC (a pedido, 21/10/2026).
         total += _fonte(state, "ANEEL · pauta (processos SEI)", alert_sei_pauta)
+        # Processos do TCU do projetos_watch.txt (Angra 3; a pedido, 10/11/2026).
+        total += _fonte(state, "TCU · sessões e acórdãos", alert_tcu)
     try:
         _avisa_fontes_cegas(state)
     except Exception as e:

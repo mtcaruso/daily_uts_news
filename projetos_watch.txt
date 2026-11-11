@@ -2,14 +2,17 @@
 # ficam no sei_watch.txt). Uma linha por projeto:
 #
 #   MME | nº da consulta pública | apelido
-#   TCU | nº do processo (TC) | apelido
+#   TCU | nº do processo (TC) | apelido | termos do acórdão; separados; por ponto e vírgula
 #
 # MME: prazo, documentos e contribuições enviadas, mesmo depois de fechada.
 # TCU: sessões de julgamento em que o processo entra em pauta (dados abertos do
 # TCU). Peças e andamentos do TCU não têm acesso automático (o site do TCU
 # bloqueia robôs): para recebê-los, use o Push do TCU na página do processo.
+# Alertas no Telegram: SÓ os processos do TCU (sessão de julgamento e acórdão
+# novo). O webservice de acórdãos não traz o nº do processo: o acórdão é
+# reconhecido pelos termos da 4ª coluna no sumário. As CPs do MME não alertam.
 # Para parar de acompanhar, apague a linha (ou comece com #).
 
 MME | 218 | Contabilização dupla no MCP e ofertas de quantidade
 MME | 233 | Renovação das outorgas de hidrelétricas (Lei 12.783)
-TCU | 023.368/2025-0 | Angra 3: futuro da usina (ENBPar e Eletronuclear)
+TCU | 023.368/2025-0 | Angra 3: futuro da usina (ENBPar e Eletronuclear) | angra 3; angra iii; eletronuclear; enbpar

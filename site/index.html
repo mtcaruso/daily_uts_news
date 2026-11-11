@@ -715,6 +715,16 @@ footer.foot p { margin: 0 0 4px; }
       "<div><b>" + (ss[0] ? dma(ss[0].data) : "—") + "</b><span>última sessão</span></div>" +
       "<div><b>" + esc(p.relator || "—") + "</b><span>relator(a)</span></div>" +
       "<div><b>" + (p.pauta_lida_em ? esc(quando(p.pauta_lida_em)) : "—") + "</b><span>pauta do TCU lida em</span></div></div>";
+    var acs = p.acordaos || [];
+    if (acs.length) {
+      h += '<div class="h3">Acórdãos</div><ul class="hist">' + acs.map(function (a) {
+        return '<li class="hi pauta"><span class="dt">' + dma(a.data) + '</span><span class="k">Acórdão</span><span><b>' +
+          linkExt(a.url, esc("Acórdão " + a.numero + "/" + a.ano)) + "</b> · " + esc(a.colegiado || "") +
+          (a.relator ? ' <span class="muted">· relator(a): ' + esc(a.relator) + "</span>" : "") +
+          '<br><span class="muted">' + esc(a.sumario || "") + "</span></span></li>";
+      }).join("") + "</ul>" +
+        '<p class="muted small" style="margin:4px 0 0">Acórdãos reconhecidos pelos termos do projeto no sumário (o serviço de acórdãos do TCU não traz o número do processo).</p>';
+    }
     h += '<div class="h3">Sessões de julgamento (dados abertos do TCU)</div>' +
       '<p class="muted small" style="margin:0 0 6px">O TCU registra a sessão nos dados abertos no dia em que ela acontece: o aviso chega no mesmo dia, não antes.</p>';
     if (!p.pauta_lida_em) {
@@ -785,7 +795,9 @@ footer.foot p { margin: 0 0 4px; }
         : { data: p.fim, txt: (p.n_contrib || 0) + " contribuições" };
     }
     if (tipoProj(p) === "TCU") {
-      return p.ultima ? { data: p.ultima.data, txt: "em pauta (" + (p.ultima.colegiado || "TCU") + ")" } : null;
+      var ac = p.ult_acordao, se = p.ultima;
+      if (ac && (!se || (ac.data || "") >= (se.data || ""))) return { data: ac.data, txt: "Acórdão " + ac.numero + "/" + ac.ano + " (" + (ac.colegiado || "") + ")" };
+      return se ? { data: se.data, txt: "sessão de julgamento (" + (se.colegiado || "TCU") + ")" } : null;
     }
     var d = (p.documentos || []).filter(function (x) { return !x.anexado && (x.protocolo || "").indexOf("/") < 0; })[0];
     var a = (p.andamentos || []).filter(function (x) { return !x.rotina; })[0];
@@ -839,7 +851,7 @@ footer.foot p { margin: 0 0 4px; }
       '<div class="sei-grid">' + ps.map(function (p) {
         var ult = ultimoItem(p);
         var recente = ult && ult.data && dias(ult.data, hj) <= 7;
-        var rotuloUlt = tipoProj(p) === "MME" ? "" : (tipoProj(p) === "TCU" ? "Última pauta " : "Último movimento ");
+        var rotuloUlt = tipoProj(p) === "MME" ? "" : "Último movimento ";
         return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '" style="--c:' + cor(tipoProj(p)) + '">' +
           '<span class="n">' + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" +
           '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +

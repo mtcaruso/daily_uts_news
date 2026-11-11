@@ -515,10 +515,12 @@ def projetos_mme(watch: list, hoje: str) -> list:
     return out
 
 
-def projetos_tcu(watch: list) -> list:
-    """Processos do TCU fixados: sessões em que entraram em pauta, do
-    tcu_pauta.json (dados abertos do TCU, filtrados 1x/dia pelo tcu_pauta.py)."""
+def projetos_tcu(watch: list, st_alertas: dict) -> list:
+    """Processos do TCU fixados: sessões de julgamento (tcu_pauta.json, dados
+    abertos do TCU filtrados pelo tcu_pauta.py) e acórdãos reconhecidos pelo
+    alerts.alert_tcu (alerts_state['tcu']['acordaos'])."""
     pauta = _json(TCU_PAUTA, {})
+    reconhecidos = ((st_alertas.get("tcu") or {}).get("acordaos") or {})
     out = []
     for w in watch:
         if w["tipo"] != "TCU":
@@ -535,6 +537,10 @@ def projetos_tcu(watch: list) -> list:
             "numero": f"TC {tc}", "link": TCU_LINK.format(int(dig)),
             "relator": ult.get("relator"), "tipo": ult.get("tipo"), "sessoes": sessoes,
             "pauta_lida_em": pauta.get("lido_em"),
+            "acordaos": sorted(({"key": k, "numero": a.get("numero"), "ano": a.get("ano"), "colegiado": a.get("colegiado"),
+                                 "data": _dmy(a.get("data")), "relator": a.get("relator"), "sumario": a.get("sumario"),
+                                 "url": a.get("url")} for k, a in reconhecidos.items() if a.get("tc") == tc),
+                               key=lambda a: a["data"] or "", reverse=True),
         })
     return out
 
@@ -548,7 +554,9 @@ def resumo_extra(p: dict, hoje: str) -> dict:
                 "n_contrib": len(c), "ult_contrib": ({"data": c[0]["data"], "instituicao": c[0]["instituicao"]} if c else None),
                 "tema": p["tema"]}
     prox = [s for s in p["sessoes"] if s["data"] >= hoje]
+    ac = (p.get("acordaos") or [None])[0]
     return {**base, "relator": p["relator"], "tipo": p["tipo"],
+            "ult_acordao": ({k: ac[k] for k in ("numero", "ano", "colegiado", "data")} if ac else None),
             "proxima": prox[-1] if prox else None,
             "ultima": next((s for s in p["sessoes"] if s["data"] < hoje), None),
             "pauta_lida_em": p["pauta_lida_em"]}
@@ -573,6 +581,10 @@ def candidatos_extra(extras: list, hoje: str, semente: bool, vistos: set) -> lis
                     e["_silencioso"] = True
                 evs.append(e)
         else:
+            for a in p.get("acordaos", []):
+                evs.append(_ev(f"tcuac|{a['key']}", a["data"], "TCU", "resultado",
+                               f"{p['apelido']}: Acórdão {a['numero']}/{a['ano']} ({a['colegiado']})",
+                               a.get("sumario") or "", a.get("url") or p["link"], ref))
             for s in p["sessoes"]:
                 futura = s["data"] >= hoje
                 quando = f"{s['data'][8:10]}/{s['data'][5:7]}"
@@ -805,7 +817,7 @@ def main():
         res = ler("Projetos MME", lambda: projetos_mme(watch, hoje)) if (fontes.get("MME") or {}).get("ok") else None
         extras += res if res is not None else [p for p in proj_prev if p.get("tipo_projeto") == "MME"]
     if any(w["tipo"] == "TCU" for w in watch):
-        extras += projetos_tcu(watch)
+        extras += projetos_tcu(watch, st_alertas)
         lida = _json(TCU_PAUTA, {}).get("lido_em")
         fontes["TCU"] = {"ok": bool(lida) and alerts._horas_desde(lida) <= 48, "lido_em": lida,
                          **({} if lida and alerts._horas_desde(lida) <= 48 else
