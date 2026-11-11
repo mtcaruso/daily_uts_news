@@ -1209,13 +1209,32 @@ def alert_tcu(state: dict, dry: bool) -> int:
     com_termos = [w for w in watch if w["termos"]]
     seed_ac = seed or not st.get("acordaos_em")
     if com_termos and (seed_ac or _horas_desde(st.get("acordaos_em")) >= 0.95):
-        try:
-            r = requests.get(TCU_ACORDAOS_API, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
-            r.raise_for_status()
-            lista = r.json()
-            st["acordaos_em"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
-        except Exception as e:
-            lista, falha = [], f"acórdãos do TCU: {e}"
+        # O webservice limita acessos por IP e o IP do Actions é compartilhado:
+        # HTTP 429 acontece (11/11/2026, 1ª run). 429 é passageiro: tenta de
+        # novo depois de 20s e, se persistir, só vira "fonte fora" após 24h sem
+        # leitura (a lista de 600 acórdãos cobre ~10 dias, então nada se perde).
+        lista, erro = [], None
+        for tentativa in range(2):
+            try:
+                r = requests.get(TCU_ACORDAOS_API, timeout=120, headers={"User-Agent": "Mozilla/5.0"})
+                r.raise_for_status()
+                lista, erro = r.json(), None
+                break
+            except Exception as e:
+                erro = e
+                if "429" not in str(e) or tentativa:
+                    break
+                time.sleep(20)
+        agora_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        if erro is None:
+            st["acordaos_em"] = agora_iso
+            st.pop("acordaos_falha_desde", None)
+        else:
+            desde = st.setdefault("acordaos_falha_desde", agora_iso)
+            if "429" in str(erro) and _horas_desde(desde) <= 24:
+                print(f"::warning::acórdãos do TCU: limite de acessos (429); tenta no próximo ciclo")
+            else:
+                falha = f"acórdãos do TCU: {erro}"
         for a in lista:
             key = a.get("key")
             if not key or key in acordaos:
