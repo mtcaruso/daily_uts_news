@@ -513,7 +513,7 @@ def ler_projetos_watch() -> list:
         if not linha or linha.startswith("#"):
             continue
         partes = [x.strip() for x in linha.split("|")]
-        if len(partes) >= 2 and partes[0].upper() in ("MME", "TCU", "ARSESP") and partes[1]:
+        if len(partes) >= 2 and partes[0].upper() in ("MME", "TCU", "ARSESP", "PROGRAMA") and partes[1]:
             out.append({"tipo": partes[0].upper(), "chave": partes[1], "apelido": partes[2] if len(partes) > 2 else ""})
     return out
 
@@ -621,9 +621,29 @@ def projetos_arsesp(watch: list) -> list:
     return out
 
 
+def projetos_programa(st_alertas: dict) -> list:
+    """Programas do projetos_watch.txt (UniversalizaSP): notícias oficiais da
+    Agência SP e da SEMIL coletadas pelo alerts.alert_programas (alerts_state
+    ['programas']) + consultas da ARSESP que citam o programa."""
+    out = []
+    for pg in alerts.programas_watch():
+        st = ((st_alertas.get("programas") or {}).get(pg["slug"]) or {})
+        arsesp = [{k: c.get(k) for k in ("id", "sigla", "numero", "tema", "situacao", "fim", "link")}
+                  for c in _ARSESP_TODAS.values() if pg["regex"].search(alerts._sem_acento(c.get("tema") or ""))]
+        out.append({"id": f"programa-{pg['slug']}", "tipo_projeto": "PROGRAMA", "apelido": pg["apelido"],
+                    "numero": "Programa do Governo de SP", "link": pg["link"], "resumo": pg["resumo"],
+                    "termos": pg["termos"], "noticias": st.get("itens") or [], "lido_em": st.get("lido_em"),
+                    "arsesp": arsesp})
+    return out
+
+
 def resumo_extra(p: dict, hoje: str) -> dict:
     """Cartão do topo para projeto MME/TCU (o completo vai no regulatorio_projetos.json)."""
     base = {k: p.get(k) for k in ("id", "tipo_projeto", "apelido", "numero", "link")}
+    if p["tipo_projeto"] == "PROGRAMA":
+        n = p["noticias"]
+        return {**base, "tema": p["resumo"], "n_noticias": len(n), "n_arsesp": len(p["arsesp"]),
+                "ult_noticia": ({"data": n[0]["data"], "titulo": n[0]["titulo"]} if n else None)}
     if p["tipo_projeto"] == "ARSESP":
         docs = [d for c in p["itens"] for d in c.get("docs", [])]
         cp = next((c for c in p["itens"] if c["sigla"] == "CP"), p["itens"][0])
@@ -663,6 +683,12 @@ def candidatos_extra(extras: list, hoje: str, semente: bool, vistos: set) -> lis
                 if nova and not x["data"]:
                     e["_silencioso"] = True
                 evs.append(e)
+        elif p["tipo_projeto"] == "PROGRAMA":
+            curto = p["apelido"].split(":")[0]
+            for n in p["noticias"]:
+                evs.append(_ev(f"prog|{ref}|{n['chave']}", n["data"], "SP", "noticia", f"{curto}: {n['titulo']}",
+                               " e ".join(l["fonte"] for l in n["links"]) + (f" · {n['resumo']}" if n.get("resumo") else ""),
+                               n["links"][0]["url"] if n.get("links") else p["link"], ref))
         elif p["tipo_projeto"] == "TCU":
             for a in p.get("acordaos", []):
                 evs.append(_ev(f"tcuac|{a['key']}", a["data"], "TCU", "resultado",
@@ -906,6 +932,8 @@ def main():
         fontes["TCU"] = {"ok": bool(lida) and alerts._horas_desde(lida) <= 48, "lido_em": lida,
                          **({} if lida and alerts._horas_desde(lida) <= 48 else
                             {"erro": "pauta do TCU sem leitura recente (dados abertos, 1x/dia)"})}
+    if any(w["tipo"] == "PROGRAMA" for w in watch):
+        extras += projetos_programa(st_alertas)
     if any(w["tipo"] == "ARSESP" for w in watch):
         extras += (projetos_arsesp(watch) if (fontes.get("ARSESP") or {}).get("ok")
                    else [p for p in proj_prev if p.get("tipo_projeto") == "ARSESP"])

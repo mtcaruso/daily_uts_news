@@ -12,7 +12,7 @@
   --bg: #f5f6f8; --panel: #fff; --ink: #111827; --muted: #5b6475; --faint: #8b93a1;
   --line: #e2e5ea; --hover: #f2f4f7; --focus: #2563eb;
   --urg: #dc2626; --soon: #c2410c; --ok: #16a34a; --warn: #d97706;
-  --aneel: #2563eb; --mme: #047857; --arsesp: #0e7490; --arsae: #7c3aed; --sei: #a16207; --tcu: #be185d;
+  --aneel: #2563eb; --mme: #047857; --arsesp: #0e7490; --arsae: #7c3aed; --sei: #a16207; --tcu: #be185d; --programa: #0f766e; --sp: #0f766e;
   --shadow: 0 1px 2px rgba(16,24,40,.05);
 }
 @media (prefers-color-scheme: dark) {
@@ -21,7 +21,7 @@
     --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
     --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
     --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
-    --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6;
+    --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6; --programa: #2dd4bf; --sp: #2dd4bf;
     --shadow: none;
   }
 }
@@ -30,7 +30,7 @@
   --bg: #0e1116; --panel: #161b22; --ink: #e6edf3; --muted: #9aa4b2; --faint: #6e7681;
   --line: #2a313b; --hover: #1c232c; --focus: #6ea8fe;
   --urg: #f87171; --soon: #fb923c; --ok: #3fb950; --warn: #e3b341;
-  --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6;
+  --aneel: #6ea8fe; --mme: #3ddc97; --arsesp: #38c7e6; --arsae: #b197fc; --sei: #e3b341; --tcu: #f472b6; --programa: #2dd4bf; --sp: #2dd4bf;
   --shadow: none;
 }
 * { box-sizing: border-box; }
@@ -277,7 +277,7 @@ footer.foot p { margin: 0 0 4px; }
   var SRC = params.get("src") || "https://raw.githubusercontent.com/mtcaruso/daily_uts_news/main/regulatorio.json";
   var ORGAOS = ["ANEEL", "MME", "ARSESP", "ARSAE", "SEI", "TCU"];
   var NOME_SITE = { ANEEL: "da ANEEL", MME: "do MME", ARSESP: "da ARSESP", ARSAE: "da ARSAE" };
-  var TIPOS = { aberta: "Nova", prazo: "Prazo", documento: "Documento", andamento: "Andamento", pauta: "Pauta", resultado: "Decisão", contribuicao: "Contribuição" };
+  var TIPOS = { aberta: "Nova", prazo: "Prazo", documento: "Documento", andamento: "Andamento", pauta: "Pauta", resultado: "Decisão", contribuicao: "Contribuição", noticia: "Notícia" };
   var FONTES = [["ANEEL", "ANEEL"], ["MME", "MME"], ["ARSESP", "ARSESP"], ["ARSAE", "ARSAE"], ["Pauta ANEEL", "Pauta"], ["SEI", "SEI"], ["TCU", "TCU"]];
   var DOW = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
 
@@ -510,7 +510,7 @@ footer.foot p { margin: 0 0 4px; }
         .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
       return s ? { data: s.data, reuniao: s.colegiado || "sessão", relator: s.relator, assunto: s.tipo || "" } : null;
     }
-    if (tipoProj(p) === "MME" || tipoProj(p) === "ARSESP") return null;
+    if (tipoProj(p) === "MME" || tipoProj(p) === "ARSESP" || tipoProj(p) === "PROGRAMA") return null;
     return (p.pauta || []).filter(function (x) { return x.data >= hj && !x.resultado; })
       .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
   }
@@ -524,6 +524,7 @@ footer.foot p { margin: 0 0 4px; }
 
   function ultimoMov(p) {
     if (tipoProj(p) === "ARSESP") return ((docsArsesp(p)[0] || {}).d || {}).data || null;
+    if (tipoProj(p) === "PROGRAMA") return ((p.noticias || [])[0] || {}).data || null;
     if (tipoProj(p) === "MME") {
       var c = (p.contribuicoes || []).map(function (x) { return x.data || ""; }).sort().pop();
       return c || p.fim || null;
@@ -551,7 +552,7 @@ footer.foot p { margin: 0 0 4px; }
     var recente = ult && dias(ult, hj) <= 7;
     var linha = pa
       ? '<span class="em-pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</span>"
-      : "<span>" + ({ MME: "Última contribuição ", ARSESP: "Último documento " }[tipoProj(p)] || "Último movimento ") + (ult ? dma(ult) : "—") + "</span>";
+      : "<span>" + ({ MME: "Última contribuição ", ARSESP: "Último documento ", PROGRAMA: "Última notícia " }[tipoProj(p)] || "Último movimento ") + (ult ? dma(ult) : "—") + "</span>";
     return '<button type="button" class="proj-item" data-proj="' + esc(p.id) + '" aria-current="' + !!(sel && sel.id === p.id) + '">' +
       "<b>" + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
       "<span>" + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" + linha + "</button>";
@@ -794,7 +795,49 @@ footer.foot p { margin: 0 0 4px; }
     return h;
   }
 
+  // --- PROGRAMA (UniversalizaSP): notícias oficiais + consultas da ARSESP ---
+  function detalhePrograma(p, hj) {
+    var ns = p.noticias || [], ar = p.arsesp || [];
+    var h = cabecalhoProjeto(p, "Página oficial (SPI)", ["Programa do Governo de SP", "busca: " + (p.termos || []).join(", ")]);
+    if (p.resumo) h += '<p class="tema-proj">' + esc(p.resumo) + "</p>";
+    h += '<p class="aviso" style="margin-top:14px">A página oficial do programa (Secretaria de Parcerias em Investimentos) bloqueia leitura automática: ' +
+      "cronograma, edital e sala de dados ficam no botão acima. As notícias abaixo vêm da Agência SP e da SEMIL, conferidas de hora em hora, com alerta no Telegram quando sai uma nova.</p>";
+    h += '<div class="proj-stats">' +
+      "<div><b>" + ns.length + "</b><span>notícias oficiais</span></div>" +
+      "<div><b>" + (ns[0] ? dma(ns[0].data) : "—") + "</b><span>última notícia</span></div>" +
+      "<div><b>" + ar.length + "</b><span>consultas da ARSESP</span></div>" +
+      "<div><b>" + (p.lido_em ? esc(quando(p.lido_em)) : "—") + "</b><span>notícias conferidas em</span></div></div>";
+    if (ar.length) {
+      h += '<div class="h3">Consultas da ARSESP sobre o programa</div><ul class="hist">' + ar.map(function (c) {
+        return '<li class="hi doc"><span class="dt">' + (c.fim ? dm(c.fim) : "—") + '</span><span class="k">' + esc(c.sigla) + "</span><span>" +
+          linkExt(c.link, esc(c.sigla + " " + c.numero)) + ' <span class="muted">· ' + esc(c.situacao || "") + " · " + esc(c.tema || "") + "</span></span></li>";
+      }).join("") + "</ul>";
+    }
+    h += '<div class="h3">Notícias oficiais</div>';
+    if (!ns.length) {
+      h += '<p class="vazio" style="padding-left:0">' + (p.lido_em ? "Nenhuma notícia com o nome do programa." : "As notícias ainda não foram lidas (conferidas de hora em hora).") + "</p>";
+      return h;
+    }
+    var mes = null, lista = "";
+    ns.forEach(function (n) {
+      var m = (n.data || "").slice(0, 7);
+      if (m !== mes) {
+        if (mes !== null) lista += "</ul>";
+        mes = m;
+        var rot = m ? MES.format(new Date(m + "-15T12:00:00Z")) : "sem data";
+        lista += '<div class="hist-mes">' + esc(rot.charAt(0).toUpperCase() + rot.slice(1)) + '</div><ul class="hist">';
+      }
+      var u = (n.links || [])[0];
+      lista += '<li class="hi"><span class="dt">' + (n.data ? dm(n.data) : "—") + '</span><span class="k">' +
+        esc((n.links || []).map(function (l) { return l.fonte; }).join(" · ")) + "</span><span>" +
+        (u ? linkExt(u.url, "<b>" + esc(n.titulo) + "</b>") : "<b>" + esc(n.titulo) + "</b>") +
+        (n.resumo ? '<br><span class="muted small">' + esc(n.resumo) + "</span>" : "") + "</span></li>";
+    });
+    return h + lista + "</ul>";
+  }
+
   function detalheProjeto(p, hj) {
+    if (tipoProj(p) === "PROGRAMA") return detalhePrograma(p, hj);
     if (tipoProj(p) === "ARSESP") return detalheARSESP(p, hj);
     if (tipoProj(p) === "MME") return detalheMME(p, hj);
     if (tipoProj(p) === "TCU") return detalheTCU(p, hj);
@@ -846,6 +889,7 @@ footer.foot p { margin: 0 0 4px; }
   function ultimoItem(p) {
     // SEI: o mais recente entre documento (sem processo anexado) e andamento fora da rotina.
     if (tipoProj(p) === "ARSESP") return p.ult_doc ? { data: p.ult_doc, txt: p.n_docs + " documentos" } : null;
+    if (tipoProj(p) === "PROGRAMA") return p.ult_noticia ? { data: p.ult_noticia.data, txt: p.ult_noticia.titulo } : null;
     if (tipoProj(p) === "MME") {
       return p.ult_contrib ? { data: p.ult_contrib.data, txt: p.n_contrib + " contribuições · última: " + p.ult_contrib.instituicao }
         : { data: p.fim, txt: (p.n_contrib || 0) + " contribuições" };
@@ -869,6 +913,9 @@ footer.foot p { margin: 0 0 4px; }
       var onde = tipoProj(p) === "TCU" ? "Na pauta do " + pa.reuniao + " de " + dm(pa.data)
         : (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + pa.reuniao;
       return '<span class="st pauta">' + esc(onde) + "</span>";
+    }
+    if (tipoProj(p) === "PROGRAMA") {
+      return '<span class="st">' + (p.n_noticias || 0) + " notícias oficiais" + (p.n_arsesp ? " · " + p.n_arsesp + " consultas ARSESP" : "") + "</span>";
     }
     if (tipoProj(p) === "ARSESP") {
       var txt = p.situacao === "aberta" && p.fim
@@ -915,13 +962,14 @@ footer.foot p { margin: 0 0 4px; }
       '<div class="sei-grid">' + ps.map(function (p) {
         var ult = ultimoItem(p);
         var recente = ult && ult.data && dias(ult.data, hj) <= 7;
-        var rotuloUlt = tipoProj(p) === "MME" ? "" : (tipoProj(p) === "ARSESP" ? "Último documento " : "Último movimento ");
+        var rotuloUlt = { MME: "", ARSESP: "Último documento ", PROGRAMA: "Última notícia " }[tipoProj(p)];
+        if (rotuloUlt == null) rotuloUlt = "Último movimento ";
         return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '" style="--c:' + cor(tipoProj(p)) + '">' +
           '<span class="n">' + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" +
           '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
           linhaStatus(p, hj) +
           (ult && (ult.data || ult.txt) ? '<span class="ult">' + rotuloUlt + (ult.data && tipoProj(p) !== "MME" ? dma(ult.data) + " · " : "") + esc(ult.txt) + "</span>" : "") +
-          '<span class="ir">Ver ' + ({ MME: "contribuições", TCU: "sessões", ARSESP: "documentos" }[tipoProj(p)] || "histórico completo") + " →</span></button>";
+          '<span class="ir">Ver ' + ({ MME: "contribuições", TCU: "sessões", ARSESP: "documentos", PROGRAMA: "notícias" }[tipoProj(p)] || "histórico completo") + " →</span></button>";
       }).join("") + "</div></div>";
     el.innerHTML = h;
   }

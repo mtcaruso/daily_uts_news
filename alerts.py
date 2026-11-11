@@ -1281,6 +1281,118 @@ def alert_tcu(state: dict, dry: bool) -> int:
     return len(msgs)
 
 
+# ============== PROGRAMAS (projetos_watch.txt: PROGRAMA | termos | …) ==============
+# A pedido (11/11/2026): UniversalizaSP, os novos blocos de saneamento em SP. A
+# página oficial (Secretaria de Parcerias, SPI) tem Incapsula e bloqueia robôs;
+# as notícias oficiais da Agência SP e da SEMIL têm a API do WordPress aberta.
+# Busca de hora em hora pelos termos; entra a notícia com o nome do programa no
+# título/resumo ou citado 2+ vezes no texto (só "universalização" ou 1 menção de
+# passagem = ruído, medido em 11/11/2026). Agenda do dia da SEMIL fica de fora.
+PROGRAMA_FONTES = {"Agência SP": "https://www.agenciasp.sp.gov.br/wp-json/wp/v2/posts",
+                   "SEMIL": "https://semil.sp.gov.br/wp-json/wp/v2/posts"}
+_AGENDA_DIA = re.compile(r"^(segunda|ter[çc]a|quarta|quinta|sexta)-feira|^s[áa]bado|^domingo", re.IGNORECASE)
+
+
+def _txt_html(s: str) -> str:
+    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", s or "")).split())
+
+
+def programas_watch() -> list:
+    """[{slug, termos, regex, apelido, link, resumo}] das linhas
+    'PROGRAMA | termo; termo | apelido | link oficial | resumo'."""
+    try:
+        linhas = Path("projetos_watch.txt").read_text(encoding="utf-8").splitlines()
+    except OSError:
+        return []
+    out = []
+    for linha in linhas:
+        partes = [x.strip() for x in linha.split("|")]
+        if linha.lstrip().startswith("#") or len(partes) < 3 or partes[0].upper() != "PROGRAMA":
+            continue
+        termos = [t.strip() for t in partes[1].split(";") if t.strip()]
+        if not termos:
+            continue
+        # "Universaliza SP" casa UniversalizaSP, Universaliza SP e Universaliza-SP.
+        rx = re.compile("|".join(r"\b" + r"[\s-]*".join(map(re.escape, _sem_acento(t).split())) + r"\b" for t in termos))
+        out.append({"slug": re.sub(r"[^a-z0-9]+", "-", _sem_acento(partes[2]).split(":")[0]).strip("-"),
+                    "termos": termos, "regex": rx, "apelido": partes[2],
+                    "link": partes[3] if len(partes) > 3 else "", "resumo": partes[4] if len(partes) > 4 else ""})
+    return out
+
+
+def _chave_titulo(t: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", _sem_acento(t))[:70].strip()
+
+
+def alert_programas(state: dict, dry: bool) -> int:
+    """Notícia oficial nova (Agência SP / SEMIL) dos programas do projetos_watch.txt.
+    State['programas'][slug] = {"itens": [notícias, a mais nova primeiro],
+    "vistos": [chaves], "lido_em"}; o Monitor Regulatório lê os itens daqui.
+    Mesma notícia nas duas fontes = 1 item (chave = título normalizado)."""
+    progs = programas_watch()
+    if not progs:
+        return 0
+    todos = state.setdefault("programas", {})
+    msgs, falhas = [], []
+    for pg in progs:
+        st = todos.get(pg["slug"])
+        seed = not isinstance(st, dict)
+        st = {} if seed else dict(st)
+        if not seed and _horas_desde(st.get("lido_em")) < 0.95:
+            continue  # de hora em hora
+        achados, ok = {}, 0
+        for fonte, api in PROGRAMA_FONTES.items():
+            try:
+                for termo in pg["termos"]:
+                    r = requests.get(api, params={"search": termo, "per_page": 20, "_fields": "date,link,title,excerpt,content"},
+                                     timeout=60, headers={"User-Agent": "Mozilla/5.0"})
+                    r.raise_for_status()
+                    for p in r.json():
+                        titulo = _txt_html(p["title"]["rendered"])
+                        resumo = _txt_html(p["excerpt"]["rendered"])
+                        n = len(pg["regex"].findall(_sem_acento(_txt_html(p["content"]["rendered"]))))
+                        if _AGENDA_DIA.match(titulo) or not (pg["regex"].search(_sem_acento(f"{titulo} {resumo}")) or n >= 2):
+                            continue
+                        k = _chave_titulo(titulo)
+                        it = achados.setdefault(k, {"chave": k, "titulo": titulo, "data": p["date"][:10],
+                                                    "resumo": resumo[:400], "links": []})
+                        if not any(l["url"] == p["link"] for l in it["links"]):
+                            it["links"].append({"fonte": fonte, "url": p["link"]})
+                        it["data"] = min(it["data"], p["date"][:10])
+                ok += 1
+            except Exception as e:
+                falhas.append(f"{fonte}: {e}")
+        if not ok:
+            continue  # as duas fontes fora: tenta no próximo ciclo
+        anteriores = {i["chave"]: i for i in st.get("itens", [])}
+        vistos = set(st.get("vistos", []))
+        for k, it in achados.items():
+            if k in anteriores:  # junta fontes novas da mesma notícia
+                for l in it["links"]:
+                    if not any(x["url"] == l["url"] for x in anteriores[k]["links"]):
+                        anteriores[k]["links"].append(l)
+            else:
+                anteriores[k] = it
+            if k in vistos:
+                continue
+            vistos.add(k)
+            if not seed:
+                msgs.append((f"🏗️ {pg['apelido']}", f"{it['titulo']}\n{' e '.join(l['fonte'] for l in it['links'])} · "
+                             f"{it['data'][8:10]}/{it['data'][5:7]}", it["links"][0]["url"]))
+        itens = sorted(anteriores.values(), key=lambda i: i["data"], reverse=True)[:80]
+        todos[pg["slug"]] = {"itens": itens, "vistos": sorted(vistos)[-500:],
+                             "lido_em": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                             "apelido": pg["apelido"]}
+        print(f"[programas] {pg['slug']}: {len(achados)} notícias lidas, {len(itens)} guardadas"
+              + (" (seed silencioso)" if seed else ""))
+    if not dry:
+        for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
+            notify.send(title, body, click=link, tags=["building_construction"], equipe=True)
+    if falhas and len(falhas) >= len(PROGRAMA_FONTES):
+        raise FonteFora("; ".join(falhas)[:200])
+    return len(msgs)
+
+
 # ============== MAIN ==============
 # Consultas públicas / tomadas de subsídios, na ordem em que rodam. ANEEL:
 # listagem (PC) → DOU → notícia — se duas virem a mesma CP no ciclo, sai a
@@ -1365,6 +1477,8 @@ def main():
         total += _fonte(state, "ANEEL · pauta (processos SEI)", alert_sei_pauta)
         # Processos do TCU do projetos_watch.txt (Angra 3; a pedido, 10/11/2026).
         total += _fonte(state, "TCU · sessões e acórdãos", alert_tcu)
+        # Programas (UniversalizaSP): notícias oficiais da Agência SP e da SEMIL.
+        total += _fonte(state, "Programas · notícias oficiais SP", alert_programas)
     try:
         _avisa_fontes_cegas(state)
     except Exception as e:

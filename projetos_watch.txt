@@ -3,6 +3,7 @@
 #
 #   MME | nº da consulta pública | apelido
 #   ARSESP | CP 17/2026; AP 07/2026 | apelido   (vários itens do mesmo tema = um projeto)
+#   PROGRAMA | termo; termo | apelido | link oficial | resumo   (notícias oficiais da Agência SP e da SEMIL)
 #   TCU | nº do processo (TC) | apelido | termos do acórdão; separados; por ponto e vírgula
 #
 # MME: prazo, documentos e contribuições enviadas, mesmo depois de fechada.
@@ -19,3 +20,4 @@ MME | 218 | Contabilização dupla no MCP e ofertas de quantidade
 MME | 233 | Renovação das outorgas de hidrelétricas (Lei 12.783)
 TCU | 023.368/2025-0 | Angra 3: futuro da usina (ENBPar e Eletronuclear) | angra 3; angra iii; eletronuclear; enbpar
 ARSESP | CP 17/2026; AP 07/2026 | Fator X do saneamento (Sabesp, ação regulatória FSR-03)
+PROGRAMA | UniversalizaSP; Universaliza SP; URAE 2 | UniversalizaSP: novos blocos de saneamento em SP | https://www.parceriaseminvestimentos.sp.gov.br/sec-parcerias-investimentos/projetos/projetos-qualificados/universalizasp | Concessão regionalizada de água e esgoto para os municípios fora da URAE 1 (Sabesp): 146 municípios em blocos por bacia hidrográfica (a definir), 33 anos, coordenação da SPI e da SEMIL. Consulta pública SPI-005/2026 encerrada em 12/06/2026; edital e leilão previstos para o 2º semestre de 2026.
