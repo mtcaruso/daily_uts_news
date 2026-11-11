@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-11-11T09:40:06-03:00",
+ "gerado_em": "2026-11-11T09:44:47-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00",
-   "listagem_pc": "2026-11-11T09:02:49.112290-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00",
+   "listagem_pc": "2026-11-11T09:32:25.078986-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00"
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-11T09:03:48.190563-03:00"
+   "lido_em": "2026-11-11T09:32:51.210570-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:40:06-03:00"
+   "lido_em": "2026-11-11T09:44:47-03:00"
   },
   "TCU": {
    "ok": true,
-   "lido_em": "2026-11-11T09:00:29-03:00"
+   "lido_em": "2026-11-11T09:43:31-03:00"
   }
  },
  "consultas": [
@@ -992,7 +992,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-11T09:03:00.960897-03:00",
+   "lido_em": "2026-11-11T09:32:28.473124-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -1268,7 +1268,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-11T09:03:11.527161-03:00",
+   "lido_em": "2026-11-11T09:32:30.900159-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1490,7 +1490,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-11T09:03:22.117672-03:00",
+   "lido_em": "2026-11-11T09:32:33.366688-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1694,7 +1694,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-11T09:03:33.486840-03:00",
+   "lido_em": "2026-11-11T09:32:36.557506-03:00",
    "documentos": [
     {
      "data": "2026-10-22",
@@ -1970,7 +1970,7 @@
    "numero": "48500.007946/2026-30",
    "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
-   "lido_em": "2026-11-11T09:03:36.123128-03:00",
+   "lido_em": "2026-11-11T09:32:39.195351-03:00",
    "documentos": [
     {
      "data": "2026-10-29",
@@ -2192,7 +2192,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-11T09:03:48.190563-03:00",
+   "lido_em": "2026-11-11T09:32:51.210570-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2763,7 +2763,7 @@
     "tipo": "Relatório de acompanhamento",
     "natureza": "CONTROLE EXTERNO"
    },
-   "pauta_lida_em": "2026-11-11T09:00:29-03:00"
+   "pauta_lida_em": "2026-11-11T09:43:31-03:00"
   },
   {
    "id": "arsesp-proj-cp-17-2026-ap-07-2026",
