@@ -954,6 +954,11 @@ def main():
     cands = candidatos(consultas + arsae_todas + mme_fixadas + arsesp_fixadas, processos, aberturas, prev, hoje, semente, set(vistos))
     cands += candidatos_extra(extras, hoje, semente, set(vistos))
     eventos, vistos, n_novos = atualiza_eventos(cands, prev.get("eventos", []), vistos, hoje, semente, momento)
+    # Processo que saiu do sei_watch.txt sai também da linha do tempo (a pedido,
+    # 11/11/2026: Reajuste RAP 2026). As chaves ficam em "vistos": se o processo
+    # voltar, o histórico antigo não vira novidade.
+    ids_sei = {f"sei:{p['id']}" for p in processos}
+    eventos = [e for e in eventos if not (e.get("ref") or "").startswith("sei:") or e["ref"] in ids_sei]
     consultas += [c for c in arsae_todas if c["situacao"] == "em andamento"]
 
     # State (vistos + cache da ARSAE) sempre que mudar; o JSON do site, abaixo.
