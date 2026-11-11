@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-11T09:04:28-03:00",
+ "gerado_em": "2026-11-11T09:19:41-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:04:28-03:00",
-   "listagem_pc": "2026-11-11T02:58:05.832189-03:00"
+   "lido_em": "2026-11-11T09:19:41-03:00",
+   "listagem_pc": "2026-11-11T09:02:49.112290-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:04:28-03:00"
+   "lido_em": "2026-11-11T09:19:41-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T09:04:28-03:00"
+   "lido_em": "2026-11-11T09:19:41-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T09:04:28-03:00"
+   "lido_em": "2026-11-11T09:19:41-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -26,11 +26,11 @@
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-10T17:33:30.090229-03:00"
+   "lido_em": "2026-11-11T09:03:48.190563-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:04:28-03:00"
+   "lido_em": "2026-11-11T09:19:41-03:00"
   },
   "TCU": {
    "ok": true,
@@ -994,7 +994,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-10T17:32:55.752387-03:00",
+   "lido_em": "2026-11-11T09:03:00.960897-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -1198,7 +1198,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-10T17:33:01.258092-03:00",
+   "lido_em": "2026-11-11T09:03:11.527161-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1383,7 +1383,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-10T17:33:14.047389-03:00",
+   "lido_em": "2026-11-11T09:03:22.117672-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1568,7 +1568,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-10T17:33:17.410027-03:00",
+   "lido_em": "2026-11-11T09:03:33.486840-03:00",
    "documentos": [
     {
      "data": "2026-10-22",
@@ -1753,7 +1753,7 @@
    "numero": "48500.007946/2026-30",
    "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boq4g90sgn4fNm91NKA7j_2AysnFVfndD2kOoH-cRcPkUT",
-   "lido_em": "2026-11-10T17:33:23.154349-03:00",
+   "lido_em": "2026-11-11T09:03:36.123128-03:00",
    "documentos": [
     {
      "data": "2026-10-29",
@@ -1948,7 +1948,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-10T17:33:30.090229-03:00",
+   "lido_em": "2026-11-11T09:03:48.190563-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2179,7 +2179,12 @@
    "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
    "relator": "Benjamin Zymler",
    "tipo": "Relatório de acompanhamento",
-   "ult_acordao": null,
+   "ult_acordao": {
+    "numero": "2908",
+    "ano": "2026",
+    "colegiado": "Plenário",
+    "data": "2026-10-21"
+   },
    "proxima": null,
    "ultima": {
     "data": "2026-10-21",
@@ -2504,6 +2509,18 @@
    "link": "https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/remote-store/exibir/link/05232ca3-9ed3-4238-a408-1a23b69f5077",
    "ref": "mme-cp-233",
    "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
+   "uid": "73af4cf6b03f",
+   "dia": "2026-10-21",
+   "hora": null,
+   "orgao": "TCU",
+   "tipo": "resultado",
+   "titulo": "Angra 3: futuro da usina (ENBPar e Eletronuclear): Acórdão 2908/2026 (Plenário)",
+   "detalhe": "ACOMPANHAMENTO DE ASPECTOS MACROFISCAIS, ORÇAMENTÁRIOS E DE GESTÃO DAS INDÚSTRIAS NUCLEARES DO BRASIL S.A. (INB), DA EMPRESA BRASILEIRA DE PARTICIPAÇÕES EM ENERGIA NUCLEAR E BINACIONAL S.A. (ENBPAR) E DA ELETRONUCLEAR S. A. (ETN). FRAGILIDADES ECONÔMICA E FINANCEIRA DA ELETRONUCLEAR. REFLEXOS DA PARALISAÇÃO DAS OBRAS DE ANGRA 3 E DA FALTA DE DECISÃO DO CONSELHO NACIONAL DE POLÍTICA ENERGÉTICA (CNPE) SOBRE A TARIFA E A AUTORIZAÇÃO DA OUTORGA DESSA USINA. IMPACTOS NA INB, PRODUTORA E FORNECEDORA EXCLUSIVA DO COMBUSTÍVEL NUCLEAR PARA ANGRA 1 E 2. REFLEXOS NEGATIVOS NA CONTROLADORA ENBPAR. PARTICIPAÇÃO DA ENBPAR EM ITAIPU BINACIONAL MANTÉM O RESULTADO POSITIVO DO CONJUNTO DAS EMPRESAS. TRAJETÓRI",
+   "link": "https://contas.tcu.gov.br/pesquisaJurisprudencia/#/detalhamento/11/*/KEY:%22ACORDAO-COMPLETO-2782458%22/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/false/1/false",
+   "ref": "tcu-02336820250",
+   "visto_em": "2026-11-11T09:19:41-03:00"
   },
   {
    "uid": "fda8a55a2142",
