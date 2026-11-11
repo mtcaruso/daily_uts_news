@@ -1,38 +1,38 @@
 {
- "gerado_em": "2026-11-11T14:55:42-03:00",
+ "gerado_em": "2026-11-11T15:11:23-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00",
-   "listagem_pc": "2026-11-11T14:52:48.548889-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00",
+   "listagem_pc": "2026-11-11T14:52:47.399151-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00"
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-11T09:32:51.210570-03:00"
+   "lido_em": "2026-11-11T14:53:23.070873-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:55:42-03:00"
+   "lido_em": "2026-11-11T15:11:23-03:00"
   },
   "TCU": {
    "ok": true,
-   "lido_em": "2026-11-11T10:52:40-03:00"
+   "lido_em": "2026-11-11T14:58:49-03:00"
   }
  },
  "consultas": [
@@ -1010,7 +1010,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-11T09:32:28.473124-03:00",
+   "lido_em": "2026-11-11T14:53:06.691941-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -1287,7 +1287,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-11T09:32:30.900159-03:00",
+   "lido_em": "2026-11-11T14:53:10.264198-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1510,7 +1510,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-11T09:32:33.366688-03:00",
+   "lido_em": "2026-11-11T14:53:12.747760-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1715,7 +1715,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-11T09:32:36.557506-03:00",
+   "lido_em": "2026-11-11T14:53:16.429496-03:00",
    "documentos": [
     {
      "data": "2026-10-22",
@@ -1992,7 +1992,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-11T09:32:51.210570-03:00",
+   "lido_em": "2026-11-11T14:53:20.705347-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2428,15 +2428,179 @@
   {
    "id": "sei_f5531bb8f1",
    "apelido": "Perdas na distribuição: regulação (NT 189/2026 STD)",
-   "numero": null,
-   "tipo": null,
+   "numero": "48500.906028/2021-89",
+   "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": null,
-   "documentos": [],
-   "andamentos": [],
+   "lido_em": "2026-11-11T14:53:23.070873-03:00",
+   "documentos": [
+    {
+     "data": "2026-11-09",
+     "tipo": "Despacho de Distribuição de Processo",
+     "unidade": "SGE -SORTEIO",
+     "unidade_nome": "(Somente encaminhamento de processos para sorteio de Diretor-Relator)",
+     "protocolo": "0502251",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM1o6JXMJwPF9do63cVi9ct84Y3LvyeRtHUMPjKAR_M3n33oygLvPBvOXCD1BgIi-z79fF3RYthcOlWxHMrBm6a",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-03",
+     "tipo": "Requerimento de Distribuição de Processo",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0497230",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPVaL_XUVopTcEu9wE7BJPUQeDGd_OWQQwiFW7Ok3YuxtBDcSMb1lxfy8fMeZ82O-ZD4wdm7yIDo9xxl4B9slTy",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-29",
+     "tipo": "Nota Técnica 189",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0495890",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMXFJawOCR8Fl9_bqHaGE2jyWYZEwi0vX3bFD5-A_1JWn-gkeFh4yGC5jVbqYrSywtffsDyRrQIveO520m14lzu",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-29",
+     "tipo": "Relatório de Análise de Impacto Regulatório 8",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0495913",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMHx9_IIj_PZ87v6ZwFeNUJ0tzGNxJwQoRfIntHIAnPItH5_DodJMjWjr4r0UHAsJhcL72D4pnPCQ5tNvY5kbl1",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "Anexo I",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0495982",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNPDW73X-CIcInlzvNkR9RQH2EctaXgnwAi9QW9-6IVoPg4hAarGbbo_l_m0YARmfzxIaymbUQNQqmlYYPDh9EZ",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "Anexo II",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0495986",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMp1JsYOa2xPqWhSdN0ShJjo1g4GCga3RpAaxdUPjpzfBztjsZQK-qoY3H0EqzgYF4DlsAdLd_vRZQNSaHenH2w",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "Anexo III",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0496001",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPaOLt8FH_lts5jg6rkyyjV5ff36Zy41AV-REkgChse5boRw1vXljNWNddj6ouoOEjlOnxhzw5ZbXacAXudgvjO",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "Anexo IV",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0496024",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNyoXkQs2iICOjpjYT7A8RR1AOC5tMPOlyInccBanXeWQ4bjCdPtjpHiWmmnnOXszL-E9uMvnHvc70z4AYxetD3",
+     "anexado": false
+    },
+    {
+     "data": "2026-10-28",
+     "tipo": "Anexo V",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0496030",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOcKE78bdlIfoXOgQVE0CvAQj5JjXosbDr9Y3s78PhwI9WxlqrhQaEeYmstm521HBc4gwhNxNOzK9ga_tFYQ-Vu",
+     "anexado": false
+    },
+    {
+     "data": "2025-01-17",
+     "tipo": "Termo de Migração",
+     "unidade": "STD",
+     "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica",
+     "protocolo": "0001954",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?e4EEOAhfYiaalB_6xF7WDlYE8ADR7x4hMaCMmofngI3Rt9qZmJu_zY5DwLuCOa7ZqEPDfTnJCVjqdXHLW37qHqGMkD1mxDd-BQF6tYSAySi6FkhiGF02ruZiZM9ntsYB",
+     "anexado": false
+    }
+   ],
+   "andamentos": [
+    {
+     "data": "2026-11-09",
+     "hora": "11:24",
+     "unidade": "GAB III - LLS",
+     "descricao": "Processo recebido na unidade",
+     "hash": "f570b0ca1f17",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-09",
+     "hora": "11:08",
+     "unidade": "GAB - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "4e7150ce3982",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-09",
+     "hora": "11:08",
+     "unidade": "GAB - APOIO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "340acc5cdbe0",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-09",
+     "hora": "10:39",
+     "unidade": "GAB - APOIO",
+     "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+     "hash": "b26c6258072f",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-09",
+     "hora": "10:39",
+     "unidade": "GAB III - LLS",
+     "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+     "hash": "42e26ac3353c",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-03",
+     "hora": "15:51",
+     "unidade": "SGE -SORTEIO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "424f44fa9cb7",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-03",
+     "hora": "15:24",
+     "unidade": "SGE -SORTEIO",
+     "descricao": "Processo remetido pela unidade STD",
+     "hash": "166883b9d6ef",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-03",
+     "hora": "15:24",
+     "unidade": "STD",
+     "descricao": "Solicito a distribuição do seguinte processo na 44ª Sessão Pública Ordinária de Distribuição de Processos, de 9 novembro de 2026.",
+     "hash": "dcb4758ee244",
+     "rotina": false
+    },
+    {
+     "data": "2024-12-11",
+     "hora": "22:57",
+     "unidade": "STD",
+     "descricao": "Processo público gerado (autuado em 30/11/2021)",
+     "hash": "b5dca3c13580",
+     "rotina": true
+    }
+   ],
    "pauta": [],
-   "n_documentos": null,
-   "n_andamentos": null,
+   "n_documentos": 10,
+   "n_andamentos": 9,
    "grupo": "Distribuição"
   },
   {
@@ -2573,7 +2737,7 @@
     "tipo": "Relatório de acompanhamento",
     "natureza": "CONTROLE EXTERNO"
    },
-   "pauta_lida_em": "2026-11-11T10:52:40-03:00"
+   "pauta_lida_em": "2026-11-11T14:58:49-03:00"
   },
   {
    "id": "programa-universalizasp",
@@ -2646,6 +2810,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "fd5d180c2536",
+   "dia": "2026-11-09",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas na distribuição: regulação (NT 189/2026 STD): Despacho de Distribuição de Processo",
+   "detalhe": "SGE -SORTEIO · 48500.906028/2021-89",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM1o6JXMJwPF9do63cVi9ct84Y3LvyeRtHUMPjKAR_M3n33oygLvPBvOXCD1BgIi-z79fF3RYthcOlWxHMrBm6a",
+   "ref": "sei:sei_f5531bb8f1",
+   "visto_em": "2026-11-11T15:11:23-03:00"
+  },
+  {
    "uid": "aa9919d01087",
    "dia": "2026-11-09",
    "hora": null,
@@ -2706,6 +2882,30 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "edc6ae75da5a",
+   "dia": "2026-11-03",
+   "hora": "15:24",
+   "orgao": "SEI",
+   "tipo": "andamento",
+   "titulo": "Perdas na distribuição: regulação (NT 189/2026 STD): andamento",
+   "detalhe": "STD: Solicito a distribuição do seguinte processo na 44ª Sessão Pública Ordinária de Distribuição de Processos, de 9 novembro de 2026.",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
+   "ref": "sei:sei_f5531bb8f1",
+   "visto_em": "2026-11-11T15:11:23-03:00"
+  },
+  {
+   "uid": "c374e94f4967",
+   "dia": "2026-11-03",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas na distribuição: regulação (NT 189/2026 STD): Requerimento de Distribuição de Processo",
+   "detalhe": "STD · 48500.906028/2021-89",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPVaL_XUVopTcEu9wE7BJPUQeDGd_OWQQwiFW7Ok3YuxtBDcSMb1lxfy8fMeZ82O-ZD4wdm7yIDo9xxl4B9slTy",
+   "ref": "sei:sei_f5531bb8f1",
+   "visto_em": "2026-11-11T15:11:23-03:00"
+  },
+  {
    "uid": "062e0128061b",
    "dia": "2026-10-30",
    "hora": "21:06",
@@ -2728,6 +2928,18 @@
    "link": "https://consultas-publicas.mme.gov.br/",
    "ref": "mme-cp-233",
    "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
+   "uid": "cf0ddad967b1",
+   "dia": "2026-10-29",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas na distribuição: regulação (NT 189/2026 STD): 2 documentos novos",
+   "detalhe": "Nota Técnica 189 (STD) · Relatório de Análise de Impacto Regulatório 8 (STD)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
+   "ref": "sei:sei_f5531bb8f1",
+   "visto_em": "2026-11-11T15:11:23-03:00"
   },
   {
    "uid": "03c91d5ceeaa",
@@ -2800,6 +3012,18 @@
    "link": "https://consultas-publicas.mme.gov.br/",
    "ref": "mme-cp-233",
    "visto_em": "2026-11-10T17:51:39-03:00"
+  },
+  {
+   "uid": "1b963df38ca2",
+   "dia": "2026-10-28",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas na distribuição: regulação (NT 189/2026 STD): 5 documentos novos",
+   "detalhe": "Anexo I (STD) · Anexo II (STD) · Anexo III (STD) · Anexo IV (STD) · …e mais 1",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
+   "ref": "sei:sei_f5531bb8f1",
+   "visto_em": "2026-11-11T15:11:23-03:00"
   },
   {
    "uid": "bfa9937a13d4",
