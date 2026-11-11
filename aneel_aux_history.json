@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T09:32:25.078986-03:00",
+  "last_updated": "2026-11-11T14:52:48.548889-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2359,9 +2359,9 @@
       "date": "30/10/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-bandeira-verde-para-vigorar-em-novembro",
       "summary": "ANEEL anuncia bandeira verde para vigorar em novembro Contas de energia elétrica não terão custo adicional no mês A Agência Nacional de Energia Elétrica (ANEEL) anunciou nesta sexta-feira (30/10) que a bandeira tarifária em novembro será verde. A sinalização indica que as contas de energia elétrica no mês não terão custo extra.",
-      "added_at": "2026-11-11T09:32:22.050368-03:00",
+      "added_at": "2026-11-11T14:52:48.048558-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "noticia_2026_leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor": {
       "type": "noticia",
@@ -2399,9 +2399,9 @@
       "date": "03/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-revoga-autorizacoes-de-178-usinas-e-determina-rescisao-dos-contratos-de-transmissao",
       "summary": "ANEEL revoga autorizações de 178 usinas e determina rescisão dos contratos de transmissão Empreendimentos somam 7,80 GW de potência instalada e possuem cerca de 7,68 GW de uso contratado da rede de transmissão A Agência Nacional de Energia Elétrica (ANEEL) revogou as autorizações de 178 centrais geradoras, por meio do Despacho nº 3.585/2026, no âmbito do mecanismo excepcional estabelecido pela…",
-      "added_at": "2026-11-11T09:32:05.315004-03:00",
+      "added_at": "2026-11-11T14:52:46.090481-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "noticia_2026_aneel-participa-do-evex-lisboa-2026-e-e-homenageada-pelos-30-anos-de-atuacao": {
       "type": "noticia",
@@ -2443,9 +2443,9 @@
       "date": "05/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/campeoes-nacionais-da-onee-2026-sao-premiados-em-cerimonia-realizada-em-brasilia",
       "summary": "Campeões nacionais da ONEE 2026 são premiados em cerimônia realizada em Brasília Estudantes participaram da etapa final da Olimpíada Nacional de Eficiência Energética; premiação reconheceu os vencedores de cada estado e os campeões nacionais da competição Brasília foi palco, na manhã desta quinta-feira (5/11), da cerimônia de premiação da Olimpíada Nacional de Eficiência Energética (ONEE) 2026. O…",
-      "added_at": "2026-11-11T09:32:03.567121-03:00",
+      "added_at": "2026-11-11T14:52:44.256713-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "pauta_14832": {
       "type": "pauta_rd",
@@ -2591,9 +2591,9 @@
       "date": "10/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realiza-leiloes-de-energia-existente-na-proxima-sexta-feira-13-11",
       "summary": "ANEEL realiza leilões de energia existente na próxima sexta-feira (13/11) Negociações serão realizadas com contratos de fornecimento de eletricidade a partir de 2027, 2028 e 2029. Os certames poderão ser acompanhados pelo site da Câmara de Comercialização de Energia Elétrica (CCEE).",
-      "added_at": "2026-11-11T09:32:02.100944-03:00",
+      "added_at": "2026-11-11T14:52:42.478923-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "noticia_2026_conheca-os-finalistas-do-premio-aneel-dos-conselhos-de-consumidores": {
       "type": "noticia",
@@ -2601,9 +2601,19 @@
       "date": "10/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/conheca-os-finalistas-do-premio-aneel-dos-conselhos-de-consumidores",
       "summary": "Conheça os finalistas do Prêmio ANEEL dos Conselhos de Consumidores Promovida pela primeira vez, premiação com cinco categorias prestigia representantes com melhores desempenhos A Agência Nacional de Energia Elétrica – ANEEL se prepara para realizar, em 26 de novembro, a primeira edição do Prêmio ANEEL dos Conselhos de Consumidores de Energia Elétrica. A cerimônia ocorrerá durante o XXVI Encontro…",
-      "added_at": "2026-11-11T09:32:00.693398-03:00",
+      "added_at": "2026-11-11T14:52:40.728366-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
+    },
+    "noticia_2026_aneel-autoriza-acesso-do-primeiro-projeto-de-hidrogenio-verde-a-rede-basica": {
+      "type": "noticia",
+      "title": "ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica",
+      "date": "11/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-autoriza-acesso-do-primeiro-projeto-de-hidrogenio-verde-a-rede-basica",
+      "summary": "GERAÇÃO ANEEL autoriza acesso do primeiro projeto de Hidrogênio Verde à Rede Básica O projeto caracteriza-se pela produção de amônia verde a partir do hidrogênio de baixo carbono obtido por meio de um processo de eletrólise da água. Categorias Energia, Minerais e Combustíveis > Energia Elétrica",
+      "added_at": "2026-11-11T14:52:38.949293-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
