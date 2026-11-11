@@ -1,26 +1,28 @@
 {
- "gerado_em": "2026-11-11T14:25:09-03:00",
+ "gerado_em": "2026-11-11T14:30:09-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00",
+   "lido_em": "2026-11-11T14:30:09-03:00",
    "listagem_pc": "2026-11-11T09:32:25.078986-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00"
+   "lido_em": "2026-11-11T14:30:09-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00"
+   "lido_em": "2026-11-11T14:30:09-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00"
+   "lido_em": "2026-11-11T14:30:09-03:00"
   },
   "Pauta ANEEL": {
-   "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00"
+   "ok": false,
+   "erro": "502 Server Error: Bad Gateway for url: https://dadosabertos.aneel.gov.br/api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=400&sort=DatReuniao%20desc",
+   "lido_em": "2026-11-11T14:25:09-03:00",
+   "desde": "2026-11-11T14:30:09-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +30,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:25:09-03:00"
+   "lido_em": "2026-11-11T14:30:09-03:00"
   },
   "TCU": {
    "ok": true,
