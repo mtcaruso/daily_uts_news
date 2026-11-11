@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-11T08:49:18-03:00",
+ "gerado_em": "2026-11-11T09:04:28-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T08:49:18-03:00",
+   "lido_em": "2026-11-11T09:04:28-03:00",
    "listagem_pc": "2026-11-11T02:58:05.832189-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T08:49:18-03:00"
+   "lido_em": "2026-11-11T09:04:28-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T08:49:18-03:00"
+   "lido_em": "2026-11-11T09:04:28-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T08:49:18-03:00"
+   "lido_em": "2026-11-11T09:04:28-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -30,11 +30,11 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T08:49:18-03:00"
+   "lido_em": "2026-11-11T09:04:28-03:00"
   },
   "TCU": {
    "ok": true,
-   "lido_em": "2026-11-10T22:21:19-03:00"
+   "lido_em": "2026-11-11T09:00:29-03:00"
   }
  },
  "consultas": [
@@ -2179,6 +2179,7 @@
    "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
    "relator": "Benjamin Zymler",
    "tipo": "Relatório de acompanhamento",
+   "ult_acordao": null,
    "proxima": null,
    "ultima": {
     "data": "2026-10-21",
@@ -2187,7 +2188,7 @@
     "tipo": "Relatório de acompanhamento",
     "natureza": "CONTROLE EXTERNO"
    },
-   "pauta_lida_em": "2026-11-10T22:21:19-03:00"
+   "pauta_lida_em": "2026-11-11T09:00:29-03:00"
   }
  ],
  "pauta_aberturas": [],
