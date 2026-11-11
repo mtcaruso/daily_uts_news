@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-11T09:24:21-03:00",
+ "gerado_em": "2026-11-11T09:40:06-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00",
+   "lido_em": "2026-11-11T09:40:06-03:00",
    "listagem_pc": "2026-11-11T09:02:49.112290-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00"
+   "lido_em": "2026-11-11T09:40:06-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00"
+   "lido_em": "2026-11-11T09:40:06-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00"
+   "lido_em": "2026-11-11T09:40:06-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00"
+   "lido_em": "2026-11-11T09:40:06-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +28,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:24:21-03:00"
+   "lido_em": "2026-11-11T09:40:06-03:00"
   },
   "TCU": {
    "ok": true,
@@ -2620,6 +2620,92 @@
    ],
    "n_documentos": null,
    "n_andamentos": null
+  },
+  {
+   "id": "sei_f5531bb8f1",
+   "apelido": "Perdas na distribuição: regulação (NT 189/2026 STD)",
+   "numero": null,
+   "tipo": null,
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [],
+   "n_documentos": null,
+   "n_andamentos": null
+  },
+  {
+   "id": "sei_012966e05d",
+   "apelido": "Fator X ANEEL: revisão do componente Pd (CP 20/2026)",
+   "numero": "48500.027624/2025-26",
+   "tipo": null,
+   "link": null,
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [
+    {
+     "data": "2026-07-14",
+     "reuniao": "14/2026 - RPO",
+     "assunto": "Proposta de abertura de Consulta Pública com vistas a colher subsídios e informações adicionais para a revisão da metodologia do Fator X – Componente de Produtividade (Pd).",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de consulta Pública 20",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) instaurar Consulta Pública, no período de 16 de julho a 31 de agosto de 2026, com vistas a colher subsídios e informações adicionais para revisar a Metodologia do Fator X – Componente de Produtividade (Pd)- e (ii) determinar à Superintendência de Gestão Tarifária e Regulação Econômica – STR que disponibilize a base de dados necessária para cálculo do ind…"
+    },
+    {
+     "data": "2026-06-30",
+     "reuniao": "13/2026 - RPO",
+     "assunto": "Proposta de abertura de Consulta Pública com vistas a colher subsídios e informações adicionais para a revisão da metodologia do Fator X – Componente de Produtividade (Pd).",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": "O processo foi retirado da pauta."
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
+  },
+  {
+   "id": "sei_59b889e0d6",
+   "apelido": "WACC regulatório: taxa de remuneração do capital (TRRC)",
+   "numero": "48500.000953/2021-04",
+   "tipo": null,
+   "link": null,
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [
+    {
+     "data": "2026-05-05",
+     "reuniao": "9/2026 - RPO",
+     "assunto": "Recursos Administrativos interpostos pela Associação Brasileira de Distribuidores de Energia Elétrica – Abradee, pela Associação Brasileira das Empresas de Transmissão de Energia Elétrica – Abrate e pela Cemig Distribuição S.A. – Cemig-D contra o Despacho nº 675/2026, emitido pela Superintendência de Gestão Tarifária e Regulação Econômica – STR, que trata da atualização da Taxa Regulatória de Rem…",
+     "resultado": "Deliberado",
+     "ato": "Despacho 1567",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por maioria, acompanhando o voto do Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, e vencido o Diretor-Geral, Sandoval de Araújo Feitosa Neto, decidiu conhecer dos recursos administrativos interpostos pela Associação Brasileira de Distribuidores de Energia Elétrica – Abradee, pela Associação Brasileira das Empresas de Transmissão de Energia Elétrica – Abrate e pela Cemig Dis…"
+    },
+    {
+     "data": "2024-06-18",
+     "reuniao": "21/2024 - RPO",
+     "assunto": "Recursos Administrativos interpostos pela Associação Brasileira de Distribuidores de Energia Elétrica – Abradee, pela Associação Brasileira das Empresas de Transmissão de Energia Elétrica – Abrate, por empresas do Grupo Eletrobras e pela Companhia Energética de Minas Gerais S.A. – Cemig em face do Despacho nº 894/2024, emitido pela Superintendência de Gestão Tarifária e Regulação Econômica – STR,…",
+     "resultado": "Deliberado",
+     "ato": "Despacho 1732",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) não conhecer do Recurso Administrativo interposto pela Associação Brasileira de Distribuidores de Energia Elétrica – Abradee e pela Associação Brasileira das Empresas de Transmissão de Energia Elétrica – Abrate em face do Despacho nº 894/2024, emitido pela Superintendência de Gestão Tarifária e Regulação Econômica – STR- e (ii) conhecer do Recurso Admini…"
+    },
+    {
+     "data": "2024-06-11",
+     "reuniao": "20/2024 - RPO",
+     "assunto": "Recursos Administrativos interpostos pela Associação Brasileira de Distribuidores de Energia Elétrica – Abradee, pela Associação Brasileira das Empresas de Transmissão de Energia Elétrica – Abrate, por empresas do Grupo Eletrobras e pela Cemig Distribuição S.A. em face do Despacho nº 894/2024, emitido pela Superintendência de Gestão Tarifária e Regulação Econômica – STR, que trata das Taxas Regul…",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O processo foi retirado de pauta."
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
   }
  ],
  "projetos_extra": [
@@ -2678,6 +2764,20 @@
     "natureza": "CONTROLE EXTERNO"
    },
    "pauta_lida_em": "2026-11-11T09:00:29-03:00"
+  },
+  {
+   "id": "arsesp-proj-cp-17-2026-ap-07-2026",
+   "tipo_projeto": "ARSESP",
+   "apelido": "Fator X do saneamento (Sabesp, ação regulatória FSR-03)",
+   "numero": "CP 17/2026 + AP 07/2026",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "situacao": "aberta",
+   "fim": "2026-11-23",
+   "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
+   "audiencia": "19/11 10h00",
+   "audiencia_dia": "2026-11-19",
+   "n_docs": 11,
+   "ult_doc": "2026-11-06"
   }
  ],
  "pauta_aberturas": [],

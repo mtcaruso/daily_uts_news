@@ -2,9 +2,11 @@
 # ficam no sei_watch.txt). Uma linha por projeto:
 #
 #   MME | nº da consulta pública | apelido
+#   ARSESP | CP 17/2026; AP 07/2026 | apelido   (vários itens do mesmo tema = um projeto)
 #   TCU | nº do processo (TC) | apelido | termos do acórdão; separados; por ponto e vírgula
 #
 # MME: prazo, documentos e contribuições enviadas, mesmo depois de fechada.
+# ARSESP: prazo, audiência e documentos (inclusive contribuições), mesmo depois de fechada.
 # TCU: sessões de julgamento em que o processo entra em pauta (dados abertos do
 # TCU). Peças e andamentos do TCU não têm acesso automático (o site do TCU
 # bloqueia robôs): para recebê-los, use o Push do TCU na página do processo.
@@ -16,3 +18,4 @@
 MME | 218 | Contabilização dupla no MCP e ofertas de quantidade
 MME | 233 | Renovação das outorgas de hidrelétricas (Lei 12.783)
 TCU | 023.368/2025-0 | Angra 3: futuro da usina (ENBPar e Eletronuclear) | angra 3; angra iii; eletronuclear; enbpar
+ARSESP | CP 17/2026; AP 07/2026 | Fator X do saneamento (Sabesp, ação regulatória FSR-03)

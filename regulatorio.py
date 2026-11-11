@@ -204,6 +204,9 @@ def consultas_mme(hoje: str) -> list:
     return out
 
 
+_ARSESP_TODAS = {}  # id → consulta (todas da janela, mesmo encerradas): base dos projetos ARSESP
+
+
 def consultas_arsesp(hoje: str) -> list:
     """SharePoint da ARSESP (anônimo). Só saneamento e sem outras concessionárias
     (mesmo filtro do alerta). Documentos com data de criação."""
@@ -252,6 +255,7 @@ def consultas_arsesp(hoje: str) -> list:
             "publicado": criado.strftime("%Y-%m-%d") if criado else None,
             "link": link, "docs": por_pai.get(it["ID"], []),
         }
+        _ARSESP_TODAS[c["id"]] = c
         if _no_painel(c, hoje):
             out.append(c)
     return out
@@ -509,7 +513,7 @@ def ler_projetos_watch() -> list:
         if not linha or linha.startswith("#"):
             continue
         partes = [x.strip() for x in linha.split("|")]
-        if len(partes) >= 2 and partes[0].upper() in ("MME", "TCU") and partes[1]:
+        if len(partes) >= 2 and partes[0].upper() in ("MME", "TCU", "ARSESP") and partes[1]:
             out.append({"tipo": partes[0].upper(), "chave": partes[1], "apelido": partes[2] if len(partes) > 2 else ""})
     return out
 
@@ -585,9 +589,48 @@ def projetos_tcu(watch: list, st_alertas: dict) -> list:
     return out
 
 
+def projetos_arsesp(watch: list) -> list:
+    """CP/AP da ARSESP fixadas (ex.: 'ARSESP | CP 17/2026; AP 07/2026 | Fator X'):
+    as consultas da leitura de hoje (todas da janela, mesmo encerradas), com os
+    documentos (deliberação, nota técnica, contribuições…). Vários itens do mesmo
+    tema = um projeto só."""
+    out = []
+    for w in watch:
+        if w["tipo"] != "ARSESP":
+            continue
+        itens = []
+        for ref in w["chave"].split(";"):
+            m = re.match(r"\s*(CP|AP)\s*(\d+)\s*/\s*(\d{4})", ref, re.IGNORECASE)
+            if not m:
+                continue
+            c = next((c for c in _ARSESP_TODAS.values() if c["sigla"] == m.group(1).upper()
+                      and c["numero"].split("/")[0].lstrip("0") == m.group(2).lstrip("0")
+                      and c["numero"].endswith(m.group(3))), None)
+            if c:
+                itens.append(c)
+            else:
+                print(f"::warning::projetos_watch: ARSESP {ref.strip()} não encontrada na lista da ARSESP")
+        if not itens:
+            continue
+        out.append({
+            "id": "arsesp-proj-" + "-".join(c["id"].replace("arsesp-", "") for c in itens),
+            "tipo_projeto": "ARSESP", "apelido": w["apelido"] or itens[0]["tema"][:80],
+            "numero": " + ".join(f"{c['sigla']} {c['numero']}" for c in itens),
+            "tema": itens[0]["tema"], "link": itens[0]["link"], "itens": itens,
+        })
+    return out
+
+
 def resumo_extra(p: dict, hoje: str) -> dict:
     """Cartão do topo para projeto MME/TCU (o completo vai no regulatorio_projetos.json)."""
     base = {k: p.get(k) for k in ("id", "tipo_projeto", "apelido", "numero", "link")}
+    if p["tipo_projeto"] == "ARSESP":
+        docs = [d for c in p["itens"] for d in c.get("docs", [])]
+        cp = next((c for c in p["itens"] if c["sigla"] == "CP"), p["itens"][0])
+        ap = next((c for c in p["itens"] if c["sigla"] == "AP"), None)
+        return {**base, "situacao": cp["situacao"], "fim": cp["fim"], "tema": p["tema"],
+                "audiencia": ap["audiencia"] if ap else None, "audiencia_dia": ap["fim"] if ap else None,
+                "n_docs": len(docs), "ult_doc": max((d.get("data") or "" for d in docs), default="") or None}
     if p["tipo_projeto"] == "MME":
         c = sorted(p["contribuicoes"], key=lambda x: (x["data"] or "", x["hora"] or ""), reverse=True)
         return {**base, "situacao": p["situacao"], "fim": p["fim"], "n_docs": len(p["docs"]),
@@ -620,7 +663,7 @@ def candidatos_extra(extras: list, hoje: str, semente: bool, vistos: set) -> lis
                 if nova and not x["data"]:
                     e["_silencioso"] = True
                 evs.append(e)
-        else:
+        elif p["tipo_projeto"] == "TCU":
             for a in p.get("acordaos", []):
                 evs.append(_ev(f"tcuac|{a['key']}", a["data"], "TCU", "resultado",
                                f"{p['apelido']}: Acórdão {a['numero']}/{a['ano']} ({a['colegiado']})",
@@ -863,6 +906,9 @@ def main():
         fontes["TCU"] = {"ok": bool(lida) and alerts._horas_desde(lida) <= 48, "lido_em": lida,
                          **({} if lida and alerts._horas_desde(lida) <= 48 else
                             {"erro": "pauta do TCU sem leitura recente (dados abertos, 1x/dia)"})}
+    if any(w["tipo"] == "ARSESP" for w in watch):
+        extras += (projetos_arsesp(watch) if (fontes.get("ARSESP") or {}).get("ok")
+                   else [p for p in proj_prev if p.get("tipo_projeto") == "ARSESP"])
     # A CP fixada também gera os eventos comuns (documento novo, prazo), com o
     # mesmo id da CP do painel: a chave do evento evita repetir.
     mme_fixadas = [{**p, "numero": p["numero"].replace("CP ", ""), "docs": [{**d, "u": None} for d in p["docs"]]}
@@ -876,7 +922,8 @@ def main():
     consultas.sort(key=lambda c: (c.get("fim") or "9999", c["orgao"], c["numero"]))
 
     vistos = list(st.get("vistos", []))
-    cands = candidatos(consultas + arsae_todas + mme_fixadas, processos, aberturas, prev, hoje, semente, set(vistos))
+    arsesp_fixadas = [c for p in extras if p["tipo_projeto"] == "ARSESP" for c in p["itens"]]
+    cands = candidatos(consultas + arsae_todas + mme_fixadas + arsesp_fixadas, processos, aberturas, prev, hoje, semente, set(vistos))
     cands += candidatos_extra(extras, hoje, semente, set(vistos))
     eventos, vistos, n_novos = atualiza_eventos(cands, prev.get("eventos", []), vistos, hoje, semente, momento)
     consultas += [c for c in arsae_todas if c["situacao"] == "em andamento"]

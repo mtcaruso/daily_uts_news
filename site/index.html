@@ -510,13 +510,20 @@ footer.foot p { margin: 0 0 4px; }
         .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
       return s ? { data: s.data, reuniao: s.colegiado || "sessão", relator: s.relator, assunto: s.tipo || "" } : null;
     }
-    if (tipoProj(p) === "MME") return null;
+    if (tipoProj(p) === "MME" || tipoProj(p) === "ARSESP") return null;
     return (p.pauta || []).filter(function (x) { return x.data >= hj && !x.resultado; })
       .sort(function (a, b) { return a.data.localeCompare(b.data); })[0];
   }
 
   // Data do último movimento (página do projeto, arquivo completo).
+  function docsArsesp(p) {
+    var out = [];
+    (p.itens || []).forEach(function (c) { (c.docs || []).forEach(function (d) { out.push({ d: d, c: c }); }); });
+    return out.sort(function (a, b) { return (b.d.data || "").localeCompare(a.d.data || ""); });
+  }
+
   function ultimoMov(p) {
+    if (tipoProj(p) === "ARSESP") return ((docsArsesp(p)[0] || {}).d || {}).data || null;
     if (tipoProj(p) === "MME") {
       var c = (p.contribuicoes || []).map(function (x) { return x.data || ""; }).sort().pop();
       return c || p.fim || null;
@@ -544,7 +551,7 @@ footer.foot p { margin: 0 0 4px; }
     var recente = ult && dias(ult, hj) <= 7;
     var linha = pa
       ? '<span class="em-pauta">' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</span>"
-      : "<span>" + (tipoProj(p) === "MME" ? "Última contribuição " : "Último movimento ") + (ult ? dma(ult) : "—") + "</span>";
+      : "<span>" + ({ MME: "Última contribuição ", ARSESP: "Último documento " }[tipoProj(p)] || "Último movimento ") + (ult ? dma(ult) : "—") + "</span>";
     return '<button type="button" class="proj-item" data-proj="' + esc(p.id) + '" aria-current="' + !!(sel && sel.id === p.id) + '">' +
       "<b>" + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
       "<span>" + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" + linha + "</button>";
@@ -752,7 +759,43 @@ footer.foot p { margin: 0 0 4px; }
     return h;
   }
 
+  // --- ARSESP: CP/AP fixadas (mesmo tema) ---
+  function detalheARSESP(p, hj) {
+    var itens = p.itens || [];
+    var cp = itens.filter(function (c) { return c.sigla === "CP"; })[0] || itens[0] || {};
+    var ap = itens.filter(function (c) { return c.sigla === "AP"; })[0];
+    var docs = docsArsesp(p);
+    var h = cabecalhoProjeto(p, "Abrir no site da ARSESP", [p.numero, "ARSESP · saneamento"]);
+    var linhas = [];
+    if (cp.fim) {
+      var n = dias(hj, cp.fim);
+      linhas.push(cp.situacao === "aberta"
+        ? "<b>CP " + esc(cp.numero) + " aberta: " + (n === 0 ? "último dia" : (n === 1 ? "falta 1 dia" : "faltam " + n + " dias")) + "</b> · contribuições até " + dmy(cp.fim)
+        : "<b>CP " + esc(cp.numero) + " encerrada em " + dmy(cp.fim) + "</b>");
+    }
+    if (ap && ap.audiencia) linhas.push((ap.fim && ap.fim >= hj ? "<b>Audiência pública " : "Audiência pública ") + esc(ap.numero) + " em " + esc(ap.audiencia) + (ap.fim && ap.fim >= hj ? "</b>" : ""));
+    if (linhas.length) h += '<div class="destaque">' + linhas.join("<br>") + "</div>";
+    h += '<p class="tema-proj">' + esc(p.tema) + "</p>" +
+      '<div class="proj-stats">' +
+      "<div><b>" + docs.length + "</b><span>documentos</span></div>" +
+      "<div><b>" + (cp.fim ? dma(cp.fim) : "—") + "</b><span>prazo da CP</span></div>" +
+      "<div><b>" + (ap && ap.fim ? dma(ap.fim) : "—") + "</b><span>audiência</span></div>" +
+      "<div><b>" + (docs[0] && docs[0].d.data ? dma(docs[0].d.data) : "—") + "</b><span>último documento</span></div></div>";
+    itens.forEach(function (c) {
+      var ds = (c.docs || []).slice().sort(function (a, b) { return (b.data || "").localeCompare(a.data || ""); });
+      var u = urlOk(c.link);
+      h += '<div class="h3">' + esc(c.tipo + " " + c.numero) + "</div>" +
+        (ds.length ? '<ul class="hist">' + ds.map(function (d) {
+          return '<li class="hi doc"><span class="dt">' + (d.data ? dm(d.data) : "—") + '</span><span class="k">Documento</span><span>' + esc(d.t) + "</span></li>";
+        }).join("") + "</ul>" : '<p class="vazio" style="padding-left:0">Nenhum documento publicado.</p>') +
+        (u ? '<p class="small" style="margin:6px 0 0"><a href="' + esc(u) + '" target="_blank" rel="noopener">Arquivos na página da ' + esc(c.sigla) + " no site da ARSESP ↗</a></p>" : "");
+    });
+    h += '<p class="muted small" style="margin-top:14px">O processo no SEI do Estado de São Paulo ainda não está ligado a este projeto: os documentos públicos da consulta não trazem o número.</p>';
+    return h;
+  }
+
   function detalheProjeto(p, hj) {
+    if (tipoProj(p) === "ARSESP") return detalheARSESP(p, hj);
     if (tipoProj(p) === "MME") return detalheMME(p, hj);
     if (tipoProj(p) === "TCU") return detalheTCU(p, hj);
     return detalheSEI(p, hj);
@@ -777,7 +820,7 @@ footer.foot p { margin: 0 0 4px; }
       '<aside class="card proj-lista" aria-label="Projetos acompanhados"><div class="sec-h"><h2>Projetos<span class="cnt">' + lista.length + "</span></h2></div>" +
       lista.map(function (p) { return itemProjeto(p, sel, hj); }).join("") + "</aside>" +
       '<section class="card proj-det" aria-label="Projeto">' + detalheProjeto(sel, hj) + "</section></div>";
-    if (tipoProj(sel) !== "TCU") renderHistLista(sel);
+    if (tipoProj(sel) === "SEI" || tipoProj(sel) === "MME") renderHistLista(sel);
   }
 
   function projAtual() {
@@ -802,6 +845,7 @@ footer.foot p { margin: 0 0 4px; }
 
   function ultimoItem(p) {
     // SEI: o mais recente entre documento (sem processo anexado) e andamento fora da rotina.
+    if (tipoProj(p) === "ARSESP") return p.ult_doc ? { data: p.ult_doc, txt: p.n_docs + " documentos" } : null;
     if (tipoProj(p) === "MME") {
       return p.ult_contrib ? { data: p.ult_contrib.data, txt: p.n_contrib + " contribuições · última: " + p.ult_contrib.instituicao }
         : { data: p.fim, txt: (p.n_contrib || 0) + " contribuições" };
@@ -825,6 +869,13 @@ footer.foot p { margin: 0 0 4px; }
       var onde = tipoProj(p) === "TCU" ? "Na pauta do " + pa.reuniao + " de " + dm(pa.data)
         : (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + pa.reuniao;
       return '<span class="st pauta">' + esc(onde) + "</span>";
+    }
+    if (tipoProj(p) === "ARSESP") {
+      var txt = p.situacao === "aberta" && p.fim
+        ? '<span class="st pauta">CP aberta · ' + (dias(hj, p.fim) <= 1 ? (dias(hj, p.fim) === 0 ? "último dia" : "falta 1 dia") : "faltam " + dias(hj, p.fim) + " dias") + "</span>"
+        : '<span class="st">CP encerrada' + (p.fim ? " em " + dma(p.fim) : "") + "</span>";
+      if (p.audiencia && p.audiencia_dia && p.audiencia_dia >= hj) txt += '<span class="st">Audiência em ' + esc(p.audiencia) + "</span>";
+      return txt;
     }
     if (tipoProj(p) === "MME") {
       if (p.situacao === "aberta" && p.fim) {
@@ -864,13 +915,13 @@ footer.foot p { margin: 0 0 4px; }
       '<div class="sei-grid">' + ps.map(function (p) {
         var ult = ultimoItem(p);
         var recente = ult && ult.data && dias(ult.data, hj) <= 7;
-        var rotuloUlt = tipoProj(p) === "MME" ? "" : "Último movimento ";
+        var rotuloUlt = tipoProj(p) === "MME" ? "" : (tipoProj(p) === "ARSESP" ? "Último documento " : "Último movimento ");
         return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '" style="--c:' + cor(tipoProj(p)) + '">' +
           '<span class="n">' + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" +
           '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
           linhaStatus(p, hj) +
           (ult && (ult.data || ult.txt) ? '<span class="ult">' + rotuloUlt + (ult.data && tipoProj(p) !== "MME" ? dma(ult.data) + " · " : "") + esc(ult.txt) + "</span>" : "") +
-          '<span class="ir">Ver ' + (tipoProj(p) === "MME" ? "contribuições" : (tipoProj(p) === "TCU" ? "sessões" : "histórico completo")) + " →</span></button>";
+          '<span class="ir">Ver ' + ({ MME: "contribuições", TCU: "sessões", ARSESP: "documentos" }[tipoProj(p)] || "histórico completo") + " →</span></button>";
       }).join("") + "</div></div>";
     el.innerHTML = h;
   }
