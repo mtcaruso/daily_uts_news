@@ -456,10 +456,30 @@ def processos_sei(recs: list, hoje: str, recs_proc: list = ()) -> tuple:
     return out, aberturas
 
 
+# Setor de cada projeto, para o bloco de cima do site (a pedido, 11/11/2026:
+# agrupado por tema). Pelo nome/assunto; ARSESP e programas = saneamento. A ordem
+# importa: "Fator X" e "WACC" são de distribuição antes de cair em geração.
+_GRUPOS = [
+    ("Saneamento", re.compile(r"saneamento|sabesp|copasa|sanepar|universaliza|[áa]gua e esgoto", re.IGNORECASE)),
+    ("Distribuição", re.compile(r"\benel\b|distribui|perdas|fator x|wacc|remunera[çc][ãa]o do capital|coelce|ampla|tarif", re.IGNORECASE)),
+    ("Geração e transmissão", re.compile(r"lrcap|leil[ãa]o|curtail|constrained|armazen|hidrel|gera[çc][ãa]o|transmiss|angra|nuclear|"
+                                         r"\bmcp\b|contabiliza|\brap\b|outorga|\bevt\b", re.IGNORECASE)),
+]
+GRUPOS_ORDEM = ["Distribuição", "Geração e transmissão", "Saneamento", "Outros"]
+
+
+def grupo_tema(p: dict) -> str:
+    if p.get("tipo_projeto") in ("ARSESP", "PROGRAMA"):
+        return "Saneamento"
+    texto = " ".join(str(p.get(k) or "") for k in ("apelido", "tema", "tipo", "numero"))
+    return next((nome for nome, rx in _GRUPOS if rx.search(texto)), "Outros")
+
+
 def resumo_processo(p: dict) -> dict:
     """Versão curta pro regulatorio.json (a página de consultas e a linha do
     tempo); o histórico inteiro vai no regulatorio_projetos.json."""
-    return {**p, "documentos": p["documentos"][:10], "andamentos": p["andamentos"][:10], "pauta": p["pauta"][:10]}
+    return {**p, "documentos": p["documentos"][:10], "andamentos": p["andamentos"][:10], "pauta": p["pauta"][:10],
+            "grupo": grupo_tema(p)}
 
 
 def projeto(p: dict) -> dict:
@@ -639,7 +659,7 @@ def projetos_programa(st_alertas: dict) -> list:
 
 def resumo_extra(p: dict, hoje: str) -> dict:
     """Cartão do topo para projeto MME/TCU (o completo vai no regulatorio_projetos.json)."""
-    base = {k: p.get(k) for k in ("id", "tipo_projeto", "apelido", "numero", "link")}
+    base = {**{k: p.get(k) for k in ("id", "tipo_projeto", "apelido", "numero", "link")}, "grupo": grupo_tema(p)}
     if p["tipo_projeto"] == "PROGRAMA":
         n = p["noticias"]
         return {**base, "tema": p["resumo"], "n_noticias": len(n), "n_arsesp": len(p["arsesp"]),

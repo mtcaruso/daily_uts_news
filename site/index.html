@@ -171,6 +171,28 @@ details.contrib[open] > summary::after { content: " ▾"; }
 details.contrib p { margin: 6px 0; font-size: 12.5px; }
 .hi.contrib .k { color: var(--mme); }
 
+/* bloco de projetos: linhas compactas agrupadas por setor (opção C, 11/11/2026) */
+.grp { padding: 0 16px 12px; }
+.grp-h { display: flex; align-items: baseline; gap: 8px; font-size: 12.5px; font-weight: 700; color: var(--muted); padding: 12px 0 4px; }
+.grp-h .cnt { font-weight: 400; color: var(--faint); }
+.grp-h .novas-g { font-weight: 600; color: var(--focus); font-size: 12px; }
+.pj { display: grid; grid-template-columns: 64px minmax(0, 1fr) minmax(0, 220px) 64px 12px; gap: 10px; align-items: center;
+  width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--line); padding: 8px 4px; cursor: pointer; font-size: 13px; }
+.pj:hover { background: var(--hover); }
+.pj .selo { justify-self: start; }
+.pj .nm { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 600; }
+.pj .nm small { font-weight: 400; color: var(--faint); margin-left: 6px; font-size: 11.5px; }
+.pj .sit { color: var(--muted); font-size: 12.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pj .sit.alerta { color: var(--soon); font-weight: 600; }
+.pj .dt { color: var(--muted); font-size: 12.5px; text-align: right; font-variant-numeric: tabular-nums; }
+.pj .seta { color: var(--faint); }
+.pj.parado .nm, .pj.parado .sit { color: var(--faint); font-weight: 400; }
+@media (max-width: 720px) {
+  .pj { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "selo nm dt" "sit sit sit"; gap: 2px 8px; }
+  .pj .selo { grid-area: selo; } .pj .nm { grid-area: nm; } .pj .dt { grid-area: dt; } .pj .sit { grid-area: sit; } .pj .seta { display: none; }
+  .pj .nm small { display: none; }
+}
+
 /* página de um processo */
 .proj-grid { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); padding-top: 14px; padding-bottom: 28px; }
 @media (min-width: 900px) {
@@ -939,18 +961,45 @@ footer.foot p { margin: 0 0 4px; }
     return res ? '<span class="st decisao">' + esc(res.resultado) + " em " + dm(res.data) + "</span>" : "";
   }
 
+  // Situação em poucas palavras para a linha do bloco: {txt, alerta}.
+  function situacaoCurta(p, hj) {
+    var tp = tipoProj(p), pa = proxPauta(p, hj), n;
+    if (tp === "MME") {
+      if (p.situacao === "aberta" && p.fim) { n = dias(hj, p.fim); return { txt: "Aberta · faltam " + n + " dias", alerta: n <= 15 }; }
+      return { txt: "Encerrada · " + (p.n_contrib || 0) + " contribuições" };
+    }
+    if (tp === "ARSESP") {
+      if (p.situacao === "aberta" && p.fim) {
+        n = dias(hj, p.fim);
+        var aud = p.audiencia && p.audiencia_dia && p.audiencia_dia >= hj ? " · audiência " + p.audiencia.split(" ")[0] : "";
+        return { txt: "CP fecha em " + n + " dias" + aud, alerta: n <= 15 };
+      }
+      return { txt: "Encerrada" + (p.fim ? " em " + dma(p.fim) : "") };
+    }
+    if (tp === "TCU") {
+      if (pa) return { txt: "Em julgamento hoje · " + pa.reuniao, alerta: true };
+      if (p.ult_acordao) return { txt: "Acórdão " + p.ult_acordao.numero + "/" + p.ult_acordao.ano + " (" + (p.ult_acordao.colegiado || "") + ")" };
+      if (p.ultima) return { txt: "Sessão de " + dma(p.ultima.data) + " (" + (p.ultima.colegiado || "") + ")" };
+      return { txt: p.relator ? "Relator(a): " + p.relator : "Sem sessão registrada" };
+    }
+    if (tp === "PROGRAMA") return { txt: p.ult_noticia ? p.ult_noticia.titulo : (p.n_noticias || 0) + " notícias oficiais" };
+    if (pa) return { txt: (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + " · " + pa.reuniao, alerta: true };
+    var res = (p.pauta || []).filter(function (x) { return x.resultado && dias(x.data, hj) <= 30; })[0];
+    if (res) return { txt: res.resultado + " em " + dm(res.data) };
+    var u = ultimoItem(p);
+    return { txt: u ? u.txt : (p.link ? "Sem movimento lido" : "Acompanhado pela pauta da Diretoria") };
+  }
+
   function renderSeiResumo(hj) {
     var el = document.getElementById("sei-resumo");
     var ps = (DATA.processos || []).filter(function (p) { return doOrgao("SEI"); })
       .concat((DATA.projetos_extra || []).filter(function (p) { return doOrgao(p.tipo_projeto); }))
       .filter(function (p) { return casa(textoProc(p)); });
     if (!ps.length) { el.hidden = true; el.innerHTML = ""; return; }
-    ps.sort(function (a, b) {
-      var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
-      if (pa !== pb) return pa ? -1 : 1;
-      return ((ultimoItem(b) || {}).data || "").localeCompare((ultimoItem(a) || {}).data || "");
-    });
     el.hidden = false;
+    var ordem = ["Distribuição", "Geração e transmissão", "Saneamento", "Outros"];
+    var grupos = {};
+    ps.forEach(function (p) { var g = p.grupo || "Outros"; (grupos[g] = grupos[g] || []).push(p); });
     var sei = (DATA.fontes || {}).SEI || {};
     var temSei = ps.some(function (p) { return tipoProj(p) === "SEI"; });
     var leitura = temSei && sei.lido_em
@@ -958,20 +1007,35 @@ footer.foot p { margin: 0 0 4px; }
         esc(sei.ok ? "Última leitura do SEI" : "O SEI bloqueia leituras automáticas na nuvem: os processos só são lidos com o computador de leitura ligado. Pauta e decisões da Diretoria continuam atualizadas.") +
         '">SEI lido em ' + esc(quando(sei.lido_em)) + (sei.ok ? "" : " · leitura parada") + "</span>"
       : "";
-    var h = '<div class="card"><div class="sec-h"><h2>Projetos acompanhados<span class="cnt">' + ps.length + "</span></h2>" + leitura + "</div>" +
-      '<div class="sei-grid">' + ps.map(function (p) {
-        var ult = ultimoItem(p);
-        var recente = ult && ult.data && dias(ult.data, hj) <= 7;
-        var rotuloUlt = { MME: "", ARSESP: "Último documento ", PROGRAMA: "Última notícia " }[tipoProj(p)];
-        if (rotuloUlt == null) rotuloUlt = "Último movimento ";
-        return '<button type="button" class="sei-card" data-proj="' + esc(p.id) + '" style="--c:' + cor(tipoProj(p)) + '">' +
-          '<span class="n">' + seloTipo(tipoProj(p)) + " " + esc(p.numero || "") + "</span>" +
-          '<b class="t">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(p.apelido) + "</b>" +
-          linhaStatus(p, hj) +
-          (ult && (ult.data || ult.txt) ? '<span class="ult">' + rotuloUlt + (ult.data && tipoProj(p) !== "MME" ? dma(ult.data) + " · " : "") + esc(ult.txt) + "</span>" : "") +
-          '<span class="ir">Ver ' + ({ MME: "contribuições", TCU: "sessões", ARSESP: "documentos", PROGRAMA: "notícias" }[tipoProj(p)] || "histórico completo") + " →</span></button>";
-      }).join("") + "</div></div>";
-    el.innerHTML = h;
+    var h = '<div class="card"><div class="sec-h"><h2>Projetos acompanhados<span class="cnt">' + ps.length + "</span></h2>" + leitura + "</div>";
+    ordem.concat(Object.keys(grupos).filter(function (g) { return ordem.indexOf(g) < 0; })).forEach(function (g) {
+      var lista = grupos[g];
+      if (!lista) return;
+      lista.sort(function (a, b) {
+        var pa = !!proxPauta(a, hj), pb = !!proxPauta(b, hj);
+        if (pa !== pb) return pa ? -1 : 1;
+        return ((ultimoItem(b) || {}).data || "").localeCompare((ultimoItem(a) || {}).data || "");
+      });
+      var novas = lista.filter(function (p) { var u = ultimoItem(p); return u && u.data && dias(u.data, hj) <= 7; }).length;
+      h += '<div class="grp"><div class="grp-h">' + esc(g) + '<span class="cnt">' + lista.length + "</span>" +
+        (novas ? '<span class="novas-g">' + novas + " com movimento na semana</span>" : "") + "</div>";
+      lista.forEach(function (p) {
+        var u = ultimoItem(p), s = situacaoCurta(p, hj);
+        var recente = u && u.data && dias(u.data, hj) <= 7;
+        var parado = !proxPauta(p, hj) && !s.alerta && (!u || !u.data || dias(u.data, hj) > 90);
+        var nome = p.apelido.split(":")[0];
+        var resto = p.apelido.indexOf(":") > 0 ? p.apelido.slice(p.apelido.indexOf(":") + 1).trim() : "";
+        h += '<button type="button" class="pj' + (parado ? " parado" : "") + '" data-proj="' + esc(p.id) + '" title="' + esc(p.apelido) + '">' +
+          seloTipo(tipoProj(p)) +
+          '<span class="nm">' + (recente ? '<span class="novo" title="Movimento nos últimos 7 dias"></span>' : "") + esc(nome) +
+          (resto ? "<small>" + esc(resto) + "</small>" : "") + "</span>" +
+          '<span class="sit' + (s.alerta ? " alerta" : "") + '">' + esc(s.txt) + "</span>" +
+          '<span class="dt">' + (u && u.data ? dma(u.data) : "—") + "</span>" +
+          '<span class="seta" aria-hidden="true">›</span></button>';
+      });
+      h += "</div>";
+    });
+    el.innerHTML = h + "</div>";
   }
 
   // ---------- linha do tempo ----------

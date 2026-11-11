@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-11T14:15:59-03:00",
+ "gerado_em": "2026-11-11T14:25:09-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00",
+   "lido_em": "2026-11-11T14:25:09-03:00",
    "listagem_pc": "2026-11-11T09:32:25.078986-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00"
+   "lido_em": "2026-11-11T14:25:09-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00"
+   "lido_em": "2026-11-11T14:25:09-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00"
+   "lido_em": "2026-11-11T14:25:09-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00"
+   "lido_em": "2026-11-11T14:25:09-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +28,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T14:15:59-03:00"
+   "lido_em": "2026-11-11T14:25:09-03:00"
   },
   "TCU": {
    "ok": true,
@@ -1278,7 +1278,8 @@
     }
    ],
    "n_documentos": 476,
-   "n_andamentos": 602
+   "n_andamentos": 602,
+   "grupo": "Geração e transmissão"
   },
   {
    "id": "curtailment-906080-2022",
@@ -1500,7 +1501,8 @@
     }
    ],
    "n_documentos": 15,
-   "n_andamentos": 36
+   "n_andamentos": 36,
+   "grupo": "Geração e transmissão"
   },
   {
    "id": "curtailment-902708-2024",
@@ -1704,7 +1706,8 @@
     }
    ],
    "n_documentos": 31,
-   "n_andamentos": 32
+   "n_andamentos": 32,
+   "grupo": "Geração e transmissão"
   },
   {
    "id": "armazenamento-904885-2020",
@@ -1980,7 +1983,8 @@
     }
    ],
    "n_documentos": 142,
-   "n_andamentos": 272
+   "n_andamentos": 272,
+   "grupo": "Geração e transmissão"
   },
   {
    "id": "sei_a3c744a071",
@@ -2247,7 +2251,8 @@
     }
    ],
    "n_documentos": 238,
-   "n_andamentos": 307
+   "n_andamentos": 307,
+   "grupo": "Geração e transmissão"
   },
   {
    "id": "sei_80e06207cb",
@@ -2342,7 +2347,8 @@
     }
    ],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   },
   {
    "id": "sei_72016acea7",
@@ -2383,7 +2389,8 @@
     }
    ],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   },
   {
    "id": "sei_33126d92ef",
@@ -2415,7 +2422,8 @@
     }
    ],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   },
   {
    "id": "sei_f5531bb8f1",
@@ -2428,7 +2436,8 @@
    "andamentos": [],
    "pauta": [],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   },
   {
    "id": "sei_012966e05d",
@@ -2460,7 +2469,8 @@
     }
    ],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   },
   {
    "id": "sei_59b889e0d6",
@@ -2501,7 +2511,8 @@
     }
    ],
    "n_documentos": null,
-   "n_andamentos": null
+   "n_andamentos": null,
+   "grupo": "Distribuição"
   }
  ],
  "projetos_extra": [
@@ -2511,6 +2522,7 @@
    "apelido": "Contabilização dupla no MCP e ofertas de quantidade",
    "numero": "CP 218",
    "link": "https://consultas-publicas.mme.gov.br/",
+   "grupo": "Geração e transmissão",
    "situacao": "encerrada",
    "fim": "2026-05-15",
    "n_docs": 4,
@@ -2527,6 +2539,7 @@
    "apelido": "Renovação das outorgas de hidrelétricas (Lei 12.783)",
    "numero": "CP 233",
    "link": "https://consultas-publicas.mme.gov.br/",
+   "grupo": "Geração e transmissão",
    "situacao": "encerrada",
    "fim": "2026-10-30",
    "n_docs": 3,
@@ -2543,6 +2556,7 @@
    "apelido": "Angra 3: futuro da usina (ENBPar e Eletronuclear)",
    "numero": "TC 023.368/2025-0",
    "link": "https://pesquisa.apps.tcu.gov.br/documento/processo/*/NUMEROSOMENTENUMEROS%253A2336820250/DTAUTUACAOORDENACAO%2520desc%252C%2520NUMEROCOMZEROS%2520desc/0",
+   "grupo": "Geração e transmissão",
    "relator": "Benjamin Zymler",
    "tipo": "Relatório de acompanhamento",
    "ult_acordao": {
@@ -2567,6 +2581,7 @@
    "apelido": "UniversalizaSP: novos blocos de saneamento em SP",
    "numero": "Programa do Governo de SP",
    "link": "https://www.parceriaseminvestimentos.sp.gov.br/sec-parcerias-investimentos/projetos/projetos-qualificados/universalizasp",
+   "grupo": "Saneamento",
    "tema": "Concessão regionalizada de água e esgoto para os municípios fora da URAE 1 (Sabesp): 146 municípios em blocos por bacia hidrográfica (a definir), 33 anos, coordenação da SPI e da SEMIL. Consulta pública SPI-005/2026 encerrada em 12/06/2026; edital e leilão previstos para o 2º semestre de 2026.",
    "n_noticias": 23,
    "n_arsesp": 0,
@@ -2581,6 +2596,7 @@
    "apelido": "Fator X do saneamento (Sabesp, ação regulatória FSR-03)",
    "numero": "CP 17/2026 + AP 07/2026",
    "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "grupo": "Saneamento",
    "situacao": "aberta",
    "fim": "2026-11-23",
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
