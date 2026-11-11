@@ -771,6 +771,10 @@ def alert_sei_pauta(state: dict, dry: bool) -> int:
     hoje = (datetime.now(timezone.utc) - timedelta(hours=3)).strftime("%Y-%m-%d")
     seed = not isinstance(state.get("sei_pauta"), dict)
     st = {} if seed else dict(state["sei_pauta"])
+    # Processo recém-incluído no sei_watch.txt: o que já aconteceu só semeia,
+    # como na 1ª run (a Enel SP tinha 16 itens na pauta: seriam 16 alertas de uma
+    # vez). Sem a lista ainda, conta como conhecido quem já tem item no state.
+    conhecidos = set(state.get("sei_pauta_procs") or {u.split("|")[1] for u in st if u.count("|") >= 2})
     msgs = []  # (uid, status anterior, título, corpo, link)
     for rec in recs:
         dia = (rec.get("DatReuniao") or "")[:10]
@@ -787,8 +791,8 @@ def alert_sei_pauta(state: dict, dry: bool) -> int:
             if antes == "resultado" or antes == agora:
                 continue
             st[uid] = agora
-            if seed and (resultado or dia < hoje):
-                continue  # 1ª run: o que já aconteceu só semeia
+            if (seed or _proc_chave(d) not in conhecidos) and (resultado or dia < hoje):
+                continue  # 1ª run ou processo novo: o que já aconteceu só semeia
             if not resultado and dia < hoje:
                 continue  # item de reunião que já passou, ainda sem resultado: espera o resultado
             titulo = p.get("label") or p.get("processo") or "processo"
@@ -813,6 +817,7 @@ def alert_sei_pauta(state: dict, dry: bool) -> int:
             else:
                 st[uid] = antes
     state["sei_pauta"] = st
+    state["sei_pauta_procs"] = sorted(conhecidos | set(alvos))
     print(f"[sei_pauta] {len(alvos)} processos, {len(recs)} itens de pauta lidos, {len(msgs)} alertas"
           + (" (seed silencioso)" if seed else ""))
     return len(msgs)

@@ -166,17 +166,29 @@ def parse_process(url: str, max_attempts: int = MAX_RETRIES) -> dict:
 
 # ============== MONITOR ==============
 
+_NUM_PROCESSO = re.compile(r"\d{5}\.?\d{6}/?\d{4}-?\d{2}")
+
+
+def _fmt_processo(ref: str) -> str:
+    d = re.sub(r"\D", "", ref)
+    return f"{d[:5]}.{d[5:11]}/{d[11:15]}-{d[15:]}"
+
+
 def _read_watch() -> list:
-    """[(apelido, url)] do sei_watch.txt. Linha sem "|" = só o link."""
+    """[(apelido, url ou nº do processo)] do sei_watch.txt. Linha sem "|" = só o
+    link. Com o nº no lugar do link (sem o link público, que exige captcha), o
+    processo é acompanhado só pela pauta da Diretoria (a pedido, 11/11/2026)."""
     entries = []
     for line in WATCH_FILE.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
-        label, _, url = line.rpartition("|")
-        url = url.strip()
-        if url.startswith("http"):
-            entries.append((label.strip(), url))
+        label, _, ref = line.rpartition("|")
+        ref = ref.strip()
+        if ref.startswith("http"):
+            entries.append((label.strip(), ref))
+        elif _NUM_PROCESSO.fullmatch(ref):
+            entries.append((label.strip(), _fmt_processo(ref)))
     return entries
 
 
@@ -190,11 +202,26 @@ def load_processes() -> list:
     if not WATCH_FILE.exists():
         return processes
     by_url = {p["url"]: p for p in processes if p.get("url")}
+    # Processo só com o nº (sem link): sem "url", então o PC e o alert_sei pulam;
+    # a pauta da Diretoria (alert_sei_pauta) e o Monitor Regulatório usam o nº.
+    by_num = {p["processo"]: p for p in processes if not p.get("url") and p.get("processo")}
     out, seen = [], set()
     for label, url in _read_watch():
         if url in seen:
             continue
         seen.add(url)
+        if not url.startswith("http"):
+            p = by_num.get(url) or {
+                "id": "sei_" + hashlib.md5(url.encode("utf-8")).hexdigest()[:10],
+                "processo": url,
+                "ntfy_enabled": True,
+                "so_pauta": True,
+                "added_at": datetime.now(BRT).isoformat(),
+            }
+            if label:
+                p["label"] = label
+            out.append(p)
+            continue
         p = by_url.get(url) or {
             "id": "sei_" + hashlib.md5(url.encode("utf-8")).hexdigest()[:10],
             "url": url,

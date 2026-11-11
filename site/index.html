@@ -638,6 +638,10 @@ footer.foot p { margin: 0 0 4px; }
     var rel = (p.ands || []).filter(function (a) { return !a.r; }).length;
     var velho = !p.lido_em || horasDesde(p.lido_em) > 24;
     var h = cabecalhoProjeto(p, "Abrir no SEI", [p.numero, p.tipo]);
+    if (!p.link) {
+      h += '<p class="aviso" style="margin-top:14px">Este processo ainda não tem o link público do SEI, então aparecem só a pauta e as decisões da Diretoria. ' +
+        "Com o link (Pesquisa Pública do SEI, depois do captcha), entram também documentos e andamentos.</p>";
+    }
     if (pa) {
       h += '<div class="destaque"><b>' + (pa.data === hj ? "Na pauta de hoje" : "Na pauta de " + dm(pa.data)) + "</b> · " + esc(pa.reuniao) +
         (pa.relator ? " · relator(a): " + esc(pa.relator) : "") + '<div class="assunto">' + esc(pa.assunto) + "</div></div>";
@@ -645,6 +649,14 @@ footer.foot p { margin: 0 0 4px; }
       h += '<div class="destaque"><b>Última decisão: ' + esc(res.resultado) + "</b> · " + esc(res.reuniao) + " de " + dma(res.data) +
         (res.ato ? " · " + esc(res.ato) : "") + '<div class="assunto">' + esc(res.decisao || res.assunto) + "</div></div>";
     }
+    if (!p.link) {
+      var ptl = p.pauta || [];
+      h += '<div class="proj-stats">' +
+        "<div><b>" + ptl.length + "</b><span>vezes na pauta</span></div>" +
+        "<div><b>" + (ptl[0] ? dma(ptl[0].data) : "—") + "</b><span>última pauta</span></div>" +
+        "<div><b>" + (res ? esc(res.resultado) : "—") + "</b><span>última decisão</span></div>" +
+        "<div><b>" + (ptl[0] && ptl[0].relator ? esc(ptl[0].relator) : "—") + "</b><span>relator(a)</span></div></div>";
+    } else
     h += '<div class="proj-stats">' +
       "<div><b>" + (p.n_documentos != null ? p.n_documentos : (p.docs || []).length) + "</b><span>documentos</span></div>" +
       "<div><b>" + rel + "</b><span>andamentos relevantes (de " + (p.n_andamentos != null ? p.n_andamentos : (p.ands || []).length) + ")</span></div>" +
@@ -803,7 +815,8 @@ footer.foot p { margin: 0 0 4px; }
     var a = (p.andamentos || []).filter(function (x) { return !x.rotina; })[0];
     if (d && (!a || (d.data || "") >= (a.data || ""))) return { data: d.data, txt: d.tipo + (d.unidade ? " (" + d.unidade + ")" : "") };
     if (a) return { data: a.data, txt: (a.unidade ? a.unidade + ": " : "") + a.descricao };
-    return null;
+    var pt = (p.pauta || [])[0];  // processo só com o nº: o último item de pauta
+    return pt ? { data: pt.data, txt: (pt.resultado || "em pauta") + " (" + (pt.reuniao || "Diretoria") + ")" } : null;
   }
 
   function linhaStatus(p, hj) {

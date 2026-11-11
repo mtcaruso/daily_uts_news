@@ -1,28 +1,26 @@
 {
- "gerado_em": "2026-11-11T09:19:41-03:00",
+ "gerado_em": "2026-11-11T09:24:21-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T09:19:41-03:00",
+   "lido_em": "2026-11-11T09:24:21-03:00",
    "listagem_pc": "2026-11-11T09:02:49.112290-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:19:41-03:00"
+   "lido_em": "2026-11-11T09:24:21-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T09:19:41-03:00"
+   "lido_em": "2026-11-11T09:24:21-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T09:19:41-03:00"
+   "lido_em": "2026-11-11T09:24:21-03:00"
   },
   "Pauta ANEEL": {
-   "ok": false,
-   "erro": "HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=400&sort=DatReunia",
-   "lido_em": "2026-11-11T08:04:14-03:00",
-   "desde": "2026-11-11T08:49:18-03:00"
+   "ok": true,
+   "lido_em": "2026-11-11T09:24:21-03:00"
   },
   "SEI": {
    "ok": true,
@@ -30,7 +28,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T09:19:41-03:00"
+   "lido_em": "2026-11-11T09:24:21-03:00"
   },
   "TCU": {
    "ok": true,
@@ -1187,6 +1185,78 @@
      "ato": "",
      "relator": "Fernando Luiz Mosna Ferreira da Silva",
      "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 60 dias para apresentação do voto-vista."
+    },
+    {
+     "data": "2026-08-11",
+     "reuniao": "16/2026 - RPO",
+     "assunto": "Recurso Administrativo interposto pela TermoG SPE Ltda. contra o Despacho nº 1.944/2026, emitido pela Comissão Permanente de Leilões – CPL, que determinou sua inabilitação no Leilão nº 2/2026-ANEEL, denominado “Leilão de Reserva de Capacidade na Forma de Potência – LRCAP de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs”.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. O Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, votou no sentido de: (i) conhecer do Recurso Administrativo interposto pela TermoG SPE Ltda. contra o Despacho nº 1.944/2026, emitido pela Comissão Permanente de Leilões – CPL, que determinou sua inabilitação no Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capaci…"
+    },
+    {
+     "data": "2026-07-28",
+     "reuniao": "15/2026 - RPO",
+     "assunto": "Homologação parcial do resultado e adjudicação do objeto dos Produtos Potência Termelétrica 2027, Potência Termelétrica 2028, Potência Termelétrica 2029, Potência Hidrelétrica 2030, Potência Hidrelétrica 2031 e Potência Termelétrica 2031 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, à proponente…",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Homologação e Adjudicação do Leilão 2",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, acompanhando o voto do Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) homologar parcialmente o resultado e adjudicar o objeto do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026 – UTEs a Gás Natural, Carvão Mineral e UHE, à proponente vencedora Consórcio EBRASIL/CELNE, composto pelas empresas E…"
+    },
+    {
+     "data": "2026-06-30",
+     "reuniao": "13/2026 - RPO",
+     "assunto": "Homologação parcial do resultado e adjudicação do objeto dos Produtos Potência Termelétrica 2027, Potência Termelétrica 2028, Potência Termelétrica 2029, Potência Hidrelétrica 2030, Potência Hidrelétrica 2031 e Potência Termelétrica 2031 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, à proponente…",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "O Diretor Willamy Moreira Frota pediu vista deste processo. O Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, acompanhado pelo Diretor Gentil Nogueira de Sá Júnior, votou no sentido de: (i) homologar parcialmente o resultado e adjudicar o objeto do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026 – UTEs a Gás Natural, Carvão Mineral e UH…"
+    },
+    {
+     "data": "2026-06-16",
+     "reuniao": "12/2026 - RPO",
+     "assunto": "Ratificação da decisão proferida no 9º Circuito Deliberativo Público Ordinário de 2026 referente à homologação do resultado e à adjudicação do objeto dos Produtos Potência Termelétrica 2027, Potência Termelétrica 2028, Potência Termelétrica 2029, Potência Hidrelétrica 2030, Potência Hidrelétrica 2031 e Potência Termelétrica 2031 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidad…",
+     "resultado": "Deliberado",
+     "ato": "Aviso de Homologação e Adjudicação do Leilão 2",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu ratificar a decisão proferida no 9º Circuito Deliberativo Público Ordinário de 2026 (item 1), realizado em 9 de junho de 2026, no sentido de: (i) homologar o resultado e adjudicar o objeto do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência de 2026 – LRCAP de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, às proponent…"
+    },
+    {
+     "data": "2026-06-16",
+     "reuniao": "12/2026 - RPO",
+     "assunto": "Ratificação da decisão proferida na 3ª Reunião Pública Extraordinária de 2026 referente ao Leilão de Reserva de Capacidade na forma de Potência – LRCAP de 2026: Empreendimentos de geração termelétrica a gás natural, a carvão mineral e empreendimentos hidrelétricos.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Homologação e Adjudicação do Leilão 2",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu ratificar a decisão proferida na 3ª Reunião Pública Extraordinária de 2026 (item 1), realizada em 21 de maio de 2026, no sentido de: (i) homologar o resultado e adjudicar o objeto do Produto Potência Termelétrica 2026 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência de 2026 – LRCAP de 2026 – UTEs a Gás Natural, Carvão…"
+    },
+    {
+     "data": "2026-06-09",
+     "reuniao": "9/2026 - RPC",
+     "assunto": "Homologação do resultado e adjudicação do objeto dos Produtos Potência Termelétrica 2027, Potência Termelétrica 2028, Potência Termelétrica 2029, Potência Hidrelétrica 2030, Potência Hidrelétrica 2031 e Potência Termelétrica 2031 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência – LRCAP 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, às proponentes habil…",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Homologação e Adjudicação do Leilão 2",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) homologar o resultado e adjudicar do objeto do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência de 2026 – LRCAP de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, às proponentes habilitadas pela Comissão Permanente de Leilões por meio dos Despachos nº 1.848/2026, nº 1.849/2026 e nº 1.943/2026- e (ii) oficiar o Tri…"
+    },
+    {
+     "data": "2026-05-21",
+     "reuniao": "3/2026 - RPE",
+     "assunto": "Leilão de Reserva de Capacidade na forma de Potência – LRCAP de 2026: Empreendimentos de geração termelétrica a gás natural, a carvão mineral e empreendimentos hidrelétricos.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Homologação e Adjudicação do Leilão 2",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) homologar o resultado e adjudicar o objeto do Produto Potência Termelétrica 2026 do Leilão nº 2/2026-ANEEL, denominado Leilão de Reserva de Capacidade na forma de Potência de 2026 – LRCAP de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs, às proponentes habilitadas pela Comissão Permanente de Leilões por meio do Despacho nº 1.481/2026, listadas na Tabe…"
+    },
+    {
+     "data": "2026-05-05",
+     "reuniao": "9/2026 - RPO",
+     "assunto": "Recurso Administrativo contra o Despacho nº 885/2026, que negou provimento ao pedido de Impugnação ao Edital do Leilão nº 2/2026-ANEEL (denominado “Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs”) interposto pelo Instituto Nacional de Energia Limpa – INEL.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 1564",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Recurso Administrativo interposto contra o Despacho nº 885/2026, que negou provimento ao Pedido de Impugnação ao Edital do Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs – Leilão nº 2/2026-ANEEL, apresentado pelo Instituto Nacional de Energia Limpa – INEL, para, no mérito, negar-lhe provime…"
     }
    ],
    "n_documentos": 476,
@@ -1373,7 +1443,44 @@
      "rotina": true
     }
    ],
-   "pauta": [],
+   "pauta": [
+    {
+     "data": "2025-02-18",
+     "reuniao": "5/2025 - RPO",
+     "assunto": "Pedido de Reconsideração interposto pela Associação Brasileira de Energia Solar Fotovoltaica – Absolar em face da Resolução Normativa nº 1.073/2023, que alterou a Resolução Normativa ANEEL nº 1.030/2022, a qual estabeleceu, dentre outros, os procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 437",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu não conhecer do Pedido de Reconsideração interposto pela Associação Brasileira de Energia Solar Fotovoltaica – Absolar em face da Resolução Normativa nº 1.073/2023, que alterou a Resolução Normativa ANEEL nº 1.030/2022, a qual estabeleceu, dentre outros, os procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off, em vi…"
+    },
+    {
+     "data": "2023-09-12",
+     "reuniao": "33/2023 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 48/2022, instituída com vistas a colher subsídios e informações adicionais referentes à norma sobre procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de Centrais Geradoras Fotovoltaicas - UFVs.",
+     "resultado": "Deliberado",
+     "ato": "Resolução Normativa 1.073",
+     "relator": "Ricardo Lavorato Tili",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) estabelecer procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de Centrais Geradoras Fotovoltaicas – UFVs- e (ii) determinar à Superintendência de Regulação dos Serviços de Geração e do Mercado de Energia Elétrica – SGM que instaure Tomada de Subsídios com vistas a colher subsídios e informações adicionais ac…"
+    },
+    {
+     "data": "2023-09-05",
+     "reuniao": "32/2023 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 48/2022, instituída com vistas a colher subsídios e informações adicionais referentes à norma sobre procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de Centrais Geradoras Fotovoltaicas - UFVs.",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Ricardo Lavorato Tili",
+     "decisao": "O processo foi retirado de pauta."
+    },
+    {
+     "data": "2022-10-11",
+     "reuniao": "38/2022 - RPO",
+     "assunto": "Proposta de abertura de Consulta Pública com vistas a colher subsídios e informações adicionais para o estabelecimento de procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de Centrais Geradoras Fotovoltaicas – UFVs.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Abertura de Consulta Pública 48",
+     "relator": "Ricardo Lavorato Tili",
+     "decisao": "A Diretoria, por unanimidade, decidiu instaurar Consulta Pública, no período de 47 (quarenta e sete) dias, entre os dias 13 de outubro e 28 de novembro de 2022, com vistas a colher subsídios e informações adicionais para o estabelecimento de procedimentos e critérios para apuração e pagamento de restrição de operação por constrained-off de Centrais Geradoras Fotovoltaicas – UFVs. Houve apresentaç…"
+    }
+   ],
    "n_documentos": 15,
    "n_andamentos": 36
   },
@@ -1558,7 +1665,26 @@
      "rotina": true
     }
    ],
-   "pauta": [],
+   "pauta": [
+    {
+     "data": "2025-12-02",
+     "reuniao": "40/2025 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 36/2024, instituída com vistas a colher subsídios e informações adicionais para a revisão do valor de referência para o Custo de Operação e Manutenção – O&M de central geradora fotovoltaica, constante do anexo II da Resolução Normativa nº 1.016/2022.",
+     "resultado": "Deliberado",
+     "ato": "Resolução Normativa 1141",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, decidiu atualizar o valor de referência do custo de Operação e Manutenção – O&M da tecnologia solar fotovoltaica para fins de reembolso da Conta de Consumo de Combustíveis – CCC."
+    },
+    {
+     "data": "2024-12-10",
+     "reuniao": "46/2024 - RPO",
+     "assunto": "Proposta de abertura de Consulta Pública com vistas a colher subsídios e informações adicionais para o aprimoramento da proposta de revisão do valor de referência para o Custo de Operação e Manutenção – O&M de central geradora fotovoltaica, constante do anexo II da Resolução Normativa nº 1.016/2022.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Abertura de Consulta Pública 36",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, decidiu instaurar Consulta Pública, por intercâmbio documental, com vistas a colher subsídios e informações adicionais à proposta de revisão do valor de referência de Operação e Manutenção – O&M da tecnologia solar fotovoltaica para fins de reembolso da Conta de Consumo de Combustíveis – CCC, constante do anexo II da Resolução Normativa nº 1.016/2022."
+    }
+   ],
    "n_documentos": 31,
    "n_andamentos": 32
   },
@@ -1743,7 +1869,98 @@
      "rotina": true
     }
    ],
-   "pauta": [],
+   "pauta": [
+    {
+     "data": "2026-06-02",
+     "reuniao": "11/2026 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Deliberado",
+     "ato": "Resolução Normativa 1162",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, decidiu: (i) por unanimidade, aprovar a regulamentação que estabelece os requisitos e procedimentos necessários à obtenção de outorga de autorização de Sistemas de Armazenamento de Energia, conforme Anexo I da Nota Técnica Conjunta nº 3/2026-SGM-SCE-STD-STR-SFT/ANEEL, incorporados os ajustes apresentados no voto-vista do Diretor Fernando Luiz Mosna Ferreira da Silva- (ii) por maioria…"
+    },
+    {
+     "data": "2026-04-07",
+     "reuniao": "7/2026 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "O Diretor Willamy Moreira Frota pediu vista deste processo, a qual será considerada coletiva, nos termos do art. 53, § 9º, da Norma de Organização nº 1 (Resolução Normativa nº 1.133/2025). O Diretor-Relator do voto-vista, Fernando Luiz Mosna Ferreira da Silva, acompanhado pelo Diretor Gentil Nogueira de Sá Júnior, votou no sentido de: (i) declarar insubsistentes, nos termos dos arts. 54 e 55 da N…"
+    },
+    {
+     "data": "2026-03-31",
+     "reuniao": "4/2026 - RPC",
+     "assunto": "Prorrogação do prazo de pedido de vista referente ao Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 30 dias para apresentação do voto-vista."
+    },
+    {
+     "data": "2026-03-10",
+     "reuniao": "5/2026 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Retirado de Pauta",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, por maioria, decidiu, ouvida a Procuradoria, declarar a insubsistência do voto proferido pelo então Diretor-Relator da matéria, Daniel Cardoso Danna, na 29ª Reunião Pública Ordinária de 2025, realizada em 12 de agosto de 2025, em razão da superveniente publicação da Lei nº 15.269/2025, que caracteriza fato novo relevante e capaz de, por si só, modificar significativamente o contexto…"
+    },
+    {
+     "data": "2026-02-24",
+     "reuniao": "4/2026 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 30 dias para apresentação de voto-vista."
+    },
+    {
+     "data": "2025-11-11",
+     "reuniao": "4/2025 - RPC",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 60 (sessenta) dias para apresentação do voto-vista."
+    },
+    {
+     "data": "2025-10-07",
+     "reuniao": "36/2025 - RPO",
+     "assunto": "Prorrogação do prazo de pedido de vista referente ao Resultado da Consulta Pública nº 039, de 2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "A Diretoria, por unanimidade, decidiu conceder prazo adicional de 30 dias para apresentação do voto-vista. O Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, disponibilizou seu voto no endereço eletrônico da Agência, nos termos do art. 42 da Norma de Organização ANEEL nº 1 (Resolução Normativa nº 1.133/2025)."
+    },
+    {
+     "data": "2025-08-26",
+     "reuniao": "31/2025 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista + Retirado de Pauta",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "O processo foi retirado da Pauta."
+    },
+    {
+     "data": "2025-08-12",
+     "reuniao": "29/2025 - RPO",
+     "assunto": "Resultado da Consulta Pública nº 39/2023, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da regulação para o armazenamento de energia elétrica.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Daniel Cardoso Danna",
+     "decisao": "O Diretor Fernando Luiz Mosna Ferreira da Silva pediu vista deste processo. O Diretor-Relator, Daniel Cardoso Danna, acompanhado pelo Diretor Ivo Sechi Nazareno, votou no sentido de aprovar a regulamentação para o Armazenamento de Energia Elétrica, nos termos do voto do Diretor-Relator. O Diretor-Geral, Sandoval de Araújo Feitosa Neto, consignou seu voto antecipadamente, no sentido de também acom…"
+    },
+    {
+     "data": "2024-12-10",
+     "reuniao": "46/2024 - RPO",
+     "assunto": "Resultado da Primeira Fase da Consulta Pública nº 39/2023 e proposta de abertura de Segunda Fase da Consulta Pública com vistas a colher subsídios e informações adicionais para o aprimoramento da regulamentação para o armazenamento de energia elétrica, incluindo usinas reversíveis.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Segunda Fase da Consulta Pública 39",
+     "relator": "Ricardo Lavorato Tili",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) instaurar Segunda Fase da Consulta Pública nº 39/2023, pelo prazo de 50 (cinquenta) dias, no período entre 12 de dezembro de 2024 a 30 de janeiro de 2025, com vistas a colher contribuições para a minuta de Resolução Normativa para a regulação do Armazenamento de Energia Elétrica, incluindo Usinas Hidrelétricas Reversíveis- e (ii) determinar que a Superin…"
+    }
+   ],
    "n_documentos": 142,
    "n_andamentos": 272
   },
@@ -1937,6 +2154,33 @@
      "ato": "Despacho 3556",
      "relator": "Willamy Moreira Frota",
      "decisao": "A Diretoria, por unanimidade, decidiu conhecer e, no mérito, negar provimento ao Pedido de Reconsideração interposto pelas empresas Horizon Transmissão ES S.A., Transmissora SP-MG S.A., Mata Grande Transmissora de Energia S.A., Horizon Transmissão MA I S.A., Horizon Transmissão MA II S.A., Aliança Transmissora de Energia S.A., SE Vineyards Transmissão de Energia S.A., Água Vermelha Transmissora d…"
+    },
+    {
+     "data": "2026-07-28",
+     "reuniao": "15/2026 - RPO",
+     "assunto": "Ratificação da decisão proferida no 12º Circuito Deliberativo Público Ordinário de 2026, referente aos Pedidos de Medida Cautelar protocolados pelas empresas Interligação Elétrica do Madeira S.A. – IE Madeira, Interligação Elétrica Garanhuns S.A. – IE Garanhuns, Tropicália Transmissora de Energia S.A. e Transmissora Aliança de Energia S.A. – Taesa, com vistas à manutenção da cobertura tarifária i…",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Despacho 2703",
+     "relator": "Willamy Moreira Frota",
+     "decisao": "A Diretoria, por unanimidade, decidiu ratificar a decisão proferida no 12º Circuito Deliberativo Público Ordinário de 2026 (item 10), realizado em 21 de julho de 2026, no sentindo de: (i) conhecer do Pedido de Medida Cautelar protocolado pela Interligação Elétrica do Madeira S.A. – IE Madeira, com vistas a determinar que a ANEEL se abstenha de efetuar qualquer desconto glosa ou exclusão na Receit…"
+    },
+    {
+     "data": "2026-07-21",
+     "reuniao": "12/2026 - RPC",
+     "assunto": "Pedidos de Medida Cautelar protocolados pelas empresas Interligação Elétrica do Madeira S.A. – IE Madeira, Interligação Elétrica Garanhuns S.A. – IE Garanhuns, Tropicália Transmissora de Energia S.A. e Transmissora Aliança de Energia S.A. – Taesa, com vistas à manutenção da cobertura tarifária integral da Receita Anual Permitida – RAP das Recorrentes, referente ao ciclo tarifário 2026-2027, media…",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Despacho 2703",
+     "relator": "Willamy Moreira Frota",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) conhecer do Pedido de Medida Cautelar protocolado pela Interligação Elétrica do Madeira S.A. – IE Madeira, com vistas a determinar que a ANEEL se abstenha de efetuar qualquer desconto glosa ou exclusão na Receita Anual Permitida – RAP de usinas da Recorrente para o ciclo tarifário 2026-2027, mantendo a cobertura tarifária integral até o julgamento defini…"
+    },
+    {
+     "data": "2026-06-02",
+     "reuniao": "11/2026 - RPO",
+     "assunto": "Tratamento de casos extraordinários e excepcionais que afetarão o processo de reajuste de 2026 da Receita Anual Permitida – RAP.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 2031",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) aprovar, para fins de consideração no processo de reajuste da Receita Anual Permitida – RAP das concessionárias de transmissão, ciclo 2026-2027, o tratamento regulatório dos encargos rescisórios proposto pela Superintendência de Gestão Tarifária e Regulação Econômica – STR, observado o disposto nos itens subsequentes- (ii) determinar a recomposição da RA…"
     }
    ],
    "n_documentos": 60,
@@ -2132,10 +2376,250 @@
      "ato": "Resolução Normativa 1170",
      "relator": "Agnes Maria de Aragao da Costa",
      "decisao": "A Diretoria, por maioria, acompanhando o voto da Diretora-Relatora, Agnes Maria de Aragão da Costa, incorporando as sugestões trazidas no voto-vista do Diretor Gentil Nogueira de Sá Júnior, e vencido o Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) encerrar a Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimor…"
+    },
+    {
+     "data": "2026-07-28",
+     "reuniao": "15/2026 - RPO",
+     "assunto": "Resultado da Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo, a qual será considerada coletiva, nos termos do art. 53, § 9º, da Norma de Organização nº 1 (Resolução Normativa nº 1.133/2025). O Diretor Fernando Luiz Mosna Ferreira da Silva apresentou voto-vista no sentido: (i) encerrar a Terceira Fase de Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adici…"
+    },
+    {
+     "data": "2026-06-22",
+     "reuniao": "4/2026 - RPE",
+     "assunto": "Resultado da Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O Diretor Fernando Luiz Mosna Ferreira da Silva pediu vista deste processo. A Diretora-Relatora, Agnes Maria de Aragão da Costa, acompanhada pelos Diretores Gentil Nogueira de Sá Júnior e Willamy Moreira Frota, votou por encerrar a Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos p…"
+    },
+    {
+     "data": "2026-06-16",
+     "reuniao": "12/2026 - RPO",
+     "assunto": "Resultado da Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O processo foi retirado da pauta."
+    },
+    {
+     "data": "2026-02-24",
+     "reuniao": "4/2026 - RPO",
+     "assunto": "Resultado da Terceira Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O processo foi retirado da Pauta."
+    },
+    {
+     "data": "2024-12-10",
+     "reuniao": "46/2024 - RPO",
+     "assunto": "Resultado da Segunda Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Terceira Fase da Consulta Pública 45",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, decidiu instaurar a Terceira Fase da Consulta Pública nº 45/2019, na modalidade intercâmbio documental, com duração de 60 (sessenta) dias, com vistas a colher subsídios e contribuições à proposta de regulamentação contida na Nota Técnica nº 240/2024, emitida pela Superintendência de Regulação dos Serviços de Geração e do Mercado de Energia Elétrica – SGM, juntamente…"
+    },
+    {
+     "data": "2024-05-21",
+     "reuniao": "17/2024 - RPO",
+     "assunto": "Resultado da Segunda Fase da Consulta Pública nº 45/2019, instituída com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Retirado da Pauta",
+     "ato": "",
+     "relator": "Helvio Neves Guerra",
+     "decisao": "O processo foi retirado de pauta."
+    },
+    {
+     "data": "2022-08-09",
+     "reuniao": "29/2022 - RPO",
+     "assunto": "Proposta de abertura de segunda fase da Consulta Pública nº 45/2019 com vistas a colher subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Segunda Fase da Consulta Pública 45",
+     "relator": "Helvio Neves Guerra",
+     "decisao": "A Diretoria, por unanimidade, decidiu instaurar a segunda fase de Consulta Pública nº 45/2019, pelo período de 11 de agosto a 26 de setembro de 2022, para obter subsídios e informações adicionais para o aprimoramento da norma que estabelecerá os critérios operativos para redução ou limitação de geração no Sistema Interligado Nacional – SIN."
+    },
+    {
+     "data": "2019-12-17",
+     "reuniao": "47/2019 - RPO",
+     "assunto": "Proposta de abertura de Consulta Pública com vistas a colher subsídios e informações adicionais para estabelecer os critérios operativos para redução ou limitação de geração.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Aviso de Abertura de Consulta Pública 45",
+     "relator": "Elisa Bastos Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu instaurar a primeira fase de Consulta Pública com vistas a colher subsídios e informações adicionais para estabelecer os critérios operativos para redução ou limitação de geração, de 19 de dezembro de 2019 a 17 de fevereiro de 2020, quando serão disponibilizados a Nota Técnica nº 119/2019, emitida pela Superintendência de Regulação dos Serviços de Geração - S…"
     }
    ],
    "n_documentos": 238,
    "n_andamentos": 307
+  },
+  {
+   "id": "sei_80e06207cb",
+   "apelido": "Enel SP: caducidade da concessão (contrato 162/2008)",
+   "numero": "48500.003331/2024-72",
+   "tipo": null,
+   "link": null,
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [
+    {
+     "data": "2026-10-06",
+     "reuniao": "20/2026 - RPO",
+     "assunto": "Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL, firmado com a Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. A Diretora-Relator, Agnes Maria de Aragão da Costa, acompanhada pela Diretora Ludimila Lima da Silva, votou no sentido de recomendar ao Ministério de Minas e Energia – MME a caducidade da concessão vinculada ao Contrato de Concessão nº 162/2008-ANEEL, firmado com Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distr…"
+    },
+    {
+     "data": "2026-10-06",
+     "reuniao": "20/2026 - RPO",
+     "assunto": "Ratificação da decisão proferida no 17º Circuito Deliberativo Público Ordinário de 2026, referente ao Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, que indeferiu o pedido de realização de prova pericial técnica formulado pela Recorrente, declarou encerrada a fase instrutória do procedimento administrativo tendente à caducidade da c…",
+     "resultado": "Deliberado",
+     "ato": "Despacho 3811",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": "A Diretoria, por unanimidade, decidiu ratificar a decisão proferida no 17º Circuito Deliberativo Público Ordinário de 2026 (item 16), realizado em 29 de setembro de 2026, no sentido de conhecer do Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, para, no mérito, negar-lhe provimento."
+    },
+    {
+     "data": "2026-09-29",
+     "reuniao": "17/2026 - RPC",
+     "assunto": "Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, que indeferiu o pedido de realização de prova pericial técnica formulado pela Recorrente, declarou encerrada a fase instrutória do procedimento administrativo tendente à caducidade da concessão e deu outras providências.",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Despacho 3811",
+     "relator": "Gentil Nogueira de Sa Junior",
+     "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, para, no mérito, negar-lhe provimento. Houve sustentação oral por parte do Sr. Hugo Lamin, representante da Enel Distribuição São Paulo – Enel SP. A manifestação foi realizada por vídeo, nos termos do art. 45, § 4º, da Norma de Organizaç…"
+    },
+    {
+     "data": "2026-08-24",
+     "reuniao": "17/2026 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Enel Distribuição São Paulo – Enel SP para produção de prova pericial, no âmbito do Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 3303",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, decidiu: (i) indeferir o pedido formulado pela Enel Distribuição São Paulo – Enel SP para realização de prova pericial técnica, por enquadrar-se na hipótese de prova desnecessária prevista no art. 38, § 2º, da Lei nº 9.784/1999- (ii) declarar encerrada a fase instrutória do Processo Administrativo SEI nº 48500.903331/2024-72, por reputar suficientes os elementos cons…"
+    },
+    {
+     "data": "2026-08-11",
+     "reuniao": "16/2026 - RPO",
+     "assunto": "Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.) contra o Despacho nº 1.214/2026, que instaurou o procedimento administrativo tendente à caducidade da Recorrente, e deu outras providências.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 3107",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por unanimidade, decidiu conhecer e, no mérito, negar provimento ao Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.) contra o Despacho nº 1.214/2026, que determinou a instauração de procedimento administrativo tendente à caducidade da concessão e deu outras providências, mantendo-se integralmente…"
+    },
+    {
+     "data": "2026-04-07",
+     "reuniao": "7/2026 - RPO",
+     "assunto": "Termo de Intimação nº 49/2024, lavrado pela Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica – SFT, que trata do Relatório de Falhas e Transgressões à legislação e ao Contrato de Concessão da Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Parcialmente Deliberado",
+     "ato": "Despacho 1214",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por unanimidade, acompanhando o voto-vista do Diretor Gentil Nogueira de Sá Júnior, decidiu: (i) rejeitar os argumentos apresentados na Carta Enel SP 274-2024-RB, protocolada no dia 5 de novembro de 2024, em face do Termo de Intimação nº 49/2024-SFT- (ii) reconhecer o prazo de acompanhamento e avaliação do Plano de Recuperação no âmbito do Termo de Intimação nº 49/2024, até 31 de mar…"
+    },
+    {
+     "data": "2026-03-24",
+     "reuniao": "6/2026 - RPO",
+     "assunto": "Termo de Intimação nº 49/2024, lavrado pela Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica – SFT, que trata do Relatório de Falhas e Transgressões à legislação e ao Contrato de Concessão da Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Pedido de Vista + Retirado de Pauta",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O processo foi retirado de pauta."
+    },
+    {
+     "data": "2026-02-24",
+     "reuniao": "4/2026 - RPO",
+     "assunto": "Prorrogação do prazo de pedido de vista referente ao Termo de Intimação nº 49/2024, lavrado pela Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica – SFT, que trata do Relatório de Falhas e Transgressões à legislação e ao Contrato de Concessão da Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Pedido de Vista + Prorrogação",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "A Diretoria, por maioria, acompanhando o voto divergente do Diretor Willamy Moreira Frota, e vencidos o Diretor-Geral, Sandoval de Araújo Feitosa Neto, e o Diretor-Relator do voto-vista, Gentil Nogueira de Sá Júnior, decidiu prorrogar o prazo do pedido de vista, devendo o processo retornar para deliberação até a Reunião Pública do dia 24 de março de 2026. O Diretor Gentil Nogueira de Sá Júnior vo…"
+    },
+    {
+     "data": "2025-11-04",
+     "reuniao": "38/2025 - RPO",
+     "assunto": "Termo de Intimação nº 49/2024, lavrado pela Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica – SFT, que trata do Relatório de Falhas e Transgressões à legislação e ao Contrato de Concessão da Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. Preliminarmente, a Diretoria, por unanimidade, conforme manifestação do Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu indeferir o incidente de impedimento do diretor Fernando Mosna suscitado pela Enel Distribuição São Paulo – Enel SP para julgamento do processo. O Diretor Fernando Luiz Mosna Ferreira da Silva não particip…"
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
+  },
+  {
+   "id": "sei_72016acea7",
+   "apelido": "Enel CE: prorrogação da concessão (Coelce, antecipação)",
+   "numero": "48500.010865/2025-36",
+   "tipo": null,
+   "link": null,
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [
+    {
+     "data": "2026-03-24",
+     "reuniao": "6/2026 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Enel Distribuição Ceará – Enel CE (Companhia Energética do Ceará – Coelce) com vistas à antecipação dos efeitos da prorrogação do Contrato de Concessão de Distribuição nº 1/1998, nos termos do Decreto nº 12.068/2024 e da Lei nº 9.074/1995.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 1033",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "A Diretoria, por maioria, acompanhando o voto-vista do Diretor Gentil Nogueira de Sá Júnior e vencido o Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, decidiu: (i) recomendar ao Ministério de Minas e Energia – MME a prorrogação do Contrato de Concessão de Distribuição nº 1/1998-ANEEL, com a antecipação de seus efeitos- (ii) recomendar ao MME que avalie a oportunidade e a conveniência de…"
+    },
+    {
+     "data": "2026-02-24",
+     "reuniao": "4/2026 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Companhia Energética do Ceará – Coelce com vistas à antecipação dos efeitos da prorrogação do Contrato de Concessão de Distribuição nº 1/1998, nos termos do Decreto nº 12.068/2024, e da Lei nº 9.074/1995.",
+     "resultado": "Pedido de Vista + Retirado de Pauta",
+     "ato": "",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "O processo foi retirado de pauta."
+    },
+    {
+     "data": "2025-12-09",
+     "reuniao": "41/2025 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Companhia Energética do Ceará – Coelce com vistas à antecipação dos efeitos da prorrogação do Contrato de Concessão de Distribuição nº 1/1998, nos termos do Decreto nº 12.068/2024, e da Lei nº 9.074/1995.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Fernando Luiz Mosna Ferreira da Silva",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. O Diretor-Relator, Fernando Luiz Mosna Ferreira da Silva, votou no sentindo de conhecer não recomendar ao Ministério de Minas e Energia – MME a antecipação da prorrogação do Contrato de Concessão de Distribuição nº 1/1998-ANEEL da Companhia Energética do Ceará – Coelce (Enel Distribuição Ceará – Enel CE), considerando que, dentro…"
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
+  },
+  {
+   "id": "sei_33126d92ef",
+   "apelido": "Enel RJ: prorrogação da concessão (Ampla)",
+   "numero": "48500.006490/2023-48",
+   "tipo": null,
+   "link": null,
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [
+    {
+     "data": "2025-08-19",
+     "reuniao": "30/2025 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Ampla Energia e Serviços S.A. (Enel Distribuição Rio – Enel RJ) com vistas à prorrogação do Contrato de Concessão de Distribuição nº 5/1996, nos termos da Lei nº 9.074/1995 e do Decreto nº 12.068/2024.",
+     "resultado": "Deliberado",
+     "ato": "Despacho 2485",
+     "relator": "Ludimila Lima da Silva",
+     "decisao": "A Diretoria, por maioria, acompanhando o voto da Diretora-Relatora, Ludimila Lima da Silva, proferido na 22ª Reunião Pública Ordinária de 2025, de 24 de junho de 2025, e vencido o Diretor Fernando Luiz Mosna Ferreira da Silva, decidiu recomendar ao Ministério de Minas e Energia – MME a prorrogação do Contrato de Concessão de Distribuição nº 5/1996-ANEEL, com a antecipação de seus efeitos, e encam…"
+    },
+    {
+     "data": "2025-06-24",
+     "reuniao": "22/2025 - RPO",
+     "assunto": "Requerimento Administrativo protocolado pela Ampla Energia e Serviços S.A. (Enel Distribuição Rio – Enel RJ) com vistas à prorrogação do Contrato de Concessão de Distribuição nº 5/1996, nos termos da Lei nº 9.074/1995 e do Decreto nº 12.068/2024.",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Ludimila Lima da Silva",
+     "decisao": "O Diretor Fernando Luiz Mosna Ferreira da Silva pediu vista deste processo. A Diretora-Relatora, Ludimila Lima da Silva, acompanhada pelo Diretor Daniel Cardoso Danna e pela Diretora Agnes Maria de Aragão da Costa, votou no sentido de recomendar ao Ministério de Minas e Energia – MME a prorrogação do Contrato de Concessão de Distribuição nº 5/1996-ANEEL, com a antecipação de seus efeitos, e encam…"
+    }
+   ],
+   "n_documentos": null,
+   "n_andamentos": null
   }
  ],
  "projetos_extra": [
@@ -2763,6 +3247,30 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "afc76d3e341b",
+   "dia": "2026-10-06",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Enel SP: caducidade da concessão (contrato 162/2008): Pedido de Vista",
+   "detalhe": "20/2026 - RPO de 06/10 · O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. A Diretora-Relator, Agnes Maria de Aragão da Costa, acompanhada pela Diretora Ludimila Lima da Silva, votou no sentido de recomendar ao Ministério de Minas e Energia – MME a caducidade da concessão vinculada ao Contrato de Concessão nº 162/2008-ANEEL, firmado com Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distr…",
+   "link": null,
+   "ref": "sei:sei_80e06207cb",
+   "visto_em": "2026-11-11T09:24:21-03:00"
+  },
+  {
+   "uid": "5b393f23f654",
+   "dia": "2026-10-06",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Enel SP: caducidade da concessão (contrato 162/2008): Deliberado",
+   "detalhe": "20/2026 - RPO de 06/10 · Despacho 3811 · A Diretoria, por unanimidade, decidiu ratificar a decisão proferida no 17º Circuito Deliberativo Público Ordinário de 2026 (item 16), realizado em 29 de setembro de 2026, no sentido de conhecer do Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, para, no mérito, negar-lhe provimento.",
+   "link": null,
+   "ref": "sei:sei_80e06207cb",
+   "visto_em": "2026-11-11T09:24:21-03:00"
+  },
+  {
    "uid": "f4ad9ff9d6e7",
    "dia": "2026-10-06",
    "hora": null,
@@ -2943,6 +3451,18 @@
    "visto_em": "2026-11-10T17:20:08-03:00"
   },
   {
+   "uid": "b046c8c0786e",
+   "dia": "2026-09-29",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Enel SP: caducidade da concessão (contrato 162/2008): Parcialmente Deliberado",
+   "detalhe": "17/2026 - RPC de 29/09 · Despacho 3811 · A Diretoria, por unanimidade, decidiu conhecer do Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, para, no mérito, negar-lhe provimento. Houve sustentação oral por parte do Sr. Hugo Lamin, representante da Enel Distribuição São Paulo – Enel SP. A manifestação foi realizada por vídeo, nos termos do art. 45, § 4º, da Norma de Organizaç…",
+   "link": null,
+   "ref": "sei:sei_80e06207cb",
+   "visto_em": "2026-11-11T09:24:21-03:00"
+  },
+  {
    "uid": "89eb29931653",
    "dia": "2026-09-28",
    "hora": null,
@@ -3097,6 +3617,18 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzO1B1-3L7yOCovhVwSTgppC2OnykTdp15oXoQGsBr8pMNgQPdqiFParC0B2BDjcVXX8YfGxeKxBinkI5rj-jw4B",
    "ref": "sei:sei_a3c744a071",
    "visto_em": "2026-11-10T17:27:11-03:00"
+  },
+  {
+   "uid": "2d81e1f3ef48",
+   "dia": "2026-08-24",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "resultado",
+   "titulo": "Enel SP: caducidade da concessão (contrato 162/2008): Deliberado",
+   "detalhe": "17/2026 - RPO de 24/08 · Despacho 3303 · A Diretoria, por unanimidade, decidiu: (i) indeferir o pedido formulado pela Enel Distribuição São Paulo – Enel SP para realização de prova pericial técnica, por enquadrar-se na hipótese de prova desnecessária prevista no art. 38, § 2º, da Lei nº 9.784/1999- (ii) declarar encerrada a fase instrutória do Processo Administrativo SEI nº 48500.903331/2024-72, por reputar suficientes os elementos cons…",
+   "link": null,
+   "ref": "sei:sei_80e06207cb",
+   "visto_em": "2026-11-11T09:24:21-03:00"
   }
  ]
 }

@@ -347,12 +347,47 @@ def pauta_aneel() -> list:
     return r.json()["result"]["records"]
 
 
+ANEEL_PAUTA_BUSCA = ("https://dadosabertos.aneel.gov.br/api/3/action/datastore_search"
+                     "?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=200&sort=DatReuniao%20desc&q=")
+_CAMPOS_PAUTA = ("DatReuniao", "IdeReuniao", "TxtAssunto", "NumProcesso", "DscResultadoJulgamento",
+                 "NomTipoAtoAdministrativo", "NumAtoAdministrativo", "NomDiretorRelator", "TxtDecisaoJulgamento")
+
+
+def pauta_por_processo(cache: dict, hoje: str) -> dict:
+    """Histórico INTEIRO da pauta de cada processo do sei_watch.txt (a pauta
+    recente só cobre ~2 meses: a Enel RJ passou pela Diretoria em 2025). Busca
+    pelo nº nos dados abertos da ANEEL, 1x/dia por processo (~4s cada); falha
+    mantém a leitura anterior. {chave de 17 dígitos: {"lido": dia, "recs": [...]}}"""
+    chaves = set()
+    for p in sei_monitor.load_processes():
+        num = p.get("processo") or next(iter(alerts._PROC_NUM.findall(p.get("label") or "")), None)
+        if num:
+            chaves.add(alerts._proc_chave(num))
+    novo = {}
+    for ch in sorted(chaves):
+        c = cache.get(ch)
+        if c and c.get("lido") == hoje:
+            novo[ch] = c
+            continue
+        try:
+            r = requests.get(ANEEL_PAUTA_BUSCA + ch, timeout=60)
+            r.raise_for_status()
+            recs = [{k: x.get(k) for k in _CAMPOS_PAUTA} for x in r.json()["result"]["records"]
+                    if ch in re.findall(r"\d{17}", x.get("NumProcesso") or "") or ch in (x.get("NumProcesso") or "")]
+            novo[ch] = {"lido": hoje, "recs": recs}
+        except Exception as e:
+            print(f"[regulatorio] pauta do processo {ch}: {e}", file=sys.stderr)
+            if c:
+                novo[ch] = c
+    return novo
+
+
 def _nulo(s) -> str:
     s = " ".join(str(s or "").split())
     return "" if s in ("None", "null") else s
 
 
-def processos_sei(recs: list, hoje: str) -> tuple:
+def processos_sei(recs: list, hoje: str, recs_proc: list = ()) -> tuple:
     """sei_processes.json + sei_historico.json (o PC lê o SEI; o Actions é
     bloqueado) + a pauta da Diretoria nos dados abertos (sem o PC). Devolve
     (processos com o histórico COMPLETO, aberturas de CP/TS que estão na pauta
@@ -392,7 +427,10 @@ def processos_sei(recs: list, hoje: str) -> tuple:
             por_chave[alerts._proc_chave(numero)] = item
 
     aberturas = []
-    for rec in recs:
+    # recs = pauta recente (400 itens, ~2 meses); recs_proc = histórico inteiro de
+    # cada processo acompanhado (pauta_por_processo, 1x/dia). Recente primeiro: o
+    # item repetido fica com o resultado mais novo.
+    for rec, recente in [(r, True) for r in recs] + [(r, False) for r in recs_proc]:
         dia = (rec.get("DatReuniao") or "")[:10]
         assunto = _limpa(rec.get("TxtAssunto"))
         resultado = _nulo(rec.get("DscResultadoJulgamento"))
@@ -406,7 +444,7 @@ def processos_sei(recs: list, hoje: str) -> tuple:
             p = por_chave.get(alerts._proc_chave(d))
             if p and not any(x["reuniao"] == base["reuniao"] and x["assunto"] == base["assunto"] for x in p["pauta"]):
                 p["pauta"].append(dict(base))
-        if dia >= hoje and _PAUTA_ABERTURA.search(assunto):
+        if recente and dia >= hoje and _PAUTA_ABERTURA.search(assunto):
             aberturas.append({**base, "processo": _nulo(rec.get("NumProcesso"))[:40]})
     for p in out:
         p["pauta"] = sorted(p["pauta"], key=lambda x: x["data"], reverse=True)
@@ -427,6 +465,8 @@ def projeto(p: dict) -> dict:
     texto, r rotina}."""
     ult = [d["data"] for d in p["documentos"] if d["data"] and not d["anexado"]]
     ult += [a["data"] for a in p["andamentos"] if a["data"] and not a["rotina"]]
+    hoje = agora().strftime("%Y-%m-%d")
+    ult += [x["data"] for x in p["pauta"] if x.get("data") and x["data"] <= hoje]  # processo só com o nº
     return {
         "id": p["id"], "tipo_projeto": "SEI", "apelido": p["apelido"], "numero": p["numero"], "tipo": p["tipo"],
         "link": p["link"], "lido_em": p["lido_em"],
@@ -797,7 +837,8 @@ def main():
     recs = ler("Pauta ANEEL", pauta_aneel)
     if recs is None:
         recs = []
-    processos, aberturas = processos_sei(recs, hoje)
+    pauta_proc = pauta_por_processo(st.get("pauta_proc") or {}, hoje)
+    processos, aberturas = processos_sei(recs, hoje, [r for c in pauta_proc.values() for r in c["recs"]])
     if not recs:  # pauta fora: mantém a da leitura anterior
         pauta_prev = {p["id"]: p.get("pauta", []) for p in prev.get("processos", [])}
         for p in processos:
@@ -841,7 +882,7 @@ def main():
     consultas += [c for c in arsae_todas if c["situacao"] == "em andamento"]
 
     # State (vistos + cache da ARSAE) sempre que mudar; o JSON do site, abaixo.
-    novo_st = json.dumps({"vistos": vistos, "arsae": arsae_cache}, ensure_ascii=False)
+    novo_st = json.dumps({"vistos": vistos, "arsae": arsae_cache, "pauta_proc": pauta_proc}, ensure_ascii=False)
     if novo_st != json.dumps(st, ensure_ascii=False):
         STATE.write_text(novo_st, encoding="utf-8")
 
