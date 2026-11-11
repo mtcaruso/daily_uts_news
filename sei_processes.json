@@ -613,7 +613,7 @@
     "documento_count": 476,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-11T09:32:28.473124-03:00",
+    "last_check_at": "2026-11-11T11:02:04.289990-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 15:57",
@@ -1295,7 +1295,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T09:32:30.900159-03:00",
+    "last_check_at": "2026-11-11T11:02:06.760195-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1512,7 +1512,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-11T09:32:33.366688-03:00",
+    "last_check_at": "2026-11-11T11:02:09.305099-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1985,7 +1985,7 @@
     "documento_count": 142,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T09:32:36.557506-03:00",
+    "last_check_at": "2026-11-11T11:02:20.687131-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/10/2026 15:45",
@@ -2390,7 +2390,7 @@
     "tipo": "Gestão Tarifária: Transmissão - Reajuste Anual da Receita Anual Permitida - RAP",
     "andamento_count": 93,
     "documento_count": 60,
-    "last_check_at": "2026-11-11T09:32:39.195351-03:00",
+    "last_check_at": "2026-11-11T11:02:23.279408-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "04/11/2026 17:55",
@@ -2927,7 +2927,7 @@
     ],
     "andamento_count": 307,
     "documento_count": 238,
-    "last_check_at": "2026-11-11T09:32:51.210570-03:00",
+    "last_check_at": "2026-11-11T11:02:27.487760-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "26/10/2026 15:18",
@@ -3346,5 +3346,204 @@
     "so_pauta": true,
     "added_at": "2026-11-11T09:32:25.747563-03:00",
     "label": "Enel RJ: prorrogação da concessão (Ampla)"
+  },
+  {
+    "id": "sei_f5531bb8f1",
+    "url": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
+    "ntfy_enabled": true,
+    "added_at": "2026-11-11T11:01:52.669429-03:00",
+    "label": "Perdas na distribuição: regulação (NT 189/2026 STD)",
+    "processo": "48500.906028/2021-89",
+    "tipo": "Regulação da Distribuição: Normatização",
+    "andamentos_seen": [
+      "f570b0ca1f17",
+      "4e7150ce3982",
+      "340acc5cdbe0",
+      "b26c6258072f",
+      "42e26ac3353c",
+      "424f44fa9cb7",
+      "166883b9d6ef",
+      "dcb4758ee244",
+      "b5dca3c13580"
+    ],
+    "andamento_count": 9,
+    "documento_count": 10,
+    "last_check_at": "2026-11-11T11:02:29.889045-03:00",
+    "last_andamentos_top10": [
+      {
+        "datahora": "09/11/2026 11:24",
+        "unidade": "GAB III - LLS",
+        "descricao": "Processo recebido na unidade",
+        "hash": "f570b0ca1f17"
+      },
+      {
+        "datahora": "09/11/2026 11:08",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "4e7150ce3982"
+      },
+      {
+        "datahora": "09/11/2026 11:08",
+        "unidade": "GAB - APOIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "340acc5cdbe0"
+      },
+      {
+        "datahora": "09/11/2026 10:39",
+        "unidade": "GAB - APOIO",
+        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+        "hash": "b26c6258072f"
+      },
+      {
+        "datahora": "09/11/2026 10:39",
+        "unidade": "GAB III - LLS",
+        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+        "hash": "42e26ac3353c"
+      },
+      {
+        "datahora": "03/11/2026 15:51",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "424f44fa9cb7"
+      },
+      {
+        "datahora": "03/11/2026 15:24",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo remetido pela unidade STD",
+        "hash": "166883b9d6ef"
+      },
+      {
+        "datahora": "03/11/2026 15:24",
+        "unidade": "STD",
+        "descricao": "Solicito a distribuição do seguinte processo na 44ª Sessão Pública Ordinária de Distribuição de Processos, de 9 novembro de 2026.",
+        "hash": "dcb4758ee244"
+      },
+      {
+        "datahora": "11/12/2024 22:57",
+        "unidade": "STD",
+        "descricao": "Processo público gerado (autuado em 30/11/2021)",
+        "hash": "b5dca3c13580"
+      }
+    ],
+    "last_documentos_top10": [
+      {
+        "protocolo": "0502251",
+        "tipo": "Despacho de Distribuição de Processo",
+        "data": "09/11/2026",
+        "data_inclusao": "09/11/2026",
+        "unidade": "SGE -SORTEIO",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM1o6JXMJwPF9do63cVi9ct84Y3LvyeRtHUMPjKAR_M3n33oygLvPBvOXCD1BgIi-z79fF3RYthcOlWxHMrBm6a",
+        "unidade_nome": "(Somente encaminhamento de processos para sorteio de Diretor-Relator)"
+      },
+      {
+        "protocolo": "0497230",
+        "tipo": "Requerimento de Distribuição de Processo",
+        "data": "03/11/2026",
+        "data_inclusao": "03/11/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPVaL_XUVopTcEu9wE7BJPUQeDGd_OWQQwiFW7Ok3YuxtBDcSMb1lxfy8fMeZ82O-ZD4wdm7yIDo9xxl4B9slTy",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0495890",
+        "tipo": "Nota Técnica 189",
+        "data": "29/10/2026",
+        "data_inclusao": "29/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMXFJawOCR8Fl9_bqHaGE2jyWYZEwi0vX3bFD5-A_1JWn-gkeFh4yGC5jVbqYrSywtffsDyRrQIveO520m14lzu",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0495913",
+        "tipo": "Relatório de Análise de Impacto Regulatório 8",
+        "data": "29/10/2026",
+        "data_inclusao": "29/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMHx9_IIj_PZ87v6ZwFeNUJ0tzGNxJwQoRfIntHIAnPItH5_DodJMjWjr4r0UHAsJhcL72D4pnPCQ5tNvY5kbl1",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0495982",
+        "tipo": "Anexo I",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNPDW73X-CIcInlzvNkR9RQH2EctaXgnwAi9QW9-6IVoPg4hAarGbbo_l_m0YARmfzxIaymbUQNQqmlYYPDh9EZ",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0495986",
+        "tipo": "Anexo II",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMp1JsYOa2xPqWhSdN0ShJjo1g4GCga3RpAaxdUPjpzfBztjsZQK-qoY3H0EqzgYF4DlsAdLd_vRZQNSaHenH2w",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0496001",
+        "tipo": "Anexo III",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPaOLt8FH_lts5jg6rkyyjV5ff36Zy41AV-REkgChse5boRw1vXljNWNddj6ouoOEjlOnxhzw5ZbXacAXudgvjO",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0496024",
+        "tipo": "Anexo IV",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNyoXkQs2iICOjpjYT7A8RR1AOC5tMPOlyInccBanXeWQ4bjCdPtjpHiWmmnnOXszL-E9uMvnHvc70z4AYxetD3",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0496030",
+        "tipo": "Anexo V",
+        "data": "28/10/2026",
+        "data_inclusao": "28/10/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOcKE78bdlIfoXOgQVE0CvAQj5JjXosbDr9Y3s78PhwI9WxlqrhQaEeYmstm521HBc4gwhNxNOzK9ga_tFYQ-Vu",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
+      {
+        "protocolo": "0001954",
+        "tipo": "Termo de Migração",
+        "data": "17/01/2025",
+        "data_inclusao": "17/01/2025",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?e4EEOAhfYiaalB_6xF7WDlYE8ADR7x4hMaCMmofngI3Rt9qZmJu_zY5DwLuCOa7ZqEPDfTnJCVjqdXHLW37qHqGMkD1mxDd-BQF6tYSAySi6FkhiGF02ruZiZM9ntsYB",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      }
+    ],
+    "documentos_protocolos": [
+      "0001954",
+      "0495890",
+      "0495913",
+      "0495982",
+      "0495986",
+      "0496001",
+      "0496024",
+      "0496030",
+      "0497230",
+      "0502251"
+    ]
+  },
+  {
+    "id": "sei_012966e05d",
+    "processo": "48500.027624/2025-26",
+    "ntfy_enabled": true,
+    "so_pauta": true,
+    "added_at": "2026-11-11T11:01:52.669440-03:00",
+    "label": "Fator X ANEEL: revisão do componente Pd (CP 20/2026)"
+  },
+  {
+    "id": "sei_59b889e0d6",
+    "processo": "48500.000953/2021-04",
+    "ntfy_enabled": true,
+    "so_pauta": true,
+    "added_at": "2026-11-11T11:01:52.669444-03:00",
+    "label": "WACC regulatório: taxa de remuneração do capital (TRRC)"
   }
 ]
