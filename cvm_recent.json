@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-12T09:38:17.417793-03:00",
+  "last_updated": "2026-11-12T17:26:04.556209-03:00",
   "items": [
+    {
+      "cnpj_short": "02001-0",
+      "empresa_nome": "EQUATORIAL S.A.",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "especie": "Apresentação de Resultados 3T26 -",
+      "data_referencia": "20261112 12/11/2026",
+      "data_entrega": "20261112 12/11/2026 13:46",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Apresentação de Resultados 3T26",
+      "protocolo": "1588307",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1588307",
+      "empresa_label": "Equatorial",
+      "codigo_cvm": "20010",
+      "first_seen": "2026-11-12T20:24:57.891965"
+    },
+    {
+      "cnpj_short": "02025-7",
+      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261111 11/2026",
+      "data_entrega": "20261112 12/11/2026 09:51",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1588180",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1588180",
+      "empresa_label": "Taesa",
+      "codigo_cvm": "20257",
+      "first_seen": "2026-11-12T20:25:18.223381"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
@@ -5076,42 +5112,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-10-13T22:43:30.533426"
-    },
-    {
-      "cnpj_short": "01866-0",
-      "empresa_nome": "CPFL ENERGIA S.A.",
-      "categoria": "Valores Mobiliários Negociados e Detidos",
-      "tipo": "Posição Consolidada",
-      "especie": "-",
-      "data_referencia": "20260901 09/2026",
-      "data_entrega": "20261013 13/10/2026 14:59",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1576679",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1576679",
-      "empresa_label": "CPFL Energia",
-      "codigo_cvm": "18660",
-      "first_seen": "2026-10-13T18:14:03.923120"
-    },
-    {
-      "cnpj_short": "02149-0",
-      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Aquisição/Alienação de Participação Acionária Relevante",
-      "especie": "Declaração de Aquisição de Participação Acionária Relevante",
-      "data_referencia": "20261013 13/10/2026",
-      "data_entrega": "20261013 13/10/2026 09:21",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "",
-      "protocolo": "1576536",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1576536",
-      "empresa_label": "Alupar",
-      "codigo_cvm": "21490",
-      "first_seen": "2026-10-13T18:14:03.245190"
     }
   ]
 }
