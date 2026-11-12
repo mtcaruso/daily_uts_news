@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-11-11T20:33:35.734259-03:00",
+  "last_updated": "2026-11-12T01:11:56.642320-03:00",
   "items": [
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Laudo de Avaliação",
+      "especie": "Laudo de Cisão - Eneva III -",
+      "data_referencia": "20261111 11/11/2026",
+      "data_entrega": "20261111 11/11/2026 20:53",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Laudo de Cisão - Eneva III",
+      "protocolo": "1588050",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1588050",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-11-12T04:11:51.255906"
+    },
+    {
+      "cnpj_short": "02123-7",
+      "empresa_nome": "ENEVA S.A",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Laudo de Avaliação",
+      "especie": "Laudo de Incorporação - Parnaíba II -",
+      "data_referencia": "20261111 11/11/2026",
+      "data_entrega": "20261111 11/11/2026 20:51",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Laudo de Incorporação - Parnaíba II",
+      "protocolo": "1588049",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1588049",
+      "empresa_label": "Eneva",
+      "codigo_cvm": "21237",
+      "first_seen": "2026-11-12T04:11:51.255867"
+    },
     {
       "cnpj_short": "01944-5",
       "empresa_nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
