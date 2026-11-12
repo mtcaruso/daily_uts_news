@@ -1,26 +1,28 @@
 {
- "gerado_em": "2026-11-12T09:57:30-03:00",
+ "gerado_em": "2026-11-12T10:57:32-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00",
+   "lido_em": "2026-11-12T10:57:32-03:00",
    "listagem_pc": "2026-11-12T05:12:05.204683-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00"
+   "lido_em": "2026-11-12T10:57:32-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00"
+   "lido_em": "2026-11-12T10:57:32-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00"
+   "lido_em": "2026-11-12T10:57:32-03:00"
   },
   "Pauta ANEEL": {
-   "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00"
+   "ok": false,
+   "erro": "HTTPSConnectionPool(host='dadosabertos.aneel.gov.br', port=443): Max retries exceeded with url: /api/3/action/datastore_search?resource_id=43386a8b-4781-44ec-a082-fa7fdfe33186&limit=400&sort=DatReunia",
+   "lido_em": "2026-11-12T09:57:30-03:00",
+   "desde": "2026-11-12T10:57:32-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +30,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-12T09:57:30-03:00"
+   "lido_em": "2026-11-12T10:57:32-03:00"
   },
   "TCU": {
    "ok": true,
