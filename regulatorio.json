@@ -1,34 +1,35 @@
 {
- "gerado_em": "2026-11-12T14:23:12-03:00",
+ "gerado_em": "2026-11-12T14:53:45-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00",
+   "lido_em": "2026-11-12T14:53:45-03:00",
    "listagem_pc": "2026-11-12T05:12:05.204683-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00"
+   "lido_em": "2026-11-12T14:53:45-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00"
+   "lido_em": "2026-11-12T14:53:45-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00"
+   "lido_em": "2026-11-12T14:53:45-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00"
+   "lido_em": "2026-11-12T14:53:45-03:00"
   },
   "SEI": {
-   "ok": true,
-   "lido_em": "2026-11-11T14:53:23.070873-03:00"
+   "ok": false,
+   "lido_em": "2026-11-11T14:53:23.070873-03:00",
+   "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-12T14:23:12-03:00"
+   "lido_em": "2026-11-12T14:53:45-03:00"
   },
   "TCU": {
    "ok": true,
@@ -2252,20 +2253,20 @@
     {
      "data": "2026-10-06",
      "reuniao": "20/2026 - RPO",
-     "assunto": "Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL, firmado com a Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
-     "resultado": "Pedido de Vista",
-     "ato": "",
-     "relator": "Agnes Maria de Aragao da Costa",
-     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. A Diretora-Relator, Agnes Maria de Aragão da Costa, acompanhada pela Diretora Ludimila Lima da Silva, votou no sentido de recomendar ao Ministério de Minas e Energia – MME a caducidade da concessão vinculada ao Contrato de Concessão nº 162/2008-ANEEL, firmado com Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distr…"
-    },
-    {
-     "data": "2026-10-06",
-     "reuniao": "20/2026 - RPO",
      "assunto": "Ratificação da decisão proferida no 17º Circuito Deliberativo Público Ordinário de 2026, referente ao Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, que indeferiu o pedido de realização de prova pericial técnica formulado pela Recorrente, declarou encerrada a fase instrutória do procedimento administrativo tendente à caducidade da c…",
      "resultado": "Deliberado",
      "ato": "Despacho 3811",
      "relator": "Gentil Nogueira de Sa Junior",
      "decisao": "A Diretoria, por unanimidade, decidiu ratificar a decisão proferida no 17º Circuito Deliberativo Público Ordinário de 2026 (item 16), realizado em 29 de setembro de 2026, no sentido de conhecer do Pedido de Reconsideração interposto pela Enel Distribuição São Paulo – Enel SP contra o Despacho nº 3.303/2026, para, no mérito, negar-lhe provimento."
+    },
+    {
+     "data": "2026-10-06",
+     "reuniao": "20/2026 - RPO",
+     "assunto": "Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL, firmado com a Enel Distribuição São Paulo – Enel SP (Eletropaulo Metropolitana Eletricidade de São Paulo S.A.).",
+     "resultado": "Pedido de Vista",
+     "ato": "",
+     "relator": "Agnes Maria de Aragao da Costa",
+     "decisao": "O Diretor Gentil Nogueira de Sá Júnior pediu vista deste processo. A Diretora-Relator, Agnes Maria de Aragão da Costa, acompanhada pela Diretora Ludimila Lima da Silva, votou no sentido de recomendar ao Ministério de Minas e Energia – MME a caducidade da concessão vinculada ao Contrato de Concessão nº 162/2008-ANEEL, firmado com Eletropaulo Metropolitana Eletricidade de São Paulo S.A. (Enel Distr…"
     },
     {
      "data": "2026-09-29",
