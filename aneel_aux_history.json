@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T05:12:05.204683-03:00",
+  "last_updated": "2026-11-12T15:10:03.082956-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2614,6 +2614,16 @@
       "added_at": "2026-11-11T14:52:39.819786-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 3
+    },
+    "noticia_2026_aneel-apresenta-iniciativa-para-ampliar-acesso-a-energia-na-amazonia-na-cop31": {
+      "type": "noticia",
+      "title": "ANEEL apresenta iniciativa para ampliar acesso à energia na Amazônia na COP31",
+      "date": "12/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-apresenta-iniciativa-para-ampliar-acesso-a-energia-na-amazonia-na-cop31",
+      "summary": "ANEEL apresenta iniciativa para ampliar acesso à energia na Amazônia na COP31 Sandbox Regulatório Energias da Floresta busca testar soluções adaptadas às realidades de comunidades indígenas, quilombolas, ribeirinhas e extrativistas A Agência Nacional de Energia Elétrica (ANEEL) participou, nessa quarta-feira (11/11), de debate sobre alternativas para ampliar o acesso à energia elétrica em…",
+      "added_at": "2026-11-12T15:10:02.582660-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
