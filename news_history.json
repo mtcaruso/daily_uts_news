@@ -1,118 +1,6 @@
 {
-  "last_updated": "2026-11-11T14:57:45.124567-03:00",
+  "last_updated": "2026-11-11T21:38:25.363211-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRV9SNGo4QnRYV1dJZTdwWEwxbUFBWmJUX3ktTm5SOExHZmFmRkhhcklIQWUyTmRmTHdqdWttclRUZkVDYjI4SV82ejA4aS1ZV0JVVlBITE8xSmxjSHVYWmNnb0RLQkI1djlpaUNRUU1kZjZfVmpJWjUyR1hDbW5kOU9IMklDM0ptbzU4ZjlzVVdES0R5ekF0eXJTVTFjYlhpWVc0X20yOWlKUnlfOUNta0dPRWFMa0V6eXo1S0FXRmZacFpwVDVNUlViMA?oc=5": {
-      "title": "El Niño muito forte deve persistir até início do outono de 2027, alerta Climatempo - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:20:53.515079-03:00",
-      "error": "no_article",
-      "attempts": 6
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFhQUFk1T0RYVkVoZUNzcnN5VUh4aUcxT0llMUprakZtbFR5SEJxY1Z5R1JCeHlRODJUT01lTHZQNXg4VkJGN01SN1pKbHZTQ05lNlVtdWxSM0JYbHYyeEZHZW54bElSYVpLSnhwQVdMMm1iRnE4T25yYVVtY1N6Z280Q2JLb0o0LU04a0tlZGZ2TEZRUFRObmpxOTJrMlEtb0dLZEF1ZjJoQ3Jqd3BuclRRSXg?oc=5": {
-      "title": "Statkraft investirá cerca de R$ 2,5 bilhões em parque eólico no RS - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:20:55.364073-03:00",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG5PeklBa1NnU1VoOW91WTloVXF4X1BfMDJoWTYwSmFHMlZEa1FGZVRMQ0pVRXhfbFZSUW1jX1MzSzRUWkZpN1NYYjdLMGxuSmNHQTltYVU3VG9rTjdNSkFJU2k4TDB2dGQ2SWduc2tkQzVONHdjdGFHTS1IWlpKRG5NSEN3R3phQ3k2ZThzUEh3SmpKS0ZvNWcyLUJIZzVEeUJDMFN5cDJvZTRFM0pKcHZGbkdmalBpV2NLbWlyOA?oc=5": {
-      "title": "Casa Civil deve receber decreto de eólicas offshore nas próximas semanas - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:20:57.201709-03:00",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTlIWEkwSnZMN05VUEU2YVFJNl8xa0I4UE1KUnVzdDBxVHE4d2FIVl93TFZQR2hiZUVFT00xc1IxSkVBLVl2akhXMVRIcnJPVW1XOXhmQ2laRXhQVGs0ZlFqNUROOUl2REFnbFRMUzhzblNBOHZpZXFBanRLUDNBV1ZlZlNoZm0xM25MdldmcGVtZTl4MXBnQkhnVQ?oc=5": {
-      "title": "TCU define aliquota de 11,3% para a CBS em 2027 - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:20:59.062120-03:00",
-      "error": "no_article",
-      "attempts": 5
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkxOVjFONGFMTFhNdjZMTVctTWVHS1VSTzBfdlRaTWhUOW5xNzR4c3NnbTN5UVFWR1FUdVNlai1TR3F4OHJ5RGJuVnYzbmJZcFplYVdoUVRMQWgtVVZvamhZVWdpY1NHeVJqVW5TVU1iUmVZekV2MzhFNF92SnFoWDJ0RUdxblZLVXRZdWVxZS1sOUhVTFpwZmtiVVI3RmlBdjdPSk5Ia2wyazVXU0V0MXQ1T2h0bndoM3Y3TjZweV9LZw?oc=5": {
-      "title": "AutoZone adota energia por assinatura e pode economizar R$ 1,4 milhão ao ano - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:21:00.955234-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXg4ZlA5YlYySGlsTVlqa3hEd19hcEhUZC1PeDlqSTNNbGM5VnZHVWhzYmRQMXU2a3NNV2pHM2NqY2dJUmxkcUpiUFdVQ0h3dnNEVUdfMnBNTzF5cHRDMTY4VTlhVE83MWNEdUxVV21ybDNmRlFGcDNQV3NfbXR2SWJZR1hCSVdHQXA3d3hVY0FOYUZYcFJFd0pfVXhiOElTbmprbGNZT0pxcXV4RURLbWtCMVNrcnFiZ3VnTmZOSTh2WS1WbUdSSTB4QQ?oc=5": {
-      "title": "Aneel libera operação de usinas solares em SP e suspende usina termelétrica no RJ - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:21:02.800330-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXc5XzNuQ25uTXgxU0YwM09LUVhOdmc3YnlmU3N0ZXlWWWdob25uT29iSnlnd1hPbExDS0lGdlNhRzhQeW9Qc0ZDMkR2cVZBQTZKOWhzVnQ1b2hac0kyVGtCdFpEOFdFd3h2V2ZCTE1SNUZMN3ZLa284T2l4ZlhxSzdzX3k0MVFCWXJjcGdpNjZzeDI2b3N1ZTZDU0NKdDFYWUlqaE5KYnlCUXpXV21LNjQ1Umo?oc=5": {
-      "title": "Reservatórios do Norte caem 0,6 p.p. e operam com 62% da capacidade - CanalEnergia",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-10-28T18:21:04.619033-03:00",
-      "error": "no_article",
-      "attempts": 4
-    },
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnRPVW5vYjdHZHFtM3YtYlJFT3hpb0wtRldnUTJrSGd4ZE9EdXhWU0JoVnhHZzNSYlhjS0ktWGZvZkwyMmZnLS1BUFNreHBOOGdrcVMxY1NlRVNsc1d5bklWdWQtNHR1U0d0M3lJVk5MZXBfZFdnazFWbWFTcGY5NGo1NGRZcmF1em9xcEpFSDVWVlhHaEQ1QWZWQ2tRd05XSmdiWHRxZTBlR2lfQk96WW9DQVkwTTZvTVp1M0lPWUF1bVFDcFdBYnJsdUk0WFRqSnhMSnpZb0laMVU0ZXg0UGtiNlZOZVB10gH3AUFVX3lxTE9zUXoxWGd3d0djS0JlQ0Z0S204NHpmT3EtMk5yVjNTVUhXeklLN1F3SUREYjYtNnZKb2MwT05rckpmbTBLWXd3SS1iRjVOUkp1ZGtxWFpvRHhMWHpjSXVRNVd3bjNoQ0E5WWs3TTI0aWxva0tXNGd0MUNnT2ZTWXd6dE9najFtUEsyT2NtRC1PSjYzTXlYTjcxUFZwWEdXZ0RBb3JUSXp4TXU3amU0MmFoODdxdG9adnhJWWpiV3Q4SEoyLUEtaDdqZ2t0TjVjWWMxaU1sNGhEYlRpMk5kTE9Kdi1ZOHNOSHJEb3Nib3VyMHpVOFpILVU?oc=5": {
-      "title": "Grupo Sabará amplia produção de clorito de sódio com avanço do setor de saneamento - Valor Econômico",
-      "summary": "Grupo Sabará amplia produção de clorito de sódio com avanço do setor de saneamento Empresa quer levar o produto a 43% do mercado de tratamento de águas no país, o que deve gerar incremento de R$ 72 milhões na receita até 2031 As mudanças promovidas pelo novo marco legal do saneamento básico, instituído pela Lei nº 14.026/2020, como a meta de ter 99% da população do Brasil com acesso à água…",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.858699-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkp1X2w5SXA5a0duV3lGY2xKVGFWOEM2X21ndTV5X1VXcGxINUJxYnNJOHYzSTNydmljdktScVgzdjFnQ2U0d3V6QllFLThiQ2lUbUJHQnRxZkw0M0JBYndELXlWazk4UV81RmR4Y1dRQjR2WWFQa0Vnb3hNOGV1eVlaSTBrWElGWG1CWU1MRU9Xc08yZGF2eVFnODRxdG5EdkpXSnVselVHVThvWGRGcTQ1aWRxOHo0LTN6THZHem1aT2dELUx2d281aWdPci1qdjBB?oc=5": {
-      "title": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva | Empresas - Valor Econômico",
-      "summary": "EDP fecha contrato de autoprodução de energia para atender 13 concessões da Motiva A iniciativa permitirá que a Motiva aumente de 60% para 85% a participação da autoprodução no atendimento de sua demanda por energia A empresa de energia EDP e a Motiva (antiga CCR) anunciaram nesta terça-feira (27) um contrato de autoprodução de eletricidade gerada a partir da fonte solar para abastecer 13…",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.859115-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVZ4LXE2d0tqLTgtVE9tLUJNczJ3U2xtb2JFV1pBZzNqcXZMc2FFeWc4TjhGdUZTemQ4RkM5RlZwWmN3MDhxRzY2blNPaF91d0NzU1pyMUFjOXcwaEtQZWVKZ3BQRmYyYkpaanFCOVRBRVNYZXg2anFkaVZmM1pSTVdmQUZiTzVqeHh3N1pfR1VjNWl2bDU5OTFqRDhIdENzYmFmZXJtWW9KQdIBrwFBVV95cUxOcHUwNnpqQmYydDZ4ZDRPZmZkUVR4MlZpWGtfcjFYN0x1Q2l4am5YV0U2b0NIRlV1VVNhQVVzYUNYcTlJM0NsemlNNl84eFgza09kbm4xZUtwSnVsZzI0Q0k5dzBieXRWRnd2OG9XZ240NUdoRFNLRGZ4OVJfeVJWbGNKTTVTTGd0YV90Tzd1LWxzXzV1UGpmR3IzM2hVdHF3Z1FDVUR3VUpOcll6NlIw?oc=5": {
-      "title": "Honda prepara 15 novos híbridos após cancelar carros elétricos - Estadão",
-      "summary": "Honda Prelude está de volta com coração híbrido e alma de Type R a R$ 380.000 Com design renovado e tecnologia eletrificada, modelo chega ao mercado brasileiro trazendo legado de mais de 50 anos e espírito esportivo. Crédito: edição: Valéria Turola A Honda vai acelerar o desenvolvimento de carros híbridos depois de cancelar três projetos de veículos elétricos.",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.866286-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDZIazcxcWJNQnVZczU1Rmx2Ry1LQmxaemNKYXBwRjZPa25qbXJ6QlNmYUFEU3E1Z0EtQy1FenlTYVdreGZ5Q01WZHh5aEhwN3hxMFBYM0ZuU3lkNFJ6ODNYemdjTjFXMTJrcTZYYi11SlpjZjA3SU45cWZwYS13TkNOaFBPLW04RXRWSVJPbUZWamluT19XZ2FUSG1acVhNOW04RGxfOEFPS2xkUGM4cll6NWdDZThKS3N1ZXYwakNTWV9leDdnMS1nSWV1TnPSAdQBQVVfeXFMUDZzcFJNVHl0U0NPcWVkV2tWTkJMQTRualc2ejcyTFI2UHpDSGwtSlVFRzNaX2lHZ2FHNTFzVGt0azNwaEZpWFhLZnlYR004NHJzaE5vVHlZZjdtYkVwZmhPeGJaM3JwdGs3X2Z3b01XVWpOalB3ZG9IcklkNjlMYnZXRzBkN05nU2FuMWxGTzF6LWlGUnJPWWRTcUF5UDhPZnNnTXR2MjFncnJ0dzN4SW5jSzVEWENrQy1Lek5ueDloeVY1b25Sc0NwVkFjSWxoOGM0S18?oc=5": {
-      "title": "Sabesp aumenta capital em R$ 125,8 milhões após concluir incorporação da Emae - Estadão",
-      "summary": "Gerando resumo A Sabesp (SBSP3) e a Empresa Metropolitana de Águas e Energia (Emae) (EMAE4) informaram a consumação da operação de incorporação de ações da Emae pela companhia de saneamento paulista. Em decorrência do fechamento da transação, o capital social da Sabesp foi aumentado em R$ 125,780 milhões, mediante a emissão de 9.875.257 novas ações ordinárias, conforme aprovado na assembleia…",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.871911-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazlUSmJqMU85ZG5xSkF0cGpxMkxmS25WNm9jZ2xSNjduZ25qaEJxeWlIVVFVRk1uNTNPNlRuMi1NNFdpaGJXZ1lzOGNCMFJETjI5N3hyN1Bldk9CR0xRSVBtZmc2R1V1b1E1T3BiR2VOcmdoNVFFLUpLV0JKSkhDMHBfWG5DWDhzU2tBelpUel9YNjlL?oc=5": {
-      "title": "ANEEL abre consulta sobre fim de descontos no mercado livre - Agência iNFRA",
-      "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) aprovou, nesta terça-feira (27), a abertura de consulta pública para regulamentar o fim dos descontos nas tarifas de uso dos sistemas de distribuição e transmissão (TUSD e TUST) para consumidores do mercado livre de energia. A medida busca adequar as regras do setor à Lei 15.269/2025 e afeta consumidores que migrarem para o mercado…",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.872313-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0FWVjh6eGRxUWJEWG1WT1BwYWpOUW05MzNYMDNzZG91LXYtNUdISnN2YlZWdHRuODN1T2VzS3M5ejFra2JZbjBPWW9rYkFfcXU2TEhqenNEMW5PNjlFQmZFMTBZWi1LUGExa3o0Y3BjRWhTM1NTc1l0Z1BDa0MwWHJYNnlvaXBzNjl5eWMzY2hjcXAxQzY5MFBvcFlDWEUwMWhLbWF3?oc=5": {
-      "title": "ONS lança Rede Potências para fortalecer diversidade no setor energético - Agência iNFRA",
-      "summary": "da Agência iNFRA O ONS (Operador Nacional do Sistema Elétrico) promove, no dia 3 de novembro, às 13h30, em Brasília, o seminário de lançamento da Rede Potências – Rede de Diversidade Étnico-Racial no Setor Energético com o obetivo de ampliar a visibilidade e a participação de profissionais negros, indígenas, quilombolas e amarelos em posições técnicas, institucionais e de liderança. “No ONS, a…",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.872430-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3BSOW5zbUJkNkxFZnRFcUZkcHhTYUlFZGdEUTJhMHhPR0M3bW51Wk1zQW1xUEZJM0dKYkE5U09sLWdwcHUxUVBjb2RSclE4MnRENGVleEtES054THgzQnhyQjAyYldSNjQ2MlFLVzlFeEF5c3I2Wlo0NEI4bkZIS0ZkYi1tVjhpU2VCYkw4eVZHWVQzNDM2dEVsWkd2b1Y3Y0d1ZkIzLV9TT1E?oc=5": {
-      "title": "Consórcio Águas do Paraná leva leilão para ampliar infraestrutura da Sanepar - Agência iNFRA",
-      "summary": "Beatriz Kawai, da Agência iNFRA Sem concorrência, o consórcio Águas do Paraná venceu, nesta quarta-feira (28), leilão para implantar o Sainp (Sistema de Abastecimento Integrado do Norte do Paraná) no estado do Paraná, ao propor valor mensal de locação de R$ 9,03 milhões – equivalente a um deságio de 3% sobre a contraprestação mensal, de R$ 9,3 milhões. O certame foi realizado na B3, em São Paulo.",
-      "source": "",
-      "added_at": "2026-10-28T18:21:19.872539-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVZqekxCN0ZBTm5VcGk0R1Awa3dfYTBNeVh2R2dmMlZmQnc4MFNHbGRlY2xiQzhTZDJjM0FPVXJORjZ3VDV3Y0lhSEdUT2JUUnIxRnF0TGREY3BhQWF3ckt2cmdQZlBTTFFiVF9WVXp1RF9FRVhiTlo2X29qMU5MejU0YWVnM0tZdW5YMUo0eUlDN21RSk0xN2hzUFhBYVJ3VGIzMDRTUTZpZXVMVlduNVZhMEE?oc=5": {
       "title": "Aneel aprova regras sobre migração de consumidores e Open Energy - CanalEnergia",
       "summary": null,
@@ -2767,7 +2655,7 @@
       "source": "",
       "added_at": "2026-11-10T16:40:34.583520-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSm8wT1czMHNKaENZS1dJdER6Y1kycktXSGZDVjBIM0F2aEY1ck1JWVJkb190eWlQVkhfazlCNEFkc3FiT2FXcTQ1V3NaSWRRY01KRi1RVlVpQWhxN0JVWWJlNUd1UHJzZEZ6a05jVWFhZURGT1JJaDlHNEdxNElla1cxd0NvZjNCb0swUTlQMzQyMVJmZjV3UVprV3NDaHFoR2w3QTA3YjctRkJPLUNrbzhOanBuLVhDeVd4d0wyaTZaOGt1d2dpNWk2XzE?oc=5": {
       "title": "Axia vê lucro saltar 76%, mas o otimismo do Citi vai além dos resultados - Estadão",
@@ -2815,7 +2703,7 @@
       "source": "",
       "added_at": "2026-11-10T16:42:49.352223-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWFV1aGJQR3M2djlwWDh2NXMwQzRaV3A5X1pKTEI4U1RWWFNSOW1wWExPckc4M0JPVng2b3hNQzI4cUdteXJvT1M3b28wZHRuQTJ4YkpBWmZZdjhFNExsNEFEeVNwZDJJUHBrYUU4eXM2OXZ3WmxDemdfajl2VEtnUjloMm9rWXhDYlJWc2V6RUcwOTVfelM4ekMwZUxla09la3ZlT1M2WVJGcnZydmZjTWxEZUdJMGU2bFZfUGhTbHYyLXpqRnNkOE12SjhvZ3Q4MFE?oc=5": {
       "title": "Edge e Orizon estão entre primeiros emissores de certificados de origem de biometano - MegaWhat",
@@ -3575,7 +3463,7 @@
       "source": "",
       "added_at": "2026-11-11T09:06:50.043609-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMTZpNGZ0QS0zNmtyd0I1REV5c0ZRSWlzX2swUHBpMHNfQ0VCRGRpMU5mMHdPZnJkc1lwSUxoWkQycmVPOXZQTW9jU1hsQnJNSDVndmlYSmRrLTNKTXdlYkVJaEhkekpvTXNtSWF2WnFleDgyUXM3VzNibUdiLTVMNkRJcnlfR0Z0SlM4M1VQU20yUHVtR1hJWXFQLTdUTzAwbTJad2lNNzR0NWRpbFZQcGpmeEdsSk9kMGFSN3dDQUF3Q2w5RENMVFRn?oc=5": {
       "title": "Opinião | Fiação elétrica é um senhor abacaxi para as prefeituras brasileiras - Estadão",
@@ -3583,7 +3471,7 @@
       "source": "",
       "added_at": "2026-11-11T09:07:27.784283-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnBneERSLXpVbS1tRnQ5bkM5Y09DSnhwUW9JbVRqYkRBSUxZejdqQXJBaF9YU3E5SmxoaHU3cHRSUldkUVZfM3poaEp4VURDY3JNZ0ZIOVNkb2dXaktLd1dCY3gwNEp5TmJVSTdKVWxNUjNqMmFzZEVtcUNscnFNVDVnRlE4NnRGYmRBd2pMWU5wczk0WUhxbHZybTdTRTltaFlEUkk5WGZRV0g4aXp5U2NXR2gzSmFDbThyVUJQSV94d25MQzJSdF9LSy0tQkczbzFkQV9sMlo4c2ZLOGc?oc=5": {
       "title": "Lecar recorre a empresa chinesa para projeto de carro elétrico nacional - Estadão",
@@ -3591,7 +3479,7 @@
       "source": "",
       "added_at": "2026-11-11T09:07:34.129478-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNW1PSTVHckJwVVI3X1pRYVpqdnpuU3ZMN3JrYjNLUUhZWUczU3M2V29xLUFTNFVvLVNmZEFMeVNyekFCb0ZWVk5RbVlFQkIyX1RFUDlCU0p2bklMLWVfZlYzdVZHZ09NZkZ1T0ZPelM1d1YwN0RPc0ZrMHpfQXRDa0o3Y0JMczBVcTUwV3dmM3o2Y1NlSVdxT3kyM1NIejlxZjZycldEUV8zd1lZV21iOXRiZy1ZWGlvaktDRWZoLUpQd1l1bjlWd2hfaGNWMFR4Z3hVbUdHZl9uSFQzSnFXSE5PYnN2TTk3aWJxTU1UMTRBQQ?oc=5": {
       "title": "Brava Energia tem prejuízo de R$ 156 milhões apesar de receita e resultado operacional maiores - Estadão",
@@ -3763,19 +3651,19 @@
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1ZJYTFLTFBRdnFXU2ZZZ2NJN3dUSEZWYkxGdDhaNDM2ZHROY3FRM3FpekxvMElqcGFXLUl3NEhxbm8xaHdLdzFRdWFVcUJvTXRydWRPSS1RRGhvVGxQQWtoamY5QUFTWHpwcF92ck1oaXpyYlExTVpSSUk4TTh6aVdqcENfV253TjlmM0pIX0U1NmdQVmZWX1Z1aGctcXZEc1hGYzJ5MWlKeEQ4Wk1CdjNxY0dpQ3hNMXViRHI1eGt5WDB3Z0N0eHhQYUZ4OVNjWFN5WXVnbEp0UENsazZiNdIB5gFBVV95cUxNdXhIRHR6OWNHUk50UDZmeVBDdzRnNUZFM3RhZ1c1RVU1WGRXeTJZUVRSbjNxOVNId0F0cnNKQ1N4Um1fdVZ3Zm1JQXE2UXFXM2ZNZW1WSk9VUmNzOUhCaDRXTE1CNldidDNZaWRwX01rcGMtUUNVanFjMDV0TnpUZl9nbW9acE1TYXBSekZYUVA2REgxNWdoaUlaNkwwWUh4S2RXUTM3V3dkUjRvNkJxRDIwbjR1dXEyMzhKYWlLMmFCalZtTkppYmgycmhQcWhGeW5tTTdsTGdKTUZIZzl3d0ZxN2dzdw?oc=5": {
       "title": "Auren volta a lucrar no 3T26, mas parte do resultado ainda não entrou no caixa da empresa - Estadão",
-      "summary": null,
+      "summary": "A Auren Energia reverteu prejuízo e registrou lucro de R$ 150,4 milhões no terceiro trimestre de 2026, impulsionada por compensações financeiras por cortes de geração e bom desempenho comercial. A receita líquida caiu 6,6%, mas a margem líquida subiu 40,3%.",
       "source": "",
       "added_at": "2026-11-11T09:11:08.352328-03:00",
-      "error": "no_article",
-      "attempts": 2
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSF9XWFJTWTVvcUNsQnMwLXREaHhVRThhaXdkeEV2c0d5Ry00N2ZpN1FKYW9HLXdPYXdDaUtmb1VJa1JJSm9JNGxyYVRyRkoyd08zZWtGTU5QczdTRVp6TWZOYUs5ZFVsdEFQRGdSRjUwR1ZYaUdZYXF6UDFuajIyd3I5RTZoVnJFWGdoTkxSSWRwU3dCS1F4UjBVM2p4QVJRTE43em96ajYtbXZIa1BOaXBnWGR3ZnpHN3hmdUdaSmZRNGV4dWlpUmFSWmowU1AtRFMyd3ZjeDlpTElUZVHSAeMBQVVfeXFMTjFRdWxCNkNFbEtUdGNnS2dVQ0xPY3IteUloWGpiYlFXZTcteDBaR1FNdS1DZzREVVJEZHVNaHppbzBFYllqbGpjQWlWb1NfVlBJMjRYekFnYUxWbHV4amYxZ2dMWlhxcURRbjVMd2pFbnRzZWFDTHhKbVhXbnJnQUlibDh6MWhkX2pDVVJLbEQxckI0cV9aRmhrbVM3bWRtc1Iya0RTdG5EY2FiNXlXQUVXcDRmd19ZSEtDS01qeTRFd0JnSUdXSEVaSFFOOUpSd1Niejg5MzJxdHVLX25CWGxNZ2s?oc=5": {
       "title": "Engie fatura mais, mas lucra menos; disputa por baterias pode exigir novos investimentos - Estadão",
-      "summary": null,
+      "summary": "A Engie Brasil reportou lucro líquido ajustado de R$ 716 milhões no terceiro trimestre de 2026, uma queda de 2,1% em relação ao ano anterior. A receita operacional líquida cresceu 9,8%, atingindo R$ 3,67 bilhões.",
       "source": "",
       "added_at": "2026-11-11T09:11:08.354643-03:00",
-      "error": "no_article",
-      "attempts": 2
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUFYWm5jbUxUWFpNZ285Wkd3WGk2QlVvZHU1MFoxUjUtYUhwaU5FLVl1RXhLUXlfN3JIb18tM25UdnVQTjFWVGpYblFPN003RTNGQ1QycmJCVUJkVlYzc04wOEdsazNEM3prRlU4dzJ4eVE5UzAxTEtIVHlqbDZyZzRBYTBFU0htQjN4UkxvR0NZMm5LWVZuQUdXUHNiY2N2bFl1cUpPX0xPOUxna2pZ?oc=5": {
       "title": "Exclusivo: dirigimos o primeiro Range Rover elétrico da história - Estadão",
@@ -3877,33 +3765,33 @@
       "title": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:53:04.073631-03:00",
+      "added_at": "2026-11-11T14:37:32.233384-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUNiMGdXYnRBbVpYYkJiSGx6WDVLS1ZHbHkzS1B6VktBRldody1tdG1pNjdXaWRwQlNLYjF2RlNPRkFiNTZoSzZqcGxYa1M4d09mZjN0SnkyeDlDYVdCS2pEU25lVEV4ZlExaDBCT3VGYm83TVBDZ0NmWk9UaExOYk9NOUJXbjk5MHJxWlBpVjAweEJnZDVuYUF1TUVSQ1ZQcVQzNEJhSlQ2Vm5EVmJEU0VDa2lISzFtZ0k1X3pfX0xvZw?oc=5": {
       "title": "Mobylette volta ao mercado em versão elétrica por menos de R$ 5 mil - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:53:07.392406-03:00",
+      "added_at": "2026-11-11T14:37:42.339156-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjNFc3I0Nk5sdjVWSlZ4aUNCUFlTSF9zaXYxTFhmQS1pVTNURVVLWU5uUEdLWHRXQmRYUm9CcnVkNjV2SHQyNWNxd0ZvQ1F1QlVZcnNlQnU2Tk9Qdmx0c0oyS1I0ZXJnUlBPTmh6TnR0eXliOXN1VkJIcXVkTHJNU1N3VUNsbUYwbVJUaEc2SWJOYTk0eFRxV3FkRm5fNXFSbkFDQjMxdTBRckZxNzAxaA?oc=5": {
       "title": "Leilão de itens do Banco Master reúne de raquete mata-mosquitos a cadeiras de R$ 100 mil - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:53:13.987171-03:00",
+      "added_at": "2026-11-11T14:38:06.494257-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWS1ZSTIzSDk1TzZRNjAzM2ZMM2dsUHdyZS1XeFdOSEloMy1ubzgtTnVIOGpNU09YT2plS2FxQmVJWHpJUWRVMlBhU0N0TGNYbGVrb2Vra0l2WUtLLUF5TmxJVTJERGZWOUdkZHVEMnlSakpxZmYwTTM0RERRU3RaaFhNczJndURyTWIzVF9NaWNUald0X1JwNEdrZlR5bnVkbEljbXBLREdPWmhkbUxUR2VhcFBXRldmbWRHWkZtd3dGdw?oc=5": {
       "title": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:53:15.688449-03:00",
+      "added_at": "2026-11-11T14:38:15.496327-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTIzNUVJOXU2VC0tUk5HakN3aGJYOW80MjJ1TjBXMzg5NzdlOHhROG11Y2ZWcFpZWmN0RnBjU0hUNExkVW9IQXdTLXdLNlNlVldfZWtSblRPS21MRjJrd2w2RG4teGQxSXl4Uk9ZOUs0R2ZLSU1keXlNU0NQSHowNXREY1lSZUk0ODBXUldvMDRoRWF0S1E?oc=5": {
       "title": "MME extingue concessão da UTE Piratininga - CanalEnergia",
@@ -3911,7 +3799,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:18.277024-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclp4MXRlcGhMSkpNVGRRc05MNVpZdGs4LTJ6ckNJckpkbUNjSUF6dnpycUNlNnJ4WkJ2QjdTSmRxbVhLbUlRbGhDWnhKeUsycGdRc0VCc2o4bS1GU1VfTDlMWmNvWU9iMzhKWjNFRURJRUhXWjB5dWpDM3VvV2x3dDRlVWJkOGxpSUtxZFdBNFhGSWZ3VnlBNmRJTHVhNUxiamN5ejVEaHBzQjc0eTdBVmZBTEhYNldEY0JQTEtYYw?oc=5": {
       "title": "Auren observa leilão de baterias e aguarda regulamentação do curtailment - CanalEnergia",
@@ -3919,7 +3807,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:19.946721-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHNobmhKejliY2E3emlNaGJtVXpEbHNRQnE0bXU3ekplYy0tVnA5SUs0eGxGNXJHM19fQlBRbDUweEdYUDN3X1VDWmpmZDdJR3M1MVBOWUV5elhoTDNWUHBaRFFjYUs3dS1SUW9lWFFiWHJ6Q25fUk1HSld3Tnd6UWFWMTB5a0pLcnVlcUUwcEU?oc=5": {
       "title": "Marcio Rea assume presidência do GO15 - CanalEnergia",
@@ -3927,7 +3815,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:21.598041-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0c2aUVBSDVnMURURlJrTHhPc1Rydm45R2l0LW8yeVhLT1NTNzdTdFBuWEpQSWRseElXLWNzMTRZNFpyRVdvODRzNTJrRHh6aXZDWkkzb29xdElBLUVpYUU3VWM5SXhlQlktMG1TN3dxem9tSDFhcnRqcFJyb0xfMlFqa1RJbkZmeFNtLUFmcU5vVGM2Rm5OaEdCdlJWVmNoTWFwRWdyVExpeGs3RzlVdFh0aUExSUk?oc=5": {
       "title": "Beneficios da MMGD são inferiores aos custos, diz estudo da Abradee - CanalEnergia",
@@ -3935,7 +3823,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:23.265820-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3h3SC1kQW43dEYzeUdzcWRteU9xeDcwRXJKQlZiRGFTbUlrQll2WERKbHFSX052cUxnb1I1NmJpSHo1NTIzLUhHQWk5bHNBVVp0WGtuMXYzTkZkcjRZbENtLW1yRDlCaXBRcnY1cmpyOENidnVuNU9FYU5rTjJvOG5sSTcxTWd1cHJ3TUpsWVIyMm5md19EMjVlR1RoZGFRRkNsZDc2WERDWURuS000cjIyYXViUGcyX1pkWA?oc=5": {
       "title": "Abiogás quer aumentar meta de descarbonização no gás natural para 2027 - CanalEnergia",
@@ -3943,7 +3831,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:24.906213-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFB4Q2dfZHROei1kTWRJUlUzM3p3Umcxdll0OHY4Z2JKRzltQ1RIODdmRGVzaEQxNi1IbkpCS0h4cGZKSDNnUEFOR0RQbmNjV3JUTTlxaDctbnB5OGpPTFh3RkNoN0toWGlQSFdrT3l5eGdsbVFZMFEtR3BfekJscFZuMXhVUU1WcTloeFhNUm1CUGxpaFNtZGlJeXNFWUE?oc=5": {
       "title": "Engie tem lucro líquido de R$ 711 milhões no 3T26 - CanalEnergia",
@@ -3951,7 +3839,7 @@
       "source": "",
       "added_at": "2026-11-11T14:54:26.539167-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVURaNjhQdTBlaUlHeEowdHNKTkR1eFBtemhvU0swbVhUa01jUm44WGstcEF0RlI4STRUcVpZNnRDT0Z3WXp1c2pTeE1fU01tNGw5RWk5Y1JUM0dpVkFiUHJrZmp2dkJMZ0ZWbE5mQ045N1p3bWZhb1pzeFZFUWZsT0x0Wk5nWTh3Y3hmOHJjTUhrYXE5NDh0ZGtfbFI0ckNHTUVBWldNcWtOYjdZeWlyNnp3?oc=5": {
       "title": "Grupo Energisa registra lucro líquido de R$ 792 milhões no 3T26 - CanalEnergia",
@@ -3973,111 +3861,111 @@
       "title": "CVM absolve seis conselheiros da Renova Energia em processo sobre aumento de capital - Valor Econômico",
       "summary": "CVM absolve seis conselheiros da Renova Energia em processo sobre aumento de capital Operação, realizada durante a recuperação judicial da empresa, envolveu a conversão de créditos em ações e reduziu o endividamento em aproximadamente R$ 535 milhões A Comissão de Valores Mobiliários (CVM) absolveu, em sessão de julgamento realizada ontem (10), seis integrantes do conselho de administração da…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.896064-03:00",
+      "added_at": "2026-11-11T14:40:13.969455-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU1OZVM2UWVtZl85c0IzSGlLSjRucGZwUFNqQnA4Y2d1b2FDR1Bmemo5ZFFNQlhqcF9TUVoxd1NudW1CNXdxYzBybUN1d1pGOE9lZC1lcHJ2SW1XWWowZVNXM1VvcGpOeTNLN1JHYlJkSi1sZzdzTW9PdjRIS0FQU01NV3ZlVlBSN3RmVUI1NFQyR1ZybEwyM0RtRFd4ZS1GNmlQckxIdXdKX0xoZk4tS0Fxay1pTElpTE1jVFZ4SjlPak95NnpiZnBRTDJtZFhMWGdrVkZGZVR6YVBEd2EwR0xCdjZ4dUdTLVRj0gHrAUFVX3lxTFA5TU5lUzZRZW1mXzlzQjNIaUtKNG5wZnBQU2pCcDhjZ3VvYUNHUGZ6ajlkUU1CWGpwX1NRWjF3U251bUI1d3FjMHJtQ3V3WkY4T2VkLWVwcnZJbVdZajBlU1czVW9wak55M0s3UkdiUmRKLWxnN3NNb092NEhLQVBTTU1XdmVWUFI3dGZVQjU0VDJHVnJsTDIzRG1EV3hlLUY2aVByTEh1d0pfTGhmTi1LQXFrLWlMSWlMTWNUVnhKOU9qT3k2emJmcFFMMm1kWExYZ2tWRkZlVHphUER3YTBHTEJ2Nnh1R1MtVGM?oc=5": {
       "title": "Especialista avalia impacto de nova proposta da Aneel na conta de luz - Valor Econômico",
       "summary": "Especialista avalia impacto de nova proposta da Aneel na conta de luz Engenheiro Merivaldo Britto explica como a cobrança por horário, ainda em análise na Aneel, poderá afetar consumidores e investimentos em energia solar a partir de 2028 A conta de luz de consumidores residenciais, estabelecimentos comerciais, pequenas indústrias e propriedades rurais poderá mudar a partir de 2028. Uma proposta…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.896320-03:00",
+      "added_at": "2026-11-11T14:40:13.969852-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkdLY0lWdDlKRV84OFNIM1hTamgxdWRPeFhQMk5YaVkxekEtNmlrZGFnLXNVOXVzVmpfOEJjQkE0R0l1OWZHMTJuWFlWWVdYVkxET0pBWVVVazdVbDhYWkNTYkl1M2RNUW51cXlFRXk5SE9MalZlMFp4ZlE1UWp0YlBXcjQ2MUtRSU8xUWYxNExzOUJFeUx0cE40NkREb3JzWkFz?oc=5": {
       "title": "Não só o aço: siderúrgicas querem tarifar carros e eletrodomésticos da China - Brazil Journal",
       "summary": "CIDADE DO MÉXICO – A indústria siderúrgica da América Latina brigou e conseguiu ampliar as barreiras comerciais ao aço chinês no último ano. Mas os chineses continuam encontrando caminhos para vender à região – com o aço chegando também de maneira indireta, incorporado a produtos como carros, máquinas e eletrodomésticos.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.909539-03:00",
+      "added_at": "2026-11-11T14:40:23.018159-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkV3a1VzOGVzLWh0QnpxQVI4M0U4VTllWDhuVEhWSWwzZWwycjlXd1B5clUxSFZ4VDZnVWRaLXdjaTRFQ2VuSUpCMm9oMVh2eTFtSFI1X3dXZl85Qnl4Z0NZOXY0RFdQcXVVRGduU2NRcEpUdWJpeURuQlNUN0dKZFppN011dUxkVlpaWEZiU0JYdmExUkVZUVVweXotYmx0LXZ1V1ktVUJOY3RIVHBmLU91M1BKazBKOFRFR1plcjc4QUd3TjhtcXVR?oc=5": {
       "title": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda - Folha de S.Paulo",
       "summary": "A conta de água da Sabesp mudou de visual para se adequar à reforma tributária. Desde segunda-feira (9), a companhia começou a emitir um novo modelo de fatura, que apresenta campos específicos para os tributos criados pela mudança no sistema de impostos sobre o consumo.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.910234-03:00",
+      "added_at": "2026-11-11T14:40:23.019642-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTF9pTWVUcDdrckRwVzk1S3ZrNXlaQ1J4TkRVQkZySjMyYVRreE9KMVMwUmhhb0lnNGltT3Zkc21oMGdjSVY0WEFZNVRiTmxWRUo2MEhNaUhONndzN1NWT3hDeTdZLXhZUWFka1BueHQ3Zm04QmREMXExMlVQY1k?oc=5": {
       "title": "Câmara aprova ampliação de até R$ 13,5 bi em crédito para empresas afetadas por tarifas dos EUA - UOL",
       "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Nerisvaldo Josûˋ Santos Ah!",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.910340-03:00",
+      "added_at": "2026-11-11T14:40:23.019881-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbWFobHpzdmlPWVBnUzVVY2lWdUNReEs2VkdFUkx1UmpralhLYlc5N2s4cVNMZHRGRlFOUUl3VFRoalNJRXBibzAyNzQ0d3V0ZnAzaUJUaGc1N183NjlzQWlEVVNqc0V3WjJqODhuQTFURFh1Y0NCaEJmRTZ3QjdETkQ2SlFrcFFmWk9yOFN4azRJMHdJT2NpMjBaQ2dpM2YycUlreEItTnJCRC02ODhPa196NFFmN1BtRGVwbnRuR1YzZ0NBM3BKeG9TY1FGNEJJbmQ4aF9YazRjUnpS?oc=5": {
       "title": "'Quem Ama Cuida': Globo exibiu 'versão light' da cena de sexo entre Mau Mau e Felipe - UOL",
       "summary": "'Quem Ama Cuida': Globo exibiu 'versão light' da cena de sexo entre Mau Mau e Felipe - Emissora não cortou sequência que foi ao ar, mas optou por versão que apenas sugeria o desenrolar dos acontecimentos - Cena com mais intimidade e mais explícita foi descartada pela direção; Globo, atores e diretora não comentam o assunto A Globo optou por exibir uma \"versão light\" da cena de sexo entre Mau Mau…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.915750-03:00",
+      "added_at": "2026-11-11T14:40:27.548397-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRm1HVjR6SFNuWi1lNEJzc0R2S1YyYmk2M2dFT2c3SS1lNFVTckM0WVNPQmxoajRxSnFvQWRLTVhBWWsyeDEwUmFqblljSDlub1pSaFlTUXh5bWd6NUZBZTcyNElvU3ZJa0s2Zm0tOW5MUkN5ZXpuS0xwUlEtRmM4WGszZlh6ZTlEM2RaS19NcWtybjFhMFUtLXZNbEJjWHJTZElfanEwRWN3OWVqYXIxc3hBT2huSHJUaDhZZTI3VXZoSWpoenlJYnR4SmoybF91YUpRM3VmRjNWN3F4SUdfalVkQQ?oc=5": {
       "title": "Produção de veículos recua em outubro, e elétricos ampliam participação no mercado, diz Anfavea - c-level.folha.uol.com.br",
-      "summary": "São Paulo O Brasil produziu 254,5 mil veículos em outubro, quantidade 5,1% inferior à de setembro e 2,7% acima do mesmo mês em 2025. Segundo dados divulgados nesta quarta-feira (8) pela Anfavea (Associação Nacional dos Fabricantes de Veículos Automotores), a produção acumulada de 2026 chegou a 2,4 milhões, cerca de 180 mil veículos a mais na comparação com os dez primeiros meses do ano passado.",
+      "summary": "São Paulo O Brasil produziu 254,5 mil veículos em outubro, quantidade 5,1% inferior à de setembro e 2,7% acima do mesmo mês em 2025. Segundo dados divulgados nesta quarta-feira (11) pela Anfavea (Associação Nacional dos Fabricantes de Veículos Automotores), a produção acumulada de 2026 chegou a 2,4 milhões, cerca de 180 mil veículos a mais na comparação com os dez primeiros meses do ano passado.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.915934-03:00",
+      "added_at": "2026-11-11T14:40:27.548896-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWEc1cW1GMW9nLUV3TWdKeEo2ZlAwMkt2VjJBTVotWmktejhuR3BHaUlybFZUZlpfWlI0Zzh1djFSTmtkZGhQRUlCWmg1WXE4ek5tTDVJNllUU1cwRmtjUWpjN2NIYl9iODBLM1hiY1U1UnJsNTE1V3FtUXFLYnYzWGx1WW1GdHY5Und4cFNwT2ZsRGZ6SHpKR3hUUWhZQmVSZmRsUDJhQS1IejA1N3l2REJFa3EyQ21IZjliX2JGOVVEQk40a1RFQTdnRndDakFxaUJlam05NDI1dw?oc=5": {
       "title": "Operação mira quadrilha que aplicava golpes em concessionárias de veículos de luxo em SP - Folha de S.Paulo",
       "summary": "A Polícia Civil de São Paulo faz operação nesta quarta-feira (11) contra quadrilha que aplicava golpes contra concessionárias de veículos de luxo. Em apenas uma delas, o prejuízo foi de R$ 1,6 milhão.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.916036-03:00",
+      "added_at": "2026-11-11T14:40:27.549387-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0REZkExV3ZJMGhsclBvN0dsRnQ5dDk5WnhyTGZaTFF6NW5kYTJsV1ZtVGxwSlk3T21FeTNPbHVKRkNZVHBJT0RRNHRMNmY0TEhUNGlsSlktdWctdm4yQmYwQW5jcUk5bU5tUXdEN1Z5VVNwWC16OUZkT3pYT180d1ZFeTdncHZFSmJ6SWc4a2t1YVhXUHczck1MSkI3dTRLTGZ3OWNZZkgxTk1INDIzZE1JZm9XcU9QbDh6MlR4WGtVeU1YQ3Jr?oc=5": {
       "title": "'Loftia' usa de estética solarpunk para mostrar alternativa melhor de futuro - Folha de S.Paulo",
       "summary": "Esta é a edição da Combo, a newsletter de games da Folha. Quer recebê-la todas as terças no seu email?",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.916527-03:00",
+      "added_at": "2026-11-11T14:57:45.110532-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZXzBEZkZmLWtNckQ2ZW9oSERfaGthS1NZeDA2aDJzcWhxdlpFYnB2LVR1TDVudTNXamN4cHExdmt1bGllNUZhYzJ1V2hFbkdQLWxaTEJuaURicndFaXR0ZDV0ZnctdE1scVB5MG9aUEdaSGZlcXZ6MDNZdXdVNmM?oc=5": {
       "title": "Fim da escala 6x1 pode pressionar reajuste das escolas particulares para 2027; entenda motivos - UOL",
       "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Daniel Mercer Deixando minha risada para o ato sem estudo de impacto financeiro e viabilidade em paûÙs de terceiro mundo.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.922747-03:00",
+      "added_at": "2026-11-11T14:40:27.551062-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXNTSUhXX2NOaHRIUVZoZjNjd0JVSDkzdlk0T3lIQldXRGcwelh1SDVUSjB2N09uZVIwU2lIdXBIZkxzS0ZrVE1nU3BqeTlsUWNlWll1RHFhem11bW83NFVpXzY3ZVJJQjlIQnVyVF8yTHlMSWs4YnMzRnFSdndQTldpdEVGZmpwVzRpemdpQjhQMTFWcmFQX3F2cktTMU0?oc=5": {
       "title": "Justiça diz que OAS deve receber R$ 2,4 mi de leilão do triplex - Estadão",
       "summary": "Gerando resumo A Justiça Federal de Brasília decidiu que a OAS Empreendimentos deve receber todo o valor obtido com a venda do tríplex do Guarujá (SP) que foi atribuído a Luiz Inácio Lula da Silva (PT) durante a Operação Lava Jato. O imóvel foi arrematado em leilão em 2018 por R$ 2,2 milhões (cerca de 2,4 milhões com as correções).",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.929363-03:00",
+      "added_at": "2026-11-11T14:40:36.599634-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1llN080bG9TQld2a1lBNE1IZUItb0VtQjNZTDVjVzJyU04xRjNUS1NfZE1sUG9Rc2w4R3NIZHlqOXBqcm1VbzdUMDNURHlhNjhOLVFuT2p1bXVFQXF2azBWUm43STFEajNhamRBVVNhaG1vOXRpWWNoV3RJZmRFSGRnWktKYzNyUDlTcTdHY1hUWjJmSTJtSmhiZ2MwOXV5cURRYlo5cl9HMEw2LWZRcTZaWmFMQVHSAbwBQVVfeXFMUDFTcHlrN2kxRlo1SUxQZUNOSzNISXJhS0ViQUdfMUhUZ2trSFFyYVhmMTFuUXRfcmRsVEVtbU5zMFZoM3NqWTJLT2V5VmFDSm95TnFiNDBxeEhmeTdhQ3RiYVE4VVowSHBjc0s5Y1ljV3RFZDI5M2F3aW01TVp2b3RPNjdHVXVIUjVFeTI0cHltNjg1c0MxWUlzMV9pWDM2cmRrT2NBa0t5MTJTSzRkNThndG5CclRQZ0F3WEU?oc=5": {
       "title": "Por menos de R$ 5 mil, Mobylette volta ao mercado em versão elétrica - Estadão",
       "summary": "Equipamentos e Acessórios da Nova Himalayan 750: Conheça o Kit Touring GIVI Manoplas aquecidas, malas rígidas GIVI sem suporte externo e protetor de cárter: confira os equipamentos opcionais e o pacote Antarctic Silver da Himalayan 750!. Quem viveu os anos 1980 provavelmente se lembra da Mobylette circulando pelas ruas brasileiras.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.929444-03:00",
+      "added_at": "2026-11-11T14:40:36.600103-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMVNZb25WaWJHb1pwZjlETlJ4T3hzNVQzRko2dDRsRFZ5cWJHemRjYkdaREdINGpjUTJHTGlIRDhOZG56XzFfSHVISkNjTkdaR19OQ1lTV0JTSmE5VVh1WFNSbE5WLVJka2duc01PMUtRTU5oT29DZXZNU0swdmd3Q3pYb0hNZEx4cW1Beld6NDFwNlVzNFZtZzNGM3dYN2FPcXhBWmVEZlpueVnSAbABQVVfeXFMTjNlTWN6RlNZNWFJMXRwd0F3c0dMeGJrVFpBQWtjYzZ4YUVBYUdKTnFDUEdXSmZKUmViSnc0TmZ3R3NOUC03RHpvS256Z0I3U3JTLUFUbFJROTB4cUhmV3YtR2VoTGVGV1JnUkZsbGxDdUg5WmdGNmtnNXVhQlN6ZGkzLUIwaUxLLWM0WlVIUkpDTTNzZWRhQVh6b2VDQkdIWEZfajR6cUVfMEFNbFVHUGo?oc=5": {
       "title": "Exclusivo: dirigimos o primeiro Range Rover elétrico da história - Estadão",
       "summary": "As Terras Altas escocesas dispensam efeitos especiais. Entre montanhas, lagos e estradas que parecem estreitar a cada curva, é fácil entender por que a região alimenta o imaginário de produções como Highlander e Outlander.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.929655-03:00",
+      "added_at": "2026-11-11T14:40:36.600963-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcExhOVhWWVVBalFaTWxoazU0dXJ2cmtPV2c3MEkycjdRWFlnRWhGQy1nU0h0LVpGSC10S2NlbzhvcmlaVklUaDlrMTRXVlBpWU4yY1RvZFZvQTlSeWZ3UzdQYmtKSkdybGhiWVkxWW1iRlhGMWhBVFYzb0QwUEUwLVFLVDBDWjdtREFvalM3ZnZmRzJIODI0bC1oLWN5LXRHTzFfNnBtNA?oc=5": {
       "title": "ANEEL: agentes apoiam tarifa horária, mas pedem ajustes nas faixas de preço - Agência iNFRA",
       "summary": "Lais Carregosa e Geraldo Campos Jr., da Agência iNFRA A proposta da área técnica da ANEEL (Agência Nacional de Energia Elétrica) para criar uma nova tarifa horária foi bem recebida por diversas entidades e especialistas do setor elétrico ouvidos pela Agência iNFRA. Os agentes, no entanto, pedem que a discussão seja acompanhada da revisão das faixas de preço cobradas por hora, os chamados postos…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.941575-03:00",
+      "added_at": "2026-11-11T14:39:59.756610-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4085,7 +3973,7 @@
       "title": "Tributária: ANA prevê trava de 9,25% na retirada de PIS/Cofins de tarifas - Agência iNFRA",
       "summary": "Beatriz Kawai, da Agência iNFRA A ANA (Agência Nacional de Águas e Saneamento Básico) estabeleceu uma trava de 9,25% para a retirada de PIS/Cofins das tarifas de serviços de água e esgoto, no âmbito da transição da reforma tributária. Hoje, as tarifas do setor de saneamento incluem os tributos que serão extintos em 2027.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.941767-03:00",
+      "added_at": "2026-11-11T14:40:01.827141-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4095,13 +3983,13 @@
       "source": "",
       "added_at": "2026-11-11T14:55:43.941810-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGNEaFo5Nm9DX25hZ19VcGdlYkZjeF9lN21QelNVWlB0c2h0eFpXZGsyTjR6TldFNFRicXp0U1RLZVlWeDJ3RkMzS2xhRmlNMmRXazBIN1lET3JWS2tIT0s3ZzBwLXdOYlVuNWhIeUNwN2xLa3VHcmxtNDk1bldqeHB3U2xJM0ZRUjBZZXI3UQ?oc=5": {
       "title": "Auren reconhece R$ 357 milhões a receber por curtailment - Agência iNFRA",
       "summary": "Geraldo Campos Jr., da Agência iNFRA A Auren reconheceu em seu balanço o valor a receber de R$ 357 milhões relativo ao curtailment (cortes de geração) passado, ocorrido entre setembro de 2023 e novembro de 2025. Apesar da contabilização, a geradora ainda aguarda as próximas etapas do processo de compensação, após ter manifestado interesse em aderir ao acordo, e prevê a assinatura do termo de…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.941938-03:00",
+      "added_at": "2026-11-11T14:40:04.004275-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4109,7 +3997,7 @@
       "title": "Arquivos Concessões Hidrelétricas - Agência iNFRA",
       "summary": "Auren reconhece R$ 357 milhões a receber por curtailment Geraldo Campos Jr., da Agência iNFRA A Auren reconheceu em seu balanço o valor a receber de R$ 357 milhões relativo ao curtailment (cortes de geração) passado, ocorrido entre setembro de 2023 e novembro de 2025. Apesar da contabilização, a geradora ainda aguarda as próximas etapas do processo de compensação, após ter manifestado interesse…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.947435-03:00",
+      "added_at": "2026-11-11T14:40:06.042324-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4117,7 +4005,7 @@
       "title": "Petrobras pediu ao MME mais prazo para revisão tarifária de gasodutos - Agência iNFRA",
       "summary": "Ana Luísa Egues, da Agência iNFRA A Petrobras solicitou ao MME (Ministério de Minas e Energia), via ofício, mais prazo para a revisão tarifária do transporte de gás natural que corre na ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis). O documento contraria a versão oficial da estatal de que não teria pedido nenhum adiamento à reguladora.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.947655-03:00",
+      "added_at": "2026-11-11T14:40:08.080777-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4125,7 +4013,7 @@
       "title": "Ministro não vê risco de leilão de aeroporto de Brasília ser adiado - Agência iNFRA",
       "summary": "da Agência iNFRA O ministro de Portos e Aeroportos, Tomé Franca, disse na terça-feira (10) não vislumbrar risco de adiamento do leilão do contrato repactuado do aeroporto de Brasília, marcado para 17 de dezembro. Segundo o ministro, os questionamentos em torno do acesso de empresas interessadas a informações mantidas pela atual concessionária, a Inframerica, foram resolvidos.",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.947879-03:00",
+      "added_at": "2026-11-11T14:40:10.138738-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4133,7 +4021,7 @@
       "title": "ANEEL suspende aporte de R$ 642 mi da EPP e J&F até decisão sobre LRCAP - Agência iNFRA",
       "summary": "Geraldo Campos Jr., da Agência iNFRA A diretoria da ANEEL (Agência Nacional de Energia Elétrica) aprovou nesta terça-feira (11), por unanimidade, a suspensão do prazo para a EPP (Evolution Power Partners) e a J&F aportarem R$ 642 milhões como garantia prévia para celebração de contratos de uso da rede. A decisão vale até que haja deliberação sobre a habilitação dos projetos no LRCAP (Leilão de…",
       "source": "",
-      "added_at": "2026-11-11T14:55:43.947971-03:00",
+      "added_at": "2026-11-11T14:40:12.117626-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
@@ -4201,195 +4089,235 @@
       "summary_source": "extractive",
       "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmo3dm9QU2dvaFhEWlZ0UUl2bFpfUnZjd0d6Zk9Pb1M3ZjB1RUJmZWtmajNzMENzbGM2ZnYyRzhEOXFjTkU2ajg4UzE0SVJFQUxiUGxqcFBhb3lNZi1rNklCWHYyd1RrVnNZM3BBU0RKdnVVRWxrdncyLVEtRUF0SFplZEplRTZYZWRuMmcxX0dYYkhmZWtxYUJBVV91N3VvZmJwd3MzLW5kdDV3WXlxdENnZ3gyX2RCX3M4SkhsZk02QVBIX3k2WkdWWU54bDZvM29ZWUREanoyTnc?oc=5": {
-      "title": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWd2ODVsM0tVcGZqUERkeWNmSnZIRUlXZlNwdVlyNmx6UVFuRmhDdUU3ZFJnN25VcW5YRVVBV3pVNnZPNEUyS3NYZlM1ak9lNTVnckpzbFRSZzMyUXlYNFIzbGFzRzFSMF83dDRJd0tSOGlBRDI4cjF0M054REFhMVlIOXpXempmZjM0eHFGV3N6WDVic2hPWGlZZG5nbHZFMUFxdUdFMGRjbENOc2c2R2tvcnJodFZXQXVDZEhHWFlpVHlHdnNn?oc=5": {
+      "title": "Anvisa determina recolhimento de emagrecedor sem registro sanitário e manda apreender lotes - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:37:32.233384-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUNiMGdXYnRBbVpYYkJiSGx6WDVLS1ZHbHkzS1B6VktBRldody1tdG1pNjdXaWRwQlNLYjF2RlNPRkFiNTZoSzZqcGxYa1M4d09mZjN0SnkyeDlDYVdCS2pEU25lVEV4ZlExaDBCT3VGYm83TVBDZ0NmWk9UaExOYk9NOUJXbjk5MHJxWlBpVjAweEJnZDVuYUF1TUVSQ1ZQcVQzNEJhSlQ2Vm5EVmJEU0VDa2lISzFtZ0k1X3pfX0xvZw?oc=5": {
-      "title": "Mobylette volta ao mercado em versão elétrica por menos de R$ 5 mil - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:37:42.339156-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjNFc3I0Nk5sdjVWSlZ4aUNCUFlTSF9zaXYxTFhmQS1pVTNURVVLWU5uUEdLWHRXQmRYUm9CcnVkNjV2SHQyNWNxd0ZvQ1F1QlVZcnNlQnU2Tk9Qdmx0c0oyS1I0ZXJnUlBPTmh6TnR0eXliOXN1VkJIcXVkTHJNU1N3VUNsbUYwbVJUaEc2SWJOYTk0eFRxV3FkRm5fNXFSbkFDQjMxdTBRckZxNzAxaA?oc=5": {
-      "title": "Leilão de itens do Banco Master reúne de raquete mata-mosquitos a cadeiras de R$ 100 mil - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:38:06.494257-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWS1ZSTIzSDk1TzZRNjAzM2ZMM2dsUHdyZS1XeFdOSEloMy1ubzgtTnVIOGpNU09YT2plS2FxQmVJWHpJUWRVMlBhU0N0TGNYbGVrb2Vra0l2WUtLLUF5TmxJVTJERGZWOUdkZHVEMnlSakpxZmYwTTM0RERRU3RaaFhNczJndURyTWIzVF9NaWNUald0X1JwNEdrZlR5bnVkbEljbXBLREdPWmhkbUxUR2VhcFBXRldmbWRHWkZtd3dGdw?oc=5": {
-      "title": "Mercedes-Benz elétrico eActros chega ao Brasil por R$ 2,5 milhões - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:38:15.496327-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcExhOVhWWVVBalFaTWxoazU0dXJ2cmtPV2c3MEkycjdRWFlnRWhGQy1nU0h0LVpGSC10S2NlbzhvcmlaVklUaDlrMTRXVlBpWU4yY1RvZFZvQTlSeWZ3UzdQYmtKSkdybGhiWVkxWW1iRlhGMWhBVFYzb0QwUEUwLVFLVDBDWjdtREFvalM3ZnZmRzJIODI0bC1oLWN5LXRHTzFfNnBtNA?oc=5": {
-      "title": "ANEEL: agentes apoiam tarifa horária, mas pedem ajustes nas faixas de preço - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:39:59.756610-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzNxVW4xSGQteVdwem1ZM2VFdG1HSzBqUF9teEN6MTZBR2c1dXgzZi13aEFuQm5LSURYd2twckpmUENkcS1WRzBiYU9iMjdoQjFLVURlaVhVdkJOWDZVSzB0N3FiV1h1bEhwcXJYLW1KbGVJVTdEX2FuWkpMYWpMQWlwSkVDMy1QQ1VqNFJ0Unc2TGE5UTg1ZA?oc=5": {
-      "title": "Tributária: ANA prevê trava de 9,25% na retirada de PIS/Cofins de tarifas - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:40:01.827141-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGNEaFo5Nm9DX25hZ19VcGdlYkZjeF9lN21QelNVWlB0c2h0eFpXZGsyTjR6TldFNFRicXp0U1RLZVlWeDJ3RkMzS2xhRmlNMmRXazBIN1lET3JWS2tIT0s3ZzBwLXdOYlVuNWhIeUNwN2xLa3VHcmxtNDk1bldqeHB3U2xJM0ZRUjBZZXI3UQ?oc=5": {
-      "title": "Auren reconhece R$ 357 milhões a receber por curtailment - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:40:04.004275-03:00",
-      "error": "no_article",
-      "attempts": 2
-    },
-    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVEZ2Wm1tN280STR4dFN4VVd2RHM5SUlVOGF5b1lmNWVPUmNIUEFnbGQtMGNvRFJNbFdHbVNVc1FfUjA5c0V5WDhfM1dKMk1jcWpDSFpxZXpyaE1vd2NhalVEeXZxMG0zYTFB?oc=5": {
-      "title": "Arquivos Concessões Hidrelétricas - Agência iNFRA",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-11T14:40:06.042324-03:00",
+      "added_at": "2026-11-11T21:35:46.252073-03:00",
       "error": "no_article",
       "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjZiLUF4SndvMHNySG10eTNHNmNoWFQ2ZTVyZ29ZYnJ6N0xDVmotWHhDVnhYSUtsZHhua3hWVHV5SzFEOExPN2NIR01mZUd4Q2tvbEROdWNQc2Q0MGt5OTd6djlkYjEzT1pTaTF3djVFaG5jV21VZ1U2dTdxY2tGNTJFMW5WTFlULVNuY3JRNDkwTFNvaGJoNGtNOFhDa1NOSUE?oc=5": {
-      "title": "Petrobras pediu ao MME mais prazo para revisão tarifária de gasodutos - Agência iNFRA",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYzNPSHB4cmdmaFVmakpRR21oRERLNlU2OUpUSU1RbW55X0Y2aGxvWXhjMTRJTEJDSHl5S2lnOGg2dWpRVzhtV0dtMkxoaXh3SFNuMkdUandadWdEY21kX2JpazdIeDVHeVJ3czBvQ3NaQnZqMDdleG9EVDQwV09BSVlHbkxYeEJnNjhSMEpQY3RKZmVndnZ3V1g1V0J2U3lLUTJheHV2RFNSdFh2OHluSk44WVhEdERWN0kyaW9hMk5MbjRtbTB1RWJNWDY?oc=5": {
+      "title": "Ex-boxeador é preso suspeito de espancar até a morte vendedor de concessionária em SC - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:08.080777-03:00",
+      "added_at": "2026-11-11T21:35:49.355302-03:00",
       "error": "no_article",
       "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmZMQ2lQQ1NWLUdYa3J1Ym8wdUxPb1BjUW9JejI0MFdBZjhfcEFLYmxFOGFjdmE5UUZfZjkzN0JLS0FsOENEWmlmMjlwdkNVT2pjZHBqcmNxa2xtQ2h6X1BqaFNzcHBpMUNtajR1eDVnZDV2ejlSUkdiV281cGNGWG9NYXpYejdKMDNXNVptYU5rQmZUSl9hS054QTlrSkE?oc=5": {
-      "title": "Ministro não vê risco de leilão de aeroporto de Brasília ser adiado - Agência iNFRA",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb0dvSENHVjNzSXlCaWhZLTRsWmtlalFzcm9FV3hVN0M2eHl0Y3kzNVhnM3kySnAwTXlZOWZSbE13bDc3Ym1KU1JiOEFjeTF3LW9mY1dyTlpQMGUxSFJlaFVHamY2ZWFGRHNGTnd2M3lraHJ5b3o5SzZEY1lUT2pyYW9BS2xuZDNDWF9rT2NkWG41enhYMlFHS19iVWlPWG9RS3lzcVN5emxPS3BJdFFrb2k1WE9tNVlzZ1RZM05RRXY5VmhwdXV3bzlLcUxXVEpWSVpuTnlscV8xeVk?oc=5": {
+      "title": "Bosch negocia motores elétricos feitos no Brasil com 7 montadoras - Estadão",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:10.138738-03:00",
+      "added_at": "2026-11-11T21:36:44.894427-03:00",
       "error": "no_article",
       "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUZqdGZHNFBUZVNOa2lLR1JRRzFGcGpQWDNuODEzb09sNWdGamswUHlFZ2hjN1M3dXZxR3phczhHSWF2U0lCbW9lUE5KaHprTjZCLTluc01ZVXhoNXdWN0ZuRVQ0djZhVXp6X0gyZXlaZXJPeVUzSEdLTV9IUUkwNF9oNVlKc0Y2dFJRaXpwVWF5czdwOWttaDE5T3lQWGtpenc?oc=5": {
-      "title": "ANEEL suspende aporte de R$ 642 mi da EPP e J&F até decisão sobre LRCAP - Agência iNFRA",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2Q2YS1XenlOVElpQ1RpbmROM0hubmdJbkhGa0JCbmdkVmR6NDltYmw2cEtOY21IN3NadUd6YUNmOHNGellBWTNHXzZqSWRKRjJFUVJCTkVscjVkQzR5Rk9jdUNRNldwRFBqajBtVG1mN2NZVnJpVTVjNVo2R2FWN0FIZUw5bzdPaHZna1VkX3N0WkRLX1pNWWJkY1FfdU9WRGpjY2J3?oc=5": {
+      "title": "Lucro líquido da Eneva recua 8,2% no terceiro trimestre - CanalEnergia",
       "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:12.117626-03:00",
+      "added_at": "2026-11-11T21:37:25.213615-03:00",
       "error": "no_article",
       "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3IxZzgxRV9vVHBlYVNJcWtSMEpHN0xDRGNJWUxPTGJwc2VYN3VQX2FKU2RON2JkZmZnUExjVktZbEFUeE9QUDEtV1cyb0lzY2EyX2xYckR5TWh5ZTZOdDJQREp2NEJLclpqX243dVRKNF9TSGNfWENKRUFEX3cwc0g2UUlFclFkSEdFcjFQSjZTSUtwUE9NQVpVTTdDQWhLWFQtSWFTUnVQN0owdFBzR0c0NkZyczYxOXhYZ2NfR3NmbWFFdFBDNTFOZnR6RzFWU1BjVXg2Q2x4Z9IB6AFBVV95cUxOMm94T1NNZkZoOU9STy1QM2YwOVNlUEZPbVJFQ3dwalp5OWQ2YXp4enZ1blVYSjYxZVZveWtDUk9mVHlHQmVZOEJ5UFdwZFp6NEhqT1oyVEI4Ykw5M19PaEJlY1U0dHlrNS11RkYyLXc0UWs3SXRsMTF4VVJiM0xRR2xkTURtU0xmZW50MG1hZ2VGMV9GXzFjOTU3WjgwMUNCOFpaQ095VlFVY0xZNlR0dHJrMnZlcHhJc0FpUHRRY1B4TDNZZ2hwdGxMMzdtTk5IUkZHT1NjSV9DbVFmU0k4R21qN0k2cjk2?oc=5": {
-      "title": "CVM absolve seis conselheiros da Renova Energia em processo sobre aumento de capital - Valor Econômico",
-      "summary": "CVM absolve seis conselheiros da Renova Energia em processo sobre aumento de capital Operação, realizada durante a recuperação judicial da empresa, envolveu a conversão de créditos em ações e reduziu o endividamento em aproximadamente R$ 535 milhões A Comissão de Valores Mobiliários (CVM) absolveu, em sessão de julgamento realizada ontem (10), seis integrantes do conselho de administração da…",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVA1ZXRsQ2dfTmFzWVlzNTJIX2RnczBFUnU5V1dXb3ljSVU4MGFmM0JyRXZINkpZMko1OHJvQi1QTlpyS0NPX0xjdk1DWmIyN3laT3BFRnYyNlNqRzRZb2NqczE4YkVmbXduY2E4YWM4YkdCLUlFR0d0d3lydVpGOTdLcnRrbmxsbnRUY3J2dU5aaFZuTFZUNG9LVXNFaExLR21wczBVbS1aaTZucEplNDZ1aw?oc=5": {
+      "title": "Aneel suspende prazo para aporte de garantia dos Consórcios ION - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:13.969455-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:26.978547-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOU1OZVM2UWVtZl85c0IzSGlLSjRucGZwUFNqQnA4Y2d1b2FDR1Bmemo5ZFFNQlhqcF9TUVoxd1NudW1CNXdxYzBybUN1d1pGOE9lZC1lcHJ2SW1XWWowZVNXM1VvcGpOeTNLN1JHYlJkSi1sZzdzTW9PdjRIS0FQU01NV3ZlVlBSN3RmVUI1NFQyR1ZybEwyM0RtRFd4ZS1GNmlQckxIdXdKX0xoZk4tS0Fxay1pTElpTE1jVFZ4SjlPak95NnpiZnBRTDJtZFhMWGdrVkZGZVR6YVBEd2EwR0xCdjZ4dUdTLVRj0gHrAUFVX3lxTFA5TU5lUzZRZW1mXzlzQjNIaUtKNG5wZnBQU2pCcDhjZ3VvYUNHUGZ6ajlkUU1CWGpwX1NRWjF3U251bUI1d3FjMHJtQ3V3WkY4T2VkLWVwcnZJbVdZajBlU1czVW9wak55M0s3UkdiUmRKLWxnN3NNb092NEhLQVBTTU1XdmVWUFI3dGZVQjU0VDJHVnJsTDIzRG1EV3hlLUY2aVByTEh1d0pfTGhmTi1LQXFrLWlMSWlMTWNUVnhKOU9qT3k2emJmcFFMMm1kWExYZ2tWRkZlVHphUER3YTBHTEJ2Nnh1R1MtVGM?oc=5": {
-      "title": "Especialista avalia impacto de nova proposta da Aneel na conta de luz - Valor Econômico",
-      "summary": "Especialista avalia impacto de nova proposta da Aneel na conta de luz Engenheiro Merivaldo Britto explica como a cobrança por horário, ainda em análise na Aneel, poderá afetar consumidores e investimentos em energia solar a partir de 2028 A conta de luz de consumidores residenciais, estabelecimentos comerciais, pequenas indústrias e propriedades rurais poderá mudar a partir de 2028. Uma proposta…",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmxKRFNMMnlLWlVNUnJRcmE4d2V1S0tDMkUwMWlCemFvZC1fWnFacHJJblY4RFczUkZ1Nlk5b2c0bzQzX2ZjOFI2WGlwWEdpaHQzYk5uc0tmWGJjdzFYWVd4VThacFFiY3A4bzFVY0xNOUZwaURMck1hV0hKRGVwaWRjQm85NHJ4YkFILTlOUQ?oc=5": {
+      "title": "Volume na BBCE cresce 32,8% em outubro - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:13.969852-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:28.709209-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkdLY0lWdDlKRV84OFNIM1hTamgxdWRPeFhQMk5YaVkxekEtNmlrZGFnLXNVOXVzVmpfOEJjQkE0R0l1OWZHMTJuWFlWWVdYVkxET0pBWVVVazdVbDhYWkNTYkl1M2RNUW51cXlFRXk5SE9MalZlMFp4ZlE1UWp0YlBXcjQ2MUtRSU8xUWYxNExzOUJFeUx0cE40NkREb3JzWkFz?oc=5": {
-      "title": "Não só o aço: siderúrgicas querem tarifar carros e eletrodomésticos da China - Brazil Journal",
-      "summary": "CIDADE DO MÉXICO – A indústria siderúrgica da América Latina brigou e conseguiu ampliar as barreiras comerciais ao aço chinês no último ano. Mas os chineses continuam encontrando caminhos para vender à região – com o aço chegando também de maneira indireta, incorporado a produtos como carros, máquinas e eletrodomésticos.",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVlTam1CNU1rUVozT196V2pXbE03S0NxbG5PcVRLZWNsc0RFdG8waV9KR2toWHNPY0V2czItNUVwT3paMlB3UnRJeE1ha0htR2twbkd0c0Q0ekxfeS1YbTIwd1lPUE95OEN1cjZ2UjNHR1cwWW9lSlE1MVhSVGJsZ0tQLWp0OWQ4WWVLSVpUVmFzb0t1QVFTU0xISFF2eGxkZWJucXdyQkNsN193RWFUaFBCdkhTWklBcElWcElCOGlZVGU2d01TTkhESFlnQmNIWDJjR2N3?oc=5": {
+      "title": "Antecipação de usinas do LRCAP influenciou crescimento da área Gás e Energia na Petrobras - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:23.018159-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:30.554215-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkV3a1VzOGVzLWh0QnpxQVI4M0U4VTllWDhuVEhWSWwzZWwycjlXd1B5clUxSFZ4VDZnVWRaLXdjaTRFQ2VuSUpCMm9oMVh2eTFtSFI1X3dXZl85Qnl4Z0NZOXY0RFdQcXVVRGduU2NRcEpUdWJpeURuQlNUN0dKZFppN011dUxkVlpaWEZiU0JYdmExUkVZUVVweXotYmx0LXZ1V1ktVUJOY3RIVHBmLU91M1BKazBKOFRFR1plcjc4QUd3TjhtcXVR?oc=5": {
-      "title": "Sabesp muda conta de água para se adequar à reforma tributária; veja o que muda - Folha de S.Paulo",
-      "summary": "A conta de água da Sabesp mudou de visual para se adequar à reforma tributária. Desde segunda-feira (9), a companhia começou a emitir um novo modelo de fatura, que apresenta campos específicos para os tributos criados pela mudança no sistema de impostos sobre o consumo.",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEpKblZKXzljU0tib3RsNGRnXzZXMjZiVGZMYktmMDFXU0FpbUlCRzFpbHRRTjBSNFhxYmowMmJndWswM3J6MEdxQjBxbmJKUWRqdW9EY1YzTDlJdlRwUmw5R1ZlaWtyQjByNDA5UVViTFpGMkw2WHZQb3hQOU1nX3pEUk5yTkV3RW5JaXk1Z1ZZeXVGdGVMTjdwU2pDMWUxT3FCdmd2ajI4aEJh?oc=5": {
+      "title": "Energisa cita El Niño como fator de incerteza para mercado - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:23.019642-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:32.289362-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTF9pTWVUcDdrckRwVzk1S3ZrNXlaQ1J4TkRVQkZySjMyYVRreE9KMVMwUmhhb0lnNGltT3Zkc21oMGdjSVY0WEFZNVRiTmxWRUo2MEhNaUhONndzN1NWT3hDeTdZLXhZUWFka1BueHQ3Zm04QmREMXExMlVQY1k?oc=5": {
-      "title": "Câmara aprova ampliação de até R$ 13,5 bi em crédito para empresas afetadas por tarifas dos EUA - UOL",
-      "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Nerisvaldo Josûˋ Santos Ah!",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtjdzd4cHhOOVRuT3FfeDA0R0ZyUWI4TEpXQU9oMmxONFpfTDJTZGxQLW9Cek93X2ZxUWYwOXQwWFFQal9tTFQ3ZUV2Wk5acEJHWGVBMWc1WnVSdXB4aDJTalVBakFsOGRfNW9jc2Vydm0wSWVNVERqa0tFQm9pTF83S3V1OERDTmNiUl9RdDVRZGtCU1Qw?oc=5": {
+      "title": "Região SE/CO opera com 55,3% da capacidade - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:23.019881-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:34.071249-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbWFobHpzdmlPWVBnUzVVY2lWdUNReEs2VkdFUkx1UmpralhLYlc5N2s4cVNMZHRGRlFOUUl3VFRoalNJRXBibzAyNzQ0d3V0ZnAzaUJUaGc1N183NjlzQWlEVVNqc0V3WjJqODhuQTFURFh1Y0NCaEJmRTZ3QjdETkQ2SlFrcFFmWk9yOFN4azRJMHdJT2NpMjBaQ2dpM2YycUlreEItTnJCRC02ODhPa196NFFmN1BtRGVwbnRuR1YzZ0NBM3BKeG9TY1FGNEJJbmQ4aF9YazRjUnpS?oc=5": {
-      "title": "'Quem Ama Cuida': Globo exibiu 'versão light' da cena de sexo entre Mau Mau e Felipe - UOL",
-      "summary": "'Quem Ama Cuida': Globo exibiu 'versão light' da cena de sexo entre Mau Mau e Felipe - Emissora não cortou sequência que foi ao ar, mas optou por versão que apenas sugeria o desenrolar dos acontecimentos - Cena com mais intimidade e mais explícita foi descartada pela direção; Globo, atores e diretora não comentam o assunto A Globo optou por exibir uma \"versão light\" da cena de sexo entre Mau Mau…",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWNVVHBMcFdqOUpUYnF3UmVYZ1VQZ3Bnai1VSE9PMlJ3N3pjXzJrTTdOdUpoVno1aWFFdmtHbXF6NUpnLTBJaGFMWnVFYUNRYS1FNGpKaXFjYlNlMmtMN0pTdnNrSWNvMTQzRUVNU21mRWYwNnRiU1ZzNS10aC1JbGg5T1ZoNEc0YnMzYmdVX29URV9RTTgzOHVtVjR1VVBZQWhuRnNLSU1fdG5yZ2lGdmg2UQ?oc=5": {
+      "title": "Engie espera definição de ressarcimento por curtailment em 2027 - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:27.548397-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:35.811555-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRm1HVjR6SFNuWi1lNEJzc0R2S1YyYmk2M2dFT2c3SS1lNFVTckM0WVNPQmxoajRxSnFvQWRLTVhBWWsyeDEwUmFqblljSDlub1pSaFlTUXh5bWd6NUZBZTcyNElvU3ZJa0s2Zm0tOW5MUkN5ZXpuS0xwUlEtRmM4WGszZlh6ZTlEM2RaS19NcWtybjFhMFUtLXZNbEJjWHJTZElfanEwRWN3OWVqYXIxc3hBT2huSHJUaDhZZTI3VXZoSWpoenlJYnR4SmoybF91YUpRM3VmRjNWN3F4SUdfalVkQQ?oc=5": {
-      "title": "Produção de veículos recua em outubro, e elétricos ampliam participação no mercado, diz Anfavea - c-level.folha.uol.com.br",
-      "summary": "São Paulo O Brasil produziu 254,5 mil veículos em outubro, quantidade 5,1% inferior à de setembro e 2,7% acima do mesmo mês em 2025. Segundo dados divulgados nesta quarta-feira (8) pela Anfavea (Associação Nacional dos Fabricantes de Veículos Automotores), a produção acumulada de 2026 chegou a 2,4 milhões, cerca de 180 mil veículos a mais na comparação com os dez primeiros meses do ano passado.",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUNrdG9FUU1keHF0VmhfY3NVU2Q2aXkyUm9wR1FxR2x1Y0k0NUtHcEFTVWFHU2h3dHFXTnFHamhldzJsUU43YUt5T2xIdG8wNlN6RVM2RnR6dHVsaGF0VFhUQjZaeW5mNHkxcmp4a3h2Y3lKQnh2N1A4YmRhR3NSNF9BUTFQOGJWQVJaVHUzNWIybHlNNm9vejNQQ3d4WkNwY1RxYmFHREZESXF3S3c?oc=5": {
+      "title": "Aneel altera data inicial de atualização de parcelas do UBP - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:27.548896-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:37.603733-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWEc1cW1GMW9nLUV3TWdKeEo2ZlAwMkt2VjJBTVotWmktejhuR3BHaUlybFZUZlpfWlI0Zzh1djFSTmtkZGhQRUlCWmg1WXE4ek5tTDVJNllUU1cwRmtjUWpjN2NIYl9iODBLM1hiY1U1UnJsNTE1V3FtUXFLYnYzWGx1WW1GdHY5Und4cFNwT2ZsRGZ6SHpKR3hUUWhZQmVSZmRsUDJhQS1IejA1N3l2REJFa3EyQ21IZjliX2JGOVVEQk40a1RFQTdnRndDakFxaUJlam05NDI1dw?oc=5": {
-      "title": "Operação mira quadrilha que aplicava golpes em concessionárias de veículos de luxo em SP - Folha de S.Paulo",
-      "summary": "A Polícia Civil de São Paulo faz operação nesta quarta-feira (11) contra quadrilha que aplicava golpes contra concessionárias de veículos de luxo. Em apenas uma delas, o prejuízo foi de R$ 1,6 milhão.",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd2VXeDZraDFxcEtjX1llN3lFQnRpUVZJVVhoNGJMTDdNWmZHU1ljZjVzcUttX2dpMDhkZGtiaVFISnc3U1VZZ3ZtSl9tSzhDMkJYcGh1dGpXZWR5bThFZ2tWLUhYR0M4YXhBZVNfNkdIYWo3VUpTdGxvaUs1VUtUcldwZHV2ZHFsS045SnNXNmlsaUFVU2hjWFp6UHNDSmZzRHFHY0tIQnMtcnV6ZnJ0Y0ZR?oc=5": {
+      "title": "Fitch afirma rating AAA(bra) de debêntures da Parintins Amazonas - CanalEnergia",
+      "summary": null,
       "source": "",
-      "added_at": "2026-11-11T14:40:27.549387-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "added_at": "2026-11-11T21:37:39.386901-03:00",
+      "error": "no_article",
+      "attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZXzBEZkZmLWtNckQ2ZW9oSERfaGthS1NZeDA2aDJzcWhxdlpFYnB2LVR1TDVudTNXamN4cHExdmt1bGllNUZhYzJ1V2hFbkdQLWxaTEJuaURicndFaXR0ZDV0ZnctdE1scVB5MG9aUEdaSGZlcXZ6MDNZdXdVNmM?oc=5": {
-      "title": "Fim da escala 6x1 pode pressionar reajuste das escolas particulares para 2027; entenda motivos - UOL",
-      "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Daniel Mercer Deixando minha risada para o ato sem estudo de impacto financeiro e viabilidade em paûÙs de terceiro mundo.",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlRENXhTMF9DMFUxbzlRVGhXeEhXbjR3QkdtWU9KUk5wa2R6ZVpXTUtSck9hOTVGRXdNRHRFbFJDZEMwQVl6TVBET3BTMVF1VTJOQkRZcm8yNGNaNkxRdkZsSmVYY0Vta082eXhKTkxaekdDMUU2RXhLYk1yc0FsSnRiNVpVUHBmWkwwekhOYmtDSHhfVFFZTkxCb2FtUWY0c0hHYW9iZmRwcXZEcjM2TnA0X0JDV3JPMi1ScE1n0gG-AUFVX3lxTFBOVEQ1eFMwX0MwVTFvOVFUaFd4SFduNHdCR21ZT0pSTnBrZHplWldNS1JyT2E5NUZFd01EdEVsUkNkQzBBWXpNUERPcFMxUXVVMk5CRFlybzI0Y1o2TFF2RmxKZVhjRW1rTzZ5eEpOTFp6R0MxRTZFeEtiTXJzQWxKdGI1WlVQcGZaTDB6SE5ia0NIeF9UUVlOTEJvYW1RZjRzSEdhb2JmZHBxdkRyMzZOcDRfQkNXck8yLVJwTWc?oc=5": {
+      "title": "Lucro da Equatorial cresce 53% no 3º trimestre - Valor Econômico",
+      "summary": "Lucro da Equatorial cresce 53% no 3º trimestre Entre julho e setembro, a companhia somou receitas de R$ 13,64 bilhões, queda anual de 1,2% A Equatorial Energia registrou um lucro líquido de R$ 934 milhões no terceiro trimestre, alta de 53% na comparação anual. O lucro líquido ajustado por minoritários, usado pela companhia para uma visão mais aderente, ficou em R$ 757 milhões, sendo 159,5%…",
       "source": "",
-      "added_at": "2026-11-11T14:40:27.551062-03:00",
+      "added_at": "2026-11-11T21:38:25.319708-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXNTSUhXX2NOaHRIUVZoZjNjd0JVSDkzdlk0T3lIQldXRGcwelh1SDVUSjB2N09uZVIwU2lIdXBIZkxzS0ZrVE1nU3BqeTlsUWNlWll1RHFhem11bW83NFVpXzY3ZVJJQjlIQnVyVF8yTHlMSWs4YnMzRnFSdndQTldpdEVGZmpwVzRpemdpQjhQMTFWcmFQX3F2cktTMU0?oc=5": {
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2xSaW9DTUpWaWFZTkNDS1FueVRvNG16SXBfZGhFaGRnVWVYNU9hRWQ0MnRIelZsaUJkZExJR0VKQWM5N3RwZ25hYlpaYTFuVkZpbnFkRnRDelY5ZWxYQjZaU3piVi1RZzlOamdXT0wxTngxQmlLSlFwbVJEN1pMcEVZZ0pjMVpSTEVwSWc1b211VmlRSXVOYVRaNjItSEQtSUQ0WmpFX0FBM3JKZ2c5RXpwWlY4N3QwMjViZ2R3bDRYNC1wWXpXMVRKcUZSYXpDOUpNSzl4ei3SAecBQVVfeXFMUFQtNHNNbC1TNl9uWk5GOEJucFhYQjNnTkl5bTk5OXpzTGNpUzdVcW01Q21CZm44MVBERzMwbjFic0dyZjY0ek9sUGpDaV9PdVBVYkZRbW9nWFF3akhDajBTejdmWEsxSUJqU1BYV1lyM1FMX1F1eFBXWW9tTlg0czlBOXM4N3l6MDBqbmYwR3B4R0k4V3AwUlNOanp6WTcwTnVkTXE2WFktNUhMTzZSVGY0WFBqYjVfLWRtU2dabC1BUC1vRE1PTjlERU52ZldaUU1XLVQ3YlFMLTcxX1QwbWlxWktBNENB?oc=5": {
+      "title": "Hitachi e BCR-i Brasil assinam contrato para resiliência energética de data centers - Valor Econômico",
+      "summary": "Hitachi e BCR-i Brasil assinam contrato para resiliência energética de data centers O acordo se dá num momento em que o país tem despertado a atenção de investidores para o setor A Hitachi Energy e a subsidiária brasileira do BCR-i, grupo internacional focado na gestão de infraestrutura, serviços técnicos e soluções de eficiência operacional, assinaram contrato para aprimorar a disponibilidade, a…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.319823-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY0dNSkdWd3VSZ3NFcEVObk03UXdMQzV5WUNwd2lPYTBDSFJQRlhsTllmZ3ZibjlpQUlYeUNaOG9VUU1KWi1aMHh5QUNVWGRIQml1cm9YYjdMeGIyV0lzcExJZzd1T3dST2w2alZPRm5QcXlpeml4aG5uQVRTcl92cHVzRlV1MS1Jb0I4WjhlMmxNbUxC0gGjAUFVX3lxTE9lUTBWRy1Qbm5hT25KZTcyWDlkUU9yZWFPY2ZnSm9wQjg2R0phS0x6eEVFUk5wZEJZLTcxUk8yVjRzMndkX3FiejBSVGFIeGh0Q1Y1emloaGFqQlN4VldkTTRwODdkbmU2RmdiTTNiT3kzSkUyc1ZRc1Z0cU50MS1ETk9CNGRSMXhqNmJsSWlFVENubFBZS3BGU3c2SDhPSmtkeHM?oc=5": {
+      "title": "Forte de Copacabana terá concessão - Valor Econômico",
+      "summary": "Forte de Copacabana terá concessão Gestão do complexo será por 30 anos e investimentos estão estimados em R$ 440 milhões Atualizado Um dos endereços mais conhecidos da orla carioca deve passar por renovação nos próximos anos. O Exército Brasileiro abriu consulta pública para concessão de uso do Museu Histórico do Exército e do Forte de Copacabana, projeto que prevê a entrada da iniciativa privada…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.320369-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaTVFcnVHdXItbFF2TF9ReTRWX1p2SDZiVEFnQVZWbGZHQThTTTBTckdvaTl0YUZDWUw5dkFhWW1JZ0NkVzVQQkc3Um1nUVQ5Z3N5ZzA0bjZfN1hTenowM0tNajdaQ2J5bWRnZmhhQl96ZUZWRXpJRVI4SW1BQnlZVjZXeFVwSXhteVlYUXFyRXByTFlfeXBIRFNSM1RMOUNNdnN4N2JkbjRyQzNVenFPZnRDdXl6Y3gtcjJyNXNR0gG-AUFVX3lxTE1pNUVydUd1ci1sUXZMX1F5NFZfWnZINmJUQWdBVlZsZkdBOFNNMFNyR29pOXRhRkNZTDl2QWFZbUlnQ2RXNVBCRzdSbWdRVDlnc3lnMDRuNl83WFN6ejAzS01qN1pDYnltZGdmaGFCX3plRlZFeklFUjhJbUFCeVlWNld4VXBJeG15WVhRcXJFcHJMWV95cEhEU1IzVEw5Q012c3g3YmRuNHJDM1V6cU9mdEN1eXpjeC1yMnI1c1E?oc=5": {
+      "title": "Marca da cervejaria Blondine vai a leilão após falência - Valor Econômico",
+      "summary": "Marcas da cervejaria Blondine vão a leilão após falência A empresa encerrou suas atividades em 2025, após pedir a autofalência, com dívidas de R$ 5 milhões A Justiça de São Paulo determinou o leilão de marcas da cervejaria Blondine, que esteve entre as pioneiras do mercado de bebidas artesanais. A empresa encerrou suas atividades em 2025, após pedir a autofalência, com dívidas de R$ 5 milhões.",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.325752-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHRRRG5Id0IwVW1KaVVWYlI4dGlsUW9zNGFxVlNPYmR2X3FqWHdaTEZhaDRidng4SjlGYWNnVjJ1VmNGQ1NLcUNERmtlRDVIeV9FNzJuWWZmZHRxYXM1M2ItWVJVMHkzYmtqRGNNVDlVbWpGUDlsTVZJdll2eHdqT0VDRzVsTnVIYlJxRkpUa0VsSEFtc2VINFhOaTYxNTVSUGkzVGk5YzZrSmhtZThJazk4LXZGaGp3YmN2b255eW1OOWNkU0tJNk1JemVBejJEQXMyc09FbXXSAd4BQVVfeXFMT0NDZjFfMjB2NWNXTHUyLTVPeGxpSnM5Q1BHOTRXMU8wLTBaR2tzMUlqeVFVQlZ3ejFJOUZ1OUF0MEtTY2FuMmhJZHZtTXJkMmdaNGx3ZTliUTJ5TXZxalRmLTNxMmRsVmlZLWhlZ0N6UjlOWXhGOTAxb0JtS3B5LW02dFI0V3g0RGkwZ1JHY0Z4YUZSQkhXVUxhT2t6Znp0QmtCa3RTVl9aLWx6Q2NMNHRUb2FUZHE5V3dKa0RlaDl2YzN6d0w3QjgtektGOHlEQjVKUGI1R28weXJMVW5R?oc=5": {
+      "title": "Taesa colhe resultados de compra bilionária e vê lucro e receita avançarem no 3T26 - Estadão",
+      "summary": "Temporada de Balanços: o que está por trás dos números da Taesa (TAEE11) Temporada de Balanços: o que está por trás dos números da Taesa (TAEE11). A Taesa (TAEE11) reportou lucro líquido regulatório de R$ 363,8 milhões no terceiro trimestre de 2026, um aumento de 12,5% em relação a 2025.",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.331877-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3RFbExnVFhkR25oSzVsWVM5cFlCN3c1SF9SYmtVRlo4MEJ5Wkp1V096bFMzVFIxWlo3RW5Tb09ydEZET2xkUDQzOXhKeHpjTHFveEo2Qk1hNUotU1M1ZGZhNl9iY0Z4cWZ1SGJVWWRYOC16RDlnRHRyZzY4SHdTemNWS2NjeExJSWtCQ0o1WVNSU0lXLVdRTXdNZEdUaDlub3M0RlpUVG45UEpmLWJvSWd1MzRxd0dTR3dsbU9jbGpvczNzNDVfRDd4Qk5kTXRaNzRiLUR6Y9IB3AFBVV95cUxNQkZUa254QkVEaXhMN1FqVmd2M1F5eEdBMU8zVk5RQzBjYWgxMlczRU5jZUZOUXFJVzNFak96eVVXODNCUkU0X1VjU29Cblk1ci1fdmlLbF80V0poQ0JDN01XTG5Gblp2V0Nla29lRHlEaHd4Q05sOW83eWVtR3hwVVo5MEhmcmJOMV9YOXZTYmZUd2FCN21LVTdLWVd2MHQ3TkhyMVdza25BbnZyRHdSclJBYkhPYmN3Rk5saHZibGc2U29GYjhPMWs1VGNLWmp1OEhEZG1KSDFQWmxt?oc=5": {
+      "title": "Eneva lucra R$ 323 milhões no 3T26 e prepara mais de R$ 16 bilhões em investimentos - Estadão",
+      "summary": "A Eneva (ENEV3) reportou lucro líquido de R$ 322,9 milhões no terceiro trimestre de 2026, uma queda de 8,2% em relação ao mesmo período de 2025. A receita operacional líquida caiu 26,9%, totalizando R$ 3,235 bilhões.",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.336701-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzJFMFZlZFJpR29BRGxoSTA5MW5kN2xfT3h5MEYzVGdGNFBYLVVIUnJXSUZMS1JWTWpXRWp6U1BzWi1CdTNodXNoNW1kLWpLUUhsUVhrSTZhQVhwVG9DQldERm1VQ1JtRnFsSk1IU3pHWXhST2tqRnFtb2Z6LUpKYlBpX1RSREIzUGtZRE5PNVFSV3RGcmpyR0pMcER1TDVEejBRcEVlRGNwUS1YTzFNUHhDeEZiZUNYcUU3STNpX1VGTUJJ0gHKAUFVX3lxTE55dlJrTXBCV0psLWg5T2Z5ZEd2LWJIU3BUUG1TSXhHUVZpUGdjZmkwcENuZ3VEb2lFOHVJZHp3WHR0TGhsbktxNVgyd3pULWhRU19GWWJfcVRLZVlHbDNJSXdocjdnNkFYOF9PZkhQc2hPS196REZMamszQjFneHlhNERVd19hSHBCUm5HUUlzc0FxNXJjaURYMWloSXVBTVg3a0xuMy1yQXBTUHVzNHdBUVZ3UXgzY0NYWmxuczJOdE51TjltRXpueFE?oc=5": {
+      "title": "Dívida de R$ 64 bilhões pesa sobre Equatorial e lucro cai 37% no 3T26 - Estadão",
+      "summary": "A Equatorial (EQTL3) registrou lucro líquido ajustado de R$ 535 milhões no terceiro trimestre de 2026, uma queda de 37,1% em relação a 2025. A receita operacional líquida foi de R$ 13,644 bilhões, com recuo de 1,2%.",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.336883-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmpEWFpMb3VXb2hrSkYtcE9wS2dTNEQxWTA1b3lFMGw3RVJlazRVN3VBOUY4ZHZlcHFhSHhQbWRjSGF1UWdoWEFreUR2bWZBVGxzbzIxZ2xEM3hZVXQ0eXN5Q3pyeERhbWVWMmt4MWlFM29CbU9zX3ZNR25MVkM4Vm9wNlJpZw?oc=5": {
+      "title": "O Uno Elétrico vem aí? - Estadão",
+      "summary": "Fim de Tarde O podcast da revista radiofônica da Eldorado, apresentado por Emanuel Bomfim e Leandro Cacossi 107.9 FMAo vivo Eldorado no Ar Programação musical da rádio dos melhores ouvintes 107.9 FMOferecimento:Próximo: Acompanhe também em: Mobfilm e Festa do Imigrante Leandro Cacossi destaca o Mobfest, festival que une mobilidade e cinema, e a celebração dos 30 anos da Festa do Imigrante no…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.336949-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMTd5X3p4QmFOUjIzeTI3akxteUtMMng0TUlqdThmQ2kya3hQTmljNktGVm1GQjN1WVRPV2N3QTkxSExhR0dIemlnNldfZU9KQWUwSnZvdnUwSDF2Wkl2OEl2TnpFRUdTaDdVb1Q0ekZMb3hjSXBWemxHSWN5eUg1QnM3dXQzbWVIT3RGVHhpSV82WGdsSzFQMFdjWHBHMzRoRFlQQTlsaktDUGo1TC1iXzhfSWFtUm43dl83b1ZJcVFfXzFUX240bFpuU1I1ai1UeVEtbWFENzA?oc=5": {
+      "title": "TESTAMOS O PRIMEIRO RANGE ROVER ELÉTRICO DA HISTÓRIA! (550 cv no Off-Road na Escócia) - Estadão",
+      "summary": "O Jornal do Carro viajou até Inverness, nas Highlands da Escócia (a terra do Monstro do Lago Ness!), para testar em PRIMEIRÍSSIMA MÃO e com EXCLUSIVIDADE o NOVO RANGE ROVER ELÉTRICO! Trata-se do primeiro modelo 100% elétrico da história da Land Rover / JLR.",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.337012-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXNTSUhXX2NOaHRIUVZoZjNjd0JVSDkzdlk0T3lIQldXRGcwelh1SDVUSjB2N09uZVIwU2lIdXBIZkxzS0ZrVE1nU3BqeTlsUWNlWll1RHFhem11bW83NFVpXzY3ZVJJQjlIQnVyVF8yTHlMSWs4YnMzRnFSdndQTldpdEVGZmpwVzRpemdpQjhQMTFWcmFQX3F2cktTMU3SAaQBQVVfeXFMUE5ocHFsTEZKQnRsNFl6TVRRa00zY0JuakNVb1NELTlOMWJnTjNnUUZBWkpwdHJETGRRdWFYMWpYbWtsa05QXzl2VGhobzlQRm5GVHIyY3RiMG04RXBIdE4wcVdzN1VFenRENWo0QUo4Wnh1QjhjS0lGc0NrMExLZDAycEtWZGcwYU9lOC0yN3VPdHhxclNxR2ZjcDNOT1h4S0laLTQ?oc=5": {
       "title": "Justiça diz que OAS deve receber R$ 2,4 mi de leilão do triplex - Estadão",
       "summary": "Gerando resumo A Justiça Federal de Brasília decidiu que a OAS Empreendimentos deve receber todo o valor obtido com a venda do tríplex do Guarujá (SP) que foi atribuído a Luiz Inácio Lula da Silva (PT) durante a Operação Lava Jato. O imóvel foi arrematado em leilão em 2018 por R$ 2,2 milhões (cerca de 2,4 milhões com as correções).",
       "source": "",
-      "added_at": "2026-11-11T14:40:36.599634-03:00",
+      "added_at": "2026-11-11T21:38:25.337102-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX1llN080bG9TQld2a1lBNE1IZUItb0VtQjNZTDVjVzJyU04xRjNUS1NfZE1sUG9Rc2w4R3NIZHlqOXBqcm1VbzdUMDNURHlhNjhOLVFuT2p1bXVFQXF2azBWUm43STFEajNhamRBVVNhaG1vOXRpWWNoV3RJZmRFSGRnWktKYzNyUDlTcTdHY1hUWjJmSTJtSmhiZ2MwOXV5cURRYlo5cl9HMEw2LWZRcTZaWmFMQVHSAbwBQVVfeXFMUDFTcHlrN2kxRlo1SUxQZUNOSzNISXJhS0ViQUdfMUhUZ2trSFFyYVhmMTFuUXRfcmRsVEVtbU5zMFZoM3NqWTJLT2V5VmFDSm95TnFiNDBxeEhmeTdhQ3RiYVE4VVowSHBjc0s5Y1ljV3RFZDI5M2F3aW01TVp2b3RPNjdHVXVIUjVFeTI0cHltNjg1c0MxWUlzMV9pWDM2cmRrT2NBa0t5MTJTSzRkNThndG5CclRQZ0F3WEU?oc=5": {
-      "title": "Por menos de R$ 5 mil, Mobylette volta ao mercado em versão elétrica - Estadão",
-      "summary": "Equipamentos e Acessórios da Nova Himalayan 750: Conheça o Kit Touring GIVI Manoplas aquecidas, malas rígidas GIVI sem suporte externo e protetor de cárter: confira os equipamentos opcionais e o pacote Antarctic Silver da Himalayan 750!. Quem viveu os anos 1980 provavelmente se lembra da Mobylette circulando pelas ruas brasileiras.",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUZBSmxsaF9TYWZLd2tNZmM1a1dDV0dwVW5QcE85S0p3SGgxNWw3MGdNWkV4d0tiSFFKSEx1emVfQ2lneWJ3dnQ2WkZ0Mjd5dDJsVDZna25vNUtoYmYxVHA2LUZOU0tPSWMzSjVITUpHYVFzdFRjdVB4Sm94M21ucEJKVlRzMzBiUV9iU21MRUpTWi1wVjlsOEJ0YTBjWEZP?oc=5": {
+      "title": "Abar orienta agências sobre retirada de tributos das tarifas de água - Agência iNFRA",
+      "summary": "da Agência iNFRA A Abar (Associação Brasileira de Agências Reguladoras) lançou, nesta quarta-feira (11), uma cartilha para orientar as agências reguladoras de saneamento sobre a retirada do PIS/Pasep e da Cofins das tarifas de água e esgoto antes da entrada em vigor da reforma tributária, em janeiro de 2027. O documento, elaborado em parceria com a Arsae-MG (Agência Reguladora de Saneamento e…",
       "source": "",
-      "added_at": "2026-11-11T14:40:36.600103-03:00",
+      "added_at": "2026-11-11T21:38:25.342734-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMVNZb25WaWJHb1pwZjlETlJ4T3hzNVQzRko2dDRsRFZ5cWJHemRjYkdaREdINGpjUTJHTGlIRDhOZG56XzFfSHVISkNjTkdaR19OQ1lTV0JTSmE5VVh1WFNSbE5WLVJka2duc01PMUtRTU5oT29DZXZNU0swdmd3Q3pYb0hNZEx4cW1Beld6NDFwNlVzNFZtZzNGM3dYN2FPcXhBWmVEZlpueVnSAbABQVVfeXFMTjNlTWN6RlNZNWFJMXRwd0F3c0dMeGJrVFpBQWtjYzZ4YUVBYUdKTnFDUEdXSmZKUmViSnc0TmZ3R3NOUC03RHpvS256Z0I3U3JTLUFUbFJROTB4cUhmV3YtR2VoTGVGV1JnUkZsbGxDdUg5WmdGNmtnNXVhQlN6ZGkzLUIwaUxLLWM0WlVIUkpDTTNzZWRhQVh6b2VDQkdIWEZfajR6cUVfMEFNbFVHUGo?oc=5": {
-      "title": "Exclusivo: dirigimos o primeiro Range Rover elétrico da história - Estadão",
-      "summary": "As Terras Altas escocesas dispensam efeitos especiais. Entre montanhas, lagos e estradas que parecem estreitar a cada curva, é fácil entender por que a região alimenta o imaginário de produções como Highlander e Outlander.",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFZTcnhLWjhmSDBGWWpqeUF2aVV5MkRUa0tzTHFfeTI4ZFBscEhnamRHOFNjMnpjaXIyZ1pmRHJTVlMtOEpOSWpDM0NZVGNuM2FhbTR4cnVpVUVXbU05aERScVpKdlZqTHRheDYtbjNHTndyQkpab0lCckZPUW5qaHloS3ZCSWQ0c05adVhCekdpRDM0d3RncXBGQmx2Z0lKdHdLcFEtYw?oc=5": {
+      "title": "Cadeia de fertilizantes será priorizada em nova política, diz MME - Agência iNFRA",
+      "summary": "Rafael Bitencourt, da Agência iNFRA A produção de fertilizantes será uma das cadeias produtivas prioritárias da política de minerais críticos e estratégicos, afirmou nesta quarta-feira (11) o secretário nacional de Geologia e Mineração do MME (Ministério de Minas e Energia), Anderson Arruda. No entanto, dois importantes insumos (potássio e fosfato) não fazem parte da categoria de substâncias…",
       "source": "",
-      "added_at": "2026-11-11T14:40:36.600963-03:00",
+      "added_at": "2026-11-11T21:38:25.347779-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 1
     },
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0REZkExV3ZJMGhsclBvN0dsRnQ5dDk5WnhyTGZaTFF6NW5kYTJsV1ZtVGxwSlk3T21FeTNPbHVKRkNZVHBJT0RRNHRMNmY0TEhUNGlsSlktdWctdm4yQmYwQW5jcUk5bU5tUXdEN1Z5VVNwWC16OUZkT3pYT180d1ZFeTdncHZFSmJ6SWc4a2t1YVhXUHczck1MSkI3dTRLTGZ3OWNZZkgxTk1INDIzZE1JZm9XcU9QbDh6MlR4WGtVeU1YQ3Jr?oc=5": {
-      "title": "'Loftia' usa de estética solarpunk para mostrar alternativa melhor de futuro - Folha de S.Paulo",
-      "summary": "Esta é a edição da Combo, a newsletter de games da Folha. Quer recebê-la todas as terças no seu email?",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPakdFUkI4WDlVVFpGc0NESEU1ZTA0Y0xCLWJvWmdudmNuckowQ3d1cUpzLXVyY3Z5NVZnRVh0ZHY2WEd2NFF6X2FGb2dIdmtHc0ZNWG5CVVpfc09icmZaZDhaVmtGYzRGa3k5MkpPa19sS0tuakxnOGRmMVk2UmhrX2pMVG5femxLYTdXMF9SNzBaN3c4Q0QwVzhYSTV5Zw?oc=5": {
+      "title": "ANEEL autoriza acesso de projeto de hidrogênio verde à Rede Básica - Agência iNFRA",
+      "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) autorizou o acesso do primeiro projeto de hidrogênio verde à Rede Básica do SIN (Sistema Interligado Nacional). A autorização, publicada no Diário Oficial da União de terça-feira (10), por meio do Despacho 4.249/2026, contempla a unidade consumidora Pecém VDB 1 Ltda., com demanda contratada de 645 MW a partir de dezembro de 2028.",
       "source": "",
-      "added_at": "2026-11-11T14:57:45.110532-03:00",
+      "added_at": "2026-11-11T21:38:25.347853-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTHpaVnRZRVVGb2hsQ3UxbUNteFZtYXlsQlR0aGRvdk1tNmNUQVA4ajdLV1NqQi1PbU50ZGJYTjZ4ck9jRFA0WTlCVjVXWjZHSjlYXzl0VVMtVEtzR3lVSg?oc=5": {
+      "title": "Arquivos concessão de uso - Agência iNFRA",
+      "summary": "Concessão do Forte de Copacabana prevê R$ 440 milhões em investimentos da Agência iNFRA O Exército Brasileiro abriu, nesta terça-feira (10), consulta pública sobre o projeto de parceria do MHEx/FC (Museu Histórico do Exército e Forte de Copacabana), no Rio de Janeiro (RJ). A iniciativa, que prevê a concessão de uso do complexo por 30 anos, conta com apoio do BNDES (Banco Nacional de…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.348035-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUG5zNkdtdTRGNXFlb21vdEhXZURNd0N2QTVsaG9VMVlKQkRQd3BPMUkxTmw0RjRyQkRLZHpzZHAySEFBNUZRcnRWTnNsQVVZc1RrNnpzQnNFeV9HTzgwczRxcXFSUlVsZUxjN01PSDdOUW51OEFTd0UzRkswek5HSnFVejIzZE5wX2FXUVlTWkN1dlBFVUlWazlMb0xfOHpXWUE?oc=5": {
+      "title": "Concessão do Forte de Copacabana prevê R$ 440 milhões em investimentos - Agência iNFRA",
+      "summary": "da Agência iNFRA O Exército Brasileiro abriu, nesta terça-feira (10), consulta pública sobre o projeto de parceria do MHEx/FC (Museu Histórico do Exército e Forte de Copacabana), no Rio de Janeiro (RJ). A iniciativa, que prevê a concessão de uso do complexo por 30 anos, conta com apoio do BNDES (Banco Nacional de Desenvolvimento Econômico e Social) e da Seppi (Secretaria Especial do Programa de…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.348160-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbDBjTUN4c1FUS3ZQcjNWX19TWWM0ajFyTS1ZT0NDNnZHeXhwZ0tkTVR4dkFpQ0JrNVRzQUR2SVhzcGZXWTkxYkdoUTF6NlYwQjI5LWJmSU1zTlE?oc=5": {
+      "title": "Arquivos tarifa plana - Agência iNFRA",
+      "summary": "Associações questionam migração automática de GD solar existente para tarifa horária Lais Carregosa e Geraldo Campos Jr., da Agência iNFRA As associações do segmento de GD (Geração Distribuída) solar questionaram a proposta da ANEEL (Agência Nacional de Energia Elétrica), que prevê a migração automática das unidades existentes para o novo modelo de tarifa horária a partir de 2028. A chamada…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.352956-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEZhZDhJdEN4c3A4NDZab1NjSVYwbmFpeDYxWUlya1VsSWJIeGFCbVhfNFR4T1lHQ1FXaU52LTQ3a3VIWVpsSUhrUXVBNFB3YTJHMkFMY1JyQnpWYWZQSEViOXhmckRteGN3ckg2dGV3QlZoTUgwdXVuTnc2VFBFNXFJZ3NnVmRXMXRtSDA2RHdrODVUUnU3MW1ZNkJ5b0pNTXJBU0pEc2F0QTY1TEt5aHRWUzJSQQ?oc=5": {
+      "title": "Associações questionam migração automática de GD solar existente para tarifa horária - Agência iNFRA",
+      "summary": "Lais Carregosa e Geraldo Campos Jr., da Agência iNFRA As associações do segmento de GD (Geração Distribuída) solar questionaram a proposta da ANEEL (Agência Nacional de Energia Elétrica), que prevê a migração automática das unidades existentes para o novo modelo de tarifa horária a partir de 2028. A chamada “Tarifa Hora Certa” será aplicada aos clientes com MMGD (Micro e Minigeração Distribuída)…",
+      "source": "",
+      "added_at": "2026-11-11T21:38:25.353103-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
