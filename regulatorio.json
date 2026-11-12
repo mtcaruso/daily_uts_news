@@ -1,26 +1,26 @@
 {
- "gerado_em": "2026-11-11T23:36:13-03:00",
+ "gerado_em": "2026-11-12T00:06:06-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00",
+   "lido_em": "2026-11-12T00:06:06-03:00",
    "listagem_pc": "2026-11-11T21:31:19.516654-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00"
+   "lido_em": "2026-11-12T00:06:06-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00"
+   "lido_em": "2026-11-12T00:06:06-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00"
+   "lido_em": "2026-11-12T00:06:06-03:00"
   },
   "Pauta ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00"
+   "lido_em": "2026-11-12T00:06:06-03:00"
   },
   "SEI": {
    "ok": true,
@@ -28,7 +28,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-11T23:36:13-03:00"
+   "lido_em": "2026-11-12T00:06:06-03:00"
   },
   "TCU": {
    "ok": true,
@@ -36,21 +36,6 @@
   }
  },
  "consultas": [
-  {
-   "id": "aneel-cp-029-2026",
-   "orgao": "ANEEL",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "029/2026",
-   "tema": "Atualização regulatória dos padrões de rede para aumentar a resiliência dos sistemas de distribuição de energia elétrica. Busca subsídios para avaliar a necessidade e conveniência da intervenção.",
-   "inicio": "2026-08-27",
-   "fim": "2026-10-12",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "link": "https://antigo.aneel.gov.br/consultas-publicas",
-   "docs": [],
-   "fonte": "listagem"
-  },
   {
    "id": "aneel-cp-031-2026",
    "orgao": "ANEEL",
@@ -396,7 +381,7 @@
    "tema": "Proposta de Metas para o Programa Energias da Amazônia",
    "inicio": "2026-10-23",
    "fim": "2026-11-11",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "area": "SNTEP/DTE",
    "link": "https://consultas-publicas.mme.gov.br/",
