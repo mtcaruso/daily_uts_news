@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T14:40:05.172962-03:00",
+  "last_updated": "2026-11-13T20:30:27.678719-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2634,6 +2634,26 @@
       "added_at": "2026-11-13T14:40:04.672650-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 3
+    },
+    "noticia_2026_leiloes-de-energia-existente-sao-encerrados-com-a-contratacao-de-2-859-7-mw-medios": {
+      "type": "noticia",
+      "title": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios",
+      "date": "13/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leiloes-de-energia-existente-sao-encerrados-com-a-contratacao-de-2-859-7-mw-medios",
+      "summary": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios A demanda contratada permitirá o atendimento de 31 distribuidoras e o suprimento de energia aos consumidores Com operacionalização da Câmara de Comercialização de Energia Elétrica (CCEE), a Agência Nacional de Energia Elétrica (ANEEL) realizou nesta sexta-feira (13) os Leilões de Energia Existente nas modalidades…",
+      "added_at": "2026-11-13T20:30:25.593065-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta": {
+      "type": "noticia",
+      "title": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta",
+      "date": "13/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta",
+      "summary": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta Documento apresentado sugere formas de aplicação da CLPI nos programas para levar energia a povos indigenas e tradicionais A Agência Nacional de Energia Elétrica ( ANEEL) promoveu nesta quinta-feira (12/11) reunião técnica para a apresentação de Nota Técnica elaborada pela Rede Energia & Comunidades…",
+      "added_at": "2026-11-13T20:30:27.178433-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
