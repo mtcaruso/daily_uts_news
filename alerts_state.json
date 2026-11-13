@@ -3331,6 +3331,10 @@
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-11-12T17:53:09+00:00",
       "erro": "'url'"
+    },
+    "MME · consultas públicas": {
+      "desde": "2026-11-13T08:52:08+00:00",
+      "erro": "API do MME: HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Read timed out. (read timeout=30)"
     }
   },
   "aneel_objetos": {
