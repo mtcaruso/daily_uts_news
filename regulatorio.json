@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-12T23:22:23-03:00",
+ "gerado_em": "2026-11-13T00:03:39-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-12T23:22:23-03:00",
+   "lido_em": "2026-11-13T00:03:39-03:00",
    "listagem_pc": "2026-11-12T21:08:37.206476-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-12T23:22:23-03:00"
+   "lido_em": "2026-11-13T00:03:39-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-12T23:22:23-03:00"
+   "lido_em": "2026-11-13T00:03:39-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-12T23:22:23-03:00"
+   "lido_em": "2026-11-13T00:03:39-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-12T23:22:23-03:00"
+   "lido_em": "2026-11-13T00:03:39-03:00"
   },
   "TCU": {
    "ok": true,
@@ -432,7 +432,7 @@
    "tema": "Aprimoramento da classificação de modalidades de operação de usinas conectadas ao sistema, com alteração dos Procedimentos de Rede e contemplando diversos submódulos, conforme minuta do ONS.",
    "inicio": "2026-09-17",
    "fim": "2026-11-12",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
@@ -447,7 +447,7 @@
    "tema": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
    "inicio": "2026-10-13",
    "fim": "2026-11-12",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "saneamento",
    "audiencia": null,
    "publicado": "2026-10-13",
