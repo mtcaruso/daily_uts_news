@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-13T05:00:00-03:00",
+ "gerado_em": "2026-11-13T05:38:53-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-13T05:00:00-03:00",
+   "lido_em": "2026-11-13T05:38:53-03:00",
    "listagem_pc": "2026-11-13T04:48:41.563269-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-13T05:00:00-03:00"
+   "lido_em": "2026-11-13T05:38:53-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-13T05:00:00-03:00"
+   "lido_em": "2026-11-13T05:38:53-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-13T05:00:00-03:00"
+   "lido_em": "2026-11-13T05:38:53-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -30,8 +30,10 @@
    "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
   },
   "Projetos MME": {
-   "ok": true,
-   "lido_em": "2026-11-13T05:00:00-03:00"
+   "ok": false,
+   "erro": "400 Client Error:  for url: https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/listagem-contribuicoes-publicas?pageNumber=0&pageSize=1000&sortBy=id&sortDirection=desc",
+   "lido_em": "2026-11-13T05:00:00-03:00",
+   "desde": "2026-11-13T05:38:53-03:00"
   },
   "TCU": {
    "ok": true,
