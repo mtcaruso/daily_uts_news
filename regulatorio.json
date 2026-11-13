@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-13T15:05:04-03:00",
+ "gerado_em": "2026-11-13T15:40:22-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-13T15:05:04-03:00",
+   "lido_em": "2026-11-13T15:40:22-03:00",
    "listagem_pc": "2026-11-13T14:40:05.172962-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-13T15:05:04-03:00"
+   "lido_em": "2026-11-13T15:40:22-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-13T15:05:04-03:00"
+   "lido_em": "2026-11-13T15:40:22-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-13T15:05:04-03:00"
+   "lido_em": "2026-11-13T15:40:22-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-13T15:05:04-03:00"
+   "lido_em": "2026-11-13T15:40:22-03:00"
   },
   "TCU": {
    "ok": true,
@@ -2790,6 +2790,19 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "59e8c39b6261",
+   "dia": "2026-11-13",
+   "hora": "15:40",
+   "orgao": "ARSAE",
+   "tipo": "documento",
+   "titulo": "CP 74/2026: 3 documentos novos",
+   "detalhe": "Nota Técnica CRE 05/2026 – Desoneração PIS/Cofins – Reforma Tributária do Consumo (pós consulta) · Cálculo das tarifas desoneradas (pós consulta) · Cartilha Orientativa para Agências Reguladoras – Reforma Tributária e Desoneração das Tarifas – Abar/Arsae-MG",
+   "link": "https://www.arsae.mg.gov.br/consultas-publicas-2026/#CP74",
+   "ref": "arsae-cp-74",
+   "detectado": true,
+   "visto_em": "2026-11-13T15:40:22-03:00"
+  },
   {
    "uid": "82e33d185848",
    "dia": "2026-11-13",
