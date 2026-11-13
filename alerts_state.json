@@ -3319,17 +3319,14 @@
     "extrato-de-termo-aditivo-744326038",
     "extrato-de-termo-aditivo-744294084",
     "extrato-de-termo-aditivo-744359889",
-    "extrato-de-termo-aditivo-744367605"
+    "extrato-de-termo-aditivo-744367605",
+    "extrato-de-termo-aditivo-744384906"
   ],
   "sei_parado": "2026-11-12",
   "saude": {
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-11-12T17:53:09+00:00",
       "erro": "'url'"
-    },
-    "MME · consultas públicas": {
-      "desde": "2026-11-13T06:30:54+00:00",
-      "erro": "API do MME: HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Read timed out. (read timeout=30)"
     }
   },
   "aneel_objetos": {
