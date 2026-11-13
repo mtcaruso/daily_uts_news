@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-13T08:04:26-03:00",
+ "gerado_em": "2026-11-13T08:23:34-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-13T08:04:26-03:00",
+   "lido_em": "2026-11-13T08:23:34-03:00",
    "listagem_pc": "2026-11-13T04:48:41.563269-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-13T08:04:26-03:00"
+   "lido_em": "2026-11-13T08:23:34-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-13T08:04:26-03:00"
+   "lido_em": "2026-11-13T08:23:34-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-13T08:04:26-03:00"
+   "lido_em": "2026-11-13T08:23:34-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-13T08:04:26-03:00"
+   "lido_em": "2026-11-13T08:23:34-03:00"
   },
   "TCU": {
    "ok": true,
@@ -250,34 +250,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "mme-cp-233",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "233",
-   "tema": "Proposta de diretrizes para o tratamento das outorgas de geração de energia hidrelétrica de que trata a Lei nº 12.783, de 11 de janeiro de 2013.",
-   "inicio": "2026-09-23",
-   "fim": "2026-10-30",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "area": "SNTEP/DPOG",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15946",
-     "t": "PORTARIA SNTEP/MME Nº 3.234, DE 18 DE SETEMBRO DE 2026"
-    },
-    {
-     "k": "mme15947",
-     "t": "SEI 1313248 Nota Tecnica 39"
-    },
-    {
-     "k": "mme15983",
-     "t": "Portaria SNTEP MME Nº 3.253, de 22 de outubro de 2026 - Prorrogação"
-    }
-   ]
-  },
-  {
    "id": "aneel-ts-042-2026",
    "orgao": "ANEEL",
    "tipo": "Tomada de Subsídios",
@@ -306,122 +278,6 @@
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
    "fonte": "listagem"
-  },
-  {
-   "id": "mme-cp-235",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "235",
-   "tema": "Consulta Pública, minuta do Relatório Síntese do Plano Decenal de Expansão de Energia 2036 - PDE 2036",
-   "inicio": "2026-10-08",
-   "fim": "2026-11-06",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "area": "SNTEP/DIEE",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15955",
-     "t": "Minuta Relatório Síntese Plano Decenal de Expansão de Energia 2036 - PDE 2036"
-    },
-    {
-     "k": "mme15957",
-     "t": "Portaria - Consulta Pública Relatório Síntese PDE 2036"
-    },
-    {
-     "k": "mme15958",
-     "t": "PDE 2036 Consulta Pública Formulário de Contribuição rev4"
-    },
-    {
-     "k": "mme16016",
-     "t": "Anexo - Diretrizes PDE 2036"
-    }
-   ]
-  },
-  {
-   "id": "mme-cp-236",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "236",
-   "tema": "Propostas sobre a regulamentação dos artigos 2º e 5º da Resolução CNPE nº1/2024.",
-   "inicio": "2026-10-13",
-   "fim": "2026-11-06",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "area": "SE",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15964",
-     "t": "I - Publicação no DOU"
-    },
-    {
-     "k": "mme15968",
-     "t": "II - Nota Técnica nº 20.2026-SE"
-    },
-    {
-     "k": "mme15971",
-     "t": "III - Minuta de Portaria Diretrizes Operacionalização do art. 2º da Res. CNPE nº 1 2024"
-    },
-    {
-     "k": "mme15973",
-     "t": "IV - Minuta de Portaria Diretrizes Operacionalização do art. 5º da Res. CNPE nº 1 2024"
-    },
-    {
-     "k": "mme16028",
-     "t": "V – Publicação no DOU (Prorrogação)"
-    }
-   ]
-  },
-  {
-   "id": "mme-cp-238",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "238",
-   "tema": "Proposta de Metas para o Programa Energias da Amazônia",
-   "inicio": "2026-10-23",
-   "fim": "2026-11-11",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "area": "SNTEP/DTE",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15984",
-     "t": "Minuta de Resolução CNPE - Metas Programa Energias da Amazônia"
-    },
-    {
-     "k": "mme15993",
-     "t": "FORMULARIO PARA CONTRIBUICAO CP Minuta Resolucao CNPE Metas Energias da Amazonia"
-    },
-    {
-     "k": "mme15994",
-     "t": "PORTARIA SNTEP MME Nº 3.251, DE 22 DE OUTUBRO DE 2026 - PORTARIA SNTEP MME Nº 3.251, DE 22 DE OUTUBRO DE 2026 - DOU - Imprensa Nacional"
-    },
-    {
-     "k": "mme15996",
-     "t": "NOTA TÉCNICA Nº 14 2026 CGSI DTE SNTEP"
-    },
-    {
-     "k": "mme15997",
-     "t": "Nota Tecnica NT EPE DEE 031 2024 rev0"
-    },
-    {
-     "k": "mme15998",
-     "t": "Informativo Tecnico IT EPE DPG 01 2024"
-    },
-    {
-     "k": "mme16001",
-     "t": "Informativo TecnicoIT EPE DEA 05 2024"
-    },
-    {
-     "k": "mme16002",
-     "t": "FSET ELB040 Relatorio de Investimentos Final Retorno a FSET rev"
-    }
-   ]
   },
   {
    "id": "aneel-cp-034-2026",
@@ -516,46 +372,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "mme-cp-240",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "240",
-   "tema": "Minuta de diretrizes e Informe Técnico EPE com a Proposta de Formulação dos Preços de Referência e do Custo de Combustível (Ccomb) para o Leilão dos Sistemas Isolados de 2027.",
-   "inicio": "2026-10-29",
-   "fim": "2026-11-17",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DTE",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme16008",
-     "t": "Minuta de Portaria - Diretrizes para o Leilão de Sistemas Isolado 2027"
-    },
-    {
-     "k": "mme16012",
-     "t": "FORMULARIO PARA CONTRIBUICOES Minuta Portaria SISOL 2027 v"
-    },
-    {
-     "k": "mme16013",
-     "t": "Informe Tecnico EPE DEE IT 082 2026 R0"
-    },
-    {
-     "k": "mme16014",
-     "t": "FORMULARIO PARA CONTRIBUICOES Informe Tecnico EPE SISOL 2027 v"
-    },
-    {
-     "k": "mme16015",
-     "t": "PORTARIA SNTEP/MME Nº 3.250, DE 20 DE OUTUBRO DE 2026 - Abertura consulta"
-    },
-    {
-     "k": "mme16026",
-     "t": "Nota Te´cnica 16"
-    }
-   ]
-  },
-  {
    "id": "arsesp-ap-07-2026",
    "orgao": "ARSESP",
    "tipo": "Audiência Pública",
@@ -606,38 +422,6 @@
    "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
    "docs": [],
    "fonte": "listagem"
-  },
-  {
-   "id": "mme-cp-237",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "237",
-   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
-   "inicio": "2026-10-23",
-   "fim": "2026-11-22",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DEMOB",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15979",
-     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
-    },
-    {
-     "k": "mme15981",
-     "t": "Formulário de Contribuições"
-    },
-    {
-     "k": "mme15982",
-     "t": "Portaria Abertura da Consulta Pública DOU"
-    },
-    {
-     "k": "mme16017",
-     "t": "Orientações"
-    }
-   ]
   },
   {
    "id": "aneel-cp-036-2026",
@@ -752,38 +536,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "mme-cp-239",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "239",
-   "tema": "Proposta de diretrizes para a elaboração do Plano de Outorgas de Transmissão de Energia Elétrica (POTEE) do Ministério de Minas e Energia (MME), desde a concepção dos Estudos de Planejamento da Transmissão até a realização dos Leilões para a Ampliação dos Sistemas de Transmissão, bem como para a autorização de Reforços e Melhorias em Instalações de Transmissão existentes.",
-   "inicio": "2026-10-29",
-   "fim": "2026-11-30",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DPOTI",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme16003",
-     "t": "01 Portaria SNTEP/MME nº 3.256, de 26 de outubro de 2026"
-    },
-    {
-     "k": "mme16004",
-     "t": "02 Nota Tecnica 80 AIR"
-    },
-    {
-     "k": "mme16005",
-     "t": "03 Formulario AHP Nota Tecnica 80 AIR"
-    },
-    {
-     "k": "mme16006",
-     "t": "04 Memoria Calculo AHP Nota Tecnica 80 AIR"
-    }
-   ]
-  },
-  {
    "id": "aneel-ts-040-2026",
    "orgao": "ANEEL",
    "tipo": "Tomada de Subsídios",
@@ -799,54 +551,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "mme-cp-242",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "242",
-   "tema": "Proposta de revisão do Manual de Operacionalização do Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - Luz para Todos",
-   "inicio": "2026-11-10",
-   "fim": "2026-12-10",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNEE/DUPS",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme16029",
-     "t": "Proposta do Manual de Operacionalização do Programa LPT 2026"
-    },
-    {
-     "k": "mme16030",
-     "t": "Portaria MME nº 946, de 6 de novembro de 2026 - divulga a Consulta Publica do Manual LPT 2026"
-    },
-    {
-     "k": "mme16031",
-     "t": "Portaria MME nº 946, de 6 de novembro de 2026 - publicada no DOU em 10 de novembro de 2026 - divulga a Consulta Publica do Manual LPT 2026"
-    },
-    {
-     "k": "mme16032",
-     "t": "Decreto nº 11.628, de 4 de agosto de 2023 - Programa Nacional de Universalização do Acesso e Uso da Energia Eletrica – LPT"
-    },
-    {
-     "k": "mme16033",
-     "t": "Portaria MME nº 801, de 18 de setembro de 2024 - aprova o Manual de Operacionalização do LPT atual"
-    },
-    {
-     "k": "mme16034",
-     "t": "Nota Informativa DUPS-SNEE nº 214, de 28 de outubro de 2026 - resumo das contribuições preliminares para o Manual LPT 2026"
-    },
-    {
-     "k": "mme16035",
-     "t": "Nota Técnica DUPS-SNEE nº 62, de 28 de outubro de 2026 - propõe abertura de Consulta Pública para recebimento de contribuições para revisão do Manual"
-    },
-    {
-     "k": "mme16036",
-     "t": "Modelo de Apresentacao para Contribuições do Manual LPT 2026"
-    }
-   ]
-  },
-  {
    "id": "aneel-cp-040-2026",
    "orgao": "ANEEL",
    "tipo": "Consulta Pública",
@@ -860,50 +564,6 @@
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
    "fonte": "listagem"
-  },
-  {
-   "id": "mme-cp-241",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "241",
-   "tema": "Proposta de Metodologias e procedimentos de Cálculo e Revisão da Garantia Física de Energia de Usinas Eólicas e Usinas Solares Fotovoltaicas",
-   "inicio": "2026-11-04",
-   "fim": "2026-12-18",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DPOG",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme16019",
-     "t": "Portaria SNTEP/MME Nº 3257, DE 28 DE outubro DE 2026"
-    },
-    {
-     "k": "mme16020",
-     "t": "SEI 1001218 Minuta Interna EOL"
-    },
-    {
-     "k": "mme16021",
-     "t": "SEI 1001220 Minuta Interna UFV"
-    },
-    {
-     "k": "mme16022",
-     "t": "SEI 1283696 Nota Tecnica 153 MME"
-    },
-    {
-     "k": "mme16023",
-     "t": "EPE DEE 010 2025 r0"
-    },
-    {
-     "k": "mme16024",
-     "t": "SEI 1331399 Nota Tecnica 250 AIR"
-    },
-    {
-     "k": "mme16025",
-     "t": "Oficio 0137 NT Metodologia Rev GV EOL UFV Clicksign"
-    }
-   ]
   },
   {
    "id": "aneel-ts-043-2026",
@@ -2668,40 +2328,6 @@
   }
  ],
  "projetos_extra": [
-  {
-   "id": "mme-cp-218",
-   "tipo_projeto": "MME",
-   "apelido": "Contabilização dupla no MCP e ofertas de quantidade",
-   "numero": "CP 218",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "grupo": "Geração e transmissão",
-   "situacao": "encerrada",
-   "fim": "2026-05-15",
-   "n_docs": 4,
-   "n_contrib": 59,
-   "ult_contrib": {
-    "data": "2026-05-19",
-    "instituicao": "Ministério da Fazenda"
-   },
-   "tema": "Proposta de diretrizes para a adoção da contabilização dupla no Mercado de Curto Prazo – MCP e para a transição para ofertas de quantidade de energia elétrica a serem consideradas nos processos de otimização energética e formação do preço de curto prazo."
-  },
-  {
-   "id": "mme-cp-233",
-   "tipo_projeto": "MME",
-   "apelido": "Renovação das outorgas de hidrelétricas (Lei 12.783)",
-   "numero": "CP 233",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "grupo": "Geração e transmissão",
-   "situacao": "encerrada",
-   "fim": "2026-10-30",
-   "n_docs": 3,
-   "n_contrib": 57,
-   "ult_contrib": {
-    "data": "2026-10-30",
-    "instituicao": "Auren Energia"
-   },
-   "tema": "Proposta de diretrizes para o tratamento das outorgas de geração de energia hidrelétrica de que trata a Lei nº 12.783, de 11 de janeiro de 2013."
-  },
   {
    "id": "tcu-02336820250",
    "tipo_projeto": "TCU",
