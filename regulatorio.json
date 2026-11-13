@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-13T13:08:39-03:00",
+ "gerado_em": "2026-11-13T14:07:05-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-13T13:08:39-03:00",
+   "lido_em": "2026-11-13T14:07:05-03:00",
    "listagem_pc": "2026-11-13T04:48:41.563269-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-13T13:08:39-03:00"
+   "lido_em": "2026-11-13T14:07:05-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-13T13:08:39-03:00"
+   "lido_em": "2026-11-13T14:07:05-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-13T13:08:39-03:00"
+   "lido_em": "2026-11-13T14:07:05-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-13T13:08:39-03:00"
+   "lido_em": "2026-11-13T14:07:05-03:00"
   },
   "TCU": {
    "ok": true,
@@ -497,6 +497,16 @@
      "k": "arsesp8360",
      "t": "Relatório e Voto",
      "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8403",
+     "t": "Contribuição Nortech",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8404",
+     "t": "Contribuição FIESP",
+     "data": "2026-11-13"
     }
    ]
   },
@@ -2760,6 +2770,18 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "c4c1c12240fa",
+   "dia": "2026-11-13",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "CP 14/2026: 2 documentos novos",
+   "detalhe": "Contribuição Nortech · Contribuição FIESP",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "ref": "arsesp-cp-14-2026",
+   "visto_em": "2026-11-13T14:07:05-03:00"
+  },
   {
    "uid": "20730f991010",
    "dia": "2026-11-12",
