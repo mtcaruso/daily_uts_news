@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T05:12:16.774836-03:00",
+  "last_updated": "2026-11-14T12:01:08.408119-03:00",
   "items": [
     {
       "cnpj_short": "02747-2",
@@ -5418,24 +5418,6 @@
       "empresa_label": "Eneva",
       "codigo_cvm": "21237",
       "first_seen": "2026-10-15T19:04:23.459011"
-    },
-    {
-      "cnpj_short": "02474-0",
-      "empresa_nome": "COPEL GERACAO E TRANSMISSAO S.A.",
-      "categoria": "Aviso aos Debenturistas",
-      "tipo": "-",
-      "especie": "Pagamento de juros/remuneração -",
-      "data_referencia": "20261015 15/10/2026",
-      "data_entrega": "20261015 15/10/2026 09:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Pagamento de juros/remuneração",
-      "protocolo": "1577306",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577306",
-      "empresa_label": "Copel",
-      "codigo_cvm": "24740",
-      "first_seen": "2026-10-15T09:30:05.722486"
     }
   ]
 }
