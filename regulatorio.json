@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-14T15:59:40-03:00",
+ "gerado_em": "2026-11-14T16:18:48-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-14T15:59:40-03:00",
+   "lido_em": "2026-11-14T16:18:48-03:00",
    "listagem_pc": "2026-11-13T20:30:27.678719-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-14T15:59:40-03:00"
+   "lido_em": "2026-11-14T16:18:48-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-14T15:59:40-03:00"
+   "lido_em": "2026-11-14T16:18:48-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-14T15:59:40-03:00"
+   "lido_em": "2026-11-14T16:18:48-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -30,10 +30,8 @@
    "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
   },
   "Projetos MME": {
-   "ok": false,
-   "erro": "HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-contribuicoes-publicas?pageNumber=0&pageSize=1000&sortBy=id&sor",
-   "lido_em": "2026-11-14T15:02:13-03:00",
-   "desde": "2026-11-14T15:59:40-03:00"
+   "ok": true,
+   "lido_em": "2026-11-14T16:18:48-03:00"
   },
   "TCU": {
    "ok": true,
