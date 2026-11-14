@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T12:01:08.408119-03:00",
+  "last_updated": "2026-11-14T16:53:58.009971-03:00",
   "items": [
     {
       "cnpj_short": "02747-2",
@@ -5364,60 +5364,6 @@
       "empresa_label": "Taesa",
       "codigo_cvm": "20257",
       "first_seen": "2026-10-16T14:15:14.550805"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Alteração na Diretoria -",
-      "data_referencia": "20261015 15/10/2026",
-      "data_entrega": "20261015 15/10/2026 18:32",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Alteração na Diretoria",
-      "protocolo": "1577552",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577552",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-10-15T19:04:20.923460"
-    },
-    {
-      "cnpj_short": "02025-7",
-      "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Assuntos Estratégicos de Estrutura de Governança.Ata",
-      "data_referencia": "20261014 14/10/2026 11:00",
-      "data_entrega": "20261015 15/10/2026 18:26",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Assuntos Estratégicos de Estrutura de Governança.",
-      "protocolo": "1577549",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577549",
-      "empresa_label": "Taesa",
-      "codigo_cvm": "20257",
-      "first_seen": "2026-10-15T19:04:20.923436"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Eneva e Itaú celebram novo Acordo de Investimento -",
-      "data_referencia": "20261015 15/10/2026",
-      "data_entrega": "20261015 15/10/2026 18:07",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Eneva e Itaú celebram novo Acordo de Investimento",
-      "protocolo": "1577537",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1577537",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-10-15T19:04:23.459011"
     }
   ]
 }
