@@ -1,24 +1,22 @@
 {
- "gerado_em": "2026-11-15T18:06:41-03:00",
+ "gerado_em": "2026-11-15T18:26:22-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-15T18:06:41-03:00",
+   "lido_em": "2026-11-15T18:26:22-03:00",
    "listagem_pc": "2026-11-13T20:30:27.678719-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-15T18:06:41-03:00"
+   "lido_em": "2026-11-15T18:26:22-03:00"
   },
   "ARSESP": {
-   "ok": false,
-   "erro": "HTTPSConnectionPool(host='www.arsesp.sp.gov.br', port=443): Max retries exceeded with url: /_api/web/GetList('/Lists/bdAudienciasPublicasDocumentos')/items?%24top=200&%24orderby=ID+desc&%24select=ID%2",
-   "lido_em": "2026-11-15T17:10:09-03:00",
-   "desde": "2026-11-15T18:06:41-03:00"
+   "ok": true,
+   "lido_em": "2026-11-15T18:26:22-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-15T18:06:41-03:00"
+   "lido_em": "2026-11-15T18:26:22-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -33,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-15T18:06:41-03:00"
+   "lido_em": "2026-11-15T18:26:22-03:00"
   },
   "TCU": {
    "ok": true,
