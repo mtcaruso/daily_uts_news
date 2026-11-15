@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T14:16:21.217455-03:00",
+  "last_updated": "2026-11-15T14:56:38.466955-03:00",
   "years_covered": [
     2024,
     2025,
@@ -71,6 +71,22 @@
             "buy_brl": 0.0,
             "sell_brl": 60054.2,
             "net_brl": -60054.2
+          }
+        }
+      },
+      "2026-10": {
+        "buy_brl": 0.0,
+        "sell_brl": 0.0,
+        "net_brl": 0.0,
+        "buy_qty": 0,
+        "sell_qty": 10000,
+        "n_trades_buy": 0,
+        "n_trades_sell": 1,
+        "by_cargo": {
+          "Órgão Estatutário ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 0.0,
+            "net_brl": 0.0
           }
         }
       }
@@ -540,6 +556,22 @@
             "buy_brl": 0.0,
             "sell_brl": 2493014.0,
             "net_brl": -2493014.0
+          }
+        }
+      },
+      "2026-10": {
+        "buy_brl": 0.0,
+        "sell_brl": 878876.0,
+        "net_brl": -878876.0,
+        "buy_qty": 0,
+        "sell_qty": 50000,
+        "n_trades_buy": 0,
+        "n_trades_sell": 1,
+        "by_cargo": {
+          "Conselho de Administração ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 878876.0,
+            "net_brl": -878876.0
           }
         }
       }
@@ -1467,6 +1499,22 @@
             "net_brl": -4416738.0
           }
         }
+      },
+      "2026-10": {
+        "buy_brl": 0.0,
+        "sell_brl": 6704433.0,
+        "net_brl": -6704433.0,
+        "buy_qty": 0,
+        "sell_qty": 215102,
+        "n_trades_buy": 0,
+        "n_trades_sell": 3,
+        "by_cargo": {
+          "Diretor ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 6704433.0,
+            "net_brl": -6704433.0
+          }
+        }
       }
     },
     "Engie": {
@@ -2083,6 +2131,27 @@
             "net_brl": -668901.5
           }
         }
+      },
+      "2026-10": {
+        "buy_brl": 360904.0,
+        "sell_brl": 9406095.37,
+        "net_brl": -9045191.37,
+        "buy_qty": 10800,
+        "sell_qty": 198633,
+        "n_trades_buy": 2,
+        "n_trades_sell": 48,
+        "by_cargo": {
+          "Conselho de Administração ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 4550552.2,
+            "net_brl": -4550552.2
+          },
+          "Diretor ou Vinculado": {
+            "buy_brl": 360904.0,
+            "sell_brl": 4855543.17,
+            "net_brl": -4494639.17
+          }
+        }
       }
     },
     "Light": {
@@ -2184,6 +2253,22 @@
             "buy_brl": 114500.0,
             "sell_brl": 0.0,
             "net_brl": 114500.0
+          }
+        }
+      },
+      "2026-10": {
+        "buy_brl": 458215.0,
+        "sell_brl": 0.0,
+        "net_brl": 458215.0,
+        "buy_qty": 166000,
+        "sell_qty": 0,
+        "n_trades_buy": 1,
+        "n_trades_sell": 0,
+        "by_cargo": {
+          "Diretor ou Vinculado": {
+            "buy_brl": 458215.0,
+            "sell_brl": 0.0,
+            "net_brl": 458215.0
           }
         }
       }
@@ -2650,6 +2735,22 @@
             "buy_brl": 0.0,
             "sell_brl": 18928.0,
             "net_brl": -18928.0
+          }
+        }
+      },
+      "2026-10": {
+        "buy_brl": 0.0,
+        "sell_brl": 19272.0,
+        "net_brl": -19272.0,
+        "buy_qty": 0,
+        "sell_qty": 600,
+        "n_trades_buy": 0,
+        "n_trades_sell": 1,
+        "by_cargo": {
+          "Conselho Fiscal ou Vinculado": {
+            "buy_brl": 0.0,
+            "sell_brl": 19272.0,
+            "net_brl": -19272.0
           }
         }
       }
