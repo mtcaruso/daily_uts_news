@@ -1,23 +1,22 @@
 {
- "gerado_em": "2026-11-16T11:14:56-03:00",
+ "gerado_em": "2026-11-16T11:29:07-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": false,
-   "lido_em": "2026-11-16T11:14:56-03:00",
-   "listagem_pc": "2026-11-16T03:09:58.461991-03:00",
-   "erro": "ANEEL · DOU Seção 3: busca do DOU de 13/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read"
+   "ok": true,
+   "lido_em": "2026-11-16T11:29:07-03:00",
+   "listagem_pc": "2026-11-16T03:09:58.461991-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-16T11:14:56-03:00"
+   "lido_em": "2026-11-16T11:29:07-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-16T11:14:56-03:00"
+   "lido_em": "2026-11-16T11:29:07-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-16T11:14:56-03:00"
+   "lido_em": "2026-11-16T11:29:07-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -32,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-16T11:14:56-03:00"
+   "lido_em": "2026-11-16T11:29:07-03:00"
   },
   "TCU": {
    "ok": true,
@@ -440,98 +439,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "arsesp-cp-14-2026",
-   "orgao": "ARSESP",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "14/2026",
-   "tema": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
-   "inicio": "2026-10-13",
-   "fim": "2026-11-12",
-   "situacao": "encerrada",
-   "setor": "saneamento",
-   "audiencia": null,
-   "publicado": "2026-10-13",
-   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
-   "docs": [
-    {
-     "k": "arsesp8352",
-     "t": "Aviso de CP 14/2026",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8353",
-     "t": "Regulamento CP 14/2026",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8354",
-     "t": "Formulário para envio de contribuições à CP 14/2026",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8355",
-     "t": "Nota Técnica",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8356",
-     "t": "Minuta de Deliberação",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8357",
-     "t": "Formulário BHP",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8358",
-     "t": "Formulário DPA",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8359",
-     "t": "Formulário PGRCPA",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8360",
-     "t": "Relatório e Voto",
-     "data": "2026-10-13"
-    },
-    {
-     "k": "arsesp8403",
-     "t": "Contribuição Nortech",
-     "data": "2026-11-13"
-    },
-    {
-     "k": "arsesp8404",
-     "t": "Contribuição FIESP",
-     "data": "2026-11-13"
-    },
-    {
-     "k": "arsesp8405",
-     "t": "Contribuição Tauil e Chequer Sociedade de Advogado",
-     "data": "2026-11-13"
-    },
-    {
-     "k": "arsesp8406",
-     "t": "Contribuição Sabesp - Anexo I",
-     "data": "2026-11-13"
-    },
-    {
-     "k": "arsesp8407",
-     "t": "Contribuição Sabesp - Anexo II",
-     "data": "2026-11-13"
-    },
-    {
-     "k": "arsesp8408",
-     "t": "Contribuição Sabesp - Anexo III",
-     "data": "2026-11-13"
-    }
-   ]
-  },
-  {
    "id": "aneel-ts-030-2026",
    "orgao": "ANEEL",
    "tipo": "Tomada de Subsídios",
@@ -620,6 +527,103 @@
      "k": "arsesp1187",
      "t": "Regulamento Atualizado da Audiência Pública 07/2026",
      "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "arsesp-cp-14-2026",
+   "orgao": "ARSESP",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "14/2026",
+   "tema": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
+   "inicio": "2026-10-13",
+   "fim": "2026-11-19",
+   "situacao": "aberta",
+   "setor": "saneamento",
+   "audiencia": null,
+   "publicado": "2026-10-13",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "docs": [
+    {
+     "k": "arsesp8352",
+     "t": "Aviso de CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8353",
+     "t": "Regulamento CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8354",
+     "t": "Formulário para envio de contribuições à CP 14/2026",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8355",
+     "t": "Nota Técnica",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8356",
+     "t": "Minuta de Deliberação",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8357",
+     "t": "Formulário BHP",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8358",
+     "t": "Formulário DPA",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8359",
+     "t": "Formulário PGRCPA",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8360",
+     "t": "Relatório e Voto",
+     "data": "2026-10-13"
+    },
+    {
+     "k": "arsesp8403",
+     "t": "Contribuição Nortech",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8404",
+     "t": "Contribuição FIESP",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8405",
+     "t": "Contribuição Tauil e Chequer Sociedade de Advogado",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8406",
+     "t": "Contribuição Sabesp - Anexo I",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8407",
+     "t": "Contribuição Sabesp - Anexo II",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8408",
+     "t": "Contribuição Sabesp - Anexo III",
+     "data": "2026-11-13"
+    },
+    {
+     "k": "arsesp8409",
+     "t": "Aviso de Reabertura e Ampliação do Período de Contribuição da Consulta Pública Nº 14/2026",
+     "data": "2026-11-16"
     }
    ]
   },
@@ -2792,6 +2796,19 @@
  "pauta_aberturas": [],
  "eventos": [
   {
+   "uid": "927d811e4802",
+   "dia": "2026-11-16",
+   "hora": "11:29",
+   "orgao": "ARSESP",
+   "tipo": "prazo",
+   "titulo": "CP 14/2026: prazo prorrogado",
+   "detalhe": "12/11 → 19/11 · Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "ref": "arsesp-cp-14-2026",
+   "detectado": true,
+   "visto_em": "2026-11-16T11:29:07-03:00"
+  },
+  {
    "uid": "30bfa881cc46",
    "dia": "2026-11-16",
    "hora": "10:53",
@@ -2803,6 +2820,18 @@
    "ref": "arsae-cp-68",
    "detectado": true,
    "visto_em": "2026-11-16T10:53:59-03:00"
+  },
+  {
+   "uid": "28b6acd30c3b",
+   "dia": "2026-11-16",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "CP 14/2026: documento novo",
+   "detalhe": "Aviso de Reabertura e Ampliação do Período de Contribuição da Consulta Pública Nº 14/2026 · Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=194",
+   "ref": "arsesp-cp-14-2026",
+   "visto_em": "2026-11-16T11:29:07-03:00"
   },
   {
    "uid": "59e8c39b6261",
