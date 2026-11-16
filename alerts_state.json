@@ -3364,10 +3364,6 @@
       "desde": "2026-11-13T14:39:19+00:00",
       "erro": "acórdãos do TCU: Expecting value: line 1 column 1 (char 0)",
       "avisado": "2026-11-13"
-    },
-    "ANEEL · DOU Seção 3": {
-      "desde": "2026-11-16T11:07:12+00:00",
-      "erro": "busca do DOU de 16/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read timed out. (read timeout=40)"
     }
   },
   "aneel_objetos": {
