@@ -3372,6 +3372,10 @@
       "desde": "2026-11-13T14:39:19+00:00",
       "erro": "acórdãos do TCU: Expecting value: line 1 column 1 (char 0)",
       "avisado": "2026-11-16"
+    },
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-16T21:43:00+00:00",
+      "erro": "busca do DOU de 13/11: 502 Server Error: Bad Gateway for url: https://www.in.gov.br/consulta/-/buscar/dou?q=%2A&s=do3&exactDate=personalizado&publishFrom=13-11-2026&publishTo=13-11-2026&delta=50&orgPr"
     }
   },
   "aneel_objetos": {
