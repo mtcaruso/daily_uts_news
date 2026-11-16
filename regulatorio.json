@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-16T10:34:57-03:00",
+ "gerado_em": "2026-11-16T10:53:59-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-16T10:34:57-03:00",
+   "lido_em": "2026-11-16T10:53:59-03:00",
    "listagem_pc": "2026-11-16T03:09:58.461991-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-16T10:34:57-03:00"
+   "lido_em": "2026-11-16T10:53:59-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-16T10:34:57-03:00"
+   "lido_em": "2026-11-16T10:53:59-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-16T10:34:57-03:00"
+   "lido_em": "2026-11-16T10:53:59-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-16T10:34:57-03:00"
+   "lido_em": "2026-11-16T10:53:59-03:00"
   },
   "TCU": {
    "ok": true,
@@ -2790,6 +2790,19 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "30bfa881cc46",
+   "dia": "2026-11-16",
+   "hora": "10:53",
+   "orgao": "ARSAE",
+   "tipo": "documento",
+   "titulo": "CP 68/2026: 5 documentos novos",
+   "detalhe": "Resolução Arsae-MG Nº 241, de 13 de novembro de 2026 · Relatório Técnico CRE 09/2026 · Nota Técnica GRT 10/2026 · Nota Técnica GRO 03/2026 – Pós CP · …e mais 1",
+   "link": "https://www.arsae.mg.gov.br/consultas-publicas-2026/#CP68",
+   "ref": "arsae-cp-68",
+   "detectado": true,
+   "visto_em": "2026-11-16T10:53:59-03:00"
+  },
   {
    "uid": "59e8c39b6261",
    "dia": "2026-11-13",
