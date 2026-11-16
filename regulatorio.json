@@ -1,23 +1,22 @@
 {
- "gerado_em": "2026-11-16T01:55:54-03:00",
+ "gerado_em": "2026-11-16T02:15:24-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": false,
-   "lido_em": "2026-11-16T01:55:54-03:00",
-   "listagem_pc": "2026-11-13T20:30:27.678719-03:00",
-   "erro": "ANEEL · DOU Seção 3: busca do DOU de 13/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read"
+   "ok": true,
+   "lido_em": "2026-11-16T02:15:24-03:00",
+   "listagem_pc": "2026-11-13T20:30:27.678719-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-16T01:55:54-03:00"
+   "lido_em": "2026-11-16T02:15:24-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-16T01:55:54-03:00"
+   "lido_em": "2026-11-16T02:15:24-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-16T01:55:54-03:00"
+   "lido_em": "2026-11-16T02:15:24-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -32,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-16T01:55:54-03:00"
+   "lido_em": "2026-11-16T02:15:24-03:00"
   },
   "TCU": {
    "ok": true,
