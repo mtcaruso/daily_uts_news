@@ -1672,7 +1672,7 @@
   },
   "arsae": {
     "mod": {
-      "2026": "2026-11-13T18:27:01",
+      "2026": "2026-11-16T13:38:59",
       "2025": "2026-08-27T17:57:33"
     },
     "cps": {
@@ -1705,14 +1705,19 @@
         "34d46160c6",
         "3a6e369155",
         "3b059e01df",
+        "3cf3a50870",
+        "40cb295794",
         "53b33c069c",
+        "5ba613b5c2",
         "63c0060203",
         "6401fbab83",
         "7c996f14f6",
         "9897405bc3",
         "9e35312c53",
         "cf60721e7c",
+        "d81fa5daff",
         "da93bedfcf",
+        "e652bdee11",
         "f3d6b2aa1f",
         "f821001204"
       ],
@@ -3364,6 +3369,10 @@
       "desde": "2026-11-13T14:39:19+00:00",
       "erro": "acórdãos do TCU: Expecting value: line 1 column 1 (char 0)",
       "avisado": "2026-11-16"
+    },
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-16T13:48:06+00:00",
+      "erro": "busca do DOU de 13/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read timed out. (read timeout=40)"
     }
   },
   "aneel_objetos": {
