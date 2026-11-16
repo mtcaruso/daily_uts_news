@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T03:09:58.461991-03:00",
+  "last_updated": "2026-11-16T17:18:05.003323-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2641,7 +2641,7 @@
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leiloes-de-energia-existente-sao-encerrados-com-a-contratacao-de-2-859-7-mw-medios",
       "summary": null,
-      "added_at": "2026-11-16T03:09:53.317177-03:00",
+      "added_at": "2026-11-16T17:17:59.874694-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta": {
@@ -2649,9 +2649,10 @@
       "title": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta",
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta",
-      "summary": null,
-      "added_at": "2026-11-16T03:09:57.961715-03:00",
-      "error": "summarize_failed"
+      "summary": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta Documento apresentado sugere formas de aplicação da CLPI nos programas para levar energia a povos indigenas e tradicionais A Agência Nacional de Energia Elétrica ( ANEEL) promoveu nesta quinta-feira (12/11) reunião técnica para a apresentação de Nota Técnica elaborada pela Rede Energia & Comunidades…",
+      "added_at": "2026-11-16T17:18:04.503037-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
