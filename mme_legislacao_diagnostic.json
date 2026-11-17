@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-17T16:01:53.377318-03:00",
+  "last_run": "2026-11-17T17:16:07.701373-03:00",
   "total_collected": 417,
   "by_category": {
     "portarias": 372,
@@ -9,8 +9,8 @@
   },
   "new_items": 0,
   "pending": 41,
-  "done": 20,
-  "failed": 1,
+  "done": 21,
+  "failed": 0,
   "pruned": 0,
   "page_cap_hit": []
 }
