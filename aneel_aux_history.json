@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T17:18:05.003323-03:00",
+  "last_updated": "2026-11-17T00:42:14.564802-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2640,9 +2640,10 @@
       "title": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios",
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leiloes-de-energia-existente-sao-encerrados-com-a-contratacao-de-2-859-7-mw-medios",
-      "summary": null,
-      "added_at": "2026-11-16T17:17:59.874694-03:00",
-      "error": "summarize_failed"
+      "summary": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios A demanda contratada permitirá o atendimento de 31 distribuidoras e o suprimento de energia aos consumidores Com operacionalização da Câmara de Comercialização de Energia Elétrica (CCEE), a Agência Nacional de Energia Elétrica (ANEEL) realizou nesta sexta-feira (13) os Leilões de Energia Existente nas modalidades…",
+      "added_at": "2026-11-17T00:42:11.955450-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "noticia_2026_aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta": {
       "type": "noticia",
@@ -2650,9 +2651,9 @@
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta",
       "summary": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta Documento apresentado sugere formas de aplicação da CLPI nos programas para levar energia a povos indigenas e tradicionais A Agência Nacional de Energia Elétrica ( ANEEL) promoveu nesta quinta-feira (12/11) reunião técnica para a apresentação de Nota Técnica elaborada pela Rede Energia & Comunidades…",
-      "added_at": "2026-11-16T17:18:04.503037-03:00",
+      "added_at": "2026-11-17T00:42:14.064445-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     }
   }
 }
