@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-16T23:00:33-03:00",
+ "gerado_em": "2026-11-17T00:13:15-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-16T23:00:33-03:00",
+   "lido_em": "2026-11-17T00:13:15-03:00",
    "listagem_pc": "2026-11-16T17:18:05.003323-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-16T23:00:33-03:00"
+   "lido_em": "2026-11-17T00:13:15-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-16T23:00:33-03:00"
+   "lido_em": "2026-11-17T00:13:15-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-16T23:00:33-03:00"
+   "lido_em": "2026-11-17T00:13:15-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-16T23:00:33-03:00"
+   "lido_em": "2026-11-17T00:13:15-03:00"
   },
   "TCU": {
    "ok": true,
@@ -447,7 +447,7 @@
    "tema": "Aprimoramento da Base de Dados Geográfica da Distribuidora (BDGD) para aderência ao MCPSE e Manual de Dados da SFF v.1.3.",
    "inicio": "2026-10-01",
    "fim": "2026-11-16",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
    "docs": [],
