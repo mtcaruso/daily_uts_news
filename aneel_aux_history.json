@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T00:42:14.564802-03:00",
+  "last_updated": "2026-11-17T16:05:51.634934-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2641,19 +2641,48 @@
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leiloes-de-energia-existente-sao-encerrados-com-a-contratacao-de-2-859-7-mw-medios",
       "summary": "Leilões de Energia Existente são encerrados com a contratação de 2.859,7 MW médios A demanda contratada permitirá o atendimento de 31 distribuidoras e o suprimento de energia aos consumidores Com operacionalização da Câmara de Comercialização de Energia Elétrica (CCEE), a Agência Nacional de Energia Elétrica (ANEEL) realizou nesta sexta-feira (13) os Leilões de Energia Existente nas modalidades…",
-      "added_at": "2026-11-17T00:42:11.955450-03:00",
+      "added_at": "2026-11-17T16:05:49.537407-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "noticia_2026_aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta": {
       "type": "noticia",
       "title": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta",
       "date": "13/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-sedia-reuniao-tecnica-aberta-para-tratar-de-clpi-no-ambito-do-projeto-energias-da-floresta",
-      "summary": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta Documento apresentado sugere formas de aplicação da CLPI nos programas para levar energia a povos indigenas e tradicionais A Agência Nacional de Energia Elétrica ( ANEEL) promoveu nesta quinta-feira (12/11) reunião técnica para a apresentação de Nota Técnica elaborada pela Rede Energia & Comunidades…",
-      "added_at": "2026-11-17T00:42:14.064445-03:00",
+      "summary": "ANEEL sedia reunião técnica aberta para tratar de CLPI no âmbito do projeto Energias da Floresta Documento apresentado sugere formas de aplicação da CLPI nos programas para levar energia a povos indigenas e tradicionais O documento discorre sobre as vantagens, dificuldades e obstáculos para aplicar a Consulta, voltada para identificar e ouvir adequadamente as expectativas e necessidades dos povos…",
+      "added_at": "2026-11-17T16:05:51.134609-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
+    },
+    "noticia_2026_regras-operacionais-e-de-faturamento-do-encargo-complementar-de-recursos-ecr-sao-aprovadas-pela-aneel": {
+      "type": "noticia",
+      "title": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL",
+      "date": "17/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/regras-operacionais-e-de-faturamento-do-encargo-complementar-de-recursos-ecr-sao-aprovadas-pela-aneel",
+      "summary": null,
+      "added_at": "2026-11-17T16:05:41.727509-03:00",
+      "error": "summarize_failed"
+    },
+    "noticia_2026_aneel-realizara-audiencia-publica-para-tratar-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel": {
+      "type": "noticia",
+      "title": "ANEEL realizará audiência pública para tratar do 6º Plano Anual de Aplicação de Recursos do Procel",
+      "date": "17/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realizara-audiencia-publica-para-tratar-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel",
+      "summary": "ANEEL realizará audiência pública para tratar do 6º Plano Anual de Aplicação de Recursos do Procel A iniciativa de participação social será na modalidade virtual, no dia 26 de novembro, às 10h Nesta terça-feira (17/11), a Diretoria Colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou a realização da Audiência Pública nº 009/2026, na modalidade virtual, para colher subsídios e…",
+      "added_at": "2026-11-17T16:05:46.388285-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_aprovadas-novas-tarifas-para-consumidores-atendidos-pela-ceee-d-rs": {
+      "type": "noticia",
+      "title": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS)",
+      "date": "17/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-ceee-d-rs",
+      "summary": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS) Novas tarifas serão válidas a partir do próximo domingo (22/11) Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (17/11), a Revisão Tarifária Periódica da Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D). Com sede na cidade de Porto Alegre (RS), a empresa atende cerca de 2,03 milhões de…",
+      "added_at": "2026-11-17T16:05:47.996824-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
