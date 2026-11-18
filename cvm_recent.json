@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-17T22:24:16.566298-03:00",
+  "last_updated": "2026-11-18T05:40:53.966764-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Relatório de Agência de Rating",
+      "especie": "15ª Emissão de Debêntures da AXIA Energia S.A. -",
+      "data_referencia": "20261117 17/11/2026",
+      "data_entrega": "20261117 17/11/2026 23:20",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "15ª Emissão de Debêntures da AXIA Energia S.A.",
+      "protocolo": "1590882",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1590882",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-11-18T08:40:31.391036"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
