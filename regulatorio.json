@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-18T02:12:30-03:00",
+ "gerado_em": "2026-11-18T02:50:50-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-18T02:12:30-03:00",
+   "lido_em": "2026-11-18T02:50:50-03:00",
    "listagem_pc": "2026-11-17T22:36:06.046053-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-18T02:12:30-03:00"
+   "lido_em": "2026-11-18T02:50:50-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-18T02:12:30-03:00"
+   "lido_em": "2026-11-18T02:50:50-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-18T02:12:30-03:00"
+   "lido_em": "2026-11-18T02:50:50-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-18T02:12:30-03:00"
+   "lido_em": "2026-11-18T02:50:50-03:00"
   },
   "TCU": {
    "ok": true,
@@ -954,6 +954,21 @@
    "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
    "docs": [],
    "fonte": "listagem"
+  },
+  {
+   "id": "aneel-cp-042-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "042/2026",
+   "tema": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras",
+   "inicio": null,
+   "fim": "2027-01-04",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "DOU"
   },
   {
    "id": "arsae-cp-72",
@@ -2795,6 +2810,19 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "080e9e4908a2",
+   "dia": "2026-11-18",
+   "hora": "02:50",
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 042/2026 aberta",
+   "detalhe": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras · contribuições até 04/01",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-042-2026",
+   "detectado": true,
+   "visto_em": "2026-11-18T02:50:50-03:00"
+  },
   {
    "uid": "927d811e4802",
    "dia": "2026-11-16",
