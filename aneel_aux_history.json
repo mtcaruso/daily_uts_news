@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T22:36:06.046053-03:00",
+  "last_updated": "2026-11-18T07:02:26.877274-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2660,30 +2660,27 @@
       "title": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL",
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/regras-operacionais-e-de-faturamento-do-encargo-complementar-de-recursos-ecr-sao-aprovadas-pela-aneel",
-      "summary": "Regras operacionais e de faturamento do Encargo Complementar de Recursos (ECR) são aprovadas pela ANEEL Distribuidoras terão seis meses para adaptação de sistemas Regras operacionais e de faturamento necessárias à aplicação do Encargo Complementar de Recursos (ECR), mecanismo criado por lei para limitar o crescimento de subsídios financiados pela Conta de Desenvolvimento Energético (CDE), foram…",
-      "added_at": "2026-11-17T22:36:00.933248-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": null,
+      "added_at": "2026-11-18T07:02:17.227996-03:00",
+      "error": "summarize_failed"
     },
     "noticia_2026_aneel-realizara-audiencia-publica-para-tratar-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel": {
       "type": "noticia",
       "title": "ANEEL realizará audiência pública para tratar do 6º Plano Anual de Aplicação de Recursos do Procel",
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realizara-audiencia-publica-para-tratar-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel",
-      "summary": "ANEEL realizará audiência pública para tratar do 6º Plano Anual de Aplicação de Recursos do Procel A iniciativa de participação social será na modalidade virtual, no dia 26 de novembro, às 10h Nesta terça-feira (17/11), a Diretoria Colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou a realização da Audiência Pública nº 009/2026, na modalidade virtual, para colher subsídios e…",
-      "added_at": "2026-11-17T22:36:02.394339-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "summary": null,
+      "added_at": "2026-11-18T07:02:21.804233-03:00",
+      "error": "summarize_failed"
     },
     "noticia_2026_aprovadas-novas-tarifas-para-consumidores-atendidos-pela-ceee-d-rs": {
       "type": "noticia",
       "title": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS)",
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-ceee-d-rs",
-      "summary": "Aprovadas novas tarifas para consumidores atendidos pela CEEE-D (RS) Novas tarifas serão válidas a partir do próximo domingo (22/11) Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (17/11), a Revisão Tarifária Periódica da Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D). Com sede na cidade de Porto Alegre (RS), a empresa atende cerca de 2,03 milhões de…",
-      "added_at": "2026-11-17T22:36:03.987100-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 2
+      "summary": null,
+      "added_at": "2026-11-18T07:02:26.377009-03:00",
+      "error": "summarize_failed"
     },
     "noticia_2026_consulta-publica-discutira-proposta-de-sandbox-para-coordenar-acionamentos-de-mmgd-entre-ons-e-distribuidoras": {
       "type": "noticia",
@@ -2691,7 +2688,7 @@
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/consulta-publica-discutira-proposta-de-sandbox-para-coordenar-acionamentos-de-mmgd-entre-ons-e-distribuidoras",
       "summary": null,
-      "added_at": "2026-11-17T22:35:48.725283-03:00",
+      "added_at": "2026-11-18T07:01:58.829671-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-aprova-consulta-publica-sobre-aprimoramentos-regulatorios-na-geracao-compartilhada": {
@@ -2700,7 +2697,7 @@
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-consulta-publica-sobre-aprimoramentos-regulatorios-na-geracao-compartilhada",
       "summary": null,
-      "added_at": "2026-11-17T22:35:53.335316-03:00",
+      "added_at": "2026-11-18T07:02:03.444451-03:00",
       "error": "summarize_failed"
     },
     "noticia_2026_aneel-promove-audiencia-para-discutir-a-qualidade-do-servico-prestado-pela-ambar-energia-amazonas-s.a": {
@@ -2708,20 +2705,18 @@
       "title": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A",
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-audiencia-para-discutir-a-qualidade-do-servico-prestado-pela-ambar-energia-amazonas-s.a",
-      "summary": "ANEEL promove Audiência para discutir a qualidade do serviço prestado pela Âmbar Energia Amazonas S.A A participação da sociedade é essencial para subsidiar a Agência durante a avaliação das medidas propostas no Plano de Ação apresentado pela distribuidora A Agência Nacional de Energia Elétrica – ANEEL realiza na próxima quarta-feira (25) a Audiência Pública nº 08/2026, com o objetivo de ouvir…",
-      "added_at": "2026-11-17T22:35:57.951819-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": null,
+      "added_at": "2026-11-18T07:02:08.028520-03:00",
+      "error": "summarize_failed"
     },
     "noticia_2026_consulta-publica-discutira-tratamento-contabil-ao-excesso-de-mmgd-contabilizado-na-carga-das-distribuidoras": {
       "type": "noticia",
       "title": "Consulta Pública discutirá tratamento contábil ao excesso de MMGD contabilizado na carga das distribuidoras",
       "date": "17/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/consulta-publica-discutira-tratamento-contabil-ao-excesso-de-mmgd-contabilizado-na-carga-das-distribuidoras",
-      "summary": "Consulta Pública discutirá tratamento contábil ao excesso de MMGD contabilizado na carga das distribuidoras Interessados podem enviar contribuições no período de 19/11/26 a 4/1/27 para o e-mail: cp042_2026@aneel.gov.br A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (17), durante Reunião Pública Ordinária, abertura de Consulta Pública com o objetivo de…",
-      "added_at": "2026-11-17T22:35:59.515408-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": null,
+      "added_at": "2026-11-18T07:02:12.614058-03:00",
+      "error": "summarize_failed"
     }
   }
 }
