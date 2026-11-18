@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T05:40:53.966764-03:00",
+  "last_updated": "2026-11-18T14:31:39.878533-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -5796,42 +5796,6 @@
       "empresa_label": "Copasa",
       "codigo_cvm": "19445",
       "first_seen": "2026-10-19T22:59:50.975117"
-    },
-    {
-      "cnpj_short": "01431-1",
-      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "DESLISTAGEM DAS AÇÕES NO LATIBEXAta",
-      "data_referencia": "20260917 17/09/2026 08:00",
-      "data_entrega": "20261019 19/10/2026 10:49",
-      "status": "Ativo",
-      "versao": "2",
-      "modalidade": "RE",
-      "assunto": "DESLISTAGEM DAS AÇÕES NO LATIBEX",
-      "protocolo": "1578183",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1578183",
-      "empresa_label": "Copel",
-      "codigo_cvm": "14311",
-      "first_seen": "2026-10-19T14:08:03.818796"
-    },
-    {
-      "cnpj_short": "02123-7",
-      "empresa_nome": "ENEVA S.A",
-      "categoria": "Comunicado ao Mercado",
-      "tipo": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "especie": "Release Operacional 3T26 -",
-      "data_referencia": "20261019 19/10/2026",
-      "data_entrega": "20261019 19/10/2026 08:39",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Release Operacional 3T26",
-      "protocolo": "1578143",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1578143",
-      "empresa_label": "Eneva",
-      "codigo_cvm": "21237",
-      "first_seen": "2026-10-19T13:43:04.513536"
     }
   ]
 }
