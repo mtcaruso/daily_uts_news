@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-17T23:58:33-03:00",
+ "gerado_em": "2026-11-18T00:17:32-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-17T23:58:33-03:00",
+   "lido_em": "2026-11-18T00:17:32-03:00",
    "listagem_pc": "2026-11-17T22:36:06.046053-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-17T23:58:33-03:00"
+   "lido_em": "2026-11-18T00:17:32-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-17T23:58:33-03:00"
+   "lido_em": "2026-11-18T00:17:32-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-17T23:58:33-03:00"
+   "lido_em": "2026-11-18T00:17:32-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-17T23:58:33-03:00"
+   "lido_em": "2026-11-18T00:17:32-03:00"
   },
   "TCU": {
    "ok": true,
@@ -462,7 +462,7 @@
    "tema": "Minuta de diretrizes e Informe Técnico EPE com a Proposta de Formulação dos Preços de Referência e do Custo de Combustível (Ccomb) para o Leilão dos Sistemas Isolados de 2027.",
    "inicio": "2026-10-29",
    "fim": "2026-11-17",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "area": "SNTEP/DTE",
    "link": "https://consultas-publicas.mme.gov.br/",
