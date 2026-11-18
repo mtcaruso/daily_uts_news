@@ -3171,6 +3171,7 @@
       "partic_cp_039_2026",
       "partic_cp_040_2026",
       "partic_cp_041_2026",
+      "partic_cp_042_2026",
       "partic_cp_043_2026",
       "partic_cp_044_2026",
       "partic_ts_022_2024",
@@ -3208,7 +3209,8 @@
       "partic_ts_042_2026": "03/11/2026",
       "partic_cp_040_2026": "14/12/2026",
       "partic_cp_041_2026": "27/11/2026",
-      "partic_ts_043_2026": "24/12/2026"
+      "partic_ts_043_2026": "24/12/2026",
+      "partic_cp_042_2026": "04/01/2027"
     },
     "prazos_listagem": {
       "partic_ts_039_2026": "30/10/2026",
@@ -3396,7 +3398,8 @@
     "extrato-de-termo-aditivo-744359889",
     "extrato-de-termo-aditivo-744367605",
     "extrato-de-termo-aditivo-744384906",
-    "resultado-de-julgamento-744585865"
+    "resultado-de-julgamento-744585865",
+    "aviso-de-consulta-publica-n-42/2026-745053939"
   ],
   "sei_parado": "2026-11-17",
   "saude": {
@@ -3422,7 +3425,8 @@
     "partic_cp_040_2026": "obter subsídios e informações com vistas à regulamentação do fim do desconto na TUSD/TUST aos consumidores, em razão do disposto no § 14 do art. 26 da Lei nº 9.427/1996, inserido pela Lei nº 15.269/2025",
     "partic_cp_041_2026": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL",
     "partic_cp_033_2026": "obter subsídios para o aprimoramento do Módulo 3 do Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional - PRODIST para estabelecimento de requisitos de observabilidade, operabilidade e controlabilidade dos Recursos Energéticos Distribuídos (REDs), bem como do Relatório de ",
-    "partic_ts_043_2026": "obter contribuições para revisão do Submódulo 2.10 - Requisitos técnicos mínimos para a conexão às instalações de transmissão dos Procedimentos de Rede (Requisitos) e os demais submódulos por ele afetados"
+    "partic_ts_043_2026": "obter contribuições para revisão do Submódulo 2.10 - Requisitos técnicos mínimos para a conexão às instalações de transmissão dos Procedimentos de Rede (Requisitos) e os demais submódulos por ele afetados",
+    "partic_cp_042_2026": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras"
   },
   "sei_pauta": {
     "21/2026 - RPO|48500032821202567|Prorrogação do prazo de pedido de vista referente ao Recurso": "resultado",
