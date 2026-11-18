@@ -1,94 +1,6 @@
 {
-  "last_updated": "2026-11-17T22:57:57.939651-03:00",
+  "last_updated": "2026-11-18T07:08:47.234719-03:00",
   "items": {
-    "https://news.google.com/rss/articles/CBMif0FVX3lxTE40d2VBZ2d5T0VhY1oxZ1c3OF96SndzRzh0anpITkQzSzNESlhxSXNTWkhYaE44d1pVaUEwUWItUnpaRl9jMWhlLXY5U3Z6ejE0eEZFWW1QNVV1VFJHSWZSaFQ5Q2xqWmxhLWt0dnBqaU1Za3U5SEFtMVRXeTk2Y0E?oc=5": {
-      "title": "Clientes reclamam que Enel está protestando em cartório contas de luz com poucos dias de atraso - UOL",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-04T03:06:42.764073-03:00",
-      "error": "no_article",
-      "attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZnJUN1JzZUlxOTZ6bXRfOUhtTGJNbFM4dXBpTG9zVkJlX2JRVjdYdWd1U25YS0hGaUJjMk51b2thSTNMbmV3Z2VSRWtBT0tpUnFuNzFQdm10VDJ2LVAtV3EwYkoyU0p2TWZQVllMOW1xdktaQVY4Sk4yTW0ycVIwQ1NyMlZOZGl4bE12c1VUVENwU2xybjRhNE16Y1N5QTU5VUNCN0lOd2Yya3k4dzhBalF0MUY3MGJzdG04X1g4eElGRFNrTTBmU25JbHFFTEVzU0RLdUU0cEFPajQzYWk3OXNjbVhGZTVNNlE?oc=5": {
-      "title": "Lucro da Isa Energia dispara 246% no 3T26 após negócio com Axia; o que explica o resultado? - Estadão",
-      "summary": null,
-      "source": "",
-      "added_at": "2026-11-04T03:06:55.516005-03:00",
-      "error": "no_article",
-      "attempts": 7
-    },
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdTQ0VGlZbTliSzNkUVExczRiM19wa25KOFo1bjBkajFxNkwtTTZWSHR2NUR5b1QtZUFtSmgtdkZtZUtqbzRkNURsTVRQRGdrejhZQmU4VzVsSzBnMmtYUVVpeTl1MGdyc2ZnSkV0ZExVYXV2MGxTMWRwX2lXbjhqdExLVTFQSnk4OHA0VzV1M3ZLQUZVa0pTc0RYNDFTOHlrbmFuUzRoY1owbjYyTG9IYksxRzZ3bDBqcHByLTJCWGZwdC02V1FyLXpTeC1rMFNMNGfSAeABQVVfeXFMT2hHbVBjcWhQUGc1S2lKZUd1LVZfeVRXUXVmZ0dCQWhMWDFnbHI1VXQ3dFc5VzdOU2RvLUVDVEpZaGtOVldXcWE3VTNKTjVOOW9NWmV2d0xUcmZOZmtSekpidkVXdkNwMzAtcVd6cjdhSE5aU1B1U2NTalgxWlZFTW9hdE4wa2dVQ3pzSkc1OHQ1RUJ1X19OcUMzWjZYWEpQTTV6LTFrTzBiTDFyeS1MZFBlMF8zT3hiUkVONmJSNFFXXzhVU2ZDNEtUd0tzdDB6SXdTa3FHTmlYdTA1cDR1b2Y?oc=5": {
-      "title": "ISA Energia fez preparação para lidar com volatilidade do mercado, diz diretora - Valor Econômico",
-      "summary": "ISA Energia fez preparação para lidar com volatilidade do mercado, diz diretora A volatilidade trazida pelas eleições ao cenário macroeconômico fez com que a ISA Energia Brasil antecipasse algumas medidas de maneira a proteger captações que seriam feitas pela transmissora, informou a diretora executiva de finanças, relações com investidores e desenvolvimento de negócios da companhia, Silvia Wada.…",
-      "source": "",
-      "added_at": "2026-11-04T03:08:46.143990-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZGlpUlgwVXdld3FCY0ZIR1RKS2NNWHotY2Q2TDR4ZWNzRmJ5YVJJbWdYcVZlS3oyX3dLQmVhWE1sYkRiRUFWNTNqdTJUVzBJd0hrQ1BqblhUeGR6WU1HNmtrcDNrbHowc3JKcVdqTTNOaGlhZ2RmX1d2d1RYdWxub1QybXNvUE1NMGVabmxITFFpYUw4ZXRDYlZNWlZGWkRqakpHQWJXbXVUdzlUX2t1bTlSdnpQTEFldmVycmNjcl9wdW81YVHSAdQBQVVfeXFMT3BseHIxWlNNbUQ5aTJhVUwtRzQtdk5nbWI3SmhfaEpBU056QnRFakprbnRRc3M3NlphcnZEVndYZFFTM3c3Q25vdFlFT3hwa0prcmVXbzZNcmMzUGFEajM2OG9uZEZZcU5MSmRlQ2o5R004ODNBMU0zMTJHTzhjN1BoX25OUXhTajhZcUZtTGczNzJxYjdZdHV2S0xRYmg1OU5rTEZNbnhQdVVOMDRGaVpGZzFiVXJKQ19ldnBzTEMwVDkwLUhTWkZLaHBlcWpMOWxBOV8?oc=5": {
-      "title": "Lucro pró-forma da ISA Energia sobe 14% e fica em R$ 625 milhões - Valor Econômico",
-      "summary": "Lucro pró-forma da ISA Energia sobe 14% e fica em R$ 625 milhões Resultado foi puxado por entregas e reajuste tarifário A ISA Energia Brasil encerrou o terceiro trimestre do ano com um lucro líquido regulatório, no critério pró-forma, de R$ 625 milhões, que representa um crescimento anual de 14%. Segundo a transmissora de energia, o resultado foi puxado principalmente pelo início da operação de…",
-      "source": "",
-      "added_at": "2026-11-04T03:08:46.144130-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQXROZXhVUFRyTUdDOGYtelhfTXNaVjJMWlNxWjFGLXVaSVZLLWtoSU0tUnJlTVBhRUxCWU5YX3VJVHkyNGNvZnhLelBnMENDY3hjU25tdjNUc05zNHhxNldQa19CQU1nS21wc0NQZmVBVHc3QVZ4SzZrXzFKYmFBWmtuS05aVFhyZS1BU2xQeDNkMmdoLVYxd0x6WHdMalAtWkpvb3JvT1RlSnItamZzVDFNYkpqSV90Y3phTl9pTTM2dHFQQ3duNVhVRW9SaFpiQ3lzcVZtWENEdi1qVHpVeVJR?oc=5": {
-      "title": "Azevedo & Travassos Energia lança plano de R$ 70 milhões para expandir produção na Bacia Potiguar | Empresas - Valor Econômico",
-      "summary": "Azevedo & Travassos Energia lança plano de R$ 70 milhões para expandir produção na Bacia Potiguar Meta é elevar sua produção dos atuais 50 barris por dia para cerca de 800 barris diários até 2029 A Azevedo & Travassos Energia apresentou um plano de investimentos voltado ao desenvolvimento de reservas na Bacia Potiguar, com a meta de elevar sua produção dos atuais 50 barris por dia para cerca de…",
-      "source": "",
-      "added_at": "2026-11-04T03:08:46.144574-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYTVVX0FVSmNIZmhVM3ZCOVV5NFdFdXYtZk1SZVBONldMQUN4M1pVYjBRaUxodXZxMVFueVptR1QtTUxUZl9IMFJVUkY5QXJqbDY4d3RRVUVXUkhJdUR3OGpRWFVvV2QtV0ZhUmtGd2VwTXdfRnctYktxQnNKMHZicVZuQXJyMjJjU294VWZ3Zi15ejJVbkN3Mkg1eVh2WmxyTnNVY2lVeGswaHByQXFkbzlPY0diei0tTi1CRnFDNkQwRzBEUEtETHVKLUxSckY3T04zOG9pelQ1YjdSZ0Z6QTlTekNicGloVXZGYw?oc=5": {
-      "title": "Painel S.A.: Clientes reclamam que Enel está protestando em cartório contas de luz com poucos dias de atraso - Folha de S.Paulo",
-      "summary": "A Enel São Paulo começou a enviar as contas de luz com poucos dias de atraso para protesto em cartório, conforme reclamações recebidas pela coluna e também registradas no Reclame Aqui. O movimento acontece em meio à alta da inadimplência no país, que tem batido recordes.",
-      "source": "",
-      "added_at": "2026-11-04T03:08:50.691069-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb3p3elR3ZElkNG5zQkNTdXRNTm1TdGR1b1MzVkZZWXlHVE5PYlF4SlYxeGljWDVQOTBvSzRZNUN1SWp5NDhOWURJcEYxQnNrY1lVcEJueElHUXJVV0VLZFJUQ1VsVV91YkNUYUFZVmcwc0h4NEFweFFEWWtSeV95M3RRd0kzN1VlcG9wQUNNWVY1QlV3a3p4T05sSk1scFR1d2wyQTg5TGs2aUc2N1lqQ1k0aHRwXzd6eUtlVTA3YUg1VFE0OFdfeEcxQ3NFZm9tVkRwcDFMN1B2azRvLW1J0gHkAUFVX3lxTE1BeEZZYjVvc2taZHZ3TUUwSm1CZEdVV295U1NFbFBESUtPMmg5Mjg4VGdjeS1KS0lyN3VlZHVYVThGOHdPSnowZkNRUzdiNEpOUWswdWQxbUxvR29YQzhLXzhraFFBQUdkUUt1MTQyZ2NNdzZTLTg3RHhhVE8zU1o2TlkyNlJDWjl2UVdDbkxoVExUMDY2S0tQRkdKbEtZU0dHcnFtZ3BrYkVfbzVrZlFJX2hVNlRPVUoteTNqU1hBS0FJdDBfc1hTNEFWQkJUaWJhcnJtTWtIcUhaRTdhYlJqZEhabw?oc=5": {
-      "title": "Lucro da Isa Energia dispara 246% no 3T26 após negócio com Axia; o que explica o resultado? - Estadão",
-      "summary": "Rui Chammas | CEO da ISA Energia CEO da ISA Energia. Crédito: TV Estadão A Isa Energia Brasil (ISAE4) reportou lucro líquido de R$ 1,905 bilhão no terceiro trimestre de 2026, um aumento de 246% em relação ao mesmo período de 2025, impulsionado pela venda da participação na IE Garanhuns e aquisição da IE Madeira.",
-      "source": "",
-      "added_at": "2026-11-04T03:08:55.239903-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 3
-    },
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oUmVtR2xHSS1PRzd2bWNqYjF1N0I5REItUmc5a29va3dFdGJqbUdhTGpEMXAzdWNUVDV0VVVVNlBYczRTa2NBNWNQMnB0MU1acXFiWHJtT1NEMzdheXc?oc=5": {
-      "title": "Tag We Mean Business - MegaWhat",
-      "summary": "09h42 Eletrificação Energia renovável barata não garante avanço da eletrificação no Brasil, aponta estudo As vantagens da energia renovável barata e abundante no Brasil são limitadas por fatores como restrições na rede elétrica e eletrificação limitada na mobilidade e na indústria, o que limita a conversão destas características em benefícios econômicos mais amplos. Análise da eletrificação em 16…",
-      "source": "",
-      "added_at": "2026-11-04T03:08:59.793133-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DT0pCeTlSMUJnZTRmYUlnY2U3ZFAxZ1ZGZEpiWkd3ZDNlMGxVZEtST05zVExQNW5RXzZ5NEJSUzFuOXdFdmMwZlRJNG8ybHptWktRMWZfWDJFMTNMTFYtMjdORjdSODQ0?oc=5": {
-      "title": "Economia e Política - MegaWhat",
-      "summary": "01/10/20 Economia e Política STF libera venda de refinarias pela Petrobras (com Rodrigo Polito) O Supremo Tribunal Federal (STF) liberou a venda das refinarias da Petrobras, ao entender que não há ilegalidade na criação de subsidiárias pela estatal para privatização sem aval legislativo ou procedimento de licitação. “Estamos muito felizes.",
-      "source": "",
-      "added_at": "2026-11-04T03:09:04.322062-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LNE9VaVo3RTBRSGFtbFJmU3ExcGNwdDVTV3k4T0hvbk5jNnBpcWdIeTZmYmxmbGpZMU1kRUIwdl9nOXE4X2lQTGpaaUJyY1FJOS1ldW9iYm9VRmI2?oc=5": {
-      "title": "Tag Tradener - MegaWhat",
-      "summary": "18/05/20 Mercado energético Tradener vai à Justiça contra mudança de regras em leilões de energia existente de 2017 e 2018 A Tradener foi à Justiça questionar o uso do Mecanismo de Compensação de Sobras e Déficits (MCSD) por distribuidoras de energia para devolver contratos de compra de energia existente por meio de leilões realizados entre 2017 e 2018. O problema não é o uso do mecanismo, mas…",
-      "source": "",
-      "added_at": "2026-11-04T03:09:04.322241-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
-    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LOHVnckp0N19EdFJJaGZSTWhDNlNTWUp3a0c3N3Vyc1ViMHB3UFptVkltX1A1TzAxcU9saFZqWU1IUzZOek5kZ3loQllKSHNnRjd3dExZc05GRmdpR2ttMGVCY2FGVjl0WlFfSV9wM3JvTTQ4MkVHMVJYdw?oc=5": {
-      "title": "Maria Clara Machado, Autor em MegaWhat - MegaWhat",
-      "summary": "22/02/18 Biomassa Energia Eólica deve gerar 200 mil empregos O Brasil desponta como um dos países com maior matriz enérgica limpa do planeta. Enquanto no mundo apenas 33% da matriz é renovável, aqui o índice passa de 80%.",
-      "source": "",
-      "added_at": "2026-11-04T03:09:04.322310-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
-    },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3oweVNmU2RMaWZ6aW5XZjc4WFhJTldNS3BuZ3NXTXY4Yk0xYkZRd2prVkE3RkprUnlqR0wxUUVZakdCUmxnc1dGSmxWajhuRlFfTHh4QWxCTXlZN1NrSFNiVDlhNzk4SUFYUnVZeEpwTmh1TFNURU1ZUjZfRUZmZGlybk5nQV9kLTdqVUx0ZXF0VGYxWWxsUUtSRWdyeU9rc1Q3R3B2T3RacXBvX09CZmFkUGNmYlRlbS1BWHBMaFIzM0VoQ0x6SmNR?oc=5": {
       "title": "Aeris, fabricante de pás para geradores de energia eólica, pede recuperação extrajudicial - Estadão",
       "summary": null,
@@ -4183,7 +4095,7 @@
       "source": "",
       "added_at": "2026-11-15T22:58:00.812648-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdEJ5VmlJT2RISUx2WVRkNUhNcS1FaVgzMHZvYzRhc3hpTkF4OFQ2bzlBZWxIdFhrbjRIZW5aRmk0eUtMaC1uS3k0aTlibFhRVFZsd0NnWVIyT1JJTU95YzVrUUIzWGMwTC1rT0pjNWc1VWtOSjNCTEVlVTBJV0hrV0x6WjNUelhRUUFZZDNxVU5xR1Jna01HZzZNSHd6ekFuU0djS2huU2FNQnd0aFNVbXZqU0swVkQ2VmtKR1dYdG5VSTlGYXR1eTM4cFZCTUdaTXJlQ2ZpTE1iREZ1aTcwV0pvZmJtLV92ejFpUW1tQQ?oc=5": {
       "title": "Subsídios criam o modelo Robin Hood às avessas e deixam País com sobra de energia e risco de apagão - Estadão",
@@ -4191,7 +4103,7 @@
       "source": "",
       "added_at": "2026-11-15T22:58:11.856977-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnJ2bDZFeFRoTklwVkxKemJWdWs2T0JmUm02ZHFpOTVNN3VKUjV1Z2JuZkx6YUoxNmxPRklBNlNOaXVnOVZ1SGVud2U2UnNfVzFKRjZZMG96enBsUGRQX1NLUTBaS3p2N2FmZ3p5ekNPZjI4aktBcGdIQ2x1RG03QjBaZ1hxXzIwSEluTmNuczJ0MnNHWG1BbVN0cmlhSkRyUnBJOVFkaHROZk1ISm0yUk1rdF8taXByVXNFMGF1V1pqUkRQRGc?oc=5": {
       "title": "Obra de Georgia O'Keeffe achada em armário pode chegar a R$ 28 mi em leilão - Folha de S.Paulo",
@@ -4551,7 +4463,7 @@
       "source": "",
       "added_at": "2026-11-17T16:09:21.317387-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmtPSkpJUzFIbi1LVm1naVNZS3U2Z0s5YU9GN3g1SDd5YUwzNzREYndzQm5fWUxTZFBnd05kaXhwNUlsdjZRWDE3YmtwM3F1czRZcGt6Vlo0Q3RkUjRxRjlZYVh6YlVhVjA3T1d0NV92SmIzTk1aUzVJbTMxQzRqdTBTcHZXOFNxUTA5SDVINnVSeGYwcGIzUV9jSTBET0hkZ2lMR0xrUllJQjhZZm95TTFwQ0FEbjRybFA5LTZObnhaMGo5dGs2aDF4S3ZUeWNa?oc=5": {
       "title": "Carro elétrico em viagem internacional: o que saber antes de alugar - Estadão",
@@ -4559,7 +4471,7 @@
       "source": "",
       "added_at": "2026-11-17T16:09:39.967873-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcG9KTS1NM3VJR0d6bXlCMkxxVVI0X0wtNHE1enlQbVJWMnpLUU1QUTY2cjdMWnJYMFZ4d2ZDcjZsUVJqVEJwUGNCdEN3cDVQOVZ2Rmoyc2V3bWdHOFpEQTE4YjJOaDJhY1ZHQ1RtbDRYdmVOZFpKNXRWYzVXbGMwSHo4VFRkZTV5WDZLTmxWOVdGX2RaaE82SGZGbWZkUE5HWS1NRTNNVVZwWmxmOVJaWHlBcmdkdDJ5WFphTDJqb1pQWkQ2YkE?oc=5": {
       "title": "COP-31: Manifestantes cobram transição energética em ato controlado na Turquia - Estadão",
@@ -4567,7 +4479,7 @@
       "source": "",
       "added_at": "2026-11-17T16:09:48.102292-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDI1MERzNGxIb0RwUWRuRXhUbkRvcHEtNGdiX2lqSHU2LWhGS1F5WDBqRC1VemhJaW0tNzhPRF9QRG5kSEQyM25TQ093M2RXZVJIZWlZQWR1dmJhV1BwWkVhY05yTEZWN09RRnMwcmJSVWZCU1JlODBNR25jYWdkcXJTeXhKSjNfc3hPSjRCYWlqa2o5djVWVkpZY1NoaGRhUkhHcHk5SU5IREVYRmI1UTlvVktoSUtrMXNZ?oc=5": {
       "title": "Vídeo: avião atinge torre de transmissão de energia e cai em área de mata em SC - Estadão",
@@ -4575,7 +4487,7 @@
       "source": "",
       "added_at": "2026-11-17T16:09:54.918378-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1htdUU1NEx6b0RGMHFkZ2dNZXh3RFpDNjlQdkREZjR5dG1pODc2QW40VWh3cGVKLVpLclhxendFSi0ycmdxRlR0X1RJRFRhQnQ0bldPWGN2ZktaTWY1UFE5a3RGbUhWMW9Ya3hrWHlVY3VsYThWQWJ1SDJXazN2Y045WDU5b0NWS1hRM2k4TmdZT0pIdmZj?oc=5": {
       "title": "Procedimento de Leilão do Setor Elétrico - CanalEnergia",
@@ -4583,7 +4495,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:19.177995-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWFDTTNEcWlmSjRsTGhnVlpyZUVFc3RleDVYSDkzbzJiOHpyc0t3Mk9TN1I2XzdVRkEyb0ppV3VBUGFqRXJ2VnBHOE1XUmtEZkpuRzFIMFZCTVM3dXlLUENRVTVNdENvWVhZZ2h2WUliN2dPQkdnWUtzd1lOS2VubDRLWVhHYmt6dDlKeGp1eW5YcWt2S0U4MndsZGJoUWtqR2NuRFpyU3k0YnZmLWhqZmZHbkhGeUlJX2lFNXAxWQ?oc=5": {
       "title": "Taesa realiza pagamento de amortização e juros da 2ª série de debêntures - CanalEnergia",
@@ -4591,7 +4503,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:37.453438-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUzMyOUtWMlN6ZjFudl85Tllvb0FFVVMxQUJtV3dNaDdVYndKd0FONU9xeDhyRUZJWHR0Z0tnU2pxLUVNOHhfQjhBdGhrVHVvUEt5SmhSY19hSXVSNWJWd2lyQnBUWm5jcFJ3US1nUTZJWXdwSERid0lqU2JyOHREQllJOEZkUWN2WnpTcDVGUjdSYktIN2NYSVcxOENhV21VTW9KbFNR?oc=5": {
       "title": "BISE ONS 040-26 071126-21h52 – Ocorrência no Amazonas - CanalEnergia",
@@ -4599,7 +4511,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:42.581113-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnlFQ2dpdXVWdkhaWWVYdlFIUlFEZDhiYlZZRUhKWFdKd3FUd0tWNlBKeU5ScTExUVpERTZnR0RtdkE1QW5TbWNGdzlfelc3bE12TjVkWGJkSmNiNUtvV0MtS3JLYjZtclNDcVlfQzVTU2tOTFktWG96bmRIZHJaaGMwMjh2THFTNld6bm1QWExNQXRkajFuRFpsd0tBRDlVSU1KUjZzbTJYYXdKTGJqSno3QlliRGlpMmZ4T1Q0N0ZwMkVMNnpjTWx3?oc=5": {
       "title": "Minuta Contrato de Prestação de Serviço Ancilar de Suporte de Reativos (CPSA-SR) - CanalEnergia",
@@ -4607,7 +4519,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:45.888682-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdjRQOUhfVnk3NmZJT1RyR2lxTFctTlZzVS00cFZpbklJZnNQS09TLUthUHNZRUFNVGppY0ZYWDZENTJ4bTdHNFdNRHg4S19wVzk2TEl1VVNRZi1wUEVwclZjYXJpMU9uTURxTTlpdkJrQWN3V2hZUzRoc1pkZGZyakVCdUd3OVNjcjZnWFJ0NXdxMGQ1WXhuNEVSOUxxRUI2Q1dQYUxKdm9PZlE4ci1rVXpISGxXNzdSS3lsWTNXRXJUOC1NLVpHdWpicEgxdHdRSUVOd0xhem56ZFZBcWlJMTNUR2Q1bHBmd2J0MkY2NVhRcVRvNUlCTEVUQQ?oc=5": {
       "title": "Minuta RO-CT.BR.02 - Rotina Operacional do Sandbox Regulatório de Suporte de Potência Reativa para Controle de Tensão - CanalEnergia",
@@ -4615,7 +4527,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:48.718967-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa1h5Y2NORDZ2RzRmSWM0SHk0RVhuYUhfQ25iZnA5eDJMSDFsZXlrV1YwWndrQk1NLUJ6X0ViWk50TFJVUTJIaU5aUU42TC1zRzJ5ajlpQnFIdFpkbk9Nd29hdHc5VlhHMm01RG5zMm8ySW5tRmVaVWRXUWFnZHU2VHRDUDdoUl9zWGNmZnR4RXRuaGVKYTBSVVZISXBVT2M4UjBPN19JZGM2aXlrNk5uYjRTY1F6TkxIOWxkcWNQZ0ltLWdYMFRkeFR6UW9IcnJuOUpoRVl5WFBkUEhvZkJuQVhyQmVES1lBMEFoXy1FSkJMMTcwc3gzeWRSTnR3T00?oc=5": {
       "title": "Minuta de Edital de Mecanismo Competitivo de Suporte de Potência Reativa para Controle de Tensão nº SA-SR/002/2026-ONS - CanalEnergia",
@@ -4623,7 +4535,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:51.773436-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUnRhVVk4dDU3cmRvcEZpbm84TDdzMUN1MHVrX1ZSTmVrdEtJUTV6LTdEOTYtbUFJTWNnU2RQbWpZemlxWDcyeXE2em5CSUNLV2F4OTFkUE9iZE5Jakp1UmNQeGc4RW1NQVZpdkVPdEtEcVg5QnZWeExTNjdDeDRwZDAtdUo4ZkRSaGcxQThZTWdRbWFVejl0ZVhtdVQwWUFyY002MUtXQXZhaU9VdzQ3cUJMeDVoMkhuSVdnN2haLUJZRE14Z2dvd211TDVURmx4YTFVWUFGT2JHdU0?oc=5": {
       "title": "Perguntas Frequentes- Sistemas de Armazenamento de Energia e Leilão de Reserva de Capacidade - CanalEnergia",
@@ -4631,7 +4543,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:54.165220-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT2VwQVNPNENUbzI4TUx2WnV1eVNkVlVJRlhBN1JvaG1yM1ZxUlFFZEUxVTdoNWNLRnpUdGMwUS1WeUxsUHY4MFB2dnJyQ0pWWWliVVdUS0JUdmU2UkhGTklZR3RWSWUyd0YwQVh3NHYybUl6ZEpGSzh4ZTNpNndSS0d4OUowbHNnZUdNMGdIVWtYNnhEV0VHTk4xSlFpeVItNmZkQlFlWkQtdlVEeVYxeHoza1NVZHhGN3QwZXVPcVpnZUd3cG9TVmxheWNUaW03VnAwX212SFhvNy1kaW5kR2I5bm40ZnlaUFc0?oc=5": {
       "title": "RT - ONS DPL 0503/2026 - Região de Efetividade - Sandbox Regulatório para Controle de Tensão - Áreas MG, SP e PR - CanalEnergia",
@@ -4639,7 +4551,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:56.719630-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeC1Xc0FBMGVULWZmUDMxUkJVaWZMd1A5ampZUTlPWXktMjNCLUNXckk3RnhGNktGRDFoS3VoVGFVdEVrSWJrUktnYl9XX2llX29zTnByTFlWQUhLakNBdkx6TDVlX2h2Z1JBdG9CNGdTSjNzOHV1dEg1OE5sYV9fNlZnMERyVDBNYzlOckRjR1hSMWVuZUZXMVdHdGpGWFM2bGJ6b1UxY3FlSjEwUzY2VHhORWV2ZEZTN29wWEdRN0gtOE5uRUU0djYwRWR6c1NPOE5oUkpfcFQ2bUZZMVQyUzFRNEQ2N2dUaWlrWDVQWmFUOEg0ZFJV?oc=5": {
       "title": "Relatório de asseguração razoável sobre os dados de entrada para formação CMO em base semi-horária - Setembro/2026 - CanalEnergia",
@@ -4647,7 +4559,7 @@
       "source": "",
       "added_at": "2026-11-17T16:11:59.583807-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcVlWT0RJMnRIX3o5M1ZXbUpHNlk4VXVpak5JSllubmdlNUt6VHZITzcwRDdjWWVmazljY2dpVm45ZnV4VzRhcFRzcWwwdUw0b2ZNeWF0ckk2cVB4bkFNY2VLa0FnWnR2M2tKZ0FWZXdTU1VXUHN0T1R1d2hLaVJaYXpLTnpJbXF5MVZxdkhncHFVdkZsUDJISkk5eER6Yi03YnhsSTlza3ZFbGhiV0Q2Ty1oRG9LYXJsMnN5bjd5QU9uN3UyQ1lia2NZVzRIYkZ6dnZwSTYwNEZOaVY3c3g3bFczeEc4bURrS1Y0OXpYTk9kU1dJNmdvcGxCb0VuWjV0TFBPdlNvWTI3UzE2Yy0yMFdRenRmemFScUpLTA?oc=5": {
       "title": "Relatório de Asseguração dos Dados Apurados pelo CNOS com Impacto no Planejamento Eletroenergético e na Contabilização da CCEE - Setembro/2026 - CanalEnergia",
@@ -4655,7 +4567,7 @@
       "source": "",
       "added_at": "2026-11-17T16:12:02.767337-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV00xRTJxaHRNaXBrYjJIaHNxM3cxYTdhRkR3T2k1WXhyWHlrOGVVTmpsa1hnbVRTRXRJTl9QMTh2a2MzSWtPUGtGNVAwc0xWRk02MGRIM1ZwTm5pUFludlotbEpTMERkdnVTa0xHYVlUZWRZV2lfaXFLTEpPeENvdjJISEdHUGFQaWNabzFFRTd6TERWS2VPY19QZlJvQndqVDhuNjNMQ1o4SXdiRE5BOG5OdVhGX3FBdUFoei1ScE9yYVFRLXBzZHZiWEJsS2FueEY2T1c3S04xaEVlNjFXUk5yQ3V1cFNlMTB3SzYzVlZmenA1?oc=5": {
       "title": "Relatório de Asseguração dos Dados de Entrada do Programa Mensal da Operação - PMO E suas Revisões - Setembro/2026 - CanalEnergia",
@@ -4663,7 +4575,7 @@
       "source": "",
       "added_at": "2026-11-17T16:12:05.232273-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVlvQlc3ZFdvNXg0amd6T2VUYzdYWWc4cnNwT1h1T2hBOHJ2VDZNbm9WdE5ZeUdnM2FObkNBYUlxU0lMR3hmRTAwVC12aTJNSWFWYnIwVk1helFtSmhMUHFpRVBIbHlUVEhqNXlrQWRONk1ScF93ckR3ZTRrNGJzYXEzNDJvaVlsRG4tZy1FSWIzMmxUTENXYjdoZXVCdkhFOEhKMEhid1JsSll2V0VBcVo5NUZpSDFYN0VTalh4Zkx2ZFU?oc=5": {
       "title": "ANP retomará debate sobre revisão tarifária das distribuidoras de gás – Edição do dia - MegaWhat",
@@ -4671,7 +4583,7 @@
       "source": "",
       "added_at": "2026-11-17T16:13:34.533297-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMnN5WmxoUVVBZGxJTXg2YkliSWdUYzhUaXZjSUZFcnpweVJNVlktZERwa0t6TThtY192NGdrWDJzQmxfdUkxTGZ2WU9Ga3hrMFFvZFgxZ2VlUkZOTF9fbnpCNnZaZ3lJN0hSVF9nSlZIUDFFQzBnRS1wMmtDVUxZTGYyWVAxUFJ3c3RBemZuRlhIMW42OFFDTFJQTUU4UTlmS1dNQXg5QVlQcTRDVXZ3SFNDbGRFa2ExRnpjZnZfcTEwU3lxVktlbjkxai1fRWdwX1pTR2p0WWNIVjljMW8zMkwtN3RiUWpJWlgwU21uNXlmSlXSAYICQVVfeXFMTkdWa05DM1M2U2hjU09Od1h2OHpaYWdiNWdIci1XSjY5MERsVG9TNk1PaXRRRk5aVWtOcWpZQl92QVlSeDMydC1IbzRsUWVXSTFPNE9rYnNpY1lhUTRBMkJKS1FPTDJNQmFNelkwekJocnBoNDhUb1VMZVZ0N2JkSFJrMkVGTDJoWXJRYk00Z1gwSDBlbW9MTXBJZkRHWFB0ZzFpc2dUQzM1RmJ2Xy1NSi0zaVdvR3VEUXpTc2pMSndHR080RmE5dzRnRXNmYnZxYkp6c1F5VXJmUHpEVEE1X0M3OTBZcGNLQnVhYW5mdVFHSzBiTHpaZTlBZ1VsTkJmV3BR?oc=5": {
       "title": "Consumidores não precisarão fazer novos aportes para fundo de desativação de usinas nucleares, prevê Aneel - Valor Econômico",
@@ -4679,7 +4591,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.407690-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnlBY2F3UDB1NU5KenpkZDRKT05STTQ4akdOaS1pb1NLSWozaWFoZkFWRjhWV0N0bjNjTXhDLTZYbkREbnFGbk9xOG1TUXVla3VYclItQTlaeDJzTEFGNVdRSzl4WmdGWVgwSDdpSkZ2ZmNiZjBtMDNpaWhtbHZncVFnaVNKY1pFSnI0dG5Ud3d1aVpFbVBnb0JRRE9zOGliQmZVQ09WZ25LWjZKbGp3Q0lIOHlORUpXTGfSAcgBQVVfeXFMTkZYdWlTSTZiQi1qamp3UzVlWkl4ZmplZmJmZTViRnNuNHJfcFhTTEJhWnN3b2hKa1ZFc2RpM1BZQ2kyWERHVTQ1dTBWY3lUdnUyOUxzUTk5b3VIeVV2UkdQeEduOXFyODJwZzFHMTNnRDAtUWtvRGM5ZktiMWVwTUVUR1EwMUM1ZUpSU0t5d0V1bXJlZjlPOVRtQmtaUWRJLUVFT2VBR1BOYXRkeHVsN0VuMURvMmhOajhOejJIazQ0a1FINlRYU0M?oc=5": {
       "title": "EBITDA recorrente da Aegea cresce 32,5% até setembro - Valor Econômico",
@@ -4687,7 +4599,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.407818-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUzBpYXZFOHhkRm9ieVdPZ2hYOEtFMUp6b3FkZzZpZlp6QnNTdzJPdFM0NVFmc0JMWExNRTlwTi1XZGMtMlRrWVJSNm5Sb2R6aUNLRy1lRWhXMVdqUzQ0N1dqMmNfMFZqZUlqTmNKLW54RkRwSHMyTGp4VllyMlVWbzduSTNZVzI1SF9zMy13T0lpSGYzQjZ4YXp1cEVJcTU0STJvbW5ISHZUYzdLTUFOa3p3VzFvM1VEbEozN0lseHpxZ0p1N1Y4c0ZhdWVlMF81ZUdXbUR6SEF0QnB3dlHSAewBQVVfeXFMT2JLM0g0NWw3NjlWR0FSa3dHWGZaYXRCOXp3czV6ZjEwS2Vwb1FqVXQwdFlrTV9PZ0NmQUhqc2R1d3BDb253c3pDWGdtUHBIaVhvR1BTR2ZFWVRIY0RjMjA5bWZxTmxzb1JvUWhnV1l3R2FpYjNfVmlKdmpzRW9oR3NKQkFtMkpydkJFQUZ5cEVkOC1fRjdjUmhmbTk1WEI4b0c3bDhkd2ZqRl9DMUxMTjRNaWwtTGNlQ0g3by1UV2w0UTFfQlNrdzNtRTg1X0ZoM3Z1YUp3c0J4ZXdmbGtwdUc4WVFyT3prTlhHNGQ?oc=5": {
       "title": "Aneel diverge e adia decisão sobre compartilhamento de postes às vésperas de votação no Senado - Valor Econômico",
@@ -4695,7 +4607,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.407969-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFNtUExUd1d4azFUNzloTkdLNzFHdEgzS0gzMTUwT1QxVWVZdHpPVTV1LTBQcEdqanVkTW8zY3hvWEpjcUpRVWdleGt0RDM1UUZBXzIxYVRVbDA1MGZjcXQxa0ZlWkxzanN1OU05TndUSWlWSzdjMDVsMUlQT2x0TEpJX1ZsMVF6M1hCMm8xU2l4Ym9zZVlDbG1qMnJubUcwbDl4WjRKbmVGNU52ckVEOFdmX2NkNXBKNjQxUDFRSTVKVEx3ZlcwdWdFb2hvci1VLW9DdDlpQ2gyd9IB6AFBVV95cUxPT1dmX3ZpWGJ3Y0xiNHo3VGJsNkFsdWI4eW5zU0c5MlRVRElZaWF0SFFCZ245TmdFRzdkYW1ld25yRFZqUzExdlkyZ1UzQmRudEtNMTNhRUV5cUhjdDJuTnYzdlF0TUZucHJVa1FVVzRlcV9DTXVxNU9SbGNiTjE0YlBUSGRHaXRmXzJROXZSYi0xdHowelJmVGxhcVhzbncwbFFTaUFBX0xvQUFteGVhY01hcm1JeGk0X1llWWpETmtJTHNzOVVEOWdwSFdvdVpkYTZwcjloZkxYcUJZT3d1VWVNZkpNeF9j?oc=5": {
       "title": "Aneel dá até junho para distribuidoras se adaptarem a novo encargo ligado ao teto da CDE - Valor Econômico",
@@ -4703,7 +4615,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.408060-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTFNdFNBQUU2ZW5HYVRtQkFKeDRxYzAta0FvaG9XZlN2bkF3WUM4Y19JWnYtNDlhYVdfU2FMSEw4WlZnSXNBV1Fzend1amJrLTgtUmNaQkttMzdLdGVfM3lGTjNURzh3MXRsTHJ1akNiQWRFdWwtMndfYjFsUVVMcm1PRWh0cVRHQWJOa08wM3dBdnVWdGxkY3FMOG5ZMU9fT3R6SGdndWk0U1h5aHd6X2YteERZZ05rWG45TkxWX2VVVGxuM0HSAdQBQVVfeXFMTzhJcnduTlV2eEFEckl5d3RXcVkxVThIMjRLampuNWc0ZUhobXVXc0QzV3VieC1oYndCcWZwVnB6YkgyaXdOLUlvUElCUEhaaHREQ2szZE5CU2ZScFRVejc3S0hVN01pZklDLTUybVJRU3hPUThERjZQbEUwLUozMzl6ZjZVeXBWeF9BQ1NHTDNRdXNLUWhiRVpBTFFJcWdZRGZVdnNRZW9vVmZLM2lKbExfTmpaeGNIY1FJYkpybUJ4MGVTRWtOeFFFZm53cmNSdFptcjk?oc=5": {
       "title": "Crédito com garantia de imóvel pode financiar energia solar - Valor Econômico",
@@ -4711,7 +4623,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.408145-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMjBCQW9Bd0djS2ZuMnA5QllGbVNpTzlUTld4UjRDMWN0Z2VEUXNJb2ZKRWI2ZlctNmg4LUVZb0MyQXljZ3p0aWNFRzdTTGxyeXZLbkNfWUZkQ0sxeFhtZFJwNXJseHpuRVA4NTA2bXJXM2hmeDUtRzBVSFE4amJWMTdaMXVFWF9Eb2hRTWtLaGxCbXlpT095UExQcHJlVVJ2Y08xcXlZM2loWExJQjZGby04dzE0VURpVzY3Y09KaEZFUTI1UklMMnJEdy1rd0XSAd4BQVVfeXFMTzc1bjBOcEx5WDVsUFlEUEVzMGY5N3JpMU53Y3JrOEI5WHFNSHJ2aE0tY2VBX2NQVExFNEZ1UUE1a1huTmlJZTJCSXRSaERjNzhtNGFZWEZKaTlTLXhkb0FEZHpFSmZuNmR5SHF3ejI3eUlXcWh0a1V3OXdlTGxsMVd4SlVfVVBTelJFdWdNZ004OWVBeEtZdGJLbVpSSHdjTS1zM0xQQ0thMlNkQVdkejR4U0wzVEhyenZLaERDVl9BSTBwYlFSdWRyd244S2ZCbFZGbWstZ2JoUmhyaXpR?oc=5": {
       "title": "Produção 100% local de veículo elétrico geraria US$ 14,2 bi por ano para o país - Valor Econômico",
@@ -4719,7 +4631,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.413699-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHBaZDFxdU1XM0gzU1dMUnUzcG1VbXY4RS1sYjRZZ1ZYbThVdlNHUW80cXFQS1V2ckx3a21MMmlUeHZLQUVhRDctX0hoRkR2QVQyMEJneVJPVnF6ZWRQTVd2cUo1WmlYbS16LUs3cktBNGtSY2kyb1NaamJDWWw4c2J3UC1qTHVlMHkyVzJRMEdpb2VMRmV4bEhhb080eW8xQl9BTW1mUdIBpwFBVV95cUxPOHBaZDFxdU1XM0gzU1dMUnUzcG1VbXY4RS1sYjRZZ1ZYbThVdlNHUW80cXFQS1V2ckx3a21MMmlUeHZLQUVhRDctX0hoRkR2QVQyMEJneVJPVnF6ZWRQTVd2cUo1WmlYbS16LUs3cktBNGtSY2kyb1NaamJDWWw4c2J3UC1qTHVlMHkyVzJRMEdpb2VMRmV4bEhhb080eW8xQl9BTW1mUQ?oc=5": {
       "title": "O potencial das usinas hidrelétricas reversíveis - Valor Econômico",
@@ -4727,7 +4639,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.413860-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWdocjBxeVNNc2FTT1d1aElfU0RET1E0c2w5MGRERlNpOHhOUzhWWTRfU2d5WXZPNWdkR2FwVDB6NXYyeVRiNmpwYmlyV1MwLW1sMDZsNjNMbEtCcmE3anNwLWlUOC02WnFmejI4RUNvdjIwcjdWd044M0xVYzRLYS1BZlItTGV1TVlfdmZMMHM3anJrWkFyZmVFVlY3ZWh0?oc=5": {
       "title": "O que os últimos leilões revelam sobre o preço da energia (e sobre o setor) - Brazil Journal",
@@ -4735,7 +4647,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.414133-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWlFjV08yVFhiaTNDSUdZNFBqdHQzNHRpZ21IRUdXbUJVWTN4Y0xwSDRzVXRaV3B6NFQ1YkpGV1JBeHV2bnFnZ1E1VnZqYjhZNDVSbWlidjg5eTFkcUhfUmc3OURjQVQ2cnJmX0UwdTdCX3ZmU18zanpCeDFXSnpzLVJtblE0a05XX3k2dVNMN2wtbjhTcmVOVnVQdENUalY2SW9SaWthODZGUVJ2c1cyWFhhVlVlaGFpVW4yTHYtQ1Y0UlBoTkt5czZmSkc?oc=5": {
       "title": "Brookfield critica revisão de tarifas de gasodutos e vê risco a investimento no Brasil - c-level.folha.uol.com.br",
@@ -4743,7 +4655,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.414242-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNVVfUlU0NmRtRlFUcGhGRVFEbHhwZ01UTVhPY1E2NHhwVVlJeEFPOUNKTGRnTmU5MkNMeWsySWc4UEhqOFVtSW1vV3RXU2ZVREN1RUlRQzFRQW13MWZDU0tDakY2MndsemVCWk1qdG9ZbVhfa1ZGSWdRTkM2X1pZX0NERGVsZ0F1NG1CY0JzbmFXaWNzM2ZWM1RrQTJXWUktNk5DNXltZTVDVEVNZVhNYWVCdy1RbUJsWG1xcFJTdW9vUHM3RGc4R0g5Zw?oc=5": {
       "title": "Paraty (RJ) começa a trocar charretes puxadas por cavalos por modelos elétricos - Folha de S.Paulo",
@@ -4751,7 +4663,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.419108-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQkM0S1N3MGVDR0VzN25MU0FUS2RlN2RseDlkNC1vR2JqMnVyOHRmRkNmUW0yQ2dnNHg4UklaVUE2eXhwY21yLVdNNGk3b2ctTW40UGhXYjZQV2swNk15NmFHSjBTd0RGcnVnUVVIRXd0bjYwMjVCYnpxbEpaNmxQVS1HSk9JQTdwb3BLWThCN0VnSlBrRi1jRXlNYktIUE9OWGtnOENKSEpod3pnS1BBM0ZwWXl3SUF3LWVHVjFRWGs5d0FfTFlGdmxteEJHRlp0Q284Sg?oc=5": {
       "title": "Sotheby's confirma leilão de Van Gogh por R$ 1 bi após acordo com herdeiros - Folha de S.Paulo",
@@ -4759,7 +4671,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.419173-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa2FxMHh3dGNtOVU2N0ZZR3FCRGw3bXNKelFXZzlQQ1o1S2l5S3hsZzV2MFpXa1lnNG1OMnFIYnZndWRfTERBTVVHLTFIT0hKVzJydTMtSkl6amo0V0pjQTh5bXR5N1p5VTdMMVFYT1BRc2ZvVnNxenFQYmE4OGM1RURVX1hFUUM2T3VtMGVMWHhtNGJ1Szgw0gGcAUFVX3lxTE1CNnJUaUFqM09oOUU2em9LM09pQTA4ODd6ZWFCWlhSUVRlQ3hfOHFzYUhDZkJYSzkxSjNQeWpRZmJmbkFnS2RELTY5Ni1TV3F5b2xONVp1YmZDY2h1LXBYazN1MlVEcFRQaV9GRXNzRFNkZm9ubkZlcWs0Q0x6MEx2X0Q4bkctWi0tUTlDRmltY3lqSll0YUlRWHlFTw?oc=5": {
       "title": "Associação de empresas do setor eólico entra com ação para suspender leilões de baterias - Estadão",
@@ -4767,7 +4679,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.419511-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjROVW1zUXVzY2ZYM3ZKQlB2QnVzZUJEd2d5WGNmTkJEblU0NU1lVHhiMU9FTHlBNklBQ3NhRjV4V1loOGZmbndHQnBvUGlGVjVfUElZYnQ2eGVMQ0F0YnNQSU1EbnJwYmh1UFRjZTZoUnZheHhaZ1NSUGF5UUNWRFFYNXdzWEF6QnVqRkYwQ2E0WklMLXV3VXZmSnJ2R296WHN4YmJqeks1YURFWWdJadIBtgFBVV95cUxOcll1NHpxck1tM3Fwcm5HQmlfV2VFck1HZEs5Q2hXZ2RZYno0M0dVY1lob1I5d1U1RTYwLWFfaGRqdVdLenVENUpqd0xpMEZyZGs0MDJWeGt5MVFNZmZPN1R4cnU0TGg5UlRQUkZvUnhISEpHU2QxblM2QXJuSzlzbUY5a2wzMDY2NW1WbG9NRVpPSWR1UEE2QzR5LUR0QWVnTUh6a3dpMlBUWVQ2R3RsY1ltUEpCdw?oc=5": {
       "title": "Agência volta a incluir na pauta votação sobre romper contrato da Enel em SP após série de apagões - Estadão",
@@ -4775,7 +4687,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.424230-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXhoRnNvRG9SZEN2bnpLQU56cklCY3VRWUVkU1YwSTk5ZWhkSGRXZ0FEVU1nUVpQbGZOMGtSSFE5aVJOSGZmMXNBdzlrNDZvaUg2V0ZtOUNjRndXUi00WmIzVlJyVGVFZDBUYktMaXFWSmQ3TEQtRGpBcjEzM2JDY2VOc2FJenNmRnF5WEFxZ0RNaGI0RHhjenRhVnFJRGhNcmhvT3V0NWJNTUNQVk92dXcyVTZTY1VTMTBsbFg2SWRaUURWM0E?oc=5": {
       "title": "Carro elétrico em viagem internacional: saiba por onde começar se você é iniciante no assunto - Estadão",
@@ -4783,7 +4695,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.424413-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2prc0k4Vno5S0NEQ01GT3ZORG1mNlBLSzJMU2NpbXZNZVFwR3N2Y2xwdy1wdi1xWGpjU2s1TXhlR1VlSXFERWRNSUxQUFRpZHl3bUVnbVM3VFNETHdjS0psQkZqS3JHMDloYXlLdDRONzF6R3BXOVpkRWh5RW5iY1hER0dBcGNYQlZOdkEzeWtueGFvOG9hRFpnRXMwYWFHY1Y1Um50SkxfQzVoQTNUekFrQ0UzMlpINnVvdFBCT2w0Z2g4YVJn?oc=5": {
       "title": "CPFL: Expectativa é de melhora do indicador de inadimplência no 4º trimestre, diz CEO - Estadão RI",
@@ -4791,7 +4703,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.424452-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmFoaVJuWmlVMUdvZWNYdWZhUkIwZU5JTHM1MFB6dmZabTdXWTM0cFhmWTVuTXBJT3hPLS1RS1YtQzBfSzN4UWcxWEFhYm5BcUtKWkRKZnZOaTk5LW5SdkNDX0I1ckM0NHBIYkYwUEJhNjQ5bE0taUdfSWZmTmpRTG41WEg4V1A4T1VmZ0VReEMtMDBNZmE0?oc=5": {
       "title": "PPSA marca 11º Leilão Spot de Petróleo da União para o dia 25 - Agência iNFRA",
@@ -4799,7 +4711,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.429331-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVZlSzVHSFM5MGRRdW5hZmdrRjFzSmhrcFVQQlpqSDZoVnduTkZQdmNTdTRob3BFSjNhNFVESWVmMDJiZEQ4Y19ueFZWbHlkZVExcmNqNGdtZWdoMGcySC1CbFRkYjJoN0cwcmFPUFgzMGlWMVBGanZxd21zUTFhTXFMWDgwSEh2RTlhMS1xSW10T2xNUjR6MTg2NWhQV3dPS1JyQXdKaw?oc=5": {
       "title": "ANEEL abre consulta pública para regra que pode limitar GD por assinatura - Agência iNFRA",
@@ -4807,7 +4719,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.429407-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHI3RU9ST01JZ1ktcHU1RFVoZ2tuTVhGdVhQUnpFZTBObDlzbXdoQ1NGR2g2clVSekpINjc2Mzgxa1pVRnMyWkp4VU95c19TbXJZWWZSQndJRm9CSktqT1BGVHlnbmxuY1I0YTV5cTJwMm9jUERIT0dDaERPYUhCeEFuTHd5a0pHeDJqSHBTR1R4VXhPby1NXzFmeGNLQQ?oc=5": {
       "title": "ANEEL pode votar regra de postes um dia antes de análise no Senado - Agência iNFRA",
@@ -4815,7 +4727,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.429457-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXBGcUVXTy1zNS1Yek9SRGFRZ25IeVFfaXBZNF9tQ1BHSnQ4VmlTdjc4ZnZLbEZQdUpvelJhbHIwUkJGOXQzSTh0ZUROZzNEZTJyMUdrNmdTYnFNeEhzRERmYmZYOGhkejB4TThkYjU0WlJ5ZFRSY2dBczdpNHU0ZXF1S2xCS2Z6WUlLZXVNN3BubDdIYzc1bmppc2ViTXlUR0t3dXVDdw?oc=5": {
       "title": "Estudo mapeia usos do mar no RS para orientar expansão da eólica offshore - Agência iNFRA",
@@ -4823,7 +4735,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.429535-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0hvalhsbHRRNVdJeEU4THRWbHRkLU9vNWJxdmhCU2pQQndjYmVzRmEwbHVLQmpSeGlWcmI1eDFxUU0ySVhIbF9CRkUySFFyYVZpWXhPVlVHRE1ubHZLdElPZ0JlN0tjaTZFbkJZVDMxekh0RHk5cEFKeTdFODFKRDRpTDRoVldwQ1gweGRYWDU0V0s2d2p6bmtTNA?oc=5": {
       "title": "‘Venda’ de excesso de energia solar na rede vai a consulta pública - Agência iNFRA",
@@ -4831,7 +4743,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.429578-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gb09la3JPeTZSbGlRT0xtMVc3QTdiVUhPakM3SDFYSzdCeXBqSUplY05pV003d2Y4c2toSHRmaDBBbmVEZ1lZNzV3cXVab2s2TGJESjNxY0k0bF9zN09uTXNWWQ?oc=5": {
       "title": "Arquivos excesso de energia - Agência iNFRA",
@@ -4839,7 +4751,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.434232-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoaFIzMmlhamdqTnBHdG9rd1E0QlVnbWdEN2g3OEVMNnRKeHRLeVBDdktNRlVIdkNMSk8yV01TLVhxLV9PWXdlR3h4WjQ2WHFUMU44dzNBTjJRbGx5bGFLRHJQYzZZVTJfUGN6dlRGYw?oc=5": {
       "title": "Arquivos concessões de água e esgoto - Agência iNFRA",
@@ -4847,7 +4759,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.434264-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGZJX00zWTBaZzV2SG82NVlWNnpudXV1bExGdkczXzhLSkotTDlFbnVESFRBTVFKMVN6ZXJ6Rkg4TmtaeWt3eXJFcFM5bk9wZ0wyOGN0bGxaM2lfR1JtV1k5b3JPU1hkTGJELW8zdExqRVdrQkk4UHU5em1HU2h4dFJIMUdwS0dEVE1ueDhiWlZKTnht?oc=5": {
       "title": "Artigo | O recado dos leilões vazios no saneamento brasileiro - Agência iNFRA",
@@ -4855,7 +4767,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.434441-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXVaYkg1dnMzX0c0MEFBY3lyX0ZoTTlCRWduTXMzWHdGbDZPOENrR0MtLV9JUHA4T2RNMVJhNS0yZ3hpOFJIVFJnM2pnUzQtWkZmcTBuaDJIcTVmRlVwYUlVWjRmRXFjOFoyN1E5VFhydFEyazRMM0h6czJDV3k2UHVDbE9EREFCOFdjWVg5eFlrZ0I2YkdNamdPWGdGMGx6MGRpSmdR?oc=5": {
       "title": "Postes: Willamy Frota pede vista na ANEEL para aguardar decisão do Senado - Agência iNFRA",
@@ -4863,7 +4775,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.434495-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGZqUGg4X01YTHk3eEcySEhad0RacHhWbmVPOWZ2SF9ld3NQcHdFQ2ZvMURxdXRiYVR2b1pyR3pmbTMyVHE2UmpiRWRJRW5EajMtenNRb3Y4aW9SVUU1WUVTR2VKa3lFUC1pQmxkbWJZY2haRFJZbTVQaDVZdHVkX3I0Yk5aTFJwTS1ndnJYS3A0U0k4?oc=5": {
       "title": "Consórcio vence PPP de iluminação pública em Lagoa Santa (MG) - Agência iNFRA",
@@ -4871,15 +4783,15 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.434548-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFZMnpFOEdNNFJ1TmxWM0U3bVhVVUk1LVhyOFVqQjNUZFdPdWVkRVZNZGtaeDZUMFNtci1iNkVuS000d1FwZDhlS1M5YTJuRnprbldHYWpCX0RkTkRBVUNfemFKcTQ3cllsdG9XSzRlWGZzYmhUcnRlTXZQY2s2TEk5R2JjVEVWSmJwdFhtXzY2V0JCU0xtN055NU1zWnUzSlBXQ0RfOA?oc=5": {
-      "title": "ANEEL e ANATEL já deveriam ter resolvido ordenamento de postes, diz Gentil - Agência iNFRA",
+      "title": "ANEEL e ANATEL já deveriam ter resolvido o ordenamento de postes, diz Gentil - Agência iNFRA",
       "summary": "da Agência iNFRA O diretor da ANEEL (Agência Nacional de Energia Elétrica) Gentil Nogueira disse nesta terça-feira (17) que o ordenamento dos postes já deveria ter sido resolvido pela reguladora de energia e pela ANATEL (Agência Nacional de Telecomunicações). As infraestruturas são compartilhadas entre os dois setores, que discutem novas regras desde pelo menos 2018.",
       "source": "",
       "added_at": "2026-11-17T16:14:11.439108-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWVlibGVhM1FXNm9BZlhtNG5vcGlELXRJYnllam1TbGFCaG90OG9Qc1Z6RXN3dU45QXh2b256LUd4UzRVSWNlblJVb0oxQ2NVT2FfM3ZlV1FjZkdFRUl2ZHZHY1VTZHZCVWVYVFBxRlRQTHo5UWUwUUFoc3VJME8yX2lJVTV2aHFheE95UVc1N3prZUpWeGM4U09LenFCdWozeUJZOW54MA?oc=5": {
       "title": "MME defende cobrar encargos de quem ‘dá causa’ à contratação de capacidade - Agência iNFRA",
@@ -4887,7 +4799,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.439210-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aMDhicm1oeHQ0bG9HeHIwSWc5dGhHNnktLVI0d3hsaTBoNF9IMkFVMHZlRnUweF8xd0VJM1NCMjVlbDVoSVplQWtiaHlDZGtsZGhNUVBpem1UZWRqak9udGs3NA?oc=5": {
       "title": "Arquivos Gustavo Ataíde MME - Agência iNFRA",
@@ -4895,7 +4807,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.439238-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYkNnTTRPemN3Y1YwNmdfV2hualFVQmVQdTYzdVIwTXB6RU1PSlRsX0FYbjM3emdpcHp4eXJzeHpza09MRmlKdVJ0ZGdYenJJMU13Zy1GbHBUdmN5UDIzNjZOeEI?oc=5": {
       "title": "Arquivos Subsídios Elétricos - Agência iNFRA",
@@ -4903,7 +4815,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.439261-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3lFVFBsenV0UUNhS1RfUnJTVi1QWUh1YlZkTFBLU1BVcjU5SDBwX1dfZ1hDd1hKM09VRDJELXc1NTJOZi1wUXRQUmx5Xzc2RnJYcXdhQXNUenRaekY2UXdqMXFhNlNaTWYweGxuMmludWpoaFptS2dxdGlOajFzQUJaWWtMQ3RaX1ZRTHpBVEQ0QzZ3VVJKbG9QdFdacXJm?oc=5": {
       "title": "ANEEL aprova regras de faturamento de encargo para excedentes da CDE - Agência iNFRA",
@@ -4911,7 +4823,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.439295-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcU1feGNWRUkwOVZSNWpqSkhMZHBFY25kUUhGOFNIdFRjSmNfLWxEQVEtMUVJZWpCTHg5aV9vMFJVbUpLTGtuQVpKb3p1SWpDMjF2SjZoX1dFSEtsbW5mdEgxNjNHY1E1NGJrUUUxbWt4a1NrTms5MmhwMTNGbWZxTXRhblNiS2NHSkdhWFE5RXV5ZWk4Q1JHb1JR?oc=5": {
       "title": "ANEEL aprova reajuste médio de 20,16% nas tarifas da CEEE-D no RS - Agência iNFRA",
@@ -4919,7 +4831,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.443937-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2lEU3BYWWZ0MHN6eXBFUi1nTG5ndDRUY0JLTDlGZVYxWmVGZkdlbWRweE1CNWdObW4wRzFPMEpzV0hrQmtsUXlZOGEyb2hKOFJXMHdZei1rLVRLcWgzcEpVczc1ai1McTVNRVJndmJvWmRQV25Uc1VPZzhrNE5nSS1xT3MxLXBKT1RZNmZ6RjNueWtNSEdWa1h6TkhybDBqRlE?oc=5": {
       "title": "ANEEL: fundos de Angra 1 e 2 devem repassar superávit aos consumidores - Agência iNFRA",
@@ -4927,7 +4839,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.443989-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRHlGQS1vd0FEaGdtOUoyUnZOWml2Ynl4Qi11QmR4aVF1aUp1eHl5UjJsR2RTVGo3ZnU1MThLTmlDaXplR1ZZOVRjcDdWZXRSRmdMY3VHVE9fVWVDWEFhczhWeFVfeWZ5Nmw0eUdCeTNBV3JFNFNIMnJUYllnYXctSTBXQzkwQ2dNTmt4Mm1fQ01DYloxWjc0anNCV3VjckpMTnVEOWhIa2g?oc=5": {
       "title": "Aneel suspende votação sobre compartilhamento de postes - CanalEnergia",
@@ -4935,7 +4847,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.448921-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2RTUTdodXdqZXh3YWhfVlNZY21CZUtTaGJxcXlMNDVQSnBRaGVEVGlicXhSbjFJSkJQU0ExWVFXMDJGRTNWTERtVktKSEo1ekttVFZXQk9IbkRwcEV4LWt4UGt3NUx5LXBIcWNqekRLZEhXSTNMTlVXX000a3NsVmx2RzN0RzJOQWhnVmh4Z0R0c2g2dDhXZHVsWXVnNjBFUF9NamRXa1AzcVl0VDlobXFPUTlZSTA?oc=5": {
       "title": "Reservatórios do Sudeste/Centro-Oeste operam com 55,2% da capacidade - CanalEnergia",
@@ -4943,7 +4855,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.448938-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjBFSEtqbHFGU2xvRTFJbTB3UVJzdlZrYkxhMm5zWFNQS1ROTzdGdnVyYWhzQ0pYSTdtellhZE5lVUs0ODBpWF83bjJsOTFhek0xUGhrMlNfbTVYUXJ2ckhmS0E5MzhQamJPSl8taHVncEk4VzlrSmQzMjRWR1FIUUVXOHN0bmQ3QWt1MzhLYnhObmlabVJieFpSRzdwV2lEcUd1OEEzTGVSdVV0VjY0SjVWRUFYMnJDbko0dlhRVmtPYzBGdUVNZw?oc=5": {
       "title": "Segurança energética: o gargalo da transição está na rede elétrica, não na geração - CanalEnergia",
@@ -4951,7 +4863,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.448954-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0VtZDd2RlN2Q2lTVi1pMWNSVllVLVJkeGFjclV2Zi0wVGttQzY4Z1JwWGNrR2dvblJ3dlZjVVBpYjRSRk4xVkdaZ2dZZ1lVanRIQ3dxWGxkUDNDXzJVSFF4ZGJjNVBUN0hZSm16S256YzRWM1hhNWdLaE5YLXNTbE5OQkc5U3QtcWtIWG56MFZNVGRraGYzRXFVZWdDellHbkhFb2EyenRDOTNPS3UxNVFaMmV2cWc?oc=5": {
       "title": "Justiça aprova processamento da recuperação extrajudicial da Aeris - CanalEnergia",
@@ -4959,7 +4871,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.448964-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXpRLTlsbTNkbEdjLWFJMW1jTDF5X2xUc3prN29GdklvNXN0eTZEVklqUmJmeHVjRVh6c0poNmZTOHN6bWF6TUZ5QVNCYWFyYWZrcGtoUnpDTkhUM0VPekhFUm1fcURWeEVoUmZmcXZDcklXd0pPUlFTVzRIc0ctY3VKTWVnY3B3d1g0bVVYSVNab1lTeGZNRGptbm1FQWs?oc=5": {
       "title": "MME defende novas regras para precificar energia - CanalEnergia",
@@ -4967,7 +4879,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.453621-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3VUT0xHNEFoeXVCYzhkc3ltNGdrRC1Hd0NhVEJWWi1NeUJ1TjN1X2dnYWQ3RWRQRzEwcUZFS2lhVWZNYlNxN0hRTXRXMko2R09EeG5ReUpfbHMwZ3c4TlB6N2JWaWlGU2NDaWwxclB5UTlINkdPTnlOM1kweVY3YzBqakxWM0J4VTJuUTU5bmNGaUFjRHRkdC10VGRhLW1WQVBCYWJkMzVWZEU?oc=5": {
       "title": "Aneel aprova aumento médio de 20,16% para tarifas da CEEE-D - CanalEnergia",
@@ -4975,7 +4887,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.453648-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXdySGotdUhSVWNTNUQyVFFyaDBCbi1hS3ZqNUlCeVRRVnAtWTJQRklMZXJ2a2lEM1prdTlFa1ZtTl9abU9VMlozT2wtRGxMczFrbnBFUUlBek5NQmE4VURnMlRJNnEyS0hRWndoUlBPMFhqZzZwQjh1dWFPTVBoYlBuaU8wSFl0Wl9GRVJHRm8tbUNqNk1ySG9IWWpaWUR1aHNDZmtpYV9qQzdDNVpuWXVXemZmQlpoSzBuQWo4emcxRkpkSXg2a0hTdw?oc=5": {
       "title": "Coluna Giro Energia: Grupo Alubar entra no mercado europeu com fábrica em Portugal - CanalEnergia",
@@ -4983,7 +4895,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.453659-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNE1EY0pVLTlBbmxSUUxvbldtbEZiT005NVI4UXVhT1FBUmpHeU1VWVhiNzJWR0JjeFRHTDh0VXNhVFNFZ3hFQU9sN2IwZ3BQUnl4NDVRZEx5U1ZHVHdjTU83STVGekpKT3l3bDlpc1hWaHVOeEY3UUNRZmQ4OVBZSi11ZGZHbHhta0RfVjlVQ0UydnB2cExMU0E5T2VkUEUxV0FROHBDZlZaRm1FVmc?oc=5": {
       "title": "Isa Energia implementa proteção virtualizada em subestações - CanalEnergia",
@@ -4991,7 +4903,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.453672-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDdscFhmUjYxbTBJbTF4SGY0QmFnOFZIT1FncVBFS1VpRWtLUlZRRHN4Y0xWNGJzTXhGOGNTMHliaUdONlBjTXFNNUZhZjNvX0NFUU9FbDBJWlUxSk9RcngxaUdySEkyNzAycm45amdHVWx3NkVZWW1nbm9Yb2psS1RkdEdUa2dpV3hrNkJTbWwtNHZLbnhuNV8tTWlrdExXOTdYRjk5NWhYS3RORzltNEtMZmJjUjg?oc=5": {
       "title": "Judicialização do ERCAP torna-se realidade com pedido da ABEEólica - CanalEnergia",
@@ -4999,7 +4911,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.453685-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEo5R0pSLWd6cnlxTWR2U1VVX19VbzhxY1NIanZEbkM4MVF6M3VCdTlVc1pxbEFlbnR4NWdMTEdmNUM1eFV2NzJ2bllzcnpUNFNaT1ZJUzBaYTdNWlVXSS1rTms0M1AxM3pFWVRaRTFsWkNGN2hCNTNUQkhaYlh2SGw2d240ekFQQW5WMmgzRkF2OUV2VGVxT2VGTFUxcFJwc3lFUENhM3p4dzB3Q3JDc2hKSVh3QQ?oc=5": {
       "title": "Itaipu repassa R$ 116 milhões em royalties a Foz do Iguaçu em 2026 - CanalEnergia",
@@ -5007,7 +4919,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.458590-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkRIeHJWY2lMMzdWd1JOZlg5WW83MUJQb3JMb3hULV9aNXoxXzA2dkVLYXBfWVBpbEtXSTl1LVI0c3I2TDNIZUtNRDJvZDBORGVUZzZJa0Q3N29QTUNiR05KRThRenh3cE1OaW80ZjdVUTFTTnM5cjMxUm8xaDAzRmw1YkU2R2NlMWV4WExabS1DY1BKWmhIdzBjbUlTNVhJclp1b1Zpa2FoczQ?oc=5": {
       "title": "Proposta prevê cessão obrigatória da exploração de postes - CanalEnergia",
@@ -5015,7 +4927,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.458618-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0JMMXhDcXpHeFRMVHFnTXlKMkNpSkt2ZzdkUXdQVFJOb1JsUUdEci1WdGNRUjlGcVBsT0xSMDN1cTJVMWFBN25UMWxSbTNWa0VSdHdwdm9wNTU2bzlIX0V0Y2Z0emxRRmxlR2E4djJucDJVbkhqNmJ3UHZwenhnV0JEWnFqT1lsMDZEQ0liQ2tTU2RwSjJwRXhsOWV3MC1qaUlxY0NUSWlabU5obmRzb2VycXNKeFRMdjJNV2pHeEtMdWlZM2Y1Ng?oc=5": {
       "title": "Geração híbrida pode reduzir custo de eletricidade em quase 20% - CanalEnergia",
@@ -5039,7 +4951,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.468324-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnJQWkpZOUxpRFduNHdwT3FEZWZ5N2JLdHFpbllNemppdVNGRndxSEVTcU8wLVVaQXNCS25LYmxaY21ETzdNMVE1bW1tVWduU1pxdkt0NVN2Z0FCMm1seEZNM0hJNGgwRm9GQTlvUHRna3N4QmtoaTFFdFFtVk1DczR0ZE1PRDFPQktqR25RWXZ2a09Hbkk0SFlHVHlyTmlYVDJ3OXFpa2V5M3NZdUpxNWE1WUZmSlAyMmc?oc=5": {
       "title": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras - MegaWhat",
@@ -5047,7 +4959,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.468425-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0w2b2Rua2tQUEVrSXBjaXFQWVFNeEhhY1BUY3FEclQ3eWxLaXpEb0x5QTd3RmFSVTlhZEp2NHlhZWp6VUFsbl9qU0FQNlRMTndXYlhGakU0NkVKS0ltT2d1bGVOV0JUSHljdjY0WVdMSi0zM2tIaDItNEo5VWJKa2ttcjFnV0VsYXhwOEp0czhDb3NLb2NCWFVZemdJOXVjTVpqWVVCNUtGcGt2QVA3bjQtZ3ppVy02U1JUWkoyaDFwY0dtaU9CTjZmd0hucVktZTFCWkJjWjd3eHFYUE52SWhR?oc=5": {
       "title": "BYD condiciona nova fábrica de baterias em Manaus a leilão e vê risco em ação da Abeeólica - MegaWhat",
@@ -5055,7 +4967,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.468497-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEFsQ1o1ZUlaQUlray1fZ1liMlM1Z2QyQ1lnWUJJaXhhUEdEZjAxMHkyVEJrTGcyOEdvNlAzTTRXc0VVT0lsVlJZa1dxWU5yR3l2bktVQlc2RkxsRTI3U0Rqam55YmhmZldQLUhIeWlGNG40c0lIZUNRVTJfM2d4ZnU4a0VmZUNuSnZGQk9KQWVXM0lJaW8waEhTQXNQSy1HNFVhNkptcDcyY1poYndJUGhhSm8wdHQxNy14dDI1a3Q?oc=5": {
       "title": "BYD vê mercado de R$ 200 bilhões para veículos elétricos no Brasil - MegaWhat",
@@ -5063,7 +4975,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.468598-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV01tZ3pYY1MwMmZ5anUwbXM3b2ZwS19iNVE2Vm1GTmZfTHBaVWhudXp0ZkpLRFhFdjJWbHlLVVNoWktDRHdUWUIyV184WG1rcG5BNFFMamhaUGUxOUlOb3ljcFJNaWxqazFqdjB1NDVRSVBzTDd2R3Zjb21ZSUpuYWI0MU9wU1o2bU5YVUVLYmZ2RVNaT1IwQzBhVmtUYjRCbTFJMjUwWVZ6Z2pGTXB2NHFraUVnT09PME5CMG1DdVc2WnEzQ3c?oc=5": {
       "title": "Distribuidoras têm até junho de 2027 para adaptar cobrança de subsídios da CDE - MegaWhat",
@@ -5071,7 +4983,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.468691-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWJnVXFXMDIxcDIya3ByaHpGZW1IdXQwbGpHY3VrVkNDVmxGLWhMenlzNXItNVJGc1NYOTRnYUpnak9TR2hIM29idFY0OW91cTJtSkV6TWxQZDJkRjd5RnZUcG5sSkdQM1NEcjBqYjJuR2JVTF9NSmdXcnpwSmVKV2xqMGw1SmVRQXVwSWw2ZWVleDFiYl9QNUxBajlKX0hDQ1ZyT0czUDljQW1pNU00LVh5eWk?oc=5": {
       "title": "Mudanças no PLD são necessárias para refletir cortes de geração, diz MME - MegaWhat",
@@ -5079,7 +4991,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.473397-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHBwREZKWDN1aDZrdFlGdzF4V19kVE9kM0pFWGdvYV9Vd0NOdURCZUpPWG5TVmpDeGctbm1aSlJ1Z1U3R2hJOGpxck03WjFuaGFGLTBBc1U0RDBOcnEwYjdSaEJOWmtVZGRST1RCWWhCbFYwdVByZnh0YXZQWDBCMExxcEM0dnZOQU1BQjhGRzhqelVOQldKeGJqcExMbnBMVGc0UHFSaXRyZWs4RVIwQUdNcw?oc=5": {
       "title": "Aneel adia novamente decisão sobre postes às vésperas de votação no Senado - MegaWhat",
@@ -5087,7 +4999,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.473549-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHhqcWtQSkNrek5GWGJuWF9oc3JXWkFxYU5VZ3ZBTnBSTEJuN2EyS2thYTl3dDBGVmhPM2JTOXR3cjBVWDA2ci14NWZhMERRMUh4LWRYc0pHVmZpZU9Jc25jVC02Sk5fc3c0VnZkRWdJM19XdG1XVDFNVFFrZko5ZjVldHRRejltcjYxTEhOTkVBQmFJWUw3RkVtWThWNmYxV1J4Qnln?oc=5": {
       "title": "Térmica da Eneva é liberada para operação após reparos - MegaWhat",
@@ -5095,7 +5007,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.473641-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMGJCbTgxOUV0QXZwTjQ2OTN5SFBkeUtBQ2pDeFc4di1qQ1ZjeVZjTDZlQThpbFpMa1EyMkI1dHE0and5bmpVNWk4ZjdEbDZTcFhfb29oaWNuUXNDa2FONFE2c3Rxd1Q2NUQtYjZlbTB5Mm5NU05TaGNBSk1IM1RFb2J1MW12OFdmU2tQY1B2c2RndkgtUmxBd1E2VDlxeGt2NW4xYkNkbXhjM3hNUkprT0ViVHFiTU15TVhGelpJR0pyc08xWk1yY3BPYldFdw?oc=5": {
       "title": "Abertura do mercado de energia amplia desafios para comercializadoras e formação de preços - MegaWhat",
@@ -5103,7 +5015,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.473732-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHdHUldyU1NsYmd2d1JhR2pkX0Fta0RRLWdzLXdOQlE1bUZDQy1Od1RoMFBLU3RUNzRZOFd0YUJJV2o4SFUtNkRJSzV2R3pWaTV0a1ZGWWlwTGxBam1IeGZDTXJSMUw0bXJmOVJKZ2d5TUloSjhKdXV2RmM3VTBTZzFiTXJoTXZMbWFjV2JIRktCbHp2emc4aHNBVnN2T1c4dkp2MlJLVzFkRUlQVXBlcGttYVVuQ1ZreVJhS05KVlVhSV9MS2xqRENQdDhiTHVhc1dMZnZ6VmQ0ZTQ?oc=5": {
       "title": "Comercialização de energia do Paraguai abre novas oportunidades ao Brasil, diz diretor de Itaipu - MegaWhat",
@@ -5111,7 +5023,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.473772-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcXQzTF9SQk4tTjRyVjJuOEdrX0g5N2pqZEtNYXFVdHBOUzVxSXVBQlBMeFM0TjF5UUI4WDRHZHNoYVlwenp4cl9DYklYcTlpNDlUdGpUSVMydmVwMnItTkJpTlB5b2NIdkczZjJWaXM1dHBPc1oxWUZYcU85TGJ5OXEzWWozRDZ6NXdsRUtmNWNmUQ?oc=5": {
       "title": "Conta de luz no Rio Grande do Sul terá alta de 20% - MegaWhat",
@@ -5119,7 +5031,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.478439-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0NTQmhHNlB5dDZfWmw0RkdNZTBibGkzTlhCb2JwdUhhemU4amV3QVN6MXNkLV94MnlnS1NtSEExUEYwY1FBVkVGYnB2YkxGdmZ5QlZ1OVVsSjR6ZE92X0FWVllpODVleVN0eTR2cXF2RURIMGxjdFJBQnNSSi00VFFaN1E1Uzk5RnZJZlFrYVo1b3NRNS01ZTJCWEQzSFVXZlJucEtrcVZSajF4WGctTXZ1eEpaU3puOXB1TTg2VjVveFZQcE1vSXlmUzNBQQ?oc=5": {
       "title": "Aeris obtém aval da Justiça para processamento de recuperação extrajudicial - MegaWhat",
@@ -5127,7 +5039,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.478498-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUdUMXUzTkVFOW53YTEwU01nNkVRbzRYWFZRVGxkeUtGUWZ4ZGJjTkIwZmhqVTNvV09tV215Q3lwb3NYcWNHdG9BdUhFSXFabnViNEpVXzN3dW1KeUlSSjI1Y2dVQm9WMThNY3J4OW81THBGNlZDMmtOczI5M2V3YWphS2tzbWtQaWNHMmJjTlNQeGNsZVJmSDc1eEt6QVE5NFlkMWhnWXBMc191Wk14d05OeG9kTU5pWHdyZjdoYw?oc=5": {
       "title": "Fundo das usinas de Angra deverá devolver excedente aos consumidores - MegaWhat",
@@ -5135,7 +5047,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.478661-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGU2Z0pQMnlvcDVGN2JiLTFpR1h0VUNMbkFuVXRrQ0hZWXpERHBfV3ZDcHBfd3NkQW9pRDRWcDduM0ZTTjNER29WemNwVkJBTXlxNmdBRDlBelBDTkVtTnZGSUhhcURVS3o0d0x2eDMybzVXZmdHcU0tQlBVXzJMcUpvNDBrdXJDX1d3cU5zVzhUV2ZOU2swemE0VmlRSUJYd1MxSHpJcEZKS2Z4MGNsMUcwY21TemxSYnRz?oc=5": {
       "title": "Decisão judicial não suspende revogação da Electra, conclui Procuradoria da Aneel - MegaWhat",
@@ -5143,7 +5055,7 @@
       "source": "",
       "added_at": "2026-11-17T16:14:11.478741-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZ1UzZFlRTVozVEM1ZHVfcmpxeU55a0Y4bU5LT3A0cGRKUVVSUjNyMUlIVDR4NXROTDB1X2N4VUFjR3lrWTZuRWxSYWZJdms2V2FxTzQySkM?oc=5": {
       "title": "Geração - MegaWhat",
@@ -5247,7 +5159,7 @@
       "source": "",
       "added_at": "2026-11-17T22:52:15.047784-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRzYwQnFobjVjc1pWRU9RVDh4VnE0eVZveXo1N0lGVUIxTGtYWFV1bENSaHB5MEdndkVweEsxdTZSLXlEU2ctOVZ5RFpDejNhSDBQNGhVWWRPbVVLZEp6N3VHb0dJR3lXdFBLcVRZTVB0ZlFyTlIzQmkzVkFxaFdBbGFzdjl4dU0xOGM4RA?oc=5": {
       "title": "Carro elétrico, Tarsila do Amaral e genética: professores comentam o que caiu no 2º dia do Enem - Estadão",
@@ -5255,7 +5167,7 @@
       "source": "",
       "added_at": "2026-11-17T22:53:00.320274-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2E4ek1fVXAzY2lHbEpiRFhGZDJHYjZIV1ljS1hBQ2Zpc1FwdW16dVpaOXNYc1ZTdnlFanowcTJNTkp0ODNGZ2U5bmN1VW1HaV83S0dxUGZtZmpzSG9FVks5RjI3WlJ1d1ZIQ09sSXowQVAwcmxJaWVnSGc1cDlMcmNpUGZ2cUtPZGtfaWExel9TX09lWTR0UDV0QmJxTWVrOXVyMXJn?oc=5": {
       "title": "Aneel abre CP para aprimoramentos na GD Compartilhada - CanalEnergia",
@@ -5263,15 +5175,15 @@
       "source": "",
       "added_at": "2026-11-17T22:54:38.197690-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxORDFWcEVFNkFoREZpUjlDUmdBMTRoS0M3QWFvQ0N5SWczMEEzVEY1c0RCVE1WWkVHa0RTaXlQbTZaV3RkcjdpXzNwdGVVakdSQV9IbGV6TXlfN2NiSUtRTW1rOEtMOU9iaUtXTGk1NEwyRExIdVdfUHJOOTRUczNneG9TRU52UjZ6N2hud3R1dC0xUjZBbDNZdFgwZEtGdUt5QzRUMlZybWZmZGs1MWpBdEpKMjdsaVhFaG5lcFVQUQ?oc=5": {
       "title": "Aneel forma maioria pela caducidade da Enel, mas diretor geral pede vista - CanalEnergia",
-      "summary": null,
+      "summary": "Aneel forma maioria pela caducidade da Enel, mas diretor geral pede vista O colegiado votou proposta adicional de sugerir ao MME a criação de um grupo de trabalho para avaliar os impactos de eventual revogação do contrato e avaliar alternativas 17 de novembro de 2026, às 19h49 Tempo de leitura: 4 minutos Fonte: Paulo Pinto/Agência Brasil",
       "source": "",
       "added_at": "2026-11-17T22:55:12.799173-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMzNxOWRESE5ZcDVNd2IxRHA4Ym0tMVFLczFWT2ZjWWUxWUV0R2lXcFU4UF9VNE1EQ2RwRExMc044RlRzRE1sVEowVDktT2RPNXJ6RUljZm5HTS02Wm9oOWRuamtPTkFWZkpuWE5UdEtOZmJjOTNiVHFUOW5IN0piQXZ3RTFBb21mT2UzZFA0NEtoY0thdklHVEgwcXZiMFB3TUR3T2xsbXZPNU1tbFpMLS1B?oc=5": {
       "title": "FAQ Sandbox Controle de Tensão II Mecanismo Competitivo 2026 - CanalEnergia",
@@ -5279,7 +5191,7 @@
       "source": "",
       "added_at": "2026-11-17T22:55:57.523801-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTJrbVZzV1p2Y3IwWlQtX2xlNUtuanRBeHFqNW5La0ptTmpZUGpBTDJoU0hDeGJWeGMzUndQdWFGZUlMVjhjODBsdWJXTTRaMHhJMUtXanJaS3lnOVBsSEFQMnVJaU55UWVveHNBWXZTY0VqR3lSLV9NSnhOMVZlcWlLZ0d0eUhKYndTNV9ZNnpVeGpkREJIMXZWMHpYTnhlRDNFMVdzd2VCN0ZvVWlLeG5Heks4YUVBeXRIRm5PTHBkTVJoTGFRZg?oc=5": {
       "title": "GPT – Carta de Fiança para Garantia de Participação – 1ª Temporada de Acesso 2027 - CanalEnergia",
@@ -5287,7 +5199,7 @@
       "source": "",
       "added_at": "2026-11-17T22:56:00.928011-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbVNDOVF6MFE4ZzItQzgxLWNRWVpNdW8weTJ1aTloZ09oQmJUdWQ1bWlXWWFrUmZ6MkJjTlcwbFJibVVVYXM4NFR3dUNaandSaFJDeXM0bTlXcHJGbUhZb3h2ZjRrU0Nhc3VyQVRfZzRVaFRrck1VNnR5TkhQdEE?oc=5": {
       "title": "Natália Bezutti, Autor em MegaWhat - MegaWhat",
@@ -5295,7 +5207,7 @@
       "source": "",
       "added_at": "2026-11-17T22:56:49.973492-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQckNLbUg2SmgycVViZmhIR29aVXl1QXFIT2dWSGthblRoVEtwNnl5UnlkWjBXOF91MHZDTUl1X2JFQ2lmWlNBSmFJYTZXMjRNSk9oTTZlVkNZb1E3UjFHeGY2a1hJek1UU3hhanI1UE5jV1NpRmxna293UVMxR3lYSXFtenVxcUk5bHRDQndkaVVKMjZMSlRWZWk5bUlxOThHWEhMTHJXMC02SWZpdE5fVHNtcVRvNnhDamMycnYzTjY5SnFyNHhaWEs4THhFOF9iRnJ1bmF3bGhBbHBZYnVtNWlrWdIB8gFBVV95cUxQX3gyRGlnNUlLX194MmhpMG1uc0hDQWhSZ28xZ1h2N0RqMS1ONjV2OURYb2U4aS1BQTNvb2FDc2s2MVd2U0NwdExiWkxOTzViN055MjFGbC1DQ0pVeV9TYTk3UG5nVXlYdENZMzJYTTZLdzM1U0NhQzJyV0VhVjdlaGxRSE5sdTdKaE50Ui16WkIxbVpXaW5GVGxkdEhqUldXX0NRMHZKQU9ZcjJJbHEyZXVSMTk2cGpxNy0tU295Uy1qTmItMmttRGh1VTVsbmhEdk1jM0RENEp4bFNqTlNjd2FlNXlPLXVwek9BVEhiWmIzUQ?oc=5": {
       "title": "Senado aprova Brasil Soberano 3, que libera até R$ 13,5 bilhões para conter feitos do tarifaço - Valor Econômico",
@@ -5303,7 +5215,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:53.190776-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclZGN2VPSlJXdHZHLUVSc2dKcTRYMUp4aC04R3B5ZHE5N1hYaVJFNHlWcXlraTJ5YXF2bEdTOFZsdkNzdW1Mb0lNeHJKN2FCbVVGZkZhNUlrd3VTMlM1bzJXUXdrZTZPS0hORUpWY250cThsVGV3azUzZlFoZVJGV0Y3VkM2anBqcUpmeTg5M1Q4eHhzc0ItSjFRMGJwLWU2bzZudEFmck1qVW1rS2tJVU5jVlhQYnpnand3R2c5ZDZLT0XSAdIBQVVfeXFMUGRCY01BOXFNblVQR2NoNG9ZWE11dlpTUGV4MjVWWkhEelRzSkVvZXJ4Q2tsZWFVQ3ljQW1iRC1xaVRtUUhZaDhSeXp2VEJIRlFrdWtidEZZT1dqTTBLYkZmNWxWYk8wa3FvSlVZM05hc3FYaGlHbzVHY0puYVZjdWFxdG9TYVpfaGtVclk3dE1MOHl1bDlGZE9tZjl0SGxHVjdIOTdwNktuTDl1MUh4MWI1UUhJT1NVc3BBc2dlNUhxbjFLNW5aaXQ3dllJQmFMWUd3?oc=5": {
       "title": "Trabalhadores na França aderem a greve nacional por reajustes salariais - Valor Econômico",
@@ -5311,7 +5223,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:53.190885-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMkV6XzVfSFVPdnh0ZFhkQTZYOHhWamMyaEFYSndPVTFwVml6aGsyVXM0QnZKUlQ4M1dfR2NmOHlLTGpjUWc4WjhUTlRqaUgwandNOUZzX3F4a2dnOV82WGxDTnJBMkw3ZkNKOVIzeVZnM3FtTXA3eFVsTGxqeDNRNjY3U0phc3Fod3E5NW5JejdGSWJKNDkxTTdMQXg5Q3dRWmxTc0ZhenlZdkNFUExDTm82M2pTb3FqZURrUUc5UzlHUUotYmpZSEhpMjUtbFpNS1NiQUE4LVUyUzRYbmJFQdIB7wFBVV95cUxPZGdwNkViNXZHbnFiX1FLa1dkZEpKX2pHcUM4ZVAtY0tSeGhDV2NaYmVxYmh0MDdFS3paTDZlcUVYT0JDbTlKdXQwdmdrQ0xwdHhWUHhyaHlyRmxjZGpCcGRJTEdOb3pkaldQR0huZHdYY2VLSmYtQmVHUE5qZElLaVhsTXg0bGF3eE12Z3liU29FQnFqQ2pQTWRJMWo2akNGdUQ2cE90QnFpY1F2TGlMcUZZMF9rTFZQOVlGcWwxXzRBSzJEX3BWOGw0TTAtcy1Cd0hRb1I4QmJfYXF5VjI4VWpMQUIzQ19ERWsydzBEdw?oc=5": {
       "title": "Aneel confirma vitória de térmicas em leilão de capacidade e abre caminho para entrada da J&F - Valor Econômico",
@@ -5319,7 +5231,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:53.190957-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFRXNENjTnFUcVdqd1ZFUkJZci1lV2o0azE3X0NFLUJzMGt4OWlwNVFpVkVaZDhHZUlQRElfV0Y5SDVhd1czUXdIVFpiTHNrenBzTi1BRXJFSWhhdmhHRVg3T0JUZXV4WEhKMnpoSzdoVm1raHFjRUhDNmJsSXJXbWJpY0tNaGNOUnlETW1ZZUpfQUFtUlV6b0VzemdYcmp4YkRzS2oxTHhiN1dRZ1Vzd1pMMWp2RXU3ODBDR2JDSHQyejJfandzMlBQVkZHbjdKaU5ZZWVtR3dURzNuMmRQX1FCS2hQd9IB9AFBVV95cUxQQnBJUlVrN2NsdnFYc3VYQkwydnAwVFRlbmRpYmFXUHktdWhka0ZlWHVrSUd3QmxTeHgzQndiNTA5ZHdXTGQ1a1hNelRSX3hlZ0N0WmZ5Rk84a0N6RnlSQnFnSm9LbnZ6NmZnNGUxUUxxWTVkdU5KUy1jZDNzbHQtYk56bUNBZUR3WXVtNnZxdzZkSHY2eXRfT2prem5ZWmdKNUN1a2dha3I0VnFwamdzamJUeGhqUVMzVVN1V09QaTZUT205MUZjRDJSbkN5RHpUNjBzZ1hERXBuWUkzMHpYMHJua3dVb0p6aHhycHIzOHotQTlP?oc=5": {
       "title": "Aneel forma maioria de votos para encerrar contrato da Enel SP, mas pedido de vista adia decisão - Valor Econômico",
@@ -5327,7 +5239,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:53.191104-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV3RWSkhXUjdZZEZoUVAwQjYyb2JCcnhzY0YxRHh2VXY3QUkwVWJkUHRaVlJfcXhPZFFFUHQyWWhCY01KbTNEQ2xOLVdONkNJLVh5U0dwVWttZ0U1cHJKZkt3czVLMU9QYWlqVG9UMWgwY1FNRGtDUnNmTHFCZVJRVXJfZnVzSDdrY1NQcmZDYlRsM3VIaHo2V2VDWXRMb05fWGFIeW81LWdpWnlHTnBGUV9mR2JiZFVwUzZzd0JxU1NwTlRMTHpBTU45RV9GYjg?oc=5": {
       "title": "Senado aprova crédito de até R$ 13,5 bi para empresas afetadas por tarifaços dos EUA - Folha de S.Paulo",
@@ -5335,7 +5247,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.852811-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON3ByeE9rNXp1UFBReElySkYxRVc3LV9sSENuS2JzNUhVV01GeFdERGNWRnF6MWNvUmJIMDJSNUxrWlRMaGd5MzZDN0N6SmYzUy1HQ29UalUtQ0gyWjhRLXVyVXNtX2M5VlBTVWVKakp1Nk03YXl4VFpsVF9QSkdkQmlLT0JvYW5oRElSTWd4b0ZBWUNJN3hsbUYzaGRPNjZja2QyN1hMSW9UOG55S0lmbFBvMG4taU5CWkdQekZTem80N1NjakprLW9DOS1jQjBhWTZsRy1BdVRHSTg4VkR6ZDZnMVREcGU1WVUxTw?oc=5": {
       "title": "Prefeitura de SP multa concessionária por corte irregular de árvores ao lado do aeroporto de Congonhas - Folha de S.Paulo",
@@ -5343,7 +5255,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.852884-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNXzV6a0hHX1MtWE53QzgxdzQ1ZVdHVVY2NG1FM0F5aTFaY3BxNFF2eXJGLUIyeGZpNjZvY1gzUXpBY0Qwd1FKblpfRjhtT0hBdnd3U3Z4X1hmWFJDd3FpTE5YdlNPZEdOQjhVOF90eVF2NUpacmJjbVVPREFTaXVmYXhoTThLU1VXM1NVLXlrT2t4NDJMdkNFdXZ1aEhpSWNrb1R5RGZmYWF3NDJiT3FjN2NvWjMxcUR4NG9mZktjZ1ByaHFyb1lJU2JLTS1hcFk4ZEhyTUd1SURfWjZaVzFfc0VXOUJzQQ?oc=5": {
       "title": "Câmara aprova mais R$ 6,5 bi para empresas afetadas por tarifaço dos EUA e conflitos no Oriente Médio - Folha de S.Paulo",
@@ -5351,7 +5263,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.852951-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNakV2UlN1S2pkbFVnamVGRTBIRjY0VExjbmNMNUV3blNtM3h0cnIwRWtucXM2WkZCZF9ObVVLRksxbU91VDlJSjc4cm1YMUlzcGxSWndQcWlwWnh1STRzdnRtVkFpSjdRQkhzWVVxSnpaY000c1g2N2FsbmFIVWJqSUFVbU9WcEZsTE80eVpfc1A4ZzE4MTJfakJwQWxoVnp3Y19CWTljTkVqOVFOUTBwQUJ1V2R0dV9NSUlRQlplX2NrdDVHSHF2MVlwUkFIOGVl?oc=5": {
       "title": "Enel pode ter longo caminho até perder concessão em SP; entenda os próximos passos - Folha de S.Paulo",
@@ -5359,7 +5271,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.858076-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM2JQbkgwQ0tUR3UxWm9sc013VVZBdkRnV1JMc0ZSS241QkVwRk4zSXltM2lLXzl4TnYtV3FDQTVmd0ZmUkFTenJ0VnBabFZNSmtNdHdHaVl2M1lOMi1NN0N1alUxdk0tQWgxOXc2X0IxQVhzT2cyR1BERHdjZ1Z5Tk5mT2dHeFBGQjFuVE40dktJTFA5enVCR3p0RTVjY2xON1ZXVzJTY3NiRHBkZm9GZVNQTUozS0p3YmVRclJDU1NHSmhfbmRaZUdCYWRqUlhLWmZXV29PcWMwZ1hpdGVaMEZR?oc=5": {
       "title": "Maioria da Aneel recomenda romper contrato da Enel em SP, mas diretor-geral trava decisão final - Folha de S.Paulo",
@@ -5367,7 +5279,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.858117-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LVEpSalV6Y2pKZ2pKU2laTjVCSGc1eHVhdTRtOHdGbjI1N0lYTWRNaHJoa0pvLWU3R05mbFhfSXB4Tnl6Y2FHQ0U0NkwyNGF1cE5IZG9VbGJaVW1PVXdlOUhZQW5YLWd6UHNvdld6SXZzc3dvOGV6dWtzV215UDQ?oc=5": {
       "title": "Cadillac Escalade elétrico disfarça as quatro toneladas com potência e longo alcance - UOL",
@@ -5375,7 +5287,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.858182-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY2k3aGQ2M2xfeTB1ZEQ0OW1WTDhaYThROVF1T05iZ0hPVnJVNU5aSFZWRjNnMjh3dW5QRFNMcVF3SlpLQjVJQlZmMWcwaGE3dEVEanRBVENrMjBMdHRYQ3BONDVPVjZ6MVpZNE5yaWlHV21MSTJvdWw2U2ptQlVibDZMUVQwUV9SYkxiTHlFcXdKVEhPRHR0SU1vSHlyem92eGx0NmxOOHRuR2t2YWpKZjl3dUFmNElyMWIzSVpzOGVfSTd2V0xaaVBKdkZ5bmxFUnk2T0dyOUhtWERFV2pmM0Fn?oc=5": {
       "title": "Notícia no Seu Tempo: Maioria da Aneel é favorável a encerrar contrato da Enel em SP - Estadão",
@@ -5391,7 +5303,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.863493-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzN4ak4taGxYM016S0hTdnlpYmdKSl9fN19URWJhUm5vSHZSajZEVzZTdDBEU1BuWkYzVXpCeXc0UlZPbkNIRHM1U0hTMngwd0h4LUxoVmU3T3FINzgzNmJUYmJqQlh0SThfcGtzd2hFczhnQ29YbXNNN3c5TDlBTTBIT2I5Y0tPQkhyVEI4NUNWTjFpd240R3dURVk5QUNOa1BodzBCOWFGbngxbFNlcUF3?oc=5": {
       "title": "Sistema Imigrantes-Anchieta começa a operar com pedágio elétrico; veja quando - Estadão",
@@ -5407,7 +5319,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.868316-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFRMYzNTa3pOcjluQzVrOVN6ZmtpdkFtOXRqWlF1U2d5NUg2ZWpreUhHTXlVaVJOTWQyVWUxU2dqSy1jcVpnYUFBWXo1dmRjZ1RuTjZlS2h0TUJselBXd1J2ajdPcjBiOXN1MTY1djhMVXViMzZVSDJJbldKelg1djc3VW1yRURFNHRIRElpSU1Jd9IBlwFBVV95cUxPeXAzNmpWVUJ1cmx6X1VMOG1zai1FOW1kZXM3ZHhaMU9KQmxqV1ZTQnBJRUZsWTVyTHVvaFNZNGNXbHhlMXJ0ZElzVzd5bzBKX0FNTF9tUW8xQ3cyU0hrZTlBcmdBRkV4Tk9lR243alN4bmg5c2ZGRVdNUWYzbGVCR0JnakxTb0JGTHN6RVcwMnN2TzdZU1VR?oc=5": {
       "title": "Quando a Enel deixará SP? Quem assume? Veja perguntas e respostas sobre crise na energia - Estadão",
@@ -5415,7 +5327,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.868472-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNERoN3U1UzFnTUswY19mTUtTeFQzRkVuaFU3UlNuWUxFd0txNDhJemd0XzBwLW1XR0xscHJKQVBDenRWN2NqQ0t5MzVPcGpoc0Qtbk55WW9wYVdMOXplbFJ3YzJwZkFwRUZWa3NyYy1VbEE3SmphenZTQ1NiTHk1eTdwTUdqbEFTWjcxQ0xDdXJIdDFvNGZEVWV1em1uVEFrY2Z0VUJ3SHgxTFhJV3N6SW00Q01reEV4bDJQR2N4b01ja0ZGNGNSeldkUlAxQdIB0wFBVV95cUxPelZPSnV2NDFqekY2LUlIOVBPNDIwM0JxY1Fra2U4ZUkzLTNlZ3VUVXdlM3dLUWpteHozLWpxY2lSYk5hczJraHl1UkdfUVA3WHFLOW0xcmQyR3p2YnV4ZFU0WTlYa3RVNHJZNndDeWNZUlFWeUJzb1M3M2F2QlhJZS15eWxWZTBwVldGX0xFNVRlUWI0eXFNOGh0RVlZVXNmRmo5MzlYTTd6aWdEdEM0TFFySlgyaUNtSzJsalo0SDRkQ2Y4VjBqaTYwUjJKSUt1VEIw?oc=5": {
       "title": "Agência federal forma maioria para recomendar rompimento de contrato da Enel em SP após apagões - Estadão",
@@ -5423,7 +5335,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.868619-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYXFlQ0Y0SzNfOU00TUZkREZvZGl1X0lyUkp3NnNBWWFFQVY3dXFWeGxBaWh3OHMtSEJvMXlHNlBQRFBReFFwTkVuMzJlNzdZSEJsajRKZ3lWYjl1alhTTll0UER2OE1SbjdGcVc0ZE1GUk9qZnF0ZHhMcVBzc2dRNE9uWkxaZmR0aUo3YVU1cWNRUFFhRmJlTVMybHp3LU9ERmowQVVDRzJzWVhTTW5rbVZIZWVFTEItZEpvY05hU3RUM3FsZUNRbWh0SFJMMUZuR3kwVzlVSG_SAd4BQVVfeXFMTUowV2dRWFBJLWJ0U3RVa05WU09rNzVscEV2TlJUN013M3JxNllqTW4zeUxWTVk0ZEZ5bFAtMEhEUHVoUUV3TEJaSHF5V09aT0NDZmtBeVB5WUt2QUlyLTRZa0lLV1FEcVAzWWpZeTlZSDlpTl9PWUt0bDJxZ2M2UlpOYTlRMFUyc29XcENaLVZZMGt2U1N2LURBOWd3cXNhdHZMV2J1YWZoNFp6WC1ETWV3OTUySnVUeUJvQ183X2gwTnQ5dE5MSDVxdENRdjlqT1E1M0hPZHhWX0NyNGhR?oc=5": {
       "title": "Corinthians com risco de jogar a Série B: quanto o clube perderia em direitos de transmissão? - Estadão",
@@ -5431,7 +5343,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.868663-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbWdLRDYyM1JLNEc1ZEt2ZUpIQ3hjVzZpZnpvSGJROHBWajZQa1dmR2lxT1ZkMkljTVpmUDFCMkFpT29jWVlZTTQwWkRsQjBxTFhfc2hhWTVpaUN6eF9SbzN3dGlLdXBWV2p2dGpaNHdIWGg2M3kxU2p0Rm5ORVNvaWVVMUJRdUQ5TUJmVUM5UGVHVkluT19iZkRXa0NTTThkbHFGcEllUQ?oc=5": {
       "title": "Diretor-geral da ANEEL pede vista de processo sobre caducidade da Enel SP - Agência iNFRA",
@@ -5439,7 +5351,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.873937-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTBtSXpYTGdwdk1zUjE0ekVSWUdhZktiUlhpc09WSDZBZmItZTAzNnctVG1IMDR2S09XQi15eHJGUzFES2ZHTWNyQmJjbnBsRHhPaXdsOTZzZ201bGdFLXFpNGV1QTVuYkFxeVp2alV6bjNNQ0VaZlpnQzhDcndNYVF0OWVkdHRpUjRTV3N6VThURldza3NyZUtoVi1Ydng0OFdn?oc=5": {
       "title": "LRCAP: ANEEL habilita consórcios ION, da EPP. J&F deve entrar nos projetos - Agência iNFRA",
@@ -5447,7 +5359,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.878534-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3NEVTZ5UGFUVTNtQ0hpaC1uTWVNdUZhQWxIM3RUZFBDRnZSVHgzZGI0dE1WNkxQa2J3VzV1TXNraFNMQmxJTmNTTG9McjlkUkRBNjFSblJYemtzUl96ci1jVlk1Sm5COG85aEJtU3JPem1IdmZlcndCLXp5R1l0Q0JnZDdRNFNhY0dMRE1Qb095QUxidUZEXzFoLTk?oc=5": {
       "title": "TBG cobra avanço da ANP na revisão tarifária do transporte de gás - Agência iNFRA",
@@ -5455,7 +5367,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.878697-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmVtV3l4Rm5jTmM5elB5MDJLYjZWZ01xTFBZTDF6ck91LWhsRm1XZzY5MkJrZ2p4MmpMYkc1NnV0cFFlNW9GcjNJSkxCOFhNeW9RWFBMWWduRGI2MXhWZndsRkNVdDVxLXg4OVFwY3R2eS1pUGVjUWpOZ2p3WUZvN0g1cFhXaU9BNV9BRFE5RmlmS2lFNmw3N0RsQ2tKQQ?oc=5": {
       "title": "Corte automático de geração distribuída entra em consulta na ANEEL - Agência iNFRA",
@@ -5463,7 +5375,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.878827-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEtjankxb2VtelUtY25RYUNQQXZvNElZS0pvcTlqQ2JiNWFvVWU1eFc5TDJEM0VkeUc4c3NQakRqVW9WWm9MV2ZPcjNQRUxjbEw1TFlKU2UwZFpGQUhzUTRHUnNVMEdvak14bkJBNVRZSktuWTZ4cEU3Z3FYcGktZnNrcTh1R2pHUUk4SURBdy1fUm1Rc0lOOGF3?oc=5": {
       "title": "ONS recebe contribuições para contratação de serviços ancilares - Agência iNFRA",
@@ -5471,7 +5383,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.883973-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcC1Tam9sWlJRMmVEYUw1TngwbXNRNjhlYmJMdS1feHRvT1BOUWJYOU1KSlFYMFJQRU5saTlzOV9uREROc1lJZ0JtdE1LSnJVU25qWG1BNWhheFpCZ0RVaVJWRm9hZzNfcDNhMjEwUnVJSVIyaWUta29IallIbURQWkRDVV9TZFNWUEdyZ0lmMHNzT25ZWFV1dDBEcGo2NjBn?oc=5": {
       "title": "ANEEL define regras de faturamento de encargo para excedentes da CDE - Agência iNFRA",
@@ -5479,7 +5391,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.893976-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXFqVUVSNllpZkZUSEpJR0ZqSExhNFFpcXU5aUVoM0JsN1RDQmNQUndiWnlOVThZUHd3b3lLX3g1dndrLUhPR3RvZi13bnlROVBhV1JmR2lseHlzSlJOS21MLVV3MWNjX05RTTBydnZYY3hxZVJRcEdOY1ZSa0N1a2c0dUxsT0p1MVU3OUUta2VjYllFdm1hWi1Za0Fua3oyT1B4MU5pMmRuZElXWkJicW84Zw?oc=5": {
       "title": "Diretoria da Aneel revê inabilitação de Consórcios ION no LRCAP - CanalEnergia",
@@ -5487,7 +5399,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.898853-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmFJb19qSWEtN1hMdHY1ZFdJZDlGQVpNTW1ZcUhlVWt0WE1URGJVYjg5NU1pZGRSd1BSMUJnUFNCNEJzQ0NxcV9NdU1UNDlFY3gyd0gtVUc4MXRuMGlxVHM5QTQ0Q3BuWDVTalRReXlPR0hXUGV4UzFRQjl2dEQ5UVRDSjBERFcxVE5oY3ptc09VcHlnTmJfU2R2dU55SldHekpmTkhMZnB1cDdKT1hxQkhCM3dqSGQtcXhETHo5bUF3SWdLengyaEtFYw?oc=5": {
       "title": "Aneel aprova resolução que regula faturamento do encargo complementar de recursos - CanalEnergia",
@@ -5495,7 +5407,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.898873-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOUpCV3dDZGg0N2FVdjJ2VzktN3pleDNSUmR3NmpqOVVlRDNSUjlKRldCYndqYnpfZFBSNC1NaHZsX2NnWlVoVWN4WDUwOENkUmt5cGNUc0h4NjlCaWpxNzI4dUtTajg4T1hnbTR2QVI0VjRKSWlxVFVVRmkxR3NwNlJRUS01VG1EaVhCTDNZZURaZHNIRHZ5ag?oc=5": {
       "title": "Enel SP: o que acontece após novo adiamento na Aneel - MegaWhat",
@@ -5503,7 +5415,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.913580-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1VSY1RxN3FOVjg0SnVldHNzRDh2dTZrZDN5QU1lbFk0b0pzWnp2dEl4a0RRRzg0M29FQnpYdVk5eTZQNWsxTlB0d1E5R2wwOGlIN2FnNkJrODIydHN2YWg1X3paTVZLX1Q3ZUt6OXFYR2txUkVvY2h2SWxjc1ZCNFN0czN6OFAwRW1GVjB2dGUteWdmZXZfcQ?oc=5": {
       "title": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel - MegaWhat",
@@ -5511,7 +5423,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.913771-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDlLX0hmTHVRQUZ3azdweUdLaUUydWlXbXYwUTlWUFkteWFXdFVJSnNDTk5md3NEaU9kVDR1WTRhYVozUVlEYTE1TDlsVjFPNGYtMXpkelVES1dsRUJLejZIY19hM0xXYy1yakc1aXJlVWRWVXlKbWJaMVg0MmVNUEhfem43eTI3eVoySlYzb2J4aEhiNXJYRUxtLWJKbVlhWVBHVjVLZEpiNk1hSnh6anRFTQ?oc=5": {
       "title": "EPP reverte inabilitação de 1,7 GW no LRCap, mas terá que comprovar recursos - MegaWhat",
@@ -5519,7 +5431,7 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.913939-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEx0NkZuNTBTVmxiZHpmWTRpQVJkQ3RyV3J2WjNPT1g0emdLWG91bWkzcU0tR2ZPN01YX3hPcXYzRUw3czF1UmpiSHg2UkJNdFUxWGtoTEdNb1ZpV2dLVzdNdmJoNWNYSDdqUTNyS3pWYmJQUEotVHI3QmdmcUxtdEhuWkNlOXduUUc2ZTYxc0J3NjVFVlh0T2NaczJCcldjMnphWmtJUFpFTXBNUE0w?oc=5": {
       "title": "Novo pedido de vista adia decisão sobre inabilitação da TermoG no LRCap - MegaWhat",
@@ -5527,13 +5439,77 @@
       "source": "",
       "added_at": "2026-11-17T22:57:57.918737-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXy1OZl9QMFJJS0NnNE1uSEJEeW5DTkRoNDY0VTRoT2ZVdjJYQllzMER4ZXItUTZLaG1JQl94YWJha2M0TzdjRVFqYXZkLU51eFVJZzVORkNIN3ozdXlJczQzS3hTRnpnejRSOHZ0ZW5sbkJiWUg0S2xVa3VDNW9SOHhSTWtsZ2ZvMzg4cTQ2emlSLVhSaHg0WGpUbUV5YkRWdTUyUkZEVGRydUY2N1BEbA?oc=5": {
       "title": "Aneel defende cortes obrigatórios da geração distribuída em teste do ONS - MegaWhat",
       "summary": "O diretor-geral da Agência Nacional de Energia Elétrica (Aneel), Sandoval Feitosa, defendeu nesta terça-feira, 17 de novembro, a participação obrigatória de geradores distribuídos no projeto experimental do Operador Nacional do Sistema Elétrico (ONS) para controlar a produção de energia conectada às redes de distribuição. Segundo ele, os agentes estão sujeitos às regras regulatórias e não poderão…",
       "source": "",
       "added_at": "2026-11-17T22:57:57.918816-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazRKd1VQb0NQTDFhVFRWVjFQcE9jTXB6WFo0eDRQQW50dUhpN1ZWNWJYOEFDRTdjTnJBdFJMNnhndW5rVU5HR1ZLTVJkQjZVM0drNFhZYzZMeUYxdW5sdVZUdG1vRkw5SHMxUGlyXzU5dF9KUi1YRUJNNGhVM1NBZklhNWpYbHNsV3ZvOFhDREdJVWlrdmdqR0dHN05teGxRdFJzUHdmVGtFSVg4TGVqcm51THlVNDRDOVkwU21jSmlIX1FvR05menBXSTQ1WjQ?oc=5": {
+      "title": "Margem Equatorial acende alertas sobre cenários de ameaças externas - Valor Econômico",
+      "summary": "Margem Equatorial acende alertas sobre cenários de ameaças externas Expectativas de reservas de petróleo na região levam Marinha a reforçar ações de defesa; especialistas citam ataques a drones, sabotagens ou bloqueios navais No fim de outubro, quando a Petrobras informou que havia feito a terceira descoberta de presença de petróleo numa área ultraprofunda no litoral do Amapá, as expectativas na…",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.138500-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEUwTzMzRGI1QXNENVh5R1JYVEQyX2JjU0o5UXBnZkM3ZFE3R2t1MEw1MUhUUU1uNTFTY1hYTk1VR0VfM24teEU2ZEtLYVktSmdCOVJiQkJackR3Nm9ZM1k0bTJteG1SZ1JrbURkMHpZRHBzTnQ5SXo4ZEZZZG1xMjBBeXFTU0NPNkNRSHoxUFM2cDNZN3VhNU9xVUs4Rmh1Z0N1Z2l2cTXSAbcBQVVfeXFMUDRkZFo5eVV2QjFTUWZrdHJ2MWdvaXNDMzlEVmJudThmTE1CQ0NtNUlJeHE4SFNyUWRJM0xlMy1TS1VRTENtQS0yNFhxQkVNYnUwSWNtRDFkQmpPMTNvZDFZenV0bC1Edi10UElJQWtNX2s0QS1PWkxHT3pkbjFtRHZYQTNrMUZXb0l0em9nNmdFUU1BejdDTGhLeVl5TWRYWFpWUEszY2tlV25xTlByRGM5NW1kSnVB?oc=5": {
+      "title": "Aneel forma maioria para caducidade da Enel em SP - Valor Econômico",
+      "summary": "Aneel forma maioria para caducidade da Enel em SP Sandoval Feitosa pede vista e adia decisão sobre o futuro da empresa A diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o fim antecipado, ou caducidade, do contrato de concessão da Enel São Paulo. Mas a decisão sobre o futuro da empresa foi adiada mais uma vez após pedido de vista do…",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.138647-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ybEpGNzBveFNRUjZxQU0xTEloV05iZEd6LUxaQ2RtcGNyYUdLbm5uc1hFQ1FDZW9IZVFadDRONW9HanlJUlFVbGd5RnNEbmExbE9Eblp0ZjNraGtOR1JuZm4wbFI1UU9XWUZ4Q1pPVG1UUnQ5TFpLa081LUQ?oc=5": {
+      "title": "LEILÃO DE ARTES - Classificados Folha",
+      "summary": "Detalhe da oferta LEILÃO DE ARTES Seção: Leilões OBSERVAÇÕES 23, 24 e 25 de Novembro de 2026 às 20h. Somente online e via telefone.",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.150396-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjhpQXQ1Z05sSUxxUms0OTJrdWxTbHBVeHQ0N0dUM25tbm9OSlFBWG1EVl83TkN0RFZDZU9UTHE2RU5MVVhUMVB4X054UGVLRXZCZVdNd01LX2ZTeTlJSVpjY1ZZU3lTVWFzNnBJaF9qR0VmcWt4VTVSeG5fMlh1c2thMHdXWUdLQUVJbGlRMWV2YldqWmN3NnAtXzlXQ0dqRG90eXdhUQ?oc=5": {
+      "title": "A renda parou, a tarifa não - 18/11/2026 - Mauricio Portugal Ribeiro - Folha de S.Paulo",
+      "summary": "Em 2013, no auge da ascensão da classe C, Anitta lançou \"Show das Poderosas\" e virou o rosto dessa subida. Em 2025, a moto mais vendida do Brasil é a CG 160 do entregador que roda doze horas por dia.",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.155011-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE01QjR3ci0tY2UtcFFiNFU3YUdEWWN1MHcxeU50TDJhNlhZMl9iVlJqeFpESzdSY0VNNDIwRS16Q21kMGsyLWZCc2wwNjRyM294aWFOSDVLQzRvc1VIS2IyM3l3Yy03MFVQUHBmbTNJMHprRURCTWprYWd2cEVtbHc?oc=5": {
+      "title": "Prefeitura de SP multa concessionária por corte irregular de árvores ao lado do aeroporto de Congonhas - UOL",
+      "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Paulo Cûˋsar de Oliveira Faltou explicar com que propû°sito as ûÀrvores foram derrubadas e por que a concessionûÀria do aeroporto concluiu que isso precisava ser feito.",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.155057-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkxDbDJBVC1LUzNvWFNwRDROdEtfN28xSkRaQXZ2VzBRMl8wOGhxalFqMV8ydG9vbVl0QmotM2FqNmdxZFFVX2dKaWxsMVZ4WWF0aGJoSFpDclV5bWR3ZkJncU1zMDhId0tiU3Y4SVVNTlk5S3pTWFJQNjlQaWRFQk8xZUx2UGc?oc=5": {
+      "title": "Axia Energia anuncia sua 15ª emissão de debêntures, no valor de até R$ 1,2 bilhão - Estadão RI",
+      "summary": "O conselho de administração da Axia Energia aprovou a 15ª emissão de debêntures simples, não conversíveis em ações, da espécie quirografária, no valor inicial de R$ 1 bilhão, com possibilidade de alcançar R$ 1,2 bilhão caso seja exercido o lote adicional.. Fique por dentro dos principais fatos que podem auxiliar sua tomada de decisão na compra e venda de papéis.",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.164782-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSzl4R2c1UFN5TXdGemVaT2Y5cDdQMGE0VTNDRzVZQWtwY2FTajVMZHM4Z0lvNVFLTnNzUXRvVFp4MnhjVmxvQVh2VEpOUHctV1RvWkkwSmwxcnNOUC02SGlxUzIzZExsTS0xRk9fREdKV2FHcFdiOUJYUW1yU0dXa0tYLWxwUmdDRHRwbjZSNHF6bndOUC01b2ZENmtmcnRZWDJyODJrMkNCVFFfWEllRWhndTFUME5UZmMtcjk0UkNQTjU4UHItcnI4MFVBcFBM0gHWAUFVX3lxTE5iaTlqTUVwdmhtWGhDcVkwUkY0Z2RueEo2Vm1QS0N1aHNsOUJQSnFvRlZkNXliM00tLVh5QmcydHAtSnZvQ1UwNUF1UmR6YUtHMTJMeVl1QXVJdEd5Y01PeTgxZk4ySlBpVTNKYzFFZE1UOTJVVVFfQmR3Z21CSDhkY29DTk9VQXdKdlpGNnU2NzFiRUJjVHAtblRYMkNEUHhTVGoxeWxBX3EycjdRMXFCNHp4ZDE0MllweFRxSDZHbXFIYUJBNmhZOTVJSVBDQno3NHhyOXc?oc=5": {
+      "title": "Notícia no Seu Tempo: Maioria da Aneel é favorável a encerrar contrato da Enel em SP - Estadão",
+      "summary": "No podcast 'Notícia No Seu Tempo', confira em áudio as principais notícias da edição impressa do jornal 'O Estado de S.Paulo' desta quarta-feira (18/11/2026): Com quatro votos a zero, a diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria para recomendar o fim da concessão de distribuição de energia da Enel na Grande SP após três grandes apagões na região desde 2023. O quinto…",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.164838-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVzN4ak4taGxYM016S0hTdnlpYmdKSl9fN19URWJhUm5vSHZSajZEVzZTdDBEU1BuWkYzVXpCeXc0UlZPbkNIRHM1U0hTMngwd0h4LUxoVmU3T3FINzgzNmJUYmJqQlh0SThfcGtzd2hFczhnQ29YbXNNN3c5TDlBTTBIT2I5Y0tPQkhyVEI4NUNWTjFpd240R3dURVk5QUNOa1BodzBCOWFGbngxbFNlcUF30gG3AUFVX3lxTE81bTN5TEpQRzdkTWlBZVEwNjk4ZjRwZllWOHZzbkJSeDAybkRXSHVFNV9nd0JyaDhZN3FlbEhsSXdTZU1lQnJwSDh1SlNHMGJuSlNuWXYxUHhGSi1HdUM0LWg0V3FPRm95NFJJeWZnMV9MblBDaFdkd0ctZllCN0l4ZWVzSFd1QWd5Y0JVU1hhMXlMUWVyTlYwVC1xVWlNNzN4eDZpYVZmXzhXUnRobGE1MldHWW9NOA?oc=5": {
+      "title": "Sistema Imigrantes-Anchieta começa a operar com pedágio elétrico; veja quando - Estadão",
+      "summary": "‘Praças de pedágio serão extintas do Brasil até 2035′, diz CEO da Motiva, concessionária da Dutra Crédito: Estadão Gerando resumo O sistema de pedágio eletrônico, conhecido como free flow, começará a operar nas rodovias dos Imigrantes e Anchieta a partir de 1º de dezembro. As estradas ligam a capital paulista à Baixada Santista.",
+      "source": "",
+      "added_at": "2026-11-18T07:08:47.164956-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
