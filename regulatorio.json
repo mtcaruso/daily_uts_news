@@ -1,22 +1,23 @@
 {
- "gerado_em": "2026-11-19T10:58:37-03:00",
+ "gerado_em": "2026-11-19T11:33:00-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": true,
-   "lido_em": "2026-11-19T10:58:37-03:00",
-   "listagem_pc": "2026-11-19T10:39:36.538713-03:00"
+   "ok": false,
+   "lido_em": "2026-11-19T11:33:00-03:00",
+   "listagem_pc": "2026-11-19T11:01:57.294307-03:00",
+   "erro": "ANEEL · DOU Seção 3: busca do DOU de 18/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T10:58:37-03:00"
+   "lido_em": "2026-11-19T11:33:00-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T10:58:37-03:00"
+   "lido_em": "2026-11-19T11:33:00-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T10:58:37-03:00"
+   "lido_em": "2026-11-19T11:33:00-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -26,11 +27,11 @@
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-19T10:40:04.951722-03:00"
+   "lido_em": "2026-11-19T11:02:37.388453-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T10:58:37-03:00"
+   "lido_em": "2026-11-19T11:33:00-03:00"
   },
   "TCU": {
    "ok": true,
@@ -746,7 +747,7 @@
    "tipo": "Audiência Pública",
    "sigla": "AP",
    "numero": "009/2026",
-   "tema": "Receber contribuições sobre a proposta do Sexto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica - 6º PAR Procel Atenção: a Audiência Pública nº 009/2026 acontecerá online. Clique no link abaixo para realizar sua inscrição e acessar a sala do Microsoft Teams.",
+   "tema": "Receber contribuições sobre a proposta do Sexto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica - 6º PAR Procel Atenção: a Audiência Pública nº 009/2026 acontecerá online.",
    "inicio": "2026-11-26",
    "fim": "2026-11-26",
    "situacao": "aberta",
@@ -1092,7 +1093,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-19T10:39:40.738114-03:00",
+   "lido_em": "2026-11-19T11:02:01.187360-03:00",
    "documentos": [
     {
      "data": "2026-11-19",
@@ -1128,6 +1129,15 @@
      "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
      "protocolo": "0509699",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP0lXMiAs14Nk76L4ss3moZlk_k3ZCS2OyR9LPGjFxC90mmTfq1A0ZRmpSEDdxOIH5NckZQv9vJHrX-oKt1evG1",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-19",
+     "tipo": "Despacho 4370",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0509741",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
      "anexado": false
     },
     {
@@ -1173,15 +1183,6 @@
      "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
      "protocolo": "0504819",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNoF0wdZzg7ooKp3d1q8fVl4rEUetdrOEo8wBtPLimY8i5WQLlXZjAwUhR3LS34gjSXOnpzcgKYY8k-iF9hWLnY",
-     "anexado": false
-    },
-    {
-     "data": "2026-11-11",
-     "tipo": "Despacho 4294",
-     "unidade": "GAB IV - GNSJ",
-     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-     "protocolo": "0504820",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzN2WIfvDfYv5wu9LEUjYqJLCNLsn6fxHaqtUBUxR7XT2YhFpkLNlgrhF7pQBv5MJ29-Ax7EVVmzXbxd28tioit5",
      "anexado": false
     }
    ],
@@ -1359,7 +1360,7 @@
      "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Recurso Administrativo interposto contra o Despacho nº 885/2026, que negou provimento ao Pedido de Impugnação ao Edital do Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs – Leilão nº 2/2026-ANEEL, apresentado pelo Instituto Nacional de Energia Limpa – INEL, para, no mérito, negar-lhe provime…"
     }
    ],
-   "n_documentos": 486,
+   "n_documentos": 487,
    "n_andamentos": 608,
    "grupo": "Geração e transmissão"
   },
@@ -1369,7 +1370,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-19T10:39:46.233547-03:00",
+   "lido_em": "2026-11-19T11:02:06.713898-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1592,7 +1593,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-19T10:39:51.860836-03:00",
+   "lido_em": "2026-11-19T11:02:12.362677-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1797,7 +1798,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-19T10:39:55.293443-03:00",
+   "lido_em": "2026-11-19T11:02:15.705220-03:00",
    "documentos": [
     {
      "data": "2026-11-16",
@@ -2074,7 +2075,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-19T10:39:59.482703-03:00",
+   "lido_em": "2026-11-19T11:02:34.956475-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2513,7 +2514,7 @@
    "numero": "48500.906028/2021-89",
    "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": "2026-11-19T10:40:04.951722-03:00",
+   "lido_em": "2026-11-19T11:02:37.388453-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -2905,6 +2906,18 @@
    "ref": "aneel-cp-044-2026",
    "detectado": true,
    "visto_em": "2026-11-19T02:40:26-03:00"
+  },
+  {
+   "uid": "64e57048c845",
+   "dia": "2026-11-19",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Despacho 4370",
+   "detalhe": "GAB IV - GNSJ · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-19T11:33:00-03:00"
   },
   {
    "uid": "f12489bbfa91",
