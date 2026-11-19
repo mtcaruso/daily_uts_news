@@ -4,6 +4,42 @@
   "tipo": "Leilão de Geração: Reserva de Capacidade",
   "documentos": [
    {
+    "protocolo": "0508756",
+    "tipo": "Requerimento de Inclusão em Pauta",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPQO5hN41NhpzbJ1g-SWfwivC_Woplih62ea8psuuG2B0fl5RBPTq8rF43XzNVkoVCdgOgZKnI6J2MCOmnEDCEM",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+   },
+   {
+    "protocolo": "0509485",
+    "tipo": "Voto",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMchlRJDm1MW7dDiugDSQ2mq413fy1rjKBptN8OR9ApdnfaNEdw1753gptGDxw9WeSu-FhTo_6ebN4kHhpWOlaR",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+   },
+   {
+    "protocolo": "0508762",
+    "tipo": "Requerimento de Inclusão em Pauta",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOCTQ-oEvNWVEA6ckS1uiTN6bXyXMzI6snOhjONu3M4dOJ6DUO31QTAR9n79KrVtbJE5b8ZEf81f-rJHJF-Wv2C",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+   },
+   {
+    "protocolo": "0509699",
+    "tipo": "Voto",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP0lXMiAs14Nk76L4ss3moZlk_k3ZCS2OyR9LPGjFxC90mmTfq1A0ZRmpSEDdxOIH5NckZQv9vJHrX-oKt1evG1",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+   },
+   {
     "protocolo": "0507032",
     "tipo": "Extrato da Decisão da Diretoria",
     "data": "17/11/2026",
@@ -4343,6 +4379,12 @@
    }
   ],
   "andamentos": [
+   {
+    "datahora": "19/11/2026 10:35",
+    "unidade": "GAB - APOIO",
+    "descricao": "Reabertura do processo na unidade",
+    "hash": "a1797179cf32"
+   },
    {
     "datahora": "19/11/2026 08:55",
     "unidade": "GAB - APOIO",
