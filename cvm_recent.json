@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-18T20:34:05.439328-03:00",
+  "last_updated": "2026-11-19T01:29:31.724734-03:00",
   "items": [
+    {
+      "cnpj_short": "00243-7",
+      "empresa_nome": "AXIA ENERGIA S.A.",
+      "categoria": "Documentos de Oferta de Distribuição Pública",
+      "tipo": "Lâmina de Oferta de Dívida",
+      "especie": "-",
+      "data_referencia": "20261118 11/2026",
+      "data_entrega": "20261118 18/11/2026 20:34",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1591288",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1591288",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "2437",
+      "first_seen": "2026-11-19T04:29:09.440852"
+    },
     {
       "cnpj_short": "00243-7",
       "empresa_nome": "AXIA ENERGIA S.A.",
