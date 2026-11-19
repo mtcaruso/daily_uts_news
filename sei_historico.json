@@ -4,6 +4,15 @@
   "tipo": "Leilão de Geração: Reserva de Capacidade",
   "documentos": [
    {
+    "protocolo": "0512254",
+    "tipo": "Recibo",
+    "data": "13/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOK8n82W3FmWpx8HNH4M-NRX37zzi-utffb7Ma-Ea5DDPSGzWD8BJpZPp-fu43y4exljrPcT2P-HUys2h_z99IN",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+   },
+   {
     "protocolo": "0508756",
     "tipo": "Requerimento de Inclusão em Pauta",
     "data": "19/11/2026",
@@ -40,15 +49,6 @@
     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
    },
    {
-    "protocolo": "0509741",
-    "tipo": "Despacho 4370",
-    "data": "19/11/2026",
-    "data_inclusao": "19/11/2026",
-    "unidade": "GAB IV - GNSJ",
-    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
-    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
-   },
-   {
     "protocolo": "0512140",
     "tipo": "Voto",
     "data": "19/11/2026",
@@ -56,6 +56,15 @@
     "unidade": "GAB III - LLS",
     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNwhhLTXjpnvyMmbzuF6rHaEnV6qBorJxjxP_7y4ffyEhwM5kdrY4vvnCGtQP0zlx_VTb6GZBwVWfUjgEnaEZF6",
     "unidade_nome": "Gabinete de Assessoramento à Diretora Ludimila Lima da Silva"
+   },
+   {
+    "protocolo": "0509741",
+    "tipo": "Despacho 4370",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
    },
    {
     "protocolo": "0507032",
