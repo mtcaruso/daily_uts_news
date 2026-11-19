@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-19T14:10:18-03:00",
+ "gerado_em": "2026-11-19T14:49:05-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T14:10:18-03:00",
-   "listagem_pc": "2026-11-19T13:59:55.655351-03:00"
+   "lido_em": "2026-11-19T14:49:05-03:00",
+   "listagem_pc": "2026-11-19T14:29:47.821781-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T14:10:18-03:00"
+   "lido_em": "2026-11-19T14:49:05-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T14:10:18-03:00"
+   "lido_em": "2026-11-19T14:49:05-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T14:10:18-03:00"
+   "lido_em": "2026-11-19T14:49:05-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -26,11 +26,11 @@
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-19T14:00:15.045836-03:00"
+   "lido_em": "2026-11-19T14:30:10.581920-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T14:10:18-03:00"
+   "lido_em": "2026-11-19T14:49:05-03:00"
   },
   "TCU": {
    "ok": true,
@@ -632,38 +632,6 @@
    "fonte": "listagem"
   },
   {
-   "id": "mme-cp-237",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "237",
-   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
-   "inicio": "2026-10-23",
-   "fim": "2026-11-22",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DEMOB",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15979",
-     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
-    },
-    {
-     "k": "mme15981",
-     "t": "Formulário de Contribuições"
-    },
-    {
-     "k": "mme15982",
-     "t": "Portaria Abertura da Consulta Pública DOU"
-    },
-    {
-     "k": "mme16017",
-     "t": "Orientações"
-    }
-   ]
-  },
-  {
    "id": "aneel-cp-036-2026",
    "orgao": "ANEEL",
    "tipo": "Consulta Pública",
@@ -727,6 +695,38 @@
      "k": "arsesp8389",
      "t": "Regulamento - Prorrogação do prazo para envio de Contribuições da CP 17/2026",
      "data": "2026-11-06"
+    }
+   ]
+  },
+  {
+   "id": "mme-cp-237",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "237",
+   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
+   "inicio": "2026-10-23",
+   "fim": "2026-11-23",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DEMOB",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15979",
+     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
+    },
+    {
+     "k": "mme15981",
+     "t": "Formulário de Contribuições"
+    },
+    {
+     "k": "mme15982",
+     "t": "Portaria Abertura da Consulta Pública DOU"
+    },
+    {
+     "k": "mme16017",
+     "t": "Orientações"
     }
    ]
   },
@@ -1097,8 +1097,17 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-19T13:59:59.564991-03:00",
+   "lido_em": "2026-11-19T14:29:55.138611-03:00",
    "documentos": [
+    {
+     "data": "2026-11-19",
+     "tipo": "Recibo",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0512254",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOK8n82W3FmWpx8HNH4M-NRX37zzi-utffb7Ma-Ea5DDPSGzWD8BJpZPp-fu43y4exljrPcT2P-HUys2h_z99IN",
+     "anexado": false
+    },
     {
      "data": "2026-11-19",
      "tipo": "Requerimento de Inclusão em Pauta",
@@ -1137,20 +1146,20 @@
     },
     {
      "data": "2026-11-19",
-     "tipo": "Despacho 4370",
-     "unidade": "GAB IV - GNSJ",
-     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-     "protocolo": "0509741",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
-     "anexado": false
-    },
-    {
-     "data": "2026-11-19",
      "tipo": "Voto",
      "unidade": "GAB III - LLS",
      "unidade_nome": "Gabinete de Assessoramento à Diretora Ludimila Lima da Silva",
      "protocolo": "0512140",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNwhhLTXjpnvyMmbzuF6rHaEnV6qBorJxjxP_7y4ffyEhwM5kdrY4vvnCGtQP0zlx_VTb6GZBwVWfUjgEnaEZF6",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-19",
+     "tipo": "Despacho 4370",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0509741",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOjwyK6PzllbFoQKOO6sNNWJ02AaqWZqb92omQDtGiU_X8I-qZGcVudsKRXlYuDlEuNSARr5D8XRkztJOMRycQe",
      "anexado": false
     },
     {
@@ -1178,15 +1187,6 @@
      "unidade_nome": "Gabinete de Apoio à Diretoria",
      "protocolo": "0508364",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPTkwe_TTCoCcmmi_-qEFn7gcsTo2iI47XBiGzQoILUc-H-Pj7ehrMhtDwlDCwSV9WXwOHUhtOzn8uqKM3NuMDm",
-     "anexado": false
-    },
-    {
-     "data": "2026-11-11",
-     "tipo": "Requerimento de Inclusão em Pauta",
-     "unidade": "GAB IV - GNSJ",
-     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-     "protocolo": "0503778",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMKeWIEe7Q4Q6xwdNgoavmf13bCQzYx0LF5onQtQz7rgDVXLKMLvxGS_gtHrKwg1r3yT5SZtRIHjLGlIUUfswGf",
      "anexado": false
     }
    ],
@@ -1364,7 +1364,7 @@
      "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Recurso Administrativo interposto contra o Despacho nº 885/2026, que negou provimento ao Pedido de Impugnação ao Edital do Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs – Leilão nº 2/2026-ANEEL, apresentado pelo Instituto Nacional de Energia Limpa – INEL, para, no mérito, negar-lhe provime…"
     }
    ],
-   "n_documentos": 488,
+   "n_documentos": 489,
    "n_andamentos": 610,
    "grupo": "Geração e transmissão"
   },
@@ -1374,7 +1374,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-19T14:00:02.130484-03:00",
+   "lido_em": "2026-11-19T14:29:57.766606-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1597,7 +1597,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-19T14:00:04.806219-03:00",
+   "lido_em": "2026-11-19T14:30:00.342512-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1802,7 +1802,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-19T14:00:08.252258-03:00",
+   "lido_em": "2026-11-19T14:30:03.846235-03:00",
    "documentos": [
     {
      "data": "2026-11-16",
@@ -2079,7 +2079,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-19T14:00:12.492227-03:00",
+   "lido_em": "2026-11-19T14:30:08.059746-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2518,7 +2518,7 @@
    "numero": "48500.906028/2021-89",
    "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": "2026-11-19T14:00:15.045836-03:00",
+   "lido_em": "2026-11-19T14:30:10.581920-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -2910,6 +2910,18 @@
    "ref": "aneel-cp-044-2026",
    "detectado": true,
    "visto_em": "2026-11-19T02:40:26-03:00"
+  },
+  {
+   "uid": "eac39616d877",
+   "dia": "2026-11-19",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Recibo",
+   "detalhe": "GAB IV - GNSJ · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOK8n82W3FmWpx8HNH4M-NRX37zzi-utffb7Ma-Ea5DDPSGzWD8BJpZPp-fu43y4exljrPcT2P-HUys2h_z99IN",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-19T14:49:05-03:00"
   },
   {
    "uid": "bd0fe52738ee",
