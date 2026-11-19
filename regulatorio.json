@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-19T02:40:26-03:00",
+ "gerado_em": "2026-11-19T02:59:31-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T02:40:26-03:00",
+   "lido_em": "2026-11-19T02:59:31-03:00",
    "listagem_pc": "2026-11-18T22:05:42.037103-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T02:40:26-03:00"
+   "lido_em": "2026-11-19T02:59:31-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T02:40:26-03:00"
+   "lido_em": "2026-11-19T02:59:31-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T02:40:26-03:00"
+   "lido_em": "2026-11-19T02:59:31-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T02:40:26-03:00"
+   "lido_em": "2026-11-19T02:59:31-03:00"
   },
   "TCU": {
    "ok": true,
@@ -926,6 +926,21 @@
    ]
   },
   {
+   "id": "aneel-ts-044-2026",
+   "orgao": "ANEEL",
+   "tipo": "Tomada de Subsídios",
+   "sigla": "TS",
+   "numero": "044/2026",
+   "tema": "Aprimoramento da proposta de Norma de Organização sobre Capacitação e Gestão do Conhecimento dos Conselhos de Consumidores",
+   "inicio": null,
+   "fim": "2026-12-21",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "docs": [],
+   "fonte": "DOU"
+  },
+  {
    "id": "aneel-ts-043-2026",
    "orgao": "ANEEL",
    "tipo": "Tomada de Subsídios",
@@ -949,6 +964,21 @@
    "tema": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras",
    "inicio": null,
    "fim": "2027-01-04",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "DOU"
+  },
+  {
+   "id": "aneel-cp-043-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "043/2026",
+   "tema": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio",
+   "inicio": null,
+   "fim": "2027-01-31",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
@@ -2810,6 +2840,32 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "deebf0794eb7",
+   "dia": "2026-11-19",
+   "hora": "02:59",
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "TS 044/2026 aberta",
+   "detalhe": "Aprimoramento da proposta de Norma de Organização sobre Capacitação e Gestão do Conhecimento dos Conselhos de Consumidores · contribuições até 21/12",
+   "link": "https://antigo.aneel.gov.br/tomadas-de-subsidios",
+   "ref": "aneel-ts-044-2026",
+   "detectado": true,
+   "visto_em": "2026-11-19T02:59:31-03:00"
+  },
+  {
+   "uid": "ddcd5fd71e9a",
+   "dia": "2026-11-19",
+   "hora": "02:59",
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 043/2026 aberta",
+   "detalhe": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio · contribuições até 31/01",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-043-2026",
+   "detectado": true,
+   "visto_em": "2026-11-19T02:59:31-03:00"
+  },
   {
    "uid": "e9600acf8955",
    "dia": "2026-11-19",
