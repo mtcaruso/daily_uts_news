@@ -3219,7 +3219,8 @@
       "partic_cp_040_2026": "14/12/2026",
       "partic_cp_041_2026": "27/11/2026",
       "partic_ts_043_2026": "24/12/2026",
-      "partic_cp_042_2026": "04/01/2027"
+      "partic_cp_042_2026": "04/01/2027",
+      "partic_cp_044_2026": "31/01/2027"
     },
     "prazos_listagem": {
       "partic_ts_039_2026": "30/10/2026",
@@ -3409,7 +3410,8 @@
     "extrato-de-termo-aditivo-744384906",
     "resultado-de-julgamento-744585865",
     "aviso-de-consulta-publica-n-42/2026-745053939",
-    "aviso-de-audiencia-publica-n-9/2026-745239856"
+    "aviso-de-audiencia-publica-n-9/2026-745239856",
+    "aviso-de-consulta-publica-n-44/2026-745363404"
   ],
   "sei_parado": "2026-11-18",
   "saude": {
@@ -3436,7 +3438,8 @@
     "partic_cp_041_2026": "obter subsídios para avaliar o Plano de Ação apresentado pela Âmbar Energia Amazonas S.A., relativo aos itens I a III da Subcláusula Segunda da Cláusula Quarta do Terceiro Termo Aditivo ao Contrato de Concessão nº 001/2019-ANEEL",
     "partic_cp_033_2026": "obter subsídios para o aprimoramento do Módulo 3 do Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional - PRODIST para estabelecimento de requisitos de observabilidade, operabilidade e controlabilidade dos Recursos Energéticos Distribuídos (REDs), bem como do Relatório de ",
     "partic_ts_043_2026": "obter contribuições para revisão do Submódulo 2.10 - Requisitos técnicos mínimos para a conexão às instalações de transmissão dos Procedimentos de Rede (Requisitos) e os demais submódulos por ele afetados",
-    "partic_cp_042_2026": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras"
+    "partic_cp_042_2026": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras",
+    "partic_cp_044_2026": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED)"
   },
   "sei_pauta": {
     "21/2026 - RPO|48500032821202567|Prorrogação do prazo de pedido de vista referente ao Recurso": "resultado",
