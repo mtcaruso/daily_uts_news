@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "0de7e1cda678",
+      "e8cf4c22f47a",
       "a1797179cf32",
       "28c11cd9b4bb",
       "69a6478e1ebc",
@@ -615,12 +617,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 608,
-    "documento_count": 487,
+    "andamento_count": 610,
+    "documento_count": 488,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-19T11:32:54.146717-03:00",
+    "last_check_at": "2026-11-19T13:30:42.070152-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "19/11/2026 12:03",
+        "unidade": "GAB III - LLS",
+        "descricao": "Processo recebido na unidade",
+        "hash": "0de7e1cda678"
+      },
+      {
+        "datahora": "19/11/2026 12:03",
+        "unidade": "GAB III - LLS",
+        "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+        "hash": "e8cf4c22f47a"
+      },
       {
         "datahora": "19/11/2026 10:35",
         "unidade": "GAB - APOIO",
@@ -668,18 +682,6 @@
         "unidade": "CPL",
         "descricao": "Processo recebido na unidade",
         "hash": "5bed294d0cb3"
-      },
-      {
-        "datahora": "04/11/2026 10:53",
-        "unidade": "CPL",
-        "descricao": "Processo remetido pela unidade SEL",
-        "hash": "b851b8e69ded"
-      },
-      {
-        "datahora": "29/10/2026 17:16",
-        "unidade": "SEL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "c603dc0a36e5"
       }
     ],
     "last_documentos_top10": [
@@ -729,6 +731,15 @@
         "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
       },
       {
+        "protocolo": "0512140",
+        "tipo": "Voto",
+        "data": "19/11/2026",
+        "data_inclusao": "19/11/2026",
+        "unidade": "GAB III - LLS",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNwhhLTXjpnvyMmbzuF6rHaEnV6qBorJxjxP_7y4ffyEhwM5kdrY4vvnCGtQP0zlx_VTb6GZBwVWfUjgEnaEZF6",
+        "unidade_nome": "Gabinete de Assessoramento à Diretora Ludimila Lima da Silva"
+      },
+      {
         "protocolo": "0507032",
         "tipo": "Extrato da Decisão da Diretoria",
         "data": "17/11/2026",
@@ -762,15 +773,6 @@
         "data_inclusao": "11/11/2026",
         "unidade": "GAB IV - GNSJ",
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMKeWIEe7Q4Q6xwdNgoavmf13bCQzYx0LF5onQtQz7rgDVXLKMLvxGS_gtHrKwg1r3yT5SZtRIHjLGlIUUfswGf",
-        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
-      },
-      {
-        "protocolo": "0504819",
-        "tipo": "Voto",
-        "data": "11/11/2026",
-        "data_inclusao": "11/11/2026",
-        "unidade": "GAB IV - GNSJ",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNoF0wdZzg7ooKp3d1q8fVl4rEUetdrOEo8wBtPLimY8i5WQLlXZjAwUhR3LS34gjSXOnpzcgKYY8k-iF9hWLnY",
         "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
       }
     ],
@@ -1261,7 +1263,8 @@
       "0509485",
       "0508762",
       "0509699",
-      "0509741"
+      "0509741",
+      "0512140"
     ]
   },
   {
@@ -1312,7 +1315,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-19T11:32:59.690872-03:00",
+    "last_check_at": "2026-11-19T13:30:44.674429-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1529,7 +1532,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-19T11:33:02.205035-03:00",
+    "last_check_at": "2026-11-19T13:30:47.411980-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -2010,7 +2013,7 @@
     "documento_count": 146,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-19T11:33:05.597684-03:00",
+    "last_check_at": "2026-11-19T13:30:51.632116-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "19/11/2026 09:15",
@@ -2634,7 +2637,7 @@
     ],
     "andamento_count": 308,
     "documento_count": 238,
-    "last_check_at": "2026-11-19T11:33:12.754435-03:00",
+    "last_check_at": "2026-11-19T13:30:55.667518-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "12/11/2026 10:55",
@@ -3075,7 +3078,7 @@
     ],
     "andamento_count": 9,
     "documento_count": 10,
-    "last_check_at": "2026-11-19T11:33:15.164959-03:00",
+    "last_check_at": "2026-11-19T13:30:58.034244-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 11:24",

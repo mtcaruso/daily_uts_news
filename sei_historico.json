@@ -49,6 +49,15 @@
     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
    },
    {
+    "protocolo": "0512140",
+    "tipo": "Voto",
+    "data": "19/11/2026",
+    "data_inclusao": "19/11/2026",
+    "unidade": "GAB III - LLS",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNwhhLTXjpnvyMmbzuF6rHaEnV6qBorJxjxP_7y4ffyEhwM5kdrY4vvnCGtQP0zlx_VTb6GZBwVWfUjgEnaEZF6",
+    "unidade_nome": "Gabinete de Assessoramento à Diretora Ludimila Lima da Silva"
+   },
+   {
     "protocolo": "0507032",
     "tipo": "Extrato da Decisão da Diretoria",
     "data": "17/11/2026",
@@ -4388,6 +4397,18 @@
    }
   ],
   "andamentos": [
+   {
+    "datahora": "19/11/2026 12:03",
+    "unidade": "GAB III - LLS",
+    "descricao": "Processo recebido na unidade",
+    "hash": "0de7e1cda678"
+   },
+   {
+    "datahora": "19/11/2026 12:03",
+    "unidade": "GAB III - LLS",
+    "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+    "hash": "e8cf4c22f47a"
+   },
    {
     "datahora": "19/11/2026 10:35",
     "unidade": "GAB - APOIO",

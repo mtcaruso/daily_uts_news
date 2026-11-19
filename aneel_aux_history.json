@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T11:32:42.030812-03:00",
+  "last_updated": "2026-11-19T13:30:38.317041-03:00",
   "items": {
     "noticia_2026_aneel-aprova-reajuste-tarifario-da-distribuidora-sulgipe-se": {
       "type": "noticia",
@@ -2730,9 +2730,10 @@
       "title": "PAUTA DO 21º CIRCUITO DELIBERATIVO PÚBLICO ORDINÁRIO DA DIRETORIA DE 2026",
       "date": "24/11/2026",
       "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14839&idAreaNoticia=425",
-      "summary": null,
-      "added_at": "2026-11-19T11:32:22.788129-03:00",
-      "error": "no_body"
+      "summary": "Clique aqui e confira a Pauta assinada do 21ª Circuito Deliberativo Público Ordinária da Diretoria da ANEEL Data do Circuito: 24 de novembro de 2026. Período: 8h às 18h, com encerramento antes disso, desde que todos os Diretores tenham votado.",
+      "added_at": "2026-11-19T13:30:37.315231-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "pauta_14835": {
       "type": "pauta_rd",
@@ -2812,14 +2813,27 @@
       "type": "partic_ts",
       "title": "Tomada Pública nº 044/2026",
       "date": null,
-      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=lIm3z1ry&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4084&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
+      "link": "https://antigo.aneel.gov.br/web/guest/tomadas-de-subsidios?p_auth=f2Tqoltr&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4084&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
       "summary": "obter subsídios para o aprimoramento da proposta de Norma de Organização sobre Capacitação e Gestão do Conhecimento dos Conselhos de Consumidores.",
-      "added_at": "2026-11-19T11:32:41.529195-03:00",
+      "added_at": "2026-11-19T13:30:37.816072-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1,
+      "reresume_attempts": 2,
       "objeto": "obter subsídios para o aprimoramento da proposta de Norma de Organização sobre Capacitação e Gestão do Conhecimento dos Conselhos de Consumidores.",
+      "deadline": "21/12/2026",
+      "deadline_source": "detalhe",
+      "start_date": "19/11/2026",
       "fonte": "ANEEL",
       "first_seen": "2026-11-19T11:32:41.529241-03:00"
+    },
+    "noticia_2026_congresso-nacional-celebra-30-anos-da-aneel-e-destaca-transformacao-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "Congresso Nacional celebra 30 anos da ANEEL e destaca transformação do setor elétrico",
+      "date": "19/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/congresso-nacional-celebra-30-anos-da-aneel-e-destaca-transformacao-do-setor-eletrico",
+      "summary": "Congresso Nacional celebra 30 anos da ANEEL e destaca transformação do setor elétrico Sessão solene reconheceu o papel da Agência na expansão do acesso à energia, na melhoria dos serviços e na defesa dos consumidores O Congresso Nacional homenageou, ontem (18/11), os 30 anos de criação da Agência Nacional de Energia Elétrica (ANEEL). A sessão solene reuniu parlamentares, dirigentes, ex-diretores…",
+      "added_at": "2026-11-19T13:30:20.985074-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
