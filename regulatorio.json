@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-18T23:53:46-03:00",
+ "gerado_em": "2026-11-19T00:12:48-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-18T23:53:46-03:00",
+   "lido_em": "2026-11-19T00:12:48-03:00",
    "listagem_pc": "2026-11-18T22:05:42.037103-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-18T23:53:46-03:00"
+   "lido_em": "2026-11-19T00:12:48-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-18T23:53:46-03:00"
+   "lido_em": "2026-11-19T00:12:48-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-18T23:53:46-03:00"
+   "lido_em": "2026-11-19T00:12:48-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-18T23:53:46-03:00"
+   "lido_em": "2026-11-19T00:12:48-03:00"
   },
   "TCU": {
    "ok": true,
@@ -39,21 +39,6 @@
   }
  },
  "consultas": [
-  {
-   "id": "aneel-cp-031-2026",
-   "orgao": "ANEEL",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "031/2026",
-   "tema": "Aprimoramento do Indicador de Atendimento de Mercado (IAM) e sua regulamentação. Contribuições em Word, usando modelo específico, são solicitadas.",
-   "inicio": "2026-09-03",
-   "fim": "2026-10-19",
-   "situacao": "encerrada",
-   "setor": "energia",
-   "link": "https://antigo.aneel.gov.br/consultas-publicas",
-   "docs": [],
-   "fonte": "listagem"
-  },
   {
    "id": "aneel-cp-032-2026",
    "orgao": "ANEEL",
