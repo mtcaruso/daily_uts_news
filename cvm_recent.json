@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-19T10:41:13.058223-03:00",
+  "last_updated": "2026-11-19T11:03:37.340465-03:00",
   "items": [
+    {
+      "cnpj_short": "01431-1",
+      "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+      "categoria": "Relatório Proventos",
+      "tipo": "-",
+      "especie": "-",
+      "data_referencia": "20261119 11/2026",
+      "data_entrega": "20261119 19/11/2026 10:52",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "",
+      "protocolo": "1591354",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1591354",
+      "empresa_label": "Copel",
+      "codigo_cvm": "14311",
+      "first_seen": "2026-11-19T11:03:26.344827"
+    },
     {
       "cnpj_short": "02680-8",
       "empresa_nome": "COPEL DISTRIBUIÇÃO S A",
