@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-19T10:19:51-03:00",
+ "gerado_em": "2026-11-19T10:58:37-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T10:19:51-03:00",
-   "listagem_pc": "2026-11-19T10:03:55.238817-03:00"
+   "lido_em": "2026-11-19T10:58:37-03:00",
+   "listagem_pc": "2026-11-19T10:39:36.538713-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T10:19:51-03:00"
+   "lido_em": "2026-11-19T10:58:37-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T10:19:51-03:00"
+   "lido_em": "2026-11-19T10:58:37-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T10:19:51-03:00"
+   "lido_em": "2026-11-19T10:58:37-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -26,11 +26,11 @@
   },
   "SEI": {
    "ok": true,
-   "lido_em": "2026-11-19T10:04:32.079096-03:00"
+   "lido_em": "2026-11-19T10:40:04.951722-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T10:19:51-03:00"
+   "lido_em": "2026-11-19T10:58:37-03:00"
   },
   "TCU": {
    "ok": true,
@@ -741,6 +741,21 @@
    "fonte": "listagem"
   },
   {
+   "id": "aneel-ap-009-2026",
+   "orgao": "ANEEL",
+   "tipo": "Audiência Pública",
+   "sigla": "AP",
+   "numero": "009/2026",
+   "tema": "Receber contribuições sobre a proposta do Sexto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica - 6º PAR Procel Atenção: a Audiência Pública nº 009/2026 acontecerá online. Clique no link abaixo para realizar sua inscrição e acessar a sala do Microsoft Teams.",
+   "inicio": "2026-11-26",
+   "fim": "2026-11-26",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/audiencias-publicas",
+   "docs": [],
+   "fonte": "listagem"
+  },
+  {
    "id": "aneel-cp-041-2026",
    "orgao": "ANEEL",
    "tipo": "Consulta Pública",
@@ -960,14 +975,14 @@
    "tipo": "Consulta Pública",
    "sigla": "CP",
    "numero": "042/2026",
-   "tema": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras",
-   "inicio": null,
+   "tema": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras.",
+   "inicio": "2026-11-19",
    "fim": "2027-01-04",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
-   "fonte": "DOU"
+   "fonte": "listagem"
   },
   {
    "id": "aneel-cp-043-2026",
@@ -975,14 +990,14 @@
    "tipo": "Consulta Pública",
    "sigla": "CP",
    "numero": "043/2026",
-   "tema": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio",
-   "inicio": null,
+   "tema": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio.",
+   "inicio": "2026-11-19",
    "fim": "2027-01-31",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
-   "fonte": "DOU"
+   "fonte": "listagem"
   },
   {
    "id": "aneel-cp-044-2026",
@@ -990,14 +1005,14 @@
    "tipo": "Consulta Pública",
    "sigla": "CP",
    "numero": "044/2026",
-   "tema": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED)",
-   "inicio": null,
+   "tema": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED).",
+   "inicio": "2026-11-19",
    "fim": "2027-01-31",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
-   "fonte": "DOU"
+   "fonte": "listagem"
   },
   {
    "id": "arsae-cp-72",
@@ -1077,8 +1092,44 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-19T10:04:01.921472-03:00",
+   "lido_em": "2026-11-19T10:39:40.738114-03:00",
    "documentos": [
+    {
+     "data": "2026-11-19",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0508756",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPQO5hN41NhpzbJ1g-SWfwivC_Woplih62ea8psuuG2B0fl5RBPTq8rF43XzNVkoVCdgOgZKnI6J2MCOmnEDCEM",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-19",
+     "tipo": "Voto",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0509485",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMchlRJDm1MW7dDiugDSQ2mq413fy1rjKBptN8OR9ApdnfaNEdw1753gptGDxw9WeSu-FhTo_6ebN4kHhpWOlaR",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-19",
+     "tipo": "Requerimento de Inclusão em Pauta",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0508762",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOCTQ-oEvNWVEA6ckS1uiTN6bXyXMzI6snOhjONu3M4dOJ6DUO31QTAR9n79KrVtbJE5b8ZEf81f-rJHJF-Wv2C",
+     "anexado": false
+    },
+    {
+     "data": "2026-11-19",
+     "tipo": "Voto",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0509699",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP0lXMiAs14Nk76L4ss3moZlk_k3ZCS2OyR9LPGjFxC90mmTfq1A0ZRmpSEDdxOIH5NckZQv9vJHrX-oKt1evG1",
+     "anexado": false
+    },
     {
      "data": "2026-11-17",
      "tipo": "Extrato da Decisão da Diretoria",
@@ -1132,45 +1183,17 @@
      "protocolo": "0504820",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzN2WIfvDfYv5wu9LEUjYqJLCNLsn6fxHaqtUBUxR7XT2YhFpkLNlgrhF7pQBv5MJ29-Ax7EVVmzXbxd28tioit5",
      "anexado": false
-    },
-    {
-     "data": "2026-11-09",
-     "tipo": "Memória",
-     "unidade": "GAB - APOIO",
-     "unidade_nome": "Gabinete de Apoio à Diretoria",
-     "protocolo": "0503095",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOEdOvo8dhMwRN2Mm-iS1GSm5z3Xo8oWTgXuQMrPJ8z5OpUWj0XMZ3vBIF74_ih7oI1SHnhsmRHsnyphJCxMShP",
-     "anexado": false
-    },
-    {
-     "data": "2026-10-29",
-     "tipo": "Extrato da Decisão da Diretoria",
-     "unidade": "SGE - PUBLICAÇÃO",
-     "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)",
-     "protocolo": "0492409",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNJUToWQtm1gE9UnLWAD4wuFO98hBGLtd5DDBnS-QUIP0G7tmj-mSqjESWLX3zaYZ2jDpoeHPTWx-fzNQhducs1",
-     "anexado": false
-    },
-    {
-     "data": "2026-10-28",
-     "tipo": "E-mail",
-     "unidade": "GAB IV - GNSJ",
-     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-     "protocolo": "0495554",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPDc-UWlUU3I3OIgmjGt97DeGoW2EcR0POMK292Oggg8ecezQUX05qaTFKbdbigV50NFq-e3UnkQIhbGxFCDYOE",
-     "anexado": false
-    },
-    {
-     "data": "2026-10-22",
-     "tipo": "Requerimento de Inclusão em Pauta",
-     "unidade": "GAB IV - GNSJ",
-     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-     "protocolo": "0487272",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMvkhZvLQSzMadnUf5Ul1k8qTwmrtGOoaV-WOLqHeDVlVdJp4imnicYdCkbvnR0lbRNLrKk0kV2aBxujRNQ_zui",
-     "anexado": false
     }
    ],
    "andamentos": [
+    {
+     "data": "2026-11-19",
+     "hora": "10:35",
+     "unidade": "GAB - APOIO",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "a1797179cf32",
+     "rotina": true
+    },
     {
      "data": "2026-11-19",
      "hora": "08:55",
@@ -1241,14 +1264,6 @@
      "unidade": "SEL",
      "descricao": "Processo recebido na unidade",
      "hash": "c603dc0a36e5",
-     "rotina": true
-    },
-    {
-     "data": "2026-10-29",
-     "hora": "17:08",
-     "unidade": "SEL",
-     "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
-     "hash": "491e2776d229",
      "rotina": true
     }
    ],
@@ -1344,8 +1359,8 @@
      "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Recurso Administrativo interposto contra o Despacho nº 885/2026, que negou provimento ao Pedido de Impugnação ao Edital do Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs – Leilão nº 2/2026-ANEEL, apresentado pelo Instituto Nacional de Energia Limpa – INEL, para, no mérito, negar-lhe provime…"
     }
    ],
-   "n_documentos": 482,
-   "n_andamentos": 607,
+   "n_documentos": 486,
+   "n_andamentos": 608,
    "grupo": "Geração e transmissão"
   },
   {
@@ -1354,7 +1369,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-19T10:04:07.403805-03:00",
+   "lido_em": "2026-11-19T10:39:46.233547-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1577,7 +1592,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-19T10:04:12.991992-03:00",
+   "lido_em": "2026-11-19T10:39:51.860836-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1782,7 +1797,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-19T10:04:19.429425-03:00",
+   "lido_em": "2026-11-19T10:39:55.293443-03:00",
    "documentos": [
     {
      "data": "2026-11-16",
@@ -2059,7 +2074,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-19T10:04:26.643840-03:00",
+   "lido_em": "2026-11-19T10:39:59.482703-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2498,7 +2513,7 @@
    "numero": "48500.906028/2021-89",
    "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": "2026-11-19T10:04:32.079096-03:00",
+   "lido_em": "2026-11-19T10:40:04.951722-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -2840,6 +2855,19 @@
  "pauta_aberturas": [],
  "eventos": [
   {
+   "uid": "8feaed2dd29f",
+   "dia": "2026-11-19",
+   "hora": "10:58",
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "AP 009/2026 marcada",
+   "detalhe": "Receber contribuições sobre a proposta do Sexto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica - 6º PAR Procel Atenção: a Audiência Pública nº 009/2026 acontecerá online. Clique no link abaixo para realizar sua inscrição e acessar a sala do Microsoft Teams. · contribuições até 26/11",
+   "link": "https://antigo.aneel.gov.br/audiencias-publicas",
+   "ref": "aneel-ap-009-2026",
+   "detectado": true,
+   "visto_em": "2026-11-19T10:58:37-03:00"
+  },
+  {
    "uid": "deebf0794eb7",
    "dia": "2026-11-19",
    "hora": "02:59",
@@ -2877,6 +2905,18 @@
    "ref": "aneel-cp-044-2026",
    "detectado": true,
    "visto_em": "2026-11-19T02:40:26-03:00"
+  },
+  {
+   "uid": "f12489bbfa91",
+   "dia": "2026-11-19",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): 4 documentos novos",
+   "detalhe": "Requerimento de Inclusão em Pauta (GAB IV - GNSJ) · Voto (GAB IV - GNSJ) · Requerimento de Inclusão em Pauta (GAB IV - GNSJ) · Voto (GAB IV - GNSJ)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-19T10:58:37-03:00"
   },
   {
    "uid": "080e9e4908a2",
