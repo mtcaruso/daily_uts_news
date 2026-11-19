@@ -6,6 +6,11 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "28c11cd9b4bb",
+      "69a6478e1ebc",
+      "c94aaac3866c",
+      "8bd410a80fb1",
+      "aedd54f92db3",
       "062d98d9fd2b",
       "5bed294d0cb3",
       "b851b8e69ded",
@@ -609,12 +614,42 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 602,
-    "documento_count": 476,
+    "andamento_count": 607,
+    "documento_count": 482,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-11T15:00:18.647687-03:00",
+    "last_check_at": "2026-11-19T10:04:01.921472-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "19/11/2026 08:55",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "28c11cd9b4bb"
+      },
+      {
+        "datahora": "17/11/2026 20:52",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "69a6478e1ebc"
+      },
+      {
+        "datahora": "16/11/2026 17:01",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "c94aaac3866c"
+      },
+      {
+        "datahora": "16/11/2026 09:53",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "8bd410a80fb1"
+      },
+      {
+        "datahora": "13/11/2026 11:14",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "aedd54f92db3"
+      },
       {
         "datahora": "09/11/2026 15:57",
         "unidade": "GAB - APOIO",
@@ -644,39 +679,63 @@
         "unidade": "SEL",
         "descricao": "Processo remetido pela unidade SGE - PUBLICAÇÃO",
         "hash": "491e2776d229"
-      },
-      {
-        "datahora": "20/10/2026 11:02",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo recebido na unidade",
-        "hash": "eec833395d9e"
-      },
-      {
-        "datahora": "20/10/2026 10:28",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
-        "hash": "81f81466bec9"
-      },
-      {
-        "datahora": "19/10/2026 16:46",
-        "unidade": "GAB - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "524dd1659877"
-      },
-      {
-        "datahora": "14/10/2026 10:30",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "79accdc9639d"
-      },
-      {
-        "datahora": "09/10/2026 16:55",
-        "unidade": "GAB - APOIO",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "3728cd9e62ac"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0507032",
+        "tipo": "Extrato da Decisão da Diretoria",
+        "data": "17/11/2026",
+        "data_inclusao": "17/11/2026",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPBRhd4jf_gK6-ztMFVrhd9f7-8W7uspm8otQB8fNzUcM4bmhGhd70bN0u2bMj4qOu-Mkog6z10gFl6YmM91d-H",
+        "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)"
+      },
+      {
+        "protocolo": "0508205",
+        "tipo": "E-mail",
+        "data": "16/11/2026",
+        "data_inclusao": "16/11/2026",
+        "unidade": "GAB IV - GNSJ",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNyWm-4Sd-hIc5spw1-Lv83qlB4t4hnSs12EaEv95KlLiUho_SICk7wUAQMKBC4UceqqEQo8n1KRdadFgi1hUay",
+        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+      },
+      {
+        "protocolo": "0508364",
+        "tipo": "Memória",
+        "data": "16/11/2026",
+        "data_inclusao": "16/11/2026",
+        "unidade": "GAB - APOIO",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPTkwe_TTCoCcmmi_-qEFn7gcsTo2iI47XBiGzQoILUc-H-Pj7ehrMhtDwlDCwSV9WXwOHUhtOzn8uqKM3NuMDm",
+        "unidade_nome": "Gabinete de Apoio à Diretoria"
+      },
+      {
+        "protocolo": "0503778",
+        "tipo": "Requerimento de Inclusão em Pauta",
+        "data": "11/11/2026",
+        "data_inclusao": "11/11/2026",
+        "unidade": "GAB IV - GNSJ",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMKeWIEe7Q4Q6xwdNgoavmf13bCQzYx0LF5onQtQz7rgDVXLKMLvxGS_gtHrKwg1r3yT5SZtRIHjLGlIUUfswGf",
+        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+      },
+      {
+        "protocolo": "0504819",
+        "tipo": "Voto",
+        "data": "11/11/2026",
+        "data_inclusao": "11/11/2026",
+        "unidade": "GAB IV - GNSJ",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNoF0wdZzg7ooKp3d1q8fVl4rEUetdrOEo8wBtPLimY8i5WQLlXZjAwUhR3LS34gjSXOnpzcgKYY8k-iF9hWLnY",
+        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+      },
+      {
+        "protocolo": "0504820",
+        "tipo": "Despacho 4294",
+        "data": "11/11/2026",
+        "data_inclusao": "11/11/2026",
+        "unidade": "GAB IV - GNSJ",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzN2WIfvDfYv5wu9LEUjYqJLCNLsn6fxHaqtUBUxR7XT2YhFpkLNlgrhF7pQBv5MJ29-Ax7EVVmzXbxd28tioit5",
+        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
+      },
       {
         "protocolo": "0503095",
         "tipo": "Memória",
@@ -712,60 +771,6 @@
         "unidade": "GAB IV - GNSJ",
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMvkhZvLQSzMadnUf5Ul1k8qTwmrtGOoaV-WOLqHeDVlVdJp4imnicYdCkbvnR0lbRNLrKk0kV2aBxujRNQ_zui",
         "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
-      },
-      {
-        "protocolo": "0490114",
-        "tipo": "Voto",
-        "data": "22/10/2026",
-        "data_inclusao": "22/10/2026",
-        "unidade": "GAB IV - GNSJ",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPqohoACo_X--DZtdzRKpyEfROZa7efOWQmi2ZBx8JPJFNz5p9KQy3K_0EKRRLoitK4xKHNG-gXdV6fXsIvumWs",
-        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior"
-      },
-      {
-        "protocolo": "0480908",
-        "tipo": "Memória",
-        "data": "14/10/2026",
-        "data_inclusao": "14/10/2026",
-        "unidade": "GAB - APOIO",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNAKH-FU0fb6TH0Iit9ongcZVPeqIHtSWNtDkNiELFGtpjzUD4-OD9-pVs52-BT028TgzjiMeBC2LLGpdlbWhnl",
-        "unidade_nome": "Gabinete de Apoio à Diretoria"
-      },
-      {
-        "protocolo": "0478332",
-        "tipo": "Memória",
-        "data": "08/10/2026",
-        "data_inclusao": "09/10/2026",
-        "unidade": "GAB - APOIO",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWm2-Uj3bLuhf0MI5q9cyQOXe270pf3Yv6DkdibaeR6XkwD7vWIc7CSKDtfGkhxWpRroYYe_OKuHQZEd89c8tn",
-        "unidade_nome": "Gabinete de Apoio à Diretoria"
-      },
-      {
-        "protocolo": "48500.028241/2026-56",
-        "tipo": "Leilão de Geração: Reserva de Capacidade",
-        "data": "25/09/2026",
-        "data_inclusao": "25/09/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHp7u5P7p9AlY7OH5LCfoBVNTqM4aDBrmD3TVe0NP13bwA,,",
-        "unidade_nome": "Protocolo-Geral"
-      },
-      {
-        "protocolo": "48500.027840/2026-52",
-        "tipo": "Leilão de Geração: Reserva de Capacidade",
-        "data": "22/09/2026",
-        "data_inclusao": "22/09/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqHZQ0MuqnSGjVcaFg9mAKvteKXNCy7BFk4wzeXT0CnfA,,",
-        "unidade_nome": "Protocolo-Geral"
-      },
-      {
-        "protocolo": "0461919",
-        "tipo": "Termo de Cancelamento de Documento",
-        "data": "21/09/2026",
-        "data_inclusao": "21/09/2026",
-        "unidade": "GAB - APOIO",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNighp2h93lNqKZaq6oPaeJZGowSsnCKKf38NIvSCyrKBPabLoPQLqQMTFQCoTn4T0I2CUMHCOZA_zW7FDWUwWR",
-        "unidade_nome": "Gabinete de Apoio à Diretoria"
       }
     ],
     "documentos_protocolos": [
@@ -1244,7 +1249,13 @@
       "0490114",
       "0492409",
       "0495554",
-      "0503095"
+      "0503095",
+      "0503778",
+      "0504819",
+      "0504820",
+      "0507032",
+      "0508205",
+      "0508364"
     ]
   },
   {
@@ -1295,7 +1306,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T15:00:21.109893-03:00",
+    "last_check_at": "2026-11-19T10:04:07.403805-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1512,7 +1523,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-11T15:00:23.572837-03:00",
+    "last_check_at": "2026-11-19T10:04:12.991992-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1708,6 +1719,14 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "f957fa2fe27f",
+      "c3f0cd6e4679",
+      "b53b5ca86072",
+      "78c979a03042",
+      "d8305c3ff1c2",
+      "60070b3842af",
+      "a9217683f02a",
+      "f731b4f2f1db",
       "8fd0f59b8fa7",
       "6e3998d1c792",
       "4d58e52ce028",
@@ -1981,12 +2000,60 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 272,
-    "documento_count": 142,
+    "andamento_count": 280,
+    "documento_count": 146,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-11T15:00:26.853995-03:00",
+    "last_check_at": "2026-11-19T10:04:19.429425-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "19/11/2026 09:15",
+        "unidade": "GAB - APOIO",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "f957fa2fe27f"
+      },
+      {
+        "datahora": "16/11/2026 12:18",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "c3f0cd6e4679"
+      },
+      {
+        "datahora": "16/11/2026 12:18",
+        "unidade": "GAB - APOIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "b53b5ca86072"
+      },
+      {
+        "datahora": "16/11/2026 11:38",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo recebido na unidade",
+        "hash": "78c979a03042"
+      },
+      {
+        "datahora": "16/11/2026 11:31",
+        "unidade": "GAB - APOIO",
+        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+        "hash": "d8305c3ff1c2"
+      },
+      {
+        "datahora": "16/11/2026 11:31",
+        "unidade": "GAB IV - GNSJ",
+        "descricao": "Processo remetido pela unidade SGE -SORTEIO",
+        "hash": "60070b3842af"
+      },
+      {
+        "datahora": "12/11/2026 17:01",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "a9217683f02a"
+      },
+      {
+        "datahora": "12/11/2026 16:58",
+        "unidade": "SGE -SORTEIO",
+        "descricao": "Processo remetido pela unidade STD",
+        "hash": "f731b4f2f1db"
+      },
       {
         "datahora": "19/10/2026 15:45",
         "unidade": "SCE",
@@ -1998,57 +2065,45 @@
         "unidade": "STE",
         "descricao": "Conclusão do processo na unidade",
         "hash": "6e3998d1c792"
-      },
-      {
-        "datahora": "18/08/2026 10:14",
-        "unidade": "GAB III - LLS",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "4d58e52ce028"
-      },
-      {
-        "datahora": "18/08/2026 10:13",
-        "unidade": "GAB III - LLS",
-        "descricao": "Processo recebido na unidade",
-        "hash": "693a62a767e3"
-      },
-      {
-        "datahora": "18/08/2026 09:17",
-        "unidade": "GAB III - LLS",
-        "descricao": "Processo remetido pela unidade GAB III - FLMFS",
-        "hash": "34d07d555f25"
-      },
-      {
-        "datahora": "07/08/2026 17:05",
-        "unidade": "STR",
-        "descricao": "Processo recebido na unidade",
-        "hash": "fcf729e2c855"
-      },
-      {
-        "datahora": "06/08/2026 10:21",
-        "unidade": "GDG",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "aa6ac5989664"
-      },
-      {
-        "datahora": "05/08/2026 11:37",
-        "unidade": "GDG",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "8fe4e68ac65a"
-      },
-      {
-        "datahora": "30/06/2026 12:04",
-        "unidade": "SFT",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "fe0b6d31649b"
-      },
-      {
-        "datahora": "30/06/2026 09:00",
-        "unidade": "SGI",
-        "descricao": "Processo recebido na unidade",
-        "hash": "5a80b9cb33d1"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0507537",
+        "tipo": "Despacho de Distribuição de Processo",
+        "data": "16/11/2026",
+        "data_inclusao": "16/11/2026",
+        "unidade": "SGE -SORTEIO",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzP5yW4rcRGcITzhoOhyNXGpOjDjIHe824TvuLQnnKTUfOIRTV_AcIDUZXNLnepxPgeXzlObIwrY1tSbMWYuEMZj",
+        "unidade_nome": "(Somente encaminhamento de processos para sorteio de Diretor-Relator)"
+      },
+      {
+        "protocolo": "0506455",
+        "tipo": "E-mail",
+        "data": "13/11/2026",
+        "data_inclusao": "13/11/2026",
+        "unidade": "SGE -SORTEIO",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOKNyT5Hlrg0muWpJkIrH459_MUma9X7cA7GYKJOVfLyE7ksFyACOoNV4PI28gSU6k3qSmwc9TVjPIPBA_DOm-i",
+        "unidade_nome": "(Somente encaminhamento de processos para sorteio de Diretor-Relator)"
+      },
+      {
+        "protocolo": "0506959",
+        "tipo": "Relatório",
+        "data": "13/11/2026",
+        "data_inclusao": "13/11/2026",
+        "unidade": "SGM",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOP8YheBXm_1sybkqdq7mMn3FejfEvQCLphPvCJVwZDIz2DZE83CC2DTADLVM1IDq7m94M54nDJVwrV2dLAKfGB",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Geração e Do Mercado de Energia Elétrica"
+      },
+      {
+        "protocolo": "0506024",
+        "tipo": "Requerimento de Distribuição de Processo",
+        "data": "12/11/2026",
+        "data_inclusao": "12/11/2026",
+        "unidade": "STD",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNRrzjilJKOggabk7GQ2Qqo7X0VjwC-aqDlKvGSDrwZ6XxghDbdEM5UMyT6CAlfuXntOX3nMbnypKygR8hBplZF",
+        "unidade_nome": "Superintendência de Regulação Dos Serviços de Transmissão e Distribuição de Energia Elétrica"
+      },
       {
         "protocolo": "0491149",
         "tipo": "Memorando 369",
@@ -2102,42 +2157,6 @@
         "unidade": "SGE - PUBLICAÇÃO",
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPUSvW1QVDJZ8kXQlRZr8w3ll2X8zgLw2hHGWDC39YKXwrDV9dOeKdrGGFalBuRQWKrdvpeFEPmQhdZoSJyNUU0",
         "unidade_nome": "(Somente encaminhamento de processos para publicação de atos oficiais)"
-      },
-      {
-        "protocolo": "0388376",
-        "tipo": "Resolução Normativa 1161",
-        "data": "23/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMjFNLaNAA6C_RcUrzs7sNUhHNdSqyK8vWV47hM-lHxZLE4x8YIb0F5Mo_ZlJe8S-N5S2WT5GAYcUuc8KmmrdyE",
-        "unidade_nome": "Diretoria - Willamy Moreira Frota"
-      },
-      {
-        "protocolo": "0388484",
-        "tipo": "Resolução Normativa 1162",
-        "data": "23/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPRUvtVdbBJn-Kziod0n50oM-Woj87bqXmSyyCFelfHVan_j0wMMCEYNIAwiWNQEvGL_U0TPJmu_Uul-Lua3pag",
-        "unidade_nome": "Diretoria - Willamy Moreira Frota"
-      },
-      {
-        "protocolo": "0388970",
-        "tipo": "Anexo I módulo 1",
-        "data": "02/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMjB21UutrAmrs-KV8Jucer2i5eHSaUC4L0k-c1h_apCQQMWPeFw61fsoqWvAzAwREf1QjUKQ_F3DNQewTUwKfe",
-        "unidade_nome": "Diretoria - Willamy Moreira Frota"
-      },
-      {
-        "protocolo": "0388976",
-        "tipo": "Anexo II Modulo 2",
-        "data": "02/06/2026",
-        "data_inclusao": "23/06/2026",
-        "unidade": "DIR - WMF",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPwnLiL6yGRYL6mmIJsYXzwOFdaCjXLn3Zr-84nHnyOZEtter4ccEgOHpUkp3mR8uVPWPypwUTh5lN9ktN9sqlx",
-        "unidade_nome": "Diretoria - Willamy Moreira Frota"
       }
     ],
     "documentos_protocolos": [
@@ -2282,7 +2301,11 @@
       "0422323",
       "0423039",
       "48500.029124/2026-18",
-      "0491149"
+      "0491149",
+      "0506455",
+      "0506024",
+      "0506959",
+      "0507537"
     ]
   },
   {
@@ -2294,6 +2317,7 @@
     "processo": "48500.900375/2019-83",
     "tipo": "Participação Pública: Consulta Pública",
     "andamentos_seen": [
+      "a70e34f0c70b",
       "275b2903e2ab",
       "0563bff7ccff",
       "f5798e4bf250",
@@ -2602,10 +2626,16 @@
       "9f629a4b2ea6",
       "8c900c294043"
     ],
-    "andamento_count": 307,
+    "andamento_count": 308,
     "documento_count": 238,
-    "last_check_at": "2026-11-11T15:00:30.818578-03:00",
+    "last_check_at": "2026-11-19T10:04:26.643840-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "12/11/2026 10:55",
+        "unidade": "GAB I - SAFN",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "a70e34f0c70b"
+      },
       {
         "datahora": "26/10/2026 15:18",
         "unidade": "GAB II - AMAC",
@@ -2659,12 +2689,6 @@
         "unidade": "SGE - PUBLICAÇÃO",
         "descricao": "Processo recebido na unidade",
         "hash": "cd6459b1fd28"
-      },
-      {
-        "datahora": "07/10/2026 14:51",
-        "unidade": "GAB II - AMAC",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "440b90e92a9e"
       }
     ],
     "last_documentos_top10": [
@@ -3045,7 +3069,7 @@
     ],
     "andamento_count": 9,
     "documento_count": 10,
-    "last_check_at": "2026-11-11T15:00:33.239698-03:00",
+    "last_check_at": "2026-11-19T10:04:32.079096-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 11:24",
