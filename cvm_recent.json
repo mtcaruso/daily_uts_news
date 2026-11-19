@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-19T11:03:37.340465-03:00",
+  "last_updated": "2026-11-19T11:34:11.450073-03:00",
   "items": [
+    {
+      "cnpj_short": "02149-0",
+      "empresa_nome": "ALUPAR INVESTIMENTO S/A",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Adicionais",
+      "especie": "Versão em inglês das informações contábeis intermediárias em 30 de setembro de 2026Demonstrações Financeiras em Padrões Internacionais",
+      "data_referencia": "20260930 30/09/2026",
+      "data_entrega": "20261119 19/11/2026 11:06",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Versão em inglês das informações contábeis intermediárias em 30 de setembro de 2026",
+      "protocolo": "1591361",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1591361",
+      "empresa_label": "Alupar",
+      "codigo_cvm": "21490",
+      "first_seen": "2026-11-19T11:34:08.558749"
+    },
     {
       "cnpj_short": "01431-1",
       "empresa_nome": "CIA PARANAENSE DE ENERGIA - COPEL",
