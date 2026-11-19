@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-19T16:01:56-03:00",
+ "gerado_em": "2026-11-19T16:16:56-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T16:01:56-03:00",
+   "lido_em": "2026-11-19T16:16:56-03:00",
    "listagem_pc": "2026-11-19T15:58:24.434600-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T16:01:56-03:00"
+   "lido_em": "2026-11-19T16:16:56-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T16:01:56-03:00"
+   "lido_em": "2026-11-19T16:16:56-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T16:01:56-03:00"
+   "lido_em": "2026-11-19T16:16:56-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -30,11 +30,11 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T16:01:56-03:00"
+   "lido_em": "2026-11-19T16:16:56-03:00"
   },
   "TCU": {
    "ok": true,
-   "lido_em": "2026-11-18T23:45:12-03:00"
+   "lido_em": "2026-11-19T16:04:12-03:00"
   }
  },
  "consultas": [
@@ -2824,7 +2824,7 @@
     "tipo": "Relatório de acompanhamento",
     "natureza": "CONTROLE EXTERNO"
    },
-   "pauta_lida_em": "2026-11-18T23:45:12-03:00"
+   "pauta_lida_em": "2026-11-19T16:04:12-03:00"
   },
   {
    "id": "programa-universalizasp",
