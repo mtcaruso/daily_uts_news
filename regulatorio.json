@@ -1,22 +1,22 @@
 {
- "gerado_em": "2026-11-19T02:21:17-03:00",
+ "gerado_em": "2026-11-19T02:40:26-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T02:21:17-03:00",
+   "lido_em": "2026-11-19T02:40:26-03:00",
    "listagem_pc": "2026-11-18T22:05:42.037103-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-19T02:21:17-03:00"
+   "lido_em": "2026-11-19T02:40:26-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T02:21:17-03:00"
+   "lido_em": "2026-11-19T02:40:26-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T02:21:17-03:00"
+   "lido_em": "2026-11-19T02:40:26-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-19T02:21:17-03:00"
+   "lido_em": "2026-11-19T02:40:26-03:00"
   },
   "TCU": {
    "ok": true,
@@ -949,6 +949,21 @@
    "tema": "receber contribuições sobre a Análise de Impacto Regulatório e a minuta de Resolução Normativa relativas ao tratamento do excesso de geração da Micro e Minigeração Distribuída apurado na contabilização da carga das distribuidoras",
    "inicio": null,
    "fim": "2027-01-04",
+   "situacao": "aberta",
+   "setor": "energia",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "docs": [],
+   "fonte": "DOU"
+  },
+  {
+   "id": "aneel-cp-044-2026",
+   "orgao": "ANEEL",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "044/2026",
+   "tema": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED)",
+   "inicio": null,
+   "fim": "2027-01-31",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
@@ -2795,6 +2810,19 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "e9600acf8955",
+   "dia": "2026-11-19",
+   "hora": "02:40",
+   "orgao": "ANEEL",
+   "tipo": "aberta",
+   "titulo": "CP 044/2026 aberta",
+   "detalhe": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED) · contribuições até 31/01",
+   "link": "https://antigo.aneel.gov.br/consultas-publicas",
+   "ref": "aneel-cp-044-2026",
+   "detectado": true,
+   "visto_em": "2026-11-19T02:40:26-03:00"
+  },
   {
    "uid": "080e9e4908a2",
    "dia": "2026-11-18",
