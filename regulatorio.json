@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-19T23:28:14-03:00",
+ "gerado_em": "2026-11-20T00:02:18-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T23:28:14-03:00",
+   "lido_em": "2026-11-20T00:02:18-03:00",
    "listagem_pc": "2026-11-19T22:12:04.676838-03:00"
   },
   "MME": {
@@ -14,11 +14,11 @@
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T23:28:14-03:00"
+   "lido_em": "2026-11-20T00:02:18-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T23:28:14-03:00"
+   "lido_em": "2026-11-20T00:02:18-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -484,7 +484,7 @@
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
    "inicio": null,
    "fim": "2026-11-19",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "saneamento",
    "audiencia": "19/11 10h00",
    "publicado": "2026-10-23",
@@ -526,7 +526,7 @@
    "tema": "Regulamenta, no âmbito dos serviços públicos de abastecimento de água regulados pela ARSESP, a Norma de Referência ANA nº 15/2025, aprovada pela Resolução ANA nº 275, de 18 de dezembro de 2025.",
    "inicio": "2026-10-13",
    "fim": "2026-11-19",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "saneamento",
    "audiencia": null,
    "publicado": "2026-10-13",
