@@ -1,22 +1,24 @@
 {
- "gerado_em": "2026-11-19T21:08:53-03:00",
+ "gerado_em": "2026-11-19T21:26:16-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-19T21:08:53-03:00",
+   "lido_em": "2026-11-19T21:26:16-03:00",
    "listagem_pc": "2026-11-19T15:58:24.434600-03:00"
   },
   "MME": {
-   "ok": true,
-   "lido_em": "2026-11-19T21:08:53-03:00"
+   "ok": false,
+   "erro": "HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=400&sortBy=id&sortDirection=d",
+   "lido_em": "2026-11-19T21:08:53-03:00",
+   "desde": "2026-11-19T21:26:16-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-19T21:08:53-03:00"
+   "lido_em": "2026-11-19T21:26:16-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-19T21:08:53-03:00"
+   "lido_em": "2026-11-19T21:26:16-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -27,12 +29,6 @@
   "SEI": {
    "ok": true,
    "lido_em": "2026-11-19T14:59:57.874072-03:00"
-  },
-  "Projetos MME": {
-   "ok": false,
-   "erro": "HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-contribuicoes-publicas?pageNumber=0&pageSize=1000&sortBy=id&sor",
-   "lido_em": "2026-11-19T20:29:49-03:00",
-   "desde": "2026-11-19T21:08:53-03:00"
   },
   "TCU": {
    "ok": true,
