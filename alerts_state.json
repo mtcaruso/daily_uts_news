@@ -3504,6 +3504,10 @@
     "ANEEL · notícias": {
       "desde": "2026-11-20T19:04:13+00:00",
       "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
+    },
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-21T03:12:01+00:00",
+      "erro": "busca do DOU de 20/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read timed out. (read timeout=40)"
     }
   },
   "aneel_objetos": {
