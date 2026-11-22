@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-22T19:18:45-03:00",
+ "gerado_em": "2026-11-22T20:08:21-03:00",
  "fontes": {
   "ANEEL": {
    "ok": true,
-   "lido_em": "2026-11-22T19:18:45-03:00",
+   "lido_em": "2026-11-22T20:08:21-03:00",
    "listagem_pc": "2026-11-20T21:45:38.444493-03:00"
   },
   "MME": {
@@ -13,12 +13,14 @@
    "desde": "2026-11-19T21:26:16-03:00"
   },
   "ARSESP": {
-   "ok": true,
-   "lido_em": "2026-11-22T19:18:45-03:00"
+   "ok": false,
+   "erro": "HTTPSConnectionPool(host='www.arsesp.sp.gov.br', port=443): Max retries exceeded with url: /_api/web/GetList('/Lists/ConsultasPublicasDocumentos')/items?%24top=300&%24orderby=ID+desc&%24select=ID%2CTi",
+   "lido_em": "2026-11-22T19:18:45-03:00",
+   "desde": "2026-11-22T20:08:21-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-22T19:18:45-03:00"
+   "lido_em": "2026-11-22T20:08:21-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
