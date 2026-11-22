@@ -3505,6 +3505,10 @@
     "ANEEL · notícias": {
       "desde": "2026-11-21T23:40:30+00:00",
       "erro": "lista de notícias vazia (gov.br fora ou layout mudou?)"
+    },
+    "ANEEL · DOU Seção 3": {
+      "desde": "2026-11-22T14:02:05+00:00",
+      "erro": "busca do DOU de 22/11: 502 Server Error: Bad Gateway for url: https://www.in.gov.br/consulta/-/buscar/dou?q=%2A&s=do3&exactDate=personalizado&publishFrom=22-11-2026&publishTo=22-11-2026&delta=50&orgPr"
     }
   },
   "aneel_objetos": {
