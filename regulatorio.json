@@ -1,22 +1,23 @@
 {
- "gerado_em": "2026-11-23T10:13:48-03:00",
+ "gerado_em": "2026-11-23T10:31:02-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": true,
-   "lido_em": "2026-11-23T10:13:48-03:00",
-   "listagem_pc": "2026-11-23T04:21:20.474067-03:00"
+   "ok": false,
+   "lido_em": "2026-11-23T10:31:02-03:00",
+   "listagem_pc": "2026-11-23T10:15:56.052767-03:00",
+   "erro": "ANEEL · DOU Seção 3: busca do DOU de 20/11: HTTPSConnectionPool(host='www.in.gov.br', port=443): Read"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-23T10:13:48-03:00"
+   "lido_em": "2026-11-23T10:31:02-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-23T10:13:48-03:00"
+   "lido_em": "2026-11-23T10:31:02-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-23T10:13:48-03:00"
+   "lido_em": "2026-11-23T10:31:02-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -25,13 +26,12 @@
    "desde": "2026-11-12T18:37:25-03:00"
   },
   "SEI": {
-   "ok": false,
-   "lido_em": "2026-11-19T14:59:57.874072-03:00",
-   "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
+   "ok": true,
+   "lido_em": "2026-11-23T10:16:31.842912-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-23T10:13:48-03:00"
+   "lido_em": "2026-11-23T10:31:02-03:00"
   },
   "TCU": {
    "ok": true,
@@ -1102,7 +1102,7 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-19T14:59:42.328272-03:00",
+   "lido_em": "2026-11-23T10:16:00.354348-03:00",
    "documentos": [
     {
      "data": "2026-11-19",
@@ -1379,7 +1379,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-19T14:59:44.867806-03:00",
+   "lido_em": "2026-11-23T10:16:11.055533-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1602,7 +1602,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-19T14:59:47.443681-03:00",
+   "lido_em": "2026-11-23T10:16:13.613179-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1807,7 +1807,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-19T14:59:50.969106-03:00",
+   "lido_em": "2026-11-23T10:16:17.059862-03:00",
    "documentos": [
     {
      "data": "2026-11-16",
@@ -2084,7 +2084,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-19T14:59:55.360444-03:00",
+   "lido_em": "2026-11-23T10:16:29.410738-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2523,7 +2523,7 @@
    "numero": "48500.906028/2021-89",
    "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": "2026-11-19T14:59:57.874072-03:00",
+   "lido_em": "2026-11-23T10:16:31.842912-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
