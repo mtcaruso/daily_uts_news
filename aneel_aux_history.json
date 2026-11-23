@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T13:39:30.113293-03:00",
+  "last_updated": "2026-11-23T19:00:51.105834-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -13,22 +13,6 @@
       "start_date": "29/04/2026",
       "fonte": "MME",
       "sei_processo": "48360.000100/2026-11"
-    },
-    "noticia_2026_aneel-destaca-forca-do-segmento-de-transmissao-e-defende-inovacao-e-expansao-no-brasil": {
-      "type": "noticia",
-      "title": "ANEEL destaca força do segmento de transmissão e defende inovação e expansão no Brasil",
-      "date": "27/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-destaca-forca-do-segmento-de-transmissao-e-defende-inovacao-e-expansao-no-brasil",
-      "summary": "A ANEEL, através de seu diretor-geral Sandoval Feitosa, destacou o sucesso histórico do setor de transmissão de energia no Brasil, com altas taxas de disponibilidade e geração de empregos. O anúncio foi feito no IV SINTRE, em Brasília, evento que reuniu especialistas, executivos e reguladores, incluindo representantes do MME, EPE, **Evoltz** e ONS. A agência defende a inovação e a qualificação profissional para a expansão do setor, que já apresenta **investimentos consistentes** na indústria nacional.",
-      "added_at": "2026-05-27T15:05:40.007761"
-    },
-    "noticia_2026_comeca-o-2o-seminario-aneel-de-regulacao-e-analise-economica-do-direito": {
-      "type": "noticia",
-      "title": "Começa o 2º Seminário ANEEL de Regulação e Análise Econômica do Direito",
-      "date": "26/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-aneel-de-regulacao-e-analise-economica-do-direito",
-      "summary": "A **ANEEL** iniciou o 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento reúne diretores da agência, professores da **USP** e **Uniceub**, e especialistas para discutir temas como IA, transição energética e novos mercados. A programação segue até **27/05**, com transmissão ao vivo pelo YouTube.",
-      "added_at": "2026-05-27T15:05:42.284863"
     },
     "noticia_2026_seminario-sobre-regulacao-e-analise-economica-do-direito-e-encerrado-com-participacao-expressiva-e-debates-sobre-o-setor-eletrico": {
       "type": "noticia",
@@ -2276,10 +2260,9 @@
       "title": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta",
       "date": "23/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
-      "summary": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta Evento está marcado para a próxima quarta-feira (25/11) pelo YouTube da Agência A Agência Nacional de Energia Elétrica (ANEEL) promove nesta quarta-feira, 25 de novembro, webinar para a apresentação do projeto de Pesquisa, Desenvolvimento e Inovação (PDI) da Governança Colaborativa do…",
-      "added_at": "2026-11-23T13:39:29.611991-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": null,
+      "added_at": "2026-11-23T19:00:50.605513-03:00",
+      "error": "summarize_failed"
     }
   }
 }
