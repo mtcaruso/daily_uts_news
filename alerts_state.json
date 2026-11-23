@@ -3492,17 +3492,17 @@
     "ANEEL · pauta (processos SEI)": {
       "desde": "2026-11-12T17:53:09+00:00",
       "erro": "'url'",
-      "avisado": "2026-11-20"
+      "avisado": "2026-11-23"
     },
     "TCU · sessões e acórdãos": {
       "desde": "2026-11-13T14:39:19+00:00",
       "erro": "acórdãos do TCU: Expecting value: line 1 column 1 (char 0)",
-      "avisado": "2026-11-20"
+      "avisado": "2026-11-23"
     },
     "MME · consultas públicas": {
       "desde": "2026-11-20T00:24:16+00:00",
       "erro": "API do MME: HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=40&sortBy=id&sort",
-      "avisado": "2026-11-20"
+      "avisado": "2026-11-23"
     }
   },
   "aneel_objetos": {
