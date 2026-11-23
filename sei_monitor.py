@@ -138,6 +138,11 @@ def parse_process(url: str, max_attempts: int = MAX_RETRIES) -> dict:
                     "unidade": clean[5],
                     "link": urljoin(url, html_lib.unescape(m_link.group(1))) if m_link else None,
                     "unidade_nome": _clean(m_unid.group(1)) if m_unid else None,
+                    # Cadeado do SEI ("Acesso Restrito. Documento Preparatório",
+                    # LAI art. 7º §3º): fica assim até a decisão que o documento
+                    # embasa. O alert_sei avisa quando ele ganha link (a pedido,
+                    # 23/11/2026). Marca positiva: sem link por outro motivo não conta.
+                    "restrito": bool(not m_link and re.search(r"chave_restrito|Acesso Restrito", cells[1], re.IGNORECASE)),
                 })
 
     # === Andamentos ===

@@ -604,13 +604,19 @@ def alert_sei(state: dict, dry: bool) -> int:
     IP do Actions, SEI fora), usa o que o refresh do PC commitou em
     sei_processes.json. State['sei'][id] = {"and": hashes dos andamentos mais
     recentes, "docs": TODOS os protocolos (doc novo pode entrar no meio da
-    lista)}. Processo sem state (inclusive recém-adicionado) só semeia."""
+    lista), "rest": protocolos vistos COM CADEADO (restritos)}. Documento de
+    "rest" que aparece com link = liberado (a pedido, 23/11/2026: a NT e o AIR
+    de uma proposta de CP ficam restritos até a decisão da Diretoria). Processo
+    sem state (inclusive recém-adicionado) só semeia."""
     import sei_monitor  # curl_cffi + parser; import tardio: só quem usa paga
 
     # Do Actions o Cloudflare bloqueia o SEI em todo ciclo (08-19/10/2026): 2
     # tentativas e cai logo pro que o PC commitou, sem gastar ~3min por ciclo.
     tentativas = 2 if os.environ.get("GITHUB_ACTIONS") == "true" else sei_monitor.MAX_RETRIES
     st_all = state.get("sei") if isinstance(state.get("sei"), dict) else {}
+    # Lista COMPLETA de documentos (com link e cadeado) que o PC commita: o
+    # sei_processes.json só traz os 10 mais recentes.
+    historico = sei_monitor.load_historico()
     novo_state, msgs = {}, []
     ao_vivo, idade_pc = 0, []  # idade_pc: horas desde a última leitura do PC (fallback)
     processos = [p for p in sei_monitor.load_processes() if p.get("url") and p.get("ntfy_enabled", True)]
@@ -624,6 +630,7 @@ def alert_sei(state: dict, dry: bool) -> int:
             ands, docs = d["andamentos"], d["documentos"]
             and_hashes, protos = [a["hash"] for a in ands], [x["protocolo"] for x in docs]
             numero = d.get("processo") or p.get("processo")
+            docs_todos = docs
             ao_vivo += 1
         except Exception as e:
             if "documentos_protocolos" not in p:  # PC ainda não coletou no formato novo
@@ -634,14 +641,21 @@ def alert_sei(state: dict, dry: bool) -> int:
             ands, docs = p.get("last_andamentos_top10") or [], p.get("last_documentos_top10") or []
             and_hashes, protos = p.get("andamentos_seen") or [], p["documentos_protocolos"]
             numero = p.get("processo")
+            docs_todos = (historico.get(p["id"]) or {}).get("documentos") or docs
             idade_pc.append(_horas_desde(p.get("last_check_at")))
 
         prev = st_all.get(p["id"])
+        # Cadeado: só conta como restrito o que veio marcado (dado antigo do PC,
+        # sem o campo, não entra), e só é "liberado" o que estava em "rest" antes.
+        publicos = {x["protocolo"]: x for x in docs_todos if x.get("link")}
+        restritos = {x["protocolo"] for x in docs_todos if x.get("restrito") and "/" not in x["protocolo"]}
+        rest_antes = set((prev or {}).get("rest", []))
         # Andamentos vêm do mais novo pro mais velho: guarda os 60 mais recentes
         # (união com o anterior, senão um fallback mais velho "esquece" o que já foi avisado).
         novo_state[p["id"]] = {
             "and": list(dict.fromkeys(and_hashes[:60] + (prev or {}).get("and", [])))[:120],
             "docs": sorted(set(protos) | set((prev or {}).get("docs", []))),
+            "rest": sorted((rest_antes - set(publicos)) | restritos),
         }
         if prev is None:
             continue  # seed silencioso
@@ -650,6 +664,9 @@ def alert_sei(state: dict, dry: bool) -> int:
         det_and = {a["hash"]: a for a in ands}
         det_doc = {x["protocolo"]: x for x in docs}
         linhas, anexados = [], 0
+        liberados = [publicos[pr] for pr in sorted(rest_antes & set(publicos))]
+        for x in liberados:  # com o link do documento: é o que se quer abrir
+            linhas.append(f"🔓 liberado: {x.get('tipo')} — {x.get('unidade')} ({x.get('data')})\n{x['link']}")
         for proto in protos:
             if proto in vistos_docs:
                 continue
@@ -671,7 +688,8 @@ def alert_sei(state: dict, dry: bool) -> int:
             continue
         corpo = "\n".join(linhas[:8]) + (f"\n…e mais {len(linhas) - 8}" if len(linhas) > 8 else "")
         titulo = p.get("label") or numero or "processo"
-        msgs.append((f"📂 SEI · {titulo}", (f"{numero}\n" if numero and numero not in titulo else "") + corpo, p["url"]))
+        msgs.append((f"{'🔓' if liberados else '📂'} SEI · {titulo}",
+                     (f"{numero}\n" if numero and numero not in titulo else "") + corpo, p["url"]))
 
     if not dry:
         for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
