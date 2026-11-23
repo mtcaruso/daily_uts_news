@@ -1,11 +1,10 @@
 {
- "gerado_em": "2026-11-23T08:01:31-03:00",
+ "gerado_em": "2026-11-23T08:17:45-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": false,
-   "lido_em": "2026-11-23T08:01:31-03:00",
-   "listagem_pc": "2026-11-23T04:21:20.474067-03:00",
-   "erro": "ANEEL · DOU Seção 3: busca do DOU de 20/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
+   "ok": true,
+   "lido_em": "2026-11-23T08:17:45-03:00",
+   "listagem_pc": "2026-11-23T04:21:20.474067-03:00"
   },
   "MME": {
    "ok": false,
@@ -15,11 +14,11 @@
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-23T08:01:31-03:00"
+   "lido_em": "2026-11-23T08:17:45-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-23T08:01:31-03:00"
+   "lido_em": "2026-11-23T08:17:45-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
