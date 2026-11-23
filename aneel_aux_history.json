@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T10:15:56.052767-03:00",
+  "last_updated": "2026-11-23T13:39:30.113293-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -13,14 +13,6 @@
       "start_date": "29/04/2026",
       "fonte": "MME",
       "sei_processo": "48360.000100/2026-11"
-    },
-    "noticia_2026_comeca-o-2o-seminario-de-aneel-de-regulacao-e-analise-economica-do-direito": {
-      "type": "noticia",
-      "title": "Começa o 2º Seminário de ANEEL de Regulação e Análise Econômica do Direito",
-      "date": "26/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/comeca-o-2o-seminario-de-aneel-de-regulacao-e-analise-economica-do-direito",
-      "summary": "A **ANEEL** iniciou seu 2º Seminário de Regulação e Análise Econômica do Direito em **26/05**, em Brasília, com foco em aprimorar a regulação do setor elétrico. O evento, que vai até **27/05**, reúne diretores da agência, advogados e especialistas para discutir temas como IA, transição energética e novos mercados.",
-      "added_at": "2026-05-27T12:39:52.777326"
     },
     "noticia_2026_aneel-destaca-forca-do-segmento-de-transmissao-e-defende-inovacao-e-expansao-no-brasil": {
       "type": "noticia",
@@ -2278,6 +2270,16 @@
       "added_at": "2026-11-19T14:29:46.324635-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 3
+    },
+    "noticia_2026_aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta": {
+      "type": "noticia",
+      "title": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta",
+      "date": "23/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
+      "summary": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta Evento está marcado para a próxima quarta-feira (25/11) pelo YouTube da Agência A Agência Nacional de Energia Elétrica (ANEEL) promove nesta quarta-feira, 25 de novembro, webinar para a apresentação do projeto de Pesquisa, Desenvolvimento e Inovação (PDI) da Governança Colaborativa do…",
+      "added_at": "2026-11-23T13:39:29.611991-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
