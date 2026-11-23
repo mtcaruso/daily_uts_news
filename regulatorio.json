@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-22T23:58:55-03:00",
+ "gerado_em": "2026-11-23T00:18:49-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-22T23:58:55-03:00",
+   "lido_em": "2026-11-23T00:18:49-03:00",
    "listagem_pc": "2026-11-20T21:45:38.444493-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
@@ -15,11 +15,11 @@
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-22T23:58:55-03:00"
+   "lido_em": "2026-11-23T00:18:49-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-22T23:58:55-03:00"
+   "lido_em": "2026-11-23T00:18:49-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -4068,18 +4068,6 @@
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzO1B1-3L7yOCovhVwSTgppC2OnykTdp15oXoQGsBr8pMNgQPdqiFParC0B2BDjcVXX8YfGxeKxBinkI5rj-jw4B",
    "ref": "sei:sei_a3c744a071",
    "visto_em": "2026-11-10T17:27:11-03:00"
-  },
-  {
-   "uid": "2d81e1f3ef48",
-   "dia": "2026-08-24",
-   "hora": null,
-   "orgao": "SEI",
-   "tipo": "resultado",
-   "titulo": "Enel SP: caducidade da concessão (contrato 162/2008): Deliberado",
-   "detalhe": "17/2026 - RPO de 24/08 · Despacho 3303 · A Diretoria, por unanimidade, decidiu: (i) indeferir o pedido formulado pela Enel Distribuição São Paulo – Enel SP para realização de prova pericial técnica, por enquadrar-se na hipótese de prova desnecessária prevista no art. 38, § 2º, da Lei nº 9.784/1999- (ii) declarar encerrada a fase instrutória do Processo Administrativo SEI nº 48500.903331/2024-72, por reputar suficientes os elementos cons…",
-   "link": null,
-   "ref": "sei:sei_80e06207cb",
-   "visto_em": "2026-11-11T09:24:21-03:00"
   }
  ]
 }
