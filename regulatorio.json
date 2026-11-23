@@ -1,25 +1,23 @@
 {
- "gerado_em": "2026-11-23T09:15:30-03:00",
+ "gerado_em": "2026-11-23T09:34:26-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-23T09:15:30-03:00",
+   "lido_em": "2026-11-23T09:34:26-03:00",
    "listagem_pc": "2026-11-23T04:21:20.474067-03:00",
-   "erro": "ANEEL · DOU Seção 3: busca do DOU de 20/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
+   "erro": "ANEEL · DOU Seção 3: busca do DOU de 23/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
   },
   "MME": {
-   "ok": false,
-   "erro": "502 Server Error: Bad Gateway for url: https://consultas-publicas.mme.gov.br/consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=400&sortBy=id&sortDirection=desc",
-   "lido_em": "2026-11-19T21:08:53-03:00",
-   "desde": "2026-11-19T21:26:16-03:00"
+   "ok": true,
+   "lido_em": "2026-11-23T09:34:26-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-23T09:15:30-03:00"
+   "lido_em": "2026-11-23T09:34:26-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-23T09:15:30-03:00"
+   "lido_em": "2026-11-23T09:34:26-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,6 +29,10 @@
    "ok": false,
    "lido_em": "2026-11-19T14:59:57.874072-03:00",
    "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
+  },
+  "Projetos MME": {
+   "ok": true,
+   "lido_em": "2026-11-23T09:34:26-03:00"
   },
   "TCU": {
    "ok": true,
