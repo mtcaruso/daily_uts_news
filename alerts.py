@@ -689,7 +689,7 @@ def alert_sei(state: dict, dry: bool) -> int:
         corpo = "\n".join(linhas[:8]) + (f"\n…e mais {len(linhas) - 8}" if len(linhas) > 8 else "")
         titulo = p.get("label") or numero or "processo"
         msgs.append((f"{'🔓' if liberados else '📂'} SEI · {titulo}",
-                     (f"{numero}\n" if numero and numero not in titulo else "") + corpo, p["url"]))
+                     (f"{numero}\n" if numero and numero not in titulo else "") + corpo, p.get("url")))
 
     if not dry:
         for title, body, link in msgs[:PUSH_CAP_PER_RUN]:
@@ -822,11 +822,11 @@ def alert_sei_pauta(state: dict, dry: bool) -> int:
                 decisao = "" if decisao in ("None", "null") else decisao
                 corpo = (f"{quando}{ato}\n{assunto[:220]}"
                          + (f"\nDecisão: {decisao[:280]}" if decisao else ""))
-                msgs.append((uid, antes, f"⚖️ SEI · {titulo}: {resultado}", corpo, p["url"]))
+                msgs.append((uid, antes, f"⚖️ SEI · {titulo}: {resultado}", corpo, p.get("url")))
             else:
                 rel = _particulas(rec.get("NomDiretorRelator"))
                 corpo = f"{quando}" + (f" · relator(a): {rel}" if rel else "") + f"\n{assunto[:300]}"
-                msgs.append((uid, antes, f"🗓️ SEI · {titulo} na pauta de {dia[8:10]}/{dia[5:7]}", corpo, p["url"]))
+                msgs.append((uid, antes, f"🗓️ SEI · {titulo} na pauta de {dia[8:10]}/{dia[5:7]}", corpo, p.get("url")))
 
     for i, (uid, antes, title, body, link) in enumerate(msgs):
         if i >= PUSH_CAP_PER_RUN or dry or not notify.send(title, body, click=link, tags=["spiral_calendar"], equipe=True):
