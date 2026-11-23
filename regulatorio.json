@@ -1,23 +1,22 @@
 {
- "gerado_em": "2026-11-23T09:55:49-03:00",
+ "gerado_em": "2026-11-23T10:13:48-03:00",
  "fontes": {
   "ANEEL": {
-   "ok": false,
-   "lido_em": "2026-11-23T09:55:49-03:00",
-   "listagem_pc": "2026-11-23T04:21:20.474067-03:00",
-   "erro": "ANEEL · DOU Seção 3: busca do DOU de 20/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
+   "ok": true,
+   "lido_em": "2026-11-23T10:13:48-03:00",
+   "listagem_pc": "2026-11-23T04:21:20.474067-03:00"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-23T09:55:49-03:00"
+   "lido_em": "2026-11-23T10:13:48-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-23T09:55:49-03:00"
+   "lido_em": "2026-11-23T10:13:48-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-23T09:55:49-03:00"
+   "lido_em": "2026-11-23T10:13:48-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -32,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-23T09:55:49-03:00"
+   "lido_em": "2026-11-23T10:13:48-03:00"
   },
   "TCU": {
    "ok": true,
@@ -701,38 +700,6 @@
    ]
   },
   {
-   "id": "mme-cp-237",
-   "orgao": "MME",
-   "tipo": "Consulta Pública",
-   "sigla": "CP",
-   "numero": "237",
-   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
-   "inicio": "2026-10-23",
-   "fim": "2026-11-23",
-   "situacao": "aberta",
-   "setor": "energia",
-   "area": "SNTEP/DEMOB",
-   "link": "https://consultas-publicas.mme.gov.br/",
-   "docs": [
-    {
-     "k": "mme15979",
-     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
-    },
-    {
-     "k": "mme15981",
-     "t": "Formulário de Contribuições"
-    },
-    {
-     "k": "mme15982",
-     "t": "Portaria Abertura da Consulta Pública DOU"
-    },
-    {
-     "k": "mme16017",
-     "t": "Orientações"
-    }
-   ]
-  },
-  {
    "id": "aneel-ap-008-2026",
    "orgao": "ANEEL",
    "tipo": "Audiência Pública",
@@ -791,6 +758,42 @@
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
    "fonte": "listagem"
+  },
+  {
+   "id": "mme-cp-237",
+   "orgao": "MME",
+   "tipo": "Consulta Pública",
+   "sigla": "CP",
+   "numero": "237",
+   "tema": "Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
+   "inicio": "2026-10-23",
+   "fim": "2026-11-30",
+   "situacao": "aberta",
+   "setor": "energia",
+   "area": "SNTEP/DEMOB",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "docs": [
+    {
+     "k": "mme15979",
+     "t": "Nota Técnica nº 01/2026/DEMOB/SNTEP – Perguntas Orientadoras"
+    },
+    {
+     "k": "mme15981",
+     "t": "Formulário de Contribuições"
+    },
+    {
+     "k": "mme15982",
+     "t": "Portaria Abertura da Consulta Pública DOU"
+    },
+    {
+     "k": "mme16017",
+     "t": "Orientações"
+    },
+    {
+     "k": "mme26037",
+     "t": "Portaria Prorrogação da Consulta Pública DOU"
+    }
+   ]
   },
   {
    "id": "mme-cp-239",
@@ -2693,6 +2696,20 @@
    "grupo": "Distribuição"
   },
   {
+   "id": "sei_40001c314e",
+   "apelido": "Perdas não técnicas e receitas irrecuperáveis: revisão da metodologia (PRORET 2.6/2.6A, TS 25/2025)",
+   "numero": null,
+   "tipo": null,
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaPCpQ_Wr8Tb55r3U3cZ2Bj0SN_mEwLi9QuIM2TEhkL08",
+   "lido_em": null,
+   "documentos": [],
+   "andamentos": [],
+   "pauta": [],
+   "n_documentos": null,
+   "n_andamentos": null,
+   "grupo": "Distribuição"
+  },
+  {
    "id": "sei_012966e05d",
    "apelido": "Fator X ANEEL: revisão do componente Pd (CP 20/2026)",
    "numero": "48500.027624/2025-26",
@@ -2861,6 +2878,32 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "84b108eba9f2",
+   "dia": "2026-11-23",
+   "hora": "10:13",
+   "orgao": "MME",
+   "tipo": "prazo",
+   "titulo": "CP 237: prazo prorrogado",
+   "detalhe": "23/11 → 30/11 · Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-237",
+   "detectado": true,
+   "visto_em": "2026-11-23T10:13:48-03:00"
+  },
+  {
+   "uid": "57d6f758a7fa",
+   "dia": "2026-11-23",
+   "hora": "10:13",
+   "orgao": "MME",
+   "tipo": "documento",
+   "titulo": "CP 237: documento novo",
+   "detalhe": "Portaria Prorrogação da Consulta Pública DOU · Coleta de contribuições para subsidiar a elaboração de diagnóstico nacional sobre a infraestrutura de recarga de veículos elétricos e sua integração às redes de energia elétrica.",
+   "link": "https://consultas-publicas.mme.gov.br/",
+   "ref": "mme-cp-237",
+   "detectado": true,
+   "visto_em": "2026-11-23T10:13:48-03:00"
+  },
   {
    "uid": "8feaed2dd29f",
    "dia": "2026-11-19",
