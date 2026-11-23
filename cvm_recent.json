@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-23T06:46:42.233490-03:00",
+  "last_updated": "2026-11-23T10:17:36.836433-03:00",
   "items": [
+    {
+      "cnpj_short": "01837-6",
+      "empresa_nome": "ISA ENERGIA BRASIL S.A",
+      "categoria": "Comunicado ao Mercado",
+      "tipo": "Apresentações a analistas/agentes do mercado",
+      "especie": "Conferência NY -",
+      "data_referencia": "20261119 19/11/2026",
+      "data_entrega": "20261123 23/11/2026 09:01",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Conferência NY",
+      "protocolo": "1592304",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1592304",
+      "empresa_label": "CTEEP / ISA",
+      "codigo_cvm": "18376",
+      "first_seen": "2026-11-23T10:17:24.224175"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",

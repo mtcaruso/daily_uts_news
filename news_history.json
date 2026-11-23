@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T04:26:39.178668-03:00",
+  "last_updated": "2026-11-23T10:21:41.284488-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0trUFE1bG1LSmx6Mkc4dUJ3OHdRY0IwNGphOXp4UUhMblcybVVSLWFZMHJscWcxYXNtVl9idHcyRjEzRG5ObUdBVXZady15ZDg3QzFuZ19GQnBGejBwcUJuS0pIek5KSDhOOVp4dFAwTjd6YVNqNno1OU95YWpmYkNnX3BJTEg1ckQ4YzhpaWlsdHRGTm0wZHZKNDVZbjEyX1hvTEl6cnFYUGpMNkZsWHdRTm1lUQ?oc=5": {
       "title": "Quatro empresas avaliam disputa no leilão da ferrovia Minas-Rio - Folha de S.Paulo",
@@ -3135,7 +3135,7 @@
       "source": "",
       "added_at": "2026-11-20T15:35:17.613262-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuWnpmNnBCbjUtUGVuYkRUNkZUYTNZdEtWNTl0NEY3LXVzb0ZBNm4wbWhwU3RMVHJ3NVhNVnFLdW10RUM1cERHQVBYQmlMdDg?oc=5": {
       "title": "- MegaWhat",
@@ -3143,7 +3143,7 @@
       "source": "",
       "added_at": "2026-11-20T15:36:14.912099-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS1dUT2FMcnNZOHZEQXlralN0QjJ6WkhSMUdvbk4zcElldlhqdGN2VUVHekNEYktrSHR0T0tWV2t2cnhzMlVZRXJpMmJ4Y1RYM0N5OFdmN0Jrek5HVzdwOU00dnp5cVY1TFVoWUpWRzBGQ2duZ2tCc0F5WXVMVEtYQkNIWjEwLU5FRy1qVGYtcV9FWkg5VzM1c2VBWEd3bVduS2g5SWgtY1FNNjN3dmFYWGl4Y2Zld1RpQ2NTQzF3M3JGV2RYMUdvN01yd29uQzBjd3hrNWhJTldpZTZOdHRvT2dpTGRfendYckVXQV9xQ1hIS2liWUJldVJ6Tkhfd9IB_gFBVV95cUxNS1dUT2FMcnNZOHZEQXlralN0QjJ6WkhSMUdvbk4zcElldlhqdGN2VUVHekNEYktrSHR0T0tWV2t2cnhzMlVZRXJpMmJ4Y1RYM0N5OFdmN0Jrek5HVzdwOU00dnp5cVY1TFVoWUpWRzBGQ2duZ2tCc0F5WXVMVEtYQkNIWjEwLU5FRy1qVGYtcV9FWkg5VzM1c2VBWEd3bVduS2g5SWgtY1FNNjN3dmFYWGl4Y2Zld1RpQ2NTQzF3M3JGV2RYMUdvN01yd29uQzBjd3hrNWhJTldpZTZOdHRvT2dpTGRfendYckVXQV9xQ1hIS2liWUJldVJ6Tkhfdw?oc=5": {
       "title": "Análise: Copel anuncia investimento recorde com foco em distribuição, mas traça horizonte para geração - Valor Econômico",
@@ -3199,7 +3199,7 @@
       "source": "",
       "added_at": "2026-11-20T21:13:16.895095-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5": {
       "title": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3 - Estadão",
@@ -3223,7 +3223,7 @@
       "source": "",
       "added_at": "2026-11-20T21:13:49.716471-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2NBdVFLRWQ2MGh3SV9fYmVGMDlzd0RySzhNQ2oyUzEyc0FJY09mUmpJYWg0RE90bEUydmZRdThOSkE0b2lDTDBUckxQNkdZSHhIRHlmTmk1cFNnWkVCa2dKWUlsSkxzaTlqTHUxRzNKTS1sSUF2d2h2WldrQldPV1I2T25LMU03dVlybk1CUFhOMGRyYkNqZjJlS1Y4dnRxMkxBNG9TTk9md0lqUU1URmNKR2lHa05PZnhtZEUwVG85MWVvS291TjNHdjhWanZXdFHSAeABQVVfeXFMT3hPeHh6Q29qR2w5bURIVDd5cEp2dC1rVmd6ckEySlIzWTFfSERKdEd6UE1ZbkViZFU4bzNCaXJZZGNXZEFKY24wVzdhcF9NMENWVkROVVlaVFlLV1dkcnBoenhkRncyd2xhdDFIQ0lvc0gzQkEtUnpPb2cwRDJyM1VaQXJwWC0wc2lWVHJ0VG1NVWlsUEItaW50VkZaa0s0ZTJwd3dyYnQtTlR4SUZxaG9qcDJMbTlkeEtPdlU2LUw2blpKYUk0aURNaFU3UjIzM0JWUnMzVHVwMG1xUjRjNXU?oc=5": {
       "title": "Bessent defende alta mais moderada dos juros pelo Fed e cita choque de energia - Valor Econômico",
@@ -3303,7 +3303,7 @@
       "source": "",
       "added_at": "2026-11-21T19:21:19.258169-03:00",
       "error": "no_article",
-      "attempts": 5
+      "attempts": 6
     },
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVh0YktCeUNyMnNveTNBTFd5M1QtRGpzTkZaWVkwZG40aUJ2R3Y4SlhUdGo4bWVpemFjRURPUkd4YU5jTzFLWkZwWHgzVlRNd2pWMl9xaHZHaGR5WXJsY0FRcFBjb1NUQk9CVk5iTkpvdlJCLS1Hd1RtSmJFNlRodV90RktwMnItSVFzaDh3S1QxOGgwZWljSmZFOEREaGZDNm1NNlJaUkdhRHZtUkJKTkNCNW04VWhpdnhmNExNX1I3aWY0RWFndUg1eUZlSEJQT2dBdzdiM19mbUZyang1UjVBSnhKOXRNNk9udk4yZC0?oc=5": {
       "title": "Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando - Estadão",
@@ -3311,7 +3311,7 @@
       "source": "",
       "added_at": "2026-11-21T23:37:57.828860-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUkFuUkVMR3pOYmtQTWJQWWw0TWMyZVdYNlVOWVgxWlU3T3M4SnRINGNOU19od09xay1VUURjVFdyeWd4SWlNcXMyRUlRb1pFbTFraTZuXy1lcWl2eVo4VFB3WElmcjUtSHZyaGJZQUJhVWdDLUI4WjRneFpOUHVhZmV1WUdGM3J5RHVQNXNRRkc4Z2ZIeElFNGl2VzZlX0RZZG1tYlhzZ3JfdGlTRUxmeE9xblBVOWJKMWVPdVkwUXRiQkIxLTBtMUtvaE5lb1Y1M0kyUFk0UkQ1WU9xU3lmSDZ0dDN2R0k?oc=5": {
       "title": "Pacaembu tem operação de R$ 515 mi frustrada e dona de concessionária pede Recuperação Extrajudicial - Estadão",
@@ -3383,7 +3383,7 @@
       "source": "",
       "added_at": "2026-11-22T20:34:18.629386-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXE3cHB5d2tlWWlNYmdHZzJyV2NMeGZyUDlTZnhZY28ta1BVcjYxMTloM29XQzExcEpWeWxVWll5eDhEd1VhSWJmOVo4ejdqT2o2ODFUeUF2Um5KN1NDRlowWk91aW1nTnM0QlFqNFpWczFHM2FubmNVb3Z3TXI3RldoUEZ4LVQyeml3ZWV1TEJaSElrdjZzeTBUa0s1T0E4VFA2cklJeHVMVG12ek1HdUpKajR3TFd2R0NhY2NsclJENVV5aU9TV3JfQnVOd1NH0gHQAUFVX3lxTE4xcTdwcHl3a2VZaU1iZ0dnMnJXY0x4ZnJQOVNmeFljby1rUFVyNjExOWgzb1dDMTFwSlZ5bFVaWXl4OER3VWFJYmY5Wjh6N2pPajY4MVR5QXZSbko3U0NGWjBaT3VpbWdOczRCUWo0WlZzMUczYW5uY1VvdndNcjdGV2hQRngtVDJ6aXdlZXVMQlpISWt2NnN5MFRrSzVPQThUUDZySUl4dUxUbXZ6TUd1SkpqNHdMV3ZHQ2FjY2xyUkQ1VXlpT1NXcl9CdU53U0c?oc=5": {
       "title": "FT: Scott Bessent, agora, não se opõe ao retorno de Jensen Huang à Nvidia - Valor Econômico",
@@ -3391,7 +3391,7 @@
       "source": "",
       "added_at": "2026-11-22T20:34:42.347237-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTNpeGo4RnJ1S3ZXbnpDQUR4dzdURlRCbFd0Qk8xdnBZUFJxTFQwc1lWYS10Ym4wcWd0aDNUeHJCUUQxZjBYR2xZLUNYU3ZJcXM1aEliSzQ1dzBRMDdfYmtLMXl5MXJ1WFZGMld5UER4V3NzcUp3QWdJOGlCeTdZSmRZSEh6UGxXU0dCcVV6VjVPY08yb1U4OVNLUWdpb0dHcU5Odmdka1JES3duTXd0aXF0RnVjV0tld2pXN0JUUjZMTWtWZ1RWY0pqZ3RiT0xfSmFTVDJzOXE?oc=5": {
       "title": "Sabesp troca válvula no Cantareira, mas bairros de São Paulo e Guarulhos seguem sem água - Folha de S.Paulo",
@@ -3399,15 +3399,15 @@
       "source": "",
       "added_at": "2026-11-22T20:34:42.347338-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MUt2ZlhiVE1fM1FKS29aRDlkazd6V3BSNkZsa1lITUlWdlRyTVRjYTlHd1JaYjRkMlV5cWxYMUhNazdoLVlNUWp4XzlWSUhFdWJuWnZuZEgyaXFMcnNmRTJpR0lmRU5GOTVKeFQzLXJWOWdlQmE3UVQwa20tZWs?oc=5": {
       "title": "A viagem de 8 anos que levou sonda a 'planeta misterioso' do Sistema Solar - UOL",
-      "summary": null,
+      "summary": "Comente* * Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Leonard Nun Sucesso!",
       "source": "",
       "added_at": "2026-11-23T04:25:46.173132-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWldCSmh1RGp5bEpVWUdMMjBSanA4dUdTS1p5dDFManFrSHVpTHpiWXBGR3o2a193MnM2WnNYSG40OG5VSm1XV2paRklvUGduc3RzQnhGVTJReGVYd2dTMG5WMFdlQmRrekRqOTlxUHlMT3ZmYUJweVI4NGpkdS03UG44M0RpMkhwRmtrVHJRbDdZTGpMZ0J4eDZBckowaVkwbHYyNXdVSXFsb2pWTFpmcTR4a1lkUVJERWVxSUUwYWt6RmItNHlpemlySGx0Nk9LY1BtdktTREJVaUFKVWJQNElSaWQ4TFVNNnc?oc=5": {
       "title": "Beto Louco e Primo compraram usina de R$ 100 para esconder negócio com distribuidora, diz Promotoria - c-level.folha.uol.com.br",
@@ -3415,7 +3415,7 @@
       "source": "",
       "added_at": "2026-11-23T04:26:29.955400-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVVLVlhJZDR0UDFFdDBFRWY5dU1xYVlfZEhCNkFnUmFiem5Lc3pRM2h6anB0UFBObWYwNC1NU2pNMmo4S1Jkam9zTjRFcExUdElFSUpjTWoteTNoekRJVU1tOGZVMGhOMXZiQWdhQ1Nfc1ZZREh3anRpZ3JCVTVETzFQcDVLTUNtdFV5QXM4TGJ1VC1BOTFuVVpYLWctYkpCTFJYMGdpRmxBTFFPTklxc3dRNE51UFZ5SjV3cXlyOEt0TW92bHA1dkJIaw?oc=5": {
       "title": "Verba para reajustes de servidores em 2027 é insuficiente para repor a inflação - Folha de S.Paulo",
@@ -3423,13 +3423,117 @@
       "source": "",
       "added_at": "2026-11-23T04:26:29.955643-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHhMQ3FwNnh6UVZuQ2hneHJsSkJHcUxITmhRemdENi1ObXBHVWI0c1JkakVPLW9XUmp5UGM5cUduRG9uQjZpb0ZlWVR6QXJZZXNucFZMN2lNeS11ZlZrQkRaSzBSWllSdmpCanFHLUljeDRlRmpIVGZlWjZ3SHM?oc=5": {
       "title": "Sabesp troca válvula no Cantareira, mas bairros de São Paulo e Guarulhos seguem sem água - UOL",
-      "summary": "* Apenas para assinantes comentÃḂrios Os comentÃḂrios nÃ£o representam a opiniÃ£o do jornal; a responsabilidade Ã© do autor da mensagem. - Paulo Roberto Alves Martins Antes da privatizacao o lucro da Sabesp era da ordem de 3 bilhoes.",
+      "summary": "* Apenas para assinantes comentûÀrios Os comentûÀrios nûÈo representam a opiniûÈo do jornal; a responsabilidade ûˋ do autor da mensagem. - Weber Bicalho Parabûˋns aos Paulistas que votaram nos polûÙticos da privatizaûÏûÈo, TarcûÙsio e sua turma.",
       "source": "",
       "added_at": "2026-11-23T04:26:29.955720-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHFmdC1oTFNmR29pT3ZzdDFTM2NfTU9HUlJlN3pfMVV0RzJRR0w2NjVsaUVxeVh3NFVVdmQ5NkhPejhvRHdPSl93Ui1uVUFXYVlJZjZxZm94aUVpaFRIRUpzUks0NE5VblhfSmtzOFVuRFRoM1RKbG80d0hMNkVJMTZrYjRfNXRfWDcwZWljRzByaXYxaHBpa0xkWENVMU9KWEMzRGh6TGkyeTVs?oc=5": {
+      "title": "Grupos de saneamento têm dívida e receitas em alta - Valor Econômico",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-23T10:18:10.258139-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzdid29LQ0RhSE1rSkpJN3c5LTY2NmRmUGtwTDRIZDUzX3RQdFM3WnBFTDVCeFk4UWRZTDZyclB1b0QtOGFxaW9VMnZYQjYtQlZRdDhTbGQ5T2VybU44dW1Lb0FwTElySDUyRklPcUpvMi1kSWotel9nUzN5bUc4UkNhWWd6QllxZVBRM3Voc2VqcnhyQ1VRZE01UGlFYTRkSEVnNERZNHd6ajhDU2Y3eHVTUU5VSDB4RjZqaDFUdk90YVRzdC12ZVVrSEduMnBRaElIdnBZVVk?oc=5": {
+      "title": "Dividendos da semana: CPFL paga R$ 1,13 por ação e Petrobras também entra na lista - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-23T10:20:29.026115-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOWJQdTJ0bExxRVRpSWFiakJwSFZyc0piZDhVWGYyS1g0NC04Q0tfNFVJcE1ZanlVOVNWVndQZTJYUXlZWllYR3VGWVdvemdIR3Vnd2NTdFZqWVRMNWFmYWUxdy1aQXdaY3RMN2JEUUpuVGRfRWE5LVFEeWFaRnhJMjhUVl9GQ19HeUFjSTQ4aWZVRkdGZDU3ZjhITdIBqgFBVV95cUxOakJPQklwTUtCcjd6b2ZNNDRPTjI4NXpEVW9RWHZ3aTNGc0dBc2VLMmRja085ZHF2Sk1MZHptX2Faa0pVd0t5b2FXaUFtRllPbE9rRFFpbzBVTEE1TGhOREtTeTJsei1HWldpdUtiR0RTaTBIV2hJd3RfaWFlVWJtMlh1S0s3WlZtbnFlbThwQmNUQ0NIMDU2UjhjazRWRTZHMVRqZG5KWVRhZw?oc=5": {
+      "title": "Gigantes do saneamento ampliam dívida - Valor Econômico",
+      "summary": "Gigantes do saneamento ampliam dívida Aegea, BRK e Iguá seguem com alavancagem pressionada; Sabesp e Copasa têm indicador menor, mas em alta As grandes empresas de saneamento estão com o endividamento em alta, mas também em processo de expansão da geração de caixa. A alavancagem elevada reflete o ciclo de expansão intenso dos últimos anos, com leilões de grande porte e ofertas de outorgas…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.208430-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWdJUzl2bDh3dGtsc05nYklRTExSdWRwRU45b19aaUF4U0xZUmRyZWhNSi0yVC1NSlFQa1pFSlZ2QkQxYnZxSXJkblM0UUduLV81ZFlCMHlOUHdEWllxa2N5WWQ1RVhSUkJobnBGb19wbnZzY1QzeW1PZzhZSlRjU3lxbkRaNmlURW5FMGJvRWh0cGoxZGZhd3UtWlBVTkJlUHc1YUFHcHlFMTlqUzhR0gG-AUFVX3lxTE5ScXJBbmwwWi0xeU1Gb0NzRUE5Q09Id0diczJLdE1QUjhMSDRoSk5JSkgwX0ExbjNwUmpIRGE1dHc4SkVfNkRvSlZPVmVGS1FENDRwM2paR0dIYlFvZTNCalF0Ti1aaWxwQVVxR3N2TzJKbzd2bUg3WDd2bmM3WkZ5UWZ3NmZ6WWpuM0RYY19DdHZ2V3JHQ0ZtQ1pmcHVpWEJtb2ktYzFCN0VzaEo4SFVWdHc4YXd4RS1xV0xUZ1E?oc=5": {
+      "title": "Crise paraguaia pode segurar queda de tarifa de Itaipu - Valor Econômico",
+      "summary": "Crise paraguaia pode segurar queda de tarifa de Itaipu Redução aliviaria custos para distribuidoras brasileiras e ajudaria a conter pressão na conta de luz As crises política e financeira no Paraguai podem dificultar a redução, prevista em acordo firmado com o Brasil em 2024, da tarifa de Itaipu Binacional em 2027. Fontes da área de energia do governo brasileiro avaliam que a instabilidade deve…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.208745-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeTlYeUxZUzZKOWVrLTJUc3ZaakhBY0hlZjJacXJIbjBoREszU0hWTjJSZXZYOVFxdWpfZ0ktS2tvRF9ia3c4YmV0cXg5WWEtWUl5XzMzT052UzktVjlwNlJnTTI3ZGl5UU93cWlyQ2V0TF9ZRTFBY2pXSUVZWEU5ek5WMlRzYWJMblhTUVFNTjRrdGNXakNfZFZPcEd4SV9XTkxUN0E1SzMzOW5FWS1jWFpucVFfRFFZeFRqZ0o0NV9BNFNubGRHYWVZTVFKd0dwZ0xxNC1JcWRKRkpvOHJIM24yZnZPbEJYNWRGbU5KYWFYT1NjeGVLM1lfQl9CUQ?oc=5": {
+      "title": "SANY apresenta soluções inteligentes e eletrificadas, da energia aos equipamentos, na bauma CHINA 2026 - Estadão Blue Studio",
+      "summary": "SANY apresenta soluções inteligentes e eletrificadas, da energia aos equipamentos, na bauma CHINA 2026 AGÊNCIA DE COMUNICAÇÃO Conteúdo de responsabilidade da empresa 23 de novembro de 2026 Ao celebrar seu 40º aniversário, a SANY apresenta, em sua maior exposição até hoje, sua visão para a próxima década da construção civil. XANGAI, 23 de novembro de 2026 /PRNewswire/ — Com a abertura da bauma…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.232452-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVRuQVRIbHFKaGY1WFhyMXNseFV5d3VZZ2J4eEdzbk1sZ2x0cGg0dmFWNVlJMjdZcmZCYndCMTlaQjQydzktaHN2VVJlc2lpbkZhay1YdGZseEtHZWJhNWJobW5HbWk3RFdDQ29jYVZndEo1NmJFMDRPaTF1NnVxZHgwdmdRM2NhNFF1bVMtWDA5RXpnVkp4S3pmeVJfQWEtcGNacmJWWUJUd1U?oc=5": {
+      "title": "O desafio energético por trás da expansão dos data centers - CanalEnergia",
+      "summary": "O desafio energético por trás da expansão dos data centers. O PDE 2035, da Empresa de Pesquisa Energética (EPE), passou a considerar 77 projetos de data centers, que somam 26,3 GW, ante 12 projetos e 2,5 GW no documento anterior",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.232593-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWM4Sjh0RWtmbXVSSDlXU0JNTGZKTUhPYUtMekdtT1RhdmFuaWhZY3FxeGc1ekVPbWRvV2dYX1Y5dHZpSmR6UVZFNHNUZ0Njd3VFZGF2enJIakNTaElwbVF6bm9NVUI4anFsQk1BcFVlX3ZMclo1c21SanZpTWFfNkljRzNzQ21vd25VdnVjMFo4SGdvek91aE9qN1JlOGFBY0tfVG5RZ0FQSThFWFl0azZzYlZyR1pRaTZfVlRXcmpnUTNCUHphbW5fUzBBMV94dlNITnh2a193N01mLTRWUzRlTl8waW8?oc=5": {
+      "title": "ENERGY TechTALKS discute como reduzir riscos de arco elétrico e modernizar instalações de média tensão - CanalEnergia",
+      "summary": "O Energy TechTALKS realizará uma nova edição no próximo dia 9 de dezembro, às 10h, com o tema “Arco Elétrico em Média Tensão: Como Reduzir Riscos e Modernizar Instalações Antigas”. O webinar, promovido pelo CanalEnergia em parceria com a GE Vernova, reunirá especialistas para discutir os principais desafios relacionados à segurança de instalações elétricas de média tensão e os caminhos…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.249596-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnhxdFRoVHdWdE5IM2Ytajc5b2d6RXV4a2JMQzVPWlMxS1NpU2lkR2QyWEVCTXNhVHpFd1A5SzM0ZWVvLTlKOUxFZWhDLWgyTHVpQk9obUg3X2xuanpoMjkyXzBSRGROdG1GdjU3Z3ZlUDU5YTBiaHhwS0lFTy1HQ2J2dFNTclpTSDdSVnV4d1lSVjlzUXRPME5aU3F4NXhKQmEzamVDN3FxRTFURmhaTXhUUV9xeXU3VzZYekw2cEFlUQ?oc=5": {
+      "title": "Arauco contesta regras do Pnast e execução de R$ 1,1 milhão pelo ONS - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) negou o pedido de medida cautelar apresentado pela Arauco Celulose do Brasil para obrigar o Operador Nacional do Sistema Elétrico (ONS) a devolver R$ 1,1 milhão referentes à execução da Garantia Financeira para Solicitação de Acesso (GPA) da usina termelétrica Sucuriú. Início Economia e Política Empresas Empresas Arauco contesta regras do Pnast e…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.250248-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFBUSGJjSlNfYjZZM21tUl84NmpBT1dhbW44LXlqSFdIbVNWTm50d0d6SV94TERabGpfVTdDYWwtLVpPMUlBeGpkM3hrcHFKZUk5UEh6cUtXdm1UUmNfdnRFTmVxNG9YYnh2S2hhWUUteTRueldVXzIwZG9FTTMxVDR6T3R3RTY3eDNrLXVzQVNCLVlDc19WaXpkV05tRjM1RW1xdktfZ2NMV0hlZ3R6ZVIzckhzYUE?oc=5": {
+      "title": "Empresa desiste de 80 MW em geração solar em PE por falta de margem - MegaWhat",
+      "summary": "A Central Geradora Fotovoltaica Barrinhas SPE solicitou a revogação da outorga da UFV Solar Barrinhas, por falta de margem de escoamento. O projeto previa uma planta de 80 MW localizada no município de Ouricuri, em Pernambuco, com conexão à subestação Ouricuri 138/69 kV, da Neoenergia Pernambuco.",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.250630-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3MzT0JfWGVKc0dMa3pjUXBjRnVjSFFaM3pHM2RnX1Z5NktNVVcyNENfdkJqRzctd1FyVW9zLW5nYVJYOVZtYm5meXoxSi1Fc20xWHNzd1ZXY3ZuT2NtQzlnbHdyb0ZsSkQ4NlFOV1ZsY21lSmVaWGRtdVQxdmtJZUVGYUhoanhwbWlveWRwcVZJLVdESzVMeUtiREtGT0xKdUtIMV9acGxQa2Jxb2Z2ZDZleVZJOVIzQktESVd3?oc=5": {
+      "title": "Compagas inicia fornecimento de biometano à Coca-Cola no Paraná - MegaWhat",
+      "summary": "A Compagas iniciou o fornecimento de biometano para a Coca-Cola Femsa Brasil em Maringá, no Paraná, numa nova etapa de expansão da infraestrutura de distribuição no Norte do estado. Com investimento de R$ 20 milhões, o projeto conta com 12 quilômetros de rede implantados na primeira fase e prevê atender principalmente os mercados industrial e veicular, com fornecimento inicial de biometano…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.251300-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamdvTU5xYWFEczluWUViejE4WmozUHhJU0hfb2EzVlNQZHBVa3M1QjR1ZmVEWUlGLWx6dzhFblhsTDgxN3J3WXdMbjAyVUtHSXpYOHIzQnROZXVSMEcyWlA2RzFjUWxxeDFLY3hhY1ZBWFN0SUdXWlJKcHgyN3YxV0d2OWVnYU9QWUZzYl9OYmxTTzJ1ck52UW9mVW5faHd4TlJpTQ?oc=5": {
+      "title": "Leilões de baterias têm inscrições prorrogadas até esta segunda - MegaWhat",
+      "summary": "A Agência Nacional de Energia Elétrica (Aneel) prorrogou até esta segunda-feira, 23 de novembro, às 12h, o prazo de inscrição online nos dois leilões de reserva de capacidade para contratação de sistemas de armazenamento em baterias, previstos para os dias 2 e 4 de dezembro. Originalmente, o período de inscrições terminaria na sexta-feira, 20, às 23h.",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.251625-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZUpPUTFndC12d3Bfdi1ETDhRTWtuOVN4Y25fdVlUa2Y5V1NSWkdTT1dEZ2dyc3ZUaG5LNXlvNWgtWkwtQ1liSzNabVdrNERkczFCMzdVYWFna2pwVFFuRWxiUDExTFZ3SXB5U1pVWFhsRFNGNW1SYl9wWjhReDdUbWhUSThtbW5fbU55ZUk0aXhEUFJpX3lZVW55TXBZZnR2d1k5Y0R3?oc=5": {
+      "title": "Preços de energia sobem mais de 10% para novembro na BBCE - MegaWhat",
+      "summary": "Os preços de energia elétrica negociados no EHUB da BBCE encerraram a semana de 16 a 19 de novembro, com altas nos contratos para os últimos meses de 2026 e quedas em parte dos produtos com entrega no início de 2027. O destaque foi novembro, que avançou 10,26%, passando de R$ 84,1/MWh para R$ 92,73/MWh, seguido por dezembro, com valorização de 5,54%, para R$ 99,74/MWh.",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.267898-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0N3djdpZkt1eV91UEpCX1pNWmc1c2syM0hJNDVlYTgyd0QwNjZELXJCSXBJT1UwSk81cXlubXBkQlMxbFNoVjVHSVl5dVM0ZXBPMGQ4V2RNbmRHcHAxSzJPYTVSNDgwT0FQNjU4THRkSVR0WmJFRnc3MG9kUlRZVXkwLTNpU3lqWUFxOFUzNG95a2p4VExFSTVTWXI2R1VwbVl1YmFwc1IxcWd0RDhB?oc=5": {
+      "title": "Crise paraguaia pode segurar queda de tarifa de Itaipu – Edição do dia - MegaWhat",
+      "summary": "As crises política e financeira no Paraguai podem dificultar a redução, prevista em acordo firmado com o Brasil em 2024, da tarifa de Itaipu Binacional em 2027, de acordo com reportagem do Valor Econômico. Notícias do dia Notícias do dia As crises política e financeira no Paraguai podem dificultar a redução, prevista em acordo firmado com o Brasil em 2024, da tarifa de Itaipu Binacional em 2027…",
+      "source": "",
+      "added_at": "2026-11-23T10:21:41.268334-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
