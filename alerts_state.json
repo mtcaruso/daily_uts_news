@@ -3502,10 +3502,6 @@
       "desde": "2026-11-20T00:24:16+00:00",
       "erro": "API do MME: HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=40&sortBy=id&sort",
       "avisado": "2026-11-20"
-    },
-    "ANEEL · DOU Seção 3": {
-      "desde": "2026-11-23T10:41:09+00:00",
-      "erro": "busca do DOU de 20/11: 502 Server Error: Bad Gateway for url: https://www.in.gov.br/consulta/-/buscar/dou?q=%2A&s=do3&exactDate=personalizado&publishFrom=20-11-2026&publishTo=20-11-2026&delta=50&orgPr"
     }
   },
   "aneel_objetos": {
