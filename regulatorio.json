@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-24T09:13:53-03:00",
+ "gerado_em": "2026-11-24T09:29:35-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-24T09:13:53-03:00",
+   "lido_em": "2026-11-24T09:29:35-03:00",
    "listagem_pc": "2026-11-24T02:54:50.248827-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?); ANEEL · DOU Seção 3: busca do DOU de 23/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-24T09:13:53-03:00"
+   "lido_em": "2026-11-24T09:29:35-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-24T09:13:53-03:00"
+   "lido_em": "2026-11-24T09:29:35-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-24T09:13:53-03:00"
+   "lido_em": "2026-11-24T09:29:35-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-24T09:13:53-03:00"
+   "lido_em": "2026-11-24T09:29:35-03:00"
   },
   "TCU": {
    "ok": true,
@@ -696,6 +696,21 @@
      "k": "arsesp8389",
      "t": "Regulamento - Prorrogação do prazo para envio de Contribuições da CP 17/2026",
      "data": "2026-11-06"
+    },
+    {
+     "k": "arsesp8415",
+     "t": "Contribuição FIESP",
+     "data": "2026-11-24"
+    },
+    {
+     "k": "arsesp8416",
+     "t": "Contribuição ABIQUIM",
+     "data": "2026-11-24"
+    },
+    {
+     "k": "arsesp8417",
+     "t": "Contribuição Marcus Vinicius Cardoso Barbosa Sociedade de Advogados",
+     "data": "2026-11-24"
     }
    ]
   },
@@ -3044,12 +3059,24 @@
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
    "audiencia": "19/11 10h00",
    "audiencia_dia": "2026-11-19",
-   "n_docs": 12,
-   "ult_doc": "2026-11-19"
+   "n_docs": 15,
+   "ult_doc": "2026-11-24"
   }
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "eebb5e415086",
+   "dia": "2026-11-24",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "CP 17/2026: 3 documentos novos",
+   "detalhe": "Contribuição FIESP · Contribuição ABIQUIM · Contribuição Marcus Vinicius Cardoso Barbosa Sociedade de Advogados",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
+   "ref": "arsesp-cp-17-2026",
+   "visto_em": "2026-11-24T09:29:35-03:00"
+  },
   {
    "uid": "84b108eba9f2",
    "dia": "2026-11-23",
