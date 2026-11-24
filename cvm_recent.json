@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-24T02:38:34.167133-03:00",
+  "last_updated": "2026-11-24T13:22:31.499021-03:00",
   "items": [
+    {
+      "cnpj_short": "00332-8",
+      "empresa_nome": "AXIA ENERGIA NORDESTE S.A.",
+      "categoria": "Assembleia",
+      "tipo": "AGE",
+      "especie": "Deliberar sobre: (i) pagamento, à Axia Energia, de Dividendos Não Distribuídos dos exercícios de 2019 e 2020, e pagamento parcial de Dividendos Não Distribuídos do exercício de 2021.Ata",
+      "data_referencia": "20261118 18/11/2026 10:00",
+      "data_entrega": "20261124 24/11/2026 09:33",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Deliberar sobre: (i) pagamento, à Axia Energia, de Dividendos Não Distribuídos dos exercícios de 2019 e 2020, e pagamento parcial de Dividendos Não Distribuídos do exercício de 2021.",
+      "protocolo": "1592875",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1592875",
+      "empresa_label": "Eletrobras",
+      "codigo_cvm": "3328",
+      "first_seen": "2026-11-24T16:22:07.373645"
+    },
     {
       "cnpj_short": "01444-3",
       "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
