@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T19:00:51.105834-03:00",
+  "last_updated": "2026-11-24T02:54:50.248827-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -2261,8 +2261,8 @@
       "date": "23/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
       "summary": null,
-      "added_at": "2026-11-23T19:00:50.605513-03:00",
-      "error": "summarize_failed"
+      "added_at": "2026-11-24T02:54:49.748612-03:00",
+      "error": "no_body"
     }
   }
 }
