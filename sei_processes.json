@@ -6,6 +6,8 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "37ac090caf35",
+      "64609fbc88d6",
       "0de7e1cda678",
       "e8cf4c22f47a",
       "a1797179cf32",
@@ -617,12 +619,24 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 610,
+    "andamento_count": 612,
     "documento_count": 489,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-23T13:39:33.619570-03:00",
+    "last_check_at": "2026-11-24T11:45:46.589421-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "24/11/2026 11:31",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "37ac090caf35"
+      },
+      {
+        "datahora": "23/11/2026 14:07",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+        "hash": "64609fbc88d6"
+      },
       {
         "datahora": "19/11/2026 12:03",
         "unidade": "GAB III - LLS",
@@ -670,18 +684,6 @@
         "unidade": "SGE - PUBLICAÇÃO",
         "descricao": "Reabertura do processo na unidade",
         "hash": "aedd54f92db3"
-      },
-      {
-        "datahora": "09/11/2026 15:57",
-        "unidade": "GAB - APOIO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "062d98d9fd2b"
-      },
-      {
-        "datahora": "05/11/2026 10:55",
-        "unidade": "CPL",
-        "descricao": "Processo recebido na unidade",
-        "hash": "5bed294d0cb3"
       }
     ],
     "last_documentos_top10": [
@@ -1326,7 +1328,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-23T13:39:36.086245-03:00",
+    "last_check_at": "2026-11-24T11:45:49.025857-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1553,7 +1555,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-23T13:39:38.645321-03:00",
+    "last_check_at": "2026-11-24T11:45:54.582834-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -1759,6 +1761,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T13:58:14.887896",
     "andamentos_seen": [
+      "82f3c6772bf0",
       "f957fa2fe27f",
       "c3f0cd6e4679",
       "b53b5ca86072",
@@ -2040,12 +2043,18 @@
       "c31381418947",
       "3b6d0240376f"
     ],
-    "andamento_count": 280,
+    "andamento_count": 281,
     "documento_count": 146,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-23T13:39:41.973445-03:00",
+    "last_check_at": "2026-11-24T11:45:57.850520-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "24/11/2026 11:33",
+        "unidade": "GAB - APOIO",
+        "descricao": "Conclusão do processo na unidade",
+        "hash": "82f3c6772bf0"
+      },
       {
         "datahora": "19/11/2026 09:15",
         "unidade": "GAB - APOIO",
@@ -2099,12 +2108,6 @@
         "unidade": "SCE",
         "descricao": "Processo 48500.029124/2026-18 anexado",
         "hash": "8fd0f59b8fa7"
-      },
-      {
-        "datahora": "14/10/2026 11:01",
-        "unidade": "STE",
-        "descricao": "Conclusão do processo na unidade",
-        "hash": "6e3998d1c792"
       }
     ],
     "last_documentos_top10": [
@@ -2678,7 +2681,7 @@
     ],
     "andamento_count": 308,
     "documento_count": 238,
-    "last_check_at": "2026-11-23T13:39:46.042201-03:00",
+    "last_check_at": "2026-11-24T11:46:01.705188-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "12/11/2026 10:55",
@@ -3129,7 +3132,7 @@
     ],
     "andamento_count": 9,
     "documento_count": 10,
-    "last_check_at": "2026-11-23T13:39:48.476944-03:00",
+    "last_check_at": "2026-11-24T11:46:04.174199-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 11:24",
@@ -3310,6 +3313,7 @@
     "processo": "48500.900599/2019-95",
     "tipo": "Gestão Tarifária: Distribuição - Revisão Tarifária Extraordinária - RTE",
     "andamentos_seen": [
+      "21f074f5beb7",
       "78c1e55abc17",
       "f338a5748e51",
       "65625d882fca",
@@ -3370,10 +3374,16 @@
       "35940288b183",
       "45c4e81ed414"
     ],
-    "andamento_count": 59,
-    "documento_count": 62,
-    "last_check_at": "2026-11-23T13:39:51.041785-03:00",
+    "andamento_count": 60,
+    "documento_count": 64,
+    "last_check_at": "2026-11-24T11:46:06.770322-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "24/11/2026 11:08",
+        "unidade": "STR",
+        "descricao": "Reabertura do processo na unidade",
+        "hash": "21f074f5beb7"
+      },
       {
         "datahora": "23/11/2026 12:08",
         "unidade": "GAB - APOIO",
@@ -3427,15 +3437,29 @@
         "unidade": "STR",
         "descricao": "Processo 48500.018797/2026-34 anexado",
         "hash": "4918fac30117"
-      },
-      {
-        "datahora": "02/07/2026 14:02",
-        "unidade": "STR",
-        "descricao": "Processo 48500.018856/2026-74 anexado",
-        "hash": "cf6b23b84b0d"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0513968",
+        "tipo": "Anexo",
+        "data": "24/11/2026",
+        "data_inclusao": "24/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0513970",
+        "tipo": "Planilha",
+        "data": "24/11/2026",
+        "data_inclusao": "24/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
       {
         "protocolo": "0513053",
         "tipo": "Despacho de Distribuição de Processo",
@@ -3515,26 +3539,6 @@
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHrX1NOGXKZfkOiP6GpnsdyJziBlE8WJrgbNb6otLvgiBA,,",
         "unidade_nome": "Protocolo-Geral",
         "restrito": false
-      },
-      {
-        "protocolo": "48500.018884/2026-91",
-        "tipo": "Regulação Econômica: Normatização",
-        "data": "30/06/2026",
-        "data_inclusao": "30/06/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHowIiZ_0WZCWNWiuGzz-DqYsyPGIpgIpx3UwRwzFJSq4w,,",
-        "unidade_nome": "Protocolo-Geral",
-        "restrito": false
-      },
-      {
-        "protocolo": "48500.018879/2026-89",
-        "tipo": "Regulação Econômica: Normatização",
-        "data": "30/06/2026",
-        "data_inclusao": "30/06/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHruuFaX-S00Duj1c5zxuASlGv4v6Kab74-rt_1OmAXNpQ,,",
-        "unidade_nome": "Protocolo-Geral",
-        "restrito": false
       }
     ],
     "documentos_protocolos": [
@@ -3599,7 +3603,9 @@
       "0509264",
       "0509940",
       "0509982",
-      "0513053"
+      "0513053",
+      "0513968",
+      "0513970"
     ]
   },
   {

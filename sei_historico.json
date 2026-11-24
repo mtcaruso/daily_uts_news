@@ -4896,6 +4896,18 @@
   ],
   "andamentos": [
    {
+    "datahora": "24/11/2026 11:31",
+    "unidade": "GAB - APOIO",
+    "descricao": "Conclusão do processo na unidade",
+    "hash": "37ac090caf35"
+   },
+   {
+    "datahora": "23/11/2026 14:07",
+    "unidade": "SGE - PUBLICAÇÃO",
+    "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+    "hash": "64609fbc88d6"
+   },
+   {
     "datahora": "19/11/2026 12:03",
     "unidade": "GAB III - LLS",
     "descricao": "Processo recebido na unidade",
@@ -10907,6 +10919,12 @@
    }
   ],
   "andamentos": [
+   {
+    "datahora": "24/11/2026 11:33",
+    "unidade": "GAB - APOIO",
+    "descricao": "Conclusão do processo na unidade",
+    "hash": "82f3c6772bf0"
+   },
    {
     "datahora": "19/11/2026 09:15",
     "unidade": "GAB - APOIO",
@@ -16992,6 +17010,26 @@
   "tipo": "Gestão Tarifária: Distribuição - Revisão Tarifária Extraordinária - RTE",
   "documentos": [
    {
+    "protocolo": "0513968",
+    "tipo": "Anexo",
+    "data": "24/11/2026",
+    "data_inclusao": "24/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0513970",
+    "tipo": "Planilha",
+    "data": "24/11/2026",
+    "data_inclusao": "24/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
     "protocolo": "0513053",
     "tipo": "Despacho de Distribuição de Processo",
     "data": "23/11/2026",
@@ -17613,6 +17651,12 @@
    }
   ],
   "andamentos": [
+   {
+    "datahora": "24/11/2026 11:08",
+    "unidade": "STR",
+    "descricao": "Reabertura do processo na unidade",
+    "hash": "21f074f5beb7"
+   },
    {
     "datahora": "23/11/2026 12:08",
     "unidade": "GAB - APOIO",

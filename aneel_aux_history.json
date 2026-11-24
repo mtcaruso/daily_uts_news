@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T23:46:14.020138-03:00",
+  "last_updated": "2026-11-24T11:45:42.517329-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -13,6 +13,14 @@
       "start_date": "29/04/2026",
       "fonte": "MME",
       "sei_processo": "48360.000100/2026-11"
+    },
+    "pauta_14758": {
+      "type": "pauta_rd",
+      "title": "PAUTA DA 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
+      "date": "02/06/2026",
+      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14758&idAreaNoticia=425",
+      "summary": "- **Reajuste RAP 2026**: Tratamento de casos extraordinários e excepcionais para o processo de reajuste da Receita Anual Permitida – RAP.\n- **Armazenamento de Energia**: Resultado da Consulta Pública nº 39/2023 para aprimoramento da regulação de armazenamento de energia elétrica.\n- **Abertura de Mercado Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição com abertura de mercado para consumidores do Grupo A e Open Energy.\n- **CUST de Geradoras**: Resultado da Consulta Pública nº 7/2026 para mecanismo regulatório excepcional de manutenção de Contratos de Uso do Sistema de Transmissão – CUST por centrais geradoras.\n- **Modernização Tarifas de Distribuição**: Proposta de abertura de Consulta Pública para modernização das Tarifas de Distribuição – Ciclo 1 (Custo Comercial).",
+      "added_at": "2026-05-28T13:06:58.206620"
     },
     "noticia_2026_bandeira-tarifaria-em-junho-permanece-amarela": {
       "type": "noticia",
@@ -2117,7 +2125,7 @@
       "objeto": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED).",
       "fonte": "ANEEL",
       "first_seen": "2026-11-19T10:39:16.964325-03:00",
-      "deadline": "31/01/2027",
+      "deadline": "01/02/2027",
       "deadline_source": "detalhe",
       "start_date": "19/11/2026"
     },
@@ -2133,7 +2141,7 @@
       "objeto": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio.",
       "fonte": "ANEEL",
       "first_seen": "2026-11-19T10:39:17.465830-03:00",
-      "deadline": "31/01/2027",
+      "deadline": "01/02/2027",
       "deadline_source": "detalhe",
       "start_date": "19/11/2026"
     },
@@ -2200,9 +2208,20 @@
       "title": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta",
       "date": "23/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
-      "summary": null,
-      "added_at": "2026-11-25T23:46:13.519881-03:00",
-      "error": "no_body"
+      "summary": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta Evento está marcado para a próxima quarta-feira (25/11) pelo YouTube da Agência A Agência Nacional de Energia Elétrica (ANEEL) promove nesta quarta-feira, 25 de novembro, webinar para a apresentação do projeto de Pesquisa, Desenvolvimento e Inovação (PDI) da Governança Colaborativa do…",
+      "added_at": "2026-11-24T11:45:42.016374-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "noticia_2026_participe-do-webinar-sobre-avancos-e-perspectivas-da-modernizacao-tarifaria": {
+      "type": "noticia",
+      "title": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária",
+      "date": "24/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/participe-do-webinar-sobre-avancos-e-perspectivas-da-modernizacao-tarifaria",
+      "summary": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária A Superintendência de Gestão Tarifária e Regulação Econômica (STR) realizará o webinar “Tarifas do Futuro: Avanços e Perspectivas da Modernização Tarifária”, no dia 26 de novembro de 2026, das 14h às 17h40. Inscreva-se.",
+      "added_at": "2026-11-24T11:45:40.540796-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     }
   }
 }
