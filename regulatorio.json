@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-23T23:46:48-03:00",
+ "gerado_em": "2026-11-24T00:02:26-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-23T23:46:48-03:00",
+   "lido_em": "2026-11-24T00:02:26-03:00",
    "listagem_pc": "2026-11-23T19:00:51.105834-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-23T23:46:48-03:00"
+   "lido_em": "2026-11-24T00:02:26-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-23T23:46:48-03:00"
+   "lido_em": "2026-11-24T00:02:26-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-23T23:46:48-03:00"
+   "lido_em": "2026-11-24T00:02:26-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-23T23:46:48-03:00"
+   "lido_em": "2026-11-24T00:02:26-03:00"
   },
   "TCU": {
    "ok": true,
@@ -641,7 +641,7 @@
    "tema": "Revisão dos Módulos 1 e 5 das Regras de Transmissão (REN nº 905/2020) busca subsídios para minutas de Resolução Normativa. Ação baseada na Nota Técnica nº 97/2026-STD/ANEEL.",
    "inicio": "2026-10-08",
    "fim": "2026-11-23",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
    "docs": [],
@@ -656,7 +656,7 @@
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
    "inicio": "2026-10-23",
    "fim": "2026-11-23",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "saneamento",
    "audiencia": null,
    "publicado": "2026-10-23",
@@ -3039,7 +3039,7 @@
    "numero": "CP 17/2026 + AP 07/2026",
    "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemC=197",
    "grupo": "Saneamento",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "fim": "2026-11-23",
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
    "audiencia": "19/11 10h00",
