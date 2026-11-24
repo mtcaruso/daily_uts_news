@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-24T02:54:50.251846-03:00",
+  "last_run": "2026-11-24T17:37:29.121737-03:00",
   "news_count": 0,
   "pautas_count": 0,
   "partic_by_type": {
@@ -10,5 +10,5 @@
   "pending": 1,
   "done": 0,
   "failed": 1,
-  "pruned": 0
+  "pruned": 6
 }

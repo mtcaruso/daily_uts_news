@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T02:54:50.248827-03:00",
+  "last_updated": "2026-11-24T17:37:29.119263-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -13,66 +13,6 @@
       "start_date": "29/04/2026",
       "fonte": "MME",
       "sei_processo": "48360.000100/2026-11"
-    },
-    "noticia_2026_seminario-sobre-regulacao-e-analise-economica-do-direito-e-encerrado-com-participacao-expressiva-e-debates-sobre-o-setor-eletrico": {
-      "type": "noticia",
-      "title": "Seminário sobre Regulação e Análise Econômica do Direito é encerrado com participação expressiva e debates sobre o Setor Elétrico",
-      "date": "27/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/seminario-sobre-regulacao-e-analise-economica-do-direito-e-encerrado-com-participacao-expressiva-e-debates-sobre-o-setor-eletrico",
-      "summary": "A ANEEL encerrou um seminário que debateu temas cruciais do Setor Elétrico Brasileiro, como a demanda de energia para datacenters, principalmente na região Sudeste, e a transição energética. Empresas como **WEG**, **Engie**, **EDP South America**, **Energisa** e **CPFL** participaram das discussões sobre desafios de distribuição, transmissão e a necessidade de um sistema elétrico robusto. Não foram anunciados valores, datas ou prazos específicos, mas sim a importância de segurança jurídica e regulação baseada em evidências.",
-      "added_at": "2026-05-28T11:07:09.230153"
-    },
-    "noticia_2026_aneel-anuncia-o-projeto-energia-consciente-para-aplicacao-em-escolas-publicas": {
-      "type": "noticia",
-      "title": "ANEEL anuncia o Projeto Energia Consciente para aplicação em escolas públicas",
-      "date": "27/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-anuncia-o-projeto-energia-consciente-para-aplicacao-em-escolas-publicas",
-      "summary": "A ANEEL lançou o Projeto Energia Consciente, uma iniciativa educacional de eficiência energética para **30 mil estudantes** do ensino fundamental em **25 escolas públicas**. O projeto, com investimento de **R$ 6,1 milhões** em **24 meses**, envolve as distribuidoras **Neoenergia Brasília**, **Neoenergia Elektro**, **Equatorial Alagoas**, **Equatorial Pará** e **Equatorial Energia CEEE**.",
-      "added_at": "2026-05-28T11:07:11.246061"
-    },
-    "partic_cp_015_2026": {
-      "type": "partic_cp",
-      "title": "Consulta Pública nº 015/2026",
-      "date": null,
-      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=EBrkIEUX&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4016&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
-      "summary": "Aprimoramento do Relatório de Análise de Impacto Regulatório e da minuta de Resolução Normativa que altera o Anexo VIII da **Resolução Normativa nº 948/2021**.",
-      "added_at": "2026-05-28T09:32:24.876508",
-      "objeto": "obter subsídios para o aprimoramento do Relatório de Análise de Impacto Regulatório e da minuta de Resolução Normativa que altera o Anexo VIII da Resolução Normativa nº 948, de 16 de novembro de 2021.",
-      "deadline": "13/07/2026",
-      "start_date": "28/05/2026",
-      "fonte": "ANEEL"
-    },
-    "partic_cp_014_2026": {
-      "type": "partic_cp",
-      "title": "Consulta Pública nº 014/2026",
-      "date": null,
-      "link": "https://antigo.aneel.gov.br/web/guest/consultas-publicas?p_auth=EBrkIEUX&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4015&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
-      "summary": "Revisão tarifária da **Celesc Distribuição S.A. (Celesc-DIS)** — proposta para vigor em **22 de agosto de 2026**.",
-      "added_at": "2026-05-28T09:32:26.218057",
-      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Celesc Distribuição S.A. – Celesc-DIS, a vigorar a partir de 22 de agosto de 2026.",
-      "deadline": "13/07/2026",
-      "start_date": "28/05/2026",
-      "fonte": "ANEEL"
-    },
-    "partic_ap_004_2026": {
-      "type": "partic_ap",
-      "title": "Audiência Pública nº 004/2026",
-      "date": null,
-      "link": "https://antigo.aneel.gov.br/web/guest/audiencias-publicas?p_auth=Fo2U6tMO&p_p_id=participacaopublica_WAR_participacaopublicaportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_pos=1&p_p_col_count=2&_participacaopublica_WAR_participacaopublicaportlet_ideParticipacaoPublica=4017&_participacaopublica_WAR_participacaopublicaportlet_javax.portlet.action=visualizarParticipacaoPublica",
-      "summary": "Revisão tarifária da **Celesc Distribuição S.A. (Celesc-DIS)** — proposta para vigor em **22 de agosto de 2026**.",
-      "added_at": "2026-05-28T09:32:27.445174",
-      "objeto": "obter subsídios para aprimorar a proposta referente à Revisão Tarifária Periódica de 2026 da Celesc Distribuição S.A. – Celesc-DIS, a vigorar a partir de 22 de agosto de 2026.",
-      "deadline": "18/06/2026",
-      "start_date": "18/06/2026",
-      "fonte": "ANEEL"
-    },
-    "pauta_14758": {
-      "type": "pauta_rd",
-      "title": "PAUTA DA 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
-      "date": "02/06/2026",
-      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14758&idAreaNoticia=425",
-      "summary": "- **Reajuste RAP 2026**: Tratamento de casos extraordinários e excepcionais para o processo de reajuste da Receita Anual Permitida – RAP.\n- **Armazenamento de Energia**: Resultado da Consulta Pública nº 39/2023 para aprimoramento da regulação de armazenamento de energia elétrica.\n- **Abertura de Mercado Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição com abertura de mercado para consumidores do Grupo A e Open Energy.\n- **CUST de Geradoras**: Resultado da Consulta Pública nº 7/2026 para mecanismo regulatório excepcional de manutenção de Contratos de Uso do Sistema de Transmissão – CUST por centrais geradoras.\n- **Modernização Tarifas de Distribuição**: Proposta de abertura de Consulta Pública para modernização das Tarifas de Distribuição – Ciclo 1 (Custo Comercial).",
-      "added_at": "2026-05-28T13:06:58.206620"
     },
     "noticia_2026_bandeira-tarifaria-em-junho-permanece-amarela": {
       "type": "noticia",
@@ -2261,7 +2201,7 @@
       "date": "23/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
       "summary": null,
-      "added_at": "2026-11-24T02:54:49.748612-03:00",
+      "added_at": "2026-11-24T17:37:28.619038-03:00",
       "error": "no_body"
     }
   }
