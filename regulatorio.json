@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-24T09:29:35-03:00",
+ "gerado_em": "2026-11-24T09:45:38-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-24T09:29:35-03:00",
+   "lido_em": "2026-11-24T09:45:38-03:00",
    "listagem_pc": "2026-11-24T02:54:50.248827-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?); ANEEL · DOU Seção 3: busca do DOU de 23/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-24T09:29:35-03:00"
+   "lido_em": "2026-11-24T09:45:38-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-24T09:29:35-03:00"
+   "lido_em": "2026-11-24T09:45:38-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-24T09:29:35-03:00"
+   "lido_em": "2026-11-24T09:45:38-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-24T09:29:35-03:00"
+   "lido_em": "2026-11-24T09:45:38-03:00"
   },
   "TCU": {
    "ok": true,
@@ -517,6 +517,11 @@
      "k": "arsesp1193",
      "t": "Link para a Audiência Pública Nº 07/2026",
      "data": "2026-11-19"
+    },
+    {
+     "k": "arsesp1194",
+     "t": "Apresentação Arsesp",
+     "data": "2026-11-24"
     }
    ]
   },
@@ -3059,12 +3064,24 @@
    "tema": "Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
    "audiencia": "19/11 10h00",
    "audiencia_dia": "2026-11-19",
-   "n_docs": 15,
+   "n_docs": 16,
    "ult_doc": "2026-11-24"
   }
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "626bce41430f",
+   "dia": "2026-11-24",
+   "hora": null,
+   "orgao": "ARSESP",
+   "tipo": "documento",
+   "titulo": "AP 07/2026: documento novo",
+   "detalhe": "Apresentação Arsesp · Proposta de metodologia de cálculo do compartilhamento de ganhos de eficiência (Fator X) para as empresas reguladas de Saneamento Básico (Ação Regulatória FSR-03).",
+   "link": "https://www.arsesp.sp.gov.br/SitePages/DetalhesACPublicas.aspx?idItemA=67",
+   "ref": "arsesp-ap-07-2026",
+   "visto_em": "2026-11-24T09:45:38-03:00"
+  },
   {
    "uid": "eebb5e415086",
    "dia": "2026-11-24",
