@@ -1,4 +1,4 @@
-"""Configuração das 8 fontes de notícias e das palavras de busca.
+"""Configuração das 10 fontes de notícias e das palavras de busca.
 
 🔴 Duas cópias IDÊNTICAS: utilities-interface/lib/sources.py (site) e
 daily_uts_news/sources.py (e-mail, resumos prontos e alertas). Mexeu em uma,
@@ -52,7 +52,7 @@ SEARCH_GROUPS = [
 # Limite do Google é 200 caracteres; 190 em bytes UTF-8 dá folga para acento.
 QUERY_MAX_BYTES = 190
 
-# Termos exigidos no TÍTULO nas fontes com `strict_title` (as 6 gerais). Sem
+# Termos exigidos no TÍTULO nas fontes com `strict_title` (as 8 gerais). Sem
 # esse filtro, entra tudo que cita a palavra no TEXTO: em 05/11/2026 seriam
 # ~700 manchetes em 30h em vez de ~90, quase todas fora do setor. Match pelo
 # começo da palavra, sem diferenciar maiúscula. Empresa nova ou que mudou de
@@ -137,6 +137,11 @@ SOURCES = [
     {"name": "Folha",          "domain": "folha.uol.com.br",        "strict_title": True},
     {"name": "Estadão",        "domain": "estadao.com.br",          "strict_title": True},
     {"name": "Agência Infra",  "domain": "agenciainfra.com",        "strict_title": True},
+    # Mineiras (incluídas em 24/11/2026): O Fator é quase só política de MG
+    # (entra o que cita Cemig/Copasa etc. no título); o Estado de Minas traz
+    # mais ruído ("vaso sanitário", "fios do cabelo"), parecido com Folha/Estadão.
+    {"name": "O Fator",        "domain": "ofator.com.br",           "strict_title": True},
+    {"name": "Estado de Minas", "domain": "em.com.br",              "strict_title": True},
     {"name": "Canal Energia",  "domain": "canalenergia.com.br", "sector_only": True},
     {"name": "Megawhat",       "domain": "megawhat.uol.com.br", "sector_only": True},
 ]
