@@ -90,6 +90,25 @@ jobs:
             git fetch -q origin main
             git reset -q --hard origin/main
           }
+          # Gemini fora do ar (chave sem crédito, cota) NÃO derruba o script: ele cai
+          # pro resumo extrativo em silêncio — de 10 a 24/11/2026 saiu 0 resumo LLM
+          # sem ninguém ver. O motivo só aparece no log, que exige login; o
+          # ::warning:: é público (API de check-runs). Avisa quando quebra e quando volta.
+          log="$RUNNER_TEMP/news_summarize.log"
+          gemini_ok=1
+          gemini_check() {
+            llm=$(grep -c '^  ✓' "$log"); ext=$(grep -c '^  ≈' "$log")
+            echo "resumos neste ciclo: $llm LLM, $ext extrativos"
+            if [ "$llm" -eq 0 ] && [ "$ext" -gt 0 ]; then
+              # sem linha [gemini] = a API respondeu, mas o JSON do lote veio vazio/ilegível
+              g=$(grep -m1 '^\[gemini\]' "$log"); g=${g:-sem erro [gemini] no log: resposta do lote vazia ou ilegível}
+              [ "$gemini_ok" = 1 ] && echo "::warning::Gemini: 0 resumos LLM, $ext extrativos — ${g:0:300}"
+              gemini_ok=0
+            elif [ "$llm" -gt 0 ] && [ "$gemini_ok" = 0 ]; then
+              echo "::notice::Gemini voltou: $llm resumos LLM"
+              gemini_ok=1
+            fi
+          }
           end=$(( $(date +%s) + 19800 ))  # ~5h30 (folga pro timeout de 355min)
           last=0
           while [ "$(date +%s)" -lt "$end" ]; do
@@ -98,9 +117,17 @@ jobs:
               last=$now
               echo "== $(TZ=America/Sao_Paulo date '+%d/%m %H:%M') BRT"
               sync || true
+              # O gemini_util grava um bloqueio de cota diária até a meia-noite PT
+              # (.gemini_quota_state.json). Run avulsa sempre começava sem ele; aqui
+              # ele sobreviveria aos ciclos e, se entrar crédito, o loop ficaria até
+              # 5h sem tentar. Custo de tentar a cada ciclo: 1 chamada recusada.
+              rm -f .gemini_quota_state.json
               # rodada normal leva 1-6min; 20min de teto pra um fetch pendurado
               # não estourar o timeout do job (job cancelado = corrente quebrada)
-              timeout 20m python news_summarize.py || echo "::warning::news_summarize.py falhou (exit $?)"
+              timeout 20m python news_summarize.py 2>&1 | tee "$log"
+              rc=${PIPESTATUS[0]}
+              [ "$rc" -ne 0 ] && echo "::warning::news_summarize.py falhou (exit $rc)"
+              gemini_check
               publish
             fi
             sleep 60
