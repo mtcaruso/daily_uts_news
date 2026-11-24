@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T16:04:40.376614-03:00",
+  "last_updated": "2026-11-24T16:35:26.872349-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0trUFE1bG1LSmx6Mkc4dUJ3OHdRY0IwNGphOXp4UUhMblcybVVSLWFZMHJscWcxYXNtVl9idHcyRjEzRG5ObUdBVXZady15ZDg3QzFuZ19GQnBGejBwcUJuS0pIek5KSDhOOVp4dFAwTjd6YVNqNno1OU95YWpmYkNnX3BJTEg1ckQ4YzhpaWlsdHRGTm0wZHZKNDVZbjEyX1hvTEl6cnFYUGpMNkZsWHdRTm1lUQ?oc=5": {
       "title": "Quatro empresas avaliam disputa no leilão da ferrovia Minas-Rio - Folha de S.Paulo",
@@ -4183,7 +4183,7 @@
       "source": "",
       "added_at": "2026-11-24T12:31:12.234977-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOE0tTXQ0U0F1SGlNUWQwZWRHTVpWdG1FYXpRbVFTbDNKdkpjYkt1Y0ZvNFpNWm05Yy1iWkt1c01RS1pVQUpTa1ZvTnR6aWZaYlZWQUh1MUZKMFI1YlpJVGpEMHk3U3pUMFRtLVdGcjlwMVNONVZVQ1RpOFphSzJPZ0d2TE9ORmRxQkUtaC1KRkdiVHJHZXlDRzhiQWhjSVRIdGdISlppenFIM2ZleDFlTWpBRmFTQXNidDdqV2NXVkFKaDVUX1hXMkJyZnNDT2owcXo1cTRmTEsxVGduOTQ4?oc=5": {
       "title": "Empresas de energia fizeram menos fusões e aquisições nos 9 primeiros meses do ano, diz KPMG - Valor Econômico",
@@ -4303,7 +4303,7 @@
       "source": "",
       "added_at": "2026-11-24T14:32:39.060403-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGJnSUFoR0tsZjM2cm8tUUstT3Zjc1BKMWRUQVM1UDl6cWczZVlrQmlKWG5zSUszR3VJajBoLTJRTEx1eVpIaUFlNEZBeF9UZ2NKQ0tkQVF1dmRWaWtuODdVTzI5OXdoNjVCOUhRb2liSXFrN0hqcTMxMXB5UEhYRENmSk5fTGdmaXNIdi0zcU5xU190Y0JtZEhBMlpibzc4QTJxY2hGb01DVlliQWppcEFHbXhrRDJIQ1ZzX3FQNTRxQXZ3Ymt4RjQ4c1o?oc=5": {
       "title": "Painel S.A.: De olho no 13º, distribuidoras renegociam dívidas de conta de luz com clientes - Folha de S.Paulo",
@@ -4351,7 +4351,7 @@
       "source": "",
       "added_at": "2026-11-24T15:34:10.453409-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnFQRkZYSEZySFRRWUlmRVpuNUlFcUExa211Y0U1SkI0OUM4RE5telVnQi1WMktJSlJrZEZpcWpSMVc3U2Z3am8wUm01QzFFNWdLSXBwaUx4TVNfZzM1Zk1yOGhielFfS1AtX2Q1NGFsamNabmI3TExpcXhZRmQ1RUgzNjBDeVVJMzBOaTJycXg1MnlEZlc0VnVjWXMySU9LU2tZUmxJN3N2b2RTVjBuNHNfX0NXQQ?oc=5": {
       "title": "Parceria entre Liora e 99 permite economia futura na conta de luz - CanalEnergia",
@@ -4359,7 +4359,7 @@
       "source": "",
       "added_at": "2026-11-24T15:34:10.458869-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMm5MNDFCZVJOUjZ4VkIzSENDcndHVzVHV2I2YVZoQkZrN3RQUWhHMlh3ajlfMzRMcXM2eFVHbG9sZFpJLVVyTnF1RzZNVkNzZEMzWlBGV1J4UDlDR2lDcUhvVzF1RnR0TEtKcmtzNWprRzBFY0dLLWFKZ2daSm41V2NKOWFEN3RTTkZCYkt4UWdpSE5hbzRHTjQ4TEVPX1FPX3pjNUk0U3ZQQVR0QXRWSlFNQjU?oc=5": {
       "title": "Concentração no mercado livre de energia pode levar a intervenções da Aneel - MegaWhat",
@@ -4367,13 +4367,45 @@
       "source": "",
       "added_at": "2026-11-24T15:34:10.458980-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjhLcmxQbW9tQmpwVEVXQlNIMGhfeHRQYm40X05CcnZ5UDNpbWRTUHRxbU5USVFkNnByZGdjbFBLRmZNVi1ael90MDJaQUV5a2Q3MHo3dVp3WVZXRG1seXFiY0xCMXJhZ1VaRTM1bk9DWExtNm9sOUhUZGNWLWNmN1g0RTMtVU40WlM2eExQUGhHMTBuWmZGSXJMTmF0T1k?oc=5": {
       "title": "APS amplia descontos tarifários para embarcações no Porto de Santos - Agência iNFRA",
       "summary": "da Agência iNFRA A APS (Autoridade Portuária de Santos) aumentou os descontos tarifários concedidos às embarcações que operam no Porto de Santos (SP). Com a mudança, embarcações de longo curso terão 30% de desconto a partir da segunda escala realizada em um período de 12 meses.",
       "source": "",
       "added_at": "2026-11-24T16:04:40.371040-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSm1LUmRhU0hlWC1qbGdEY2ZfNTRlYmRDY0g5MDA0Y0FxcWFKUUpUNGN6M25PTFNPOFpwRUVyN3NEWHJDXzNHQTU2R29nWXlmTzRSaFRHaFdGMFEtNEpCYjBsdVlZZ3pDcHE1UjR4aS1WSHI1X1IxY0gycHhxaktmcE9XSG5FZW0teXJZQmpEWm9CSEE1Vlk4UzJMbWZnVDN6d2dqTk9SdUxPaU9VcVpDbFhhOE0xcUJnRWFGVFVQSVZfdm5hdGhmeEZid2xkOEtVZHpZcHMyWTZvckhjOURuVDRlWG5DWDVMY1Y5cEEwX2ZkYzVt0gGDAkFVX3lxTE1IbmJpSVNJWVBZWjd2YVFwcDVQYVZvUmZWcE9KZ29BQjhpR29WaXdnWUtwNWNzUktiYWZzVjFXTW5CSGNLbzRRVEpMZ2RKb091cG5vUGZvc25xbzhrVExNTXFBc2pJSnNFSWlyTmxoN1VFVHRid21mbVU5Z2RsT0FNd09xQjd4SXdEVExHOUVKdXNWX1hDOGlmSzFHNzJ6Zk9CX1hMRjV1ZkJ0Zl9tOUhocWpyOE9KS0ktTmsyTTNSNXR2Wmh4RW1CMzZZUERYekloN0NQMU9oSlh5ZE5tc2cwNy1Fa2NTOG16eUdTRlhZY3Z0SlR4TnF0ajM5Q0xrVEh3ZmM?oc=5": {
+      "title": "Temos que gerar novas fontes de energia além do petróleo e gás para o futuro da Petrobras, diz presidente - Valor Econômico",
+      "summary": "Magda Chambriard, presidente da Petrobras — Foto: Leo Pinheiro/Valor A presidente da Petrobras, Magda Chambriard, disse nesta terça-feira (24) que a empresa tem de gerar novas fontes além do petróleo e gás para garantir o futuro da energia. Em entrevista coletiva sobre o plano de negócios 2027-2031, a executiva disse que a empresa deve “fazer o que já fazemos e adicionar novas energias”, sendo…",
+      "source": "",
+      "added_at": "2026-11-24T16:35:26.862160-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQazF2S2QzMXZnTk0wdS12SGpaMEtaRzJMVjMzR0NrYUZoZHhsczFZWHo5ei04aTQxVWdlTktLNnFJYkttMFFYU1pqVTBCUFlPbWdMSW1SRlRZMnF4cURVM2NWSXctQ1kyMXJfR3ZILUhrakhFSGtIaWZzZ0NFeFdueHFmeXpUVklfVFZmeDR2NjQ5OFAtY3dicWg4U3BmZjdaM1JtZ3hVTnpXdndoaW5hMWs5RXlVSG5ucllZdnF1a3pQMDF1ZGZFVnJ30gHPAUFVX3lxTE9NdzhpQ0g1Q3gydjhKM0o2aWw3ZEVMdkJQZktkNUY0dGdBSThaYkdhNkpyTTR3b0dORlBFRmtVMW5JWW9kbXpocFFnYmJVRGFzUFh2cXh4Y0xWcWUyQ3RObGw5cDdMY0tzM0Qxa0tOeXRTZEQ0bGZYdE81bUx4Vk5NU0JzRmJoVEdzbFBXNDdoRmFEWldRTWlNQlg0U0NjS1FIeS1IbUhlRXRSRVh2NkNCYWRwZW5wTlhic2JRZ3VGZUNiRThjcHFkS0VoQnRaRQ?oc=5": {
+      "title": "Por que o novo ‘carro de Lula’ precisa ter pneus que não furam e não pode ter teto solar? - Estadão",
+      "summary": "O novo carro do presidente Luiz Inácio Lula da Silva não poderá ter teto solar e terá de continuar rodando por pelo menos 80 quilômetros depois de um pneu furar. As exigências estão no edital da licitação aberta pela Polícia Federal (PF) para renovar a frota de veículos blindados usados na proteção de autoridades.",
+      "source": "",
+      "added_at": "2026-11-24T16:35:26.862551-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0Rvd1JSNlo0ckUzd19GbFNrdFk5MVZzSVJ5VDNIaXRHMmZJTjdDX1dLbXJ0cTM2b3ZURWZKekM0TU51SGRvTk1TSmlRWjdmWHZTT01TWG5fMFI4cnA3Q0piRTFRT0NxcHZfQi1JWS12Z1Q0VHh2eTlMcS1QSDVLMHRkcU9TMWkzWUw5a3R1LVE5QTFKVGlzcXBub0lWOWh6QWpNRWM4UlRSQXNLeDdFcHdpWVY?oc=5": {
+      "title": "Caducidade não é o caminho adequado, defende Lencastre, da Enel SP - CanalEnergia",
+      "summary": "Caducidade não é o caminho adequado, defende Lencastre, da Enel SP Presidente da distribuidora voltou a defender a manutenção do contrato e os investimentos que a empresa tem feito. Processo ja tem maioria contra na Aneel 24 de novembro de 2026, às 16h26 Tempo de leitura: 4 minutos Fonte: Maurício Godoi/CanalEnergia",
+      "source": "",
+      "added_at": "2026-11-24T16:35:26.862650-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2dqRld4cGhrRmxjZHNRYmVWblVyNnJFckVTYzBEQWtzVlBVaDZmODVUMk9LbG1VcVJwYklLNzNxa1h3anV2cDZ0X2J5OXNfbnpJdzAwS2xaR1RlTF9icVNSVmtOVjczLVMzUF90NHUtN2xzU1hDQzNXQ29mODMzbGxSbHRtb0lkLURyN01mTTRqWXh0RUZtNUxHQ3JGVW9uMHVreUJEU0sxS1l6U0ZCSEx3dmNKZ2FwckE?oc=5": {
+      "title": "Hidrelétricas defendem limite maior para projeção do consumo paraguaio em Itaipu - MegaWhat",
+      "summary": "A Associação Brasileira das Empresas Geradoras de Energia Elétrica (Abrage), que representa grandes hidrelétricas, defendeu a implementação, já em janeiro de 2027, da nova metodologia de projeção do consumo paraguaio em Itaipu, contrariando o pedido de medida cautelar apresentado na semana passada pela Associação Brasileira de Grandes Consumidores Industriais de Energia e de Consumidores Livres…",
+      "source": "",
+      "added_at": "2026-11-24T16:35:26.867826-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
