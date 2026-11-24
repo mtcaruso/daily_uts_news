@@ -1,23 +1,42 @@
-name: News Refresh (resumos a cada 2h)
+name: News Refresh (resumos a cada 30min, sem depender do agendador)
 
 # Roda apenas o news_summarize.py — pega notícias novas e gera summary.
 # NÃO envia e-mail (o digest fica só no daily.yml às 20h BRT).
-
+#
+# O agendador do GitHub DESCARTA a maioria dos crons frequentes: o cron antigo
+# (2x/hora, 07-23h BRT) rodava só 2-3 vezes por dia e em 24/11/2026 o dashboard
+# mostrava "Resumos atualizados 8h atrás". Mesmo esquema do alerts-loop e do
+# keep-alive: UM job longo em loop (~5h30) que, ao terminar, dispara o próximo
+# elo por workflow_dispatch (o GITHUB_TOKEN PODE disparar workflow_dispatch). O
+# cron de 2h só ressuscita a corrente se ela quebrar. Repo público = Actions
+# ilimitado.
+#
+# Janela: o news_summarize roda a cada 30min das 07h às 23h59 BRT, todo dia (a
+# mesma janela do cron antigo). De madrugada o elo só espera (não gasta Gemini);
+# a 1ª rodada das 07h pega o que saiu durante a noite.
 on:
-  schedule:
-    # A cada 30min, das 07h às 23h BRT (UTC-3 → 10h às 02h UTC).
-    # Minutos :7/:37 — fora do top-of-hour saturado do GHA (runs em :00 eram
-    # dropados com frequência). Cadência maior garante que quando o usuário
-    # abrir o dashboard, os resumos das notícias novas já estejam prontos.
-    - cron: "7,37 10,11,12,13,14,15,16,17,18,19,20,21,22,0,1,2 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "23 */2 * * *"
+  push:
+    branches: [main]
+    paths: [.github/workflows/news_refresh.yml]  # mudou o arquivo → já começa
 
 permissions:
   contents: write
+  actions: write  # disparar o próximo elo
+
+# Sem cancel-in-progress: o cron de ressurreição NUNCA mata um elo no meio de um
+# ciclo (resumo pago no Gemini e ainda não commitado). Com a corrente viva, ele
+# fica pendente e é substituído pelo próximo elo (nunca 2 loops juntos).
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,16 +44,69 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Gerar summaries das notícias
-        run: python news_summarize.py
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          LOOKBACK_HOURS: "30"
-      - name: Commit news_history.json
+      - name: git identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news_history.json news_diagnostic.json
-          git diff --staged --quiet || git commit -m "Refresh news summaries [skip ci]"
-          git pull --rebase origin main || true
-          git push
+      - name: Loop (~5h30)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LOOKBACK_HOURS: "30"
+        run: |
+          set +e  # o runner usa bash -e: um erro avulso não pode matar a corrente
+          # news_history.json tem 2 escritores (este loop e o local_refresh do PC):
+          # pull --rebase -X theirs antes e depois, como no alerts-loop.
+          sync() {
+            git pull -q --rebase -X theirs --autostash origin main || { git rebase --abort 2>/dev/null; return 1; }
+          }
+          # JSON quebrado no main derruba o news_summarize (json.loads sem try) e o
+          # dashboard: confere antes de commitar e depois de juntar com o PC.
+          valid() {
+            python -c "import json; [json.load(open(f, encoding='utf-8')) for f in ('news_history.json', 'news_diagnostic.json')]" 2>/dev/null
+          }
+          publish() {
+            if ! valid; then
+              echo "::warning::JSON inválido depois do news_summarize — ciclo descartado"
+              git checkout -- news_history.json news_diagnostic.json
+              return 0
+            fi
+            git add news_history.json news_diagnostic.json
+            git diff --cached --quiet && return 0
+            git commit -qm "Refresh news summaries [skip ci]"
+            for i in 1 2 3; do
+              if sync; then
+                if ! valid; then
+                  echo "::warning::merge com outro escritor gerou JSON inválido — ciclo descartado, o próximo refaz"
+                  git reset -q --hard origin/main
+                  return 0
+                fi
+                git push -q && return 0
+              fi
+              sleep 10
+            done
+            # Não deixa um commit preso travar os próximos ciclos deste elo: volta
+            # pro main; os itens deste ciclo continuam pendentes e o próximo refaz.
+            echo "::warning::push falhou 3x — ciclo descartado, o próximo refaz"
+            git fetch -q origin main
+            git reset -q --hard origin/main
+          }
+          end=$(( $(date +%s) + 19800 ))  # ~5h30 (folga pro timeout de 355min)
+          last=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            now=$(date +%s)
+            if [ "$(TZ=America/Sao_Paulo date +%-H)" -ge 7 ] && [ $(( now - last )) -ge 1800 ]; then
+              last=$now
+              echo "== $(TZ=America/Sao_Paulo date '+%d/%m %H:%M') BRT"
+              sync || true
+              # rodada normal leva 1-6min; 20min de teto pra um fetch pendurado
+              # não estourar o timeout do job (job cancelado = corrente quebrada)
+              timeout 20m python news_summarize.py || echo "::warning::news_summarize.py falhou (exit $?)"
+              publish
+            fi
+            sleep 60
+          done
+      - name: Dispara o próximo elo
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run news_refresh.yml --ref main
