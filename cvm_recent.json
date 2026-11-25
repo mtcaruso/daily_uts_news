@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-11-25T06:19:39.682667-03:00",
+  "last_updated": "2026-11-25T16:28:48.874695-03:00",
   "items": [
+    {
+      "cnpj_short": "01732-9",
+      "empresa_nome": "ENGIE BRASIL ENERGIA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Adicionais",
+      "especie": "ITR - Versão em inglêsDemonstrações Financeiras em Padrões Internacionais",
+      "data_referencia": "20260930 30/09/2026",
+      "data_entrega": "20261125 25/11/2026 16:02",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "ITR - Versão em inglês",
+      "protocolo": "1593583",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1593583",
+      "empresa_label": "Engie",
+      "codigo_cvm": "17329",
+      "first_seen": "2026-11-25T19:28:35.446696"
+    },
+    {
+      "cnpj_short": "01866-0",
+      "empresa_nome": "CPFL ENERGIA S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Estratégia de entrada no mercado do Grupo BAta",
+      "data_referencia": "20261113 13/11/2026 18:00",
+      "data_entrega": "20261125 25/11/2026 15:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Estratégia de entrada no mercado do Grupo B",
+      "protocolo": "1593474",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1593474",
+      "empresa_label": "CPFL Energia",
+      "codigo_cvm": "18660",
+      "first_seen": "2026-11-25T19:28:44.031754"
+    },
+    {
+      "cnpj_short": "01525-3",
+      "empresa_nome": "ENERGISA S.A.",
+      "categoria": "Dados Econômico-Financeiros",
+      "tipo": "Demonstrações Financeiras Adicionais",
+      "especie": "Demonstrações Financeiras em Padrões Internacionais 3T26Demonstrações Financeiras em Padrões Internacionais",
+      "data_referencia": "20260930 30/09/2026",
+      "data_entrega": "20261125 25/11/2026 09:25",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Demonstrações Financeiras em Padrões Internacionais 3T26",
+      "protocolo": "1593291",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1593291",
+      "empresa_label": "Energisa",
+      "codigo_cvm": "15253",
+      "first_seen": "2026-11-25T19:28:37.764729"
+    },
     {
       "cnpj_short": "01525-3",
       "empresa_nome": "ENERGISA S.A.",
@@ -5832,24 +5886,6 @@
       "empresa_label": "Equatorial",
       "codigo_cvm": "20010",
       "first_seen": "2026-10-26T21:42:29.514811"
-    },
-    {
-      "cnpj_short": "01444-3",
-      "empresa_nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-      "categoria": "Assembleia",
-      "tipo": "AGDEB",
-      "especie": "ATA DA ASSEMBLEIA GERAL DE DEBENTURISTAS NO ÂMBITO DA 35ª EMISSÃO DE DEBÊNTURES SIMPLESAta",
-      "data_referencia": "20261023 23/10/2026 10:00",
-      "data_entrega": "20261026 26/10/2026 09:27",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "ATA DA ASSEMBLEIA GERAL DE DEBENTURISTAS NO ÂMBITO DA 35ª EMISSÃO DE DEBÊNTURES SIMPLES",
-      "protocolo": "1580054",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1580054",
-      "empresa_label": "Sabesp",
-      "codigo_cvm": "14443",
-      "first_seen": "2026-10-26T09:27:51.634731"
     }
   ]
 }
