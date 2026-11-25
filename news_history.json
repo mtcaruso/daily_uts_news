@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:32:03.800597-03:00",
+  "last_updated": "2026-11-25T08:02:46.113553-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUE5oSmJMRlZxNlpUWHJOa0ZGelR0dUlicC1EbThndFMyMnota3I1b0FYeVZjeDE2MFJtNjQzdUJsZFN5VUV6MEVkWmtqVHdDWFN0YWxRVjNKQkpkWkM2cElmQXFOdUF5QXNkdGtTVGpXY0FMV29BSHlZSlFSSklOdkVla1VrakZfejJzZw?oc=5": {
       "title": "Folha.com - Classificados - Negócios - LEILÃO ARTES E ANTIGUIDADES - Classificados Folha",
@@ -2455,7 +2455,7 @@
       "source": "",
       "added_at": "2026-11-22T14:47:28.637951-03:00",
       "error": "no_article",
-      "attempts": 3
+      "attempts": 4
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVlHQUxQUnFjcm5TdXVJQ0kzdXViNEd4RmhNRDk4VURfMGtDNVdqZ0Z6M0pweU54WmJkVmVDRXhURVpuSjE5cUhsSTM4ajF3Qm9MdlVJYnlJeTcydExiNGoxMTNvSVg1bkJ1a1VIRnY5eUlwUlhod1pjVXNUOElCSmk2UVRtM0E0ZUJJU1hYZl9WWG1ObTJpX0cyZ01Gdk5JbnRYT2pYa21nZ3ItNDhfR2dCcXBHVEQ4WkN0anBVVjNsRzRQSy05REZiMU1iRjNxR1E?oc=5": {
       "title": "Ovelhas e painéis solares dividem espaço e aumentam produtividade agrícola - c-level.folha.uol.com.br",
@@ -3747,11 +3747,11 @@
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWpmU0tyME9aVW1oTUl1RDQ2cHZKZHIzSEpaN3FMYmk0NUczU3ZOdWZ1SmxZU1lwVjJOQWZVWHpCVl96cUQzZEdNLVpEb0ZfeGJnSU52RGpVaDAzdXVXRE5FU0hxbllXNEdxZjZLeWpOMDBIREpDai1QMHpVRTZqMkFFRExGVllBaTRiRDlhUXk3N2Y4X3BPamJpY05STmJDc3BwS19VcnFJYWlmT3c4WQ?oc=5": {
       "title": "Opinião - Jerson Kelman: Tarifa horária traz justiça para conta de luz - Folha de S.Paulo",
-      "summary": "A Aneel tomou a excelente iniciativa de propor preço com variação horária para o consumo de energia elétrica em residências, empresas e outras unidades atendidas na baixa tensão com consumo mensal superior a 500 kWh/mês. A implantação compulsória será gradual, em três etapas entre 2028 e 2031, começando pelos consumos acima de 1.800 kWh/mês (como referência, o consumo médio residencial é de 160…",
+      "summary": null,
       "source": "",
       "added_at": "2026-11-25T07:01:00.961759-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIVFdJamY4cnVYQnBJd2lvRDZaVW5EczZTV1VycGNqMlJfVXA1UDFzZzl0UWVJWFdBUldpckVFQ1VYQ0pFQkhoNVp5b0NOdFFER0w3QXp1UnpnbGVMdGlzMHRObk1FYk9TanVqMVFsaFpueUZ4?oc=5": {
       "title": "Arquivos política de incentivo tarifário - Agência iNFRA",
@@ -3759,7 +3759,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:08.153822-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnZMb2k2LUlGNWlnRFctWHFGNjVIaUM0STZ1Z0I2NGg2YkNJeUM5N2dDQV9kd1Z2ejhJU2FmX0JlN1g3R19vdzVOTEhIVnZzV2IzSnotSHpMZmI4dDFCRTFLWWhkLS1UazYtdUIyTzdsWDh1QmY5SmdHR2dvcnhJRWZSZUdYUmJpVTllUHVJRGhZcFA5X2RCMGRQVTdLc0VKNExOMHc5YXZUcEhtejFB?oc=5": {
       "title": "‘Gato solar’ tem custo de até R$ 4 bilhões - Valor Econômico",
@@ -3775,23 +3775,23 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085165-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjh1cGNSR3dlZUh1T0p3QXJZQzdOUVZjcUpNeVhIV3dsbkNKNVpHbzNLMVNXVldCNWtjQXlOUGs0VlFzMjRrZXhKUXo5eDFKOU1rX1FVZzB6LVpOMjNtd1NrME5TSW9WaDN1aXRGSkpEbVFFUk9QRHgxZEdfbjNLQmFuUFRMQnVpMm5RNjRQcHd3NkVmdzNNSk9XY3VKdkZKN2Q0TTA1R2tXTDJGc0tlMzRVZHpkWUxzQTZ4NlFYUWp6QTJ4YnpFUWgzZ09mY1BsTTkyeVRaZE9KeXFDVm11UmdPc2o2WEFQ0gHoAUFVX3lxTFBCOHVwY1JHd2VlSHVPSndBcllDN05RVmNxSk15WEhXd2xuQ0o1WkdvM0sxU1dWV0I1a2NBeU5QazRWUXMyNGtleEpRejl4MUo5TWtfUVVnMHotWk4yM213U2swTlNJb1ZoM3VpdEZKSkRtUUVST1BEeDFkR19uM0tCYW5QVExCdWkyblE2NFBwd3c2RWZ3M01KT1djdUp2Rko3ZDRNMDVHa1dMMkZzS2UzNFVkemRZTHNBNng2UVhRanpBMnhiekVRaDNnT2ZjUGxNOTJ5VFpkT0p5cUNWbXVSZ09zajZYQVA?oc=5": {
       "title": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado - Valor Econômico",
-      "summary": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado Tempestade geomagnética prevista para sexta e sábado pode causar instabilidade em GPS, satélites e sistemas de energia Uma tempestade geomagnética está prevista para acontecer na sexta-feira (27) e no sábado (28), de acordo com a Administração Nacional Oceânica e Atmosférica dos Estados Unidos (NOAA, na…",
+      "summary": null,
       "source": "",
       "added_at": "2026-11-25T07:01:17.085343-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeDN3Z19QVFp6THF1WkJLNXpwOXBCQ0lEUWphTGNveXl6SWNZTUw1YnpLS1JLNjdUaEI5NnNUMFhTQzRqUldiM25xRElva1pydU9taWpwTERoT05yU1ZpdGtrVWkzMDZKSXgzWHhORmFzN3BMUXd1eXdGRmZpd1BWcWowTDh0cm9CS3ZCTjJMSksxMTN4cEJ5ZGFuX3ZzY0x1QjJNOU9sQ2xPNFJINUZqd1poMGVWbE1TUHhRak1xV1ZNU0tQNHJKYnp6MUFBNHBPbVJ3c3IzSjd6aFlMY1BwRHpwemtQM296YXctMkMzX0ZuOFdQ?oc=5": {
       "title": "Alemanha dobrará subsídios a carros elétricos; abatimento pode chegar a um terço do valor total - c-level.folha.uol.com.br",
-      "summary": null,
+      "summary": "São Paulo A Alemanha pretende dobrar o valor destinado ao subsídio que oferece a consumidores que compram carros elétricos em 2027, segundo as primeiras versões do Orçamento do ano que vem apresentadas pelo governo do país europeu. De um total de 3 bilhões de euros (cerca de R$ 19 bilhões) destinados para o programa até 2029, 800 milhões foram utilizados em 2026 para subsidiar 100 mil compras de…",
       "source": "",
       "added_at": "2026-11-25T07:01:17.085502-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Gem1IRzR5a0FpOVNYTjNlUHN5Y0dUUkczR2o0TTRuc1BzNUl3RnFnbTh6TUFWUktoM0FDd3A3TnVOYmdLR29CNWZZMFprM3IwOHdCaXY0N0R3Mm1mbi1DWTVqbXptSFhybTcwZ2dRZFVjS0xDWWd1cHlvZXZrZw?oc=5": {
       "title": "LEILÃO DE BOLSAS - Classificados Folha",
@@ -3799,7 +3799,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085536-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR0gHPAUFVX3lxTE9HYTZkMlUwVjlBSmpnaVpiN1VkTERWcE5EejZLZkZwSFFUNEpnUkp3SUEzZ09fTHRLaFFtV3QxWkxoYVhoTGstNnNaWW1UdXpnVy1QOW5FbUZhV1d4RXB1RnI5U2oxVHIzRlZtSWVoX2x5X3RYOGFVRjRXeTlzQkpURV9BWkVCaWluTXI5VWw3Y2MxZ21abHFIUmFqVFpDMmpiQUJJdGE4R1l0cEJJdzZOZTdKWVNMb3htS19fOUsyUmxMa2Q4b2twUDl2ZUYtWQ?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
@@ -3815,7 +3815,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:21.747813-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajV4TmY3SkFfN3c2ZHpORDFhUFlrVzVraDZjRFBBNVJUN1JHSlpDdkZCUFBRTlNhV1RlN21aN2ZCaG50SG9aYVBlY0hhZVMtenJrbjRFdjA0R2lVbFhtRGNsOERtSzFwQ05DT3V0dFpKWnltalNPM19jRUlCVlRFVi1ZUTNrUHFuRmRueGs1ejJ5ekJGcFlOZnBiMjBwLXdHWmVCNEptdm00bDA?oc=5": {
       "title": "Investimento em baterias deve alcançar R$ 46,5 bi até 2031 - CanalEnergia",
@@ -3823,7 +3823,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:21.747878-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
@@ -3854,6 +3854,38 @@
       "summary": "Japão testa drones para inspeções em parques eólicos offshore e cabos submarinos O governo considera o investimento em tecnologia marítima fundamental para a segurança nacional, uma vez que a operação contínua de drones marítimos pode ser aplicada tanto à defesa nacional quanto a fins civis Por Nikkei Asia — Tóquio Atualizado O Gabinete do Governo do Japão financiará um projeto da Kawasaki Heavy…",
       "source": "",
       "added_at": "2026-11-25T07:31:59.177148-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW53RXFCRzZudW5JZF9LSi1NbWZsRWZLYWUzLXFBT20xdmJ3U2tUczNaOVEwNVBCY2lqODhGc284V0REWWQ3SDd1WFUzY2VETlhKSHJ0ZHVaYm51REY5a0tBeEtRWGNudFlBUm0zN012bTFMcFk1V1Z0T3VseWh4RGJ4UGY2eDFBY21LMnAtMUlfdkdnb2swR2JQYl9Bbm1SLVZDVk5lUHpJMGpWRTdTckkzalVncXUtZVVETWV2OGNpcDTSAdIBQVVfeXFMT0REenpGbHpkcWJWdEtXRVkxbDMtVXNod0tUcTNUYnZueEJpS3htcWVTdDBISl9YVldOR1hxX29xWjZkNl9qWjh3VVB6bzVBb0JxbzFiY2dlR0p1WlMzU3VoQURraGVCc0lrRWdoa041RFBweTR0bFF6dGNyUlJqUVFHUWdkMUlRVmY3WjVqTWYwREJKd3hjdTJuT3hWdlNKT3h6QkUwNHFOZkFFVy0tNkN5SlFPSlBoNHFVY1p3RFhLNmpCQXU2d0p6eWM0YnlXSU9n?oc=5": {
+      "title": "Ministério de Minas e Energia avalia possíveis vetos ao PL dos postes - Valor Econômico",
+      "summary": "Ministério de Minas e Energia avalia possíveis vetos ao PL dos postes Ministério das Comunicações, por sua vez, deve recomendar sanção integral O governo federal ainda avalia possíveis vetos ao projeto de lei que estabelece novas regras para o compartilhamento de postes entre distribuidoras de energia elétrica e empresas de telecomunicações. Segundo apurou o Valor, enquanto o Ministério das…",
+      "source": "",
+      "added_at": "2026-11-25T08:02:41.480059-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeE9WZEd2Uk9QTzgyY0ppSzIxWm9GbENrLUlwVjhIZDFCVVVuNjJ2c1NVNTZ3amg3VDMtQXgxdkpkVWxWeV9oQ3R3NlE3ZkxTUVRoMzVBVXg3RHRpakRDMmV2aWlMblZVRFdTNTV1ck5yWVJUOWp1Qkh1MndwR1NQM2lacy1qcWQzejZlR2RHQWN4OXdvOG5RZTBnUjB5THpoMURHWmdJU1kwSUxtOUE3Y2VzRC1nSlJ0NVZWQ3BR?oc=5": {
+      "title": "‘Gato solar’ tem custo de até R$ 4 bilhões - Valor Econômico",
+      "summary": "‘Gato solar’ tem custo de até R$ 4 bilhões Unidades residenciais, comerciais e industriais com placas fotovoltaicas sem registro geram prejuízos para consumidores e distribuidoras de energia Atualizado 25/11/2026 Com o avanço acelerado da produção de energia por meio de placas fotovoltaicas em casas, comércios, indústrias e nas fazendas solares, cresce o que já se convencionou chamar de “gato…",
+      "source": "",
+      "added_at": "2026-11-25T08:02:41.480405-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeFgyVUNucVZBNUk5Y2JJTlEydDFGTF9IelQ1YVhuN25xR2kwZ2ZnV1dwWURZb3IzY01MajRucXBOOUZwN3Ntd0xGcmtnckw0Z3J2ZFpDSGcwSXh0VEpINUU1QUhGX01LZk9OSUItVEUyLTBGMno1VXk2XzNmcGRSc3N4Y1JwVDd0NUl1X2JWcGY5X20xZ0RfZzVSNm44NXo1STMzMjNIRklxdm50WkNqV0U2YTRvWjFSazM4ZW1GQ0xKSU5mdDJ6aVc2MGlpdlJNUVQ4RWExZW53MXV5Rk1seGRWbmZIRTA?oc=5": {
+      "title": "China rebate EUA sobre ameaça de nova tarifa, vê manipulação e diz que guerra comercial não interessa - Folha de S.Paulo",
+      "summary": "A China contestou os motivos que podem levar os EUA a anunciar novas tarifas contra o país, a União Europeia e mais 14 nações ainda nesta semana. Nessa terça-feira (23), o jornal The Wall Street Journal e outros veículos divulgaram que o governo Donald Trump deverá impor sobretaxas a quem concedia subsídios para indústrias, o que geraria excesso de produção e reduziria os preços.",
+      "source": "",
+      "added_at": "2026-11-25T08:02:41.480678-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGpISjlvMzhUVHFUekljdjFITllTOHgxcFBaa0xjUExfVzZnRWtMR19wa0EyaHNGZEQ3c0Y4S3B3eXVnTjBfVHVHQ0xyTUgwNDg3SVhMWGJzNlN2bkVsdFlqQWMxTmk5bnpFaWh1TkZSVm1xbTUyaUQ1N05RMEdPa1ZSek9nYjJwRzJ2YkN6V09SbmZUSEdULURUS1FUOHE2X2NJMkJiUXVvRXJ0WW5xR1lYcmNENnhoY1NNYWJ6QXF5TGllaEdfV2xmR3RuLUNIUUM1TlVhRGtHUVXSAeABQVVfeXFMT0kyandkNE9IMDE1aWZoOEdZMWpncnc0UWJPbGZmTVU4OUw5X3BsYS0zWklFX01tV1psaVJrd2g2TkJqY1VaMURNc3JTaElYa3VhYldSTjRNSTNjY0E5SHlCNGw3SzdHd2dnQlV6VjNhMy03QTZab2R3c1VkNDVaNUdoZERqdzcxMUR1eGN2U3NBODQyUUNMdG95Vnc1WXlWcFFrOUt2S0pURWhrbE1VWDl3TUhqa0l4YWpNSHJqRjNhZktUeG94OVpjUUhnOVhDWUk3YWpjT0xWLWdqZGlPN0M?oc=5": {
+      "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
+      "summary": "Gerando resumo As bolsas asiáticas fecharam em baixa nesta quarta-feira, 25, com a perda de força do alívio provocado pela volta de Jensen Huang ao comando da Nvidia e o aumento das dúvidas sobre as perspectivas para a inteligência artificial (IA). O temor de novas tarifas também voltou ao radar, após notícias de que os Estados Unidos poderiam elevar as alíquotas sobre vários países.",
+      "source": "",
+      "added_at": "2026-11-25T08:02:46.107524-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
