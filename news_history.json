@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T12:06:41.969045-03:00",
+  "last_updated": "2026-11-25T12:37:00.379126-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmo3dm9QU2dvaFhEWlZ0UUl2bFpfUnZjd0d6Zk9Pb1M3ZjB1RUJmZWtmajNzMENzbGM2ZnYyRzhEOXFjTkU2ajg4UzE0SVJFQUxiUGxqcFBhb3lNZi1rNklCWHYyd1RrVnNZM3BBU0RKdnVVRWxrdncyLVEtRUF0SFplZEplRTZYZWRuMmcxX0dYYkhmZWtxYUJBVV91N3VvZmJwd3MzLW5kdDV3WXlxdENnZ3gyX2RCX3M4SkhsZk02QVBIX3k2WkdWWU54bDZvM29ZWUREanoyTnc?oc=5": {
       "title": "ONS alerta Aneel e Inmetro por risco de conflito de regras sobre painéis solares - Estadão",
@@ -3743,7 +3743,7 @@
       "source": "",
       "added_at": "2026-11-25T11:35:45.455919-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX0JoV1djaHNFY2NtbHdEbXNuMUlSaUpNdlpqZWhwVlR2TnN3S3V2eWRXcDZHTm1HTVJyby1qdkMwVFh6OTVMdW5KcW45M2N1YzdxT2FaT3A2T2tYV2szelFYUXZQLXFiZGFtb0h1bVhGdVljOHBwZU1BSEZuVnF0WkJjYVRfNzRpMzNhZ0JWcElmQm5Sejhwb0JfZ3VQWkJZSEpud3E3ekFWRDNQUWNMNGljRldwaWR5QXFEVWF2Rmp6S0JYTWw5R2hUX0RiVE9NV2FzY1BYTVJYejRSWFpKTzE3a0d0UQ?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
@@ -3759,7 +3759,7 @@
       "source": "",
       "added_at": "2026-11-25T11:35:55.640267-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5": {
       "title": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa - Valor Econômico",
@@ -3767,7 +3767,7 @@
       "source": "",
       "added_at": "2026-11-25T11:36:08.828233-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWk2Q1dEeTNGX05RSWx5NEVhWUduVHBkaWYzMmZYMFJST0x2eURzcmN3RHV3NTJReWZGSUFZemxSMmhTV3hiRTlyS29sOV9iUkh2S2NCd01HNTU1c0hlSXRaTlJkYWFYMWs5eHN1NEIxbEtDWl9id3F0MENMS0dYWGhVN0c0b0pTNEx3TTQ5R3J5RkdGd3M2WExab2ExRld0Y1lfQl9SSzVwaEZJXzVJMURDMmZVVTBWeFVoMzE4eHZycU5jdF84V0pyaG02ZWc5eTZQS3J3?oc=5": {
       "title": "Ações da Embraer caem mais de 6% após anúncio de tarifa dos EUA sobre aviões brasileiros - Folha de S.Paulo",
@@ -3775,15 +3775,15 @@
       "source": "",
       "added_at": "2026-11-25T11:36:08.828786-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXA2VWlkZ2t2Mjc2TXhCRklvS2xnZUZkck5LVFV4S3B2VXF4NVQzaC1RNEJ2ZjFVbm5UQ1MwZG1TWjVORkxsVjFCaUZwcTdfNVpvY0hhNl9QeEgyQ1QwTlVkNFZqNXBJUXZ0ZHpyOFBXTXNqTzRoWF9jNmdhZmpsV1RvZEpmY3FhRWgwVGZ4S2hPREw3X1dVT1JLaVcwcXRmVHljM2RFeG1fZVl4RmRBSFd0VFU2cjZJSS13N2ZWVVY0OVZNY3VBQmY3V29JbEF5VDBGSjktY05FT3lNcFF3?oc=5": {
       "title": "Dólar cai e Bolsa avança com inflação dos EUA no radar, expectativa por sinais fiscais e elevação de tarifas de Trump - Folha de S.Paulo",
-      "summary": "O dólar opera em queda nesta quarta-feira (25), enquanto investidores repercutem possíveis novos passos do governo Lula na área fiscal. Às 10h56, a moeda recuava 0,22%, cotada a R$ 5,894.",
+      "summary": "O dólar opera em queda nesta quarta-feira (25), enquanto investidores acompanham possíveis novos passos do governo Lula na área fiscal. Às 11h53, a moeda recuava 0,23%, cotada a R$ 5,894.",
       "source": "",
       "added_at": "2026-11-25T11:36:13.561338-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMmRGVjFjcFFkclpKY1F2VmtYRTBGZ3BXVVB0UjFDNmxieUlxMzNLZWFsNEJHZ09rYTN4b1owX1daT2RrZlZMTU05RjNFWnB0RkFyWHY2MkhEQjFvallMR1R0UkNFTHNlN3hiajNJb1hPUkJfY3pGenotc1FpUl9taEN5aEJTRTc3SWRYaGt2UWZmVFV3NktkSHBBNUEyUFhiWllIcVJEcW5fNTAwVG5zOGJnVGJHMHplT0Q4UHlyS002dWJJQXhZanA3Vm8zUlR1MEo4VTVQU3hhNnkwNHJLckNn0gHnAUFVX3lxTE1PbXkzMG83NUlfVV9CSVlTaHZGQkhBSUcyWGRrY3Y4aE1McVNFQnlzdmZfTTUwMl9hSVhBdUN0UkZDSjNpZzlBeS1mY2p1RjNOOFJFZ29iNmFNYzRXVEpRR0h2NVd6dmxyaTFTMGtHbUE0bjhkZUdGOUhCMXY0R2J4NnNEV1ZaY2REVm1xX0xiUGtLc3Y1NW5QR2ctaWh0djlzeVo1VENldVFRR2NRZjlOY25KdVMtOWZzNEFDZ1EyWDZNd2JSaVdZQnFlQ0hJclR2S1JTdzEzQ0FkbXFUWE9YSTlVTHhrYw?oc=5": {
       "title": "EUA propõem nova tarifa sobre açúcar e aviões brasileiros e ampliam pressão sobre o governo Lula - Estado de Minas",
@@ -3791,7 +3791,7 @@
       "source": "",
       "added_at": "2026-11-25T11:36:18.315678-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWxTZ2lVZmlpVGNNcUU1MUNwcld5SGJmTWFDYWVrSVB2Wjh5WTUzQ0ZaUXBOWmVhQlpYemZCeGJLemdRaHRZMmx6R25nV2ctNFFoSTFZaGlCUHRpdzNzTWRJXzh0OUlSNHc3VlZSMkRCX252MlJMQ3g4ZXJXbTFDaU9LTlYwajZ4YVJsZWROYmt3MkpWd3JKc2xPcFFadmw5Zjhad2NRSVNTb3J4S3pYMjQ0MFJmZ210ay1FZDhlX3E5aEYydnRZb00zOEZ4NVcySGkxLXQ3Q1ZQS3lacXlGVElpWEkteFHSAfYBQVVfeXFMUENuQ2V3Q18zZkJrcENscTRocERoRnFHODhMelVZaDBzRGtVZ0FDSExCSXdVcGw2blVObmhFN2cwaXQ2TEpBQVdvVXh1TEprbEg0OHByOHQyNjRLcnZSM0lFSXJVc3FGM0hfMmhaeXkxeXhfUkVLSE1kVk9xa09jMk5hQTlTekVXQmNpMmFZbV9oRkIybkduRkdvVUo3X1dHWVpHQVkzSHZ5NXJqek9QQUFCMVZkUjVhLWFJZlg0bm5XZFR4Z0xfcnBmZWxuOXlleUN1UjF0aTVzaHJCSnQ5cVNrRTB0TWF5YjdrOHJ5aVNzVGpXc05R?oc=5": {
       "title": "Bitcoin cai para US$ 57 mil com novas tarifas dos EUA e inflação ainda pressionada - Valor Econômico",
@@ -3799,7 +3799,7 @@
       "source": "",
       "added_at": "2026-11-25T12:06:27.727598-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxORG8tdktlcHd6UENYT3A2MVA4a2ZZVUFSWFJWZzJLWXFwRXpaeGp1U3JwcGNsdklNeVlqYU9lcVFsNE44eC0wN2dUdFNNWm1tckNnY3puZGM1cnpYcVl3T2F0S2tlcmlZVmhrRHpNQ1pTblVMYUcxVWtsNFJVbWlRS05ieTJQZHp0RGlMdEduczJRS0NXY1RRaWZzcUlYQXRubWZickhLYXhQY3dRZmdMT3k2UjdReXFUTG9aZ2pmR0tvMF9teHoyak1R0gHYAUFVX3lxTE5yMmpBazh0S3FCRnFVREpxYWMxNDJTY0xHZDhqM29KVnN4WWdIb2psWk1uNmczMVlvT3lwRjBteVktdk1GRG90RjFJX0hVY0NnMVVWdzJlY1JTYlpKVHFNYWhzdXpvb2ZVM3RHdGJXcUpYM1pfeDNhSkp3U3gzV2dnZ0l3VFBZTHVfMDBlTkxybE4wS3lVYkdSd1FuM2Nub29FRHpMOFFIY1pLRXhGV0NCb2dBWlVob1RhcE40UG5MZzBzU25pYkVnRVF6QUV6TjFFZzF1SWJoRg?oc=5": {
       "title": "Bolsas em NY caem com forte correção em 'techs' e anúncio de novas tarifas - Valor Econômico",
@@ -3807,7 +3807,7 @@
       "source": "",
       "added_at": "2026-11-25T12:06:27.727747-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcmd1TVFGYjV5c3VURUd3d2lqTFlnNGhMSmtxeUZna3lpcUdzUks1WEdaRU4yRVRUTnh5UGdTWFNGU0VmaXVKMnVZMVl3VnktOG44Z0JJUVBEcjhxZ05wdzNtaU12V1B3SkxxWmJkT1gydTdQUnZUWmdlak0wZlRqRVNxNGF5b1huT1lQVzBLVC1DLWp6V3FMT0h0Z0lCOV9RYVNmeHFja3llZU9QX0Q5a0pHZ181Z0ZTd0I3M0N6Z1pvS1dKV0RxT0U5cHp6UENUNEtVX2hybVNOUm9WdmNEQkNHSXVpV3B5V0xobmNsUUJkSkZmVkNCSmlmZ9IB-wFBVV95cUxOcmd1TVFGYjV5c3VURUd3d2lqTFlnNGhMSmtxeUZna3lpcUdzUks1WEdaRU4yRVRUTnh5UGdTWFNGU0VmaXVKMnVZMVl3VnktOG44Z0JJUVBEcjhxZ05wdzNtaU12V1B3SkxxWmJkT1gydTdQUnZUWmdlak0wZlRqRVNxNGF5b1huT1lQVzBLVC1DLWp6V3FMT0h0Z0lCOV9RYVNmeHFja3llZU9QX0Q5a0pHZ181Z0ZTd0I3M0N6Z1pvS1dKV0RxT0U5cHp6UENUNEtVX2hybVNOUm9WdmNEQkNHSXVpV3B5V0xobmNsUUJkSkZmVkNCSmlmZw?oc=5": {
       "title": "EUA propõem novas tarifas sobre China, UE e outros países para combater 'excesso de capacidade industrial' - Valor Econômico",
@@ -3815,7 +3815,7 @@
       "source": "",
       "added_at": "2026-11-25T12:06:27.728086-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVhVYkpzck9wS1ZsMUhDVGNVOVdCdk1jRnI2SlFFNVJmMXdXV2hKQ1pQRGRpaXFleVEzdkhCb0F2c252MUh3ZHJkSGhGUHdMOGd3cnpmTVBaUmExS3hBZlc4Uy05WGhDT2VRaHlBQmhlRmlqVTV4ZzlXb1FHUGdBNVFjSUp2V19XU1NsZVN1NFZFSGVtM3FBT1UyRXBTNjgxekJTczhzczkyQkVNcS1yUzlGNEE3dDlkTEcyUDNzeXZ2MnE1RjZSdEdPZXNiYTVrNlpEcG1xMXlsd0FNdHpzVTRKbEhic0XSAewBQVVfeXFMT0FfYUQ0NVFmMnBIZGZRYTh6eW5nZFdEYXNEOEVoWGtsXzVsNnJiZ2JCZ1ZXT3luTG1GNzRCaTRXS1Y0Zi0wRmo0NmpjTzNyTDJLZVRZUlVjZzFRQmhVVUJ0S3hzWFh5eXd4X1ExV3VnOXg1ZzE5elo4enZQcTZsRS1panFWUjR3LXFDVWI2RnNyTUF3OENnM3g1SUxyRjJVcFRIUng4dkJzdWxNcExaRTZRQ3F2SVhlLTRjVjRsUEpoUUN4UlVCZUlJS1ZOa0hwdzVqOFNMM3BlZWxUZmgxVnZCM085cUtnLXExUng?oc=5": {
       "title": "Embraer tomba 5,6% com possível tarifa dos EUA sobre aeronaves; veja as maiores baixas do pregão - Estadão",
@@ -3823,7 +3823,7 @@
       "source": "",
       "added_at": "2026-11-25T12:06:32.508278-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5": {
       "title": "Dólar cai e Ibovespa sobe com expectativa por medidas fiscais; Embraer tomba com tarifa dos EUA - Estadão",
@@ -3839,13 +3839,69 @@
       "source": "",
       "added_at": "2026-11-25T12:06:37.221660-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMU02bjlJVElIaWVRbVR4dmJFZ0VKNm1tc3VKZ3ZOVkZEdFRfSGJ0ZEVvRDExUTVMekFZc1Ita1B5NWZ3MllGNk9RM1h6ZDNQT3pCLVJWNzBCTndndUpnMUNkZmFfNndOd3FBY3JHWjQzNVZ0WU5CcFpfM1BmNXlzeExvSkhPUy1TVjVxTXVDTU5KbEJOSHpRUDU0LW41R29ILUYzVzhIU3VfX0RaQ25sQnlIZWlZejIwU2NhWA?oc=5": {
-      "title": "Repórter do CanalEnergia recebe homenagem da Aneel - CanalEnergia",
+      "title": "Sueli Montenegro, do CanalEnergia, recebe homenagem nos 30 anos da Aneel - CanalEnergia",
       "summary": "Sueli Montenegro, do CanalEnergia, recebe homenagem nos 30 anos da Aneel A Medalha do Mérito Regulatório foi conferida a profissionais com atuação na formulação de políticas públicas, regulação econômica, defesa dos consumidores, gestão setorial, comunicação especializada e fortalecimento do setor elétrico 25 de novembro de 2026, às 12h Tempo de leitura: 2 minutos Fonte: Aneel/Divulgação",
       "source": "",
       "added_at": "2026-11-25T12:06:37.221872-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJFalltWGczRWxSOU5fUExWM2tkLXkyRU94Z0FTT1MzUFE4cEZ0ZkFUVjVCSFNDWV9tVTh1ZjI2M2pzR3BlblRtaUxPMkVxYkFjVlRyQi1zLVpEOXZSLWJfQTFfbUp1Z3ZJcUFtN010SkFZYVZVcENvXzZnVlYzSWxScy1MRUZScXR4enc5d05kUHpmd2ZoWGRoaEhLakFmR0p1THN2N0VxUFZKUGRreDlyUTAwQldFaC03NVFUNmczeU81cHdmeHpUS1NJUzVZNUd4THhxSnlLVk9oX1B3cXcxcGtBb3ZVY1oxZTJnVQ?oc=5": {
+      "title": "Dólar cai e Ibovespa sobe com expectativa por medidas fiscais; Embraer tomba com tarifa dos EUA - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-25T12:36:24.551433-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZEpJSVk0TnRteHI2bU5kRmNkOW55bGRJNlZ5RlEtTDBtV0R5N3c3eG93Yzd2MWRDTnowSlBiV0h5QkhORmFCeFFrSEI5SkxvOVVLdWx0M0NzcmxzaTFRQXVoaUNYdXNiN2lfc1V4dFVpV1dMd1d3eGNmRUhRSjdqNnlQTWpSTTRPRi04QVFKMGZGNDhPdFZPdFNLVk00WEUxc09SdVVEYU9sVVZnUVFHNGRYdGFVcUNhQmtjNk1GSjRaOWRiLUpRM2RBWDlmek5GYzVCTER3RGJ0QU4zamRn0gHuAUFVX3lxTFBZWERGSnNGeVZqc0NTdU94NUhldW1Bc2NMbVRBUlJ6WVJkMXVIQUZBd2tpel8wZlh6NHhFcVBVZTREV3gyQUFhTGdIeVVUcC1qc2hqNkJySGVEOVVTejYwQ2FYMVJ3UWpoSzdMUlk2OVRKVDVwc2dONmU2NFoyY0VQYnZGSVJuUTV2MDdraW5aQ1RmYS15YzExTURleHlsNVJDdlUzbVd2eHVENnRmTkdGQUNKNE5uZlJsamRqZ2VHYVBPN3RQMkp3VGRmQWtROHoyN3hrRmY4NG5CSlZJMHlxSzVIb21ndXBDRnVEMVE?oc=5": {
+      "title": "EUA dizem que limitarão tarifa sobre a Índia a 17% caso acordo seja fechado - Valor Econômico",
+      "summary": "EUA dizem que limitarão tarifa sobre a Índia a 17% caso acordo seja fechado Se entendimento comercial definitivo entre Washington e Nova Délhi não for alcançado, alíquotas americanas contra o país devem subir para 25% Os Estados Unidos limitarão a tarifa imposta às importações da Índia a 17% caso seja fechado um acordo comercial entre Nova Délhi e Washington, afirmou nesta quarta-feira (25) o…",
+      "source": "",
+      "added_at": "2026-11-25T12:36:46.208630-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFh6bDhHX2s5VlBRc3hWVlpmVGdwQXItb2k4aDRiUWJ0cGhyOUY1dHdTZDJyY01lTWZraUhXMnJSV2tXSDZQV1dna2psc0RpbVBvRk5MMU5IOE5jWlBHWm5xT0tjU3V0S0tzeTJ5dm9Ga2RUTTR2TXJZUERDbHh2YU1XRC1BNGpzdzJjMWxTWWJtajd2T1FwWldLZ0doR3Y5SjVRb2lXb2x4VnQ4VDE2R1ZFWUMyNWM1NzF5VW9ManY5UGs2VjI2bkVCZ0pWeU3SAd4BQVVfeXFMTlRra0hFU2NHS1ZTSTl0ajlFOFl0MThMVzVUV2FDMkExMkxtZElvdHB3ZUhHaUJwM3hfVHZ4VlU5RnVfTFdXS0VhYWpTSHo2Wko5aGQ3Tl8xdXU3OTNHaktuYk1kSVlyVGV3OC1oQ1pXRE9XdXhtVExMWGlLVFJKUTU1bDZyUVZObjg3REpPSXgxRnJMeHFheDZNazRnQ3A5bVRjRUJFeUV4WUJzYl9nME9QVWU1azRVUGExbmw0T3BfXzBaUDhZeW5Xb19PZEFmakZvc0tWWUpxLVNqUjJB?oc=5": {
+      "title": "EUA devem respeitar teto tarifário de 15% para a UE, diz Comissão Europeia - Valor Econômico",
+      "summary": "EUA devem respeitar teto tarifário de 15% para a UE, diz Comissão Europeia Washington propôs nesta quarta-feira novas tarifas contra o bloco e outros parceiros comerciais por 'excesso de capacidade produtiva' Por Valor, com Reuters — São Paulo Atualizado A Comissão Europeia espera que as novas tarifas propostas pelo governo Donald Trump respeitem o teto de 15% sobre as importações americanas de…",
+      "source": "",
+      "added_at": "2026-11-25T12:36:46.208757-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC1xWXVpUS1ENzYxNjdHdnVyS0kxOWU0N0xiVWRjeGo4N2JVZXpyLU5tZi0tZFNYUlhCMHhpcHZwSTk2V0h3bWIzaVBpdFBTanhXM1hlRU5NVEpvQXZIRTdNVm9TWDVYWVJhVDRaa3E2OG1GQ2hkX0dTWmJSN2tzWWpRcjNjb3FLeHJ3a2tKTExOTTN5S2dVSDJrYzNYY2l2eVI4clZyODAwdkFHc3JZLXZDZEdpLVJhVTk40gHAAUFVX3lxTE5aMDhsalBLc3NkWVhzaGJKNWVNbWQ3OVRxRkxSQkY2MGVpWVozdkZnODd4VjB2QjJBZ2RERkhWQjhERk1EdENiLVI0MGNPc2NvRmRVR25KU19OMlZFdGtIM09BSkJCT1hfT1o3QjloYkVUNGUwZmItbW82dTdIYl9NaDduWEF4Rm4xZHFHRWJmUFZ1cnRhU25mQzlBZkVWMWdrQkJaS2NpN0hfMmRlZlJ3T3lxUjNNdmxRNHFoN2ZqUw?oc=5": {
+      "title": "Falta de energia interrompe abastecimento de água em 61 bairros de BH - Estado de Minas",
+      "summary": "Falta de energia interrompe abastecimento de água em 61 bairros de BH Segundo a Copasa, fornecimento será normalizado aos poucos assim que a luz voltar; imóveis com caixa d'água podem não ser afetados compartilhe A falta de energia elétrica interrompeu o abastecimento de água em 61 bairros de Belo Horizonte nesta quarta-feira (25/11), segundo a Copasa. De acordo com a companhia, o problema foi…",
+      "source": "",
+      "added_at": "2026-11-25T12:36:55.651214-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFZCRkZoM2s4X01ZQ0d0Zkw4ZTE1OGx3RS12Rmgza0F4YWpMYXpPVHVlM1VuZldMdGYyVVpCN3AwVkFfSTRtMG9rOXZPR21LSWtjaTlNb1hKUVRFdkFkcnNwc21TaVZVVGdKWHZLMVVndVA2YWVxTXlzNlFhTkdLWE0tWU1fZENaWGZLU2hPZnNGbzdmajJldFg2ZjUtSFhpejBBMi1aRl9SbjlGTThRSFNBTFpGeUZfTk1BMURfUFhRSWJaQ2Vr0gHMAUFVX3lxTE9kZlZVeW4wQmVWeVpKalNjcVhxX29TUXNNWXllcmwzRG9ZLTdxN1NhR3dGLTNsQWlwUnpvV2JMbDhRem1Ld1h4eWhzWVR5SC16LU5fNXk4LThMdXFVd3J1TGM1c1JJanZCZVN0dXlDZTdVa2RZSW01X1FpTERfdzhtUmJRdl8td0lvbGJKUjBJTXRQWDgwX1JEeVRxMkdlWlQxT2ZHSmNkVVBkOHRiNnhLQ1lmNkhCT3U0cHNkT1Noc3NyUlJuRmZTaDY4Uw?oc=5": {
+      "title": "Compra de reagentes exige atenção à procedência e à regularização sanitária - Estado de Minas",
+      "summary": "Compra de reagentes exige atenção à procedência e à regularização sanitária Após novos casos de falsificação identificados pela Anvisa, especialistas reforçam a importância de cuidados na aquisição de produtos utilizados em exames laboratoriais compartilhe A procedência dos reagentes utilizados em exames laboratoriais tem impacto direto na confiabilidade dos resultados e na segurança dos…",
+      "source": "",
+      "added_at": "2026-11-25T12:36:55.651498-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcF9pYlphRkJLTmNGcTlrYXlkMjdjRWo4MjJjZ1BsUFMyaHhSQVNWRGZxdnFtdTBCUHdHMlpCbVNybmJYcUtZNUc0LXR0c2dacGMyVE5KZlBDYm85NG5rYUhtUUc1cDlaQkFkTUEzaGVmcjVVWnFjUDI4aFp4UXVBSjUxVTZhaktvV3Z2MVVnUlNCUV9FOWZtX3RwbHhjaTBZdWY3TUptWWEtSDNGUTZJTjIxOE1OTGpLUTZlYjU4NzhPcWxPR0kyZnNhbHQ?oc=5": {
+      "title": "Copel segue mobilizada para restabelecer fornecimento a 104 mil unidades no estado - CanalEnergia",
+      "summary": "Copel segue mobilizada para restabelecer fornecimento a 104 mil unidades no estado Regiões Oeste, Centro-Sul e Sudoeste foram as mais afetadas por fortes rajadas de vento 25 de novembro de 2026, às 12h30 Tempo de leitura: 2 minutos Fonte: Divulgação/Copel",
+      "source": "",
+      "added_at": "2026-11-25T12:36:55.651722-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2RSNDBxdFh4V0MxaExmMG1MalZVTnd1VUs0aFQtWjdiaTIydjJZT3oyUmFKeE84S2pOcE5wLU5lV1FNOC1abW9tcUtYc3BGcU51NVp2QkljNDFWSF9heS1wTC1sZFhzRU95UWwwa2c3YlJuSDJvcUVyek5Dc1QyUG5NMV84MklU?oc=5": {
+      "title": "Justiça nega pedido da Abeeólica para suspender leilões de baterias - MegaWhat",
+      "summary": "A Justiça Federal do Distrito Federal negou, nesta quarta-feira, 25 de novembro, o pedido de tutela de urgência apresentado pela Associação Brasileira de Energia Eólica e Novas Tecnologias (Abeeólica) para suspender os leilões de reserva de capacidade destinados à contratação de sistemas de armazenamento em baterias, previstos para os dias 2 e 4 de dezembro. Na decisão, o juiz Diego Câmara, da…",
+      "source": "",
+      "added_at": "2026-11-25T12:37:00.374444-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
