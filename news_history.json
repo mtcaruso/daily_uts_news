@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:01:21.753995-03:00",
+  "last_updated": "2026-11-25T07:32:03.800597-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUE5oSmJMRlZxNlpUWHJOa0ZGelR0dUlicC1EbThndFMyMnota3I1b0FYeVZjeDE2MFJtNjQzdUJsZFN5VUV6MEVkWmtqVHdDWFN0YWxRVjNKQkpkWkM2cElmQXFOdUF5QXNkdGtTVGpXY0FMV29BSHlZSlFSSklOdkVla1VrakZfejJzZw?oc=5": {
       "title": "Folha.com - Classificados - Negócios - LEILÃO ARTES E ANTIGUIDADES - Classificados Folha",
@@ -3727,7 +3727,7 @@
       "source": "",
       "added_at": "2026-11-24T22:36:51.231434-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGNKY0FrWnZCdGZnRVphRFlSc21OOEM0WDBtbHVuVFFCZ2N6SnRCR2JjX29QN3MycnRld0tRSEtVOGJHcGprbXlsdXBuU1ZZSHpRQ3JtT0lGSTZzZTFBOWRMcEZhWG4yMUI4d2hTN0xYMExtM0ZFYzRGdGpXZk9ab25xVzJ3OXIxSjVFQlFyM19KeTdwcnpMdk1ZbTFmYnJnaXNBQklrVEstVG9QaUQ1Q2s1RQ?oc=5": {
       "title": "Aneel julga multas contra eólicas e solares pelo apagão de 2023 - CanalEnergia",
@@ -3747,19 +3747,19 @@
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWpmU0tyME9aVW1oTUl1RDQ2cHZKZHIzSEpaN3FMYmk0NUczU3ZOdWZ1SmxZU1lwVjJOQWZVWHpCVl96cUQzZEdNLVpEb0ZfeGJnSU52RGpVaDAzdXVXRE5FU0hxbllXNEdxZjZLeWpOMDBIREpDai1QMHpVRTZqMkFFRExGVllBaTRiRDlhUXk3N2Y4X3BPamJpY05STmJDc3BwS19VcnFJYWlmT3c4WQ?oc=5": {
       "title": "Opinião - Jerson Kelman: Tarifa horária traz justiça para conta de luz - Folha de S.Paulo",
-      "summary": null,
+      "summary": "A Aneel tomou a excelente iniciativa de propor preço com variação horária para o consumo de energia elétrica em residências, empresas e outras unidades atendidas na baixa tensão com consumo mensal superior a 500 kWh/mês. A implantação compulsória será gradual, em três etapas entre 2028 e 2031, começando pelos consumos acima de 1.800 kWh/mês (como referência, o consumo médio residencial é de 160…",
       "source": "",
       "added_at": "2026-11-25T07:01:00.961759-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIVFdJamY4cnVYQnBJd2lvRDZaVW5EczZTV1VycGNqMlJfVXA1UDFzZzl0UWVJWFdBUldpckVFQ1VYQ0pFQkhoNVp5b0NOdFFER0w3QXp1UnpnbGVMdGlzMHRObk1FYk9TanVqMVFsaFpueUZ4?oc=5": {
       "title": "Arquivos política de incentivo tarifário - Agência iNFRA",
-      "summary": null,
+      "summary": "da Agência iNFRA A APS (Autoridade Portuária de Santos) aumentou os descontos tarifários concedidos às embarcações que operam no Porto de Santos (SP). Com a mudança, embarcações de longo curso terão 30% de desconto a partir da segunda escala realizada em um período de 12 meses.",
       "source": "",
       "added_at": "2026-11-25T07:01:08.153822-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnZMb2k2LUlGNWlnRFctWHFGNjVIaUM0STZ1Z0I2NGg2YkNJeUM5N2dDQV9kd1Z2ejhJU2FmX0JlN1g3R19vdzVOTEhIVnZzV2IzSnotSHpMZmI4dDFCRTFLWWhkLS1UazYtdUIyTzdsWDh1QmY5SmdHR2dvcnhJRWZSZUdYUmJpVTllUHVJRGhZcFA5X2RCMGRQVTdLc0VKNExOMHc5YXZUcEhtejFB?oc=5": {
       "title": "‘Gato solar’ tem custo de até R$ 4 bilhões - Valor Econômico",
@@ -3767,7 +3767,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085085-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSjFzbEpITnliWFhsd01kbW5CR21jVGNtSGFtbm1SRUVIVlppZTVaTjlpXzdfOXNIb1ozeS0wN0lfS1N3U2luTUJ6V2dZeERJeXZjdm5ySF9NT1NsSGZZUlctRXRGRG9CeUtWc0ViVjZReDYydktfUk1NcWxEbU5lM01sVFNLb1F5TFVJS09laDNxdVlmTnpNTEljekdQYXZKanFfYmZDdkFfbkFlVUcxZUJJa0tzcHZ5YzV4dmRVQ3I3Z9IB0AFBVV95cUxONkgzNkV6eE1RSmVUU0g5R2ZDcmJZN3BDalh6TlVwMnJqTHZPSHdneU40LUhWYkJfVndDVjJxYWF0ZFRReWxNYlp0UjJPQXdlTjJ5MkdINWc4eEhURDM1MmdpN2M2b0RsY3VfN3lXNi11Zk9uemV6WnRJLXFQUlpfU0lhMTAzdmNGWnI0OC1wTk5CYWdDSVVSOWJJTU9wOWs5eGhmSGNBRHA2OVlwVWc0MHJNdlRYYThVUDRVTmx1R3ZXSEhnWldwdEVtT0xHQk1V?oc=5": {
       "title": "NY recua com correção em ‘techs’ e temor de novas tarifas comerciais - Valor Econômico",
@@ -3775,7 +3775,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085165-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjh1cGNSR3dlZUh1T0p3QXJZQzdOUVZjcUpNeVhIV3dsbkNKNVpHbzNLMVNXVldCNWtjQXlOUGs0VlFzMjRrZXhKUXo5eDFKOU1rX1FVZzB6LVpOMjNtd1NrME5TSW9WaDN1aXRGSkpEbVFFUk9QRHgxZEdfbjNLQmFuUFRMQnVpMm5RNjRQcHd3NkVmdzNNSk9XY3VKdkZKN2Q0TTA1R2tXTDJGc0tlMzRVZHpkWUxzQTZ4NlFYUWp6QTJ4YnpFUWgzZ09mY1BsTTkyeVRaZE9KeXFDVm11UmdPc2o2WEFQ0gHoAUFVX3lxTFBCOHVwY1JHd2VlSHVPSndBcllDN05RVmNxSk15WEhXd2xuQ0o1WkdvM0sxU1dWV0I1a2NBeU5QazRWUXMyNGtleEpRejl4MUo5TWtfUVVnMHotWk4yM213U2swTlNJb1ZoM3VpdEZKSkRtUUVST1BEeDFkR19uM0tCYW5QVExCdWkyblE2NFBwd3c2RWZ3M01KT1djdUp2Rko3ZDRNMDVHa1dMMkZzS2UzNFVkemRZTHNBNng2UVhRanpBMnhiekVRaDNnT2ZjUGxNOTJ5VFpkT0p5cUNWbXVSZ09zajZYQVA?oc=5": {
       "title": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado - Valor Econômico",
@@ -3787,11 +3787,11 @@
     },
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeDN3Z19QVFp6THF1WkJLNXpwOXBCQ0lEUWphTGNveXl6SWNZTUw1YnpLS1JLNjdUaEI5NnNUMFhTQzRqUldiM25xRElva1pydU9taWpwTERoT05yU1ZpdGtrVWkzMDZKSXgzWHhORmFzN3BMUXd1eXdGRmZpd1BWcWowTDh0cm9CS3ZCTjJMSksxMTN4cEJ5ZGFuX3ZzY0x1QjJNOU9sQ2xPNFJINUZqd1poMGVWbE1TUHhRak1xV1ZNU0tQNHJKYnp6MUFBNHBPbVJ3c3IzSjd6aFlMY1BwRHpwemtQM296YXctMkMzX0ZuOFdQ?oc=5": {
       "title": "Alemanha dobrará subsídios a carros elétricos; abatimento pode chegar a um terço do valor total - c-level.folha.uol.com.br",
-      "summary": "São Paulo A Alemanha pretende dobrar o valor destinado ao subsídio que oferece a consumidores que compram carros elétricos em 2027, segundo as primeiras versões do Orçamento do ano que vem apresentadas pelo governo do país europeu. De um total de 3 bilhões de euros (cerca de R$ 19 bilhões) destinados para o programa até 2029, 800 milhões foram utilizados em 2026 para subsidiar 100 mil compras de…",
+      "summary": null,
       "source": "",
       "added_at": "2026-11-25T07:01:17.085502-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "error": "no_article",
+      "attempts": 1
     },
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Gem1IRzR5a0FpOVNYTjNlUHN5Y0dUUkczR2o0TTRuc1BzNUl3RnFnbTh6TUFWUktoM0FDd3A3TnVOYmdLR29CNWZZMFprM3IwOHdCaXY0N0R3Mm1mbi1DWTVqbXptSFhybTcwZ2dRZFVjS0xDWWd1cHlvZXZrZw?oc=5": {
       "title": "LEILÃO DE BOLSAS - Classificados Folha",
@@ -3799,7 +3799,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085536-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR0gHPAUFVX3lxTE9HYTZkMlUwVjlBSmpnaVpiN1VkTERWcE5EejZLZkZwSFFUNEpnUkp3SUEzZ09fTHRLaFFtV3QxWkxoYVhoTGstNnNaWW1UdXpnVy1QOW5FbUZhV1d4RXB1RnI5U2oxVHIzRlZtSWVoX2x5X3RYOGFVRjRXeTlzQkpURV9BWkVCaWluTXI5VWw3Y2MxZ21abHFIUmFqVFpDMmpiQUJJdGE4R1l0cEJJdzZOZTdKWVNMb3htS19fOUsyUmxMa2Q4b2twUDl2ZUYtWQ?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
@@ -3815,13 +3815,45 @@
       "source": "",
       "added_at": "2026-11-25T07:01:21.747813-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajV4TmY3SkFfN3c2ZHpORDFhUFlrVzVraDZjRFBBNVJUN1JHSlpDdkZCUFBRTlNhV1RlN21aN2ZCaG50SG9aYVBlY0hhZVMtenJrbjRFdjA0R2lVbFhtRGNsOERtSzFwQ05DT3V0dFpKWnltalNPM19jRUlCVlRFVi1ZUTNrUHFuRmRueGs1ejJ5ekJGcFlOZnBiMjBwLXdHWmVCNEptdm00bDA?oc=5": {
       "title": "Investimento em baterias deve alcançar R$ 46,5 bi até 2031 - CanalEnergia",
       "summary": "Investimento em baterias deve alcançar R$ 46,5 bi até 2031 Fonte: Valor Econômico Localização: A2 Editoria: Brasil Data: 24/11/2026 Alcance: Nacional Resultados Últimas Notícias Armazenamento FNCE calcula em até R$ 94 bi custo com mudança no rateio do ERCAP ao consumidor 24 de novembro de 2026 Negócios e Empresas Boaventura é aposta da Petrobras para aumentar capacidade térmica até 2031 24 de…",
       "source": "",
       "added_at": "2026-11-25T07:01:21.747878-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR?oc=5": {
+      "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-25T07:31:50.110922-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRm1CV0tfbmVYT2pOc0JvWE5KQUtJVzd4bmlHQWliT19TTmJ0X1pKUjlyWmNTeGJWa3NLTHdBX3R1Y3cwaTR6cXVLZ1ZlZHRNTktkWFc0bGJfZ0ZHTExpaDVPLUxsSTRveXRYaDlZcjdmMzFmQWR6U2Vab2hVWVlXZnNOeXlNVUx4QWtLdUx6ZkFDdnZjdWZFWlJnUmRWT3YtRkZxUUtWU1R6d2p4QTZrdjZkanlNb25DNEJ2RjJEdEE?oc=5": {
+      "title": "Google Meet libera transmissão de vídeo em Full HD para todos - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-25T07:31:52.433239-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONHJQVW5NbGFfLW1yOU8yTjl0NEZUVnc3VDUyNnF2aWZIbkw2TTE1bGIyTE9JY3lkWjVrakF1VlBLWDFrazVXMkEyMGUyM1JkdkdmUXlIVGpNbzBvRkJYNU05ejBjdENXRm55Q0gwNmhIRldGRjFyN3pFRk0yNlRFd0VnOTB0dVg1bzBDdldPYWR5QzV2OEUtOG1sMDYzWUtjT3lrNlJHTENZd3RBeUZ1bUxGcVgxZUJjMktsZGpkazVpNmh0TzgtdjBFOF9KRmJ0bVdZRFdyWG9Dd9IB6AFBVV95cUxQQjh1cGNSR3dlZUh1T0p3QXJZQzdOUVZjcUpNeVhIV3dsbkNKNVpHbzNLMVNXVldCNWtjQXlOUGs0VlFzMjRrZXhKUXo5eDFKOU1rX1FVZzB6LVpOMjNtd1NrME5TSW9WaDN1aXRGSkpEbVFFUk9QRHgxZEdfbjNLQmFuUFRMQnVpMm5RNjRQcHd3NkVmdzNNSk9XY3VKdkZKN2Q0TTA1R2tXTDJGc0tlMzRVZHpkWUxzQTZ4NlFYUWp6QTJ4YnpFUWgzZ09mY1BsTTkyeVRaZE9KeXFDVm11UmdPc2o2WEFQ?oc=5": {
+      "title": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado - Valor Econômico",
+      "summary": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado Tempestade geomagnética prevista para sexta e sábado pode causar instabilidade em GPS, satélites e sistemas de energia Uma tempestade geomagnética está prevista para acontecer na sexta-feira (27) e no sábado (28), de acordo com a Administração Nacional Oceânica e Atmosférica dos Estados Unidos (NOAA, na…",
+      "source": "",
+      "added_at": "2026-11-25T07:31:59.177082-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXZXaXFoYV95VmZIcFgzV3hPYTZ0Qm01TzYwTFZ6NnJha1U5RmRWSjZ0V21vWmx0TjdoX3ZZb0Jwc19EQXQ4QU9aRFdsZkZPYjdoekNob0t6VUd3TWxpYUNYZVFOalN5RjBCaVcxSlFvS3lTbGFLUFFUVEx4SnlNVHh0TTZESWFSTDVzUjVTaGo1dFg3b0QyQUdVUWdENjZqVS1VMW9adVRBbnZQcTdYMFBQNTdUQmdGSWR3bWFzUnRERXFYdVRBNTlrT2NLZDDSAd4BQVVfeXFMTlo4akRCYWdfU1FWSFB6U20zNWhOWkR3NTF2UjVjc18zQnhyYzctUzVFN3JfY1otalA3OWV2VkpEd1E3d1JPN2k1aDEwU3R0b05Dc2V6OTFDeTg2RHZ2X2FrbU1QZGFEVXRzcFNzN3FEd3hWQWpHOHhjcHpGRGJTQkFtTklOWW0xOUcxd1NhLTJqcTFoQTBrNTFQZ2JsbVVLcGNoQmllenVCeWJNXzZjVXAxUXpPU3pnbW1kSE5veE5tZFlwX2Juc2F0aGp4WDVSTkczLW9pOVZULUl5RzB3?oc=5": {
+      "title": "Japão testa drones para inspeções em parques eólicos offshore e cabos submarinos - Valor Econômico",
+      "summary": "Japão testa drones para inspeções em parques eólicos offshore e cabos submarinos O governo considera o investimento em tecnologia marítima fundamental para a segurança nacional, uma vez que a operação contínua de drones marítimos pode ser aplicada tanto à defesa nacional quanto a fins civis Por Nikkei Asia — Tóquio Atualizado O Gabinete do Governo do Japão financiará um projeto da Kawasaki Heavy…",
+      "source": "",
+      "added_at": "2026-11-25T07:31:59.177148-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
