@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-11-24T22:06:27.470232-03:00",
+  "last_run": "2026-11-24T22:36:51.242608-03:00",
   "source_counts": {
     "Valor": 12,
     "Pipeline": 0,
     "Brazil Journal": 4,
     "Folha": 10,
-    "Estadão": 16,
+    "Estadão": 17,
     "Agência Infra": 9,
     "O Fator": 0,
     "Estado de Minas": 2,
     "Canal Energia": 17,
-    "Megawhat": 25
+    "Megawhat": 22
   },
-  "all_items_total": 95,
+  "all_items_total": 93,
   "pending_count": 4,
   "done": 3,
   "pruned": 0,

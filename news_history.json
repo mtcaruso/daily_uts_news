@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T22:06:27.465575-03:00",
+  "last_updated": "2026-11-24T22:36:51.237545-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUE5oSmJMRlZxNlpUWHJOa0ZGelR0dUlicC1EbThndFMyMnota3I1b0FYeVZjeDE2MFJtNjQzdUJsZFN5VUV6MEVkWmtqVHdDWFN0YWxRVjNKQkpkWkM2cElmQXFOdUF5QXNkdGtTVGpXY0FMV29BSHlZSlFSSklOdkVla1VrakZfejJzZw?oc=5": {
       "title": "Folha.com - Classificados - Negócios - LEILÃO ARTES E ANTIGUIDADES - Classificados Folha",
@@ -2511,7 +2511,7 @@
       "source": "",
       "added_at": "2026-11-22T20:34:18.629386-03:00",
       "error": "no_article",
-      "attempts": 6
+      "attempts": 7
     },
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXE3cHB5d2tlWWlNYmdHZzJyV2NMeGZyUDlTZnhZY28ta1BVcjYxMTloM29XQzExcEpWeWxVWll5eDhEd1VhSWJmOVo4ejdqT2o2ODFUeUF2Um5KN1NDRlowWk91aW1nTnM0QlFqNFpWczFHM2FubmNVb3Z3TXI3RldoUEZ4LVQyeml3ZWV1TEJaSElrdjZzeTBUa0s1T0E4VFA2cklJeHVMVG12ek1HdUpKajR3TFd2R0NhY2NsclJENVV5aU9TV3JfQnVOd1NH0gHQAUFVX3lxTE4xcTdwcHl3a2VZaU1iZ0dnMnJXY0x4ZnJQOVNmeFljby1rUFVyNjExOWgzb1dDMTFwSlZ5bFVaWXl4OER3VWFJYmY5Wjh6N2pPajY4MVR5QXZSbko3U0NGWjBaT3VpbWdOczRCUWo0WlZzMUczYW5uY1VvdndNcjdGV2hQRngtVDJ6aXdlZXVMQlpISWt2NnN5MFRrSzVPQThUUDZySUl4dUxUbXZ6TUd1SkpqNHdMV3ZHQ2FjY2xyUkQ1VXlpT1NXcl9CdU53U0c?oc=5": {
       "title": "FT: Scott Bessent, agora, não se opõe ao retorno de Jensen Huang à Nvidia - Valor Econômico",
@@ -3711,13 +3711,29 @@
       "source": "",
       "added_at": "2026-11-24T22:06:27.459687-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2dVM09rZ3owZ3VDdFg2TEVxOXJfV0MwMzlfZG14ZEU1akJIbG5tNFAzclBNVUJYdnlmdUh4MFEwYXYtZzZYaFVhNFBZMGo1Mk5GN0ttYmVSLV9tN2E5NXlicHk4WlBUaHJrZkJLR0ZkcUdpNEltY1M2ODVFa25tQ2JpRXdEME9faUJqQjZnSEN6dWdmRTNpYkk0NzNfRS1KbW95VTdFYTNJeW5sb2o3XzJxMWdZRGpnMm1CcnFmTmM4NDQ?oc=5": {
       "title": "China lamenta fracasso da COP31, mas diz que transição verde é ‘irreversível’ - CanalEnergia",
       "summary": "China lamenta fracasso da COP31, mas diz que transição verde é ‘irreversível’ Fonte: Folha de S. Paulo Localização: A27 Editoria: C-Level Data: 24/11/2026 Alcance: Nacional Resultados Últimas Notícias Armazenamento FNCE calcula em até R$ 94 bi custo com mudança no rateio do ERCAP ao consumidor 24 de novembro de 2026 Negócios e Empresas Boaventura é aposta da Petrobras para aumentar capacidade…",
       "source": "",
       "added_at": "2026-11-24T22:06:27.459758-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVnRoZ2tMeTR0Q04wdmtROFZDQzJwRkl0b1RxRmRGOVVwSzVtVGJrbE5qSXhJTVgtOU1JcGtsSDdpZ0tnUV9jd2EwZ2llUlVNS0xsMzl2RGlWVjlLbGhnYm9paHJReUo2NkRGRnpiQ2tmclpwR28tSGdKTkZjZkpZbzJRYTNvdnFOWk9z?oc=5": {
+      "title": "A desaceleração dos data centers - CanalEnergia",
+      "summary": "A desaceleração dos data centers Fonte: Valor Econômico Localização: A15 Editoria: Opinião Data: 24/11/2026 Alcance: Nacional Resultados Últimas Notícias Armazenamento FNCE calcula em até R$ 94 bi custo com mudança no rateio do ERCAP ao consumidor 24 de novembro de 2026 Negócios e Empresas Boaventura é aposta da Petrobras para aumentar capacidade térmica até 2031 24 de novembro de 2026",
+      "source": "",
+      "added_at": "2026-11-24T22:36:51.231434-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGNKY0FrWnZCdGZnRVphRFlSc21OOEM0WDBtbHVuVFFCZ2N6SnRCR2JjX29QN3MycnRld0tRSEtVOGJHcGprbXlsdXBuU1ZZSHpRQ3JtT0lGSTZzZTFBOWRMcEZhWG4yMUI4d2hTN0xYMExtM0ZFYzRGdGpXZk9ab25xVzJ3OXIxSjVFQlFyM19KeTdwcnpMdk1ZbTFmYnJnaXNBQklrVEstVG9QaUQ1Q2s1RQ?oc=5": {
+      "title": "Aneel julga multas contra eólicas e solares pelo apagão de 2023 - CanalEnergia",
+      "summary": "Aneel julga multas contra eólicas e solares pelo apagão de 2023 Recomendação dos relatores é pela manutenção total ou parcial das penalidades emitidas pela fiscalização após o evento, há multas que ultrapassam R$ 20 milhões 24 de novembro de 2026, às 10h08 Tempo de leitura: 3 minutos Fonte: Arquivo",
+      "source": "",
+      "added_at": "2026-11-24T22:36:51.231495-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
