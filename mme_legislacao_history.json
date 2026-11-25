@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T23:09:19.878913-03:00",
+  "last_updated": "2026-11-25T07:02:11.341163-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5838,6 +5838,32 @@
       "summarized_at": null,
       "notified_at": "2026-11-24T07:03:06.373749-03:00",
       "error": "summarize_failed_or_skipped"
+    },
+    "portarias_portaria-mme-n-178-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-178-2026",
+      "title": "Portaria MME nº 178/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-178-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-178-2026.pdf",
+      "date_modified": "25/11/2026",
+      "ementa": "Dispensa RAFAEL PASSOS LISBOA, matrícula SIAPE nº 1376123, do encargo de substituto eventual do Coordenador-Geral de Operacionalização de Políticas Sociais para o GLP e Promoção do Cozimento Limpo do Departamento de Políticas Sociais para o GLP e Promoção do Cozimento Limpo, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.13, a partir de 17 de novembro de 2026.",
+      "summary": null,
+      "added_at": "2026-11-25T07:01:19.278450-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-179-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-179-2026",
+      "title": "Portaria MME nº 179/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-179-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-179-2026.pdf",
+      "date_modified": "25/11/2026",
+      "ementa": "Designa WAGNER PESSOA FELIX DA SILVA, matrícula SIAPE nº 1800321, para exercer o encargo de substituto do Coordenador-Geral de Operacionalização de Políticas Sociais para o GLP e Promoção do Cozimento Limpo do Departamento de Políticas Sociais para o GLP e Promoção do Cozimento Limpo, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, código FCE 1.13, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": null,
+      "added_at": "2026-11-25T07:01:19.278450-03:00",
+      "notify_skipped": "pessoal"
     }
   },
   "first_run_done": true
