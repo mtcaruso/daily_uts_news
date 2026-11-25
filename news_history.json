@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T08:02:46.113553-03:00",
+  "last_updated": "2026-11-25T08:33:35.838432-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUE5oSmJMRlZxNlpUWHJOa0ZGelR0dUlicC1EbThndFMyMnota3I1b0FYeVZjeDE2MFJtNjQzdUJsZFN5VUV6MEVkWmtqVHdDWFN0YWxRVjNKQkpkWkM2cElmQXFOdUF5QXNkdGtTVGpXY0FMV29BSHlZSlFSSklOdkVla1VrakZfejJzZw?oc=5": {
       "title": "Folha.com - Classificados - Negócios - LEILÃO ARTES E ANTIGUIDADES - Classificados Folha",
@@ -2455,7 +2455,7 @@
       "source": "",
       "added_at": "2026-11-22T14:47:28.637951-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVlHQUxQUnFjcm5TdXVJQ0kzdXViNEd4RmhNRDk4VURfMGtDNVdqZ0Z6M0pweU54WmJkVmVDRXhURVpuSjE5cUhsSTM4ajF3Qm9MdlVJYnlJeTcydExiNGoxMTNvSVg1bkJ1a1VIRnY5eUlwUlhod1pjVXNUOElCSmk2UVRtM0E0ZUJJU1hYZl9WWG1ObTJpX0cyZ01Gdk5JbnRYT2pYa21nZ3ItNDhfR2dCcXBHVEQ4WkN0anBVVjNsRzRQSy05REZiMU1iRjNxR1E?oc=5": {
       "title": "Ovelhas e painéis solares dividem espaço e aumentam produtividade agrícola - c-level.folha.uol.com.br",
@@ -3747,11 +3747,11 @@
     },
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWpmU0tyME9aVW1oTUl1RDQ2cHZKZHIzSEpaN3FMYmk0NUczU3ZOdWZ1SmxZU1lwVjJOQWZVWHpCVl96cUQzZEdNLVpEb0ZfeGJnSU52RGpVaDAzdXVXRE5FU0hxbllXNEdxZjZLeWpOMDBIREpDai1QMHpVRTZqMkFFRExGVllBaTRiRDlhUXk3N2Y4X3BPamJpY05STmJDc3BwS19VcnFJYWlmT3c4WQ?oc=5": {
       "title": "Opinião - Jerson Kelman: Tarifa horária traz justiça para conta de luz - Folha de S.Paulo",
-      "summary": null,
+      "summary": "A Aneel tomou a excelente iniciativa de propor preço com variação horária para o consumo de energia elétrica em residências, empresas e outras unidades atendidas na baixa tensão com consumo mensal superior a 500 kWh/mês. A implantação compulsória será gradual, em três etapas entre 2028 e 2031, começando pelos consumos acima de 1.800 kWh/mês (como referência, o consumo médio residencial é de 160…",
       "source": "",
       "added_at": "2026-11-25T07:01:00.961759-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIVFdJamY4cnVYQnBJd2lvRDZaVW5EczZTV1VycGNqMlJfVXA1UDFzZzl0UWVJWFdBUldpckVFQ1VYQ0pFQkhoNVp5b0NOdFFER0w3QXp1UnpnbGVMdGlzMHRObk1FYk9TanVqMVFsaFpueUZ4?oc=5": {
       "title": "Arquivos política de incentivo tarifário - Agência iNFRA",
@@ -3759,7 +3759,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:08.153822-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnZMb2k2LUlGNWlnRFctWHFGNjVIaUM0STZ1Z0I2NGg2YkNJeUM5N2dDQV9kd1Z2ejhJU2FmX0JlN1g3R19vdzVOTEhIVnZzV2IzSnotSHpMZmI4dDFCRTFLWWhkLS1UazYtdUIyTzdsWDh1QmY5SmdHR2dvcnhJRWZSZUdYUmJpVTllUHVJRGhZcFA5X2RCMGRQVTdLc0VKNExOMHc5YXZUcEhtejFB?oc=5": {
       "title": "‘Gato solar’ tem custo de até R$ 4 bilhões - Valor Econômico",
@@ -3779,11 +3779,11 @@
     },
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjh1cGNSR3dlZUh1T0p3QXJZQzdOUVZjcUpNeVhIV3dsbkNKNVpHbzNLMVNXVldCNWtjQXlOUGs0VlFzMjRrZXhKUXo5eDFKOU1rX1FVZzB6LVpOMjNtd1NrME5TSW9WaDN1aXRGSkpEbVFFUk9QRHgxZEdfbjNLQmFuUFRMQnVpMm5RNjRQcHd3NkVmdzNNSk9XY3VKdkZKN2Q0TTA1R2tXTDJGc0tlMzRVZHpkWUxzQTZ4NlFYUWp6QTJ4YnpFUWgzZ09mY1BsTTkyeVRaZE9KeXFDVm11UmdPc2o2WEFQ0gHoAUFVX3lxTFBCOHVwY1JHd2VlSHVPSndBcllDN05RVmNxSk15WEhXd2xuQ0o1WkdvM0sxU1dWV0I1a2NBeU5QazRWUXMyNGtleEpRejl4MUo5TWtfUVVnMHotWk4yM213U2swTlNJb1ZoM3VpdEZKSkRtUUVST1BEeDFkR19uM0tCYW5QVExCdWkyblE2NFBwd3c2RWZ3M01KT1djdUp2Rko3ZDRNMDVHa1dMMkZzS2UzNFVkemRZTHNBNng2UVhRanpBMnhiekVRaDNnT2ZjUGxNOTJ5VFpkT0p5cUNWbXVSZ09zajZYQVA?oc=5": {
       "title": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado - Valor Econômico",
-      "summary": null,
+      "summary": "Tempestade solar vai atingir a Terra nesta semana, prevê relatório; veja impacto esperado Tempestade geomagnética prevista para sexta e sábado pode causar instabilidade em GPS, satélites e sistemas de energia Uma tempestade geomagnética está prevista para acontecer na sexta-feira (27) e no sábado (28), de acordo com a Administração Nacional Oceânica e Atmosférica dos Estados Unidos (NOAA, na…",
       "source": "",
       "added_at": "2026-11-25T07:01:17.085343-03:00",
-      "error": "no_article",
-      "attempts": 1
+      "summary_source": "extractive",
+      "reresume_attempts": 1
     },
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeDN3Z19QVFp6THF1WkJLNXpwOXBCQ0lEUWphTGNveXl6SWNZTUw1YnpLS1JLNjdUaEI5NnNUMFhTQzRqUldiM25xRElva1pydU9taWpwTERoT05yU1ZpdGtrVWkzMDZKSXgzWHhORmFzN3BMUXd1eXdGRmZpd1BWcWowTDh0cm9CS3ZCTjJMSksxMTN4cEJ5ZGFuX3ZzY0x1QjJNOU9sQ2xPNFJINUZqd1poMGVWbE1TUHhRak1xV1ZNU0tQNHJKYnp6MUFBNHBPbVJ3c3IzSjd6aFlMY1BwRHpwemtQM296YXctMkMzX0ZuOFdQ?oc=5": {
       "title": "Alemanha dobrará subsídios a carros elétricos; abatimento pode chegar a um terço do valor total - c-level.folha.uol.com.br",
@@ -3791,7 +3791,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:17.085502-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Gem1IRzR5a0FpOVNYTjNlUHN5Y0dUUkczR2o0TTRuc1BzNUl3RnFnbTh6TUFWUktoM0FDd3A3TnVOYmdLR29CNWZZMFprM3IwOHdCaXY0N0R3Mm1mbi1DWTVqbXptSFhybTcwZ2dRZFVjS0xDWWd1cHlvZXZrZw?oc=5": {
       "title": "LEILÃO DE BOLSAS - Classificados Folha",
@@ -3823,7 +3823,7 @@
       "source": "",
       "added_at": "2026-11-25T07:01:21.747878-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
@@ -3863,7 +3863,7 @@
       "source": "",
       "added_at": "2026-11-25T08:02:41.480059-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeE9WZEd2Uk9QTzgyY0ppSzIxWm9GbENrLUlwVjhIZDFCVVVuNjJ2c1NVNTZ3amg3VDMtQXgxdkpkVWxWeV9oQ3R3NlE3ZkxTUVRoMzVBVXg3RHRpakRDMmV2aWlMblZVRFdTNTV1ck5yWVJUOWp1Qkh1MndwR1NQM2lacy1qcWQzejZlR2RHQWN4OXdvOG5RZTBnUjB5THpoMURHWmdJU1kwSUxtOUE3Y2VzRC1nSlJ0NVZWQ3BR?oc=5": {
       "title": "‘Gato solar’ tem custo de até R$ 4 bilhões - Valor Econômico",
@@ -3871,7 +3871,7 @@
       "source": "",
       "added_at": "2026-11-25T08:02:41.480405-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeFgyVUNucVZBNUk5Y2JJTlEydDFGTF9IelQ1YVhuN25xR2kwZ2ZnV1dwWURZb3IzY01MajRucXBOOUZwN3Ntd0xGcmtnckw0Z3J2ZFpDSGcwSXh0VEpINUU1QUhGX01LZk9OSUItVEUyLTBGMno1VXk2XzNmcGRSc3N4Y1JwVDd0NUl1X2JWcGY5X20xZ0RfZzVSNm44NXo1STMzMjNIRklxdm50WkNqV0U2YTRvWjFSazM4ZW1GQ0xKSU5mdDJ6aVc2MGlpdlJNUVQ4RWExZW53MXV5Rk1seGRWbmZIRTA?oc=5": {
       "title": "China rebate EUA sobre ameaça de nova tarifa, vê manipulação e diz que guerra comercial não interessa - Folha de S.Paulo",
@@ -3879,13 +3879,29 @@
       "source": "",
       "added_at": "2026-11-25T08:02:41.480678-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 1
+      "reresume_attempts": 2
     },
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGpISjlvMzhUVHFUekljdjFITllTOHgxcFBaa0xjUExfVzZnRWtMR19wa0EyaHNGZEQ3c0Y4S3B3eXVnTjBfVHVHQ0xyTUgwNDg3SVhMWGJzNlN2bkVsdFlqQWMxTmk5bnpFaWh1TkZSVm1xbTUyaUQ1N05RMEdPa1ZSek9nYjJwRzJ2YkN6V09SbmZUSEdULURUS1FUOHE2X2NJMkJiUXVvRXJ0WW5xR1lYcmNENnhoY1NNYWJ6QXF5TGllaEdfV2xmR3RuLUNIUUM1TlVhRGtHUVXSAeABQVVfeXFMT0kyandkNE9IMDE1aWZoOEdZMWpncnc0UWJPbGZmTVU4OUw5X3BsYS0zWklFX01tV1psaVJrd2g2TkJqY1VaMURNc3JTaElYa3VhYldSTjRNSTNjY0E5SHlCNGw3SzdHd2dnQlV6VjNhMy03QTZab2R3c1VkNDVaNUdoZERqdzcxMUR1eGN2U3NBODQyUUNMdG95Vnc1WXlWcFFrOUt2S0pURWhrbE1VWDl3TUhqa0l4YWpNSHJqRjNhZktUeG94OVpjUUhnOVhDWUk3YWpjT0xWLWdqZGlPN0M?oc=5": {
       "title": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA - Estadão",
       "summary": "Gerando resumo As bolsas asiáticas fecharam em baixa nesta quarta-feira, 25, com a perda de força do alívio provocado pela volta de Jensen Huang ao comando da Nvidia e o aumento das dúvidas sobre as perspectivas para a inteligência artificial (IA). O temor de novas tarifas também voltou ao radar, após notícias de que os Estados Unidos poderiam elevar as alíquotas sobre vários países.",
       "source": "",
       "added_at": "2026-11-25T08:02:46.107524-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 2
+    },
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd1hmaDZZd1VtelcyOW9YUWRibC1YUTFrQXNBa2Rpc1lFelJVWno1Zk9lUWxqVF9lekM1UXRHaC1mcUQxbzlwcVRQcElWcXZCa2Jyc1FOVGNxNk44cWlYN2podTN5U0FuLVYwQ2dfXzAydWF2bnBaYV9yaVloTHNld0xKUE9wLVBCWWMwX25SdHdLWmk0OEo3R3BYTlBYWmpnQmozaVlaOXptZjJGVFFDNmlLVmdjN196cmhlYnJOUjJ3U2I0aVV4NG8yTm5mbG5Id2Q0R0ItSk9kbTNTbGlXeVZLUUVxNFBlQjdLVnlFOXl5TzB6NnhmOHpmSGRQUG960gGPAkFVX3lxTFBoQUgwMW5jTmR6RkNQNEEyWDhyVkkxVjJRRnRzX1A1YldiNGtzM0RMSldLR29FWjdYQkxHNEtxN3l6TUVEUWdEQUJlaUtrNDEzVURTbDNKRVVxRWdXM0E2Ulc0Q21QaE51WFhvZ3VhLTZDUDVaUVgxc3FJY3hPVGhfLThJS0x6UjVmSlpQUTNCZnpndGNyWjF6WnFlZGpkalhqUkEzMUZaLUkyR3EySDZZN3NWdG00YXZhZWJRRWllUFNYS09yQ1pvYjV6a2t1ekM0OUtsemlYUmpRdk04TWRzZDF6UGl0bm1pczlhRXNwbG1MWW1hWXM4VnJoYUNXZHdsQ093YklxSndjNFhvbDg?oc=5": {
+      "title": "Agenda de empresas: CPFL aprova R$ 250 milhões em proventos; Justiça avalia extensão de prazo para acordo da Braskem - Valor Econômico",
+      "summary": "Agenda de empresas: CPFL aprova R$ 250 milhões em proventos; Justiça avalia extensão de prazo para acordo da Braskem Por Valor — São Paulo Atualizado CPFL Energia A CPFL Energia anunciou nesta terça-feira (24) o pagamento da sétima parcela de seus dividendos, no montante de R$ 250 milhões, ou R$ 0,21696 por ação. O pagamento será realizado em 10 de dezembro, com base na composição acionária de 29…",
+      "source": "",
+      "added_at": "2026-11-25T08:33:26.611508-03:00",
+      "summary_source": "extractive",
+      "reresume_attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmI5dTR1ZEtHbU5XNlNuSGZ0VDJUdUpDOF92VVdkOE1YMXEycWhTNUNZVTF3NEFpMmp0dHAwV0xyVmpzU20zMlpqQXhDU2o0ZWE3Yy1DMkFndVRMSFJzMVhzTHdrVXppSWw3Q2NfcHp4bkdEckZMdHF1QnhWSUxVQlRfc0tNNDlEQXA0T1ZHM0xQM2d5ZzdwanBWaGF5LWo1VHpJLXlBSTFoYXp6OW40M0hyaGR5aTFnQ0xJRHdCRmFtUQ?oc=5": {
+      "title": "Goiás fecha parceria com BBCE para usar dados na compra de energia - MegaWhat",
+      "summary": "O governo de Goiás fechou uma parceria com a BBCE para utilizar preços negociados no mercado livre de energia como referência nas decisões de compra de eletricidade para prédios públicos. Com a iniciativa, o estado se torna o primeiro do país a adotar dados de negócios realizados na plataforma para orientar suas contratações de energia.",
+      "source": "",
+      "added_at": "2026-11-25T08:33:35.832097-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
