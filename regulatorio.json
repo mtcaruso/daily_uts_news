@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-25T10:06:03-03:00",
+ "gerado_em": "2026-11-25T10:21:33-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-25T10:06:03-03:00",
+   "lido_em": "2026-11-25T10:21:33-03:00",
    "listagem_pc": "2026-11-25T01:05:56.358983-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-25T10:06:03-03:00"
+   "lido_em": "2026-11-25T10:21:33-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-25T10:06:03-03:00"
+   "lido_em": "2026-11-25T10:21:33-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-25T10:06:03-03:00"
+   "lido_em": "2026-11-25T10:21:33-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -32,7 +32,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-25T10:06:03-03:00"
+   "lido_em": "2026-11-25T10:21:33-03:00"
   },
   "TCU": {
    "ok": true,
