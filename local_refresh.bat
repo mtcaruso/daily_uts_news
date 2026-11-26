@@ -40,6 +40,14 @@ set "GIT_HTTP_LOW_SPEED_LIMIT=1000"
 set "GIT_HTTP_LOW_SPEED_TIME=60"
 set "GIT_TERMINAL_PROMPT=0"
 set "GCM_INTERACTIVE=never"
+REM ---- GIT NUNCA ABRE EDITOR (26/11/2026) --------------------------------
+REM Em 24/11 o rebase do passo 8 falhou e o plano B (pull --no-rebase = merge)
+REM abriu o vim para a mensagem do merge. Rodando oculto, ninguem fecha: o vim
+REM ficou esperando ~2 dias, o cmd segurou o lock e TODA rodada seguinte saiu
+REM no "[lock] Outra instancia" (SEI e DOU parados). Provavel causa tambem de
+REM 10/11 e 11/11. Agora merge usa a mensagem padrao e qualquer editor sai na hora.
+set "GIT_MERGE_AUTOEDIT=no"
+set "GIT_EDITOR=true"
 
 REM Dir do repo: 1o argumento (passado pelo VBS, pois a copia roda no TEMP);
 REM fallback pro dir deste arquivo (execucao manual direto do repo).
@@ -76,8 +84,9 @@ git pull --rebase -X theirs --autostash origin main
 if errorlevel 1 (
     echo WARN: rebase falhou — abortando + merge -X ours
     git rebase --abort 2>nul
-    git pull --no-rebase -X ours origin main
+    git pull --no-edit --no-rebase -X ours origin main
     if errorlevel 1 (
+        git merge --abort 2>nul
         echo ERROR: git pull falhou de vez. Resolva conflito manual no proximo run.
         exit /b 0
     )
@@ -124,7 +133,8 @@ if errorlevel 1 (
     if errorlevel 1 (
         echo WARN: rebase com conflito inesperado — abortando e merge simples
         git rebase --abort 2>nul
-        git pull --no-rebase -X ours origin main
+        git pull --no-edit --no-rebase -X ours origin main
+        if errorlevel 1 git merge --abort 2>nul
     )
     git push
     if errorlevel 1 (
