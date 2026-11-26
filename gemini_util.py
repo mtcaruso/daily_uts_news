@@ -65,7 +65,12 @@ def _client():
         return None
     try:
         from google import genai
-        _CLIENT = genai.Client(api_key=key)
+        from google.genai import types
+        # api_version FIXA em v1beta: o google-genai 3.x passou o padrão pra "v1",
+        # que recusa o modo JSON do generate_batch (400 "JSON mode is not enabled
+        # for api version v1"). Desde 18/11/2026 o GHA instalava a 3.x e TODO lote
+        # caía no resumo extrativo; a 2.x (PC) já usava v1beta por padrão.
+        _CLIENT = genai.Client(api_key=key, http_options=types.HttpOptions(api_version="v1beta"))
         return _CLIENT
     except Exception as e:
         print(f"[gemini] init falhou: {e}", file=sys.stderr)
@@ -279,9 +284,14 @@ def generate_batch(items, instruction, max_output_tokens=1200, temperature=0.2):
     if not items:
         return {}
 
+    # Ids CURTOS no prompt ("1".."N"), traduzidos de volta no fim. O news_summarize
+    # passa a URL do Google News como id (mediana ~320 caracteres de base64, até
+    # 900): o modelo errava ao repetir a URL (item caía pro extrativo) e só os ids
+    # comiam boa parte dos 1200 tokens de saída (JSON cortado = lote inteiro perdido).
+    orig = {str(n): str(it["id"]) for n, it in enumerate(items, 1)}
     payload = [
-        {"id": str(it["id"]), "title": (it.get("title") or "")[:300], "text": (it.get("text") or "")[:4000]}
-        for it in items
+        {"id": str(n), "title": (it.get("title") or "")[:300], "text": (it.get("text") or "")[:4000]}
+        for n, it in enumerate(items, 1)
     ]
     prompt = (
         f"{instruction}\n\n"
@@ -295,7 +305,7 @@ def generate_batch(items, instruction, max_output_tokens=1200, temperature=0.2):
     raw = generate(prompt, max_output_tokens=max_output_tokens, temperature=temperature, response_json=True)
     if not raw:
         return {}
-    return _parse_batch_json(raw, {str(it["id"]) for it in items})
+    return {orig[k]: v for k, v in _parse_batch_json(raw, set(orig)).items()}
 
 
 def _parse_batch_json(raw: str, valid_ids: set) -> dict:
