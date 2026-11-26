@@ -4,6 +4,16 @@
   "tipo": "Leilão de Geração: Reserva de Capacidade",
   "documentos": [
    {
+    "protocolo": "0514117",
+    "tipo": "Aviso de Homologação e Adjudicação",
+    "data": "24/11/2026",
+    "data_inclusao": "24/11/2026",
+    "unidade": "GAB IV - GNSJ",
+    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOsy1kf2UC8fy-LxBA--5fayc5jYQkitH3Ez1qZj-Z9gUrAx0eU2FjlHJ9L5B6Ct4i5xS1J5hYyaV0AV3vWrhLn",
+    "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+    "restrito": false
+   },
+   {
     "protocolo": "0512254",
     "tipo": "Recibo",
     "data": "13/11/2026",
@@ -4895,6 +4905,12 @@
    }
   ],
   "andamentos": [
+   {
+    "datahora": "24/11/2026 12:33",
+    "unidade": "SGE - PUBLICAÇÃO",
+    "descricao": "Processo recebido na unidade",
+    "hash": "99ad6a6cb753"
+   },
    {
     "datahora": "24/11/2026 11:31",
     "unidade": "GAB - APOIO",
@@ -17009,6 +17025,76 @@
   "processo": "48500.900599/2019-95",
   "tipo": "Gestão Tarifária: Distribuição - Revisão Tarifária Extraordinária - RTE",
   "documentos": [
+   {
+    "protocolo": "0515503",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515508",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515513",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515515",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515518",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515520",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
+   {
+    "protocolo": "0515722",
+    "tipo": "Anexo",
+    "data": "25/11/2026",
+    "data_inclusao": "25/11/2026",
+    "unidade": "STR",
+    "link": null,
+    "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+    "restrito": true
+   },
    {
     "protocolo": "0513968",
     "tipo": "Anexo",

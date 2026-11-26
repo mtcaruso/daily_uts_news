@@ -6,6 +6,7 @@
     "ntfy_enabled": true,
     "added_at": "2026-05-26T10:00:00",
     "andamentos_seen": [
+      "99ad6a6cb753",
       "37ac090caf35",
       "64609fbc88d6",
       "0de7e1cda678",
@@ -619,12 +620,18 @@
       "886182a5b5b2",
       "3283160d7e6f"
     ],
-    "andamento_count": 612,
-    "documento_count": 489,
+    "andamento_count": 613,
+    "documento_count": 490,
     "processo": "48500.032821/2025-67",
     "tipo": "Leilão de Geração: Reserva de Capacidade",
-    "last_check_at": "2026-11-24T11:45:46.589421-03:00",
+    "last_check_at": "2026-11-26T08:36:22.151045-03:00",
     "last_andamentos_top10": [
+      {
+        "datahora": "24/11/2026 12:33",
+        "unidade": "SGE - PUBLICAÇÃO",
+        "descricao": "Processo recebido na unidade",
+        "hash": "99ad6a6cb753"
+      },
       {
         "datahora": "24/11/2026 11:31",
         "unidade": "GAB - APOIO",
@@ -678,15 +685,19 @@
         "unidade": "GAB - APOIO",
         "descricao": "Conclusão do processo na unidade",
         "hash": "8bd410a80fb1"
-      },
-      {
-        "datahora": "13/11/2026 11:14",
-        "unidade": "SGE - PUBLICAÇÃO",
-        "descricao": "Reabertura do processo na unidade",
-        "hash": "aedd54f92db3"
       }
     ],
     "last_documentos_top10": [
+      {
+        "protocolo": "0514117",
+        "tipo": "Aviso de Homologação e Adjudicação",
+        "data": "24/11/2026",
+        "data_inclusao": "24/11/2026",
+        "unidade": "GAB IV - GNSJ",
+        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOsy1kf2UC8fy-LxBA--5fayc5jYQkitH3Ez1qZj-Z9gUrAx0eU2FjlHJ9L5B6Ct4i5xS1J5hYyaV0AV3vWrhLn",
+        "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+        "restrito": false
+      },
       {
         "protocolo": "0512254",
         "tipo": "Recibo",
@@ -775,16 +786,6 @@
         "unidade": "GAB IV - GNSJ",
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNyWm-4Sd-hIc5spw1-Lv83qlB4t4hnSs12EaEv95KlLiUho_SICk7wUAQMKBC4UceqqEQo8n1KRdadFgi1hUay",
         "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
-        "restrito": false
-      },
-      {
-        "protocolo": "0508364",
-        "tipo": "Memória",
-        "data": "16/11/2026",
-        "data_inclusao": "16/11/2026",
-        "unidade": "GAB - APOIO",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPTkwe_TTCoCcmmi_-qEFn7gcsTo2iI47XBiGzQoILUc-H-Pj7ehrMhtDwlDCwSV9WXwOHUhtOzn8uqKM3NuMDm",
-        "unidade_nome": "Gabinete de Apoio à Diretoria",
         "restrito": false
       }
     ],
@@ -1277,7 +1278,8 @@
       "0508762",
       "0509699",
       "0512140",
-      "0509741"
+      "0509741",
+      "0514117"
     ]
   },
   {
@@ -1328,7 +1330,7 @@
     "documento_count": 15,
     "processo": "48500.906080/2022-16",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-24T11:45:49.025857-03:00",
+    "last_check_at": "2026-11-26T08:36:24.603410-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "22/05/2026 15:54",
@@ -1555,7 +1557,7 @@
     "documento_count": 31,
     "processo": "48500.902708/2024-76",
     "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
-    "last_check_at": "2026-11-24T11:45:54.582834-03:00",
+    "last_check_at": "2026-11-26T08:36:30.261158-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "15/12/2025 18:59",
@@ -2047,7 +2049,7 @@
     "documento_count": 146,
     "processo": "48500.904885/2020-63",
     "tipo": "Regulação da Geração: Normatização",
-    "last_check_at": "2026-11-24T11:45:57.850520-03:00",
+    "last_check_at": "2026-11-26T08:36:36.857178-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "24/11/2026 11:33",
@@ -2681,7 +2683,7 @@
     ],
     "andamento_count": 308,
     "documento_count": 238,
-    "last_check_at": "2026-11-24T11:46:01.705188-03:00",
+    "last_check_at": "2026-11-26T08:36:44.189162-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "12/11/2026 10:55",
@@ -3132,7 +3134,7 @@
     ],
     "andamento_count": 9,
     "documento_count": 10,
-    "last_check_at": "2026-11-24T11:46:04.174199-03:00",
+    "last_check_at": "2026-11-26T08:36:49.758246-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "09/11/2026 11:24",
@@ -3375,8 +3377,8 @@
       "45c4e81ed414"
     ],
     "andamento_count": 60,
-    "documento_count": 64,
-    "last_check_at": "2026-11-24T11:46:06.770322-03:00",
+    "documento_count": 71,
+    "last_check_at": "2026-11-26T08:36:55.691244-03:00",
     "last_andamentos_top10": [
       {
         "datahora": "24/11/2026 11:08",
@@ -3441,6 +3443,76 @@
     ],
     "last_documentos_top10": [
       {
+        "protocolo": "0515503",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515508",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515513",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515515",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515518",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515520",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
+        "protocolo": "0515722",
+        "tipo": "Anexo",
+        "data": "25/11/2026",
+        "data_inclusao": "25/11/2026",
+        "unidade": "STR",
+        "link": null,
+        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+        "restrito": true
+      },
+      {
         "protocolo": "0513968",
         "tipo": "Anexo",
         "data": "24/11/2026",
@@ -3468,76 +3540,6 @@
         "unidade": "SGE -SORTEIO",
         "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzN_wf4wbt8kCeVnuxxSamtN2XmnkCi7WGtaql6gbI4FMhM-ynRgkgyNHDC3ljXVbzPZVzV0Nr0GXBFHwwpKSANN",
         "unidade_nome": "(Somente encaminhamento de processos para sorteio de Diretor-Relator)",
-        "restrito": false
-      },
-      {
-        "protocolo": "0509940",
-        "tipo": "Nota Técnica 208",
-        "data": "18/11/2026",
-        "data_inclusao": "18/11/2026",
-        "unidade": "STR",
-        "link": null,
-        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-        "restrito": true
-      },
-      {
-        "protocolo": "0509982",
-        "tipo": "Relatório de Análise de Impacto Regulatório 11",
-        "data": "18/11/2026",
-        "data_inclusao": "18/11/2026",
-        "unidade": "STR",
-        "link": null,
-        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-        "restrito": true
-      },
-      {
-        "protocolo": "0509264",
-        "tipo": "Requerimento de Distribuição de Processo",
-        "data": "17/11/2026",
-        "data_inclusao": "17/11/2026",
-        "unidade": "STR",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMpZNfFNJ6N0T2DyOWuDE_Nx0Pxdx2NoUYiY2hHIvLxjUQbHEYdDFw2pSsemZKrbI_uVC4cfZ5fKw2G59SHUSoG",
-        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-        "restrito": false
-      },
-      {
-        "protocolo": "0478093",
-        "tipo": "Lista",
-        "data": "09/10/2026",
-        "data_inclusao": "09/10/2026",
-        "unidade": "STR",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWRw6yemtNzMnhaJu_7db1VK7-VMMwte1fqIe_5hsBq1ZU9zsaS1QjveGzFHbeRSxy7HfKgMOTZi9fIyABvxRV",
-        "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-        "restrito": false
-      },
-      {
-        "protocolo": "48500.018947/2026-18",
-        "tipo": "Regulação Econômica: Normatização",
-        "data": "01/07/2026",
-        "data_inclusao": "01/07/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqcUgSorJTQPpz0HIVgbWpbpQoHpjuiVDJTZNMroakurw,,",
-        "unidade_nome": "Protocolo-Geral",
-        "restrito": false
-      },
-      {
-        "protocolo": "48500.018905/2026-79",
-        "tipo": "Regulação Econômica: Normatização",
-        "data": "30/06/2026",
-        "data_inclusao": "30/06/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHo8VR1PIN2j5leeBGGynOUegoXWvqhGmppjbtSNBnRuNQ,,",
-        "unidade_nome": "Protocolo-Geral",
-        "restrito": false
-      },
-      {
-        "protocolo": "48500.018903/2026-80",
-        "tipo": "Regulação Econômica: Normatização",
-        "data": "30/06/2026",
-        "data_inclusao": "30/06/2026",
-        "unidade": "PROTOCOLO-GERAL",
-        "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHrX1NOGXKZfkOiP6GpnsdyJziBlE8WJrgbNb6otLvgiBA,,",
-        "unidade_nome": "Protocolo-Geral",
         "restrito": false
       }
     ],
@@ -3605,7 +3607,14 @@
       "0509982",
       "0513053",
       "0513968",
-      "0513970"
+      "0513970",
+      "0515503",
+      "0515508",
+      "0515513",
+      "0515515",
+      "0515518",
+      "0515520",
+      "0515722"
     ]
   },
   {
