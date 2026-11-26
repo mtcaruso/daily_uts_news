@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T13:13:49.743455-03:00",
+  "last_updated": "2026-11-26T13:38:37.041540-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -4596,6 +4596,38 @@
       "summary": "O **Cade** apoia a sanção do PL dos postes, que regulamenta o compartilhamento de infraestrutura entre empresas de energia e telecomunicações. O órgão antitruste ressalvou, porém, que não fez uma análise econômica aprofundada dos preços máximos de compartilhamento, que devem ser definidos por **Aneel** e **Anatel**.",
       "source": "",
       "added_at": "2026-11-26T13:13:49.736500-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1FwN3JaUVVMWG5yc3ZSU2g3OUU5WTcyR2hiUHVLbTZEZUdEQ1VHVnh1TGZackd0TGdJbWplanlYbXVNSlBfWDlyQzVpSnFGQUlFdTZkejFjN2J0dWVZbjg1NFFlM09QTHhmTWZ1TE54UTB1YWE4T2RTRlp4S0ZMcGtCQThnWXdsTklFR1h6SDBkRXQwbWw0U0VMcUhqNlFXZ2VGWUVSQmpMUQ?oc=5": {
+      "title": "Embraer diz que foi pega de surpresa com possibilidade de tarifas dos EUA e ‘conta com bom-senso’ - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-26T13:38:27.364053-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenBFOGtjVDlsV2U2MUUwWm1KUHdPQnBoamlER3AtZ3ZSbVpuY2JubFZqa3FpSnAtS1NwM0lNaHZHZFVqSGFGNFlyS0RVVWdlZnRSTHJOOXFYUm1FaFlSWkNvMy1lbTBDWlNqdFF5cXB0cFUtaWVkb1lqeUtBZjQwVklmREFnejFQb3YzQ0NqX0ZQQ3lEMy1fME5lVkhCZE9GbFFmZXJzSXF6M3pPSzNsNjR1LTFFMknSAbwBQVVfeXFMUHk2N1NnWlpMRExTNUh0ZWpDRlZBanpxaEJpZlcyQWhxNTMtdXp3NTRCRXRLck9LQkwySEFrUVNjNW1HU2dmSFVzRFBnV0x2TVI3dXFLcUVVQzBQYnp0LTVGdjBqdVdxUlpISE1lX1dmcGlwUy0yaHF5bnZxRE8zOWFLbDJWcF9GcE9yOUVMdkQxSlpRV1d3MENKdkRJOUt3LWxzc0ZSdE1pZEt1cTQ2cC1lMnAya0w3bHRZSlA?oc=5": {
+      "title": "Cientistas chineses criam ‘pente elétrico’ que promete acabar com a calvície - Estadão",
+      "summary": "Cientistas chineses da Universidade Beihang desenvolveram um \"pente elétrico\" bioeletrônico, o \"Detangle\", que demonstrou em testes com ratos a capacidade de estimular o crescimento capilar em até **97,85%** em um mês, usando eletricidade e terapias medicamentosas. A tecnologia promete ser uma alternativa promissora para combater a calvície, afetando até **80%** dos homens e **42%** das mulheres.",
+      "source": "",
+      "added_at": "2026-11-26T13:38:37.035896-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanJyNEoxVlBjblRQcHlmSGRQUVZuYy0xZGt5TFZwUzNwRE54dkdtSE5fMWUxSWVNQWctMlk1a25WQ00taHZwZzhTeW1RSlgtS0cxTC10OW4wQ1R1R3dYczBDeGdZNnVUV0ZEbzlxbllrTm9Pdml5WERidUJ2ejZqOC1nZnZMU3Bsc2IxLXNrMHFNZzTSAZgBQVVfeXFMTUhxWS1YRmxVMUl5MVNnUHVpSmU0NUtyREJHNkoyS3RkLW4zam9qb05IWUUxOVRrWm82aGFabFpueWllV0NuOTY2Smc2bFFqZ0xRQjQtVkhUWlg5emM4Xzh5NldHWVN4YVBvYks2UlA3bmhaVFl3aGhXa1pvRmJGcjhDdGIwUGY1YkJ2djI3cU4tR3NQSExULWE?oc=5": {
+      "title": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia - Estadão",
+      "summary": "Luiz Carlos Trabuco, presidente do conselho do **Bradesco**, está avaliando uma proposta do presidente Lula para assumir o Ministério da Fazenda. Trabuco já defendeu em artigos a importância do ajuste fiscal, reforma da Previdência e combate à inflação para um crescimento sustentável. A notícia gerou reação positiva no mercado, com alta na bolsa e queda do dólar.",
+      "source": "",
+      "added_at": "2026-11-26T13:38:37.035937-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnFxWDJpWEwwQjdRR3ljaWtoXzZzY3BoOWdjV04yZ0pkMFlUanpoMXJKeTJuM05Wd0tIWXVXelB6amNqOC1Pa2pueTRMc2tkU1BzQVE0Vzl3b2NDYjJMYklMd0l1bWJLMzljeXhMYjJZWXlzREFKaElaYUE0UmlsalhtT1FUMHlXdnhONDFrVEVrN05fRENWRFFMMkR0eGt3LXB3R3FCdUh3Y2FmLXcyU2RVMlZqTzVtX3FLWXJvVTZhMzdxNEpabDNDNmsyVGRFWnR5a9IB2gFBVV95cUxQaTVBX2FFa0pCUFRmc0lwQW9NQWJudjdrNzNQeE9feF9XZ0RmRkdDSWZ5VTgwVjd2LUdwajRleV9Wa1pyU0tkZzBpN0FyTlluMFk3ZnhJLWdIOXRqUlhqbFFVRkNQZF9aVzM4TEY2a3NnN3JkRmpfdmJJeGdZVUpWdWtRaFRRLUU1OVFvZDZhYnFhMWdCb3dHV283Ti03MW1DZ1czVVFJaGI4aXdkNWJxYjJTd1phLXlnUTFlall5V3JzVlNyaVFaTmk3VzgyZF94cUJ0MFZGUUprZw?oc=5": {
+      "title": "Economia circular: lamas de tratamento de água viram 14 milhões de telhas em Portugal - Estado de Minas",
+      "summary": "Em Portugal, a **ETA de Lever** transformou cerca de **2.280 toneladas** anuais de lamas de tratamento de água em aproximadamente **14 milhões** de telhas, através de um projeto de economia circular. A iniciativa, que evita o descarte em aterros, gerou uma poupança de **1,5 milhão de euros** e venceu um prêmio internacional da IWA.",
+      "source": "",
+      "added_at": "2026-11-26T13:38:37.035948-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOREZ3VU5QZjdXOWhrUTNtVjg2ZWdzTlctOFJhZi1BaVJVZlRuYTlVVmlaZ0xjTkdzX2pwSmVWYldCMDJuWGpjYlpWc1B0TTgzQzcxQ0FGQ3RZRnJTMkZQcGJicTZhMF9uV2h0bFRpY2w4RjVoeXE2T1JJbFJidG16Nk8zejQwZzdZSzdubE1TaXdqM0xHTjN6QmJsSXd4amJnYnJSRS1haWcteGpyUDBKdW1uNTZpNnBfWWQ5WDNWV1lmekVRYzM2QnpuaFA3cVpETjNJMXdpa1o?oc=5": {
+      "title": "Brasil pode alcançar apenas 55% da meta nacional de usinas de recuperação energética - MegaWhat",
+      "summary": "A **Abren** estima que o Brasil atingirá apenas **55%** da meta nacional de usinas de recuperação energética (**994 MW**) até 2040, se o ritmo atual de expansão se mantiver. A associação propõe elevar a meta para **683 MW** até 2036 e pede que **140 MW** em projetos já contratados sejam considerados na expansão, como a usina de Barueri (**20 MW**).",
+      "source": "",
+      "added_at": "2026-11-26T13:38:37.035954-03:00"
     }
   }
 }
