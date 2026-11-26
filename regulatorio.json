@@ -1,27 +1,23 @@
 {
- "gerado_em": "2026-11-26T00:55:18-03:00",
+ "gerado_em": "2026-11-26T01:13:00-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-26T00:55:18-03:00",
+   "lido_em": "2026-11-26T01:13:00-03:00",
    "listagem_pc": "2026-11-25T23:46:14.020138-03:00",
-   "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?); ANEEL · DOU Seção 3: busca do DOU de 25/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
+   "erro": "ANEEL · DOU Seção 3: busca do DOU de 25/11: 502 Server Error: Bad Gateway for url: https://www.in.gov"
   },
   "MME": {
-   "ok": false,
-   "erro": "HTTPSConnectionPool(host='consultas-publicas.mme.gov.br', port=443): Max retries exceeded with url: /consulta-publica/v1/public/listagem-sem-filtros?pageNumber=0&pageSize=400&sortBy=id&sortDirection=d",
-   "lido_em": "2026-11-25T19:14:20-03:00",
-   "desde": "2026-11-25T19:31:56-03:00"
+   "ok": true,
+   "lido_em": "2026-11-26T01:13:00-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-26T00:55:18-03:00"
+   "lido_em": "2026-11-26T01:13:00-03:00"
   },
   "ARSAE": {
-   "ok": false,
-   "erro": "403 Client Error: Forbidden for url: https://www.arsae.mg.gov.br/consultas-publicas-2026/",
-   "lido_em": "2026-11-25T23:58:55-03:00",
-   "desde": "2026-11-26T00:17:22-03:00"
+   "ok": true,
+   "lido_em": "2026-11-26T01:13:00-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -33,6 +29,10 @@
    "ok": false,
    "lido_em": "2026-11-23T13:39:51.041785-03:00",
    "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
+  },
+  "Projetos MME": {
+   "ok": true,
+   "lido_em": "2026-11-26T01:13:00-03:00"
   },
   "TCU": {
    "ok": true,
