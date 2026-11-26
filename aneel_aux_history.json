@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T11:45:42.517329-03:00",
+  "last_updated": "2026-11-26T07:59:27.106319-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -13,30 +13,6 @@
       "start_date": "29/04/2026",
       "fonte": "MME",
       "sei_processo": "48360.000100/2026-11"
-    },
-    "pauta_14758": {
-      "type": "pauta_rd",
-      "title": "PAUTA DA 11ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2026",
-      "date": "02/06/2026",
-      "link": "https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14758&idAreaNoticia=425",
-      "summary": "- **Reajuste RAP 2026**: Tratamento de casos extraordinários e excepcionais para o processo de reajuste da Receita Anual Permitida – RAP.\n- **Armazenamento de Energia**: Resultado da Consulta Pública nº 39/2023 para aprimoramento da regulação de armazenamento de energia elétrica.\n- **Abertura de Mercado Distribuição**: Resultado da Consulta Pública nº 7/2025 sobre aprimoramento regulatório dos serviços de distribuição com abertura de mercado para consumidores do Grupo A e Open Energy.\n- **CUST de Geradoras**: Resultado da Consulta Pública nº 7/2026 para mecanismo regulatório excepcional de manutenção de Contratos de Uso do Sistema de Transmissão – CUST por centrais geradoras.\n- **Modernização Tarifas de Distribuição**: Proposta de abertura de Consulta Pública para modernização das Tarifas de Distribuição – Ciclo 1 (Custo Comercial).",
-      "added_at": "2026-05-28T13:06:58.206620"
-    },
-    "noticia_2026_bandeira-tarifaria-em-junho-permanece-amarela": {
-      "type": "noticia",
-      "title": "Bandeira tarifária em junho permanece amarela",
-      "date": "29/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/bandeira-tarifaria-em-junho-permanece-amarela",
-      "summary": "A **ANEEL** anunciou que a bandeira tarifária para junho permanecerá amarela, impactando todos os consumidores de energia elétrica no Brasil. Isso significa um custo adicional de **R$ 1,885** a cada **100 kWh** consumidos, devido ao período seco e menor geração hidrelétrica.",
-      "added_at": "2026-05-30T00:17:11.805045"
-    },
-    "noticia_2026_aneel-celebra-acordo-com-arsap-para-fortalecer-fiscalizacao-no-amapa": {
-      "type": "noticia",
-      "title": "ANEEL celebra acordo com ARSAP para fortalecer fiscalização no Amapá",
-      "date": "29/05/2026",
-      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-celebra-acordo-com-arsap-para-fortalecer-fiscalizacao-no-amapa",
-      "summary": "A **ANEEL** firmou um Convênio de Cooperação com a **ARSAP** para fortalecer a fiscalização do setor elétrico no Amapá. O acordo, assinado em **29/5**, permite à agência federal delegar competências à reguladora estadual para fiscalizar os serviços prestados à população amapaense. Este é o **18º** convênio do tipo, expandindo a atuação da ANEEL em diversos estados.",
-      "added_at": "2026-05-30T00:17:14.049431"
     },
     "partic_ts_012_2026": {
       "type": "partic_ts",
@@ -2208,20 +2184,72 @@
       "title": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta",
       "date": "23/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-promove-webinar-para-apresentar-o-projeto-de-governanca-colaborativa-do-sandobox-energias-da-floresta",
-      "summary": "ANEEL promove webinar para apresentar o Projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta Evento está marcado para a próxima quarta-feira (25/11) pelo YouTube da Agência A Agência Nacional de Energia Elétrica (ANEEL) promove nesta quarta-feira, 25 de novembro, webinar para a apresentação do projeto de Pesquisa, Desenvolvimento e Inovação (PDI) da Governança Colaborativa do…",
-      "added_at": "2026-11-24T11:45:42.016374-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A **ANEEL** realizará um webinar em **25 de novembro de 2026** para apresentar o projeto de Governança Colaborativa do \"Sandbox\" Energias da Floresta. A iniciativa, em parceria com o **BID** e o **IEMA**, visa testar soluções inovadoras para acesso à energia em comunidades amazônicas.",
+      "added_at": "2026-11-26T07:59:26.605399-03:00"
     },
     "noticia_2026_participe-do-webinar-sobre-avancos-e-perspectivas-da-modernizacao-tarifaria": {
       "type": "noticia",
       "title": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária",
       "date": "24/11/2026",
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/participe-do-webinar-sobre-avancos-e-perspectivas-da-modernizacao-tarifaria",
-      "summary": "Participe do Webinar sobre Avanços e Perspectivas da Modernização Tarifária A Superintendência de Gestão Tarifária e Regulação Econômica (STR) realizará o webinar “Tarifas do Futuro: Avanços e Perspectivas da Modernização Tarifária”, no dia 26 de novembro de 2026, das 14h às 17h40. Inscreva-se.",
-      "added_at": "2026-11-24T11:45:40.540796-03:00",
-      "summary_source": "extractive",
-      "reresume_attempts": 1
+      "summary": "A **ANEEL** realizará um webinar em **26 de novembro de 2026** sobre a modernização tarifária, com participação da **CEMIG** e **UFSM**. O evento discutirá avanços, experiências internacionais e a agenda regulatória para o setor elétrico.",
+      "added_at": "2026-11-26T07:59:21.441277-03:00"
+    },
+    "noticia_2026_aneel-debate-melhorias-no-fornecimento-de-energia-eletrica-no-amazonas": {
+      "type": "noticia",
+      "title": "ANEEL debate melhorias no fornecimento de energia elétrica no Amazonas",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-debate-melhorias-no-fornecimento-de-energia-eletrica-no-amazonas",
+      "summary": "A **ANEEL** debateu o Plano de Ação da **Âmbar Energia Amazonas** para melhorar o fornecimento de energia no AM. O plano visa reduzir interrupções em **39%** na duração e **59%** na frequência até **2031**, impactando **290 mil** unidades consumidoras.",
+      "added_at": "2026-11-26T07:58:45.356007-03:00"
+    },
+    "noticia_2026_aneel-apresenta-proposta-de-governanca-colaborativa-para-o-energias-da-floresta": {
+      "type": "noticia",
+      "title": "ANEEL apresenta proposta de governança colaborativa para o Energias da Floresta",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-apresenta-proposta-de-governanca-colaborativa-para-o-energias-da-floresta",
+      "summary": "A **ANEEL** apresentou proposta de governança colaborativa para o sandbox **Energias da Floresta**, reunindo diversos atores para ampliar o acesso à energia na Amazônia Legal. O projeto, em parceria com **Iema** e **BID**, visa experimentar soluções inovadoras para regiões isoladas.",
+      "added_at": "2026-11-26T07:58:50.551559-03:00"
+    },
+    "noticia_2026_aneel-realiza-leiloes-de-reserva-de-capacidade-para-armazenamento-de-energia-nos-dias-2-e-4-de-dezembro": {
+      "type": "noticia",
+      "title": "ANEEL realiza leilões de reserva de capacidade para armazenamento de energia nos dias 2 e 4 de dezembro",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realiza-leiloes-de-reserva-de-capacidade-para-armazenamento-de-energia-nos-dias-2-e-4-de-dezembro",
+      "summary": "A **ANEEL** realizará dois leilões de reserva de capacidade para armazenamento de energia em baterias nos dias **2 e 4 de dezembro de 2026**, operados pela **CCEE**. Os contratos, com duração de **15 anos**, iniciarão o suprimento em **1º de agosto de 2028**.",
+      "added_at": "2026-11-26T07:58:55.715033-03:00"
+    },
+    "noticia_2026_aneel-confirma-mais-de-r-146-mi-em-multas-por-falta-de-energia-generalizada-em-agosto-de-2023": {
+      "type": "noticia",
+      "title": "ANEEL confirma mais de R$ 146 mi em multas por falta de energia generalizada em agosto de 2023",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-confirma-mais-de-r-146-mi-em-multas-por-falta-de-energia-generalizada-em-agosto-de-2023",
+      "summary": "A **ANEEL** confirmou multas de mais de **R$ 146 milhões** para mais de **430 empresas** do setor elétrico. As penalidades são por descumprimento de requisitos técnicos que causaram o apagão generalizado em **25 estados e no DF** em **agosto de 2023**.",
+      "added_at": "2026-11-26T07:59:00.884572-03:00"
+    },
+    "noticia_2026_adesao-do-setor-eletrico-ao-cadastro-positivo-amplia-visibilidade-financeira-de-7-5-milhoes-de-brasileiros": {
+      "type": "noticia",
+      "title": "Adesão do setor elétrico ao Cadastro Positivo amplia visibilidade financeira de 7,5 milhões de brasileiros",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/adesao-do-setor-eletrico-ao-cadastro-positivo-amplia-visibilidade-financeira-de-7-5-milhoes-de-brasileiros",
+      "summary": "O setor elétrico aderiu ao Cadastro Positivo, incluindo o histórico de pagamento da conta de luz para **7,5 milhões de brasileiros**. Essa medida visa ampliar o acesso ao crédito e a inclusão financeira, com cooperação entre **ANEEL**, **ANBC**, **ABRADEE**, **ABRADEMP** e distribuidoras.",
+      "added_at": "2026-11-26T07:59:06.036146-03:00"
+    },
+    "noticia_2026_aneel-aprova-regras-para-ajuste-de-contratos-de-uso-do-sistema-de-transmissao": {
+      "type": "noticia",
+      "title": "ANEEL aprova regras para ajuste de contratos de uso do sistema de transmissão",
+      "date": "25/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-aprova-regras-para-ajuste-de-contratos-de-uso-do-sistema-de-transmissao",
+      "summary": "A **ANEEL** aprovou regras para ajustar a data de início de contratos de uso do sistema de transmissão (**CUST**) para empreendimentos de geração beneficiados pela Lei nº 15.269/2025. Pedidos de postergação devem ser enviados ao **ONS** até **31 de março** para inclusão na base tarifária.",
+      "added_at": "2026-11-26T07:59:11.181106-03:00"
+    },
+    "noticia_2026_aneel-celebra-seus-30-anos-de-trajetoria-institucional-e-projeta-desafios-do-futuro-do-setor-eletrico": {
+      "type": "noticia",
+      "title": "ANEEL celebra seus 30 anos de trajetória institucional e projeta desafios do futuro do setor elétrico",
+      "date": "24/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/aneel-celebra-seus-30-anos-de-trajetoria-institucional-e-projeta-desafios-do-futuro-do-setor-eletrico",
+      "summary": "A **ANEEL** celebrou seus **30 anos** em Brasília, reunindo autoridades e representantes do setor elétrico. O evento destacou a consolidação da Agência, que garantiu **99,8%** de acesso à eletricidade no Brasil, e projetou os desafios futuros.",
+      "added_at": "2026-11-26T07:59:16.316575-03:00"
     }
   }
 }
