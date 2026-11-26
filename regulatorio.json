@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-26T08:30:55-03:00",
+ "gerado_em": "2026-11-26T08:47:05-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-26T08:30:55-03:00",
-   "listagem_pc": "2026-11-25T23:46:14.020138-03:00",
+   "lido_em": "2026-11-26T08:47:05-03:00",
+   "listagem_pc": "2026-11-26T08:36:08.504257-03:00",
    "erro": "ANEEL · DOU Seção 3: busca do DOU de 25/11: 502 Server Error: Bad Gateway for url: https://www.in.gov; ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-26T08:30:55-03:00"
+   "lido_em": "2026-11-26T08:47:05-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-26T08:30:55-03:00"
+   "lido_em": "2026-11-26T08:47:05-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-26T08:30:55-03:00"
+   "lido_em": "2026-11-26T08:47:05-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -26,13 +26,12 @@
    "desde": "2026-11-12T18:37:25-03:00"
   },
   "SEI": {
-   "ok": false,
-   "lido_em": "2026-11-23T13:39:51.041785-03:00",
-   "erro": "o SEI bloqueia o GitHub; os processos só são lidos com o PC ligado"
+   "ok": true,
+   "lido_em": "2026-11-26T08:36:55.691244-03:00"
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-26T08:30:55-03:00"
+   "lido_em": "2026-11-26T08:47:05-03:00"
   },
   "TCU": {
    "ok": true,
@@ -1008,7 +1007,7 @@
    "numero": "043/2026",
    "tema": "receber contribuições para a proposta de aprimoramentos regulatórios a fim de promover a aplicação do disposto no caput do art. 28 da Lei nº 14.300/2022, garantindo que a energia oriunda a micro e minigeração Distribuída seja destinada exclusivamente ao consumo próprio.",
    "inicio": "2026-11-19",
-   "fim": "2027-01-31",
+   "fim": "2027-02-01",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
@@ -1023,7 +1022,7 @@
    "numero": "044/2026",
    "tema": "receber contribuições para a minuta de resolução autorizativa que autoriza o Operador Nacional do Sistema Elétrico (ONS) a desenvolver, em ambiente regulatório experimental (sandbox regulatório), o Mecanismo de Acionamento Intermediado (MAI) para despacho dos Recursos Energéticos Distribuídos (RED).",
    "inicio": "2026-11-19",
-   "fim": "2027-01-31",
+   "fim": "2027-02-01",
    "situacao": "aberta",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/consultas-publicas",
@@ -1108,8 +1107,17 @@
    "numero": "48500.032821/2025-67",
    "tipo": "Leilão de Geração: Reserva de Capacidade",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?wt7h6hFBI_9S3DJjGLl0dpQiiSEQL4RcICP821UP_Zu3te9Mz8pMgdSFPXZPRHsDc8jMQ17erGYJfOcrc-boqx36eC8gk5R8M9ege_5_uteiv5bhHCUJRjHAMcTv0Bn_",
-   "lido_em": "2026-11-23T13:39:33.619570-03:00",
+   "lido_em": "2026-11-26T08:36:22.151045-03:00",
    "documentos": [
+    {
+     "data": "2026-11-24",
+     "tipo": "Aviso de Homologação e Adjudicação",
+     "unidade": "GAB IV - GNSJ",
+     "unidade_nome": "Gabinete de Assessoramento ao Diretor Gentil Nogueira de Sá Junior",
+     "protocolo": "0514117",
+     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOsy1kf2UC8fy-LxBA--5fayc5jYQkitH3Ez1qZj-Z9gUrAx0eU2FjlHJ9L5B6Ct4i5xS1J5hYyaV0AV3vWrhLn",
+     "anexado": false
+    },
     {
      "data": "2026-11-19",
      "tipo": "Recibo",
@@ -1190,18 +1198,33 @@
      "protocolo": "0508205",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNyWm-4Sd-hIc5spw1-Lv83qlB4t4hnSs12EaEv95KlLiUho_SICk7wUAQMKBC4UceqqEQo8n1KRdadFgi1hUay",
      "anexado": false
-    },
-    {
-     "data": "2026-11-16",
-     "tipo": "Memória",
-     "unidade": "GAB - APOIO",
-     "unidade_nome": "Gabinete de Apoio à Diretoria",
-     "protocolo": "0508364",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzPTkwe_TTCoCcmmi_-qEFn7gcsTo2iI47XBiGzQoILUc-H-Pj7ehrMhtDwlDCwSV9WXwOHUhtOzn8uqKM3NuMDm",
-     "anexado": false
     }
    ],
    "andamentos": [
+    {
+     "data": "2026-11-24",
+     "hora": "12:33",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo recebido na unidade",
+     "hash": "99ad6a6cb753",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-24",
+     "hora": "11:31",
+     "unidade": "GAB - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "37ac090caf35",
+     "rotina": true
+    },
+    {
+     "data": "2026-11-23",
+     "hora": "14:07",
+     "unidade": "SGE - PUBLICAÇÃO",
+     "descricao": "Processo remetido pela unidade GAB IV - GNSJ",
+     "hash": "64609fbc88d6",
+     "rotina": true
+    },
     {
      "data": "2026-11-19",
      "hora": "12:03",
@@ -1256,30 +1279,6 @@
      "unidade": "GAB - APOIO",
      "descricao": "Conclusão do processo na unidade",
      "hash": "8bd410a80fb1",
-     "rotina": true
-    },
-    {
-     "data": "2026-11-13",
-     "hora": "11:14",
-     "unidade": "SGE - PUBLICAÇÃO",
-     "descricao": "Reabertura do processo na unidade",
-     "hash": "aedd54f92db3",
-     "rotina": true
-    },
-    {
-     "data": "2026-11-09",
-     "hora": "15:57",
-     "unidade": "GAB - APOIO",
-     "descricao": "Reabertura do processo na unidade",
-     "hash": "062d98d9fd2b",
-     "rotina": true
-    },
-    {
-     "data": "2026-11-05",
-     "hora": "10:55",
-     "unidade": "CPL",
-     "descricao": "Processo recebido na unidade",
-     "hash": "5bed294d0cb3",
      "rotina": true
     }
    ],
@@ -1375,8 +1374,8 @@
      "decisao": "A Diretoria, por unanimidade, decidiu conhecer do Recurso Administrativo interposto contra o Despacho nº 885/2026, que negou provimento ao Pedido de Impugnação ao Edital do Leilão de Reserva de Capacidade na Forma de Potência de 2026 – UTEs a Gás Natural, Carvão Mineral e UHEs – Leilão nº 2/2026-ANEEL, apresentado pelo Instituto Nacional de Energia Limpa – INEL, para, no mérito, negar-lhe provime…"
     }
    ],
-   "n_documentos": 489,
-   "n_andamentos": 610,
+   "n_documentos": 490,
+   "n_andamentos": 613,
    "grupo": "Geração e transmissão"
   },
   {
@@ -1385,7 +1384,7 @@
    "numero": "48500.906080/2022-16",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaMN8JVK-1-UHcPawEitVkiuoC9E-UYoeXKJRnr7olPMl",
-   "lido_em": "2026-11-23T13:39:36.086245-03:00",
+   "lido_em": "2026-11-26T08:36:24.603410-03:00",
    "documentos": [
     {
      "data": "2025-04-17",
@@ -1608,7 +1607,7 @@
    "numero": "48500.902708/2024-76",
    "tipo": "Regulação da Geração: Tratativas sobre Programas e Contas Setoriais",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4gs20sfR2gPdfywmn7_Dcd203eFbMe5fksCoDMrWWXQs",
-   "lido_em": "2026-11-23T13:39:38.645321-03:00",
+   "lido_em": "2026-11-26T08:36:30.261158-03:00",
    "documentos": [
     {
      "data": "2025-12-09",
@@ -1813,7 +1812,7 @@
    "numero": "48500.904885/2020-63",
    "tipo": "Regulação da Geração: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4qCnRIGB4NqjaOt7Lc-WVtAaTTMdlrs4ML5ibbixneIs",
-   "lido_em": "2026-11-23T13:39:41.973445-03:00",
+   "lido_em": "2026-11-26T08:36:36.857178-03:00",
    "documentos": [
     {
      "data": "2026-11-16",
@@ -1908,6 +1907,14 @@
    ],
    "andamentos": [
     {
+     "data": "2026-11-24",
+     "hora": "11:33",
+     "unidade": "GAB - APOIO",
+     "descricao": "Conclusão do processo na unidade",
+     "hash": "82f3c6772bf0",
+     "rotina": true
+    },
+    {
      "data": "2026-11-19",
      "hora": "09:15",
      "unidade": "GAB - APOIO",
@@ -1977,14 +1984,6 @@
      "unidade": "SCE",
      "descricao": "Processo 48500.029124/2026-18 anexado",
      "hash": "8fd0f59b8fa7",
-     "rotina": true
-    },
-    {
-     "data": "2026-10-14",
-     "hora": "11:01",
-     "unidade": "STE",
-     "descricao": "Conclusão do processo na unidade",
-     "hash": "6e3998d1c792",
      "rotina": true
     }
    ],
@@ -2081,7 +2080,7 @@
     }
    ],
    "n_documentos": 146,
-   "n_andamentos": 280,
+   "n_andamentos": 281,
    "grupo": "Geração e transmissão"
   },
   {
@@ -2090,7 +2089,7 @@
    "numero": "48500.900375/2019-83",
    "tipo": "Participação Pública: Consulta Pública",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?z3-naSmpl6_63qczD0vsEegOjw-LCorm020SWqclP62HKAZ52m_NOA3XovV2mCyVF59RvlCdEV6BmAE9PzKZ4jrRCBX9KJd_Tc-8HyV58im8HRB2Hv-NnlX3gLH-XUWs",
-   "lido_em": "2026-11-23T13:39:46.042201-03:00",
+   "lido_em": "2026-11-26T08:36:44.189162-03:00",
    "documentos": [
     {
      "data": "2026-10-26",
@@ -2529,7 +2528,7 @@
    "numero": "48500.906028/2021-89",
    "tipo": "Regulação da Distribuição: Normatização",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaN6NHXuybNjmzn1mz8xjJSyHR82t8tMUza3olNQUCsE9",
-   "lido_em": "2026-11-23T13:39:48.476944-03:00",
+   "lido_em": "2026-11-26T08:36:49.758246-03:00",
    "documentos": [
     {
      "data": "2026-11-09",
@@ -2707,8 +2706,89 @@
    "numero": "48500.900599/2019-95",
    "tipo": "Gestão Tarifária: Distribuição - Revisão Tarifária Extraordinária - RTE",
    "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaPCpQ_Wr8Tb55r3U3cZ2Bj0SN_mEwLi9QuIM2TEhkL08",
-   "lido_em": "2026-11-23T13:39:51.041785-03:00",
+   "lido_em": "2026-11-26T08:36:55.691244-03:00",
    "documentos": [
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515503",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515508",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515513",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515515",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515518",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515520",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-25",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0515722",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-24",
+     "tipo": "Anexo",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0513968",
+     "link": null,
+     "anexado": false
+    },
+    {
+     "data": "2026-11-24",
+     "tipo": "Planilha",
+     "unidade": "STR",
+     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
+     "protocolo": "0513970",
+     "link": null,
+     "anexado": false
+    },
     {
      "data": "2026-11-23",
      "tipo": "Despacho de Distribuição de Processo",
@@ -2717,90 +2797,17 @@
      "protocolo": "0513053",
      "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzN_wf4wbt8kCeVnuxxSamtN2XmnkCi7WGtaql6gbI4FMhM-ynRgkgyNHDC3ljXVbzPZVzV0Nr0GXBFHwwpKSANN",
      "anexado": false
-    },
-    {
-     "data": "2026-11-18",
-     "tipo": "Nota Técnica 208",
-     "unidade": "STR",
-     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-     "protocolo": "0509940",
-     "link": null,
-     "anexado": false
-    },
-    {
-     "data": "2026-11-18",
-     "tipo": "Relatório de Análise de Impacto Regulatório 11",
-     "unidade": "STR",
-     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-     "protocolo": "0509982",
-     "link": null,
-     "anexado": false
-    },
-    {
-     "data": "2026-11-17",
-     "tipo": "Requerimento de Distribuição de Processo",
-     "unidade": "STR",
-     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-     "protocolo": "0509264",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzMpZNfFNJ6N0T2DyOWuDE_Nx0Pxdx2NoUYiY2hHIvLxjUQbHEYdDFw2pSsemZKrbI_uVC4cfZ5fKw2G59SHUSoG",
-     "anexado": false
-    },
-    {
-     "data": "2026-10-09",
-     "tipo": "Lista",
-     "unidade": "STR",
-     "unidade_nome": "Superintendência de Gestão Tarifária e Regulação Econômica",
-     "protocolo": "0478093",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzNWRw6yemtNzMnhaJu_7db1VK7-VMMwte1fqIe_5hsBq1ZU9zsaS1QjveGzFHbeRSxy7HfKgMOTZi9fIyABvxRV",
-     "anexado": false
-    },
-    {
-     "data": "2026-07-01",
-     "tipo": "Regulação Econômica: Normatização",
-     "unidade": "PROTOCOLO-GERAL",
-     "unidade_nome": "Protocolo-Geral",
-     "protocolo": "48500.018947/2026-18",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHqcUgSorJTQPpz0HIVgbWpbpQoHpjuiVDJTZNMroakurw,,",
-     "anexado": true
-    },
-    {
-     "data": "2026-06-30",
-     "tipo": "Regulação Econômica: Normatização",
-     "unidade": "PROTOCOLO-GERAL",
-     "unidade_nome": "Protocolo-Geral",
-     "protocolo": "48500.018905/2026-79",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHo8VR1PIN2j5leeBGGynOUegoXWvqhGmppjbtSNBnRuNQ,,",
-     "anexado": true
-    },
-    {
-     "data": "2026-06-30",
-     "tipo": "Regulação Econômica: Normatização",
-     "unidade": "PROTOCOLO-GERAL",
-     "unidade_nome": "Protocolo-Geral",
-     "protocolo": "48500.018903/2026-80",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHrX1NOGXKZfkOiP6GpnsdyJziBlE8WJrgbNb6otLvgiBA,,",
-     "anexado": true
-    },
-    {
-     "data": "2026-06-30",
-     "tipo": "Regulação Econômica: Normatização",
-     "unidade": "PROTOCOLO-GERAL",
-     "unidade_nome": "Protocolo-Geral",
-     "protocolo": "48500.018884/2026-91",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHowIiZ_0WZCWNWiuGzz-DqYsyPGIpgIpx3UwRwzFJSq4w,,",
-     "anexado": true
-    },
-    {
-     "data": "2026-06-30",
-     "tipo": "Regulação Econômica: Normatização",
-     "unidade": "PROTOCOLO-GERAL",
-     "unidade_nome": "Protocolo-Geral",
-     "protocolo": "48500.018879/2026-89",
-     "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?YB1bj4pxvZbgOeWl6NygJPf13NFWqpQzuLhByQFTEHruuFaX-S00Duj1c5zxuASlGv4v6Kab74-rt_1OmAXNpQ,,",
-     "anexado": true
     }
    ],
    "andamentos": [
+    {
+     "data": "2026-11-24",
+     "hora": "11:08",
+     "unidade": "STR",
+     "descricao": "Reabertura do processo na unidade",
+     "hash": "21f074f5beb7",
+     "rotina": true
+    },
     {
      "data": "2026-11-23",
      "hora": "12:08",
@@ -2872,19 +2879,11 @@
      "descricao": "Processo 48500.018797/2026-34 anexado",
      "hash": "4918fac30117",
      "rotina": true
-    },
-    {
-     "data": "2026-07-02",
-     "hora": "14:02",
-     "unidade": "STR",
-     "descricao": "Processo 48500.018856/2026-74 anexado",
-     "hash": "cf6b23b84b0d",
-     "rotina": true
     }
    ],
    "pauta": [],
-   "n_documentos": 62,
-   "n_andamentos": 59,
+   "n_documentos": 71,
+   "n_andamentos": 60,
    "grupo": "Distribuição"
   },
   {
@@ -3056,6 +3055,42 @@
  ],
  "pauta_aberturas": [],
  "eventos": [
+  {
+   "uid": "02ea18e5c3bd",
+   "dia": "2026-11-25",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas não técnicas e receitas irrecuperáveis: revisão da metodologia (PRORET 2.6/2.6A, TS 25/2025): 7 documentos novos",
+   "detalhe": "Anexo (STR) · Anexo (STR) · Anexo (STR) · Anexo (STR) · …e mais 3",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaPCpQ_Wr8Tb55r3U3cZ2Bj0SN_mEwLi9QuIM2TEhkL08",
+   "ref": "sei:sei_40001c314e",
+   "visto_em": "2026-11-26T08:47:05-03:00"
+  },
+  {
+   "uid": "468a2f11a884",
+   "dia": "2026-11-24",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Leilão LRCAP 2025 (geração reserva de capacidade): Aviso de Homologação e Adjudicação",
+   "detalhe": "GAB IV - GNSJ · 48500.032821/2025-67",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOsy1kf2UC8fy-LxBA--5fayc5jYQkitH3Ez1qZj-Z9gUrAx0eU2FjlHJ9L5B6Ct4i5xS1J5hYyaV0AV3vWrhLn",
+   "ref": "sei:lrcap-2025",
+   "visto_em": "2026-11-26T08:47:05-03:00"
+  },
+  {
+   "uid": "b27945f6928e",
+   "dia": "2026-11-24",
+   "hora": null,
+   "orgao": "SEI",
+   "tipo": "documento",
+   "titulo": "Perdas não técnicas e receitas irrecuperáveis: revisão da metodologia (PRORET 2.6/2.6A, TS 25/2025): 2 documentos novos",
+   "detalhe": "Anexo (STR) · Planilha (STR)",
+   "link": "https://sei.aneel.gov.br/sei/modulos/pesquisa/md_pesq_processo_exibir.php?0TxMIY7suxqYeS0_-bnQRzBgPmJAHdOAenqaRd0Bw6N_JHI13VRarriyPP9VduBLW_dPwMCTHY8Ir2IGWKTLaPCpQ_Wr8Tb55r3U3cZ2Bj0SN_mEwLi9QuIM2TEhkL08",
+   "ref": "sei:sei_40001c314e",
+   "visto_em": "2026-11-26T08:47:05-03:00"
+  },
   {
    "uid": "626bce41430f",
    "dia": "2026-11-24",
