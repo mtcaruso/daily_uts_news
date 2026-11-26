@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-26T08:38:32.528481-03:00",
+  "last_run": "2026-11-26T09:01:01.209956-03:00",
   "total_collected": 423,
   "by_category": {
     "portarias": 378,
@@ -8,8 +8,8 @@
     "leis": 6
   },
   "new_items": 0,
-  "pending": 34,
-  "done": 13,
+  "pending": 21,
+  "done": 0,
   "failed": 0,
   "pruned": 0,
   "page_cap_hit": []
