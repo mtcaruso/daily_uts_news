@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T19:09:57.508734-03:00",
+  "last_updated": "2026-11-26T19:40:21.988923-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -4875,7 +4875,7 @@
       "source": "",
       "added_at": "2026-11-26T18:42:49.568637-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcTFJZWxITFl2Z2t6cS0zejN5VGZSdTdXVDhucjJiVHlOMXZ3cGt5X2lQUmJQMjQzUjdLUEgxTmdEODB6c1draVRMQ3FsWjhkdC1zTTVnMWt6bGRyRGpyN0JSUi1YemdfYnkxUjBVUnZGM2NXX1JXbDhPOWZvMURyLXkwV3BhM25hSUJmZlpDTXF4dXAtdzdVRkNja21UelZZaWFnV3RDTzFLZmZzMnYyRUhSMC1RNGJrWDdwdklHTG9OeHYzX3pkZ0Fhd3pwdmxTSVRaaFVwZ1BhWWl0REZsQUJBbnJoZ9IB9AFBVV95cUxNVVZ6c2xpVWFzakJ2Y2xzZWduQmhuWDN0a1BrV2t1N0hucE9iUmFXN29OaUM2WHZOTnF0eU9RNjF1QU1yZC1zVTNKaklfNDAwTFRFcFVTbzdHSTRQb1gyVUlyUUdSV01sUEtSWVZXcHhRUW1PWTViN0wyclVHMDctVnp5R0xpaWRLajJueTlvRmxYeWdrY3haU3JuM3ZJV2FpUnRBS2dIYTRvODYzczJDX093d2xYOU1vQkpDaFBaOGYyZjlQc2JQVVdxTWVzV1BtUnl4bmx6YXpYbF8tUzZlemhiYWRqVzc0WWpWOFdzYnlXeWdj?oc=5": {
       "title": "Governo Lula deve consultar setores e buscar alternativas, após novas tarifas propostas pelos EUA - Valor Econômico",
@@ -4952,6 +4952,28 @@
       "summary": "O **Cade** manifestou apoio à sanção do PL dos postes (PL nº 3.220/2019), que regulamenta o compartilhamento de postes de distribuição de energia elétrica entre concessionárias e empresas de telecomunicações. O órgão antitruste, no entanto, fez ressalvas sobre a questão dos preços envolvidos na proposta.",
       "source": "",
       "added_at": "2026-11-26T19:09:57.500667-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMENRelJ2S1JTaWwzRFJxaENlZ0VlRkwxM3dOUWVvX1VSc3RoaXFCVUFTeWJndHZzYlBfN0xYeGU3dGdHV0ZrNUVDZTV0T3c1aWZwMlZIYnRXamRaTDFqZ1pwYjJPUmlHWTctOVVVekhNYXZreXEtRldVN25EaGZKQ1hJVUJkejJiaFhxSGhIT1hxcDQ5QnRuS1FaWkNRU1J1NlE?oc=5": {
+      "title": "Apagão atinge Manaus e Roraima após desligamento de linhas de transmissão - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-26T19:40:13.729933-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3JNU1FKU3dNR3JPUUY3cUtEb0Q3cDZ3M3RPdmUyXzcwSWxDX2FHbDk3dUxBdXB1TVozVkVvdjN2ODBqQlZDSi1hZUZ6cnZCMmpmNXpLVmRFWWdfR3FNQjVfa3NRa0MzajVSOGVkRm5abS1GOFpKaG5TY3V1dV9xSnhTMXFNNGo0NXVYdHljekcza3Z0LWppMUNDTkE2a3BuLXF2aVFrRGN5anlNTzhHaA?oc=5": {
+      "title": "Associações defendem em nota sanção integral do PL dos postes - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-26T19:40:16.934033-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNTg0SlMtcGxjSnc0blN2emRJMnZvejYzeXVhT3ZCem5JejlKRnZETGxvZE00UHRUanZ2MzZyb2QwVUtKUndPUzI5WnV3ZDU0UWhSZGdibGRZZF9HTUlJV29zenlPdFVGaWQtQ0JlS0YyanZaZDJyd1V0dXpCMWsxTVhicnd5N3RMRUlLZlg3NlJ1ckFVTjI1Y092cU1mTEhZbDVpdTlxMlBvZ0RIblJnek1nWUhTX0x5YWpWREFIMWlPMVlsdzNpYWlkYmFsSl92c3FmUEFmU2ZXak9KUGIzWnFlT3VTdk5SdUE?oc=5": {
+      "title": "Em meio a novas tarifas dos EUA, Brasil deve manter negociações e diversificar mercados, avalia Barral - Valor Econômico",
+      "summary": "O Brasil deve manter negociações e diversificar mercados diante de novas tarifas impostas pelos Estados Unidos, que afetam o setor aéreo e a venda de açúcar. Segundo Welber Barral, as tarifas de **10%** sobre aeronaves e mudanças na cobrança por quilo para açúcar acima de **100 mil toneladas** podem prejudicar os EUA a médio prazo, mas o Brasil precisa negociar e buscar novos parceiros comerciais.",
+      "source": "",
+      "added_at": "2026-11-26T19:40:21.981461-03:00"
     }
   }
 }
