@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-26T08:02:17.128704-03:00",
+  "last_run": "2026-11-26T08:08:19.023219-03:00",
   "source_counts": {
     "Valor": 36,
     "Pipeline": 0,
@@ -13,11 +13,10 @@
     "Megawhat": 15
   },
   "all_items_total": 129,
-  "pending_count": 20,
-  "done": 13,
+  "pending_count": 7,
+  "done": 4,
   "pruned": 0,
   "fetch_fail_reasons": {
-    "resolve_failed": 5,
-    "paywall_or_short": 2
+    "paywall_or_short": 3
   }
 }
