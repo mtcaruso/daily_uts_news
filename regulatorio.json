@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-25T22:43:34-03:00",
+ "gerado_em": "2026-11-25T23:01:57-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-25T22:43:34-03:00",
+   "lido_em": "2026-11-25T23:01:57-03:00",
    "listagem_pc": "2026-11-25T16:54:00.859908-03:00",
    "erro": "ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
@@ -15,7 +15,7 @@
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-25T22:43:34-03:00"
+   "lido_em": "2026-11-25T23:01:57-03:00"
   },
   "ARSAE": {
    "ok": false,
