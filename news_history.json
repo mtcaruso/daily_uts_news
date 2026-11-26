@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T22:06:51.424215-03:00",
+  "last_updated": "2026-11-25T22:37:11.089556-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -4111,7 +4111,7 @@
       "source": "",
       "added_at": "2026-11-25T21:36:27.891173-03:00",
       "summary_source": "extractive",
-      "reresume_attempts": 2
+      "reresume_attempts": 3
     },
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQU1MQmo0SmFqdDBMRlR6cXppV2RSeUxKQ3JPVy1qS0NscHNlU1U4b2tqOU5Xc2xva0hNYVNKUjU0eE1EQ0NyWXZvanpMckIwemZ4ZnozclN3OGpheUZJSTlUR21aYkhTOWxyOVNkYjFMN0hrSmVBMWkzUWRHdVM4aWhETzJmTDY3Z0VtSVJvMmFHTHlqVGg0X2tfSE13X0JVYXBocEUtaEd1WDdFVVRleE5yUFhCcXlUN0NDZXAydmZnRnlmdXMtaHp2Ri1EdEJNUjdBa1lDZnYwN2V5?oc=5": {
       "title": "Carros elétricos e híbridos terão mais autonomia no Brasil em 2027 - Estadão",
@@ -4119,13 +4119,21 @@
       "source": "",
       "added_at": "2026-11-25T22:06:47.426721-03:00",
       "error": "no_article",
-      "attempts": 1
+      "attempts": 2
     },
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeUxiOG13elBZcWNQVC12Yjc3czlOUnBHTFBKdGtuUldBR0RCS3FTUVFxb0hPOHgtaEVFenNrYlJoVnRiTEVTM3RMVFoteHBCblB3R0F3a3JMSUVoYVZrTExKVzhzOW9RZXBPVDFzUVBaYnVXVDhteC1qcVJGZWI1WXNmRFFxTk9KODFSOUVLcjdJN0l40gGaAUFVX3lxTFBIWFczbWMtRzFRalV2TFVneDhWdkVqdWs5V0V5S2FYbnNPdjVkZVlXN1BiWXRpSjhBUXVhREQzSlh3YU53RVIxZzlZeXhDWmQzZVZ4cllwT3VtOVpyN3R2N25jN0poX0NLcDl2UnNldTYxZUZHZUN5d0xMY3owcEs1b1JXOXVsX3pqRGlMczczV3RDUGI5d3AtTnc?oc=5": {
       "title": "A ciência por trás da bomba de hidrogênio - Estadão",
-      "summary": "Black Friday Acer: esquenta tem até R$ 700 de desconto e condições especiais WhatsApp lança figurinhas com som e sem moldura branca; saiba como usar LoRa: o que é e como funciona a comunicação sem internet? iPhone Duo: o dobrável da Apple brilha no acabamento, mas frustra no uso diário Black Friday Acer: aproveite até R$ 1.000 de desconto na semana de ofertas",
+      "summary": null,
       "source": "",
       "added_at": "2026-11-25T22:06:51.417439-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG1US2ZMZnQ3dUN6cmZ4Sl9nUUhqNFNRdnY1bDI5SHY3NktHNXRmcWZtaGNFQ0NjV3JwNjlCd2lLZF9NWUI4RUhKLVZraUhvUy05OXhKR1pkN2NwRGlaY3Z6d1FHSVg1dVd3dk0ydjdLMnc3OUQySkZPemVrdllXTk1kUkRvaGhwbTdLVFNDeEVKbVp3ME1CUjdBNzkwVkR6NTI2UGdQa0RhNmJHaG5faE9QRzZ6UkZ4TjRmUXNDY2cwQUxIeFlJVXpmYlUwUHZQ?oc=5": {
+      "title": "EUA preparam novo tarifaço contra o Brasil, com foco em aviões e açúcar - Estadão",
+      "summary": "Notícia no Seu Tempo Os principais assuntos do dia selecionados pela equipe de jornalismo do Estadão. 107.9 FMAo vivo Eldorado no Ar Programação musical da rádio dos melhores ouvintes 107.9 FMOferecimento:Próximo: Acompanhe também em: No podcast ‘Notícia No Seu Tempo’, confira em áudio as principais notícias da edição impressa do jornal ‘O Estado de S.Paulo’ desta quinta-feira (2611/2026): Os EUA…",
+      "source": "",
+      "added_at": "2026-11-25T22:37:11.082564-03:00",
       "summary_source": "extractive",
       "reresume_attempts": 1
     }
