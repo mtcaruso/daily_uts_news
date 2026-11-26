@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T15:09:38.727252-03:00",
+  "last_updated": "2026-11-26T15:40:03.338355-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -4641,7 +4641,7 @@
       "source": "",
       "added_at": "2026-11-26T14:39:14.030628-03:00",
       "error": "no_article",
-      "attempts": 2
+      "attempts": 3
     },
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWpsUzdyWnhFdVVtSzhtck9yclhVTXNOdk4tT0p1MUZUT2U4YjVCeDlZbGZHc0FSREtBODUwc0FQTnVuYm44d0E1dWplSTducXh2UUVDRDRJRm1Lc0VVa0luZE9yaGdQd0VXeHlfVk94eEVNaDJMVlhwMHRfSHVuUTEwMmNyLWNMaTNBTlZ0U3BVSXAwSFUwOVM2cDZnanIyd1BkT0pkeFUzNU45MkhMVmxMY2ZneGljcXBzdkg2dGVXQXRk0gHEAUFVX3lxTE8tamxTN3JaeEV1VW1LOG1yT3JyWFVNc052Ti1PSnUxRlRPZThiNUJ4OVlsZkdzQVJES0E4NTBzQVBOdW5ibjh3QTV1amVJN25xeHZRRUNENElGbUtzRVVrSW5kT3JoZ1B3RVd4eV9WT3h4RU1oMkxWWHAwdF9IdW5RMTAyY3ItY0xpM0FOVnRTcFVJcDBIVTA5UzZwNmdqcjJ3UGRPSmR4VTM1TjkySExWbExjZmd4aWNxcHN2SDZ0ZVdBdGQ?oc=5": {
       "title": "Governos asiáticos reagem a novas propostas tarifárias dos EUA - Valor Econômico",
@@ -4672,6 +4672,38 @@
       "summary": "A interrupção do fornecimento de gás pela **Arxen** à planta da **Alunorte** pode gerar perdas de **US$ 175 milhões a US$ 195 milhões** no segundo semestre de 2026. A **Hydro** busca um novo contrato de longo prazo, apesar de o GNL ser mais econômico que o óleo combustível.",
       "source": "",
       "added_at": "2026-11-26T15:09:38.720779-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSERIblY3dFBkZVZ4Y0pmRmFERGF0aHNvRFpkaDNrbUN6d3VjWGR3NHBqTTZIRWgxdWkzR0lyZ2l3UUhBSGd0TXlUSTRZSXZ2ZnNRN0VjdUdLUjlHSkVYREZ1ZXVIdXhxd09RZzJKNnBTN1pSZXpOX052azhCTEc5NEJ0R0JjdkN1NE12WEhfSDZRR0JrTnZ0V3ZPazZsamtWY1lhQXFnWFdjSS1FRDRlQ00yV2NIMHBmbUt2djExbHoyX1U3ZzQ2b09ib1YyS2ptalVZREJVUzhTVjhSQ3lJS3lR?oc=5": {
+      "title": "Embraer tem três trunfos para enfrentar a ameaça de novas tarifas dos EUA, diz BTG - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-26T15:39:51.228830-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1hhdmtwQjFmVVpMdDJzdFhfSnBmQ19JaXRnaEVKY1FEb08zSmZ1ZWEyTkwtQzJTVGxKRHJjaERZMXkzcjhGVWVaYzR4M2hObDZSSTUzdkNtUGJuUjExTVJIaFJnOHlwNXh5Tmt2NzhmZTZkakhmbkJVc0p3MU44QzB1Z2tzTlBSb2Z2X2g2T2ZnQVlJSFpMMjVCdDRRbUJBMi03Vk5zQUo3TXFqbE5LeEpzVUJqOExONC1uMDV3NzFUUjJJZDBB0gHMAUFVX3lxTE1xZzlhbThVTlJiS1luaXc3Z3ByX09wSHdtWDQ1M1VmZ0FBZ3Vsa0xjQnNkWVBpTmJqeHZtV2QwSVR5d29XVGR3QU8wTGFLOG9raG5BaDNkNmdyVXJEakNOZ1lzcWJzd081eVdjeWU0RVQyLVhqY0MyUTU2THJSWFNCRlpHVzZGNFl0T3p0NWtaZV82MXY4N21JdF82VGhuTDZPMnRsN3FEWjFjQzByMGo2YWhNUWZYZmFVdlgySUp0UC1YYV9LTUoyem5YMw?oc=5": {
+      "title": "Zelenski diz que Rússia prepara nova ofensiva contra infraestrutura energética da Ucrânia - Estadão",
+      "summary": "O presidente ucraniano, Volodmir Zelenski, alertou que a Rússia prepara um novo ataque em larga escala contra a infraestrutura energética da Ucrânia. Ataques anteriores com mísseis e drones já prejudicaram a rede elétrica, com equipes trabalhando para restaurar o fornecimento em seis regiões após ataques recentes.",
+      "source": "",
+      "added_at": "2026-11-26T15:40:03.331976-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTVvWHZaaDNvOENDNmtFYS1pVGJRQ3NqQzI5R3RvSFlaV1FUd2FmQTc2RlRkWUUyaUJIUEE5RlFfbHZEcmxFaEQ4ck5uX24wOUpBLUE1MTdqb2dZR2JIZzM4c3pYRkljR2I1aDNnQXhiOEFGUDI2dFFDZUxCcXFnRWpOYjdDOTNrY0N1eFpnUVRhZk9uOVVhU3FmVElYRG_SAaQBQVVfeXFMTUJkWTFkZ0laU1pXR0RJMndzS3p4NHlvMlZCUzNiSS1GcHVBdFU1TVhQa0JFQXAzTU9vNnBpSkpwUk91ZXNSRUFTQ2lRQ2M3dkMwWk9IVXNYQm9JZjltRVoyOWU2UGZ5dDZwT2V0NjU3QUVUQ0dlRTRxZlFNRUZ4ZFBydWxPSmZBOC0zTHM2RHhiY3NaRkJBQzgzTnl1YnRzazk3WVI?oc=5": {
+      "title": "Embraer diz que foi pega de surpresa com possibilidade de tarifas dos EUA e ‘conta com bom-senso’ - Estadão",
+      "summary": "A **Embraer** foi surpreendida com a intenção dos EUA de impor uma tarifa de **10%** sobre aeronaves importadas do Brasil. A empresa espera bom senso entre os governos para evitar que a medida encareça os produtos e afete o preço das passagens aéreas e a inflação americana.",
+      "source": "",
+      "added_at": "2026-11-26T15:40:03.332014-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2o1b19KNWM2WGMzVkxsWEhQOXVqWV93ZmpxT2FsTVRJczB1enhRLUlPWkVhSGQyenhPVlZhVTluc010dG1lanR0OGNjY293OGlDd0Z3UFVyOUR1MnZLM3hNNUdRVDM4WHlQRmdSckp1Q1JfaVc4N2F4S045MHMyWWJPM0lTQ3JOcUF6ckVsaHhrR0F4LXF3RFc1WnFYNHU2czJZaQ?oc=5": {
+      "title": "Médias empresas crescem com avanço da energia solar - CanalEnergia",
+      "summary": "O avanço da energia solar está impulsionando o crescimento de médias empresas no Brasil. A notícia, publicada no Valor Econômico, destaca o impacto positivo do setor no cenário empresarial nacional.",
+      "source": "",
+      "added_at": "2026-11-26T15:40:03.332022-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHVtN182cV9ITlZ6bUQtNHlubmk4c2REMHN3LXM5Yi1yWG85MV8tTUNuRHh2S0lNcEh1UVRIZ2w1YlQ4bGZCaF81UXdkanBVelpQNEY0VFBYN1NkLWQyR0dNZlpQcG9JZHJQYk5FVGFkQmhOWHlCODlqZmZweENwQXIzZV9UdW5GMGxVaVBvemhzZHJjeTRoczBUaWRhV2ZYYlh1STJ3eHdlUWFCck5IamVvX3JrYUFzYlhSUzhUMlRualVEN1FJ?oc=5": {
+      "title": "Planejamento energético subestima demanda por biometano, diz associação - MegaWhat",
+      "summary": "A **Abren** (Associação Brasileira de Energia de Resíduos) afirma que o planejamento energético brasileiro subestima a demanda por biometano, projetando **8,5 milhões de m³/dia** para **2036**, o que representa apenas **1,7%** do potencial. A entidade defende a inclusão da demanda voluntária e a expansão da oferta, além do aproveitamento comercial do CO2 biogênico.",
+      "source": "",
+      "added_at": "2026-11-26T15:40:03.332028-03:00"
     }
   }
 }
