@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-11-26T23:48:42.154445-03:00",
+  "last_updated": "2026-11-27T08:31:07.986478-03:00",
   "items": [
+    {
+      "cnpj_short": "02339-6",
+      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
+      "categoria": "Reunião da Administração",
+      "tipo": "Conselho de Administração",
+      "especie": "Aprovação de garantia ao pagamento de obrigações assumidas pela Manaus Ambiental S.A.Ata",
+      "data_referencia": "20261126 26/11/2026 16:00",
+      "data_entrega": "20261127 27/11/2026 08:10",
+      "status": "Ativo",
+      "versao": "1",
+      "modalidade": "AP",
+      "assunto": "Aprovação de garantia ao pagamento de obrigações assumidas pela Manaus Ambiental S.A.",
+      "protocolo": "1594288",
+      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1594288",
+      "empresa_label": "Aegea",
+      "codigo_cvm": "23396",
+      "first_seen": "2026-11-27T11:31:07.686151"
+    },
     {
       "cnpj_short": "02025-7",
       "empresa_nome": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
