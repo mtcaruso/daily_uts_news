@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T13:12:45.506609-03:00",
+  "last_updated": "2026-11-27T13:43:10.663829-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -5239,7 +5239,7 @@
       "source": "",
       "added_at": "2026-11-27T10:34:14.328498-03:00",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVThtVE4xcXF3RE9mRzR2eVJPN2ZBVDlmVlBSZ3BGY3dZaDQ1aGk5TTVzd19lRS1FOWlrNEQzZjg3UEpCS0t3RkVSdjQ5MTctQ3c3QzlhdUZuWk9DaDNwQ2N4a3VHYlZJTFNDWnZNNURzMFZDem5VcUVELXhnbGhJX0VPQmZqRzlEWEV2cTVTUF8yanNzU2dYMzhHWHhJSkpKZV9lWjJJZUtqM2JfdzNmVVAxQVh1UFFsa1I2aVVYVlVMUklvcmk0?oc=5": {
       "title": "Painel S.A.: Tributária, 6x1 e tarifaço impulsionam salário de lobistas no Brasil - Folha de S.Paulo",
@@ -5362,6 +5362,28 @@
       "summary": "A **ABEEólica** rebateu acusações sobre o rateio do ERCAP, defendendo que a alteração proposta apenas encarece a fatura do usuário final ao colocar geradores como intermediários no pagamento do encargo. A entidade argumenta que a mudança não trará benefícios reais para o consumidor.",
       "source": "",
       "added_at": "2026-11-27T13:12:45.498633-03:00"
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWRmRE9WR1U0YndtcEY3UGlRcUZJMUFDWHdnTHdsOVpVVGRYRm9pS1V1YXQ1a1lPSExadTFGbTBJTi1sNjlFdWxyS3FQQXcyRm1MdHlNeW9GcUcxOURNUjBXLUlrbFJMZ2lTMzJyQmItaHVfWS1oNVp2c2tkUDBsdG5pTDd6RURfcExLN1lGZFMzMFMzc2phY0dablF4aTAxV19uM0pXQzJwRUk4bUZXbDFpTjVXbEZjSThVM1Bpb0JpM25YTFFJdVBwTWtjSkxVcGtZbktsOXhPRnJacHl2STZjTV9yN3R0VExz?oc=5": {
+      "title": "Apesar de tombo pela manhã, Bolsas de NY fecham em direção única com techs e tarifas - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-27T13:43:03.210275-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXJOVnhKY0pLV3p0VWtXQlV2MVBzT0ZBZTJVVThhVW92dG4xS3d1OTlLMUpKNlR5YklkeTJZVmhRNlU0UDhVZUFVR1pneVlwNlhseVlQVEY2OWZEb1ZRSkR4a1ZnUHBfNTNkdVRhVGswSF80WVo1QWk2WFYtWjRrR3hpcTY2YVhqbDVLcnEzOTkzTDJqa21zOUQ5YXVHNWhSUFpMWVhrWQ?oc=5": {
+      "title": "Reservatórios do Nordeste operam com 59,6% da capacidade - CanalEnergia",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-27T13:43:06.092160-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSEFWUHhOTFY5NlVKWThpc3hfNVBLeU91bGVBcWpFa3JJRnpsZHE1SkRwZ19GblVhcmFTODA4VjdZd2pZOHB6UGo3WFd0VDFFR1MxVjJNR0pyV1pXTTdlV1pSczUzRWIzcTlhakUxSFhaNU54MjhTX0tfNmk1OWhrZG82cXQ0NTBJaFdpd2QwVzU1eG1JVjM3bVg2M1FjcGFsaWhiZlExQkpiTkpYRnFIUmhWYkNkSWdjQk56YmFjTnJhMFlaWC1n?oc=5": {
+      "title": "Nunes diz que enfeites de Natal de postes serão trocados; 'Também não gostei' - Folha de S.Paulo",
+      "summary": "O prefeito de São Paulo, Ricardo Nunes, anunciou a troca dos enfeites de Natal dos postes, que foram criticados pela estética. A substituição será feita pelos adornos do ano anterior sem custo adicional, pois está prevista no contrato de concessão com a **Ilumina SP**.",
+      "source": "",
+      "added_at": "2026-11-27T13:43:10.654846-03:00"
     }
   }
 }
