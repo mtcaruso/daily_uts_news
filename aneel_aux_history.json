@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T16:31:46.746278-03:00",
+  "last_updated": "2026-11-26T23:47:11.054640-03:00",
   "items": {
     "partic_mme_cp_222": {
       "type": "partic_mme_cp",
@@ -2250,6 +2250,30 @@
       "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/aneel-celebra-seus-30-anos-de-trajetoria-institucional-e-projeta-desafios-do-futuro-do-setor-eletrico",
       "summary": "A **ANEEL** celebrou seus **30 anos** em Brasília, reunindo autoridades e representantes do setor elétrico. O evento destacou a consolidação da Agência, que garantiu **99,8%** de acesso à eletricidade no Brasil, e projetou os desafios futuros.",
       "added_at": "2026-11-26T07:59:16.316575-03:00"
+    },
+    "noticia_2026_aneel-reconhece-atuacoes-de-destaque-dos-conselhos-de-consumidores-de-energia-eletrica": {
+      "type": "noticia",
+      "title": "ANEEL reconhece atuações de destaque dos Conselhos de Consumidores de Energia Elétrica",
+      "date": "26/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-reconhece-atuacoes-de-destaque-dos-conselhos-de-consumidores-de-energia-eletrica",
+      "summary": "A **ANEEL** premiou os Conselhos de Consumidores de Energia Elétrica com destaque em 2025, reconhecendo a atuação de empresas como **Equatorial Pará**, **Enel Rio**, **Energisa Rondônia**, **Energisa Minas Rio** e **DMED**. A cerimônia ocorreu em Natal (RN) em 26 de outubro de 2026.",
+      "added_at": "2026-11-26T23:47:00.452676-03:00"
+    },
+    "noticia_2026_aneel-monitora-restabelecimento-do-fornecimento-de-energia-em-tupancireta-rs": {
+      "type": "noticia",
+      "title": "ANEEL monitora restabelecimento do fornecimento de energia em Tupanciretã (RS)",
+      "date": "26/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-monitora-restabelecimento-do-fornecimento-de-energia-em-tupancireta-rs",
+      "summary": "A **ANEEL** acompanha o restabelecimento do fornecimento de energia em Tupanciretã (RS) pela **distribuidora**, que mobilizou mais de mil colaboradores e reconstruiu 44 km de rede em uma semana. Dez torres de transmissão de 69 kV foram recuperadas em 24 horas.",
+      "added_at": "2026-11-26T23:47:05.445414-03:00"
+    },
+    "noticia_2026_audiencia-publica-discute-prioridades-na-aplicacao-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel": {
+      "type": "noticia",
+      "title": "Audiência pública discute prioridades na aplicação do 6º Plano Anual de Aplicação de Recursos do Procel",
+      "date": "26/11/2026",
+      "link": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/audiencia-publica-discute-prioridades-na-aplicacao-do-6o-plano-anual-de-aplicacao-de-recursos-do-procel",
+      "summary": "A **ANEEL** discutiu o 6º Plano Anual de Aplicação de Recursos do Procel, com foco em priorizar projetos mais maduros para reduzir o tempo de execução. O plano prevê um orçamento de **R$ 279,99 milhões** para o ciclo **2026/2027**, com **R$ 217,97 milhões** destinados a projetos finalísticos e ações transversais.",
+      "added_at": "2026-11-26T23:47:10.554369-03:00"
     }
   }
 }
