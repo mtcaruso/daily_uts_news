@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:04:06.487942-03:00",
+  "last_updated": "2026-11-27T08:12:58.333539-03:00",
   "items": {
     "portarias_portaria-mme-n-1-2026": {
       "category": "portarias",
@@ -5866,6 +5866,34 @@
       "summary": "Designa **GABRIEL BARBOSA BORGES** como substituto do Coordenador-Geral de Planejamento Mineral.",
       "added_at": "2026-11-26T08:09:14.165488-03:00",
       "summarized_at": "2026-11-26T08:11:12.449556-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-181-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-181-2026",
+      "title": "Portaria MME nº 181/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-181-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-181-2026.pdf",
+      "date_modified": "27/11/2026",
+      "ementa": "Dispensa WILSON RODRIGUES DE MELO JUNIOR, matrícula SIAPE nº 3663923, do encargo de substituto eventual do Diretor do Departamento de Desempenho da Operação do Sistema Elétrico da Secretaria Nacional de Energia Elétrica, código FCE 1.15, a partir de 17 de novembro de 2026.",
+      "summary": "Dispensa **WILSON RODRIGUES DE MELO JUNIOR** do encargo de substituto eventual do Diretor do Departamento de Desempenho da Operação do Sistema Elétrico, a partir de **17/11/2026**.",
+      "added_at": "2026-11-27T08:12:41.943734-03:00",
+      "summarized_at": "2026-11-27T08:12:52.969969-03:00",
+      "notify_skipped": "pessoal"
+    },
+    "portarias_portaria-mme-n-182-2026": {
+      "category": "portarias",
+      "label": "Portaria MME",
+      "slug": "portaria-mme-n-182-2026",
+      "title": "Portaria MME nº 182/2026",
+      "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-182-2026.pdf/view",
+      "pdf_url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/portarias/2026/portaria-mme-n-182-2026.pdf",
+      "date_modified": "27/11/2026",
+      "ementa": "Designa WEIBSON GUSTAVO DE SOUZA GOMES, matrícula SIAPE nº 3374712, para exercer o encargo de substituto do Diretor do Departamento de Desempenho da Operação do Sistema Elétrico da Secretaria Nacional de Energia Elétrica, código FCE 1.15, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância da função.",
+      "summary": "Designa **WEIBSON GUSTAVO DE SOUZA GOMES** como substituto do Diretor do Departamento de Desempenho da Operação do Sistema Elétrico.",
+      "added_at": "2026-11-27T08:12:41.943734-03:00",
+      "summarized_at": "2026-11-27T08:12:57.829467-03:00",
       "notify_skipped": "pessoal"
     }
   },
