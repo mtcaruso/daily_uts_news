@@ -1,23 +1,23 @@
 {
- "gerado_em": "2026-11-26T23:48:55-03:00",
+ "gerado_em": "2026-11-27T00:04:21-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-26T23:48:55-03:00",
+   "lido_em": "2026-11-27T00:04:21-03:00",
    "listagem_pc": "2026-11-26T23:47:11.054640-03:00",
    "erro": "ANEEL · DOU Seção 3: busca do DOU de 25/11: 502 Server Error: Bad Gateway for url: https://www.in.gov; ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-26T23:48:55-03:00"
+   "lido_em": "2026-11-27T00:04:21-03:00"
   },
   "ARSESP": {
    "ok": true,
-   "lido_em": "2026-11-26T23:48:55-03:00"
+   "lido_em": "2026-11-27T00:04:21-03:00"
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-26T23:48:55-03:00"
+   "lido_em": "2026-11-27T00:04:21-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -31,7 +31,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-26T23:48:55-03:00"
+   "lido_em": "2026-11-27T00:04:21-03:00"
   },
   "TCU": {
    "ok": true,
@@ -728,7 +728,7 @@
    "tema": "Receber contribuições sobre a proposta do Sexto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica - 6º PAR Procel Atenção: a Audiência Pública nº 009/2026 acontecerá online.",
    "inicio": "2026-11-26",
    "fim": "2026-11-26",
-   "situacao": "aberta",
+   "situacao": "encerrada",
    "setor": "energia",
    "link": "https://antigo.aneel.gov.br/audiencias-publicas",
    "docs": [],
