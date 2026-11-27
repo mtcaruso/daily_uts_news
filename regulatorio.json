@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-11-27T03:59:46-03:00",
+ "gerado_em": "2026-11-27T04:16:09-03:00",
  "fontes": {
   "ANEEL": {
    "ok": false,
-   "lido_em": "2026-11-27T03:59:46-03:00",
+   "lido_em": "2026-11-27T04:16:09-03:00",
    "listagem_pc": "2026-11-26T23:47:11.054640-03:00",
    "erro": "ANEEL · DOU Seção 3: busca do DOU de 25/11: 502 Server Error: Bad Gateway for url: https://www.in.gov; ANEEL · notícias: lista de notícias vazia (gov.br fora ou layout mudou?)"
   },
   "MME": {
    "ok": true,
-   "lido_em": "2026-11-27T03:59:46-03:00"
+   "lido_em": "2026-11-27T04:16:09-03:00"
   },
   "ARSESP": {
    "ok": false,
@@ -19,7 +19,7 @@
   },
   "ARSAE": {
    "ok": true,
-   "lido_em": "2026-11-27T03:59:46-03:00"
+   "lido_em": "2026-11-27T04:16:09-03:00"
   },
   "Pauta ANEEL": {
    "ok": false,
@@ -33,7 +33,7 @@
   },
   "Projetos MME": {
    "ok": true,
-   "lido_em": "2026-11-27T03:59:46-03:00"
+   "lido_em": "2026-11-27T04:16:09-03:00"
   },
   "TCU": {
    "ok": true,
