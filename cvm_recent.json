@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T23:49:21.137267-03:00",
+  "last_updated": "2026-11-28T07:59:33.361492-03:00",
   "items": [
     {
       "cnpj_short": "00243-7",
@@ -6048,42 +6048,6 @@
       "empresa_label": "Eletrobras",
       "codigo_cvm": "2437",
       "first_seen": "2026-10-29T23:40:27.036666"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Reunião da Administração",
-      "tipo": "Conselho de Administração",
-      "especie": "Assunção, pela Companhia, de determinadas obrigações de aporte de capital na Águas do Rio Investimentos S.A.Ata",
-      "data_referencia": "20261028 28/10/2026 17:30",
-      "data_entrega": "20261028 28/10/2026 22:59",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Assunção, pela Companhia, de determinadas obrigações de aporte de capital na Águas do Rio Investimentos S.A.",
-      "protocolo": "1581361",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1581361",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-10-29T07:17:20.318434"
-    },
-    {
-      "cnpj_short": "02339-6",
-      "empresa_nome": "AEGEA SANEAMENTO PARTICIPAÇÕES S.A.",
-      "categoria": "Assembleia",
-      "tipo": "AGE",
-      "especie": "Outorga de Procurações pela Companhia.Ata",
-      "data_referencia": "20261028 28/10/2026 17:00",
-      "data_entrega": "20261028 28/10/2026 22:54",
-      "status": "Ativo",
-      "versao": "1",
-      "modalidade": "AP",
-      "assunto": "Outorga de Procurações pela Companhia.",
-      "protocolo": "1581360",
-      "link_pdf": "https://www.rad.cvm.gov.br/ENET/frmExibirArquivoIPEExterno.aspx?NumeroProtocoloEntrega=1581360",
-      "empresa_label": "Aegea",
-      "codigo_cvm": "23396",
-      "first_seen": "2026-10-29T07:17:20.318422"
     }
   ]
 }
