@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T12:17:52.987377-03:00",
+  "last_updated": "2026-11-28T12:48:17.169692-03:00",
   "items": {
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnFicU5TSE1lRHBOdEhyZHpHaFN5eUpkMDlzRDUxdDAxNjN3aEtxNlY3bVU2NDZKRGFIMW81bTNzMjROWDZmQi1hSkxYUGVRN2pnb3ZCNFk1Rzk3R2wyeU1CUEJLeEI1eS0xVGJwZ0dxcEY1M2djY3FCczRISnlYeFJfV1ZJY0d4ZUo1X01Ca252djVFazltYUY3WVcyMzVybkMycVpweG1LTDV3ZmZjd2xyOFdtbkxjY0hPVUpKTURUUdIB0AFBVV95cUxQYUo3Vk5IYTFGcXNwak1kdmFDaWZ4eGh5ZjFJZVhOMklvQmNPc3lMUV94a3VEU1dWaDRrcW0za1U2MUZMbjB0VjFvSnB0NXNnTmQyTlMySU9RX2pKZGRkbXJPekhDai1MVzdsTWt3ZDg3ZG53NnFJNWd0RkRpaHB5Mk9ELTBRWEdJZFFUdXBJdWRVUUZxZWs5RHNVM3BZcWdNaGNqaFRERG84dExPUzROVDJFWFdoMC1sc1hqQnRBZHBHeldsZ0lIUEJlVUpqeUt2?oc=5": {
       "title": "Copel aprova R$ 21,1 bi em investimentos para o ciclo de 2027 a 2030 - Valor Econômico",
@@ -5787,7 +5787,7 @@
       "source": "",
       "added_at": "2026-11-28T08:32:55.141682-03:00",
       "error": "no_article",
-      "attempts": 4
+      "attempts": 5
     },
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXBVUUtnVy0wc2liNFhvcnBWZ2NnNkhpdkRqRkpzaEt4MXZ5RmJGTkF6YmFoNy1uNHJiaFlUcVczNzkyNW5USkd3eGxaOHdzZHJ0U05oUWJmdUMzUXhNaktBVEpQS09JcW91VXZ4dTFxYkVxOGdPZkp1TFJkSUlzb2FKOHZfLXdibnJHRU00YS1PV1J4R0xBdGM4Y214TTVMeTl3cmw3SW9WWGk1VGFJ0gG0AUFVX3lxTFA5bENCUUp0dWtHbnh6Ry1lTmx0Rldqc3Z3RkJUOG9ndk9nX3VXRzFVWXlhZEY3R2pWaUFzOENxQTE5X3RPaVh2aUdUYkZZeUJ5OWw2RW9oRmxRTmpISktqVXFsdEhVaDNUY1J0Y3hGNkloaDBnZEdyWmxYLUJUelBmN3kycVhObTIwdWRrV1hsQ253aTVELW1sNVA5UkVxQ2ttVC1NS1l3RnV1OXR6UXZoOXJ3eg?oc=5": {
       "title": "Linha 17-Ouro do Metrô de SP é totalmente paralisada após falha elétrica - Estadão",
@@ -5809,7 +5809,7 @@
       "source": "",
       "added_at": "2026-11-28T09:33:48.254796-03:00",
       "error": "no_article",
-      "attempts": 7
+      "attempts": 8
     },
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjJCc0NKOWd2Ymw1cXFBNkUzLW1fUzFOUXpENDhtLW9XbjdTLVUzVHZSRUdyb3FtcnBfanhLVFMzZzUxOERwbXBWbUpDS1NDZ1lQVFltbzJLcXluY0pta0FtV09iM0F3ajJteHhvenFmTld1c2h1ZWx6UFl4M0JvYURrdEZhck9Zdks3R1QzLWY0eVVtTWl5SFlWZHNCZFpZbFRXdnZUX18wcHFNa183S3k5OFZkM0x0NHhhMTg2cEkzLXNqWVNfMTM1OUlqR1FjVHZEa0U5QTNaeUYzVEdRalV30gHnAUFVX3lxTFBfZjlBMldSTEE5aC1Za2JpRDNvdmV0ZlpWQlNTZmRxS1FOSDcweFBpaUl3Sk1mcE5iYTJpSmNyNms4RDBmQk8xcDNjNl9fUEhKUWU3VmpzaDRSQkFxTDBZXzU3b2JsVTBEVWwyQVV1M3hSX0F3NG5GTUgyRFBNVTBBLUU4Yl9NWW5jMENETlRGZlAxV0lGUF9ET08zZFJDUnMteEFhN1FTTTYyelJuY1d1QUJuaExlUjEwOWF3TGpYcFRBWnVuZFdvanZTZGszMUl3dGRhb25SWXhLR0Z4enY3RGI2S040VQ?oc=5": {
       "title": "BYD mira Rolls-Royce com sedã de 1.000 km de autonomia e apresenta minivan elétrica - Estadão",
@@ -5836,6 +5836,20 @@
       "added_at": "2026-11-28T11:47:21.382281-03:00",
       "error": "no_article",
       "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzN0UHJLWElKZnlxdzVSUEhMa0lsSkJNN0EtZk5BUzBHUG9tdjk2WEVxa3NQbGFCb0lTQ1d0dnNJSXhSRXpIMDJqYm9CQlFucUs0UTkwdzh1c3lhRUduYWFyY2lROXg5c1ltaEpGYjZoOFBOcnBDYldMSGF4MjVvZ0otMVkwbG9zVXdwVkpybkw5N2JLQndMNzlrSEZGdENnMTVDbGh3MVFweDJkNF9iV1FfNTctT21uZnFBWXNrZjB0Q1MxS2FwR3NTcnRPdU0xYVE?oc=5": {
+      "title": "Bolsas da Europa hoje disparam com alívio tarifário dos EUA; montadoras lideram ganhos - Estadão",
+      "summary": null,
+      "source": "",
+      "added_at": "2026-11-28T12:48:12.668320-03:00",
+      "error": "no_article",
+      "attempts": 1
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2tHemtVQVdHcDdRUG1NRmZWOUFuRF9JZlZ3OGdUdFRJcUtWdmQxRUhMZnltcVMzS0NqdzJaZGNuLUNXdFBQNDVqNl9UNExBZ3VYZkRkZXR5OE1VVmwwWDVNbHBSV0FHYjgyZXo0cm1kUF9UWEx6dXpqX2I3SkVBd21BZHlvWWZpbjJmdXUtRGE1WHV6c2hyVUctaXFiYlkzTmRoZElOUWczbVZEXzlDS3ZpaXVITndk0gG-AUFVX3lxTFBjd2NQVEdPbmFGNkxOXzdSRXBzcFB3Q0thYl9icERhSGFNdm0yRGdtM2p4a1VhdHVfcHNvR1lGMjNvZDdLbUczSVE5T1d4NkNNUGhLT2ZFTXowM2FMX2dwSUVtdDk5eWNwdk5UZmxndUNMZVdhcjJjeGsxa2RkM2VVdlRPOEpDOFl0Y2VFb2NzMWxGV2w3WUs5V1VBaTZHamxQVXN5bnE5eWpGM3FjeVFJRktzVGhESmNudmR5aEE?oc=5": {
+      "title": "IA será como a eletricidade, mas a transição no emprego será dolorosa, diz David Feffer, da Suzano - Estadão",
+      "summary": "O presidente do conselho da **Suzano**, David Feffer, compara a **Inteligência Artificial (IA)** à eletricidade, prevendo uma transformação rápida e profunda nos negócios e na sociedade. Ele destaca que a **Suzano** já aplica IA em seus processos produtivos e logísticos para aumentar eficiência, mas alerta para o impacto social da substituição de empregos, ressaltando a necessidade de investimento em educação e formação de especialistas no Brasil.",
+      "source": "",
+      "added_at": "2026-11-28T12:48:17.159932-03:00"
     }
   }
 }
